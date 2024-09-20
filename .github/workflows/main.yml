@@ -27,11 +27,10 @@ jobs:
       - name: Fetch Bearer Token
         id: get_token
         run: |
-          # Fetch Bearer Token from Spotify
+          # Fetch access from Spotify
           token_response=$(curl -s 'https://open.spotify.com/get_access_token' \
             -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
             -H 'accept-language: en-US,en;q=0.9' \
-            -H 'cookie: sp_t=fc136007eff0765f859a83454642d3f3' \
             -H 'priority: u=0, i' \
             -H 'sec-ch-ua: "Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"' \
             -H 'sec-ch-ua-mobile: ?0' \
@@ -42,6 +41,9 @@ jobs:
             -H 'sec-fetch-user: ?1' \
             -H 'upgrade-insecure-requests: 1' \
             -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36')
+
+          # Debug: Print the raw token response
+          echo "Token Response: $token_response"
 
           # Extract the access token using jq
           access_token=$(echo "$token_response" | jq -r '.accessToken')
