@@ -42,9 +42,6 @@ jobs:
             -H 'upgrade-insecure-requests: 1' \
             -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36')
 
-          # Debug: Print the raw token response
-          echo "Token Response: $token_response"
-
           # Extract the access token using jq
           access_token=$(echo "$token_response" | jq -r '.accessToken')
 
@@ -54,9 +51,12 @@ jobs:
       - name: Fetch Spotify Artist Data
         run: |
           mkdir -p artist  # Create the artist directory
-
+          
+          # Ensure we have the correct line endings and format for the file
+          dos2unix artist_ids.txt
+          
           # Read each artist ID from artist_ids.txt
-          while IFS= read -r artist_id; do
+          while IFS= read -r artist_id || [[ -n "$artist_id" ]]; do
             # Define parameters and encode them
             operationName="queryArtistOverview"
             variables=$(jq -nc --arg id "spotify:artist:$artist_id" \
@@ -88,7 +88,7 @@ jobs:
 
             # Extract artist name and stats using jq
             artist_name=$(echo "$response" | jq -r '.data.artistUnion.profile.name' | tr ' ' '_')
-            artist_stats=$(echo "$response" | jq -r '.data')
+            artist_stats=$(echo "$response" | jq -r '.data.artistUnion.stats')
 
             # Save the stats to a file named after the artist
             echo "$artist_stats" > "artist/${artist_name}.json"
