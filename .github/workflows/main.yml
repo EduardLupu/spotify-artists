@@ -52,9 +52,6 @@ jobs:
         run: |
           mkdir -p artist  # Create the artist directory
           
-          # Ensure we have the correct line endings and format for the file
-          dos2unix artist_ids.txt
-          
           # Read each artist ID from artist_ids.txt
           while IFS= read -r artist_id || [[ -n "$artist_id" ]]; do
             # Define parameters and encode them
