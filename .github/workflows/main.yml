@@ -24,7 +24,7 @@ jobs:
       - name: Install jq
         run: sudo apt-get install jq
 
-      - name: Fetch Bearer Token
+      - name: Fetch Anonymous Bearer Token
         id: get_token
         run: |
           # Fetch access from Spotify
