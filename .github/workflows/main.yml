@@ -84,7 +84,7 @@ jobs:
               -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36')
 
             # Extract artist name and stats using jq
-            artist_name=$(echo "$response" | jq -r '.data.artistUnion.profile.name' | tr ' ' '_')
+            artist_name=$(echo "$response" | jq -r '.data.artistUnion.profile.name' | tr -c '[:alnum:]_' '_')
             artist_stats=$(echo "$response" | jq -r '.data.artistUnion.stats')
 
             # Save the stats to a file named after the artist
