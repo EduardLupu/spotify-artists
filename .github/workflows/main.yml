@@ -18,7 +18,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
         with:
-          persist-credentials: false  # Disable auto-persisting GitHub token
+          persist-credentials: true
           fetch-depth: 0  # Fetch all history for accurate change tracking
 
       - name: Install jq
@@ -97,9 +97,9 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@users.noreply.github.com"
-          git add -A  # Add all changes (new JSON files)
+          git add -A
           timestamp=$(date -u)
           git commit -m "Latest data: ${timestamp}" || exit 0
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub's token for authentication
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
