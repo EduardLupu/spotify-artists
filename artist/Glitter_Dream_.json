@@ -1,0 +1,39 @@
+{
+  "followers": 301,
+  "monthlyListeners": 255204,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 5307,
+        "region": "JK"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 4997,
+        "region": "00"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 3631,
+        "region": "RM"
+      },
+      {
+        "city": "Cebu City",
+        "country": "PH",
+        "numberOfListeners": 3300,
+        "region": "07"
+      },
+      {
+        "city": "Davao City",
+        "country": "PH",
+        "numberOfListeners": 3025,
+        "region": "11"
+      }
+    ]
+  },
+  "worldRank": 0
+}

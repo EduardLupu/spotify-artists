@@ -1,0 +1,39 @@
+{
+  "followers": 52647,
+  "monthlyListeners": 2459089,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 35339,
+        "region": "NH"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 30691,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 30075,
+        "region": "NSW"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 28804,
+        "region": "25"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 28158,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

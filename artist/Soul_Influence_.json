@@ -1,0 +1,39 @@
+{
+  "followers": 7097,
+  "monthlyListeners": 9955,
+  "topCities": {
+    "items": [
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 1354,
+        "region": "GP"
+      },
+      {
+        "city": "Lusaka",
+        "country": "ZM",
+        "numberOfListeners": 1039,
+        "region": "09"
+      },
+      {
+        "city": "Nairobi",
+        "country": "KE",
+        "numberOfListeners": 1005,
+        "region": "30"
+      },
+      {
+        "city": "Harare",
+        "country": "ZW",
+        "numberOfListeners": 704,
+        "region": "HA"
+      },
+      {
+        "city": "Cape Town",
+        "country": "ZA",
+        "numberOfListeners": 664,
+        "region": "WC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

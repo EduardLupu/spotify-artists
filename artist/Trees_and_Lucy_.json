@@ -1,0 +1,39 @@
+{
+  "followers": 10234,
+  "monthlyListeners": 42573,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 588,
+        "region": "LMA"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 539,
+        "region": "SP"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 510,
+        "region": "JK"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 480,
+        "region": "13"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 459,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,39 @@
+{
+  "followers": 4340,
+  "monthlyListeners": 32905,
+  "topCities": {
+    "items": [
+      {
+        "city": "Kyiv",
+        "country": "UA",
+        "numberOfListeners": 2023,
+        "region": "30"
+      },
+      {
+        "city": "Minsk",
+        "country": "BY",
+        "numberOfListeners": 1707,
+        "region": "HM"
+      },
+      {
+        "city": "Dnipro",
+        "country": "UA",
+        "numberOfListeners": 975,
+        "region": "12"
+      },
+      {
+        "city": "Kharkiv",
+        "country": "UA",
+        "numberOfListeners": 549,
+        "region": "63"
+      },
+      {
+        "city": "Almaty",
+        "country": "KZ",
+        "numberOfListeners": 539,
+        "region": "75"
+      }
+    ]
+  },
+  "worldRank": 0
+}

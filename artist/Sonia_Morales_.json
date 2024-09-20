@@ -1,0 +1,39 @@
+{
+  "followers": 861,
+  "monthlyListeners": 12409,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 7262,
+        "region": "LMA"
+      },
+      {
+        "city": "Trujillo",
+        "country": "PE",
+        "numberOfListeners": 972,
+        "region": "LAL"
+      },
+      {
+        "city": "Arequipa",
+        "country": "PE",
+        "numberOfListeners": 678,
+        "region": "ARE"
+      },
+      {
+        "city": "Cusco",
+        "country": "PE",
+        "numberOfListeners": 278,
+        "region": "CUS"
+      },
+      {
+        "city": "Chimbote",
+        "country": "PE",
+        "numberOfListeners": 226,
+        "region": "ANC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

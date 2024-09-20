@@ -1,0 +1,39 @@
+{
+  "followers": 276520,
+  "monthlyListeners": 668805,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 10802,
+        "region": "13"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 9137,
+        "region": "NY"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 7776,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 7209,
+        "region": "ENG"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 6325,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

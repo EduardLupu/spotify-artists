@@ -1,0 +1,39 @@
+{
+  "followers": 240806,
+  "monthlyListeners": 223198,
+  "topCities": {
+    "items": [
+      {
+        "city": "Athens",
+        "country": "GR",
+        "numberOfListeners": 126905,
+        "region": "I"
+      },
+      {
+        "city": "Thessaloniki",
+        "country": "GR",
+        "numberOfListeners": 43857,
+        "region": "B"
+      },
+      {
+        "city": "Pátrai",
+        "country": "GR",
+        "numberOfListeners": 6025,
+        "region": "G"
+      },
+      {
+        "city": "Nicosia",
+        "country": "CY",
+        "numberOfListeners": 4509,
+        "region": "01"
+      },
+      {
+        "city": "Larissa",
+        "country": "GR",
+        "numberOfListeners": 4400,
+        "region": "E"
+      }
+    ]
+  },
+  "worldRank": 0
+}

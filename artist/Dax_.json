@@ -1,0 +1,39 @@
+{
+  "followers": 1653065,
+  "monthlyListeners": 3128803,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 43759,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 42924,
+        "region": "IL"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 41905,
+        "region": "ON"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 39294,
+        "region": "QLD"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 39021,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

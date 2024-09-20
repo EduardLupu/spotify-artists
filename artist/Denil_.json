@@ -1,0 +1,39 @@
+{
+  "followers": 7177,
+  "monthlyListeners": 45734,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 4365,
+        "region": "LMA"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 2036,
+        "region": "GU"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1521,
+        "region": "DC"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 1331,
+        "region": "01"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1167,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

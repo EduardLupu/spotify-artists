@@ -1,0 +1,39 @@
+{
+  "followers": 66101,
+  "monthlyListeners": 178619,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 2861,
+        "region": "IDF"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 2516,
+        "region": "IL"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 2371,
+        "region": "WA"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 2220,
+        "region": "QC"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 1940,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,39 @@
+{
+  "followers": 2290762,
+  "monthlyListeners": 3239952,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 38905,
+        "region": "JK"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 33497,
+        "region": "IDF"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 32325,
+        "region": "CMX"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 24768,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 23600,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

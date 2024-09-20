@@ -1,0 +1,39 @@
+{
+  "followers": 20257,
+  "monthlyListeners": 179148,
+  "topCities": {
+    "items": [
+      {
+        "city": "Monterrey",
+        "country": "MX",
+        "numberOfListeners": 18944,
+        "region": "NLE"
+      },
+      {
+        "city": "Saltillo",
+        "country": "MX",
+        "numberOfListeners": 10110,
+        "region": "COA"
+      },
+      {
+        "city": "San Nicolás de los Garza",
+        "country": "MX",
+        "numberOfListeners": 8562,
+        "region": "NLE"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 8238,
+        "region": "C"
+      },
+      {
+        "city": "Torreón",
+        "country": "MX",
+        "numberOfListeners": 7145,
+        "region": "COA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,39 @@
+{
+  "followers": 28,
+  "monthlyListeners": 100,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 68,
+        "region": "L"
+      },
+      {
+        "city": "Vancouver",
+        "country": "CA",
+        "numberOfListeners": 2,
+        "region": "BC"
+      },
+      {
+        "city": "Münster",
+        "country": "DE",
+        "numberOfListeners": 2,
+        "region": "NW"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 2,
+        "region": "NSW"
+      },
+      {
+        "city": "Cork",
+        "country": "IE",
+        "numberOfListeners": 2,
+        "region": "M"
+      }
+    ]
+  },
+  "worldRank": 0
+}

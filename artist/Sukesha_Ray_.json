@@ -1,0 +1,39 @@
+{
+  "followers": 2284,
+  "monthlyListeners": 13289,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 1071,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 915,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 727,
+        "region": "IL"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 718,
+        "region": "WA"
+      },
+      {
+        "city": "Sarver",
+        "country": "US",
+        "numberOfListeners": 618,
+        "region": "PA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

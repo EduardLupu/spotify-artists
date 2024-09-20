@@ -1,0 +1,39 @@
+{
+  "followers": 152,
+  "monthlyListeners": 169,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 13,
+        "region": "DC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 4,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 3,
+        "region": "VIC"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 3,
+        "region": "ANT"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

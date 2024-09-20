@@ -1,0 +1,39 @@
+{
+  "followers": 2631,
+  "monthlyListeners": 8645,
+  "topCities": {
+    "items": [
+      {
+        "city": "New Orleans",
+        "country": "US",
+        "numberOfListeners": 542,
+        "region": "LA"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 490,
+        "region": "TX"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 259,
+        "region": "TX"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 257,
+        "region": "GA"
+      },
+      {
+        "city": "Baton Rouge",
+        "country": "US",
+        "numberOfListeners": 187,
+        "region": "LA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

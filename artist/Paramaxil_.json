@@ -1,0 +1,39 @@
+{
+  "followers": 920,
+  "monthlyListeners": 8941,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 2021,
+        "region": "14"
+      },
+      {
+        "city": "Krakow",
+        "country": "PL",
+        "numberOfListeners": 630,
+        "region": "12"
+      },
+      {
+        "city": "Poznan",
+        "country": "PL",
+        "numberOfListeners": 605,
+        "region": "30"
+      },
+      {
+        "city": "Wroclaw",
+        "country": "PL",
+        "numberOfListeners": 548,
+        "region": "02"
+      },
+      {
+        "city": "Katowice",
+        "country": "PL",
+        "numberOfListeners": 535,
+        "region": "24"
+      }
+    ]
+  },
+  "worldRank": 0
+}

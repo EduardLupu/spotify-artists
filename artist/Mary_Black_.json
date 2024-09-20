@@ -1,0 +1,39 @@
+{
+  "followers": 54096,
+  "monthlyListeners": 216665,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 38364,
+        "region": "L"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 4705,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 3791,
+        "region": "NH"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 3397,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 3058,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

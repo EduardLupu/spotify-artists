@@ -1,0 +1,39 @@
+{
+  "followers": 9380,
+  "monthlyListeners": 4574,
+  "topCities": {
+    "items": [
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 1356,
+        "region": "WB"
+      },
+      {
+        "city": "Dhaka",
+        "country": "BD",
+        "numberOfListeners": 585,
+        "region": "C"
+      },
+      {
+        "city": "Guwahati",
+        "country": "IN",
+        "numberOfListeners": 339,
+        "region": "AS"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 153,
+        "region": "KA"
+      },
+      {
+        "city": "Siliguri",
+        "country": "IN",
+        "numberOfListeners": 114,
+        "region": "WB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

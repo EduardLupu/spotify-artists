@@ -1,0 +1,39 @@
+{
+  "followers": 300210,
+  "monthlyListeners": 613071,
+  "topCities": {
+    "items": [
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 20283,
+        "region": "NY"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 17871,
+        "region": "NY"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 13636,
+        "region": "ON"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 10118,
+        "region": "PA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 9806,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

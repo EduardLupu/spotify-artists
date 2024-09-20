@@ -1,0 +1,39 @@
+{
+  "followers": 1474,
+  "monthlyListeners": 20806,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bratislava",
+        "country": "SK",
+        "numberOfListeners": 267,
+        "region": "BL"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 202,
+        "region": "14"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 200,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 197,
+        "region": "SP"
+      },
+      {
+        "city": "Kyiv",
+        "country": "UA",
+        "numberOfListeners": 173,
+        "region": "30"
+      }
+    ]
+  },
+  "worldRank": 0
+}
