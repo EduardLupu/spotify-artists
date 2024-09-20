@@ -1,6 +1,10 @@
 name: Get Spotify Artists Data
 
 on:
+  push:
+    branches: [ main ]
+  pull_request:
+      branches: [ main ]
   schedule:
     # Run at 10 PM UTC every day
     - cron: '0 22 * * *'
@@ -85,7 +89,7 @@ jobs:
             artist_stats=$(echo "$response" | jq -r '.data')
 
             # Save the stats to a file named after the artist
-            echo "$artist_stats" > "artists/${artist_name}.json"
+            echo "$artist_stats" > "artist/${artist_name}.json"
 
           done < artist_ids.txt
 
