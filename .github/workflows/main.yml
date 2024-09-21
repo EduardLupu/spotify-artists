@@ -84,12 +84,12 @@ jobs:
               -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36')
 
             artist_name=$(echo "$response" | jq -r '.data.artistUnion.profile.name')
-            artist_name_filename=$(echo "$response" | jq -r '.data.artistUnion.profile.name' | sed 's/[#%&{}\\<>*/?$!'"'"'":@+`|= ]/_/g')
+            artist_name_filename=$(echo "$response" | jq -r '.data.artistUnion.profile.name' | sed 's/[#%&{}\\<>*/?$!'"'"'":@+`|= ]/_/g')_${artist_id}
             artist_stats=$(echo "$response" | jq -r '.data.artistUnion.stats')
             artist_json=$(jq -n --arg id "$artist_id" --arg name "$artist_name" --argjson stats "$artist_stats" '{id: $id, name: $name} + $stats')
 
             # Save the stats to a file named after the artist
-            echo "$artist_stats" > "artists/${artist_name_filename}.json"
+            echo "$artist_json" > "artists/${artist_name_filename}.json"
           
 
           done < artist_ids.txt
