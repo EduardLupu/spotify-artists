@@ -1,0 +1,39 @@
+{
+  "followers": 5751,
+  "monthlyListeners": 3732,
+  "topCities": {
+    "items": [
+      {
+        "city": "Athens",
+        "country": "GR",
+        "numberOfListeners": 128,
+        "region": "I"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 72,
+        "region": "18"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 49,
+        "region": "BE"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 48,
+        "region": "PA"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 44,
+        "region": "AB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

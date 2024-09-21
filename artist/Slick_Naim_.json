@@ -1,0 +1,39 @@
+{
+  "followers": 1890,
+  "monthlyListeners": 8120,
+  "topCities": {
+    "items": [
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 101,
+        "region": "QC"
+      },
+      {
+        "city": "Falkenstein",
+        "country": "DE",
+        "numberOfListeners": 97,
+        "region": "SN"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 93,
+        "region": "NSW"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 92,
+        "region": "ON"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 89,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

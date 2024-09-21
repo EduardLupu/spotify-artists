@@ -1,0 +1,39 @@
+{
+  "followers": 718,
+  "monthlyListeners": 1111,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 68,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 23,
+        "region": "27"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 13,
+        "region": "ON"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 9,
+        "region": "TX"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 9,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

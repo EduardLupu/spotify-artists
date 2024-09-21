@@ -1,0 +1,39 @@
+{
+  "followers": 30616,
+  "monthlyListeners": 35280,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tel Aviv",
+        "country": "IL",
+        "numberOfListeners": 2136,
+        "region": "TA"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 2123,
+        "region": "NY"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 1986,
+        "region": "NY"
+      },
+      {
+        "city": "Jerusalem",
+        "country": "IL",
+        "numberOfListeners": 976,
+        "region": "JM"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 705,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

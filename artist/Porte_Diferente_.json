@@ -1,0 +1,39 @@
+{
+  "followers": 902307,
+  "monthlyListeners": 400362,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 15030,
+        "region": "CMX"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 11275,
+        "region": "CA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 11218,
+        "region": "TX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 10901,
+        "region": "JAL"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 8845,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

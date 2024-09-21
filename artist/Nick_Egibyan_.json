@@ -1,0 +1,39 @@
+{
+  "followers": 1655,
+  "monthlyListeners": 3708,
+  "topCities": {
+    "items": [
+      {
+        "city": "Yerevan",
+        "country": "AM",
+        "numberOfListeners": 527,
+        "region": "ER"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 251,
+        "region": "CA"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 98,
+        "region": "BRU"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 84,
+        "region": "NH"
+      },
+      {
+        "city": "Glendale",
+        "country": "US",
+        "numberOfListeners": 66,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

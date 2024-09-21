@@ -1,0 +1,39 @@
+{
+  "followers": 1274,
+  "monthlyListeners": 131387,
+  "topCities": {
+    "items": [
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 29177,
+        "region": "MG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 10619,
+        "region": "SP"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 7367,
+        "region": "RS"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 3980,
+        "region": "PR"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 3241,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,39 @@
+{
+  "followers": 50536,
+  "monthlyListeners": 205692,
+  "topCities": {
+    "items": [
+      {
+        "city": "Detroit",
+        "country": "US",
+        "numberOfListeners": 11899,
+        "region": "MI"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 6165,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 5778,
+        "region": "CA"
+      },
+      {
+        "city": "Columbus",
+        "country": "US",
+        "numberOfListeners": 4259,
+        "region": "OH"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 3722,
+        "region": "AZ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

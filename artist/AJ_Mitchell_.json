@@ -1,0 +1,39 @@
+{
+  "followers": 906276,
+  "monthlyListeners": 1529507,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 36406,
+        "region": "JK"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 27370,
+        "region": ""
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 23859,
+        "region": "10"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 21533,
+        "region": "TPE"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 20377,
+        "region": "13"
+      }
+    ]
+  },
+  "worldRank": 0
+}

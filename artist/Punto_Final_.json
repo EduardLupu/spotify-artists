@@ -1,0 +1,39 @@
+{
+  "followers": 4832,
+  "monthlyListeners": 35564,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mazatlán",
+        "country": "MX",
+        "numberOfListeners": 2387,
+        "region": "SIN"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 2256,
+        "region": "CMX"
+      },
+      {
+        "city": "Culiacán",
+        "country": "MX",
+        "numberOfListeners": 2162,
+        "region": "SIN"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 2107,
+        "region": "JAL"
+      },
+      {
+        "city": "Hermosillo",
+        "country": "MX",
+        "numberOfListeners": 1252,
+        "region": "SON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

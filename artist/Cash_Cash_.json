@@ -1,0 +1,39 @@
+{
+  "followers": 689109,
+  "monthlyListeners": 3584037,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 225827,
+        "region": "JK"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 47013,
+        "region": "NY"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 45804,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 41005,
+        "region": "IL"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 40548,
+        "region": "JB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

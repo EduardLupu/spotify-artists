@@ -1,0 +1,39 @@
+{
+  "followers": 8634,
+  "monthlyListeners": 8393,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 506,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 314,
+        "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 279,
+        "region": "NSW"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 197,
+        "region": "RJ"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 185,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

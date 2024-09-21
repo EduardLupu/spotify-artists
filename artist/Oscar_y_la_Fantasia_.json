@@ -1,0 +1,39 @@
+{
+  "followers": 2005,
+  "monthlyListeners": 65497,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 10825,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago de Cali",
+        "country": "CO",
+        "numberOfListeners": 9341,
+        "region": "VAC"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 7175,
+        "region": "ANT"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 4252,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 3446,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

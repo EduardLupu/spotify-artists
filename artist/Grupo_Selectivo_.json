@@ -1,0 +1,39 @@
+{
+  "followers": 122050,
+  "monthlyListeners": 1225708,
+  "topCities": {
+    "items": [
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 95665,
+        "region": "JAL"
+      },
+      {
+        "city": "Tijuana",
+        "country": "MX",
+        "numberOfListeners": 83637,
+        "region": "BCN"
+      },
+      {
+        "city": "Culiacán",
+        "country": "MX",
+        "numberOfListeners": 82865,
+        "region": "SIN"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 71940,
+        "region": "CMX"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 65271,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

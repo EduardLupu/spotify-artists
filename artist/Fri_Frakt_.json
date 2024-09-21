@@ -1,0 +1,39 @@
+{
+  "followers": 159,
+  "monthlyListeners": 3364,
+  "topCities": {
+    "items": [
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 1234,
+        "region": "03"
+      },
+      {
+        "city": "Hamar",
+        "country": "NO",
+        "numberOfListeners": 252,
+        "region": "34"
+      },
+      {
+        "city": "Brumunddal",
+        "country": "NO",
+        "numberOfListeners": 108,
+        "region": "34"
+      },
+      {
+        "city": "Trondheim",
+        "country": "NO",
+        "numberOfListeners": 101,
+        "region": "50"
+      },
+      {
+        "city": "Gjøvik",
+        "country": "NO",
+        "numberOfListeners": 88,
+        "region": "34"
+      }
+    ]
+  },
+  "worldRank": 0
+}

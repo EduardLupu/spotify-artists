@@ -1,0 +1,39 @@
+{
+  "followers": 4429,
+  "monthlyListeners": 5206,
+  "topCities": {
+    "items": [
+      {
+        "city": "Baghdad",
+        "country": "IQ",
+        "numberOfListeners": 418,
+        "region": "BG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 206,
+        "region": "NSW"
+      },
+      {
+        "city": "Basra",
+        "country": "IQ",
+        "numberOfListeners": 186,
+        "region": "BA"
+      },
+      {
+        "city": "Beirut",
+        "country": "LB",
+        "numberOfListeners": 160,
+        "region": "BA"
+      },
+      {
+        "city": "Dammam",
+        "country": "SA",
+        "numberOfListeners": 152,
+        "region": "04"
+      }
+    ]
+  },
+  "worldRank": 0
+}

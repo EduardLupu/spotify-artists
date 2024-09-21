@@ -1,0 +1,39 @@
+{
+  "followers": 4169,
+  "monthlyListeners": 39492,
+  "topCities": {
+    "items": [
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 590,
+        "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 521,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 473,
+        "region": "ENG"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 434,
+        "region": "WA"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 388,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

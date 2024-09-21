@@ -1,0 +1,39 @@
+{
+  "followers": 72,
+  "monthlyListeners": 183,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 8,
+        "region": "SP"
+      },
+      {
+        "city": "Urussanga",
+        "country": "BR",
+        "numberOfListeners": 7,
+        "region": "SC"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 6,
+        "region": "PR"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 5,
+        "region": "RS"
+      },
+      {
+        "city": "Joinville",
+        "country": "BR",
+        "numberOfListeners": 5,
+        "region": "SC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,39 @@
+{
+  "followers": 101,
+  "monthlyListeners": 48,
+  "topCities": {
+    "items": [
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "NY"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 2,
+        "region": "NSW"
+      },
+      {
+        "city": "Semarang",
+        "country": "ID",
+        "numberOfListeners": 1,
+        "region": "JT"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 1,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 0
+}

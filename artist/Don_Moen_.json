@@ -1,0 +1,39 @@
+{
+  "followers": 953923,
+  "monthlyListeners": 772454,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 37528,
+        "region": "LA"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 34365,
+        "region": "00"
+      },
+      {
+        "city": "Davao City",
+        "country": "PH",
+        "numberOfListeners": 22664,
+        "region": "11"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 21936,
+        "region": "JK"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 19749,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 0
+}

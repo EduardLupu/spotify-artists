@@ -1,0 +1,39 @@
+{
+  "followers": 6636,
+  "monthlyListeners": 34146,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 4141,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 2934,
+        "region": "ZH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 1634,
+        "region": "UT"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 582,
+        "region": "AB"
+      },
+      {
+        "city": "Amersfoort",
+        "country": "NL",
+        "numberOfListeners": 537,
+        "region": "UT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

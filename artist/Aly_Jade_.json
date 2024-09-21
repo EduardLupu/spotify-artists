@@ -1,0 +1,39 @@
+{
+  "followers": 1047,
+  "monthlyListeners": 7296,
+  "topCities": {
+    "items": [
+      {
+        "city": "Shymkent",
+        "country": "KZ",
+        "numberOfListeners": 93,
+        "region": "79"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 87,
+        "region": "JK"
+      },
+      {
+        "city": "Hanoi",
+        "country": "VN",
+        "numberOfListeners": 86,
+        "region": "HN"
+      },
+      {
+        "city": "Ho Chi Minh City",
+        "country": "VN",
+        "numberOfListeners": 78,
+        "region": "SG"
+      },
+      {
+        "city": "Almaty",
+        "country": "KZ",
+        "numberOfListeners": 67,
+        "region": "75"
+      }
+    ]
+  },
+  "worldRank": 0
+}

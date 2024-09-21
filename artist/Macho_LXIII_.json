@@ -1,0 +1,39 @@
+{
+  "followers": 23152,
+  "monthlyListeners": 57272,
+  "topCities": {
+    "items": [
+      {
+        "city": "San José",
+        "country": "CR",
+        "numberOfListeners": 35199,
+        "region": "SJ"
+      },
+      {
+        "city": "Heredia",
+        "country": "CR",
+        "numberOfListeners": 10342,
+        "region": "H"
+      },
+      {
+        "city": "Alajuela",
+        "country": "CR",
+        "numberOfListeners": 6862,
+        "region": "A"
+      },
+      {
+        "city": "Panama City",
+        "country": "PA",
+        "numberOfListeners": 4588,
+        "region": "8"
+      },
+      {
+        "city": "Escazú",
+        "country": "CR",
+        "numberOfListeners": 2614,
+        "region": "SJ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

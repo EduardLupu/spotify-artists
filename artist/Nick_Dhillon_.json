@@ -1,0 +1,39 @@
+{
+  "followers": 16382,
+  "monthlyListeners": 41213,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 3110,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 1978,
+        "region": "ENG"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1913,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 1813,
+        "region": "DL"
+      },
+      {
+        "city": "Ludhiana",
+        "country": "IN",
+        "numberOfListeners": 1316,
+        "region": "PB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

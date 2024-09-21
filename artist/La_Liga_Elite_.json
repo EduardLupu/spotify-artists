@@ -1,0 +1,39 @@
+{
+  "followers": 9143,
+  "monthlyListeners": 62767,
+  "topCities": {
+    "items": [
+      {
+        "city": "San Juan",
+        "country": "US",
+        "numberOfListeners": 8090,
+        "region": "PR"
+      },
+      {
+        "city": "San José",
+        "country": "CR",
+        "numberOfListeners": 3338,
+        "region": "SJ"
+      },
+      {
+        "city": "Bayamón",
+        "country": "US",
+        "numberOfListeners": 2776,
+        "region": "PR"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 2237,
+        "region": "RM"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 2015,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

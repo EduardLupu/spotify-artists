@@ -1,0 +1,39 @@
+{
+  "followers": 3395,
+  "monthlyListeners": 30128,
+  "topCities": {
+    "items": [
+      {
+        "city": "Honolulu",
+        "country": "US",
+        "numberOfListeners": 7820,
+        "region": "HI"
+      },
+      {
+        "city": "Waipahu",
+        "country": "US",
+        "numberOfListeners": 1191,
+        "region": "HI"
+      },
+      {
+        "city": "'Ewa Beach",
+        "country": "US",
+        "numberOfListeners": 1095,
+        "region": "HI"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 877,
+        "region": "CA"
+      },
+      {
+        "city": "Las Vegas",
+        "country": "US",
+        "numberOfListeners": 840,
+        "region": "NV"
+      }
+    ]
+  },
+  "worldRank": 0
+}

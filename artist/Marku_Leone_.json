@@ -1,0 +1,39 @@
+{
+  "followers": 445,
+  "monthlyListeners": 1056,
+  "topCities": {
+    "items": [
+      {
+        "city": "Miami",
+        "country": "US",
+        "numberOfListeners": 28,
+        "region": "FL"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 17,
+        "region": "NY"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 16,
+        "region": "TX"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 15,
+        "region": "CA"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 13,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

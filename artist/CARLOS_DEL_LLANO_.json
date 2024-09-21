@@ -1,0 +1,39 @@
+{
+  "followers": 578,
+  "monthlyListeners": 4674,
+  "topCities": {
+    "items": [
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 1176,
+        "region": "GU"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 592,
+        "region": "01"
+      },
+      {
+        "city": "San Pedro Sula",
+        "country": "HN",
+        "numberOfListeners": 303,
+        "region": "CR"
+      },
+      {
+        "city": "Tegucigalpa",
+        "country": "HN",
+        "numberOfListeners": 302,
+        "region": "FM"
+      },
+      {
+        "city": "San Salvador",
+        "country": "SV",
+        "numberOfListeners": 105,
+        "region": "SS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

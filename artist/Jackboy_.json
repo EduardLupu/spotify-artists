@@ -1,0 +1,39 @@
+{
+  "followers": 568943,
+  "monthlyListeners": 799005,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 25735,
+        "region": "LA"
+      },
+      {
+        "city": "Port Harcourt",
+        "country": "NG",
+        "numberOfListeners": 15394,
+        "region": "RI"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 13588,
+        "region": "TX"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 13218,
+        "region": "ON"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 13013,
+        "region": "GA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

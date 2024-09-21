@@ -1,0 +1,39 @@
+{
+  "followers": 154301,
+  "monthlyListeners": 477063,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 133262,
+        "region": "C"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 44061,
+        "region": "B"
+      },
+      {
+        "city": "Rosario",
+        "country": "AR",
+        "numberOfListeners": 35724,
+        "region": "S"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 27428,
+        "region": "RM"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 21833,
+        "region": "X"
+      }
+    ]
+  },
+  "worldRank": 0
+}

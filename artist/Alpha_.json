@@ -1,0 +1,39 @@
+{
+  "followers": 3908,
+  "monthlyListeners": 23122,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 4356,
+        "region": "IDF"
+      },
+      {
+        "city": "Bordeaux",
+        "country": "FR",
+        "numberOfListeners": 470,
+        "region": "NAQ"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 442,
+        "region": "ARA"
+      },
+      {
+        "city": "Toulouse",
+        "country": "FR",
+        "numberOfListeners": 398,
+        "region": "OCC"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 334,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

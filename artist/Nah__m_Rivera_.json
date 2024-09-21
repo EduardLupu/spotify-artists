@@ -1,0 +1,39 @@
+{
+  "followers": 156,
+  "monthlyListeners": 66,
+  "topCities": {
+    "items": [
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 2,
+        "region": "GU"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "PA"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "NC"
+      },
+      {
+        "city": "Miami",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "FL"
+      },
+      {
+        "city": "León",
+        "country": "MX",
+        "numberOfListeners": 2,
+        "region": "GUA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,39 @@
+{
+  "followers": 101007,
+  "monthlyListeners": 370842,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 4587,
+        "region": "IDF"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 3898,
+        "region": "CMX"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 3372,
+        "region": "34"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 3176,
+        "region": "NSW"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 3171,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

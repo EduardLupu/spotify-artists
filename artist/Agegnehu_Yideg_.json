@@ -1,0 +1,39 @@
+{
+  "followers": 18445,
+  "monthlyListeners": 6513,
+  "topCities": {
+    "items": [
+      {
+        "city": "Addis Ababa",
+        "country": "ET",
+        "numberOfListeners": 2074,
+        "region": "AA"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 291,
+        "region": "GP"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 204,
+        "region": "ON"
+      },
+      {
+        "city": "Pretoria",
+        "country": "ZA",
+        "numberOfListeners": 181,
+        "region": "GP"
+      },
+      {
+        "city": "Awasa",
+        "country": "ET",
+        "numberOfListeners": 173,
+        "region": "SI"
+      }
+    ]
+  },
+  "worldRank": 0
+}

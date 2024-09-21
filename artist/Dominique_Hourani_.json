@@ -1,0 +1,39 @@
+{
+  "followers": 24389,
+  "monthlyListeners": 20422,
+  "topCities": {
+    "items": [
+      {
+        "city": "Cairo",
+        "country": "EG",
+        "numberOfListeners": 2879,
+        "region": "C"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 920,
+        "region": "NSW"
+      },
+      {
+        "city": "Alexandria",
+        "country": "EG",
+        "numberOfListeners": 575,
+        "region": "ALX"
+      },
+      {
+        "city": "Giza",
+        "country": "EG",
+        "numberOfListeners": 470,
+        "region": "GZ"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 429,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

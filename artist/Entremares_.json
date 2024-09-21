@@ -1,0 +1,39 @@
+{
+  "followers": 83104,
+  "monthlyListeners": 1522500,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1083174,
+        "region": "RM"
+      },
+      {
+        "city": "Concepción",
+        "country": "CL",
+        "numberOfListeners": 149575,
+        "region": "BI"
+      },
+      {
+        "city": "Temuco",
+        "country": "CL",
+        "numberOfListeners": 78780,
+        "region": "AR"
+      },
+      {
+        "city": "Antofagasta",
+        "country": "CL",
+        "numberOfListeners": 35338,
+        "region": "AN"
+      },
+      {
+        "city": "Port Montt",
+        "country": "CL",
+        "numberOfListeners": 32662,
+        "region": "LL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

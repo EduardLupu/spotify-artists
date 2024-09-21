@@ -1,0 +1,39 @@
+{
+  "followers": 2187,
+  "monthlyListeners": 4433,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tallinn",
+        "country": "EE",
+        "numberOfListeners": 2333,
+        "region": "37"
+      },
+      {
+        "city": "Tartu",
+        "country": "EE",
+        "numberOfListeners": 348,
+        "region": "79"
+      },
+      {
+        "city": "Vilnius",
+        "country": "LT",
+        "numberOfListeners": 138,
+        "region": "VL"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 104,
+        "region": "18"
+      },
+      {
+        "city": "Pärnu",
+        "country": "EE",
+        "numberOfListeners": 57,
+        "region": "68"
+      }
+    ]
+  },
+  "worldRank": 0
+}

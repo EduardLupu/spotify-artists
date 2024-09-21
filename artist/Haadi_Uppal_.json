@@ -1,0 +1,39 @@
+{
+  "followers": 933,
+  "monthlyListeners": 2903,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lahore",
+        "country": "PK",
+        "numberOfListeners": 205,
+        "region": "PB"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 167,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 138,
+        "region": "MH"
+      },
+      {
+        "city": "Patna",
+        "country": "IN",
+        "numberOfListeners": 127,
+        "region": "BR"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 124,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

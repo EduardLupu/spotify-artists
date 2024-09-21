@@ -1,0 +1,39 @@
+{
+  "followers": 18626,
+  "monthlyListeners": 17346,
+  "topCities": {
+    "items": [
+      {
+        "city": "Kampala",
+        "country": "UG",
+        "numberOfListeners": 1736,
+        "region": "C"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 586,
+        "region": "PR"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 558,
+        "region": "SP"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 382,
+        "region": "RS"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 367,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

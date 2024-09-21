@@ -1,0 +1,39 @@
+{
+  "followers": 382,
+  "monthlyListeners": 5251,
+  "topCities": {
+    "items": [
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 114,
+        "region": "CO"
+      },
+      {
+        "city": "Ho Chi Minh City",
+        "country": "VN",
+        "numberOfListeners": 85,
+        "region": "SG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 84,
+        "region": "CA"
+      },
+      {
+        "city": "Portland",
+        "country": "US",
+        "numberOfListeners": 82,
+        "region": "OR"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 79,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

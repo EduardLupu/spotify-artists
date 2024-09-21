@@ -1,0 +1,39 @@
+{
+  "followers": 1866,
+  "monthlyListeners": 355315,
+  "topCities": {
+    "items": [
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 20031,
+        "region": "ON"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 14581,
+        "region": "NY"
+      },
+      {
+        "city": "San José",
+        "country": "CR",
+        "numberOfListeners": 13981,
+        "region": "SJ"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 13345,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 8920,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

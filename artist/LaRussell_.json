@@ -1,0 +1,39 @@
+{
+  "followers": 85120,
+  "monthlyListeners": 606039,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 17701,
+        "region": "CA"
+      },
+      {
+        "city": "Sacramento",
+        "country": "US",
+        "numberOfListeners": 16840,
+        "region": "CA"
+      },
+      {
+        "city": "San Francisco",
+        "country": "US",
+        "numberOfListeners": 15784,
+        "region": "CA"
+      },
+      {
+        "city": "Oakland",
+        "country": "US",
+        "numberOfListeners": 11372,
+        "region": "CA"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 10406,
+        "region": "JK"
+      }
+    ]
+  },
+  "worldRank": 0
+}

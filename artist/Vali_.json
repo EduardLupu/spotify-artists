@@ -1,0 +1,39 @@
+{
+  "followers": 10027,
+  "monthlyListeners": 2970,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sofia",
+        "country": "BG",
+        "numberOfListeners": 192,
+        "region": "22"
+      },
+      {
+        "city": "Tel Aviv",
+        "country": "IL",
+        "numberOfListeners": 148,
+        "region": "TA"
+      },
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 79,
+        "region": "TN"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 67,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 42,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,39 @@
+{
+  "followers": 37532,
+  "monthlyListeners": 29398,
+  "topCities": {
+    "items": [
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 805,
+        "region": "AB"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 570,
+        "region": "CA"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 500,
+        "region": "03"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 440,
+        "region": "18"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 432,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

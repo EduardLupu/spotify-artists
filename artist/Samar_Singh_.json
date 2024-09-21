@@ -1,0 +1,39 @@
+{
+  "followers": 544851,
+  "monthlyListeners": 1468646,
+  "topCities": {
+    "items": [
+      {
+        "city": "Patna",
+        "country": "IN",
+        "numberOfListeners": 312784,
+        "region": "BR"
+      },
+      {
+        "city": "Lucknow",
+        "country": "IN",
+        "numberOfListeners": 287082,
+        "region": "UP"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 117751,
+        "region": "DL"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 111008,
+        "region": "MH"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 90280,
+        "region": "DL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

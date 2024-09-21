@@ -1,0 +1,39 @@
+{
+  "followers": 100356,
+  "monthlyListeners": 1312789,
+  "topCities": {
+    "items": [
+      {
+        "city": "Culiacán",
+        "country": "MX",
+        "numberOfListeners": 86800,
+        "region": "SIN"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 73888,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 73056,
+        "region": "JAL"
+      },
+      {
+        "city": "Tijuana",
+        "country": "MX",
+        "numberOfListeners": 72795,
+        "region": "BCN"
+      },
+      {
+        "city": "Hermosillo",
+        "country": "MX",
+        "numberOfListeners": 59748,
+        "region": "SON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

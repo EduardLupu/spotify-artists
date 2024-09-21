@@ -1,0 +1,39 @@
+{
+  "followers": 4455,
+  "monthlyListeners": 42,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jersey City",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "NJ"
+      },
+      {
+        "city": "Newark",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "NJ"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "PA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 2,
+        "region": "VIC"
+      },
+      {
+        "city": "Galway",
+        "country": "IE",
+        "numberOfListeners": 1,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

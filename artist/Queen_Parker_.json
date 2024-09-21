@@ -1,0 +1,39 @@
+{
+  "followers": 2536,
+  "monthlyListeners": 27408,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 4479,
+        "region": "MD"
+      },
+      {
+        "city": "Santo Domingo",
+        "country": "DO",
+        "numberOfListeners": 1389,
+        "region": "01"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 1007,
+        "region": "CT"
+      },
+      {
+        "city": "Santo Domingo Este",
+        "country": "DO",
+        "numberOfListeners": 945,
+        "region": "32"
+      },
+      {
+        "city": "San Juan",
+        "country": "US",
+        "numberOfListeners": 582,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

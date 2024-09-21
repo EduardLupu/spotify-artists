@@ -1,0 +1,39 @@
+{
+  "followers": 77,
+  "monthlyListeners": 7,
+  "topCities": {
+    "items": [
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "GA"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "PA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "NY"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "NY"
+      },
+      {
+        "city": "Latrobe",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "PA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

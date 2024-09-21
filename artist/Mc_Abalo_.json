@@ -1,0 +1,39 @@
+{
+  "followers": 111640,
+  "monthlyListeners": 261430,
+  "topCities": {
+    "items": [
+      {
+        "city": "Recife",
+        "country": "BR",
+        "numberOfListeners": 34372,
+        "region": "PE"
+      },
+      {
+        "city": "Fortaleza",
+        "country": "BR",
+        "numberOfListeners": 17294,
+        "region": "CE"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 14560,
+        "region": "SP"
+      },
+      {
+        "city": "Salvador",
+        "country": "BR",
+        "numberOfListeners": 8550,
+        "region": "BA"
+      },
+      {
+        "city": "João Pessoa",
+        "country": "BR",
+        "numberOfListeners": 8517,
+        "region": "PB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

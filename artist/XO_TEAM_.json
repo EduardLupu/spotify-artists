@@ -1,0 +1,39 @@
+{
+  "followers": 104532,
+  "monthlyListeners": 120376,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 4470,
+        "region": "MH"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 4321,
+        "region": "KA"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 2978,
+        "region": "WB"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 2850,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 2841,
+        "region": "DL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

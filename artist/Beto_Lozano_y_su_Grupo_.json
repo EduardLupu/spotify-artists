@@ -1,0 +1,39 @@
+{
+  "followers": 5291,
+  "monthlyListeners": 40885,
+  "topCities": {
+    "items": [
+      {
+        "city": "Ciudad Juárez",
+        "country": "MX",
+        "numberOfListeners": 2683,
+        "region": "CHH"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1868,
+        "region": "CMX"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 1298,
+        "region": "GU"
+      },
+      {
+        "city": "Chihuahua City",
+        "country": "MX",
+        "numberOfListeners": 1287,
+        "region": "CHH"
+      },
+      {
+        "city": "El Paso",
+        "country": "US",
+        "numberOfListeners": 966,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

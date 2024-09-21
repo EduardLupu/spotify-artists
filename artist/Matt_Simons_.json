@@ -1,0 +1,39 @@
+{
+  "followers": 226806,
+  "monthlyListeners": 3456912,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 104717,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 71051,
+        "region": "ZH"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 57785,
+        "region": "IDF"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 44195,
+        "region": "MD"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 44183,
+        "region": "BRU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

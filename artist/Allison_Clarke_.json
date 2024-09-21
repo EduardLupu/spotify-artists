@@ -1,0 +1,39 @@
+{
+  "followers": 1285,
+  "monthlyListeners": 5565,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 175,
+        "region": "18"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 73,
+        "region": "NC"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 67,
+        "region": "GA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 62,
+        "region": "TX"
+      },
+      {
+        "city": "Orlando",
+        "country": "US",
+        "numberOfListeners": 53,
+        "region": "FL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

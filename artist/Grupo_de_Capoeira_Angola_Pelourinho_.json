@@ -1,0 +1,39 @@
+{
+  "followers": 5909,
+  "monthlyListeners": 14572,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 2114,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 842,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 527,
+        "region": "MG"
+      },
+      {
+        "city": "Salvador",
+        "country": "BR",
+        "numberOfListeners": 515,
+        "region": "BA"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 444,
+        "region": "DF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

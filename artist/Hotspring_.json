@@ -1,0 +1,39 @@
+{
+  "followers": 779,
+  "monthlyListeners": 3002,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 237,
+        "region": "18"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 75,
+        "region": "VIC"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 74,
+        "region": "BE"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 62,
+        "region": "NY"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 58,
+        "region": "13"
+      }
+    ]
+  },
+  "worldRank": 0
+}

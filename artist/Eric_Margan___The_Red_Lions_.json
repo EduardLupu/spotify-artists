@@ -1,0 +1,39 @@
+{
+  "followers": 623,
+  "monthlyListeners": 1852,
+  "topCities": {
+    "items": [
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 65,
+        "region": "TPE"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 63,
+        "region": "ENG"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 48,
+        "region": "L"
+      },
+      {
+        "city": "Taichung",
+        "country": "TW",
+        "numberOfListeners": 33,
+        "region": "TXG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 29,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

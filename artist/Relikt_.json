@@ -1,0 +1,39 @@
+{
+  "followers": 2211,
+  "monthlyListeners": 1887,
+  "topCities": {
+    "items": [
+      {
+        "city": "Minsk",
+        "country": "BY",
+        "numberOfListeners": 513,
+        "region": "HM"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 286,
+        "region": "14"
+      },
+      {
+        "city": "Vilnius",
+        "country": "LT",
+        "numberOfListeners": 70,
+        "region": "VL"
+      },
+      {
+        "city": "Homyel",
+        "country": "BY",
+        "numberOfListeners": 66,
+        "region": "HO"
+      },
+      {
+        "city": "Hrodna",
+        "country": "BY",
+        "numberOfListeners": 60,
+        "region": "HR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

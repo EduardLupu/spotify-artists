@@ -1,0 +1,39 @@
+{
+  "followers": 11951,
+  "monthlyListeners": 7821,
+  "topCities": {
+    "items": [
+      {
+        "city": "Addis Ababa",
+        "country": "ET",
+        "numberOfListeners": 3588,
+        "region": "AA"
+      },
+      {
+        "city": "Washington",
+        "country": "US",
+        "numberOfListeners": 173,
+        "region": "DC"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 173,
+        "region": "ON"
+      },
+      {
+        "city": "Nazrēt",
+        "country": "ET",
+        "numberOfListeners": 167,
+        "region": "OR"
+      },
+      {
+        "city": "Awasa",
+        "country": "ET",
+        "numberOfListeners": 163,
+        "region": "SI"
+      }
+    ]
+  },
+  "worldRank": 0
+}

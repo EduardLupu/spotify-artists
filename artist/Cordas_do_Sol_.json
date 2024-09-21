@@ -1,0 +1,39 @@
+{
+  "followers": 8519,
+  "monthlyListeners": 31070,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lisbon",
+        "country": "PT",
+        "numberOfListeners": 2075,
+        "region": "11"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 1293,
+        "region": "IDF"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 993,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 861,
+        "region": "ZH"
+      },
+      {
+        "city": "Luanda",
+        "country": "AO",
+        "numberOfListeners": 637,
+        "region": "LUA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

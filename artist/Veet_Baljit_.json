@@ -1,0 +1,39 @@
+{
+  "followers": 1012243,
+  "monthlyListeners": 362009,
+  "topCities": {
+    "items": [
+      {
+        "city": "Ludhiana",
+        "country": "IN",
+        "numberOfListeners": 106027,
+        "region": "PB"
+      },
+      {
+        "city": "Chandigarh",
+        "country": "IN",
+        "numberOfListeners": 68683,
+        "region": "CH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 18039,
+        "region": "DL"
+      },
+      {
+        "city": "Jaipur",
+        "country": "IN",
+        "numberOfListeners": 16681,
+        "region": "RJ"
+      },
+      {
+        "city": "Mohali",
+        "country": "IN",
+        "numberOfListeners": 13365,
+        "region": "PB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

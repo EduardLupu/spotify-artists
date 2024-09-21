@@ -1,0 +1,39 @@
+{
+  "followers": 1736755,
+  "monthlyListeners": 2432394,
+  "topCities": {
+    "items": [
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 50062,
+        "region": "GP"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 48958,
+        "region": "SP"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 45596,
+        "region": "GA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 43076,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 41107,
+        "region": "NC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

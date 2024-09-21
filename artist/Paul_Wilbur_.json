@@ -1,0 +1,39 @@
+{
+  "followers": 171191,
+  "monthlyListeners": 344021,
+  "topCities": {
+    "items": [
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 9604,
+        "region": "GU"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 8445,
+        "region": "LA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 7701,
+        "region": "RM"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 7183,
+        "region": "00"
+      },
+      {
+        "city": "Davao City",
+        "country": "PH",
+        "numberOfListeners": 5350,
+        "region": "11"
+      }
+    ]
+  },
+  "worldRank": 0
+}

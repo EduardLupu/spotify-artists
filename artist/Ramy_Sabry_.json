@@ -1,0 +1,39 @@
+{
+  "followers": 2694402,
+  "monthlyListeners": 1757513,
+  "topCities": {
+    "items": [
+      {
+        "city": "Cairo",
+        "country": "EG",
+        "numberOfListeners": 667357,
+        "region": "C"
+      },
+      {
+        "city": "Giza",
+        "country": "EG",
+        "numberOfListeners": 158885,
+        "region": "GZ"
+      },
+      {
+        "city": "Alexandria",
+        "country": "EG",
+        "numberOfListeners": 146949,
+        "region": "ALX"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 72290,
+        "region": "JK"
+      },
+      {
+        "city": "Al Mansurah",
+        "country": "EG",
+        "numberOfListeners": 52046,
+        "region": "DK"
+      }
+    ]
+  },
+  "worldRank": 0
+}

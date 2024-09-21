@@ -1,0 +1,39 @@
+{
+  "followers": 924,
+  "monthlyListeners": 705,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lahore",
+        "country": "PK",
+        "numberOfListeners": 138,
+        "region": "PB"
+      },
+      {
+        "city": "Karachi",
+        "country": "PK",
+        "numberOfListeners": 121,
+        "region": "SD"
+      },
+      {
+        "city": "Islamabad",
+        "country": "PK",
+        "numberOfListeners": 72,
+        "region": "IS"
+      },
+      {
+        "city": "Rawalpindi",
+        "country": "PK",
+        "numberOfListeners": 32,
+        "region": "PB"
+      },
+      {
+        "city": "Multan",
+        "country": "PK",
+        "numberOfListeners": 12,
+        "region": "PB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

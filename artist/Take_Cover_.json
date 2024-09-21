@@ -1,0 +1,39 @@
+{
+  "followers": 2071,
+  "monthlyListeners": 3100,
+  "topCities": {
+    "items": [
+      {
+        "city": "Minneapolis",
+        "country": "US",
+        "numberOfListeners": 128,
+        "region": "MN"
+      },
+      {
+        "city": "Saint Paul",
+        "country": "US",
+        "numberOfListeners": 58,
+        "region": "MN"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 49,
+        "region": "IL"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 34,
+        "region": "PA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 32,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

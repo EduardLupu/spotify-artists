@@ -1,0 +1,39 @@
+{
+  "followers": 23990,
+  "monthlyListeners": 214895,
+  "topCities": {
+    "items": [
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 7600,
+        "region": "ON"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 7479,
+        "region": "QC"
+      },
+      {
+        "city": "Calgary",
+        "country": "CA",
+        "numberOfListeners": 5370,
+        "region": "AB"
+      },
+      {
+        "city": "Halifax",
+        "country": "CA",
+        "numberOfListeners": 3024,
+        "region": "NS"
+      },
+      {
+        "city": "Edmonton",
+        "country": "CA",
+        "numberOfListeners": 2865,
+        "region": "AB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,39 @@
+{
+  "followers": 190662,
+  "monthlyListeners": 1791112,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 103643,
+        "region": "DC"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 101590,
+        "region": "GU"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 63706,
+        "region": "RM"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 58135,
+        "region": "01"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 51442,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

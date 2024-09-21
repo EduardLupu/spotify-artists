@@ -1,0 +1,39 @@
+{
+  "followers": 2570,
+  "monthlyListeners": 15672,
+  "topCities": {
+    "items": [
+      {
+        "city": "Vilnius",
+        "country": "LT",
+        "numberOfListeners": 1770,
+        "region": "VL"
+      },
+      {
+        "city": "Kaunas",
+        "country": "LT",
+        "numberOfListeners": 391,
+        "region": "KU"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 288,
+        "region": "14"
+      },
+      {
+        "city": "Tel Aviv",
+        "country": "IL",
+        "numberOfListeners": 225,
+        "region": "TA"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 197,
+        "region": "34"
+      }
+    ]
+  },
+  "worldRank": 0
+}

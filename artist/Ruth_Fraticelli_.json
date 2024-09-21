@@ -1,0 +1,39 @@
+{
+  "followers": 3126,
+  "monthlyListeners": 1383,
+  "topCities": {
+    "items": [
+      {
+        "city": "San Juan",
+        "country": "US",
+        "numberOfListeners": 170,
+        "region": "PR"
+      },
+      {
+        "city": "Orlando",
+        "country": "US",
+        "numberOfListeners": 53,
+        "region": "FL"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 51,
+        "region": "PA"
+      },
+      {
+        "city": "Bayamón",
+        "country": "US",
+        "numberOfListeners": 45,
+        "region": "PR"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 30,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

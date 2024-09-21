@@ -1,0 +1,39 @@
+{
+  "followers": 34116,
+  "monthlyListeners": 1252887,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 424456,
+        "region": "LA"
+      },
+      {
+        "city": "Abuja",
+        "country": "NG",
+        "numberOfListeners": 188158,
+        "region": "FC"
+      },
+      {
+        "city": "Port Harcourt",
+        "country": "NG",
+        "numberOfListeners": 156958,
+        "region": "RI"
+      },
+      {
+        "city": "Ibadan",
+        "country": "NG",
+        "numberOfListeners": 64872,
+        "region": "OY"
+      },
+      {
+        "city": "Benin City",
+        "country": "NG",
+        "numberOfListeners": 34273,
+        "region": "ED"
+      }
+    ]
+  },
+  "worldRank": 0
+}

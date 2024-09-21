@@ -1,0 +1,39 @@
+{
+  "followers": 110036,
+  "monthlyListeners": 234020,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 74010,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 18313,
+        "region": "27"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 11163,
+        "region": "13"
+      },
+      {
+        "city": "Yokohama",
+        "country": "JP",
+        "numberOfListeners": 8598,
+        "region": "14"
+      },
+      {
+        "city": "Nagoya",
+        "country": "JP",
+        "numberOfListeners": 8206,
+        "region": "23"
+      }
+    ]
+  },
+  "worldRank": 0
+}

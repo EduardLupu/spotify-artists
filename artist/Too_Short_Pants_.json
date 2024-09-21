@@ -1,0 +1,39 @@
+{
+  "followers": 337,
+  "monthlyListeners": 91,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "CA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "CO"
+      },
+      {
+        "city": "Fort Worth",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "TX"
+      },
+      {
+        "city": "Rockville",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "MD"
+      },
+      {
+        "city": "Midland",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

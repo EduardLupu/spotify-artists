@@ -1,0 +1,39 @@
+{
+  "followers": 516006,
+  "monthlyListeners": 2797754,
+  "topCities": {
+    "items": [
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 94801,
+        "region": "00"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 82039,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 54050,
+        "region": "SP"
+      },
+      {
+        "city": "Manila",
+        "country": "PH",
+        "numberOfListeners": 48733,
+        "region": "00"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 45547,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

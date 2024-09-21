@@ -1,0 +1,39 @@
+{
+  "followers": 186,
+  "monthlyListeners": 354,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 93,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 19,
+        "region": "62"
+      },
+      {
+        "city": "Venice",
+        "country": "IT",
+        "numberOfListeners": 8,
+        "region": "34"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 8,
+        "region": "21"
+      },
+      {
+        "city": "Bologna",
+        "country": "IT",
+        "numberOfListeners": 6,
+        "region": "45"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,39 @@
+{
+  "followers": 5440,
+  "monthlyListeners": 17195,
+  "topCities": {
+    "items": [
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 4912,
+        "region": "AB"
+      },
+      {
+        "city": "Gothenburg",
+        "country": "SE",
+        "numberOfListeners": 2323,
+        "region": "O"
+      },
+      {
+        "city": "Malmo",
+        "country": "SE",
+        "numberOfListeners": 1736,
+        "region": "M"
+      },
+      {
+        "city": "Kalmar",
+        "country": "SE",
+        "numberOfListeners": 363,
+        "region": "H"
+      },
+      {
+        "city": "Uppsala",
+        "country": "SE",
+        "numberOfListeners": 300,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

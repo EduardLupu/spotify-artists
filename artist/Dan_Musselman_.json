@@ -1,0 +1,39 @@
+{
+  "followers": 25313,
+  "monthlyListeners": 322802,
+  "topCities": {
+    "items": [
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 5787,
+        "region": ""
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 4027,
+        "region": "DC"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 3298,
+        "region": "JK"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 3172,
+        "region": "TX"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 2874,
+        "region": "GU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

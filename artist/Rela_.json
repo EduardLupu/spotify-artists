@@ -1,0 +1,39 @@
+{
+  "followers": 1311,
+  "monthlyListeners": 81,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 13,
+        "region": "LA"
+      },
+      {
+        "city": "Nottingham",
+        "country": "GB",
+        "numberOfListeners": 8,
+        "region": "ENG"
+      },
+      {
+        "city": "Derby",
+        "country": "GB",
+        "numberOfListeners": 7,
+        "region": "ENG"
+      },
+      {
+        "city": "Rotherham",
+        "country": "GB",
+        "numberOfListeners": 7,
+        "region": "ENG"
+      },
+      {
+        "city": "Abuja",
+        "country": "NG",
+        "numberOfListeners": 4,
+        "region": "FC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

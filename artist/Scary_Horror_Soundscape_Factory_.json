@@ -1,0 +1,39 @@
+{
+  "followers": 277,
+  "monthlyListeners": 158,
+  "topCities": {
+    "items": [
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 5,
+        "region": ""
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 3,
+        "region": "DL"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 3,
+        "region": "DL"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 3,
+        "region": "14"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 3,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

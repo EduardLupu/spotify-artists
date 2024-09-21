@@ -1,0 +1,39 @@
+{
+  "followers": 3236,
+  "monthlyListeners": 19658,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 1088,
+        "region": "TX"
+      },
+      {
+        "city": "Rockwall",
+        "country": "US",
+        "numberOfListeners": 280,
+        "region": "TX"
+      },
+      {
+        "city": "Minneapolis",
+        "country": "US",
+        "numberOfListeners": 228,
+        "region": "MN"
+      },
+      {
+        "city": "Fort Worth",
+        "country": "US",
+        "numberOfListeners": 218,
+        "region": "TX"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 208,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

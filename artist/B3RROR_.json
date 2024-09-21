@@ -1,0 +1,39 @@
+{
+  "followers": 4202,
+  "monthlyListeners": 42131,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 2247,
+        "region": "10"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 630,
+        "region": "13"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 398,
+        "region": "NSW"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 356,
+        "region": "HH"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 334,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

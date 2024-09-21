@@ -1,0 +1,39 @@
+{
+  "followers": 237024,
+  "monthlyListeners": 154701,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 10919,
+        "region": "IDF"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 5729,
+        "region": "LA"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 5423,
+        "region": "QC"
+      },
+      {
+        "city": "Abidjan",
+        "country": "CI",
+        "numberOfListeners": 5057,
+        "region": "AB"
+      },
+      {
+        "city": "Kinshasa",
+        "country": "CD",
+        "numberOfListeners": 4296,
+        "region": "KN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

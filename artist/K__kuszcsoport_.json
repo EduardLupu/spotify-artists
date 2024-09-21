@@ -1,0 +1,39 @@
+{
+  "followers": 3212,
+  "monthlyListeners": 4614,
+  "topCities": {
+    "items": [
+      {
+        "city": "Budapest",
+        "country": "HU",
+        "numberOfListeners": 2938,
+        "region": "BU"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 86,
+        "region": "18"
+      },
+      {
+        "city": "Debrecen",
+        "country": "HU",
+        "numberOfListeners": 78,
+        "region": "HB"
+      },
+      {
+        "city": "Szeged",
+        "country": "HU",
+        "numberOfListeners": 77,
+        "region": "CS"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 70,
+        "region": "9"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,39 @@
+{
+  "followers": 910674,
+  "monthlyListeners": 757728,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 24853,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 13425,
+        "region": "SP"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 13072,
+        "region": "DC"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 12169,
+        "region": "34"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 9015,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

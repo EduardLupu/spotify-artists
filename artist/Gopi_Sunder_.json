@@ -1,0 +1,39 @@
+{
+  "followers": 2452,
+  "monthlyListeners": 801225,
+  "topCities": {
+    "items": [
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 498242,
+        "region": "TS"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 96354,
+        "region": "KA"
+      },
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 35323,
+        "region": "TN"
+      },
+      {
+        "city": "Guntur",
+        "country": "IN",
+        "numberOfListeners": 28328,
+        "region": "AP"
+      },
+      {
+        "city": "Vijayawada",
+        "country": "IN",
+        "numberOfListeners": 21238,
+        "region": "AP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

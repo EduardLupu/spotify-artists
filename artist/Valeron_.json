@@ -1,0 +1,39 @@
+{
+  "followers": 39610,
+  "monthlyListeners": 231042,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 25038,
+        "region": "34"
+      },
+      {
+        "city": "Athens",
+        "country": "GR",
+        "numberOfListeners": 18430,
+        "region": "I"
+      },
+      {
+        "city": "Izmir",
+        "country": "TR",
+        "numberOfListeners": 10135,
+        "region": "35"
+      },
+      {
+        "city": "Ankara",
+        "country": "TR",
+        "numberOfListeners": 6690,
+        "region": "06"
+      },
+      {
+        "city": "Thessaloniki",
+        "country": "GR",
+        "numberOfListeners": 5756,
+        "region": "B"
+      }
+    ]
+  },
+  "worldRank": 0
+}

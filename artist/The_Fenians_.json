@@ -1,0 +1,39 @@
+{
+  "followers": 2609,
+  "monthlyListeners": 8086,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 193,
+        "region": "L"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 173,
+        "region": "25"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 137,
+        "region": "IDF"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 103,
+        "region": "IL"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 67,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

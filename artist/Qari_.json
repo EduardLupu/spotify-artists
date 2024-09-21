@@ -1,0 +1,39 @@
+{
+  "followers": 7911,
+  "monthlyListeners": 15479,
+  "topCities": {
+    "items": [
+      {
+        "city": "Falkenstein",
+        "country": "DE",
+        "numberOfListeners": 436,
+        "region": "SN"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 427,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 276,
+        "region": "CA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 217,
+        "region": "TX"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 212,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

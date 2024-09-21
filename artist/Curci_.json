@@ -1,0 +1,39 @@
+{
+  "followers": 13471,
+  "monthlyListeners": 47259,
+  "topCities": {
+    "items": [
+      {
+        "city": "Falkenstein",
+        "country": "DE",
+        "numberOfListeners": 672,
+        "region": "SN"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 618,
+        "region": "CO"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 593,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 549,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 519,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

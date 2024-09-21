@@ -1,0 +1,39 @@
+{
+  "followers": 144870,
+  "monthlyListeners": 159067,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 2165,
+        "region": "IL"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 2096,
+        "region": "SP"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 1566,
+        "region": "QC"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 1553,
+        "region": "CO"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 1523,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,39 @@
+{
+  "followers": 11016,
+  "monthlyListeners": 61261,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 4428,
+        "region": "CA"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 2001,
+        "region": "DF"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 1898,
+        "region": "AZ"
+      },
+      {
+        "city": "Sacramento",
+        "country": "US",
+        "numberOfListeners": 1444,
+        "region": "CA"
+      },
+      {
+        "city": "Riverside",
+        "country": "US",
+        "numberOfListeners": 1410,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

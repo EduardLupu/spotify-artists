@@ -1,0 +1,39 @@
+{
+  "followers": 118,
+  "monthlyListeners": 629,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 366,
+        "region": "10"
+      },
+      {
+        "city": "Chiang Mai",
+        "country": "TH",
+        "numberOfListeners": 39,
+        "region": "50"
+      },
+      {
+        "city": "Phuket",
+        "country": "TH",
+        "numberOfListeners": 22,
+        "region": "83"
+      },
+      {
+        "city": "Nakhon Ratchasima",
+        "country": "TH",
+        "numberOfListeners": 18,
+        "region": "30"
+      },
+      {
+        "city": "Khon Kaen",
+        "country": "TH",
+        "numberOfListeners": 17,
+        "region": "40"
+      }
+    ]
+  },
+  "worldRank": 0
+}

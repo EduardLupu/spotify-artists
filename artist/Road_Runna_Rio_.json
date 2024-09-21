@@ -1,0 +1,39 @@
+{
+  "followers": 1022,
+  "monthlyListeners": 1093,
+  "topCities": {
+    "items": [
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 36,
+        "region": "TX"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 36,
+        "region": "GA"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 35,
+        "region": "NC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 30,
+        "region": "IL"
+      },
+      {
+        "city": "Memphis",
+        "country": "US",
+        "numberOfListeners": 26,
+        "region": "TN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

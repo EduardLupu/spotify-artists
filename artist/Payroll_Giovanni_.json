@@ -1,0 +1,39 @@
+{
+  "followers": 91441,
+  "monthlyListeners": 135908,
+  "topCities": {
+    "items": [
+      {
+        "city": "Detroit",
+        "country": "US",
+        "numberOfListeners": 7683,
+        "region": "MI"
+      },
+      {
+        "city": "Vancouver",
+        "country": "CA",
+        "numberOfListeners": 5039,
+        "region": "BC"
+      },
+      {
+        "city": "Surrey",
+        "country": "CA",
+        "numberOfListeners": 4846,
+        "region": "BC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 4399,
+        "region": "CA"
+      },
+      {
+        "city": "Sacramento",
+        "country": "US",
+        "numberOfListeners": 3057,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

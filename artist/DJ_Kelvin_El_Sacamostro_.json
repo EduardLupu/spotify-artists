@@ -1,0 +1,39 @@
+{
+  "followers": 33968,
+  "monthlyListeners": 118972,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 48751,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 5125,
+        "region": "DC"
+      },
+      {
+        "city": "San Juan",
+        "country": "US",
+        "numberOfListeners": 4326,
+        "region": "PR"
+      },
+      {
+        "city": "Trujillo",
+        "country": "PE",
+        "numberOfListeners": 4210,
+        "region": "LAL"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 2995,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

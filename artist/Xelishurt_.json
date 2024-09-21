@@ -1,0 +1,39 @@
+{
+  "followers": 11814,
+  "monthlyListeners": 151655,
+  "topCities": {
+    "items": [
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 1535,
+        "region": "10"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1334,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 1299,
+        "region": "NSW"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 1253,
+        "region": "BE"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 1226,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

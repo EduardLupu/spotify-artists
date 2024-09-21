@@ -1,0 +1,39 @@
+{
+  "followers": 500,
+  "monthlyListeners": 478,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 9,
+        "region": "10"
+      },
+      {
+        "city": "Orlando",
+        "country": "US",
+        "numberOfListeners": 8,
+        "region": "FL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 6,
+        "region": "NSW"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 6,
+        "region": "14"
+      },
+      {
+        "city": "Quito",
+        "country": "EC",
+        "numberOfListeners": 6,
+        "region": "P"
+      }
+    ]
+  },
+  "worldRank": 0
+}

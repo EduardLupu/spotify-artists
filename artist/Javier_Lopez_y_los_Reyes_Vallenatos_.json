@@ -1,0 +1,39 @@
+{
+  "followers": 25204,
+  "monthlyListeners": 121904,
+  "topCities": {
+    "items": [
+      {
+        "city": "Monterrey",
+        "country": "MX",
+        "numberOfListeners": 26724,
+        "region": "NLE"
+      },
+      {
+        "city": "San Nicolás de los Garza",
+        "country": "MX",
+        "numberOfListeners": 15104,
+        "region": "NLE"
+      },
+      {
+        "city": "Apodaca",
+        "country": "MX",
+        "numberOfListeners": 11005,
+        "region": "NLE"
+      },
+      {
+        "city": "Guadalupe",
+        "country": "MX",
+        "numberOfListeners": 9481,
+        "region": "NLE"
+      },
+      {
+        "city": "General Escobedo",
+        "country": "MX",
+        "numberOfListeners": 8110,
+        "region": "NLE"
+      }
+    ]
+  },
+  "worldRank": 0
+}
