@@ -24,17 +24,14 @@ jobs:
       - name: Detect package manager
         id: detect-package-manager
         run: |
-          cd spotify-artists
-          if [ -f "yarn.lock" ]; then
+          if [ -f "spotify-artists/yarn.lock" ]; then
             echo "manager=yarn" >> $GITHUB_OUTPUT
             echo "command=install" >> $GITHUB_OUTPUT
             echo "runner=yarn" >> $GITHUB_OUTPUT
-            exit 0
-          elif [ -f "package.json" ]; then
+          elif [ -f "spotify-artists/package.json" ]; then
             echo "manager=npm" >> $GITHUB_OUTPUT
             echo "command=ci" >> $GITHUB_OUTPUT
             echo "runner=npx --no-install" >> $GITHUB_OUTPUT
-            exit 0
           else
             echo "Unable to determine package manager"
             exit 1
@@ -45,6 +42,7 @@ jobs:
         with:
           node-version: "20"
           cache: ${{ steps.detect-package-manager.outputs.manager }}
+          cache-dependency-path: spotify-artists/package-lock.json
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
