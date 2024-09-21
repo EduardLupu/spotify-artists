@@ -1,0 +1,41 @@
+{
+  "id": "4f9iBmdUOhQWeP7dcAn1pf",
+  "name": "Rag'n'Bone Man",
+  "followers": 1892677,
+  "monthlyListeners": 13869122,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 251537,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 251420,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 172743,
+        "region": "NSW"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 163663,
+        "region": "IDF"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 144146,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

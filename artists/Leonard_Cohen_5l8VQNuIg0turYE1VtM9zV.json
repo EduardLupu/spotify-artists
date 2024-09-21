@@ -1,0 +1,41 @@
+{
+  "id": "5l8VQNuIg0turYE1VtM9zV",
+  "name": "Leonard Cohen",
+  "followers": 3434679,
+  "monthlyListeners": 3239183,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 52001,
+        "region": "ENG"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 51783,
+        "region": "34"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 46731,
+        "region": "IDF"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 44127,
+        "region": "NH"
+      },
+      {
+        "city": "Tel Aviv",
+        "country": "IL",
+        "numberOfListeners": 42038,
+        "region": "TA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "31n3CN1jSC5ALUJ9dwT8UI",
+  "name": "Kameron Marlowe",
+  "followers": 183729,
+  "monthlyListeners": 2795105,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 56370,
+        "region": "IL"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 55745,
+        "region": "NC"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 51193,
+        "region": "TX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 48187,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 43095,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

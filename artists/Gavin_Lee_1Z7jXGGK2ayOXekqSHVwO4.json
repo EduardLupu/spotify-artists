@@ -1,0 +1,41 @@
+{
+  "id": "1Z7jXGGK2ayOXekqSHVwO4",
+  "name": "Gavin Lee",
+  "followers": 1443,
+  "monthlyListeners": 1035,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 25,
+        "region": "IL"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 20,
+        "region": "ON"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 17,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 13,
+        "region": "QLD"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 13,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7xtSF0Lgl1SxwtGmPiN9u9",
+  "name": "LEA",
+  "followers": 26,
+  "monthlyListeners": 23,
+  "topCities": {
+    "items": [
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 2,
+        "region": "BW"
+      },
+      {
+        "city": "Weston-super-Mare",
+        "country": "GB",
+        "numberOfListeners": 2,
+        "region": "ENG"
+      },
+      {
+        "city": "Kolín",
+        "country": "CZ",
+        "numberOfListeners": 1,
+        "region": "20"
+      },
+      {
+        "city": "Anchorage",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "AK"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "GA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

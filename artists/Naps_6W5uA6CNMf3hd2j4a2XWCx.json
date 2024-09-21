@@ -1,0 +1,41 @@
+{
+  "id": "6W5uA6CNMf3hd2j4a2XWCx",
+  "name": "Naps",
+  "followers": 3240303,
+  "monthlyListeners": 4709238,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 717151,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 201640,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 179299,
+        "region": "ARA"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 142839,
+        "region": "PAC"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 127508,
+        "region": "HDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

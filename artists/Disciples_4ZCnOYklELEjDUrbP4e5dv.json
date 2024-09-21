@@ -1,0 +1,41 @@
+{
+  "id": "4ZCnOYklELEjDUrbP4e5dv",
+  "name": "Disciples",
+  "followers": 4258,
+  "monthlyListeners": 53726,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 20694,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 2165,
+        "region": "JB"
+      },
+      {
+        "city": "Medan",
+        "country": "ID",
+        "numberOfListeners": 2151,
+        "region": "SU"
+      },
+      {
+        "city": "Makassar",
+        "country": "ID",
+        "numberOfListeners": 1989,
+        "region": "SN"
+      },
+      {
+        "city": "Manado",
+        "country": "ID",
+        "numberOfListeners": 1847,
+        "region": "SA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

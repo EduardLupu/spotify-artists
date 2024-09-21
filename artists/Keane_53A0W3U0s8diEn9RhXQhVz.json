@@ -1,0 +1,41 @@
+{
+  "id": "53A0W3U0s8diEn9RhXQhVz",
+  "name": "Keane",
+  "followers": 3480325,
+  "monthlyListeners": 18404179,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 823255,
+        "region": "JK"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 321105,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 292214,
+        "region": "CMX"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 238667,
+        "region": "SP"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 219581,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 416
+}

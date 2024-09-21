@@ -1,0 +1,41 @@
+{
+  "id": "1cYhx7ZOhYoVmnDPb9KMwo",
+  "name": "Mc Davi",
+  "followers": 3864307,
+  "monthlyListeners": 8149708,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1664520,
+        "region": "SP"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 408894,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 405748,
+        "region": "MG"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 369861,
+        "region": "RJ"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 360853,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

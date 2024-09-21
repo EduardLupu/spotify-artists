@@ -1,0 +1,41 @@
+{
+  "id": "2tY2GFdhH0Wa2VBvsxew5X",
+  "name": "Alex Ubago",
+  "followers": 2508858,
+  "monthlyListeners": 7414291,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 486260,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 325653,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 283235,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 268257,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 233649,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

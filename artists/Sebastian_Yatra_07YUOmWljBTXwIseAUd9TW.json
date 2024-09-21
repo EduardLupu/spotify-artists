@@ -1,0 +1,41 @@
+{
+  "id": "07YUOmWljBTXwIseAUd9TW",
+  "name": "Sebastian Yatra",
+  "followers": 23040960,
+  "monthlyListeners": 23230601,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 944629,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 931161,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 897493,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 827368,
+        "region": "LMA"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 706847,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 262
+}

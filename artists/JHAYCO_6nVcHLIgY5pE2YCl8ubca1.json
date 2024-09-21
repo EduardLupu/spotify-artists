@@ -1,0 +1,41 @@
+{
+  "id": "6nVcHLIgY5pE2YCl8ubca1",
+  "name": "JHAYCO",
+  "followers": 8051862,
+  "monthlyListeners": 29705114,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1502995,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1255403,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1058939,
+        "region": "CMX"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 891377,
+        "region": "MD"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 833017,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 164
+}

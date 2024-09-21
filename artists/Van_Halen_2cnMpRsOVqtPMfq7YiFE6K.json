@@ -1,0 +1,41 @@
+{
+  "id": "2cnMpRsOVqtPMfq7YiFE6K",
+  "name": "Van Halen",
+  "followers": 6181271,
+  "monthlyListeners": 11702257,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 195672,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 160396,
+        "region": "RM"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 133427,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 121552,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 113298,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1BhWF9W2PngtPSyobKg0rP",
+  "name": "Pia Mia",
+  "followers": 1946943,
+  "monthlyListeners": 2406601,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 76103,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 60967,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 57406,
+        "region": "VIC"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 54471,
+        "region": "JK"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 43973,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

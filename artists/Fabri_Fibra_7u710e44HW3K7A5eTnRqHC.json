@@ -1,0 +1,41 @@
+{
+  "id": "7u710e44HW3K7A5eTnRqHC",
+  "name": "Fabri Fibra",
+  "followers": 1486422,
+  "monthlyListeners": 2895575,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 635165,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 278980,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 110590,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 93612,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 73127,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

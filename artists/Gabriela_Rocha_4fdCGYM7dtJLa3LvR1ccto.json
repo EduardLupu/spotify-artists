@@ -1,0 +1,41 @@
+{
+  "id": "4fdCGYM7dtJLa3LvR1ccto",
+  "name": "Gabriela Rocha",
+  "followers": 7239969,
+  "monthlyListeners": 5142640,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 791236,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 398743,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 249312,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 209388,
+        "region": "SP"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 204122,
+        "region": "DF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

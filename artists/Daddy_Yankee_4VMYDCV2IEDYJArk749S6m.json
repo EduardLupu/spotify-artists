@@ -1,0 +1,41 @@
+{
+  "id": "4VMYDCV2IEDYJArk749S6m",
+  "name": "Daddy Yankee",
+  "followers": 34951268,
+  "monthlyListeners": 53919613,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 2103987,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1597738,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1508365,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 1239140,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 993176,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 37
+}

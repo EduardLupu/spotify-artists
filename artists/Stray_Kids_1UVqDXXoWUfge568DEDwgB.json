@@ -1,0 +1,41 @@
+{
+  "id": "1UVqDXXoWUfge568DEDwgB",
+  "name": "Stray Kids",
+  "followers": 3135,
+  "monthlyListeners": 2138,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 21,
+        "region": "RM"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 19,
+        "region": "BE"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 18,
+        "region": "14"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 17,
+        "region": "10"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 17,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 0
+}

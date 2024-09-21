@@ -1,0 +1,41 @@
+{
+  "id": "5gqmbbfjcikQBzPB5Hv13I",
+  "name": "Gazo",
+  "followers": 3109108,
+  "monthlyListeners": 7094384,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 1079678,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 285860,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 230922,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 190229,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 168063,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

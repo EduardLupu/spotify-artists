@@ -1,0 +1,41 @@
+{
+  "id": "18e9ytkgqeeufJvzmjPctw",
+  "name": "Malu",
+  "followers": 143,
+  "monthlyListeners": 1595,
+  "topCities": {
+    "items": [
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 293,
+        "region": "NY"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 201,
+        "region": "BE"
+      },
+      {
+        "city": "Pomezia",
+        "country": "IT",
+        "numberOfListeners": 79,
+        "region": "62"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 63,
+        "region": "HH"
+      },
+      {
+        "city": "Cologne",
+        "country": "DE",
+        "numberOfListeners": 59,
+        "region": "NW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

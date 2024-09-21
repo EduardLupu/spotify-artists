@@ -1,0 +1,41 @@
+{
+  "id": "0jW6R8CVyVohuUJVcuweDI",
+  "name": "The Piano Guys",
+  "followers": 1317459,
+  "monthlyListeners": 1606805,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 22797,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 16169,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 14889,
+        "region": "ENG"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 13456,
+        "region": ""
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 13267,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

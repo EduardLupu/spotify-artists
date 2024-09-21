@@ -1,0 +1,41 @@
+{
+  "id": "4TEJudQY2pXxVHPE3gD2EU",
+  "name": "BlocBoy JB",
+  "followers": 1385532,
+  "monthlyListeners": 1996502,
+  "topCities": {
+    "items": [
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 31574,
+        "region": "ON"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 28853,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 26994,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 23795,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 23418,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

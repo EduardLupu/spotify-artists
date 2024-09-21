@@ -1,0 +1,41 @@
+{
+  "id": "7dOBabd5O4CvKrg4iriHTM",
+  "name": "Kid Rock",
+  "followers": 2725518,
+  "monthlyListeners": 6436157,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 108135,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 107431,
+        "region": "NSW"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 96998,
+        "region": "ON"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 94078,
+        "region": "QLD"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 83134,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

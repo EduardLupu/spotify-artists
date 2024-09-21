@@ -1,0 +1,41 @@
+{
+  "id": "4YqwRbMLqGHRHLS1w2ZKse",
+  "name": "Veigh",
+  "followers": 4787358,
+  "monthlyListeners": 10379705,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 2000377,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 864372,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 548420,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 470920,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 415241,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

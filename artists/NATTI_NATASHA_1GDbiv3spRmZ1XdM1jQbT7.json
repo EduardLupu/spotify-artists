@@ -1,0 +1,41 @@
+{
+  "id": "1GDbiv3spRmZ1XdM1jQbT7",
+  "name": "NATTI NATASHA",
+  "followers": 10292800,
+  "monthlyListeners": 13817885,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 559162,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 431753,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 409638,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 383815,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 275159,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

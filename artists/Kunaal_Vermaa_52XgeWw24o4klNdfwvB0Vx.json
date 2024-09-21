@@ -1,0 +1,41 @@
+{
+  "id": "52XgeWw24o4klNdfwvB0Vx",
+  "name": "Kunaal Vermaa",
+  "followers": 152668,
+  "monthlyListeners": 15402440,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1351563,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1211085,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1036566,
+        "region": "DL"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 867084,
+        "region": "WB"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 826961,
+        "region": "DL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

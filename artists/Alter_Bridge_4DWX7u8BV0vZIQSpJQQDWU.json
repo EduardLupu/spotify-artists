@@ -1,0 +1,41 @@
+{
+  "id": "4DWX7u8BV0vZIQSpJQQDWU",
+  "name": "Alter Bridge",
+  "followers": 1146485,
+  "monthlyListeners": 1683801,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 38866,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 30439,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 28271,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 22009,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 16529,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

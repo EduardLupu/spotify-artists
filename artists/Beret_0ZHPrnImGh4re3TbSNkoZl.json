@@ -1,0 +1,41 @@
+{
+  "id": "0ZHPrnImGh4re3TbSNkoZl",
+  "name": "Beret",
+  "followers": 3035000,
+  "monthlyListeners": 5376915,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 366330,
+        "region": "MD"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 213206,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 208540,
+        "region": "RM"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 197581,
+        "region": "CT"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 165293,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

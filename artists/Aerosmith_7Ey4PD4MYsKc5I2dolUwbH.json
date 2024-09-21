@@ -1,0 +1,41 @@
+{
+  "id": "7Ey4PD4MYsKc5I2dolUwbH",
+  "name": "Aerosmith",
+  "followers": 14584132,
+  "monthlyListeners": 22168821,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 436525,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 394475,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 304273,
+        "region": "CMX"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 283273,
+        "region": "JK"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 235674,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 298
+}

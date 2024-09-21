@@ -1,0 +1,41 @@
+{
+  "id": "0JOxt5QOwq0czoJxvSc5hS",
+  "name": "GASHI",
+  "followers": 247246,
+  "monthlyListeners": 1166905,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 20225,
+        "region": "NSW"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 15687,
+        "region": "ON"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 14336,
+        "region": "QC"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 13488,
+        "region": "BE"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 12553,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

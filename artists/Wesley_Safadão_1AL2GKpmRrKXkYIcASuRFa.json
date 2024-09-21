@@ -1,0 +1,41 @@
+{
+  "id": "1AL2GKpmRrKXkYIcASuRFa",
+  "name": "Wesley Safadão",
+  "followers": 11657094,
+  "monthlyListeners": 7323432,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1041787,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 361051,
+        "region": "MG"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 315406,
+        "region": "RJ"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 305858,
+        "region": "DF"
+      },
+      {
+        "city": "Fortaleza",
+        "country": "BR",
+        "numberOfListeners": 289629,
+        "region": "CE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

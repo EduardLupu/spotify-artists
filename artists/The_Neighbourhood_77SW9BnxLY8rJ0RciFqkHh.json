@@ -1,0 +1,41 @@
+{
+  "id": "77SW9BnxLY8rJ0RciFqkHh",
+  "name": "The Neighbourhood",
+  "followers": 17866107,
+  "monthlyListeners": 43552547,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 672177,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 658537,
+        "region": "SP"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 499533,
+        "region": "34"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 392593,
+        "region": "ENG"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 374366,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 66
+}

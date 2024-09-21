@@ -1,0 +1,41 @@
+{
+  "id": "7fT2Me47PQ8T7954PKrcwR",
+  "name": "Bhavi",
+  "followers": 1485465,
+  "monthlyListeners": 5248888,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 707804,
+        "region": "C"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 324560,
+        "region": "B"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 317738,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 239408,
+        "region": "LMA"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 158253,
+        "region": "X"
+      }
+    ]
+  },
+  "worldRank": 0
+}

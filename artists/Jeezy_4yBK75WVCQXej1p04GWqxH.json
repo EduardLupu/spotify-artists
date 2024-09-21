@@ -1,0 +1,41 @@
+{
+  "id": "4yBK75WVCQXej1p04GWqxH",
+  "name": "Jeezy",
+  "followers": 2430628,
+  "monthlyListeners": 4190943,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 101266,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 98088,
+        "region": "TX"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 88512,
+        "region": "GA"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 87955,
+        "region": "NC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 81502,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

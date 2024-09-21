@@ -1,0 +1,41 @@
+{
+  "id": "6HQ6vf4AloXyVNdyJhrX1J",
+  "name": "GAMPER & DADONI",
+  "followers": 151551,
+  "monthlyListeners": 7048844,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 116760,
+        "region": "BE"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 110599,
+        "region": "NH"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 108722,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 96602,
+        "region": "ENG"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 89657,
+        "region": "HH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

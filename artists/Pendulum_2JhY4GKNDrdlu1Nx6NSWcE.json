@@ -1,0 +1,41 @@
+{
+  "id": "2JhY4GKNDrdlu1Nx6NSWcE",
+  "name": "Pendulum",
+  "followers": 59,
+  "monthlyListeners": 342,
+  "topCities": {
+    "items": [
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 46,
+        "region": "BRU"
+      },
+      {
+        "city": "Antwerp",
+        "country": "BE",
+        "numberOfListeners": 21,
+        "region": "VLG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 18,
+        "region": "NH"
+      },
+      {
+        "city": "Ghent",
+        "country": "BE",
+        "numberOfListeners": 11,
+        "region": "VLG"
+      },
+      {
+        "city": "Mechelen",
+        "country": "BE",
+        "numberOfListeners": 6,
+        "region": "VLG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

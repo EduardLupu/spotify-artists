@@ -1,0 +1,41 @@
+{
+  "id": "1grN0519h2zYqpRtYbDZAl",
+  "name": "Larry June",
+  "followers": 420382,
+  "monthlyListeners": 2572975,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 97487,
+        "region": "CA"
+      },
+      {
+        "city": "San Francisco",
+        "country": "US",
+        "numberOfListeners": 49268,
+        "region": "CA"
+      },
+      {
+        "city": "Sacramento",
+        "country": "US",
+        "numberOfListeners": 47481,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 40832,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 39106,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

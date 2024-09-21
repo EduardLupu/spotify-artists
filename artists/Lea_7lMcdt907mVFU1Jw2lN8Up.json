@@ -1,0 +1,41 @@
+{
+  "id": "7lMcdt907mVFU1Jw2lN8Up",
+  "name": "Lea",
+  "followers": 30,
+  "monthlyListeners": 5,
+  "topCities": {
+    "items": [
+      {
+        "city": "Boston",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "MA"
+      },
+      {
+        "city": "Windsor",
+        "country": "CA",
+        "numberOfListeners": 1,
+        "region": "ON"
+      },
+      {
+        "city": "South Burlington",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "VT"
+      },
+      {
+        "city": "Riverside",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "CA"
+      },
+      {
+        "city": "Hamilton",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "MT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

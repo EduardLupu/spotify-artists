@@ -1,0 +1,41 @@
+{
+  "id": "5isqImG0rLfAgBJSPMEVXF",
+  "name": "Blonde Redhead",
+  "followers": 346857,
+  "monthlyListeners": 1046139,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 16945,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 15648,
+        "region": "ENG"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 13498,
+        "region": "34"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 13054,
+        "region": "IDF"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 13004,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

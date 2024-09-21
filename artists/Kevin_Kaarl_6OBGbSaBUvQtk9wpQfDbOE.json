@@ -1,0 +1,41 @@
+{
+  "id": "6OBGbSaBUvQtk9wpQfDbOE",
+  "name": "Kevin Kaarl",
+  "followers": 7508200,
+  "monthlyListeners": 7989693,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 537128,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 264086,
+        "region": "DC"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 258605,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 248356,
+        "region": "JAL"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 230840,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

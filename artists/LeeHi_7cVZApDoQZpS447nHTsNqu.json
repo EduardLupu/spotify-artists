@@ -1,0 +1,41 @@
+{
+  "id": "7cVZApDoQZpS447nHTsNqu",
+  "name": "LeeHi",
+  "followers": 1790596,
+  "monthlyListeners": 3983805,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 301020,
+        "region": "JK"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 111597,
+        "region": "14"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 90692,
+        "region": "10"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 82479,
+        "region": "00"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 71149,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 0
+}

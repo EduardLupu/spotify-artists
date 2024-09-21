@@ -1,0 +1,41 @@
+{
+  "id": "3m5qlPf2OkihLz3dRYnkPA",
+  "name": "Ovy On The Drums",
+  "followers": 410512,
+  "monthlyListeners": 21434704,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1573024,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1322999,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 869851,
+        "region": "LMA"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 835218,
+        "region": "ANT"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 663505,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 328
+}

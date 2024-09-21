@@ -1,0 +1,41 @@
+{
+  "id": "19i93sA0D7yS9dYoVNBqAA",
+  "name": "thasup",
+  "followers": 2331600,
+  "monthlyListeners": 3464180,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 888209,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 390750,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 138079,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 136553,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 105455,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6eJqAWJdd8JhAN1pQGie4r",
+  "name": "Casting Crowns",
+  "followers": 2125703,
+  "monthlyListeners": 2943455,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 49479,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 42565,
+        "region": "NC"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 36471,
+        "region": "GA"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 35429,
+        "region": "SP"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 35305,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

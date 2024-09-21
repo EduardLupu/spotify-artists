@@ -1,0 +1,41 @@
+{
+  "id": "0UBhX1nXyruGWC1bMeGG1F",
+  "name": "Lisa",
+  "followers": 537,
+  "monthlyListeners": 11276,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 1556,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 798,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 338,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 237,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 171,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

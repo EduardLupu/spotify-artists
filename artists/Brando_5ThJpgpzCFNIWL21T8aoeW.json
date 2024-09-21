@@ -1,0 +1,41 @@
+{
+  "id": "5ThJpgpzCFNIWL21T8aoeW",
+  "name": "Brando",
+  "followers": 101,
+  "monthlyListeners": 2844,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 85,
+        "region": "14"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 44,
+        "region": "BE"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 30,
+        "region": "CMX"
+      },
+      {
+        "city": "Wroclaw",
+        "country": "PL",
+        "numberOfListeners": 30,
+        "region": "02"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 29,
+        "region": "CT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

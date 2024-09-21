@@ -1,0 +1,41 @@
+{
+  "id": "5RwfJb8wxN1fuodcPORVxP",
+  "name": "José Luis Perales",
+  "followers": 2517618,
+  "monthlyListeners": 4864547,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 265046,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 254679,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 174879,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 126743,
+        "region": "LMA"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 119460,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "594DfRlIqcVTpkp1G6wXls",
+  "name": "V",
+  "followers": 301,
+  "monthlyListeners": 6996,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 265,
+        "region": "ENG"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 236,
+        "region": "BE"
+      },
+      {
+        "city": "Vilnius",
+        "country": "LT",
+        "numberOfListeners": 182,
+        "region": "VL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 157,
+        "region": "VIC"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 148,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

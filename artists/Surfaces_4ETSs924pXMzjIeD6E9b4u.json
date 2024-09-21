@@ -1,0 +1,41 @@
+{
+  "id": "4ETSs924pXMzjIeD6E9b4u",
+  "name": "Surfaces",
+  "followers": 946970,
+  "monthlyListeners": 6643677,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 123746,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 90992,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 86183,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 78510,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 74058,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

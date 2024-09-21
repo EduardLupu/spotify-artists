@@ -1,0 +1,41 @@
+{
+  "id": "5vCOdeiQt9LyzdI87kt5Sh",
+  "name": "AronChupa",
+  "followers": 421324,
+  "monthlyListeners": 3155059,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 50950,
+        "region": "CMX"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 44475,
+        "region": "AB"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 34909,
+        "region": "10"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 29384,
+        "region": "NSW"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 28936,
+        "region": "18"
+      }
+    ]
+  },
+  "worldRank": 0
+}

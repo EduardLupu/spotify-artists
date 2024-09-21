@@ -1,0 +1,41 @@
+{
+  "id": "09X1kbjR9O2Cb3gdPvpgKG",
+  "name": "Ève",
+  "followers": 2827,
+  "monthlyListeners": 24829,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 5093,
+        "region": "IDF"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 1096,
+        "region": "ARA"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 948,
+        "region": "BRU"
+      },
+      {
+        "city": "Bordeaux",
+        "country": "FR",
+        "numberOfListeners": 711,
+        "region": "NAQ"
+      },
+      {
+        "city": "Nantes",
+        "country": "FR",
+        "numberOfListeners": 698,
+        "region": "PDL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

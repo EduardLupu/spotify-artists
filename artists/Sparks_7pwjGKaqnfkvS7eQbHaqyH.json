@@ -1,0 +1,41 @@
+{
+  "id": "7pwjGKaqnfkvS7eQbHaqyH",
+  "name": "Sparks",
+  "followers": 229936,
+  "monthlyListeners": 412194,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 12758,
+        "region": "ENG"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 7526,
+        "region": "IDF"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 5292,
+        "region": "CA"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 4625,
+        "region": "BE"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 4532,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

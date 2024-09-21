@@ -1,0 +1,41 @@
+{
+  "id": "0CkGP5VMLTeeV9ObbfeGrE",
+  "name": "Alex G",
+  "followers": 473,
+  "monthlyListeners": 1180,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 36,
+        "region": "NSW"
+      },
+      {
+        "city": "Vedano al Lambro",
+        "country": "IT",
+        "numberOfListeners": 32,
+        "region": "25"
+      },
+      {
+        "city": "Lissone",
+        "country": "IT",
+        "numberOfListeners": 30,
+        "region": "25"
+      },
+      {
+        "city": "Saronno",
+        "country": "IT",
+        "numberOfListeners": 27,
+        "region": "25"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 27,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

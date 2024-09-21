@@ -1,0 +1,41 @@
+{
+  "id": "1eClJfHLoDI4rZe5HxzBFv",
+  "name": "INXS",
+  "followers": 2729787,
+  "monthlyListeners": 9095521,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 323937,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 280241,
+        "region": "VIC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 256667,
+        "region": "RM"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 226864,
+        "region": "QLD"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 184681,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

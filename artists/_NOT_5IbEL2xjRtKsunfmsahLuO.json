@@ -1,0 +1,41 @@
+{
+  "id": "5IbEL2xjRtKsunfmsahLuO",
+  "name": "$NOT",
+  "followers": 1541039,
+  "monthlyListeners": 5128572,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 72691,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 70602,
+        "region": "CA"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 58925,
+        "region": "AZ"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 55868,
+        "region": "TX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 53281,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

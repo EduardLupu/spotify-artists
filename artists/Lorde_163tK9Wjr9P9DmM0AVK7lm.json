@@ -1,0 +1,41 @@
+{
+  "id": "163tK9Wjr9P9DmM0AVK7lm",
+  "name": "Lorde",
+  "followers": 10043005,
+  "monthlyListeners": 20100529,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 352881,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 331626,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 321504,
+        "region": "VIC"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 275452,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 249458,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 355
+}

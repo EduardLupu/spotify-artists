@@ -1,0 +1,41 @@
+{
+  "id": "3SgHzT552wy2W8pNLaLk24",
+  "name": "Hillsong Worship",
+  "followers": 6086395,
+  "monthlyListeners": 5739006,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 142417,
+        "region": "JK"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 131414,
+        "region": "00"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 86699,
+        "region": "GP"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 77805,
+        "region": "TX"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 77640,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 0
+}

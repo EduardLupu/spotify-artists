@@ -1,0 +1,41 @@
+{
+  "id": "1i8SpTcr7yvPOmcqrbnVXY",
+  "name": "Ozuna",
+  "followers": 37385290,
+  "monthlyListeners": 42325658,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1828450,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1494770,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1397681,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 1162042,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1066277,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 70
+}

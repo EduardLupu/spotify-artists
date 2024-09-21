@@ -1,0 +1,41 @@
+{
+  "id": "2osoVujXgV0PA8lhqDKYFw",
+  "name": "Callejeros",
+  "followers": 1990661,
+  "monthlyListeners": 1708745,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 552913,
+        "region": "C"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 227286,
+        "region": "B"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 97179,
+        "region": "X"
+      },
+      {
+        "city": "Montevideo",
+        "country": "UY",
+        "numberOfListeners": 71088,
+        "region": "MO"
+      },
+      {
+        "city": "Rosario",
+        "country": "AR",
+        "numberOfListeners": 55540,
+        "region": "S"
+      }
+    ]
+  },
+  "worldRank": 0
+}

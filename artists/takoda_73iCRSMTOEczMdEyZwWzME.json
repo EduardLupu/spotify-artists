@@ -1,0 +1,41 @@
+{
+  "id": "73iCRSMTOEczMdEyZwWzME",
+  "name": "takoda",
+  "followers": 513,
+  "monthlyListeners": 6514,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 194,
+        "region": "13"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 148,
+        "region": "CA"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 109,
+        "region": "NY"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 106,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 100,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

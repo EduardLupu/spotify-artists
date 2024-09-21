@@ -1,0 +1,41 @@
+{
+  "id": "36x42ZaAtvHl7WtxP3AkAR",
+  "name": "Bk",
+  "followers": 48,
+  "monthlyListeners": 825,
+  "topCities": {
+    "items": [
+      {
+        "city": "Panama City",
+        "country": "PA",
+        "numberOfListeners": 590,
+        "region": "8"
+      },
+      {
+        "city": "David",
+        "country": "PA",
+        "numberOfListeners": 13,
+        "region": "4"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 10,
+        "region": "ANT"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 10,
+        "region": "DC"
+      },
+      {
+        "city": "San José",
+        "country": "CR",
+        "numberOfListeners": 8,
+        "region": "SJ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

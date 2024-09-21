@@ -1,0 +1,41 @@
+{
+  "id": "64M6ah0SkkRsnPGtGiRAbb",
+  "name": "Bebe Rexha",
+  "followers": 9300499,
+  "monthlyListeners": 40839197,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 586253,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 519736,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 468634,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 421259,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 379890,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 76
+}

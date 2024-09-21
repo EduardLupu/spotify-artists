@@ -1,0 +1,41 @@
+{
+  "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+  "name": "Kendrick Lamar",
+  "followers": 32881987,
+  "monthlyListeners": 66661458,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1089718,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 1080315,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 936598,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 931311,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 865764,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 19
+}

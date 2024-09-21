@@ -1,0 +1,41 @@
+{
+  "id": "3jFjgKOGfVLWfXX8q5wrsg",
+  "name": "R.K.M & Ken-Y",
+  "followers": 631113,
+  "monthlyListeners": 6318604,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 700568,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 419701,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 402629,
+        "region": "DC"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 234198,
+        "region": "ANT"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 191351,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

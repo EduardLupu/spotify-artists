@@ -1,0 +1,41 @@
+{
+  "id": "1V3VTM7VspiQjcmRhC010n",
+  "name": "Quintino",
+  "followers": 623708,
+  "monthlyListeners": 1632219,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 36917,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 28554,
+        "region": "ZH"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 21911,
+        "region": "BRU"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 19633,
+        "region": "SP"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 17316,
+        "region": "HH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

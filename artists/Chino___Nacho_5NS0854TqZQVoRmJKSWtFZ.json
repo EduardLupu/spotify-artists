@@ -1,0 +1,41 @@
+{
+  "id": "5NS0854TqZQVoRmJKSWtFZ",
+  "name": "Chino & Nacho",
+  "followers": 2807884,
+  "monthlyListeners": 5680346,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 338343,
+        "region": "LMA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 297041,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 259472,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 145755,
+        "region": "CMX"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 114742,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

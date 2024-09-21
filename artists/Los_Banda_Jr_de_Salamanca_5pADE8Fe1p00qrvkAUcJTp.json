@@ -1,0 +1,41 @@
+{
+  "id": "5pADE8Fe1p00qrvkAUcJTp",
+  "name": "Los Banda Jr de Salamanca",
+  "followers": 509,
+  "monthlyListeners": 1995,
+  "topCities": {
+    "items": [
+      {
+        "city": "Monterrey",
+        "country": "MX",
+        "numberOfListeners": 103,
+        "region": "NLE"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 89,
+        "region": "CMX"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 79,
+        "region": "QUE"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 52,
+        "region": "TX"
+      },
+      {
+        "city": "San Nicolás de los Garza",
+        "country": "MX",
+        "numberOfListeners": 47,
+        "region": "NLE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7qjW72vTKKkwb0u9dOgTZD",
+  "name": "Lea",
+  "followers": 83,
+  "monthlyListeners": 5902,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 1065,
+        "region": "14"
+      },
+      {
+        "city": "Poznan",
+        "country": "PL",
+        "numberOfListeners": 297,
+        "region": "30"
+      },
+      {
+        "city": "Krakow",
+        "country": "PL",
+        "numberOfListeners": 288,
+        "region": "12"
+      },
+      {
+        "city": "Wroclaw",
+        "country": "PL",
+        "numberOfListeners": 261,
+        "region": "02"
+      },
+      {
+        "city": "Katowice",
+        "country": "PL",
+        "numberOfListeners": 250,
+        "region": "24"
+      }
+    ]
+  },
+  "worldRank": 0
+}

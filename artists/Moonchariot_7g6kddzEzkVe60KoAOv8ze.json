@@ -1,0 +1,41 @@
+{
+  "id": "7g6kddzEzkVe60KoAOv8ze",
+  "name": "Moonchariot",
+  "followers": 828,
+  "monthlyListeners": 562,
+  "topCities": {
+    "items": [
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 50,
+        "region": "JAL"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 43,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 28,
+        "region": "RM"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 26,
+        "region": "JAL"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 20,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

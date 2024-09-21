@@ -1,0 +1,41 @@
+{
+  "id": "6ASri4ePR7RlsvIQgWPJpS",
+  "name": "iann dior",
+  "followers": 1861239,
+  "monthlyListeners": 13524216,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 189378,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 174985,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 142718,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 126355,
+        "region": "QLD"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 124109,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7cTXfwpe9peK0UE1bZyIWZ",
+  "name": "Pinkfong",
+  "followers": 355415,
+  "monthlyListeners": 4727054,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 75658,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 67727,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 57458,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 56991,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 51812,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

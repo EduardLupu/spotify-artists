@@ -1,0 +1,41 @@
+{
+  "id": "27Uy7A0cZaY0DF2Xu3jffN",
+  "name": "BM",
+  "followers": 14617,
+  "monthlyListeners": 24616,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sofia",
+        "country": "BG",
+        "numberOfListeners": 16866,
+        "region": "22"
+      },
+      {
+        "city": "Varna",
+        "country": "BG",
+        "numberOfListeners": 2628,
+        "region": "03"
+      },
+      {
+        "city": "Burgas",
+        "country": "BG",
+        "numberOfListeners": 1009,
+        "region": "02"
+      },
+      {
+        "city": "Plovdiv",
+        "country": "BG",
+        "numberOfListeners": 782,
+        "region": "16"
+      },
+      {
+        "city": "Stara Zagora",
+        "country": "BG",
+        "numberOfListeners": 350,
+        "region": "24"
+      }
+    ]
+  },
+  "worldRank": 0
+}

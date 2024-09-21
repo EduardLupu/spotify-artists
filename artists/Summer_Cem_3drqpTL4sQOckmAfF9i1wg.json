@@ -1,0 +1,41 @@
+{
+  "id": "3drqpTL4sQOckmAfF9i1wg",
+  "name": "Summer Cem",
+  "followers": 1107878,
+  "monthlyListeners": 3374287,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 256450,
+        "region": "34"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 253439,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 218477,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 208095,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 173775,
+        "region": "BY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2YHPVKeJcX02OyeNneU5v3",
+  "name": "XANAKIN SKYWOK",
+  "followers": 121914,
+  "monthlyListeners": 414856,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 5845,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 4982,
+        "region": "TX"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 4780,
+        "region": "WA"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 4405,
+        "region": "AZ"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 4270,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4WtoiveibGCT7hLQYvjrDU",
+  "name": "Robi",
+  "followers": 2785,
+  "monthlyListeners": 11209,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 1175,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 280,
+        "region": "BRU"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 259,
+        "region": "BE"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 224,
+        "region": "ARA"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 204,
+        "region": "34"
+      }
+    ]
+  },
+  "worldRank": 0
+}

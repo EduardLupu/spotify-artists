@@ -1,0 +1,41 @@
+{
+  "id": "0FOWNUFHPnMy0vOw1siGqi",
+  "name": "Belly",
+  "followers": 249325,
+  "monthlyListeners": 1679684,
+  "topCities": {
+    "items": [
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 43320,
+        "region": "ON"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 39539,
+        "region": "CA"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 21976,
+        "region": "AZ"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 21611,
+        "region": "IL"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 20768,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

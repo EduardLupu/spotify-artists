@@ -1,0 +1,41 @@
+{
+  "id": "0QJIPDAEDILuo8AIq3pMuU",
+  "name": "M.I.A.",
+  "followers": 1352901,
+  "monthlyListeners": 8462101,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 134718,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 123958,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 112035,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 91716,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 91513,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

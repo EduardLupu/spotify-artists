@@ -1,0 +1,29 @@
+{
+  "id": "70QAg69Cbqhq1bpF642Hh8",
+  "name": "MAX",
+  "followers": 12,
+  "monthlyListeners": 1,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "IDF"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "HDF"
+      },
+      {
+        "city": "Bagneux",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

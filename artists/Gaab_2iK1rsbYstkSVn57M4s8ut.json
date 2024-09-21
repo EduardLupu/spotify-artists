@@ -1,0 +1,41 @@
+{
+  "id": "2iK1rsbYstkSVn57M4s8ut",
+  "name": "Gaab",
+  "followers": 1648523,
+  "monthlyListeners": 5263299,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1033963,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 344315,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 239827,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 219822,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 205634,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

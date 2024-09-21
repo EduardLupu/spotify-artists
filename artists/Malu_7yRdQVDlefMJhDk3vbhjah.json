@@ -1,0 +1,41 @@
+{
+  "id": "7yRdQVDlefMJhDk3vbhjah",
+  "name": "Malu",
+  "followers": 14826,
+  "monthlyListeners": 94467,
+  "topCities": {
+    "items": [
+      {
+        "city": "Athens",
+        "country": "GR",
+        "numberOfListeners": 25278,
+        "region": "I"
+      },
+      {
+        "city": "Tel Aviv",
+        "country": "IL",
+        "numberOfListeners": 10743,
+        "region": "TA"
+      },
+      {
+        "city": "Thessaloniki",
+        "country": "GR",
+        "numberOfListeners": 8200,
+        "region": "B"
+      },
+      {
+        "city": "Nicosia",
+        "country": "CY",
+        "numberOfListeners": 1782,
+        "region": "01"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 1779,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

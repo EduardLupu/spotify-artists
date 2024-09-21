@@ -1,0 +1,41 @@
+{
+  "id": "3PyJHH2wyfQK3WZrk9rpmP",
+  "name": "Ashnikko",
+  "followers": 2368955,
+  "monthlyListeners": 5336355,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 62780,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 60911,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 55101,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 53913,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 49125,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

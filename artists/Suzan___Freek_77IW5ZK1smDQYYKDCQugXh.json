@@ -1,0 +1,41 @@
+{
+  "id": "77IW5ZK1smDQYYKDCQugXh",
+  "name": "Suzan & Freek",
+  "followers": 603567,
+  "monthlyListeners": 1204224,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 310933,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 243460,
+        "region": "ZH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 134439,
+        "region": "UT"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 84181,
+        "region": "BRU"
+      },
+      {
+        "city": "Amersfoort",
+        "country": "NL",
+        "numberOfListeners": 49444,
+        "region": "UT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2GoeZ0qOTt6kjsWW4eA6LS",
+  "name": "Darshan Raval",
+  "followers": 22459545,
+  "monthlyListeners": 17929643,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1748249,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1578848,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1290068,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 1042791,
+        "region": "DL"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 944082,
+        "region": "WB"
+      }
+    ]
+  },
+  "worldRank": 431
+}

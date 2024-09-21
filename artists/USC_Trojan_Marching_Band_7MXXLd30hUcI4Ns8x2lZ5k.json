@@ -1,0 +1,41 @@
+{
+  "id": "7MXXLd30hUcI4Ns8x2lZ5k",
+  "name": "USC Trojan Marching Band",
+  "followers": 1834,
+  "monthlyListeners": 8176,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 815,
+        "region": "CA"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 343,
+        "region": "PUE"
+      },
+      {
+        "city": "Las Vegas",
+        "country": "US",
+        "numberOfListeners": 166,
+        "region": "NV"
+      },
+      {
+        "city": "Xalapa",
+        "country": "MX",
+        "numberOfListeners": 161,
+        "region": "VER"
+      },
+      {
+        "city": "Riverside",
+        "country": "US",
+        "numberOfListeners": 136,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

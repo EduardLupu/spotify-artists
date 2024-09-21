@@ -1,0 +1,41 @@
+{
+  "id": "7DuTB6wdzqFJGFLSH17k8e",
+  "name": "Bhad Bhabie",
+  "followers": 3399836,
+  "monthlyListeners": 1606647,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 27362,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 24480,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 20654,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 19832,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 16991,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

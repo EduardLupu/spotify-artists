@@ -1,0 +1,41 @@
+{
+  "id": "0rSTXALHu0EKAawPLBdODH",
+  "name": "Marisa Monte",
+  "followers": 2227368,
+  "monthlyListeners": 3423532,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 547858,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 281523,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 169865,
+        "region": "MG"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 118607,
+        "region": "DF"
+      },
+      {
+        "city": "Salvador",
+        "country": "BR",
+        "numberOfListeners": 109902,
+        "region": "BA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

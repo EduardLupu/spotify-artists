@@ -1,0 +1,41 @@
+{
+  "id": "5SHxzwjek1Pipl1Yk11UHv",
+  "name": "Tom Grennan",
+  "followers": 565733,
+  "monthlyListeners": 5044713,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 227702,
+        "region": "ENG"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 98893,
+        "region": "L"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 88231,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 80904,
+        "region": "NSW"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 80330,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

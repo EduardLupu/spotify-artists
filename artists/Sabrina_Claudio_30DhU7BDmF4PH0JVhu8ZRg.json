@@ -1,0 +1,41 @@
+{
+  "id": "30DhU7BDmF4PH0JVhu8ZRg",
+  "name": "Sabrina Claudio",
+  "followers": 1681916,
+  "monthlyListeners": 2725349,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 47881,
+        "region": "CA"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 40651,
+        "region": "GP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 36341,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 35542,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 31392,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

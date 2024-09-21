@@ -1,0 +1,41 @@
+{
+  "id": "1wAtSe79kItIb9nf5EhI2Q",
+  "name": "Niro",
+  "followers": 1194005,
+  "monthlyListeners": 1921527,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 271545,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 78427,
+        "region": "BRU"
+      },
+      {
+        "city": "Casablanca",
+        "country": "MA",
+        "numberOfListeners": 64484,
+        "region": "06"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 62435,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 51410,
+        "region": "HDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

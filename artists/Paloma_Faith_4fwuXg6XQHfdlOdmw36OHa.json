@@ -1,0 +1,41 @@
+{
+  "id": "4fwuXg6XQHfdlOdmw36OHa",
+  "name": "Paloma Faith",
+  "followers": 1271686,
+  "monthlyListeners": 6667178,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 137622,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 124067,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 89418,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 85553,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 73977,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

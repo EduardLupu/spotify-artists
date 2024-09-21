@@ -1,0 +1,41 @@
+{
+  "id": "43BxCL6t4c73BQnIJtry5v",
+  "name": "James Hype",
+  "followers": 388786,
+  "monthlyListeners": 10802837,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 211282,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 164719,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 160416,
+        "region": "NH"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 149263,
+        "region": "25"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 136616,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

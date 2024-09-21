@@ -1,0 +1,41 @@
+{
+  "id": "3juzOjpaVU73kK8WdtkGB4",
+  "name": "Cream",
+  "followers": 697,
+  "monthlyListeners": 1550,
+  "topCities": {
+    "items": [
+      {
+        "city": "Cape Town",
+        "country": "ZA",
+        "numberOfListeners": 523,
+        "region": "WC"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 136,
+        "region": "GP"
+      },
+      {
+        "city": "Pretoria",
+        "country": "ZA",
+        "numberOfListeners": 45,
+        "region": "GP"
+      },
+      {
+        "city": "Port Elizabeth",
+        "country": "ZA",
+        "numberOfListeners": 37,
+        "region": "EC"
+      },
+      {
+        "city": "Durban",
+        "country": "ZA",
+        "numberOfListeners": 35,
+        "region": "KZN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

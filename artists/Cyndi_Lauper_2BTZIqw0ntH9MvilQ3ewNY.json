@@ -1,0 +1,41 @@
+{
+  "id": "2BTZIqw0ntH9MvilQ3ewNY",
+  "name": "Cyndi Lauper",
+  "followers": 2819673,
+  "monthlyListeners": 19184763,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 411468,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 357419,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 237662,
+        "region": "CMX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 224358,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 205026,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 390
+}

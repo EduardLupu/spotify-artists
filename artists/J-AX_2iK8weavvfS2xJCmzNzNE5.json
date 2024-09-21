@@ -1,0 +1,41 @@
+{
+  "id": "2iK8weavvfS2xJCmzNzNE5",
+  "name": "J-AX",
+  "followers": 2047099,
+  "monthlyListeners": 1164364,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 223064,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 83700,
+        "region": "62"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 31898,
+        "region": "21"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 23918,
+        "region": "72"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 23651,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

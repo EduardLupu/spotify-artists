@@ -1,0 +1,41 @@
+{
+  "id": "1si6WHnb1ywwJ2lpFRUHcc",
+  "name": "Fergie",
+  "followers": 4687,
+  "monthlyListeners": 31306,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 742,
+        "region": "C"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 446,
+        "region": "VIC"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 420,
+        "region": "BE"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 413,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 400,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

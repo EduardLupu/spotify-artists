@@ -1,0 +1,41 @@
+{
+  "id": "12vb80Km0Ew53ABfJOepVz",
+  "name": "Ñengo Flow",
+  "followers": 6424882,
+  "monthlyListeners": 15688421,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1296535,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 817910,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 657776,
+        "region": "CMX"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 498781,
+        "region": "ANT"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 438836,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

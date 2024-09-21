@@ -1,0 +1,41 @@
+{
+  "id": "7CnWVhfXRU4HM3p9ZlBaAo",
+  "name": "Fuego",
+  "followers": 982,
+  "monthlyListeners": 11502,
+  "topCities": {
+    "items": [
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 7362,
+        "region": "14"
+      },
+      {
+        "city": "Petaling Jaya",
+        "country": "MY",
+        "numberOfListeners": 1936,
+        "region": "10"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 708,
+        "region": ""
+      },
+      {
+        "city": "Puchong Batu Dua Belas",
+        "country": "MY",
+        "numberOfListeners": 669,
+        "region": "10"
+      },
+      {
+        "city": "Shah Alam",
+        "country": "MY",
+        "numberOfListeners": 639,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

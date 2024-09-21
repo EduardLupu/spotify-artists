@@ -1,0 +1,41 @@
+{
+  "id": "2KsP6tYLJlTBvSUxnwlVWa",
+  "name": "Mike Posner",
+  "followers": 1390454,
+  "monthlyListeners": 15338230,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 241546,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 213971,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 200559,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 170644,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 141150,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

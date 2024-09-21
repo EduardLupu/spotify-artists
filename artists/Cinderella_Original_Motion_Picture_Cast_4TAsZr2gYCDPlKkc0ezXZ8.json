@@ -1,0 +1,41 @@
+{
+  "id": "4TAsZr2gYCDPlKkc0ezXZ8",
+  "name": "Cinderella Original Motion Picture Cast",
+  "followers": 19374,
+  "monthlyListeners": 320244,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 5609,
+        "region": "SP"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 4089,
+        "region": "MH"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 3882,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 3796,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 3557,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "42WnPuAjfmjQudy4mRMPiX",
+  "name": "ARASHI",
+  "followers": 1410,
+  "monthlyListeners": 1219,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 174,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 88,
+        "region": "62"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 28,
+        "region": "21"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 27,
+        "region": "72"
+      },
+      {
+        "city": "Bologna",
+        "country": "IT",
+        "numberOfListeners": 24,
+        "region": "45"
+      }
+    ]
+  },
+  "worldRank": 0
+}

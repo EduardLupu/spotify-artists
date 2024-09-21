@@ -1,0 +1,41 @@
+{
+  "id": "4BFn4jmfqSNaHtPWHTcy41",
+  "name": "MamboLosco",
+  "followers": 893869,
+  "monthlyListeners": 1454015,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 336702,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 124851,
+        "region": "62"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 51687,
+        "region": "21"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 44638,
+        "region": "72"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 35834,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

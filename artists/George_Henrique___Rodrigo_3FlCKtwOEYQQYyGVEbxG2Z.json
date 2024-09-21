@@ -1,0 +1,41 @@
+{
+  "id": "3FlCKtwOEYQQYyGVEbxG2Z",
+  "name": "George Henrique & Rodrigo",
+  "followers": 1588016,
+  "monthlyListeners": 6684935,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 967031,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 397399,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 343687,
+        "region": "PR"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 329214,
+        "region": "DF"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 305163,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

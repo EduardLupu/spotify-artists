@@ -1,0 +1,41 @@
+{
+  "id": "7IAFAOtc9kTYNTizhLSWM6",
+  "name": "Hollow Coves",
+  "followers": 711600,
+  "monthlyListeners": 7055753,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 119182,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 96765,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 89743,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 84399,
+        "region": "SP"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 78718,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

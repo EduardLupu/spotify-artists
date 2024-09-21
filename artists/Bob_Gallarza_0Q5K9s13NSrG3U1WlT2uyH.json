@@ -1,0 +1,41 @@
+{
+  "id": "0Q5K9s13NSrG3U1WlT2uyH",
+  "name": "Bob Gallarza",
+  "followers": 3384,
+  "monthlyListeners": 8802,
+  "topCities": {
+    "items": [
+      {
+        "city": "San Antonio",
+        "country": "US",
+        "numberOfListeners": 1153,
+        "region": "TX"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 899,
+        "region": "TX"
+      },
+      {
+        "city": "Austin",
+        "country": "US",
+        "numberOfListeners": 711,
+        "region": "TX"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 562,
+        "region": "TX"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 287,
+        "region": "AZ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

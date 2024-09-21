@@ -1,0 +1,41 @@
+{
+  "id": "0MlOPi3zIDMVrfA9R04Fe3",
+  "name": "American Authors",
+  "followers": 1567076,
+  "monthlyListeners": 6987680,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 132523,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 90134,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 82432,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 75243,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 65420,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

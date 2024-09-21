@@ -1,0 +1,41 @@
+{
+  "id": "29SeiO68HQHBs7pDdWOvvX",
+  "name": "Jesús Adrián Romero",
+  "followers": 5089008,
+  "monthlyListeners": 3922895,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 236889,
+        "region": "DC"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 202948,
+        "region": "GU"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 146086,
+        "region": "CMX"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 132850,
+        "region": "ANT"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 126590,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

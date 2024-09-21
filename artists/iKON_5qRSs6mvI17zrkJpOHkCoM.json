@@ -1,0 +1,41 @@
+{
+  "id": "5qRSs6mvI17zrkJpOHkCoM",
+  "name": "iKON",
+  "followers": 3297021,
+  "monthlyListeners": 2132555,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 172426,
+        "region": "JK"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 66838,
+        "region": "14"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 47434,
+        "region": "10"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 43605,
+        "region": ""
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 38720,
+        "region": "13"
+      }
+    ]
+  },
+  "worldRank": 0
+}

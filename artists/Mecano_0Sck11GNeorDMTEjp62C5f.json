@@ -1,0 +1,41 @@
+{
+  "id": "0Sck11GNeorDMTEjp62C5f",
+  "name": "Mecano",
+  "followers": 3581,
+  "monthlyListeners": 1349,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 338,
+        "region": "SP"
+      },
+      {
+        "city": "Athens",
+        "country": "GR",
+        "numberOfListeners": 92,
+        "region": "I"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 39,
+        "region": "NH"
+      },
+      {
+        "city": "Tel Aviv",
+        "country": "IL",
+        "numberOfListeners": 29,
+        "region": "TA"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 28,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

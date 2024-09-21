@@ -1,0 +1,41 @@
+{
+  "id": "6BH1xcDkwbbyrLMUKECsW1",
+  "name": "Toosii",
+  "followers": 1900618,
+  "monthlyListeners": 5213501,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 88977,
+        "region": "LA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 79258,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 76969,
+        "region": "ENG"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 68355,
+        "region": "ON"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 65207,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

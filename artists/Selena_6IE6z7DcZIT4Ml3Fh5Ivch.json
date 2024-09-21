@@ -1,0 +1,41 @@
+{
+  "id": "6IE6z7DcZIT4Ml3Fh5Ivch",
+  "name": "Selena",
+  "followers": 3901223,
+  "monthlyListeners": 9975954,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 527548,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 256424,
+        "region": "RM"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 248989,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 210684,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 210558,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

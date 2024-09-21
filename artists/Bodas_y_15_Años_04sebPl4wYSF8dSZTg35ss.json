@@ -1,0 +1,41 @@
+{
+  "id": "04sebPl4wYSF8dSZTg35ss",
+  "name": "Bodas y 15 Años",
+  "followers": 3574,
+  "monthlyListeners": 135604,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 9810,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 4778,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 4767,
+        "region": "JAL"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 4448,
+        "region": "PUE"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 3831,
+        "region": "QUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

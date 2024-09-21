@@ -1,0 +1,41 @@
+{
+  "id": "3FkcBIEL2oxdWTGoEyl3rg",
+  "name": "Aurora",
+  "followers": 9,
+  "monthlyListeners": 322,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 14,
+        "region": "IDF"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 13,
+        "region": "JK"
+      },
+      {
+        "city": "Davao City",
+        "country": "PH",
+        "numberOfListeners": 7,
+        "region": "11"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 6,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 4,
+        "region": "HDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

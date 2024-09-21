@@ -1,0 +1,41 @@
+{
+  "id": "2ybEnEKYd8hw5Mag7uieQa",
+  "name": "Collide",
+  "followers": 28195,
+  "monthlyListeners": 22618,
+  "topCities": {
+    "items": [
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 306,
+        "region": "WA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 281,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 279,
+        "region": "CA"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 238,
+        "region": "AZ"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 235,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

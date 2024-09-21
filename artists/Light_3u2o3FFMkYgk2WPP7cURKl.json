@@ -1,0 +1,41 @@
+{
+  "id": "3u2o3FFMkYgk2WPP7cURKl",
+  "name": "Light",
+  "followers": 920,
+  "monthlyListeners": 13329,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 920,
+        "region": "NY"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 861,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 778,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 645,
+        "region": "IL"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 552,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

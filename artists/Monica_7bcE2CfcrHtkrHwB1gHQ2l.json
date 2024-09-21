@@ -1,0 +1,41 @@
+{
+  "id": "7bcE2CfcrHtkrHwB1gHQ2l",
+  "name": "Monica",
+  "followers": 1,
+  "monthlyListeners": 45,
+  "topCities": {
+    "items": [
+      {
+        "city": "Antananarivo",
+        "country": "MG",
+        "numberOfListeners": 11,
+        "region": ""
+      },
+      {
+        "city": "Strasbourg",
+        "country": "FR",
+        "numberOfListeners": 2,
+        "region": "GES"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 2,
+        "region": "IDF"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 2,
+        "region": "QC"
+      },
+      {
+        "city": "Port Louis",
+        "country": "MU",
+        "numberOfListeners": 2,
+        "region": "PL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

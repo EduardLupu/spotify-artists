@@ -1,0 +1,41 @@
+{
+  "id": "3p5nfUyEYsxx8izMCym07n",
+  "name": "Oh The Larceny",
+  "followers": 163145,
+  "monthlyListeners": 1026646,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 13158,
+        "region": "SP"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 12307,
+        "region": "10"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 10364,
+        "region": "ENG"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 9954,
+        "region": "QC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 9758,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

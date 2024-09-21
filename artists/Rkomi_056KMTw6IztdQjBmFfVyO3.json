@@ -1,0 +1,41 @@
+{
+  "id": "056KMTw6IztdQjBmFfVyO3",
+  "name": "Rkomi",
+  "followers": 1390325,
+  "monthlyListeners": 2807222,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 660061,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 270688,
+        "region": "62"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 98051,
+        "region": "21"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 97601,
+        "region": "72"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 74040,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

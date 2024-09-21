@@ -1,0 +1,41 @@
+{
+  "id": "0DxeaLnv6SyYk2DOqkLO8c",
+  "name": "MAGIC!",
+  "followers": 1333134,
+  "monthlyListeners": 14133702,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 541825,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 274865,
+        "region": "SP"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 213380,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 212977,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 188636,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

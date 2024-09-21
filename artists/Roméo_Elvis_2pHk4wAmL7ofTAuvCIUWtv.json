@@ -1,0 +1,41 @@
+{
+  "id": "2pHk4wAmL7ofTAuvCIUWtv",
+  "name": "Roméo Elvis",
+  "followers": 819496,
+  "monthlyListeners": 1298730,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 172172,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 85715,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 37283,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 26790,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 23583,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

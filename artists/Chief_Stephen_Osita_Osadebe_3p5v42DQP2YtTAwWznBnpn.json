@@ -1,0 +1,41 @@
+{
+  "id": "3p5v42DQP2YtTAwWznBnpn",
+  "name": "Chief Stephen Osita Osadebe",
+  "followers": 52283,
+  "monthlyListeners": 108404,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 37160,
+        "region": "LA"
+      },
+      {
+        "city": "Port Harcourt",
+        "country": "NG",
+        "numberOfListeners": 25269,
+        "region": "RI"
+      },
+      {
+        "city": "Abuja",
+        "country": "NG",
+        "numberOfListeners": 18926,
+        "region": "FC"
+      },
+      {
+        "city": "Benin City",
+        "country": "NG",
+        "numberOfListeners": 4438,
+        "region": "ED"
+      },
+      {
+        "city": "Enugu",
+        "country": "NG",
+        "numberOfListeners": 4061,
+        "region": "EN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

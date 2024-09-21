@@ -1,0 +1,41 @@
+{
+  "id": "3S0tlB4fE7ChxI2pWz8Xip",
+  "name": "Giggs",
+  "followers": 516644,
+  "monthlyListeners": 1982837,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 230523,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 76080,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 73363,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 72021,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 40727,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6CXEwIaXYfVJ84biCxqc9k",
+  "name": "Vishal Dadlani",
+  "followers": 11790603,
+  "monthlyListeners": 17982134,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1754280,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1480072,
+        "region": "MH"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 1107152,
+        "region": "KA"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1036775,
+        "region": "DL"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 1029720,
+        "region": "TS"
+      }
+    ]
+  },
+  "worldRank": 429
+}

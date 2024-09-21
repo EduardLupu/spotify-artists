@@ -1,0 +1,41 @@
+{
+  "id": "1NqPSLda0bT5N8wnKCZKib",
+  "name": "MONICA",
+  "followers": 49,
+  "monthlyListeners": 1044,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 613,
+        "region": "18"
+      },
+      {
+        "city": "Tampere",
+        "country": "FI",
+        "numberOfListeners": 103,
+        "region": "11"
+      },
+      {
+        "city": "Oulu",
+        "country": "FI",
+        "numberOfListeners": 87,
+        "region": "14"
+      },
+      {
+        "city": "Vantaa",
+        "country": "FI",
+        "numberOfListeners": 40,
+        "region": "18"
+      },
+      {
+        "city": "Espoo",
+        "country": "FI",
+        "numberOfListeners": 34,
+        "region": "18"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4slQb6hVBChkb09qmn3DaD",
+  "name": "Andre",
+  "followers": 2293,
+  "monthlyListeners": 14717,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bucharest",
+        "country": "RO",
+        "numberOfListeners": 3031,
+        "region": "B"
+      },
+      {
+        "city": "Cluj-Napoca",
+        "country": "RO",
+        "numberOfListeners": 835,
+        "region": "CJ"
+      },
+      {
+        "city": "Timișoara",
+        "country": "RO",
+        "numberOfListeners": 536,
+        "region": "TM"
+      },
+      {
+        "city": "Iasi",
+        "country": "RO",
+        "numberOfListeners": 479,
+        "region": "IS"
+      },
+      {
+        "city": "Brasov",
+        "country": "RO",
+        "numberOfListeners": 465,
+        "region": "BV"
+      }
+    ]
+  },
+  "worldRank": 0
+}

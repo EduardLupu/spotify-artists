@@ -1,0 +1,41 @@
+{
+  "id": "11mqrDSFRRz8g0Wb3syJj5",
+  "name": "Panteon Rococo",
+  "followers": 2729228,
+  "monthlyListeners": 3625769,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 599511,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 248276,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 227122,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 200990,
+        "region": "JAL"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 176658,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

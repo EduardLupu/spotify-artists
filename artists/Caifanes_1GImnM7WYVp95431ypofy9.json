@@ -1,0 +1,41 @@
+{
+  "id": "1GImnM7WYVp95431ypofy9",
+  "name": "Caifanes",
+  "followers": 3934190,
+  "monthlyListeners": 7216974,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1000966,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 451945,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 402985,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 347376,
+        "region": "JAL"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 343111,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

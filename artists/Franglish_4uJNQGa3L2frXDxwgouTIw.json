@@ -1,0 +1,41 @@
+{
+  "id": "4uJNQGa3L2frXDxwgouTIw",
+  "name": "Franglish",
+  "followers": 1490329,
+  "monthlyListeners": 4995514,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 817455,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 187756,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 160425,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 138704,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 127758,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

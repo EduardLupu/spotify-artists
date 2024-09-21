@@ -1,0 +1,41 @@
+{
+  "id": "6Q192DXotxtaysaqNPy5yR",
+  "name": "Amy Winehouse",
+  "followers": 9082756,
+  "monthlyListeners": 21482460,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 491275,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 359244,
+        "region": "SP"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 284346,
+        "region": "34"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 283518,
+        "region": "IDF"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 266539,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 325
+}

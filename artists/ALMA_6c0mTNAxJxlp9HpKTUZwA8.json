@@ -1,0 +1,41 @@
+{
+  "id": "6c0mTNAxJxlp9HpKTUZwA8",
+  "name": "ALMA",
+  "followers": 226148,
+  "monthlyListeners": 907533,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 27568,
+        "region": "18"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 24802,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 20941,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 14537,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 13830,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

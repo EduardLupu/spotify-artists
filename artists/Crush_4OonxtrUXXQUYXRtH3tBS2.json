@@ -1,0 +1,41 @@
+{
+  "id": "4OonxtrUXXQUYXRtH3tBS2",
+  "name": "Crush",
+  "followers": 451,
+  "monthlyListeners": 1934,
+  "topCities": {
+    "items": [
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 230,
+        "region": "QC"
+      },
+      {
+        "city": "St. John's",
+        "country": "CA",
+        "numberOfListeners": 230,
+        "region": "NL"
+      },
+      {
+        "city": "Halifax",
+        "country": "CA",
+        "numberOfListeners": 209,
+        "region": "NS"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 113,
+        "region": "ON"
+      },
+      {
+        "city": "Dartmouth",
+        "country": "CA",
+        "numberOfListeners": 75,
+        "region": "NS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

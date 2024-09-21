@@ -1,0 +1,41 @@
+{
+  "id": "4cdyqaBREB68H77QKCrKP1",
+  "name": "Dubdogz",
+  "followers": 459690,
+  "monthlyListeners": 5405081,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 303201,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 116159,
+        "region": "RJ"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 107977,
+        "region": "PR"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 104500,
+        "region": "MG"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 88312,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

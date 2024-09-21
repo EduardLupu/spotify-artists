@@ -1,0 +1,41 @@
+{
+  "id": "5CAruGjgds3QlF5ICtEnnc",
+  "name": "Jairo Vera",
+  "followers": 1300623,
+  "monthlyListeners": 2204756,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 993709,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 151124,
+        "region": "C"
+      },
+      {
+        "city": "Concepción",
+        "country": "CL",
+        "numberOfListeners": 150513,
+        "region": "BI"
+      },
+      {
+        "city": "Temuco",
+        "country": "CL",
+        "numberOfListeners": 79624,
+        "region": "AR"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 63119,
+        "region": "B"
+      }
+    ]
+  },
+  "worldRank": 0
+}

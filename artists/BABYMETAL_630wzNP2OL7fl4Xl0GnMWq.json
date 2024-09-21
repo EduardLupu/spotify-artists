@@ -1,0 +1,41 @@
+{
+  "id": "630wzNP2OL7fl4Xl0GnMWq",
+  "name": "BABYMETAL",
+  "followers": 2191067,
+  "monthlyListeners": 3261486,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 59673,
+        "region": "JK"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 48739,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 44461,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 40714,
+        "region": "ENG"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 38455,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

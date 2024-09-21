@@ -1,0 +1,41 @@
+{
+  "id": "7z5WFjZAIYejWy0NI5lv4T",
+  "name": "Dan + Shay",
+  "followers": 3183952,
+  "monthlyListeners": 9379788,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 236423,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 146129,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 114351,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 112598,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 101978,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+  "name": "The Weeknd",
+  "followers": 91161107,
+  "monthlyListeners": 107719309,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 2779556,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1652980,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1381456,
+        "region": "ENG"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1287870,
+        "region": "CMX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 1119227,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 1
+}

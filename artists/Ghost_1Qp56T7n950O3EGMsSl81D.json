@@ -1,0 +1,41 @@
+{
+  "id": "1Qp56T7n950O3EGMsSl81D",
+  "name": "Ghost",
+  "followers": 3267741,
+  "monthlyListeners": 8350618,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 166759,
+        "region": "JK"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 101288,
+        "region": "18"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 96557,
+        "region": "CMX"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 94007,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 87080,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

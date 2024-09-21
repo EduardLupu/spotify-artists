@@ -1,0 +1,41 @@
+{
+  "id": "6KZDXtSj0SzGOV705nNeh3",
+  "name": "Kid Ink",
+  "followers": 2973729,
+  "monthlyListeners": 4319002,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 94138,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 71520,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 60319,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 56037,
+        "region": "QLD"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 47921,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

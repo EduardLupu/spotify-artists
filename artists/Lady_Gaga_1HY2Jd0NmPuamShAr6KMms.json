@@ -1,0 +1,41 @@
+{
+  "id": "1HY2Jd0NmPuamShAr6KMms",
+  "name": "Lady Gaga",
+  "followers": 31539675,
+  "monthlyListeners": 94978975,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 3896042,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1335136,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1156133,
+        "region": "ENG"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1053451,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 1022135,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 4
+}

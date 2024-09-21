@@ -1,0 +1,41 @@
+{
+  "id": "3E6xrwgnVfYCrCs0ePERDz",
+  "name": "Wisin",
+  "followers": 9204249,
+  "monthlyListeners": 11976951,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 736493,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 545500,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 413425,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 387368,
+        "region": "CMX"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 263201,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

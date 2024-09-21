@@ -1,0 +1,41 @@
+{
+  "id": "2uGKgNuq7MnKksXiSO6HjB",
+  "name": "KVSH",
+  "followers": 432054,
+  "monthlyListeners": 2584848,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 250986,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 98952,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 92166,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 76987,
+        "region": "PR"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 66710,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2ohvKEzjQIB1XAzoOvs7js",
+  "name": "NIKI",
+  "followers": 84,
+  "monthlyListeners": 511,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 302,
+        "region": "18"
+      },
+      {
+        "city": "Oulu",
+        "country": "FI",
+        "numberOfListeners": 58,
+        "region": "14"
+      },
+      {
+        "city": "Tampere",
+        "country": "FI",
+        "numberOfListeners": 58,
+        "region": "11"
+      },
+      {
+        "city": "Vantaa",
+        "country": "FI",
+        "numberOfListeners": 23,
+        "region": "18"
+      },
+      {
+        "city": "Espoo",
+        "country": "FI",
+        "numberOfListeners": 14,
+        "region": "18"
+      }
+    ]
+  },
+  "worldRank": 0
+}

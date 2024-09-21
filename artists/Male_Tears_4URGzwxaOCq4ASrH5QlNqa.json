@@ -1,0 +1,41 @@
+{
+  "id": "4URGzwxaOCq4ASrH5QlNqa",
+  "name": "Male Tears",
+  "followers": 22359,
+  "monthlyListeners": 71143,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 2358,
+        "region": "CA"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1048,
+        "region": "SP"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 949,
+        "region": "IL"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 832,
+        "region": "CMX"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 808,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

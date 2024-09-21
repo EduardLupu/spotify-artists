@@ -1,0 +1,41 @@
+{
+  "id": "0f5nVCcR06GX8Qikz0COtT",
+  "name": "Omarion",
+  "followers": 2935882,
+  "monthlyListeners": 3063096,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 70373,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 60740,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 48113,
+        "region": "VIC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 43211,
+        "region": "CA"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 40808,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

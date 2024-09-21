@@ -1,0 +1,41 @@
+{
+  "id": "02A3cEvlLLCbIMVDrK2GHV",
+  "name": "Starley",
+  "followers": 205402,
+  "monthlyListeners": 2106745,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 65390,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 51048,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 42629,
+        "region": "QLD"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 27040,
+        "region": "ENG"
+      },
+      {
+        "city": "Perth",
+        "country": "AU",
+        "numberOfListeners": 24475,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

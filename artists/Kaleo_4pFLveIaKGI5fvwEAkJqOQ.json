@@ -1,0 +1,41 @@
+{
+  "id": "4pFLveIaKGI5fvwEAkJqOQ",
+  "name": "Kaleo",
+  "followers": 221,
+  "monthlyListeners": 402,
+  "topCities": {
+    "items": [
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 14,
+        "region": "CO"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 6,
+        "region": "QC"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 6,
+        "region": "TX"
+      },
+      {
+        "city": "Edmonton",
+        "country": "CA",
+        "numberOfListeners": 5,
+        "region": "AB"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 5,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

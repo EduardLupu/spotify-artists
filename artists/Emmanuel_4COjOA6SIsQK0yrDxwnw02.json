@@ -1,0 +1,41 @@
+{
+  "id": "4COjOA6SIsQK0yrDxwnw02",
+  "name": "Emmanuel",
+  "followers": 2802,
+  "monthlyListeners": 5208,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 219,
+        "region": "BE"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 123,
+        "region": "NH"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 100,
+        "region": "IDF"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 80,
+        "region": "DC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 79,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

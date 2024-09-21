@@ -1,0 +1,41 @@
+{
+  "id": "6XFc29m1ptfUNmaa1UTuBT",
+  "name": "MC Joãozinho VT",
+  "followers": 1033559,
+  "monthlyListeners": 4688129,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1110561,
+        "region": "SP"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 271666,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 259560,
+        "region": "MG"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 217155,
+        "region": "RJ"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 196450,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

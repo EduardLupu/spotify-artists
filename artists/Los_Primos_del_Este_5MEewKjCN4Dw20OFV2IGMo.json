@@ -1,0 +1,41 @@
+{
+  "id": "5MEewKjCN4Dw20OFV2IGMo",
+  "name": "Los Primos del Este",
+  "followers": 323768,
+  "monthlyListeners": 2782969,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 121744,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 80793,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 80675,
+        "region": "QUE"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 78567,
+        "region": "TX"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 66297,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

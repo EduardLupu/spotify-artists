@@ -1,0 +1,41 @@
+{
+  "id": "50OApTJurDusIo9dGTqSU4",
+  "name": "Lilly Wood and The Prick",
+  "followers": 249447,
+  "monthlyListeners": 6321705,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 164478,
+        "region": "IDF"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 114085,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 74274,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 64421,
+        "region": "NSW"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 64207,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4FUMTycjZlEY6ZxMgqNjC8",
+  "name": "Tierry",
+  "followers": 1447563,
+  "monthlyListeners": 2355575,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 335964,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 146772,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 100070,
+        "region": "MG"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 81334,
+        "region": "DF"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 76338,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

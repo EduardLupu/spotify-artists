@@ -1,0 +1,41 @@
+{
+  "id": "3WaJSfKnzc65VDgmj2zU8B",
+  "name": "Interpol",
+  "followers": 1735665,
+  "monthlyListeners": 2080805,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 112555,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 43458,
+        "region": "CMX"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 40401,
+        "region": "CA"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 39572,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 37346,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

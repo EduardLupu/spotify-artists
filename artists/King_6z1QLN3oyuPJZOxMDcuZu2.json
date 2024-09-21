@@ -1,0 +1,41 @@
+{
+  "id": "6z1QLN3oyuPJZOxMDcuZu2",
+  "name": "King",
+  "followers": 54,
+  "monthlyListeners": 10,
+  "topCities": {
+    "items": [
+      {
+        "city": "Calamba",
+        "country": "PH",
+        "numberOfListeners": 1,
+        "region": "40"
+      },
+      {
+        "city": "Batangas",
+        "country": "PH",
+        "numberOfListeners": 1,
+        "region": "40"
+      },
+      {
+        "city": "General Trias",
+        "country": "PH",
+        "numberOfListeners": 1,
+        "region": "40"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 1,
+        "region": "00"
+      },
+      {
+        "city": "Carmona",
+        "country": "PH",
+        "numberOfListeners": 1,
+        "region": "40"
+      }
+    ]
+  },
+  "worldRank": 0
+}

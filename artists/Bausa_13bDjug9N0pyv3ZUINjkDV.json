@@ -1,0 +1,41 @@
+{
+  "id": "13bDjug9N0pyv3ZUINjkDV",
+  "name": "Bausa",
+  "followers": 1086167,
+  "monthlyListeners": 5868783,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 603149,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 475947,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 452374,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 391072,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 341364,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

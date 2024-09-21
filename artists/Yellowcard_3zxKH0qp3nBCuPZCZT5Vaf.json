@@ -1,0 +1,41 @@
+{
+  "id": "3zxKH0qp3nBCuPZCZT5Vaf",
+  "name": "Yellowcard",
+  "followers": 1519628,
+  "monthlyListeners": 4504146,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 72631,
+        "region": "IL"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 68836,
+        "region": "JK"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 60996,
+        "region": "CA"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 57613,
+        "region": "PA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 56795,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

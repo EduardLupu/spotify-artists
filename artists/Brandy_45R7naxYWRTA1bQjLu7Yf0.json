@@ -1,0 +1,41 @@
+{
+  "id": "45R7naxYWRTA1bQjLu7Yf0",
+  "name": "Brandy",
+  "followers": 79,
+  "monthlyListeners": 217,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bucharest",
+        "country": "RO",
+        "numberOfListeners": 49,
+        "region": "B"
+      },
+      {
+        "city": "Timișoara",
+        "country": "RO",
+        "numberOfListeners": 10,
+        "region": "TM"
+      },
+      {
+        "city": "Cluj-Napoca",
+        "country": "RO",
+        "numberOfListeners": 9,
+        "region": "CJ"
+      },
+      {
+        "city": "Iasi",
+        "country": "RO",
+        "numberOfListeners": 6,
+        "region": "IS"
+      },
+      {
+        "city": "Sibiu",
+        "country": "RO",
+        "numberOfListeners": 5,
+        "region": "SB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

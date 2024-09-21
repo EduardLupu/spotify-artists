@@ -1,0 +1,41 @@
+{
+  "id": "2uQ7fXxATnMA0sepSQ4ByH",
+  "name": "Jose Gonzalez",
+  "followers": 281,
+  "monthlyListeners": 13670,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1215,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 1075,
+        "region": "LMA"
+      },
+      {
+        "city": "Caracas",
+        "country": "VE",
+        "numberOfListeners": 1019,
+        "region": "A"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 963,
+        "region": "DC"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 468,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

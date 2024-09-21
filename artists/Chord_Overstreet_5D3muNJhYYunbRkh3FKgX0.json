@@ -1,0 +1,41 @@
+{
+  "id": "5D3muNJhYYunbRkh3FKgX0",
+  "name": "Chord Overstreet",
+  "followers": 235653,
+  "monthlyListeners": 4680550,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 131747,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 51588,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 47409,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 44330,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 40349,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

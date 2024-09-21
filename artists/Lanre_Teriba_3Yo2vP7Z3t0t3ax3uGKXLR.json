@@ -1,0 +1,41 @@
+{
+  "id": "3Yo2vP7Z3t0t3ax3uGKXLR",
+  "name": "Lanre Teriba",
+  "followers": 15929,
+  "monthlyListeners": 19636,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 7889,
+        "region": "LA"
+      },
+      {
+        "city": "Ibadan",
+        "country": "NG",
+        "numberOfListeners": 1167,
+        "region": "OY"
+      },
+      {
+        "city": "Abuja",
+        "country": "NG",
+        "numberOfListeners": 1050,
+        "region": "FC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 661,
+        "region": "ENG"
+      },
+      {
+        "city": "Port Harcourt",
+        "country": "NG",
+        "numberOfListeners": 653,
+        "region": "RI"
+      }
+    ]
+  },
+  "worldRank": 0
+}

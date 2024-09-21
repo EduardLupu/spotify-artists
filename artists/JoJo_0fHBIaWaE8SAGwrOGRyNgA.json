@@ -1,0 +1,41 @@
+{
+  "id": "0fHBIaWaE8SAGwrOGRyNgA",
+  "name": "JoJo",
+  "followers": 384,
+  "monthlyListeners": 1329,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 391,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 390,
+        "region": "ZH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 105,
+        "region": "UT"
+      },
+      {
+        "city": "Tilburg",
+        "country": "NL",
+        "numberOfListeners": 73,
+        "region": "NB"
+      },
+      {
+        "city": "The Hague",
+        "country": "NL",
+        "numberOfListeners": 44,
+        "region": "ZH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

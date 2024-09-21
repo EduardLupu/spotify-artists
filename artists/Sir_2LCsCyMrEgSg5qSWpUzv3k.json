@@ -1,0 +1,41 @@
+{
+  "id": "2LCsCyMrEgSg5qSWpUzv3k",
+  "name": "Sir",
+  "followers": 868,
+  "monthlyListeners": 1820,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 155,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 123,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 110,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 99,
+        "region": "BW"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 94,
+        "region": "HH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

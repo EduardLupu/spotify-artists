@@ -1,0 +1,41 @@
+{
+  "id": "6gto7HVNhu4ARE3P3g8Y5Y",
+  "name": "Kollegah",
+  "followers": 1414236,
+  "monthlyListeners": 1072664,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 124939,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 106607,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 96288,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 83395,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 73018,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

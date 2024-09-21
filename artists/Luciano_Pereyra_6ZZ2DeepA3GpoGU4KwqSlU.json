@@ -1,0 +1,41 @@
+{
+  "id": "6ZZ2DeepA3GpoGU4KwqSlU",
+  "name": "Luciano Pereyra",
+  "followers": 2173335,
+  "monthlyListeners": 2049995,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 324150,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 221203,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 136505,
+        "region": "B"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 66268,
+        "region": "X"
+      },
+      {
+        "city": "Montevideo",
+        "country": "UY",
+        "numberOfListeners": 53202,
+        "region": "MO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

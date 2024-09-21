@@ -1,0 +1,41 @@
+{
+  "id": "2RS08c4o1JgeEpfoNNsioi",
+  "name": "Lea",
+  "followers": 87,
+  "monthlyListeners": 21,
+  "topCities": {
+    "items": [
+      {
+        "city": "Split",
+        "country": "HR",
+        "numberOfListeners": 2,
+        "region": "17"
+      },
+      {
+        "city": "Gothenburg",
+        "country": "SE",
+        "numberOfListeners": 2,
+        "region": "O"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 2,
+        "region": "AB"
+      },
+      {
+        "city": "São José dos Campos",
+        "country": "BR",
+        "numberOfListeners": 1,
+        "region": "SP"
+      },
+      {
+        "city": "North York",
+        "country": "CA",
+        "numberOfListeners": 1,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

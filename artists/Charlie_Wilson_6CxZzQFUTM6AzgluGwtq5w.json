@@ -1,0 +1,41 @@
+{
+  "id": "6CxZzQFUTM6AzgluGwtq5w",
+  "name": "Charlie Wilson",
+  "followers": 1140969,
+  "monthlyListeners": 3931189,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 72840,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 66212,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 64464,
+        "region": "NY"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 59045,
+        "region": "NY"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 52353,
+        "region": "GA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

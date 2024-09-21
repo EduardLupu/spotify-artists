@@ -1,0 +1,41 @@
+{
+  "id": "4WnAHZz1pgl8hus8hidIRV",
+  "name": "MHD",
+  "followers": 2438854,
+  "monthlyListeners": 3322938,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 366990,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 113307,
+        "region": "BRU"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 87572,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 69795,
+        "region": "ZH"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 68227,
+        "region": "ARA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

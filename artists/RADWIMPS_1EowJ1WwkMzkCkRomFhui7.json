@@ -1,0 +1,41 @@
+{
+  "id": "1EowJ1WwkMzkCkRomFhui7",
+  "name": "RADWIMPS",
+  "followers": 4134774,
+  "monthlyListeners": 6046817,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 790370,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 294221,
+        "region": "27"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 180507,
+        "region": "JK"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 132763,
+        "region": "13"
+      },
+      {
+        "city": "Nagoya",
+        "country": "JP",
+        "numberOfListeners": 104323,
+        "region": "23"
+      }
+    ]
+  },
+  "worldRank": 0
+}

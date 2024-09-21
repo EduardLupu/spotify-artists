@@ -1,0 +1,41 @@
+{
+  "id": "0viK2xkVvjLMktlluPeeZS",
+  "name": "UFO ",
+  "followers": 463,
+  "monthlyListeners": 3431,
+  "topCities": {
+    "items": [
+      {
+        "city": "Riga",
+        "country": "LV",
+        "numberOfListeners": 2783,
+        "region": "RIX"
+      },
+      {
+        "city": "Jelgava",
+        "country": "LV",
+        "numberOfListeners": 36,
+        "region": "JEL"
+      },
+      {
+        "city": "Liepāja",
+        "country": "LV",
+        "numberOfListeners": 31,
+        "region": "LPX"
+      },
+      {
+        "city": "Ogre",
+        "country": "LV",
+        "numberOfListeners": 29,
+        "region": "067"
+      },
+      {
+        "city": "Valmiera",
+        "country": "LV",
+        "numberOfListeners": 26,
+        "region": "113"
+      }
+    ]
+  },
+  "worldRank": 0
+}

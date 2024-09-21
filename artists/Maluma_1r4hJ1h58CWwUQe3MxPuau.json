@@ -1,0 +1,41 @@
+{
+  "id": "1r4hJ1h58CWwUQe3MxPuau",
+  "name": "Maluma",
+  "followers": 34540107,
+  "monthlyListeners": 43932643,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1945265,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1938182,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1750890,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 1401763,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1093568,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 64
+}

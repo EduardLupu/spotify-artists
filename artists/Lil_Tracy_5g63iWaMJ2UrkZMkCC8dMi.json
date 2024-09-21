@@ -1,0 +1,41 @@
+{
+  "id": "5g63iWaMJ2UrkZMkCC8dMi",
+  "name": "Lil Tracy",
+  "followers": 1017900,
+  "monthlyListeners": 5041034,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 68431,
+        "region": "IL"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 68074,
+        "region": "14"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 62590,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 58273,
+        "region": "ENG"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 56930,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

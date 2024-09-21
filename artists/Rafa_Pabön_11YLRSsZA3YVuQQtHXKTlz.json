@@ -1,0 +1,41 @@
+{
+  "id": "11YLRSsZA3YVuQQtHXKTlz",
+  "name": "Rafa Pabön",
+  "followers": 346943,
+  "monthlyListeners": 2441262,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 143083,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 115143,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 94173,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 77683,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 58329,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

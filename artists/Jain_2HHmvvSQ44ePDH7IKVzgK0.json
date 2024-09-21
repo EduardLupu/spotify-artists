@@ -1,0 +1,41 @@
+{
+  "id": "2HHmvvSQ44ePDH7IKVzgK0",
+  "name": "Jain",
+  "followers": 966838,
+  "monthlyListeners": 5667884,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 165281,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 68271,
+        "region": "BRU"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 67018,
+        "region": "CMX"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 59854,
+        "region": "10"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 54434,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

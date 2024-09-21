@@ -1,0 +1,41 @@
+{
+  "id": "1U12j9FEfGpkJv3p7Pwq03",
+  "name": "Monica",
+  "followers": 215,
+  "monthlyListeners": 855,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 445,
+        "region": "JK"
+      },
+      {
+        "city": "Medan",
+        "country": "ID",
+        "numberOfListeners": 134,
+        "region": "SU"
+      },
+      {
+        "city": "Pekanbaru",
+        "country": "ID",
+        "numberOfListeners": 79,
+        "region": "RI"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 48,
+        "region": "JB"
+      },
+      {
+        "city": "Padang",
+        "country": "ID",
+        "numberOfListeners": 23,
+        "region": "SB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

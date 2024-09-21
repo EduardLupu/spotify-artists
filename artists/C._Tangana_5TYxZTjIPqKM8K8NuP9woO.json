@@ -1,0 +1,41 @@
+{
+  "id": "5TYxZTjIPqKM8K8NuP9woO",
+  "name": "C. Tangana",
+  "followers": 2817600,
+  "monthlyListeners": 9474147,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 625042,
+        "region": "MD"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 401453,
+        "region": "CMX"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 393388,
+        "region": "CT"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 382069,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 266994,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

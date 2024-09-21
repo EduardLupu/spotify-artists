@@ -1,0 +1,41 @@
+{
+  "id": "00PqTpEz0d2unJMtiE92jB",
+  "name": "Jaden",
+  "followers": 14,
+  "monthlyListeners": 71,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "TX"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 3,
+        "region": "LA"
+      },
+      {
+        "city": "Kigali",
+        "country": "RW",
+        "numberOfListeners": 2,
+        "region": "01"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 2,
+        "region": "C"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 1,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

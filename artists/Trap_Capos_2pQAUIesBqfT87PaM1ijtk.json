@@ -1,0 +1,41 @@
+{
+  "id": "2pQAUIesBqfT87PaM1ijtk",
+  "name": "Trap Capos",
+  "followers": 1115951,
+  "monthlyListeners": 5170939,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 363253,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 270696,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 201216,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 175703,
+        "region": "C"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 169222,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

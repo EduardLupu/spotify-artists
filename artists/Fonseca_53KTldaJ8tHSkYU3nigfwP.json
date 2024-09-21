@@ -1,0 +1,41 @@
+{
+  "id": "53KTldaJ8tHSkYU3nigfwP",
+  "name": "Fonseca",
+  "followers": 3089958,
+  "monthlyListeners": 6158700,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 688628,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 333153,
+        "region": "LMA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 295177,
+        "region": "RM"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 272613,
+        "region": "ANT"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 169800,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

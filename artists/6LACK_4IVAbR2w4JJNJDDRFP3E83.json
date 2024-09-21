@@ -1,0 +1,41 @@
+{
+  "id": "4IVAbR2w4JJNJDDRFP3E83",
+  "name": "6LACK",
+  "followers": 4742612,
+  "monthlyListeners": 12932855,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 212370,
+        "region": "ENG"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 191399,
+        "region": "LA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 190098,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 166474,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 160317,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

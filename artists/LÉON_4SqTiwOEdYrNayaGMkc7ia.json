@@ -1,0 +1,41 @@
+{
+  "id": "4SqTiwOEdYrNayaGMkc7ia",
+  "name": "LÉON",
+  "followers": 374159,
+  "monthlyListeners": 1241726,
+  "topCities": {
+    "items": [
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 34558,
+        "region": "AB"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 29880,
+        "region": "03"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 20620,
+        "region": "NY"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 18088,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 17457,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1vVHevk2PD45epYnDi9CCc",
+  "name": "Jack Stauber",
+  "followers": 2013148,
+  "monthlyListeners": 2926452,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 41274,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 34945,
+        "region": "RM"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 29158,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 28557,
+        "region": "IL"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 26952,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

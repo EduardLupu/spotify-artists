@@ -1,0 +1,41 @@
+{
+  "id": "7CJgLPEqiIRuneZSolpawQ",
+  "name": "Taco Hemingway",
+  "followers": 1593986,
+  "monthlyListeners": 2346332,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 778375,
+        "region": "14"
+      },
+      {
+        "city": "Krakow",
+        "country": "PL",
+        "numberOfListeners": 263623,
+        "region": "12"
+      },
+      {
+        "city": "Poznan",
+        "country": "PL",
+        "numberOfListeners": 258351,
+        "region": "30"
+      },
+      {
+        "city": "Katowice",
+        "country": "PL",
+        "numberOfListeners": 254517,
+        "region": "24"
+      },
+      {
+        "city": "Wroclaw",
+        "country": "PL",
+        "numberOfListeners": 219764,
+        "region": "02"
+      }
+    ]
+  },
+  "worldRank": 0
+}

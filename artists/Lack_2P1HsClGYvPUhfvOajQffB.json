@@ -1,0 +1,41 @@
+{
+  "id": "2P1HsClGYvPUhfvOajQffB",
+  "name": "Lack",
+  "followers": 776,
+  "monthlyListeners": 267,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 13,
+        "region": "BE"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 10,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 7,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 7,
+        "region": "VIC"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 4,
+        "region": "9"
+      }
+    ]
+  },
+  "worldRank": 0
+}

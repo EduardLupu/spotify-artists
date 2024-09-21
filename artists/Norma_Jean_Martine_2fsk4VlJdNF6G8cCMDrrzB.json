@@ -1,0 +1,41 @@
+{
+  "id": "2fsk4VlJdNF6G8cCMDrrzB",
+  "name": "Norma Jean Martine",
+  "followers": 20937,
+  "monthlyListeners": 10817390,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 218483,
+        "region": "IDF"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 185436,
+        "region": "NH"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 177966,
+        "region": "14"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 157509,
+        "region": "BRU"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 155915,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

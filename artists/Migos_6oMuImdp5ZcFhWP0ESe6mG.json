@@ -1,0 +1,41 @@
+{
+  "id": "6oMuImdp5ZcFhWP0ESe6mG",
+  "name": "Migos",
+  "followers": 13993778,
+  "monthlyListeners": 19322612,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 296209,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 286330,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 273508,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 248192,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 243071,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 380
+}

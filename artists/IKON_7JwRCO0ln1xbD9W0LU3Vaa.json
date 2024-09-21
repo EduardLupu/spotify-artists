@@ -1,0 +1,41 @@
+{
+  "id": "7JwRCO0ln1xbD9W0LU3Vaa",
+  "name": "IKON",
+  "followers": 514,
+  "monthlyListeners": 5949,
+  "topCities": {
+    "items": [
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 204,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 196,
+        "region": "HH"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 189,
+        "region": "BW"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 184,
+        "region": "BE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 139,
+        "region": "BY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2ymJS3hSwX5yiNdYroipCW",
+  "name": "Zola",
+  "followers": 93224,
+  "monthlyListeners": 136073,
+  "topCities": {
+    "items": [
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 51572,
+        "region": "GP"
+      },
+      {
+        "city": "Pretoria",
+        "country": "ZA",
+        "numberOfListeners": 28395,
+        "region": "GP"
+      },
+      {
+        "city": "Durban",
+        "country": "ZA",
+        "numberOfListeners": 20858,
+        "region": "KZN"
+      },
+      {
+        "city": "Cape Town",
+        "country": "ZA",
+        "numberOfListeners": 15150,
+        "region": "WC"
+      },
+      {
+        "city": "Port Elizabeth",
+        "country": "ZA",
+        "numberOfListeners": 3086,
+        "region": "EC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

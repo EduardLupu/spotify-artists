@@ -1,0 +1,41 @@
+{
+  "id": "7qAoXV4U0qDxQAUqhszjAA",
+  "name": "Manuel Carrasco",
+  "followers": 2226608,
+  "monthlyListeners": 2718965,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 295057,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 155938,
+        "region": "CT"
+      },
+      {
+        "city": "Seville",
+        "country": "ES",
+        "numberOfListeners": 107656,
+        "region": "AN"
+      },
+      {
+        "city": "Málaga",
+        "country": "ES",
+        "numberOfListeners": 81107,
+        "region": "AN"
+      },
+      {
+        "city": "Valencia",
+        "country": "ES",
+        "numberOfListeners": 72053,
+        "region": "VC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7qPLO2XOUaRrRxkvLZ3AEK",
+  "name": "Zeeba",
+  "followers": 269757,
+  "monthlyListeners": 4583526,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 290876,
+        "region": "SP"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 117468,
+        "region": "CMX"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 108681,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 83585,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 78586,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6Sv2jkzH9sWQjwghW5ArMG",
+  "name": "Lyodra",
+  "followers": 5204010,
+  "monthlyListeners": 11090953,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 4822166,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 1080166,
+        "region": "JB"
+      },
+      {
+        "city": "Makassar",
+        "country": "ID",
+        "numberOfListeners": 556204,
+        "region": "SN"
+      },
+      {
+        "city": "Surabaya",
+        "country": "ID",
+        "numberOfListeners": 467237,
+        "region": "JI"
+      },
+      {
+        "city": "Medan",
+        "country": "ID",
+        "numberOfListeners": 458738,
+        "region": "SU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

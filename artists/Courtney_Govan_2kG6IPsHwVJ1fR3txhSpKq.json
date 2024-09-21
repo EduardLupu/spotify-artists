@@ -1,0 +1,41 @@
+{
+  "id": "2kG6IPsHwVJ1fR3txhSpKq",
+  "name": "Courtney Govan",
+  "followers": 27331,
+  "monthlyListeners": 14060,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 256,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 214,
+        "region": "NY"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 207,
+        "region": "VIC"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 202,
+        "region": "WA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 192,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

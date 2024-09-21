@@ -1,0 +1,41 @@
+{
+  "id": "6hM29nSdYXwidEDm2P5k0T",
+  "name": "Getting Started",
+  "followers": 661,
+  "monthlyListeners": 6901,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 154,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 134,
+        "region": "SP"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 103,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 86,
+        "region": "CMX"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 75,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

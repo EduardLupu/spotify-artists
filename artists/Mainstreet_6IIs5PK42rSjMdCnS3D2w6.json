@@ -1,0 +1,41 @@
+{
+  "id": "6IIs5PK42rSjMdCnS3D2w6",
+  "name": "Mainstreet",
+  "followers": 17843,
+  "monthlyListeners": 72101,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 15870,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 12692,
+        "region": "ZH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 6255,
+        "region": "UT"
+      },
+      {
+        "city": "Amersfoort",
+        "country": "NL",
+        "numberOfListeners": 2186,
+        "region": "UT"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 1696,
+        "region": "BRU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

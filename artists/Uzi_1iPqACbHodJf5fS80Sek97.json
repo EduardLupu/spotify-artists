@@ -1,0 +1,41 @@
+{
+  "id": "1iPqACbHodJf5fS80Sek97",
+  "name": "Uzi",
+  "followers": 50,
+  "monthlyListeners": 2617,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 448,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 256,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 136,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 119,
+        "region": "SP"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 112,
+        "region": "DF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6p5JxpTc7USNnBnLzctyd4",
+  "name": "Phillip Phillips",
+  "followers": 1121436,
+  "monthlyListeners": 3386194,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 65264,
+        "region": "JK"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 39665,
+        "region": "IL"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 33309,
+        "region": "CMX"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 31974,
+        "region": "NY"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 31566,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

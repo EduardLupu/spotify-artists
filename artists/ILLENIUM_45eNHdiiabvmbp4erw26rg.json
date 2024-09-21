@@ -1,0 +1,41 @@
+{
+  "id": "45eNHdiiabvmbp4erw26rg",
+  "name": "ILLENIUM",
+  "followers": 1530333,
+  "monthlyListeners": 8540290,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 129510,
+        "region": "NSW"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 118840,
+        "region": "JK"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 114209,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 113879,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 101847,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

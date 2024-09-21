@@ -1,0 +1,41 @@
+{
+  "id": "6MPCFvOQv5cIGfw3jODMF0",
+  "name": "Internet Money",
+  "followers": 858248,
+  "monthlyListeners": 10057278,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 128178,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 125796,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 116529,
+        "region": "IL"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 110332,
+        "region": "ON"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 104270,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

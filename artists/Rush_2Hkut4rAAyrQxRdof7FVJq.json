@@ -1,0 +1,41 @@
+{
+  "id": "2Hkut4rAAyrQxRdof7FVJq",
+  "name": "Rush",
+  "followers": 2360518,
+  "monthlyListeners": 3642344,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 69244,
+        "region": "SP"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 65829,
+        "region": "IL"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 62919,
+        "region": "ON"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 45867,
+        "region": "QC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 45638,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

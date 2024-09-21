@@ -1,0 +1,41 @@
+{
+  "id": "35WVTyRnKAoaGExqgktVyb",
+  "name": "Hotel Ugly",
+  "followers": 755676,
+  "monthlyListeners": 21895381,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 307160,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 276208,
+        "region": "SP"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 238989,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 215764,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 209154,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 312
+}

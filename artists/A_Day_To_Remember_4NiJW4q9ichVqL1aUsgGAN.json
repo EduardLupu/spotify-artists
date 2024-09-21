@@ -1,0 +1,41 @@
+{
+  "id": "4NiJW4q9ichVqL1aUsgGAN",
+  "name": "A Day To Remember",
+  "followers": 2366587,
+  "monthlyListeners": 4867344,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 82731,
+        "region": "JK"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 82591,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 76157,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 69656,
+        "region": "NSW"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 67028,
+        "region": "PA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

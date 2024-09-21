@@ -1,0 +1,41 @@
+{
+  "id": "2XpZQtDxSrLnxHBcVNfE8q",
+  "name": "Izi",
+  "followers": 14532,
+  "monthlyListeners": 19634,
+  "topCities": {
+    "items": [
+      {
+        "city": "Casablanca",
+        "country": "MA",
+        "numberOfListeners": 5269,
+        "region": "06"
+      },
+      {
+        "city": "Marrakesh",
+        "country": "MA",
+        "numberOfListeners": 1330,
+        "region": "07"
+      },
+      {
+        "city": "Rabat",
+        "country": "MA",
+        "numberOfListeners": 1292,
+        "region": "04"
+      },
+      {
+        "city": "Agadir",
+        "country": "MA",
+        "numberOfListeners": 962,
+        "region": "09"
+      },
+      {
+        "city": "Fes",
+        "country": "MA",
+        "numberOfListeners": 736,
+        "region": "03"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2KbikmQKGiUPR2ARs1h0sq",
+  "name": "Gilli",
+  "followers": 280005,
+  "monthlyListeners": 1003007,
+  "topCities": {
+    "items": [
+      {
+        "city": "Copenhagen",
+        "country": "DK",
+        "numberOfListeners": 399290,
+        "region": "84"
+      },
+      {
+        "city": "Frederiksberg",
+        "country": "DK",
+        "numberOfListeners": 257692,
+        "region": "84"
+      },
+      {
+        "city": "Rødovre Municipality",
+        "country": "DK",
+        "numberOfListeners": 78028,
+        "region": "84"
+      },
+      {
+        "city": "Aarhus",
+        "country": "DK",
+        "numberOfListeners": 60344,
+        "region": "82"
+      },
+      {
+        "city": "Valby",
+        "country": "DK",
+        "numberOfListeners": 58049,
+        "region": "84"
+      }
+    ]
+  },
+  "worldRank": 0
+}

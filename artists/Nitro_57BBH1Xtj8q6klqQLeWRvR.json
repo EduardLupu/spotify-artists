@@ -1,0 +1,41 @@
+{
+  "id": "57BBH1Xtj8q6klqQLeWRvR",
+  "name": "Nitro",
+  "followers": 95,
+  "monthlyListeners": 2606,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 186,
+        "region": "MD"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 135,
+        "region": "RM"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 72,
+        "region": "CT"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 70,
+        "region": "C"
+      },
+      {
+        "city": "Valencia",
+        "country": "ES",
+        "numberOfListeners": 42,
+        "region": "VC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

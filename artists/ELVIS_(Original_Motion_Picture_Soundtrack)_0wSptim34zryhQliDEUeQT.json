@@ -1,0 +1,41 @@
+{
+  "id": "0wSptim34zryhQliDEUeQT",
+  "name": "ELVIS (Original Motion Picture Soundtrack)",
+  "followers": 36193,
+  "monthlyListeners": 937622,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 19621,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 14012,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 12715,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 12257,
+        "region": "VIC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 11403,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

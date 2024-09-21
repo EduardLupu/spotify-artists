@@ -1,0 +1,41 @@
+{
+  "id": "5sSzCxHtgL82pYDvx2QyEU",
+  "name": "Devi Sri Prasad",
+  "followers": 9293723,
+  "monthlyListeners": 13480197,
+  "topCities": {
+    "items": [
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 3233998,
+        "region": "TS"
+      },
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 2035507,
+        "region": "TN"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 1301411,
+        "region": "KA"
+      },
+      {
+        "city": "Kochi",
+        "country": "IN",
+        "numberOfListeners": 846028,
+        "region": "KL"
+      },
+      {
+        "city": "Coimbatore",
+        "country": "IN",
+        "numberOfListeners": 796205,
+        "region": "TN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

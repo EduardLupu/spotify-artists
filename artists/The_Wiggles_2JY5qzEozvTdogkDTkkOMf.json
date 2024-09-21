@@ -1,0 +1,41 @@
+{
+  "id": "2JY5qzEozvTdogkDTkkOMf",
+  "name": "The Wiggles",
+  "followers": 280656,
+  "monthlyListeners": 1685636,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 137976,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 125026,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 80121,
+        "region": "QLD"
+      },
+      {
+        "city": "Perth",
+        "country": "AU",
+        "numberOfListeners": 45561,
+        "region": "WA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 27662,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

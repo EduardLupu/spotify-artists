@@ -1,0 +1,41 @@
+{
+  "id": "0lI3rF4hi4op6UxqlLHPzv",
+  "name": "Achille Lauro",
+  "followers": 955091,
+  "monthlyListeners": 1619660,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 305777,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 153170,
+        "region": "62"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 44459,
+        "region": "21"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 43004,
+        "region": "72"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 36009,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

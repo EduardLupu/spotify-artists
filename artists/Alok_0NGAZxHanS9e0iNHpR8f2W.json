@@ -1,0 +1,41 @@
+{
+  "id": "0NGAZxHanS9e0iNHpR8f2W",
+  "name": "Alok",
+  "followers": 11288593,
+  "monthlyListeners": 27069183,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1132338,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 363818,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 351472,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 335319,
+        "region": "PR"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 318091,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 188
+}

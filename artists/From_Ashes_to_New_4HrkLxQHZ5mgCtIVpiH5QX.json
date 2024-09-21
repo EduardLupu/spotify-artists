@@ -1,0 +1,41 @@
+{
+  "id": "4HrkLxQHZ5mgCtIVpiH5QX",
+  "name": "From Ashes to New",
+  "followers": 537499,
+  "monthlyListeners": 1606800,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 20950,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 18053,
+        "region": "NSW"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 17762,
+        "region": "BE"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 17625,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 16898,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

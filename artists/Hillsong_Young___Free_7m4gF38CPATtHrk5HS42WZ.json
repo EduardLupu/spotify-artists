@@ -1,0 +1,41 @@
+{
+  "id": "7m4gF38CPATtHrk5HS42WZ",
+  "name": "Hillsong Young & Free",
+  "followers": 1372829,
+  "monthlyListeners": 1816127,
+  "topCities": {
+    "items": [
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 27574,
+        "region": ""
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 24896,
+        "region": "TX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 22732,
+        "region": "NSW"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 21107,
+        "region": "00"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 21034,
+        "region": "JK"
+      }
+    ]
+  },
+  "worldRank": 0
+}

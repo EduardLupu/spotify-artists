@@ -1,0 +1,41 @@
+{
+  "id": "0ZED1XzwlLHW4ZaG4lOT6m",
+  "name": "Julia Michaels",
+  "followers": 5061788,
+  "monthlyListeners": 19355409,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 404200,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 280503,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 247139,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 236641,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 184045,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 377
+}

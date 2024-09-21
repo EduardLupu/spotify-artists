@@ -1,0 +1,41 @@
+{
+  "id": "11wRdbnoYqRddKBrpHt4Ue",
+  "name": "Kasabian",
+  "followers": 1812741,
+  "monthlyListeners": 2884777,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 222985,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 98566,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 78846,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 65154,
+        "region": "ENG"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 64195,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1zNqQNIdeOUZHb8zbZRFMX",
+  "name": "Swae Lee",
+  "followers": 2263293,
+  "monthlyListeners": 39073631,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 550745,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 484226,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 436249,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 431627,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 394306,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 85
+}

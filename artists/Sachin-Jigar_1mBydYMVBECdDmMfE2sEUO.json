@@ -1,0 +1,41 @@
+{
+  "id": "1mBydYMVBECdDmMfE2sEUO",
+  "name": "Sachin-Jigar",
+  "followers": 3217817,
+  "monthlyListeners": 31058496,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 3379697,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 2919452,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 2443302,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 2006480,
+        "region": "DL"
+      },
+      {
+        "city": "Ahmedabad",
+        "country": "IN",
+        "numberOfListeners": 1697775,
+        "region": "GJ"
+      }
+    ]
+  },
+  "worldRank": 144
+}

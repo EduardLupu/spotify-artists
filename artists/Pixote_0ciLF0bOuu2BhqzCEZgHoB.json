@@ -1,0 +1,41 @@
+{
+  "id": "0ciLF0bOuu2BhqzCEZgHoB",
+  "name": "Pixote",
+  "followers": 2368843,
+  "monthlyListeners": 4846596,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 931757,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 438577,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 228143,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 210024,
+        "region": "SP"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 198043,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

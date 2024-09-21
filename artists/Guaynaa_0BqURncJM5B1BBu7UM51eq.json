@@ -1,0 +1,41 @@
+{
+  "id": "0BqURncJM5B1BBu7UM51eq",
+  "name": "Guaynaa",
+  "followers": 879157,
+  "monthlyListeners": 7047598,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 403805,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 265989,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 240655,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 224604,
+        "region": "DC"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 158643,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

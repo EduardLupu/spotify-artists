@@ -1,0 +1,41 @@
+{
+  "id": "0tmwSHipWxN12fsoLcFU3B",
+  "name": "Manuel Turizo",
+  "followers": 13951742,
+  "monthlyListeners": 36874679,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1451409,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1424736,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1376467,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 1119282,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1009371,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 96
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+  "name": "Bon Iver",
+  "followers": 3653383,
+  "monthlyListeners": 18509970,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 299473,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 293914,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 264375,
+        "region": "VIC"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 222908,
+        "region": "JK"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 209670,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 413
+}

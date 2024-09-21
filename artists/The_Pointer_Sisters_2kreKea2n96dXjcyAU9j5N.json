@@ -1,0 +1,41 @@
+{
+  "id": "2kreKea2n96dXjcyAU9j5N",
+  "name": "The Pointer Sisters",
+  "followers": 1062648,
+  "monthlyListeners": 6619149,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 108827,
+        "region": "IDF"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 93653,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 93588,
+        "region": "NH"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 90125,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 88548,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

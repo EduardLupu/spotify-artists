@@ -1,0 +1,41 @@
+{
+  "id": "4GRiFIOBIMDW12BISvvktR",
+  "name": "Heroes Music Project",
+  "followers": 119,
+  "monthlyListeners": 2479,
+  "topCities": {
+    "items": [
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 66,
+        "region": "NY"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 57,
+        "region": "PA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 56,
+        "region": "IL"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 47,
+        "region": "TX"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 37,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

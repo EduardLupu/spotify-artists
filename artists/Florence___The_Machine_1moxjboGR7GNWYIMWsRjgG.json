@@ -1,0 +1,41 @@
+{
+  "id": "1moxjboGR7GNWYIMWsRjgG",
+  "name": "Florence + The Machine",
+  "followers": 6831962,
+  "monthlyListeners": 22672557,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 669813,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 447011,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 403449,
+        "region": "VIC"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 302794,
+        "region": "L"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 279127,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 281
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4ywgHd7JIA6Daf4TY7jm3C",
+  "name": "Ufo",
+  "followers": 99,
+  "monthlyListeners": 34,
+  "topCities": {
+    "items": [
+      {
+        "city": "Caracas",
+        "country": "VE",
+        "numberOfListeners": 5,
+        "region": "A"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 2,
+        "region": "PR"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 2,
+        "region": "ANT"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 2,
+        "region": "DC"
+      },
+      {
+        "city": "Valencia",
+        "country": "VE",
+        "numberOfListeners": 2,
+        "region": "G"
+      }
+    ]
+  },
+  "worldRank": 0
+}

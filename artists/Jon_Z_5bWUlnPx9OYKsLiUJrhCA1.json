@@ -1,0 +1,41 @@
+{
+  "id": "5bWUlnPx9OYKsLiUJrhCA1",
+  "name": "Jon Z",
+  "followers": 6372930,
+  "monthlyListeners": 7543969,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 491861,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 411257,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 274221,
+        "region": "LMA"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 254771,
+        "region": "ANT"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 223555,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6beUvFUlKliUYJdLOXNj9C",
+  "name": "King Princess",
+  "followers": 1705146,
+  "monthlyListeners": 1680086,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 39756,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 35573,
+        "region": "VIC"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 29748,
+        "region": "NY"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 25614,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 24646,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

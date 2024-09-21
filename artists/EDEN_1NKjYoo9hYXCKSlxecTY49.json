@@ -1,0 +1,41 @@
+{
+  "id": "1NKjYoo9hYXCKSlxecTY49",
+  "name": "EDEN",
+  "followers": 47371,
+  "monthlyListeners": 64800,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1531,
+        "region": "JK"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 1442,
+        "region": ""
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 1185,
+        "region": "10"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 1047,
+        "region": "14"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 985,
+        "region": "TPE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

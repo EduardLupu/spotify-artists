@@ -1,0 +1,41 @@
+{
+  "id": "5W5bDNCqJ1jbCgTxDD0Cb3",
+  "name": "Willie Nelson",
+  "followers": 2291267,
+  "monthlyListeners": 7998746,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 108781,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 108457,
+        "region": "NSW"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 101638,
+        "region": "TX"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 95559,
+        "region": "CO"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 86298,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

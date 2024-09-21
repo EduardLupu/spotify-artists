@@ -1,0 +1,41 @@
+{
+  "id": "1oyTtsbChtf14jw3jptCQB",
+  "name": "Eve",
+  "followers": 1356,
+  "monthlyListeners": 9091,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 5735,
+        "region": "18"
+      },
+      {
+        "city": "Tampere",
+        "country": "FI",
+        "numberOfListeners": 1090,
+        "region": "11"
+      },
+      {
+        "city": "Oulu",
+        "country": "FI",
+        "numberOfListeners": 847,
+        "region": "14"
+      },
+      {
+        "city": "Vantaa",
+        "country": "FI",
+        "numberOfListeners": 466,
+        "region": "18"
+      },
+      {
+        "city": "Espoo",
+        "country": "FI",
+        "numberOfListeners": 295,
+        "region": "18"
+      }
+    ]
+  },
+  "worldRank": 0
+}

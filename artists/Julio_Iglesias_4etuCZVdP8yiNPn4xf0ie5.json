@@ -1,0 +1,41 @@
+{
+  "id": "4etuCZVdP8yiNPn4xf0ie5",
+  "name": "Julio Iglesias",
+  "followers": 3090173,
+  "monthlyListeners": 4904296,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 178025,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 163630,
+        "region": "RM"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 127610,
+        "region": "MD"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 89864,
+        "region": "JAL"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 81452,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4ixNZvQuuzCDxBsxO9zE6L",
+  "name": "Gonzy",
+  "followers": 96908,
+  "monthlyListeners": 3973847,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 481940,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 311709,
+        "region": "CT"
+      },
+      {
+        "city": "Valencia",
+        "country": "ES",
+        "numberOfListeners": 147687,
+        "region": "VC"
+      },
+      {
+        "city": "Seville",
+        "country": "ES",
+        "numberOfListeners": 137314,
+        "region": "AN"
+      },
+      {
+        "city": "Málaga",
+        "country": "ES",
+        "numberOfListeners": 130742,
+        "region": "AN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

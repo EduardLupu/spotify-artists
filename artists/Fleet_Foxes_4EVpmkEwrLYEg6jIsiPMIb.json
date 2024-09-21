@@ -1,0 +1,41 @@
+{
+  "id": "4EVpmkEwrLYEg6jIsiPMIb",
+  "name": "Fleet Foxes",
+  "followers": 1376829,
+  "monthlyListeners": 3984699,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 64790,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 60900,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 59758,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 55673,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 55332,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

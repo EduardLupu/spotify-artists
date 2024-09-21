@@ -1,0 +1,41 @@
+{
+  "id": "3Elp2e4JVkT08bnUbE1AZw",
+  "name": "ZaeHD & CEO",
+  "followers": 54862,
+  "monthlyListeners": 72350,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 1051,
+        "region": "TX"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1038,
+        "region": "IL"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 884,
+        "region": "GA"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 843,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 838,
+        "region": "NC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

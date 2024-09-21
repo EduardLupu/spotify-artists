@@ -1,0 +1,41 @@
+{
+  "id": "5lC7N2Mm9i92KSfW4opawO",
+  "name": "Ekoh",
+  "followers": 218035,
+  "monthlyListeners": 1133277,
+  "topCities": {
+    "items": [
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 18182,
+        "region": "CO"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 16031,
+        "region": "IL"
+      },
+      {
+        "city": "Calgary",
+        "country": "CA",
+        "numberOfListeners": 15715,
+        "region": "AB"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 15424,
+        "region": "QLD"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 15191,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

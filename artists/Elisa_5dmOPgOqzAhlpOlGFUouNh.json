@@ -1,0 +1,41 @@
+{
+  "id": "5dmOPgOqzAhlpOlGFUouNh",
+  "name": "Elisa",
+  "followers": 7361,
+  "monthlyListeners": 10420,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lisbon",
+        "country": "PT",
+        "numberOfListeners": 2830,
+        "region": "11"
+      },
+      {
+        "city": "Porto",
+        "country": "PT",
+        "numberOfListeners": 1189,
+        "region": "13"
+      },
+      {
+        "city": "Funchal",
+        "country": "PT",
+        "numberOfListeners": 379,
+        "region": "30"
+      },
+      {
+        "city": "Braga",
+        "country": "PT",
+        "numberOfListeners": 209,
+        "region": "03"
+      },
+      {
+        "city": "Amadora",
+        "country": "PT",
+        "numberOfListeners": 197,
+        "region": "11"
+      }
+    ]
+  },
+  "worldRank": 0
+}

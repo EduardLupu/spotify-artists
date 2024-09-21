@@ -1,0 +1,41 @@
+{
+  "id": "2otUckChxWf2cp6UP2cD6e",
+  "name": "Zuna",
+  "followers": 1016394,
+  "monthlyListeners": 1639959,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 142169,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 131138,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 121372,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 102369,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 101960,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

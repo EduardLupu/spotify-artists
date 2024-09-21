@@ -1,0 +1,41 @@
+{
+  "id": "59FrDXDVJz0EKqYg39dnT2",
+  "name": "Jão",
+  "followers": 3363189,
+  "monthlyListeners": 2803433,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 487906,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 192570,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 118801,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 108654,
+        "region": "PR"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 104252,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

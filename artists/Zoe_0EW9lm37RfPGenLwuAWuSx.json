@@ -1,0 +1,41 @@
+{
+  "id": "0EW9lm37RfPGenLwuAWuSx",
+  "name": "Zoe",
+  "followers": 5642,
+  "monthlyListeners": 2139,
+  "topCities": {
+    "items": [
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 50,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 40,
+        "region": "VIC"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 36,
+        "region": "ENG"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 33,
+        "region": "10"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 31,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

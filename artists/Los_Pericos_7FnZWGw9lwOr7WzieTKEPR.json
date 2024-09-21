@@ -1,0 +1,41 @@
+{
+  "id": "7FnZWGw9lwOr7WzieTKEPR",
+  "name": "Los Pericos",
+  "followers": 1337828,
+  "monthlyListeners": 3600550,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 366679,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 339329,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 186784,
+        "region": "CMX"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 160140,
+        "region": "B"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 115040,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

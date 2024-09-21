@@ -1,0 +1,41 @@
+{
+  "id": "3cLq9K18iydbnmp1yBB2eg",
+  "name": "Brando",
+  "followers": 9884,
+  "monthlyListeners": 24694,
+  "topCities": {
+    "items": [
+      {
+        "city": "Athens",
+        "country": "GR",
+        "numberOfListeners": 13343,
+        "region": "I"
+      },
+      {
+        "city": "Thessaloniki",
+        "country": "GR",
+        "numberOfListeners": 5116,
+        "region": "B"
+      },
+      {
+        "city": "Pátrai",
+        "country": "GR",
+        "numberOfListeners": 756,
+        "region": "G"
+      },
+      {
+        "city": "Nicosia",
+        "country": "CY",
+        "numberOfListeners": 726,
+        "region": "01"
+      },
+      {
+        "city": "Limassol",
+        "country": "CY",
+        "numberOfListeners": 537,
+        "region": "02"
+      }
+    ]
+  },
+  "worldRank": 0
+}

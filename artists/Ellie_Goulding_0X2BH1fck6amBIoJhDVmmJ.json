@@ -1,0 +1,41 @@
+{
+  "id": "0X2BH1fck6amBIoJhDVmmJ",
+  "name": "Ellie Goulding",
+  "followers": 12543530,
+  "monthlyListeners": 40674863,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 624397,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 578190,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 511048,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 461992,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 426152,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 78
+}

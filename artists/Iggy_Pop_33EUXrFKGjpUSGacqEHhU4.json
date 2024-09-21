@@ -1,0 +1,41 @@
+{
+  "id": "33EUXrFKGjpUSGacqEHhU4",
+  "name": "Iggy Pop",
+  "followers": 1651796,
+  "monthlyListeners": 3919193,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 58327,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 56934,
+        "region": "SP"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 54308,
+        "region": "IDF"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 52912,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 49222,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

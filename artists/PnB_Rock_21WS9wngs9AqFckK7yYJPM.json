@@ -1,0 +1,41 @@
+{
+  "id": "21WS9wngs9AqFckK7yYJPM",
+  "name": "PnB Rock",
+  "followers": 4165887,
+  "monthlyListeners": 3908205,
+  "topCities": {
+    "items": [
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 64975,
+        "region": "PA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 61400,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 60822,
+        "region": "IL"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 55829,
+        "region": "ON"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 54099,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

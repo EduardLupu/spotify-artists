@@ -1,0 +1,41 @@
+{
+  "id": "2sSGPbdZJkaSE2AbcGOACx",
+  "name": "The Marías",
+  "followers": 1483823,
+  "monthlyListeners": 11685097,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 288348,
+        "region": "CA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 273414,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 191911,
+        "region": "RM"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 165208,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 150892,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1ToIBidx4Qi8DDeH0yOY9L",
+  "name": "Randy",
+  "followers": 2888,
+  "monthlyListeners": 1836,
+  "topCities": {
+    "items": [
+      {
+        "city": "Hanoi",
+        "country": "VN",
+        "numberOfListeners": 469,
+        "region": "HN"
+      },
+      {
+        "city": "Ho Chi Minh City",
+        "country": "VN",
+        "numberOfListeners": 440,
+        "region": "SG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 36,
+        "region": "VIC"
+      },
+      {
+        "city": "Da Nang",
+        "country": "VN",
+        "numberOfListeners": 33,
+        "region": "DN"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 33,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

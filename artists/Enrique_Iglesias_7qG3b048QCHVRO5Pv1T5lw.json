@@ -1,0 +1,41 @@
+{
+  "id": "7qG3b048QCHVRO5Pv1T5lw",
+  "name": "Enrique Iglesias",
+  "followers": 11096692,
+  "monthlyListeners": 26586208,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 732702,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 719984,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 501841,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 447351,
+        "region": "DC"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 374783,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 194
+}

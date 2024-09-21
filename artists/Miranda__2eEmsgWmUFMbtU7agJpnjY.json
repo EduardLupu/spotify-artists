@@ -1,0 +1,41 @@
+{
+  "id": "2eEmsgWmUFMbtU7agJpnjY",
+  "name": "Miranda!",
+  "followers": 1857577,
+  "monthlyListeners": 9016144,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 760050,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 690527,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 495736,
+        "region": "CMX"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 365758,
+        "region": "B"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 241306,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

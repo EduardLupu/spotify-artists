@@ -1,0 +1,41 @@
+{
+  "id": "5LhTec3c7dcqBvpLRWbMcf",
+  "name": "Madlib",
+  "followers": 505490,
+  "monthlyListeners": 4329818,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 91089,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 88010,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 67841,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 63610,
+        "region": "NY"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 58597,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

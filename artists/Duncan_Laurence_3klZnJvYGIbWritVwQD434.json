@@ -1,0 +1,41 @@
+{
+  "id": "3klZnJvYGIbWritVwQD434",
+  "name": "Duncan Laurence",
+  "followers": 593201,
+  "monthlyListeners": 7924835,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 173203,
+        "region": "JK"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 109721,
+        "region": "KA"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 93042,
+        "region": "NH"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 86544,
+        "region": "MH"
+      },
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 80388,
+        "region": "TN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

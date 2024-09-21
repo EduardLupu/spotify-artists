@@ -1,0 +1,41 @@
+{
+  "id": "1YTqlElpwS2ZSDmavyP5Nj",
+  "name": "Cro",
+  "followers": 7,
+  "monthlyListeners": 45,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 21,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 6,
+        "region": "ENG"
+      },
+      {
+        "city": "Ealing",
+        "country": "GB",
+        "numberOfListeners": 3,
+        "region": "ENG"
+      },
+      {
+        "city": "Brent",
+        "country": "GB",
+        "numberOfListeners": 3,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 3,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

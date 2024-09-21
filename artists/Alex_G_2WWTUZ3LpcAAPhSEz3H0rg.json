@@ -1,0 +1,41 @@
+{
+  "id": "2WWTUZ3LpcAAPhSEz3H0rg",
+  "name": "Alex G",
+  "followers": 77876,
+  "monthlyListeners": 220802,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 5943,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 3336,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 2965,
+        "region": "VIC"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 2923,
+        "region": ""
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 2682,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

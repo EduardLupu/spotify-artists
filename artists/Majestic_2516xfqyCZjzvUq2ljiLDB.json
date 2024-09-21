@@ -1,0 +1,41 @@
+{
+  "id": "2516xfqyCZjzvUq2ljiLDB",
+  "name": "Majestic",
+  "followers": 19,
+  "monthlyListeners": 932,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tower Hamlets",
+        "country": "GB",
+        "numberOfListeners": 86,
+        "region": "ENG"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 83,
+        "region": "MD"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 73,
+        "region": "CA"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 24,
+        "region": "14"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 23,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3CnCGFxXbOA8bAK54jR8js",
+  "name": "Vald",
+  "followers": 1285170,
+  "monthlyListeners": 1086149,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 217257,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 51642,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 50033,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 40698,
+        "region": "HDF"
+      },
+      {
+        "city": "Nantes",
+        "country": "FR",
+        "numberOfListeners": 30621,
+        "region": "PDL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

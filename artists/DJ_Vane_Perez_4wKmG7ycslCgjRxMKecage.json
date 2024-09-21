@@ -1,0 +1,41 @@
+{
+  "id": "4wKmG7ycslCgjRxMKecage",
+  "name": "DJ Vane Perez",
+  "followers": 344,
+  "monthlyListeners": 1333,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 61,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 42,
+        "region": "C"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 37,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 25,
+        "region": "B"
+      },
+      {
+        "city": "Asunción",
+        "country": "PY",
+        "numberOfListeners": 23,
+        "region": "ASU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

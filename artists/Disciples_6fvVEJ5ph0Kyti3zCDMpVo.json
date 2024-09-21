@@ -1,0 +1,41 @@
+{
+  "id": "6fvVEJ5ph0Kyti3zCDMpVo",
+  "name": "Disciples",
+  "followers": 71,
+  "monthlyListeners": 1280,
+  "topCities": {
+    "items": [
+      {
+        "city": "Seoul",
+        "country": "KR",
+        "numberOfListeners": 156,
+        "region": "11"
+      },
+      {
+        "city": "Gangnam-gu",
+        "country": "KR",
+        "numberOfListeners": 82,
+        "region": "11"
+      },
+      {
+        "city": "Seocho-gu",
+        "country": "KR",
+        "numberOfListeners": 65,
+        "region": "11"
+      },
+      {
+        "city": "Yongsan-gu",
+        "country": "KR",
+        "numberOfListeners": 42,
+        "region": "11"
+      },
+      {
+        "city": "Dongjak-gu",
+        "country": "KR",
+        "numberOfListeners": 37,
+        "region": "11"
+      }
+    ]
+  },
+  "worldRank": 0
+}

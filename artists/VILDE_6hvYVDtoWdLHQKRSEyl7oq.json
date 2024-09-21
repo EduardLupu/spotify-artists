@@ -1,0 +1,41 @@
+{
+  "id": "6hvYVDtoWdLHQKRSEyl7oq",
+  "name": "VILDE",
+  "followers": 1307,
+  "monthlyListeners": 7916,
+  "topCities": {
+    "items": [
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 2383,
+        "region": "03"
+      },
+      {
+        "city": "Bergen",
+        "country": "NO",
+        "numberOfListeners": 300,
+        "region": "46"
+      },
+      {
+        "city": "Trondheim",
+        "country": "NO",
+        "numberOfListeners": 260,
+        "region": "50"
+      },
+      {
+        "city": "Stavanger",
+        "country": "NO",
+        "numberOfListeners": 201,
+        "region": "11"
+      },
+      {
+        "city": "Kristiansand",
+        "country": "NO",
+        "numberOfListeners": 107,
+        "region": "42"
+      }
+    ]
+  },
+  "worldRank": 0
+}

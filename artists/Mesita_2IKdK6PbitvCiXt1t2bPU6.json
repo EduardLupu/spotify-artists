@@ -1,0 +1,41 @@
+{
+  "id": "2IKdK6PbitvCiXt1t2bPU6",
+  "name": "Mesita",
+  "followers": 502771,
+  "monthlyListeners": 6779403,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 822684,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 465799,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 372186,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 361752,
+        "region": "B"
+      },
+      {
+        "city": "Montevideo",
+        "country": "UY",
+        "numberOfListeners": 236670,
+        "region": "MO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

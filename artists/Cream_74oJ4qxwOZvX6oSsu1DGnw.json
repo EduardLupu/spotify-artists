@@ -1,0 +1,41 @@
+{
+  "id": "74oJ4qxwOZvX6oSsu1DGnw",
+  "name": "Cream",
+  "followers": 2398088,
+  "monthlyListeners": 4572975,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 64594,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 58566,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 56162,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 54852,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 52833,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

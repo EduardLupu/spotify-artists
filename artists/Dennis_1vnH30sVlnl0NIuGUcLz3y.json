@@ -1,0 +1,41 @@
+{
+  "id": "1vnH30sVlnl0NIuGUcLz3y",
+  "name": "Dennis",
+  "followers": 141392,
+  "monthlyListeners": 109931,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 17688,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 7902,
+        "region": "62"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 3140,
+        "region": "21"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 2719,
+        "region": "72"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 2160,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

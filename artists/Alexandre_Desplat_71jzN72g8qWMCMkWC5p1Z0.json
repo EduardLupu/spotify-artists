@@ -1,0 +1,41 @@
+{
+  "id": "71jzN72g8qWMCMkWC5p1Z0",
+  "name": "Alexandre Desplat",
+  "followers": 326787,
+  "monthlyListeners": 2998415,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 42170,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 36943,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 32756,
+        "region": "VIC"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 31008,
+        "region": "IDF"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 23402,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5o3rHLdOcwJYHkjrRPjGN5",
+  "name": "Arcane",
+  "followers": 986,
+  "monthlyListeners": 1880,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 150,
+        "region": "ENG"
+      },
+      {
+        "city": "Bristol",
+        "country": "GB",
+        "numberOfListeners": 43,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 39,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 35,
+        "region": "NH"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 32,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

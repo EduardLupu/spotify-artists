@@ -1,0 +1,41 @@
+{
+  "id": "3eGLRmwov9m81FQu2onhVW",
+  "name": "EDEN",
+  "followers": 714,
+  "monthlyListeners": 3425,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 643,
+        "region": "ENG"
+      },
+      {
+        "city": "Cardiff",
+        "country": "GB",
+        "numberOfListeners": 508,
+        "region": "WLS"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 467,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 227,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 172,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

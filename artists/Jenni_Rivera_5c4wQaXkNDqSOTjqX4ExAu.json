@@ -1,0 +1,41 @@
+{
+  "id": "5c4wQaXkNDqSOTjqX4ExAu",
+  "name": "Jenni Rivera",
+  "followers": 4539129,
+  "monthlyListeners": 4827947,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 408423,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 231629,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 176719,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 167939,
+        "region": "PUE"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 154862,
+        "region": "QUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

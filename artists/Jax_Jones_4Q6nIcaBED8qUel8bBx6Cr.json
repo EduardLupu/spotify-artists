@@ -1,0 +1,41 @@
+{
+  "id": "4Q6nIcaBED8qUel8bBx6Cr",
+  "name": "Jax Jones",
+  "followers": 1194037,
+  "monthlyListeners": 13126307,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 329012,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 174304,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 174053,
+        "region": "NH"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 163915,
+        "region": "14"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 152242,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

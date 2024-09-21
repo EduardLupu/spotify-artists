@@ -1,0 +1,41 @@
+{
+  "id": "5B8ApeENp4bE4EE3LI8jK2",
+  "name": "Yuridia",
+  "followers": 4775120,
+  "monthlyListeners": 11501653,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 989345,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 492600,
+        "region": "JAL"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 399272,
+        "region": "PUE"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 396936,
+        "region": "CMX"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 360082,
+        "region": "QUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1ADdpen72RPuafRcv0YRBf",
+  "name": "Antonio Orozco",
+  "followers": 1379433,
+  "monthlyListeners": 2467912,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 185900,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 109888,
+        "region": "CT"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 98365,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 62304,
+        "region": "C"
+      },
+      {
+        "city": "Seville",
+        "country": "ES",
+        "numberOfListeners": 50551,
+        "region": "AN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

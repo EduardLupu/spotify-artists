@@ -1,0 +1,41 @@
+{
+  "id": "1pQWsZQehhS4wavwh7Fnxd",
+  "name": "Lenny Tavárez",
+  "followers": 2929969,
+  "monthlyListeners": 17887661,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 953038,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 917111,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 716423,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 712698,
+        "region": "CMX"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 619807,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 436
+}

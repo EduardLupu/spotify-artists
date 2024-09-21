@@ -1,0 +1,41 @@
+{
+  "id": "0Sadg1vgvaPqGTOjxu0N6c",
+  "name": "Girls' Generation",
+  "followers": 2541197,
+  "monthlyListeners": 2624323,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 160415,
+        "region": "JK"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 82074,
+        "region": "13"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 67724,
+        "region": "14"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 57918,
+        "region": ""
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 57870,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

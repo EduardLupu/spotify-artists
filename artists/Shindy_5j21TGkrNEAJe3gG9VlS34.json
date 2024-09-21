@@ -1,0 +1,41 @@
+{
+  "id": "5j21TGkrNEAJe3gG9VlS34",
+  "name": "Shindy",
+  "followers": 853540,
+  "monthlyListeners": 1552351,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 155225,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 126360,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 115874,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 112547,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 103179,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1LIuN7ov1IBQDdLsU83ojl",
+  "name": "Hugo & Guilherme",
+  "followers": 2125989,
+  "monthlyListeners": 9768589,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1571236,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 676999,
+        "region": "MG"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 574737,
+        "region": "DF"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 555190,
+        "region": "PR"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 521275,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

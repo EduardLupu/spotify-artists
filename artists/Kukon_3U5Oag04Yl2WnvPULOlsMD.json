@@ -1,0 +1,41 @@
+{
+  "id": "3U5Oag04Yl2WnvPULOlsMD",
+  "name": "Kukon",
+  "followers": 636216,
+  "monthlyListeners": 1294831,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 406407,
+        "region": "14"
+      },
+      {
+        "city": "Krakow",
+        "country": "PL",
+        "numberOfListeners": 135398,
+        "region": "12"
+      },
+      {
+        "city": "Katowice",
+        "country": "PL",
+        "numberOfListeners": 133953,
+        "region": "24"
+      },
+      {
+        "city": "Poznan",
+        "country": "PL",
+        "numberOfListeners": 133812,
+        "region": "30"
+      },
+      {
+        "city": "Wroclaw",
+        "country": "PL",
+        "numberOfListeners": 114507,
+        "region": "02"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6vTqEFbTtTRJsuIpzZgjxi",
+  "name": "Grupo Menos É Mais",
+  "followers": 3831445,
+  "monthlyListeners": 9613517,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1703182,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 824806,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 514970,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 438136,
+        "region": "SP"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 435359,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

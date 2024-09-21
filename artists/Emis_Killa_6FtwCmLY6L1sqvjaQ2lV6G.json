@@ -1,0 +1,41 @@
+{
+  "id": "6FtwCmLY6L1sqvjaQ2lV6G",
+  "name": "Emis Killa",
+  "followers": 1591191,
+  "monthlyListeners": 3692822,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 906542,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 361343,
+        "region": "62"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 136566,
+        "region": "21"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 130068,
+        "region": "72"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 100215,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

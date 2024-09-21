@@ -1,0 +1,41 @@
+{
+  "id": "0huGjMyP507tBCARyzSkrv",
+  "name": "Cordae",
+  "followers": 2032045,
+  "monthlyListeners": 7795010,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 128226,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 117800,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 110652,
+        "region": "NSW"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 100500,
+        "region": "NY"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 94440,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

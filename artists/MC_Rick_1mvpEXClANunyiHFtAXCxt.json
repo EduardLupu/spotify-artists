@@ -1,0 +1,41 @@
+{
+  "id": "1mvpEXClANunyiHFtAXCxt",
+  "name": "MC Rick",
+  "followers": 1525050,
+  "monthlyListeners": 5513653,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 944276,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 397099,
+        "region": "MG"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 308189,
+        "region": "RS"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 251560,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 248775,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

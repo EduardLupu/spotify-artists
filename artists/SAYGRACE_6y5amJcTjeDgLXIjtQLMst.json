@@ -1,0 +1,41 @@
+{
+  "id": "6y5amJcTjeDgLXIjtQLMst",
+  "name": "SAYGRACE",
+  "followers": 202413,
+  "monthlyListeners": 3364171,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 51412,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 46100,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 40097,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 34423,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 34345,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

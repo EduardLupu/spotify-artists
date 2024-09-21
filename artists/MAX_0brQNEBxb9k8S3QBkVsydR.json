@@ -1,0 +1,41 @@
+{
+  "id": "0brQNEBxb9k8S3QBkVsydR",
+  "name": "MAX",
+  "followers": 241,
+  "monthlyListeners": 44,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 17,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 11,
+        "region": "ZH"
+      },
+      {
+        "city": "'s-Hertogenbosch",
+        "country": "NL",
+        "numberOfListeners": 2,
+        "region": "NB"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 2,
+        "region": "UT"
+      },
+      {
+        "city": "Apeldoorn",
+        "country": "NL",
+        "numberOfListeners": 2,
+        "region": "GE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

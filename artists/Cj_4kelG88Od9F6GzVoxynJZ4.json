@@ -1,0 +1,41 @@
+{
+  "id": "4kelG88Od9F6GzVoxynJZ4",
+  "name": "Cj",
+  "followers": 83,
+  "monthlyListeners": 242,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 100,
+        "region": "25"
+      },
+      {
+        "city": "Brescia",
+        "country": "IT",
+        "numberOfListeners": 7,
+        "region": "25"
+      },
+      {
+        "city": "Parma",
+        "country": "IT",
+        "numberOfListeners": 5,
+        "region": "45"
+      },
+      {
+        "city": "Monza",
+        "country": "IT",
+        "numberOfListeners": 5,
+        "region": "25"
+      },
+      {
+        "city": "Bergamo",
+        "country": "IT",
+        "numberOfListeners": 5,
+        "region": "25"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4GOxZH5EE1JMHO0z8QiW4t",
+  "name": "Dibyo",
+  "followers": 9864,
+  "monthlyListeners": 1740884,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 20054,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 18252,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 14658,
+        "region": "NSW"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 12776,
+        "region": "00"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 12436,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

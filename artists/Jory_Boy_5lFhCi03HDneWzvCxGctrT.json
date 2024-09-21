@@ -1,0 +1,41 @@
+{
+  "id": "5lFhCi03HDneWzvCxGctrT",
+  "name": "Jory Boy",
+  "followers": 1820327,
+  "monthlyListeners": 7808073,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 621928,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 541599,
+        "region": "DC"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 299216,
+        "region": "ANT"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 293795,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 281560,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

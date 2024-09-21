@@ -1,0 +1,41 @@
+{
+  "id": "6B27QpunyFj9yjvb8n6sPo",
+  "name": "Shake",
+  "followers": 857,
+  "monthlyListeners": 5494,
+  "topCities": {
+    "items": [
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 1188,
+        "region": "AB"
+      },
+      {
+        "city": "Gothenburg",
+        "country": "SE",
+        "numberOfListeners": 606,
+        "region": "O"
+      },
+      {
+        "city": "Malmo",
+        "country": "SE",
+        "numberOfListeners": 383,
+        "region": "M"
+      },
+      {
+        "city": "Umeå",
+        "country": "SE",
+        "numberOfListeners": 246,
+        "region": "AC"
+      },
+      {
+        "city": "Sundsvall",
+        "country": "SE",
+        "numberOfListeners": 109,
+        "region": "Y"
+      }
+    ]
+  },
+  "worldRank": 0
+}

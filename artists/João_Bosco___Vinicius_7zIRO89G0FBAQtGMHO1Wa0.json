@@ -1,0 +1,41 @@
+{
+  "id": "7zIRO89G0FBAQtGMHO1Wa0",
+  "name": "João Bosco & Vinicius",
+  "followers": 3042519,
+  "monthlyListeners": 4824655,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 622077,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 262922,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 249147,
+        "region": "PR"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 210162,
+        "region": "DF"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 208214,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "71cZMt4XdCynLn983qeFow",
+  "name": "Sigma",
+  "followers": 77060,
+  "monthlyListeners": 469079,
+  "topCities": {
+    "items": [
+      {
+        "city": "Athens",
+        "country": "GR",
+        "numberOfListeners": 261647,
+        "region": "I"
+      },
+      {
+        "city": "Thessaloniki",
+        "country": "GR",
+        "numberOfListeners": 109912,
+        "region": "B"
+      },
+      {
+        "city": "Pátrai",
+        "country": "GR",
+        "numberOfListeners": 14721,
+        "region": "G"
+      },
+      {
+        "city": "Nicosia",
+        "country": "CY",
+        "numberOfListeners": 13633,
+        "region": "01"
+      },
+      {
+        "city": "Larissa",
+        "country": "GR",
+        "numberOfListeners": 10909,
+        "region": "E"
+      }
+    ]
+  },
+  "worldRank": 0
+}

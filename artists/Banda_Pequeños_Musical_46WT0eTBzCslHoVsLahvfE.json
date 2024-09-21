@@ -1,0 +1,41 @@
+{
+  "id": "46WT0eTBzCslHoVsLahvfE",
+  "name": "Banda Pequeños Musical",
+  "followers": 1806052,
+  "monthlyListeners": 3440395,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 425767,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 329524,
+        "region": "JAL"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 204744,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 191245,
+        "region": "CMX"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 188372,
+        "region": "QUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

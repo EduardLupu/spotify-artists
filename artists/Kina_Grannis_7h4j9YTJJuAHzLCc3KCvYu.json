@@ -1,0 +1,41 @@
+{
+  "id": "7h4j9YTJJuAHzLCc3KCvYu",
+  "name": "Kina Grannis",
+  "followers": 513226,
+  "monthlyListeners": 2421848,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 51920,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 49230,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 42642,
+        "region": "VIC"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 37176,
+        "region": ""
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 33330,
+        "region": "00"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1vCWHaC5f2uS3yhpwWbIA6",
+  "name": "Avicii",
+  "followers": 23029822,
+  "monthlyListeners": 36176968,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 503656,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 488866,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 462583,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 441654,
+        "region": "SP"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 399856,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 105
+}

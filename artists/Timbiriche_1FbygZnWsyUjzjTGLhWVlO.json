@@ -1,0 +1,41 @@
+{
+  "id": "1FbygZnWsyUjzjTGLhWVlO",
+  "name": "Timbiriche",
+  "followers": 1748805,
+  "monthlyListeners": 3490663,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 472621,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 180866,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 170374,
+        "region": "JAL"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 163603,
+        "region": "PUE"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 151765,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

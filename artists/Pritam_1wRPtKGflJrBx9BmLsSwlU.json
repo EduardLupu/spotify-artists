@@ -1,0 +1,41 @@
+{
+  "id": "1wRPtKGflJrBx9BmLsSwlU",
+  "name": "Pritam",
+  "followers": 38016846,
+  "monthlyListeners": 38298725,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 4147082,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 3475324,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 2971017,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 2434036,
+        "region": "DL"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 2241687,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 87
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4yiQZ8tQPux8cPriYMWUFP",
+  "name": "Gwen Stefani",
+  "followers": 6598989,
+  "monthlyListeners": 15860659,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 271200,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 242611,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 233390,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 187500,
+        "region": "QLD"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 169314,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

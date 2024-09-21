@@ -1,0 +1,41 @@
+{
+  "id": "7c0XG5cIJTrrAgEC3ULPiq",
+  "name": "Ty Dolla $ign",
+  "followers": 5471569,
+  "monthlyListeners": 35799333,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 527322,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 495359,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 479807,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 427939,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 401493,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 107
+}

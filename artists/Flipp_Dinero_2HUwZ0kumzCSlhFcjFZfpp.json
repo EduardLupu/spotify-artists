@@ -1,0 +1,41 @@
+{
+  "id": "2HUwZ0kumzCSlhFcjFZfpp",
+  "name": "Flipp Dinero",
+  "followers": 1301409,
+  "monthlyListeners": 2034680,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 31988,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 30380,
+        "region": "CA"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 27241,
+        "region": "ON"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 25845,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 25040,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

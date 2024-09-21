@@ -1,0 +1,41 @@
+{
+  "id": "0hhuWXnDOhe2ByXnLJGjXZ",
+  "name": "DJ TITÍ OFICIAL",
+  "followers": 18393,
+  "monthlyListeners": 765146,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 133787,
+        "region": "SP"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 30109,
+        "region": "RS"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 27175,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 26914,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 24355,
+        "region": "MG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

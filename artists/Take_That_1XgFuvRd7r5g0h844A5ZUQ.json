@@ -1,0 +1,41 @@
+{
+  "id": "1XgFuvRd7r5g0h844A5ZUQ",
+  "name": "Take That",
+  "followers": 1351688,
+  "monthlyListeners": 5084272,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 292732,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 188998,
+        "region": "ENG"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 78199,
+        "region": "L"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 76212,
+        "region": "ENG"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 70536,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

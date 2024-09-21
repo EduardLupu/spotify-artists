@@ -1,0 +1,41 @@
+{
+  "id": "1oxn6cQ37twQ7yGnlE3ETd",
+  "name": "Oki",
+  "followers": 904438,
+  "monthlyListeners": 2029831,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 666415,
+        "region": "14"
+      },
+      {
+        "city": "Poznan",
+        "country": "PL",
+        "numberOfListeners": 232694,
+        "region": "30"
+      },
+      {
+        "city": "Katowice",
+        "country": "PL",
+        "numberOfListeners": 223207,
+        "region": "24"
+      },
+      {
+        "city": "Krakow",
+        "country": "PL",
+        "numberOfListeners": 222932,
+        "region": "12"
+      },
+      {
+        "city": "Wroclaw",
+        "country": "PL",
+        "numberOfListeners": 193953,
+        "region": "02"
+      }
+    ]
+  },
+  "worldRank": 0
+}

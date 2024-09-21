@@ -1,0 +1,41 @@
+{
+  "id": "4FAYKRx22cj7NTCt5QteQK",
+  "name": "Meduza",
+  "followers": 903,
+  "monthlyListeners": 408,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 24,
+        "region": "34"
+      },
+      {
+        "city": "Ankara",
+        "country": "TR",
+        "numberOfListeners": 11,
+        "region": "06"
+      },
+      {
+        "city": "Izmir",
+        "country": "TR",
+        "numberOfListeners": 10,
+        "region": "35"
+      },
+      {
+        "city": "Bursa",
+        "country": "TR",
+        "numberOfListeners": 8,
+        "region": "16"
+      },
+      {
+        "city": "Athens",
+        "country": "GR",
+        "numberOfListeners": 8,
+        "region": "I"
+      }
+    ]
+  },
+  "worldRank": 0
+}

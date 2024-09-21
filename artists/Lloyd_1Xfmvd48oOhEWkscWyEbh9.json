@@ -1,0 +1,41 @@
+{
+  "id": "1Xfmvd48oOhEWkscWyEbh9",
+  "name": "Lloyd",
+  "followers": 2327222,
+  "monthlyListeners": 5275584,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 116628,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 84874,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 81139,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 70645,
+        "region": "IL"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 69100,
+        "region": "GP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

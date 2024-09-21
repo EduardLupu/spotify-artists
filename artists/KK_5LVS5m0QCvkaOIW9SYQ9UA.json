@@ -1,0 +1,41 @@
+{
+  "id": "5LVS5m0QCvkaOIW9SYQ9UA",
+  "name": "KK",
+  "followers": 2732,
+  "monthlyListeners": 44868,
+  "topCities": {
+    "items": [
+      {
+        "city": "Athens",
+        "country": "GR",
+        "numberOfListeners": 25663,
+        "region": "I"
+      },
+      {
+        "city": "Thessaloniki",
+        "country": "GR",
+        "numberOfListeners": 9218,
+        "region": "B"
+      },
+      {
+        "city": "Nicosia",
+        "country": "CY",
+        "numberOfListeners": 1707,
+        "region": "01"
+      },
+      {
+        "city": "Limassol",
+        "country": "CY",
+        "numberOfListeners": 1350,
+        "region": "02"
+      },
+      {
+        "city": "Pátrai",
+        "country": "GR",
+        "numberOfListeners": 1214,
+        "region": "G"
+      }
+    ]
+  },
+  "worldRank": 0
+}

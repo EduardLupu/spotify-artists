@@ -1,0 +1,41 @@
+{
+  "id": "4sb7rZNN93BSS6Gqgepo4v",
+  "name": "Too $hort",
+  "followers": 1578080,
+  "monthlyListeners": 2247324,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 93635,
+        "region": "CA"
+      },
+      {
+        "city": "Sacramento",
+        "country": "US",
+        "numberOfListeners": 54755,
+        "region": "CA"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 48494,
+        "region": "AZ"
+      },
+      {
+        "city": "San Francisco",
+        "country": "US",
+        "numberOfListeners": 43524,
+        "region": "CA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 35970,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

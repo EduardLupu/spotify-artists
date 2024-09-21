@@ -1,0 +1,41 @@
+{
+  "id": "13saZpZnCDWOI9D4IJhp1f",
+  "name": "Lily Allen",
+  "followers": 2062366,
+  "monthlyListeners": 8875520,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 359762,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 177344,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 169742,
+        "region": "VIC"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 122908,
+        "region": "L"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 119493,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

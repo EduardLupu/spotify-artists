@@ -1,0 +1,41 @@
+{
+  "id": "7N3HcnSB8NJl6WtJ94HEwW",
+  "name": "ANNA",
+  "followers": 183,
+  "monthlyListeners": 418,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 46,
+        "region": "IDF"
+      },
+      {
+        "city": "Tours",
+        "country": "FR",
+        "numberOfListeners": 8,
+        "region": "CVL"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 8,
+        "region": "QC"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 6,
+        "region": "BRU"
+      },
+      {
+        "city": "Nantes",
+        "country": "FR",
+        "numberOfListeners": 6,
+        "region": "PDL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

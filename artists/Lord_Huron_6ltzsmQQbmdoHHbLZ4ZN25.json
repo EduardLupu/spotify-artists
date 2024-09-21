@@ -1,0 +1,41 @@
+{
+  "id": "6ltzsmQQbmdoHHbLZ4ZN25",
+  "name": "Lord Huron",
+  "followers": 1702384,
+  "monthlyListeners": 30013264,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1128437,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 301965,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 298316,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 289667,
+        "region": "SP"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 265198,
+        "region": "JB"
+      }
+    ]
+  },
+  "worldRank": 159
+}

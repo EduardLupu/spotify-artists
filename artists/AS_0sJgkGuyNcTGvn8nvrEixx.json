@@ -1,0 +1,41 @@
+{
+  "id": "0sJgkGuyNcTGvn8nvrEixx",
+  "name": "AS",
+  "followers": 408,
+  "monthlyListeners": 2473,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 707,
+        "region": "14"
+      },
+      {
+        "city": "Krakow",
+        "country": "PL",
+        "numberOfListeners": 146,
+        "region": "12"
+      },
+      {
+        "city": "Katowice",
+        "country": "PL",
+        "numberOfListeners": 115,
+        "region": "24"
+      },
+      {
+        "city": "Poznan",
+        "country": "PL",
+        "numberOfListeners": 107,
+        "region": "30"
+      },
+      {
+        "city": "Lodz",
+        "country": "PL",
+        "numberOfListeners": 101,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

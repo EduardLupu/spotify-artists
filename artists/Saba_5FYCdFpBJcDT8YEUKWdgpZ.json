@@ -1,0 +1,41 @@
+{
+  "id": "5FYCdFpBJcDT8YEUKWdgpZ",
+  "name": "Saba",
+  "followers": 1635,
+  "monthlyListeners": 11569,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 2049,
+        "region": "34"
+      },
+      {
+        "city": "Ankara",
+        "country": "TR",
+        "numberOfListeners": 1115,
+        "region": "06"
+      },
+      {
+        "city": "Izmir",
+        "country": "TR",
+        "numberOfListeners": 624,
+        "region": "35"
+      },
+      {
+        "city": "Bursa",
+        "country": "TR",
+        "numberOfListeners": 375,
+        "region": "16"
+      },
+      {
+        "city": "Adana",
+        "country": "TR",
+        "numberOfListeners": 327,
+        "region": "01"
+      }
+    ]
+  },
+  "worldRank": 0
+}

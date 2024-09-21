@@ -1,0 +1,41 @@
+{
+  "id": "6qxpnaukVayrQn6ViNvu9I",
+  "name": "BigXthaPlug",
+  "followers": 883791,
+  "monthlyListeners": 14766278,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 369691,
+        "region": "TX"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 328948,
+        "region": "IL"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 269291,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 267696,
+        "region": "NC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 255328,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2l35CQqtYRh3d8ZIiBep4v",
+  "name": "MKTO",
+  "followers": 1073319,
+  "monthlyListeners": 7189015,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 146554,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 121093,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 105658,
+        "region": "QLD"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 99702,
+        "region": "ENG"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 80146,
+        "region": "JK"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6n28c9qs9hNGriNa72b26u",
+  "name": "PNAU",
+  "followers": 240554,
+  "monthlyListeners": 16615348,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 299769,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 272846,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 246332,
+        "region": "CMX"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 242653,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 223921,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 488
+}

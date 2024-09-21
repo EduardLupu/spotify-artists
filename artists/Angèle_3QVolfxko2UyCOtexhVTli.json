@@ -1,0 +1,41 @@
+{
+  "id": "3QVolfxko2UyCOtexhVTli",
+  "name": "Angèle",
+  "followers": 2729751,
+  "monthlyListeners": 4662391,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 438364,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 183277,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 88414,
+        "region": "ARA"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 64469,
+        "region": "QC"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 62731,
+        "region": "HDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

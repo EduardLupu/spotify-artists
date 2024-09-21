@@ -1,0 +1,41 @@
+{
+  "id": "2ZFQmjVLQzQCiklALLyMe3",
+  "name": "camila",
+  "followers": 2474,
+  "monthlyListeners": 14423,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 162,
+        "region": "BE"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 158,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 143,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 131,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 126,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

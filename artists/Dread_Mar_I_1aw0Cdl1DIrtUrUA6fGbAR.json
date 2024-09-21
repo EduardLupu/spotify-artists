@@ -1,0 +1,41 @@
+{
+  "id": "1aw0Cdl1DIrtUrUA6fGbAR",
+  "name": "Dread Mar I",
+  "followers": 2720124,
+  "monthlyListeners": 9701612,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 727135,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 533727,
+        "region": "DC"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 532906,
+        "region": "C"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 475396,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 293784,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

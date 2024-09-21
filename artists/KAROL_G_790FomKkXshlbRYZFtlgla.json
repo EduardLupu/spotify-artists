@@ -1,0 +1,41 @@
+{
+  "id": "790FomKkXshlbRYZFtlgla",
+  "name": "KAROL G",
+  "followers": 50369094,
+  "monthlyListeners": 62187210,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 2396978,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 2248730,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 2064230,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 1670258,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1596637,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 25
+}

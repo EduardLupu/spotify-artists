@@ -1,0 +1,41 @@
+{
+  "id": "7HqEmV7FeCi16bQyHMpIrF",
+  "name": "VASSY",
+  "followers": 33815,
+  "monthlyListeners": 3298792,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 66352,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 54242,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 39265,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 37941,
+        "region": "LMA"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 37169,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

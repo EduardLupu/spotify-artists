@@ -1,0 +1,41 @@
+{
+  "id": "3CDKmzJu6uwEGnPLLZffpD",
+  "name": "Frankie Valli",
+  "followers": 309446,
+  "monthlyListeners": 10169142,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 128650,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 126771,
+        "region": "RM"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 123932,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 122791,
+        "region": "ENG"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 121699,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "35oGZihZclGoTVuICPXRP9",
+  "name": "Jere Klein",
+  "followers": 2144107,
+  "monthlyListeners": 8146610,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1994630,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 425360,
+        "region": "C"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 359029,
+        "region": "CMX"
+      },
+      {
+        "city": "Concepción",
+        "country": "CL",
+        "numberOfListeners": 314728,
+        "region": "BI"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 216318,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

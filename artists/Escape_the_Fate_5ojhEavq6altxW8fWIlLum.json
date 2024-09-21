@@ -1,0 +1,41 @@
+{
+  "id": "5ojhEavq6altxW8fWIlLum",
+  "name": "Escape the Fate",
+  "followers": 1341371,
+  "monthlyListeners": 2845554,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 38036,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 35204,
+        "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 34213,
+        "region": "NSW"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 30869,
+        "region": "JK"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 30655,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

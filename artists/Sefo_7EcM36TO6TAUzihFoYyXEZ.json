@@ -1,0 +1,41 @@
+{
+  "id": "7EcM36TO6TAUzihFoYyXEZ",
+  "name": "Sefo",
+  "followers": 1478,
+  "monthlyListeners": 8064,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 998,
+        "region": "C"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 427,
+        "region": "B"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 269,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 202,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 193,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

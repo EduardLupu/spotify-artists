@@ -1,0 +1,41 @@
+{
+  "id": "5QuBVnBPEzwYvFrgBbwpmU",
+  "name": "Empress Of",
+  "followers": 136298,
+  "monthlyListeners": 946137,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 21677,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 21525,
+        "region": "NY"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 20355,
+        "region": "CA"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 19579,
+        "region": "NY"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 18730,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

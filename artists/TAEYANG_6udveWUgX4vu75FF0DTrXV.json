@@ -1,0 +1,41 @@
+{
+  "id": "6udveWUgX4vu75FF0DTrXV",
+  "name": "TAEYANG",
+  "followers": 1440258,
+  "monthlyListeners": 3973802,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 215939,
+        "region": "JK"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 133789,
+        "region": "10"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 128410,
+        "region": "14"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 93953,
+        "region": ""
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 65381,
+        "region": "TPE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

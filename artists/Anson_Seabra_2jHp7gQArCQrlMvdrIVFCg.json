@@ -1,0 +1,41 @@
+{
+  "id": "2jHp7gQArCQrlMvdrIVFCg",
+  "name": "Anson Seabra",
+  "followers": 1032736,
+  "monthlyListeners": 3000144,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 75197,
+        "region": "JK"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 58702,
+        "region": ""
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 43692,
+        "region": "14"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 41533,
+        "region": "TPE"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 36001,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

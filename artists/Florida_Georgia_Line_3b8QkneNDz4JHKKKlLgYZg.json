@@ -1,0 +1,41 @@
+{
+  "id": "3b8QkneNDz4JHKKKlLgYZg",
+  "name": "Florida Georgia Line",
+  "followers": 5452796,
+  "monthlyListeners": 10216098,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 198479,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 186146,
+        "region": "IL"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 175701,
+        "region": "QLD"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 167093,
+        "region": "ON"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 142626,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

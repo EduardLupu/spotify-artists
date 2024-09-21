@@ -1,0 +1,41 @@
+{
+  "id": "0dUyjgCyjfj5eMx6bX2TWf",
+  "name": "FMK",
+  "followers": 1578828,
+  "monthlyListeners": 8473696,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 913542,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 860859,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 402076,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 400640,
+        "region": "B"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 215730,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3v3VSKylQE69ztn5TUVlFE",
+  "name": "Nile",
+  "followers": 248144,
+  "monthlyListeners": 214060,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 3788,
+        "region": "18"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 3625,
+        "region": "RM"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 2535,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 2310,
+        "region": "VIC"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 2209,
+        "region": "AB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

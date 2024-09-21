@@ -1,0 +1,41 @@
+{
+  "id": "5ISVpP1BEzQJeW4xhRu5TG",
+  "name": "Thália",
+  "followers": 1144,
+  "monthlyListeners": 33765,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 5505,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 4910,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 1304,
+        "region": "MG"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 1251,
+        "region": "RS"
+      },
+      {
+        "city": "Salvador",
+        "country": "BR",
+        "numberOfListeners": 967,
+        "region": "BA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

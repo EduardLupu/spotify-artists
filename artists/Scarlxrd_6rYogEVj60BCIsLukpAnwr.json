@@ -1,0 +1,41 @@
+{
+  "id": "6rYogEVj60BCIsLukpAnwr",
+  "name": "Scarlxrd",
+  "followers": 1286836,
+  "monthlyListeners": 1840074,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 17888,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 16813,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 16619,
+        "region": "NSW"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 16459,
+        "region": "10"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 15348,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

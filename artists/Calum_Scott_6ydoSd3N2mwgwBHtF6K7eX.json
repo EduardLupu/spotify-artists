@@ -1,0 +1,41 @@
+{
+  "id": "6ydoSd3N2mwgwBHtF6K7eX",
+  "name": "Calum Scott",
+  "followers": 5705330,
+  "monthlyListeners": 26934427,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 399471,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 392263,
+        "region": "ENG"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 365098,
+        "region": "JK"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 327662,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 301041,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 190
+}

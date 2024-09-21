@@ -1,0 +1,41 @@
+{
+  "id": "540vIaP2JwjQb9dm3aArA4",
+  "name": "DJ Snake",
+  "followers": 8838417,
+  "monthlyListeners": 34448261,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 824617,
+        "region": "JK"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 460896,
+        "region": "CMX"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 340259,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 331973,
+        "region": "NSW"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 316321,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 117
+}

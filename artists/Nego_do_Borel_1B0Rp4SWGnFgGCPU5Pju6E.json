@@ -1,0 +1,41 @@
+{
+  "id": "1B0Rp4SWGnFgGCPU5Pju6E",
+  "name": "Nego do Borel",
+  "followers": 2275229,
+  "monthlyListeners": 599196,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 66497,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 39389,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 21018,
+        "region": "MG"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 15938,
+        "region": "RS"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 15117,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

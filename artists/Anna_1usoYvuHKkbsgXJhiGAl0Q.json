@@ -1,0 +1,41 @@
+{
+  "id": "1usoYvuHKkbsgXJhiGAl0Q",
+  "name": "Anna",
+  "followers": 482,
+  "monthlyListeners": 1159,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 66,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 35,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 28,
+        "region": "BY"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 24,
+        "region": "HH"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 23,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

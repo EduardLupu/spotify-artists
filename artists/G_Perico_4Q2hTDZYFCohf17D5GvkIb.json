@@ -1,0 +1,41 @@
+{
+  "id": "4Q2hTDZYFCohf17D5GvkIb",
+  "name": "G Perico",
+  "followers": 163695,
+  "monthlyListeners": 455660,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 40075,
+        "region": "CA"
+      },
+      {
+        "city": "Sacramento",
+        "country": "US",
+        "numberOfListeners": 16136,
+        "region": "CA"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 12322,
+        "region": "AZ"
+      },
+      {
+        "city": "Riverside",
+        "country": "US",
+        "numberOfListeners": 12163,
+        "region": "CA"
+      },
+      {
+        "city": "San Diego",
+        "country": "US",
+        "numberOfListeners": 11991,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

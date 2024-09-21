@@ -1,0 +1,41 @@
+{
+  "id": "3HqSLMAZ3g3d5poNaI7GOU",
+  "name": "IU",
+  "followers": 8725108,
+  "monthlyListeners": 5481168,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 358728,
+        "region": "JK"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 139571,
+        "region": ""
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 135529,
+        "region": "TPE"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 134215,
+        "region": "14"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 133351,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

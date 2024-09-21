@@ -1,0 +1,41 @@
+{
+  "id": "7ASJWadbWH1SjMZzFhqIWw",
+  "name": "King",
+  "followers": 15,
+  "monthlyListeners": 125,
+  "topCities": {
+    "items": [
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 7,
+        "region": "ENG"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 7,
+        "region": "ENG"
+      },
+      {
+        "city": "Ludhiana",
+        "country": "IN",
+        "numberOfListeners": 7,
+        "region": "PB"
+      },
+      {
+        "city": "Glasgow",
+        "country": "GB",
+        "numberOfListeners": 4,
+        "region": "SCT"
+      },
+      {
+        "city": "Bolton",
+        "country": "GB",
+        "numberOfListeners": 4,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "74XFHRwlV6OrjEM0A2NCMF",
+  "name": "Paramore",
+  "followers": 8767252,
+  "monthlyListeners": 22399893,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 603132,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 400282,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 306199,
+        "region": "SP"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 297555,
+        "region": "00"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 272251,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 291
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0jPnVIasXzBYjrlpO5irii",
+  "name": "Ingrid Andress",
+  "followers": 169519,
+  "monthlyListeners": 1804648,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 29835,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 26238,
+        "region": "IL"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 24584,
+        "region": "QLD"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 20785,
+        "region": "VIC"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 19797,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

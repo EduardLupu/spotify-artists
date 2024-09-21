@@ -1,0 +1,41 @@
+{
+  "id": "0AEQNlJAZeghMaFyIYfrQG",
+  "name": "SB Maffija",
+  "followers": 836488,
+  "monthlyListeners": 1317278,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 388751,
+        "region": "14"
+      },
+      {
+        "city": "Poznan",
+        "country": "PL",
+        "numberOfListeners": 132961,
+        "region": "30"
+      },
+      {
+        "city": "Krakow",
+        "country": "PL",
+        "numberOfListeners": 130773,
+        "region": "12"
+      },
+      {
+        "city": "Katowice",
+        "country": "PL",
+        "numberOfListeners": 128321,
+        "region": "24"
+      },
+      {
+        "city": "Wroclaw",
+        "country": "PL",
+        "numberOfListeners": 106176,
+        "region": "02"
+      }
+    ]
+  },
+  "worldRank": 0
+}

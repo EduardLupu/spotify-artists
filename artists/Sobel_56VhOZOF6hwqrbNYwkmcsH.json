@@ -1,0 +1,41 @@
+{
+  "id": "56VhOZOF6hwqrbNYwkmcsH",
+  "name": "Sobel",
+  "followers": 1219004,
+  "monthlyListeners": 2008614,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 597141,
+        "region": "14"
+      },
+      {
+        "city": "Krakow",
+        "country": "PL",
+        "numberOfListeners": 204247,
+        "region": "12"
+      },
+      {
+        "city": "Poznan",
+        "country": "PL",
+        "numberOfListeners": 201273,
+        "region": "30"
+      },
+      {
+        "city": "Katowice",
+        "country": "PL",
+        "numberOfListeners": 199223,
+        "region": "24"
+      },
+      {
+        "city": "Wroclaw",
+        "country": "PL",
+        "numberOfListeners": 172994,
+        "region": "02"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1Y2FwScblyMxpLTrNdfwyU",
+  "name": "Ahmet Kaya",
+  "followers": 5982267,
+  "monthlyListeners": 2650246,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 810291,
+        "region": "34"
+      },
+      {
+        "city": "Ankara",
+        "country": "TR",
+        "numberOfListeners": 451581,
+        "region": "06"
+      },
+      {
+        "city": "Izmir",
+        "country": "TR",
+        "numberOfListeners": 292939,
+        "region": "35"
+      },
+      {
+        "city": "Adana",
+        "country": "TR",
+        "numberOfListeners": 169832,
+        "region": "01"
+      },
+      {
+        "city": "Bursa",
+        "country": "TR",
+        "numberOfListeners": 135881,
+        "region": "16"
+      }
+    ]
+  },
+  "worldRank": 0
+}

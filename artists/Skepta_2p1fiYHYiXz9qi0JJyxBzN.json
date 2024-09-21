@@ -1,0 +1,41 @@
+{
+  "id": "2p1fiYHYiXz9qi0JJyxBzN",
+  "name": "Skepta",
+  "followers": 1344057,
+  "monthlyListeners": 5267061,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 407370,
+        "region": "ENG"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 194684,
+        "region": "LA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 149446,
+        "region": "NSW"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 132521,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 129861,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

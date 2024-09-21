@@ -1,0 +1,41 @@
+{
+  "id": "1vUV5MhBenHgtbuRX7XZCR",
+  "name": "Leony",
+  "followers": 606,
+  "monthlyListeners": 2891,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 885,
+        "region": "JK"
+      },
+      {
+        "city": "Banda Aceh",
+        "country": "ID",
+        "numberOfListeners": 219,
+        "region": "AC"
+      },
+      {
+        "city": "Medan",
+        "country": "ID",
+        "numberOfListeners": 157,
+        "region": "SU"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 121,
+        "region": "AB"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 113,
+        "region": "JB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

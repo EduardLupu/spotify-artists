@@ -1,0 +1,41 @@
+{
+  "id": "7qttYHwcXHXk1ZDN7EvlMe",
+  "name": "Like Mike",
+  "followers": 211,
+  "monthlyListeners": 86,
+  "topCities": {
+    "items": [
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 6,
+        "region": "GA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 4,
+        "region": "VIC"
+      },
+      {
+        "city": "Decatur",
+        "country": "US",
+        "numberOfListeners": 4,
+        "region": "GA"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "PA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

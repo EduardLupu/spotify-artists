@@ -1,0 +1,41 @@
+{
+  "id": "25yf42QY0zPa8x9haNX4q4",
+  "name": "Miguél",
+  "followers": 244,
+  "monthlyListeners": 182,
+  "topCities": {
+    "items": [
+      {
+        "city": "San Miguel de Tucumán",
+        "country": "AR",
+        "numberOfListeners": 88,
+        "region": "T"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 40,
+        "region": "B"
+      },
+      {
+        "city": "Yerba Buena",
+        "country": "AR",
+        "numberOfListeners": 21,
+        "region": "T"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 16,
+        "region": "C"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 9,
+        "region": "X"
+      }
+    ]
+  },
+  "worldRank": 0
+}

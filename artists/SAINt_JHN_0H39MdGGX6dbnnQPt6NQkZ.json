@@ -1,0 +1,41 @@
+{
+  "id": "0H39MdGGX6dbnnQPt6NQkZ",
+  "name": "SAINt JHN",
+  "followers": 1079197,
+  "monthlyListeners": 9895718,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 133038,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 130693,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 108380,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 107945,
+        "region": "ENG"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 104859,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

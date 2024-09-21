@@ -1,0 +1,41 @@
+{
+  "id": "1f5GqyOPo0CkotzzRwviBu",
+  "name": "The Lonely Island",
+  "followers": 1072380,
+  "monthlyListeners": 1594847,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 29468,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 26171,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 25900,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 23294,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 19195,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

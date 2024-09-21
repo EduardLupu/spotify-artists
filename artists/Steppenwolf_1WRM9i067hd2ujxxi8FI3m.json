@@ -1,0 +1,41 @@
+{
+  "id": "1WRM9i067hd2ujxxi8FI3m",
+  "name": "Steppenwolf",
+  "followers": 1627887,
+  "monthlyListeners": 4922834,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 86244,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 66994,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 66796,
+        "region": "RM"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 58455,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 51887,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5pUo3fmmHT8bhCyHE52hA6",
+  "name": "Liam Payne",
+  "followers": 10011178,
+  "monthlyListeners": 4542172,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 91331,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 78727,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 64172,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 64066,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 50554,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

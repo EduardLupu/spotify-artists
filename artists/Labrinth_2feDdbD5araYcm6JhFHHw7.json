@@ -1,0 +1,41 @@
+{
+  "id": "2feDdbD5araYcm6JhFHHw7",
+  "name": "Labrinth",
+  "followers": 3315998,
+  "monthlyListeners": 24633844,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 359857,
+        "region": "SP"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 335895,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 294391,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 266994,
+        "region": "NSW"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 230128,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 235
+}

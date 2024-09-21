@@ -1,0 +1,41 @@
+{
+  "id": "04mOXDs7deriXMuchiI48W",
+  "name": "MarSimba",
+  "followers": 15613,
+  "monthlyListeners": 45135,
+  "topCities": {
+    "items": [
+      {
+        "city": "Cairo",
+        "country": "EG",
+        "numberOfListeners": 8290,
+        "region": "C"
+      },
+      {
+        "city": "Giza",
+        "country": "EG",
+        "numberOfListeners": 3103,
+        "region": "GZ"
+      },
+      {
+        "city": "Riyadh",
+        "country": "SA",
+        "numberOfListeners": 2515,
+        "region": "01"
+      },
+      {
+        "city": "Jeddah",
+        "country": "SA",
+        "numberOfListeners": 1668,
+        "region": "02"
+      },
+      {
+        "city": "Dubai",
+        "country": "AE",
+        "numberOfListeners": 1312,
+        "region": "DU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

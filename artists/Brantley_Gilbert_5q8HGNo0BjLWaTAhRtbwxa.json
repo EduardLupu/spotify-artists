@@ -1,0 +1,41 @@
+{
+  "id": "5q8HGNo0BjLWaTAhRtbwxa",
+  "name": "Brantley Gilbert",
+  "followers": 2996737,
+  "monthlyListeners": 3551921,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 83636,
+        "region": "IL"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 74128,
+        "region": "NC"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 61289,
+        "region": "TX"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 56674,
+        "region": "GA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 56052,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

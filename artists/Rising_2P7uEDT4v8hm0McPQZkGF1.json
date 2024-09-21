@@ -1,0 +1,41 @@
+{
+  "id": "2P7uEDT4v8hm0McPQZkGF1",
+  "name": "Rising",
+  "followers": 901,
+  "monthlyListeners": 96,
+  "topCities": {
+    "items": [
+      {
+        "city": "Copenhagen",
+        "country": "DK",
+        "numberOfListeners": 7,
+        "region": "84"
+      },
+      {
+        "city": "Frederiksberg",
+        "country": "DK",
+        "numberOfListeners": 6,
+        "region": "84"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 2,
+        "region": "AB"
+      },
+      {
+        "city": "Rødovre Municipality",
+        "country": "DK",
+        "numberOfListeners": 2,
+        "region": "84"
+      },
+      {
+        "city": "Perth",
+        "country": "AU",
+        "numberOfListeners": 2,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

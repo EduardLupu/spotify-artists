@@ -1,0 +1,41 @@
+{
+  "id": "5ZZNKEW4uDTbl50KmgeXgy",
+  "name": "Blanco",
+  "followers": 6585,
+  "monthlyListeners": 50298,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 549,
+        "region": "SP"
+      },
+      {
+        "city": "Guwahati",
+        "country": "IN",
+        "numberOfListeners": 500,
+        "region": "AS"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 428,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 410,
+        "region": "NSW"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 405,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

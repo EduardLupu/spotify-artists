@@ -1,0 +1,41 @@
+{
+  "id": "3gd8FJtBJtkRxdfbTu19U2",
+  "name": "Mumford & Sons",
+  "followers": 6432195,
+  "monthlyListeners": 10310437,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 314567,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 250241,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 218033,
+        "region": "VIC"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 178855,
+        "region": "L"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 178538,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0CEK8AzyeD5ZUdUloB6yQV",
+  "name": "CADE",
+  "followers": 43775,
+  "monthlyListeners": 1388399,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 48452,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 24998,
+        "region": "NSW"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 24901,
+        "region": "13"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 20575,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 17707,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

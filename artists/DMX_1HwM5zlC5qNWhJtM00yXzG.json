@@ -1,0 +1,41 @@
+{
+  "id": "1HwM5zlC5qNWhJtM00yXzG",
+  "name": "DMX",
+  "followers": 5271193,
+  "monthlyListeners": 9730275,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 129856,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 126363,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 110104,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 107284,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 103442,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

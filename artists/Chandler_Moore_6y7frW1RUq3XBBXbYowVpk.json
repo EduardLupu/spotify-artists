@@ -1,0 +1,41 @@
+{
+  "id": "6y7frW1RUq3XBBXbYowVpk",
+  "name": "Chandler Moore",
+  "followers": 381898,
+  "monthlyListeners": 3162299,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 178677,
+        "region": "LA"
+      },
+      {
+        "city": "Abuja",
+        "country": "NG",
+        "numberOfListeners": 76937,
+        "region": "FC"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 70437,
+        "region": "GP"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 56039,
+        "region": "TX"
+      },
+      {
+        "city": "Port Harcourt",
+        "country": "NG",
+        "numberOfListeners": 51497,
+        "region": "RI"
+      }
+    ]
+  },
+  "worldRank": 0
+}

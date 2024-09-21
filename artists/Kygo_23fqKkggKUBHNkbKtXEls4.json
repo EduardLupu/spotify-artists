@@ -1,0 +1,41 @@
+{
+  "id": "23fqKkggKUBHNkbKtXEls4",
+  "name": "Kygo",
+  "followers": 8441873,
+  "monthlyListeners": 32423357,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 448557,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 415788,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 398245,
+        "region": "NH"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 392829,
+        "region": "IDF"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 387908,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 134
+}

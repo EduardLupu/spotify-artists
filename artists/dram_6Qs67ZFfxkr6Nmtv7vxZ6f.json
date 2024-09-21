@@ -1,0 +1,41 @@
+{
+  "id": "6Qs67ZFfxkr6Nmtv7vxZ6f",
+  "name": "dram",
+  "followers": 2152,
+  "monthlyListeners": 3000,
+  "topCities": {
+    "items": [
+      {
+        "city": "Belgrade",
+        "country": "RS",
+        "numberOfListeners": 1404,
+        "region": "00"
+      },
+      {
+        "city": "Zagreb",
+        "country": "HR",
+        "numberOfListeners": 231,
+        "region": "21"
+      },
+      {
+        "city": "Novi Sad",
+        "country": "RS",
+        "numberOfListeners": 102,
+        "region": "VO"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 72,
+        "region": "9"
+      },
+      {
+        "city": "Ljubljana",
+        "country": "SI",
+        "numberOfListeners": 66,
+        "region": "061"
+      }
+    ]
+  },
+  "worldRank": 0
+}

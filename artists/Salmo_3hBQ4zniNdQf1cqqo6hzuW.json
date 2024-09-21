@@ -1,0 +1,41 @@
+{
+  "id": "3hBQ4zniNdQf1cqqo6hzuW",
+  "name": "Salmo",
+  "followers": 2452678,
+  "monthlyListeners": 2744708,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 709099,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 303118,
+        "region": "62"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 106110,
+        "region": "21"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 96570,
+        "region": "72"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 80796,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

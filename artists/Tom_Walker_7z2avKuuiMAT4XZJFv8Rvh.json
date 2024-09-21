@@ -1,0 +1,41 @@
+{
+  "id": "7z2avKuuiMAT4XZJFv8Rvh",
+  "name": "Tom Walker",
+  "followers": 1230644,
+  "monthlyListeners": 5694641,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 161240,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 92484,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 76733,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 74335,
+        "region": "NH"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 66378,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

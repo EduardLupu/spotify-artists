@@ -1,0 +1,41 @@
+{
+  "id": "2HkAI0YrEcgoR8QdaURqhO",
+  "name": "Dimitri Vegas",
+  "followers": 335628,
+  "monthlyListeners": 14129139,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 247062,
+        "region": "NH"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 220525,
+        "region": "BE"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 210685,
+        "region": "BRU"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 196905,
+        "region": "HH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 184203,
+        "region": "ZH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

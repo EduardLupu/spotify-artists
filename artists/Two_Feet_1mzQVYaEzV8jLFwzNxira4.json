@@ -1,0 +1,41 @@
+{
+  "id": "1mzQVYaEzV8jLFwzNxira4",
+  "name": "Two Feet",
+  "followers": 1571,
+  "monthlyListeners": 144,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 4,
+        "region": "TX"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 3,
+        "region": "IDF"
+      },
+      {
+        "city": "Portland",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "OR"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 2,
+        "region": "RM"
+      },
+      {
+        "city": "Cape Town",
+        "country": "ZA",
+        "numberOfListeners": 2,
+        "region": "WC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

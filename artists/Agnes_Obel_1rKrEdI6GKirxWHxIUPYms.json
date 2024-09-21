@@ -1,0 +1,41 @@
+{
+  "id": "1rKrEdI6GKirxWHxIUPYms",
+  "name": "Agnes Obel",
+  "followers": 870252,
+  "monthlyListeners": 1914495,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 52572,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 30824,
+        "region": "BRU"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 25752,
+        "region": "34"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 24913,
+        "region": "ENG"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 24533,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

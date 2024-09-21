@@ -1,0 +1,41 @@
+{
+  "id": "3xz28DkZR6bmPpVh6Rq13t",
+  "name": "Devon Again",
+  "followers": 38281,
+  "monthlyListeners": 269304,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 7340,
+        "region": "NY"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 7004,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 6758,
+        "region": "IL"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 5002,
+        "region": "WA"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 5001,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

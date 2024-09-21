@@ -1,0 +1,41 @@
+{
+  "id": "39yVoqm6sYFvvqF1RciUVf",
+  "name": "Carlos Rivera",
+  "followers": 4630973,
+  "monthlyListeners": 7495465,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 472965,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 363205,
+        "region": "RM"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 242516,
+        "region": "JAL"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 203822,
+        "region": "DC"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 181814,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

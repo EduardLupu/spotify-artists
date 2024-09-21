@@ -1,0 +1,41 @@
+{
+  "id": "3yMmYEklQ7gLOZXEFNd3xr",
+  "name": "Palak Muchhal",
+  "followers": 6746619,
+  "monthlyListeners": 11116457,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 964203,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 888810,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 722487,
+        "region": "DL"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 689298,
+        "region": "KA"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 667747,
+        "region": "WB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

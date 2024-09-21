@@ -1,0 +1,41 @@
+{
+  "id": "34uWTK8XMtPtVqdqOCxeMb",
+  "name": "Joe",
+  "followers": 6,
+  "monthlyListeners": 4,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 2,
+        "region": "C"
+      },
+      {
+        "city": "Jerseyville",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "IL"
+      },
+      {
+        "city": "Rhodes",
+        "country": "GR",
+        "numberOfListeners": 1,
+        "region": "L"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1,
+        "region": "B"
+      },
+      {
+        "city": "Isidro Casanova",
+        "country": "AR",
+        "numberOfListeners": 1,
+        "region": "B"
+      }
+    ]
+  },
+  "worldRank": 0
+}

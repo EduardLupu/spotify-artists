@@ -1,0 +1,41 @@
+{
+  "id": "7keGfmQR4X5w0two1xKZ7d",
+  "name": "Kungs",
+  "followers": 955996,
+  "monthlyListeners": 13145470,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 288232,
+        "region": "IDF"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 164794,
+        "region": "25"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 160429,
+        "region": "NH"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 151912,
+        "region": "ENG"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 144291,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

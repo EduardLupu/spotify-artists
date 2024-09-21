@@ -1,0 +1,41 @@
+{
+  "id": "3gv4hpa01SALMU7p8DRoNX",
+  "name": "Blanco",
+  "followers": 531,
+  "monthlyListeners": 7356,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bern",
+        "country": "CH",
+        "numberOfListeners": 1861,
+        "region": "BE"
+      },
+      {
+        "city": "Zurich",
+        "country": "CH",
+        "numberOfListeners": 1852,
+        "region": "ZH"
+      },
+      {
+        "city": "Lausanne",
+        "country": "CH",
+        "numberOfListeners": 925,
+        "region": "VD"
+      },
+      {
+        "city": "Basel",
+        "country": "CH",
+        "numberOfListeners": 404,
+        "region": "BS"
+      },
+      {
+        "city": "Aarburg",
+        "country": "CH",
+        "numberOfListeners": 378,
+        "region": "AG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

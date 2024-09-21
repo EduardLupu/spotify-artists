@@ -1,0 +1,41 @@
+{
+  "id": "0mXTJETA4XUa12MmmXxZJh",
+  "name": "Eddie Vedder",
+  "followers": 1625134,
+  "monthlyListeners": 3361453,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 58723,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 51688,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 51284,
+        "region": "NH"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 50367,
+        "region": "RM"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 48543,
+        "region": "BRU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

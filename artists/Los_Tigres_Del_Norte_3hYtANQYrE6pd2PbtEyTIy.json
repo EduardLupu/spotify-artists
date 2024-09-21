@@ -1,0 +1,41 @@
+{
+  "id": "3hYtANQYrE6pd2PbtEyTIy",
+  "name": "Los Tigres Del Norte",
+  "followers": 6073705,
+  "monthlyListeners": 11844379,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 888277,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 447755,
+        "region": "DC"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 425516,
+        "region": "JAL"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 389266,
+        "region": "PUE"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 377572,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

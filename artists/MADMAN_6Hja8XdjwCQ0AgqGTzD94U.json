@@ -1,0 +1,41 @@
+{
+  "id": "6Hja8XdjwCQ0AgqGTzD94U",
+  "name": "MADMAN",
+  "followers": 227,
+  "monthlyListeners": 69,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sofia",
+        "country": "BG",
+        "numberOfListeners": 29,
+        "region": "22"
+      },
+      {
+        "city": "Varna",
+        "country": "BG",
+        "numberOfListeners": 3,
+        "region": "03"
+      },
+      {
+        "city": "Burgas",
+        "country": "BG",
+        "numberOfListeners": 3,
+        "region": "02"
+      },
+      {
+        "city": "Pernik",
+        "country": "BG",
+        "numberOfListeners": 2,
+        "region": "14"
+      },
+      {
+        "city": "Gabrovo",
+        "country": "BG",
+        "numberOfListeners": 2,
+        "region": "07"
+      }
+    ]
+  },
+  "worldRank": 0
+}

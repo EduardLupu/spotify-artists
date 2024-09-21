@@ -1,0 +1,41 @@
+{
+  "id": "7sfl4Xt5KmfyDs2T3SVSMK",
+  "name": "Lil Jon",
+  "followers": 1614716,
+  "monthlyListeners": 6236506,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 70703,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 66582,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 64469,
+        "region": "RM"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 60063,
+        "region": "CA"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 54906,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2LmcxBak1alK1bf7d1beTr",
+  "name": "Juhn",
+  "followers": 1422925,
+  "monthlyListeners": 5993774,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 499087,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 264384,
+        "region": "DC"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 207684,
+        "region": "C"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 198504,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 175843,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6extd4B6hl8VTmnlhpl2bY",
+  "name": "Huncho Jack",
+  "followers": 1198142,
+  "monthlyListeners": 1334584,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 20444,
+        "region": "NY"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 19901,
+        "region": "ON"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 19419,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 18925,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 15335,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

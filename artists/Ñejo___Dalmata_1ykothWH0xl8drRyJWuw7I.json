@@ -1,0 +1,41 @@
+{
+  "id": "1ykothWH0xl8drRyJWuw7I",
+  "name": "Ñejo & Dalmata",
+  "followers": 1924950,
+  "monthlyListeners": 5026444,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 818848,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 476900,
+        "region": "RM"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 436997,
+        "region": "ANT"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 218935,
+        "region": "LMA"
+      },
+      {
+        "city": "Santiago de Cali",
+        "country": "CO",
+        "numberOfListeners": 156732,
+        "region": "VAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

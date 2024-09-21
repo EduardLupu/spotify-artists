@@ -1,0 +1,41 @@
+{
+  "id": "2uscdsXOINlmakGuQMvxQk",
+  "name": "D'ION da Du Rag Don",
+  "followers": 88,
+  "monthlyListeners": 347,
+  "topCities": {
+    "items": [
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 6,
+        "region": "QC"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 5,
+        "region": "ON"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 5,
+        "region": "ENG"
+      },
+      {
+        "city": "Edmonton",
+        "country": "CA",
+        "numberOfListeners": 4,
+        "region": "AB"
+      },
+      {
+        "city": "Cincinnati",
+        "country": "US",
+        "numberOfListeners": 4,
+        "region": "OH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

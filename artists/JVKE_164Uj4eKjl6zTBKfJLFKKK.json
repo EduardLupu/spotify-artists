@@ -1,0 +1,41 @@
+{
+  "id": "164Uj4eKjl6zTBKfJLFKKK",
+  "name": "JVKE",
+  "followers": 4840101,
+  "monthlyListeners": 20591029,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 577869,
+        "region": "JK"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 221337,
+        "region": "14"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 216223,
+        "region": "10"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 200643,
+        "region": ""
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 199123,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 343
+}

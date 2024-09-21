@@ -1,0 +1,41 @@
+{
+  "id": "240Fsk2Zo3mIhx9oudUBEx",
+  "name": "NAV",
+  "followers": 53,
+  "monthlyListeners": 1413,
+  "topCities": {
+    "items": [
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 445,
+        "region": "NY"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 207,
+        "region": "BE"
+      },
+      {
+        "city": "Pomezia",
+        "country": "IT",
+        "numberOfListeners": 142,
+        "region": "62"
+      },
+      {
+        "city": "Ludhiana",
+        "country": "IN",
+        "numberOfListeners": 134,
+        "region": "PB"
+      },
+      {
+        "city": "Chandigarh",
+        "country": "IN",
+        "numberOfListeners": 99,
+        "region": "CH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

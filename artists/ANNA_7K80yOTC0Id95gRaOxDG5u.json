@@ -1,0 +1,41 @@
+{
+  "id": "7K80yOTC0Id95gRaOxDG5u",
+  "name": "ANNA",
+  "followers": 998456,
+  "monthlyListeners": 6374129,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 1714880,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 769644,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 309427,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 265821,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 207126,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

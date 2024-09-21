@@ -1,0 +1,41 @@
+{
+  "id": "5Wm3McZBRFA5Or6y2zUbrg",
+  "name": "The Colorful Quiet",
+  "followers": 559,
+  "monthlyListeners": 1667,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 37,
+        "region": "SP"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 27,
+        "region": "JK"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 23,
+        "region": "34"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 22,
+        "region": "PR"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 17,
+        "region": "25"
+      }
+    ]
+  },
+  "worldRank": 0
+}

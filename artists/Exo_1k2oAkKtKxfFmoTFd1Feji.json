@@ -1,0 +1,41 @@
+{
+  "id": "1k2oAkKtKxfFmoTFd1Feji",
+  "name": "Exo",
+  "followers": 15447,
+  "monthlyListeners": 33534,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 3172,
+        "region": "IDF"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 1810,
+        "region": "QC"
+      },
+      {
+        "city": "Abidjan",
+        "country": "CI",
+        "numberOfListeners": 1625,
+        "region": "AB"
+      },
+      {
+        "city": "Kinshasa",
+        "country": "CD",
+        "numberOfListeners": 1402,
+        "region": "KN"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 1230,
+        "region": "BRU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

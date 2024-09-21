@@ -1,0 +1,41 @@
+{
+  "id": "0QR764k0D36npmTMWx5bft",
+  "name": "Żabson",
+  "followers": 1039634,
+  "monthlyListeners": 1415624,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 404819,
+        "region": "14"
+      },
+      {
+        "city": "Poznan",
+        "country": "PL",
+        "numberOfListeners": 136754,
+        "region": "30"
+      },
+      {
+        "city": "Krakow",
+        "country": "PL",
+        "numberOfListeners": 134710,
+        "region": "12"
+      },
+      {
+        "city": "Katowice",
+        "country": "PL",
+        "numberOfListeners": 131581,
+        "region": "24"
+      },
+      {
+        "city": "Wroclaw",
+        "country": "PL",
+        "numberOfListeners": 113549,
+        "region": "02"
+      }
+    ]
+  },
+  "worldRank": 0
+}

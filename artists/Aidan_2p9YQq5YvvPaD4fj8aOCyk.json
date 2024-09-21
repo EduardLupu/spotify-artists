@@ -1,0 +1,41 @@
+{
+  "id": "2p9YQq5YvvPaD4fj8aOCyk",
+  "name": "Aidan",
+  "followers": 8088,
+  "monthlyListeners": 55556,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 559,
+        "region": "JK"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 476,
+        "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 461,
+        "region": "NSW"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 426,
+        "region": "KA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 421,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

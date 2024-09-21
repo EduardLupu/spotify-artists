@@ -1,0 +1,41 @@
+{
+  "id": "2DgGLV1xqpGLUsVSi5B5ZY",
+  "name": "Rani",
+  "followers": 4725,
+  "monthlyListeners": 80328,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 27414,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 4087,
+        "region": "JB"
+      },
+      {
+        "city": "Makassar",
+        "country": "ID",
+        "numberOfListeners": 2976,
+        "region": "SN"
+      },
+      {
+        "city": "Kochi",
+        "country": "IN",
+        "numberOfListeners": 2409,
+        "region": "KL"
+      },
+      {
+        "city": "Semarang",
+        "country": "ID",
+        "numberOfListeners": 2188,
+        "region": "JT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

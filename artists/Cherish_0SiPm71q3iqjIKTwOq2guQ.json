@@ -1,0 +1,41 @@
+{
+  "id": "0SiPm71q3iqjIKTwOq2guQ",
+  "name": "Cherish",
+  "followers": 13411,
+  "monthlyListeners": 41661,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 6916,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 3186,
+        "region": "27"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 1226,
+        "region": "13"
+      },
+      {
+        "city": "Nagoya",
+        "country": "JP",
+        "numberOfListeners": 948,
+        "region": "23"
+      },
+      {
+        "city": "Fukuoka",
+        "country": "JP",
+        "numberOfListeners": 655,
+        "region": "40"
+      }
+    ]
+  },
+  "worldRank": 0
+}

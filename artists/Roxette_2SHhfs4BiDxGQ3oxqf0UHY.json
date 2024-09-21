@@ -1,0 +1,41 @@
+{
+  "id": "2SHhfs4BiDxGQ3oxqf0UHY",
+  "name": "Roxette",
+  "followers": 2320673,
+  "monthlyListeners": 15232261,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 392147,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 336710,
+        "region": "SP"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 227236,
+        "region": "JK"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 187664,
+        "region": "C"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 174945,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3GUk7EOHM87PYj2qY9OaFG",
+  "name": "Justice",
+  "followers": 1767,
+  "monthlyListeners": 2262,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 134,
+        "region": "JK"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 49,
+        "region": "BRU"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 46,
+        "region": "CA"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 45,
+        "region": "JB"
+      },
+      {
+        "city": "Semarang",
+        "country": "ID",
+        "numberOfListeners": 38,
+        "region": "JT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

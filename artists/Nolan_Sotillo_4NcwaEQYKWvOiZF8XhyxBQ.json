@@ -1,0 +1,41 @@
+{
+  "id": "4NcwaEQYKWvOiZF8XhyxBQ",
+  "name": "Nolan Sotillo",
+  "followers": 3998,
+  "monthlyListeners": 13940,
+  "topCities": {
+    "items": [
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 608,
+        "region": "GP"
+      },
+      {
+        "city": "Pretoria",
+        "country": "ZA",
+        "numberOfListeners": 467,
+        "region": "GP"
+      },
+      {
+        "city": "Cape Town",
+        "country": "ZA",
+        "numberOfListeners": 338,
+        "region": "WC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 280,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 244,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

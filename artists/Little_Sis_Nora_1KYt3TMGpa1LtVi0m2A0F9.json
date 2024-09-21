@@ -1,0 +1,41 @@
+{
+  "id": "1KYt3TMGpa1LtVi0m2A0F9",
+  "name": "Little Sis Nora",
+  "followers": 88924,
+  "monthlyListeners": 3276441,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 49990,
+        "region": "CMX"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 46457,
+        "region": "AB"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 37102,
+        "region": "10"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 33037,
+        "region": "18"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 32985,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

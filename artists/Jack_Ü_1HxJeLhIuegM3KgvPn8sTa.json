@@ -1,0 +1,41 @@
+{
+  "id": "1HxJeLhIuegM3KgvPn8sTa",
+  "name": "Jack Ü",
+  "followers": 1081570,
+  "monthlyListeners": 4054523,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 93397,
+        "region": "JK"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 64837,
+        "region": "CMX"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 62179,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 53671,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 52324,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

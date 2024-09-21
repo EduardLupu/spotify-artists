@@ -1,0 +1,41 @@
+{
+  "id": "7me0S5Z40qVWj3gzyK8aC3",
+  "name": "Mc Livinho",
+  "followers": 7293543,
+  "monthlyListeners": 9648115,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1574354,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 503767,
+        "region": "MG"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 453120,
+        "region": "RJ"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 426994,
+        "region": "PR"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 421342,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4uXWqDngMU7UEOB1XpGITv",
+  "name": "Cherish",
+  "followers": 442,
+  "monthlyListeners": 382,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 32,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 21,
+        "region": "27"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 14,
+        "region": ""
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 11,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 7,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

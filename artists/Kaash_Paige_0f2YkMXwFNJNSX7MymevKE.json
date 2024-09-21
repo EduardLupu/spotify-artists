@@ -1,0 +1,41 @@
+{
+  "id": "0f2YkMXwFNJNSX7MymevKE",
+  "name": "Kaash Paige",
+  "followers": 575585,
+  "monthlyListeners": 6929523,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 202499,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 129725,
+        "region": "SP"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 79521,
+        "region": "10"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 69106,
+        "region": "NSW"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 65989,
+        "region": "00"
+      }
+    ]
+  },
+  "worldRank": 0
+}

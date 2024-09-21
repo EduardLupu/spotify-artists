@@ -1,0 +1,41 @@
+{
+  "id": "5FkMS3KgG0cjiRm250NFTJ",
+  "name": "Coco & Clair Clair",
+  "followers": 329793,
+  "monthlyListeners": 1909034,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 41309,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 28085,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 27075,
+        "region": "IL"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 26005,
+        "region": "NY"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 20734,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

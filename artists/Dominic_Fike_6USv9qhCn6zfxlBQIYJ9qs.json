@@ -1,0 +1,41 @@
+{
+  "id": "6USv9qhCn6zfxlBQIYJ9qs",
+  "name": "Dominic Fike",
+  "followers": 1870804,
+  "monthlyListeners": 22031566,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 457921,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 432576,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 363737,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 295784,
+        "region": "QLD"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 289901,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 303
+}

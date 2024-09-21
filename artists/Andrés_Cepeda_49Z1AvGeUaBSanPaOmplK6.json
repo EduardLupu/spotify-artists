@@ -1,0 +1,41 @@
+{
+  "id": "49Z1AvGeUaBSanPaOmplK6",
+  "name": "Andrés Cepeda",
+  "followers": 3388699,
+  "monthlyListeners": 3326035,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 713870,
+        "region": "DC"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 307388,
+        "region": "ANT"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 123083,
+        "region": "LMA"
+      },
+      {
+        "city": "Santiago de Cali",
+        "country": "CO",
+        "numberOfListeners": 115822,
+        "region": "VAC"
+      },
+      {
+        "city": "Barranquilla",
+        "country": "CO",
+        "numberOfListeners": 103783,
+        "region": "ATL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

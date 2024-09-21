@@ -1,0 +1,41 @@
+{
+  "id": "0yNLKJebCb8Aueb54LYya3",
+  "name": "New Order",
+  "followers": 2236217,
+  "monthlyListeners": 6077136,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 142254,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 114066,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 98632,
+        "region": "RM"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 85173,
+        "region": "CA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 84777,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

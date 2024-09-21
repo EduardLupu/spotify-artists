@@ -1,0 +1,41 @@
+{
+  "id": "1xr2G8Hlx4QWmT9HaUbmoO",
+  "name": "Young Stoner Life",
+  "followers": 166397,
+  "monthlyListeners": 3010156,
+  "topCities": {
+    "items": [
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 54148,
+        "region": "ON"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 51148,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 48994,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 48763,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 47884,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

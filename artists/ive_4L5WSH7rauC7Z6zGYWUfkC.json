@@ -1,0 +1,41 @@
+{
+  "id": "4L5WSH7rauC7Z6zGYWUfkC",
+  "name": "ive",
+  "followers": 5133,
+  "monthlyListeners": 3641,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 398,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 143,
+        "region": "27"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 61,
+        "region": "13"
+      },
+      {
+        "city": "Yokohama",
+        "country": "JP",
+        "numberOfListeners": 58,
+        "region": "14"
+      },
+      {
+        "city": "Nagoya",
+        "country": "JP",
+        "numberOfListeners": 56,
+        "region": "23"
+      }
+    ]
+  },
+  "worldRank": 0
+}

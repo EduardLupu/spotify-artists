@@ -1,0 +1,41 @@
+{
+  "id": "3tJnB0s6c3oXPq1SCCavnd",
+  "name": "Marco Antonio Solís",
+  "followers": 7348212,
+  "monthlyListeners": 11066547,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 654049,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 470562,
+        "region": "RM"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 383457,
+        "region": "JAL"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 347233,
+        "region": "DC"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 325174,
+        "region": "GU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

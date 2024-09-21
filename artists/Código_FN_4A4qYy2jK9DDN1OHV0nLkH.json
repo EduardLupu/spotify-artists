@@ -1,0 +1,41 @@
+{
+  "id": "4A4qYy2jK9DDN1OHV0nLkH",
+  "name": "Código FN",
+  "followers": 1205805,
+  "monthlyListeners": 5494424,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 386864,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 352266,
+        "region": "JAL"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 226615,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 216138,
+        "region": "QUE"
+      },
+      {
+        "city": "Tijuana",
+        "country": "MX",
+        "numberOfListeners": 207400,
+        "region": "BCN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

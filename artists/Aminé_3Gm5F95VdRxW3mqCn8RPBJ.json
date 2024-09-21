@@ -1,0 +1,41 @@
+{
+  "id": "3Gm5F95VdRxW3mqCn8RPBJ",
+  "name": "Aminé",
+  "followers": 1960142,
+  "monthlyListeners": 6210379,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 110193,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 94902,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 94516,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 88709,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 85576,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

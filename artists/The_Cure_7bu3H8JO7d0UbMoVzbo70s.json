@@ -1,0 +1,41 @@
+{
+  "id": "7bu3H8JO7d0UbMoVzbo70s",
+  "name": "The Cure",
+  "followers": 5692433,
+  "monthlyListeners": 17286951,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 394385,
+        "region": "RM"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 362719,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 279060,
+        "region": "SP"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 275628,
+        "region": "CMX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 221263,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 464
+}

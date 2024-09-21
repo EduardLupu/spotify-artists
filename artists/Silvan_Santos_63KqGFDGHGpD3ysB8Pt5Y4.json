@@ -1,0 +1,41 @@
+{
+  "id": "63KqGFDGHGpD3ysB8Pt5Y4",
+  "name": "Silvan Santos",
+  "followers": 46941,
+  "monthlyListeners": 92240,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 9391,
+        "region": "SP"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 4582,
+        "region": "DF"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 2960,
+        "region": "RJ"
+      },
+      {
+        "city": "Fortaleza",
+        "country": "BR",
+        "numberOfListeners": 2791,
+        "region": "CE"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 2669,
+        "region": "MG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "47uyFQHOD02S0lj9ptRpoB",
+  "name": "Felipe Araújo",
+  "followers": 5507278,
+  "monthlyListeners": 3261890,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 486381,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 166500,
+        "region": "MG"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 153022,
+        "region": "RJ"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 142212,
+        "region": "PR"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 134880,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

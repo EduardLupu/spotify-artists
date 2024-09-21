@@ -1,0 +1,41 @@
+{
+  "id": "0TKFPt9w0AAEnhB9bd0pLy",
+  "name": "LUM!X",
+  "followers": 192898,
+  "monthlyListeners": 8126853,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 133201,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 117384,
+        "region": "HH"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 113007,
+        "region": "NH"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 104858,
+        "region": "IDF"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 101865,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5Jror1xGxnaKCgQbCENiZe",
+  "name": "Aurora",
+  "followers": 891,
+  "monthlyListeners": 10947,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 1162,
+        "region": "MD"
+      },
+      {
+        "city": "Seville",
+        "country": "ES",
+        "numberOfListeners": 598,
+        "region": "AN"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 535,
+        "region": "CT"
+      },
+      {
+        "city": "Málaga",
+        "country": "ES",
+        "numberOfListeners": 366,
+        "region": "AN"
+      },
+      {
+        "city": "Valencia",
+        "country": "ES",
+        "numberOfListeners": 215,
+        "region": "VC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

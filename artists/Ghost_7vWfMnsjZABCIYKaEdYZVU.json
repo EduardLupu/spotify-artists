@@ -1,0 +1,41 @@
+{
+  "id": "7vWfMnsjZABCIYKaEdYZVU",
+  "name": "Ghost",
+  "followers": 762,
+  "monthlyListeners": 1562,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 1114,
+        "region": "10"
+      },
+      {
+        "city": "Chiang Mai",
+        "country": "TH",
+        "numberOfListeners": 65,
+        "region": "50"
+      },
+      {
+        "city": "Phuket",
+        "country": "TH",
+        "numberOfListeners": 55,
+        "region": "83"
+      },
+      {
+        "city": "Hat Yai",
+        "country": "TH",
+        "numberOfListeners": 41,
+        "region": "90"
+      },
+      {
+        "city": "Khon Kaen",
+        "country": "TH",
+        "numberOfListeners": 33,
+        "region": "40"
+      }
+    ]
+  },
+  "worldRank": 0
+}

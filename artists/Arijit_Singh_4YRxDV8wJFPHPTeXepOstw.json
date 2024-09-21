@@ -1,0 +1,41 @@
+{
+  "id": "4YRxDV8wJFPHPTeXepOstw",
+  "name": "Arijit Singh",
+  "followers": 122190021,
+  "monthlyListeners": 40557411,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 4198016,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 3476750,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 2959676,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 2404356,
+        "region": "DL"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 2399888,
+        "region": "TS"
+      }
+    ]
+  },
+  "worldRank": 79
+}

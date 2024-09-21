@@ -1,0 +1,41 @@
+{
+  "id": "75nelHR2Q6JEYBQQKDl9Dd",
+  "name": "BONES",
+  "followers": 725,
+  "monthlyListeners": 3422,
+  "topCities": {
+    "items": [
+      {
+        "city": "Minsk",
+        "country": "BY",
+        "numberOfListeners": 35,
+        "region": "HM"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 33,
+        "region": "TX"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 31,
+        "region": "BE"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 31,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 28,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

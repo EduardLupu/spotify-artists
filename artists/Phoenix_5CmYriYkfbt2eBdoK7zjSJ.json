@@ -1,0 +1,41 @@
+{
+  "id": "5CmYriYkfbt2eBdoK7zjSJ",
+  "name": "Phoenix",
+  "followers": 158,
+  "monthlyListeners": 1716,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 120,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 105,
+        "region": "ZH"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 58,
+        "region": "DC"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 43,
+        "region": "BE"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 41,
+        "region": "UT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

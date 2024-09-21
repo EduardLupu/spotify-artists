@@ -1,0 +1,41 @@
+{
+  "id": "7vjhTzoc4TSCPXOiTmL1KD",
+  "name": "Achille Lauro",
+  "followers": 154,
+  "monthlyListeners": 63,
+  "topCities": {
+    "items": [
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 8,
+        "region": "CO"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 3,
+        "region": "62"
+      },
+      {
+        "city": "Lakewood",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "CO"
+      },
+      {
+        "city": "Aurora",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "CO"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

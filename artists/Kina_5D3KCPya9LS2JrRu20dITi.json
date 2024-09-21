@@ -1,0 +1,41 @@
+{
+  "id": "5D3KCPya9LS2JrRu20dITi",
+  "name": "Kina",
+  "followers": 2516,
+  "monthlyListeners": 1195,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 214,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 79,
+        "region": "62"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 39,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 32,
+        "region": "52"
+      },
+      {
+        "city": "Genoa",
+        "country": "IT",
+        "numberOfListeners": 21,
+        "region": "42"
+      }
+    ]
+  },
+  "worldRank": 0
+}

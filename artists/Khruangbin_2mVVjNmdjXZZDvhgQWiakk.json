@@ -1,0 +1,41 @@
+{
+  "id": "2mVVjNmdjXZZDvhgQWiakk",
+  "name": "Khruangbin",
+  "followers": 1905984,
+  "monthlyListeners": 7044352,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 176525,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 136803,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 118309,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 116843,
+        "region": "VIC"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 115783,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

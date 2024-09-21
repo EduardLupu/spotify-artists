@@ -1,0 +1,41 @@
+{
+  "id": "3HphLd0XiELTvIPYf55dYC",
+  "name": "Dance Fruits Music",
+  "followers": 563328,
+  "monthlyListeners": 2371906,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 32383,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 27782,
+        "region": "NH"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 27345,
+        "region": "IDF"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 26678,
+        "region": "ENG"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 26371,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

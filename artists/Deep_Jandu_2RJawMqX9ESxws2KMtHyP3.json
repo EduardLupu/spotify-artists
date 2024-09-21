@@ -1,0 +1,41 @@
+{
+  "id": "2RJawMqX9ESxws2KMtHyP3",
+  "name": "Deep Jandu",
+  "followers": 1467833,
+  "monthlyListeners": 3035704,
+  "topCities": {
+    "items": [
+      {
+        "city": "Ludhiana",
+        "country": "IN",
+        "numberOfListeners": 410651,
+        "region": "PB"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 313974,
+        "region": "DL"
+      },
+      {
+        "city": "Chandigarh",
+        "country": "IN",
+        "numberOfListeners": 295994,
+        "region": "CH"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 245531,
+        "region": "DL"
+      },
+      {
+        "city": "Jaipur",
+        "country": "IN",
+        "numberOfListeners": 160316,
+        "region": "RJ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

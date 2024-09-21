@@ -1,0 +1,41 @@
+{
+  "id": "73c2MjCAFNyKYIs7nBlqG2",
+  "name": "Marisela",
+  "followers": 2136232,
+  "monthlyListeners": 7755573,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 581807,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 325599,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 258488,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 247745,
+        "region": "RM"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 247323,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7tVkoeijZhmwmvtlRrxAT0",
+  "name": "Stockz",
+  "followers": 5787,
+  "monthlyListeners": 29502,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 494,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 451,
+        "region": "IL"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 413,
+        "region": "AZ"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 402,
+        "region": "CO"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 392,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

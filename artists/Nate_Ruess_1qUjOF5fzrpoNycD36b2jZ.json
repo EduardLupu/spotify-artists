@@ -1,0 +1,41 @@
+{
+  "id": "1qUjOF5fzrpoNycD36b2jZ",
+  "name": "Nate Ruess",
+  "followers": 244127,
+  "monthlyListeners": 14459696,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 861934,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 177038,
+        "region": "JB"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 172927,
+        "region": "14"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 170299,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 158259,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

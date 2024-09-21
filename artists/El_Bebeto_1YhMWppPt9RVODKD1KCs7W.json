@@ -1,0 +1,41 @@
+{
+  "id": "1YhMWppPt9RVODKD1KCs7W",
+  "name": "El Bebeto",
+  "followers": 2417998,
+  "monthlyListeners": 4496689,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 435278,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 266397,
+        "region": "JAL"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 183443,
+        "region": "PUE"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 176229,
+        "region": "CMX"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 173401,
+        "region": "QUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

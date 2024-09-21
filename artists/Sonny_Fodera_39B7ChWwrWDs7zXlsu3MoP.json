@@ -1,0 +1,41 @@
+{
+  "id": "39B7ChWwrWDs7zXlsu3MoP",
+  "name": "Sonny Fodera",
+  "followers": 213856,
+  "monthlyListeners": 7380715,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 462260,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 205785,
+        "region": "ENG"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 202825,
+        "region": "L"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 184813,
+        "region": "NSW"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 165647,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

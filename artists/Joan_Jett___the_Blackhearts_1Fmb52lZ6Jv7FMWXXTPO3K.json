@@ -1,0 +1,41 @@
+{
+  "id": "1Fmb52lZ6Jv7FMWXXTPO3K",
+  "name": "Joan Jett & the Blackhearts",
+  "followers": 876159,
+  "monthlyListeners": 8515054,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 111956,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 101092,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 96924,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 95949,
+        "region": "RM"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 88917,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

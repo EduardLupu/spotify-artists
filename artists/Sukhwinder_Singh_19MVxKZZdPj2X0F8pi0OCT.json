@@ -1,0 +1,41 @@
+{
+  "id": "19MVxKZZdPj2X0F8pi0OCT",
+  "name": "Sukhwinder Singh",
+  "followers": 572305,
+  "monthlyListeners": 13774885,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1382917,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1176234,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 811554,
+        "region": "DL"
+      },
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 791303,
+        "region": "TN"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 758523,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

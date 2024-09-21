@@ -1,0 +1,41 @@
+{
+  "id": "31tVXduq7FmEznjanEBQJA",
+  "name": "Scattle",
+  "followers": 73103,
+  "monthlyListeners": 222344,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 2303,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 2289,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 2255,
+        "region": "IL"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 2252,
+        "region": "WA"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 2225,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

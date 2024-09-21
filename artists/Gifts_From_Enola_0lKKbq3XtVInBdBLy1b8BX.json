@@ -1,0 +1,41 @@
+{
+  "id": "0lKKbq3XtVInBdBLy1b8BX",
+  "name": "Gifts From Enola",
+  "followers": 5703,
+  "monthlyListeners": 857,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 13,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 12,
+        "region": "IL"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 11,
+        "region": "BE"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 11,
+        "region": "PA"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 8,
+        "region": "34"
+      }
+    ]
+  },
+  "worldRank": 0
+}

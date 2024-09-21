@@ -1,0 +1,41 @@
+{
+  "id": "3rIZMv9rysU7JkLzEaC5Jp",
+  "name": "Snow Patrol",
+  "followers": 3044280,
+  "monthlyListeners": 10215981,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 262276,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 162764,
+        "region": "NSW"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 151095,
+        "region": "L"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 145551,
+        "region": "VIC"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 123853,
+        "region": "JK"
+      }
+    ]
+  },
+  "worldRank": 0
+}

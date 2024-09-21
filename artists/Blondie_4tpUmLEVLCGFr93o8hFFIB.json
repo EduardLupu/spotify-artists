@@ -1,0 +1,41 @@
+{
+  "id": "4tpUmLEVLCGFr93o8hFFIB",
+  "name": "Blondie",
+  "followers": 1538828,
+  "monthlyListeners": 11976274,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 247283,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 240555,
+        "region": "CMX"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 213470,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 146414,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 136228,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

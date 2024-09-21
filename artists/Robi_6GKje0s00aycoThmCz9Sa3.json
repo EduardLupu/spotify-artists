@@ -1,0 +1,41 @@
+{
+  "id": "6GKje0s00aycoThmCz9Sa3",
+  "name": "Robi",
+  "followers": 47,
+  "monthlyListeners": 40,
+  "topCities": {
+    "items": [
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 6,
+        "region": "21"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 6,
+        "region": "25"
+      },
+      {
+        "city": "Genoa",
+        "country": "IT",
+        "numberOfListeners": 5,
+        "region": "42"
+      },
+      {
+        "city": "Cherasco",
+        "country": "IT",
+        "numberOfListeners": 3,
+        "region": "21"
+      },
+      {
+        "city": "Cuneo",
+        "country": "IT",
+        "numberOfListeners": 3,
+        "region": "21"
+      }
+    ]
+  },
+  "worldRank": 0
+}

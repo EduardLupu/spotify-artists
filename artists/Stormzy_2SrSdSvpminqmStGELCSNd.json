@@ -1,0 +1,41 @@
+{
+  "id": "2SrSdSvpminqmStGELCSNd",
+  "name": "Stormzy",
+  "followers": 2977209,
+  "monthlyListeners": 12195094,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 943280,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 354458,
+        "region": "NSW"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 317615,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 308539,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 297573,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

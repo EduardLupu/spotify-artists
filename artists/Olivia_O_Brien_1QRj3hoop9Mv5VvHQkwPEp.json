@@ -1,0 +1,41 @@
+{
+  "id": "1QRj3hoop9Mv5VvHQkwPEp",
+  "name": "Olivia O'Brien",
+  "followers": 2049957,
+  "monthlyListeners": 3639960,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 51734,
+        "region": "NSW"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 48201,
+        "region": "JK"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 44890,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 41237,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 34427,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

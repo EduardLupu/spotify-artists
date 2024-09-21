@@ -1,0 +1,41 @@
+{
+  "id": "11TplWqOPQBTmg2eiSLt1m",
+  "name": "Tiziano Ferro",
+  "followers": 2122155,
+  "monthlyListeners": 3529121,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 296798,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 154255,
+        "region": "62"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 98899,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 84527,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 57828,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

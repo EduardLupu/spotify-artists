@@ -1,0 +1,41 @@
+{
+  "id": "5xIOUIBQhGFX7HIj8lhdyU",
+  "name": "Omar Varela",
+  "followers": 79900,
+  "monthlyListeners": 8451491,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1087795,
+        "region": "C"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 476942,
+        "region": "B"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 421289,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 271476,
+        "region": "LMA"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 241530,
+        "region": "X"
+      }
+    ]
+  },
+  "worldRank": 0
+}

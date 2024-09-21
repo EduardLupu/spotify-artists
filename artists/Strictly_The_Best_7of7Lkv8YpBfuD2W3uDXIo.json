@@ -1,0 +1,41 @@
+{
+  "id": "7of7Lkv8YpBfuD2W3uDXIo",
+  "name": "Strictly The Best",
+  "followers": 4705,
+  "monthlyListeners": 1102905,
+  "topCities": {
+    "items": [
+      {
+        "city": "San José",
+        "country": "CR",
+        "numberOfListeners": 67305,
+        "region": "SJ"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 54775,
+        "region": "ENG"
+      },
+      {
+        "city": "Nairobi",
+        "country": "KE",
+        "numberOfListeners": 44627,
+        "region": "30"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 36933,
+        "region": "ON"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 24075,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

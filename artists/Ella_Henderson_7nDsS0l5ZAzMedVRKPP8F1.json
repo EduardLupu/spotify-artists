@@ -1,0 +1,41 @@
+{
+  "id": "7nDsS0l5ZAzMedVRKPP8F1",
+  "name": "Ella Henderson",
+  "followers": 1630837,
+  "monthlyListeners": 15300932,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 462831,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 218564,
+        "region": "NH"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 216330,
+        "region": "NSW"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 200224,
+        "region": "L"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 178227,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

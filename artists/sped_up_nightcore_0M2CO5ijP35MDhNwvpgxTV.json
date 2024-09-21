@@ -1,0 +1,41 @@
+{
+  "id": "0M2CO5ijP35MDhNwvpgxTV",
+  "name": "sped up nightcore",
+  "followers": 178264,
+  "monthlyListeners": 8361140,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 141147,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 87342,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 75171,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 69763,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 68525,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

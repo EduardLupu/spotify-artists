@@ -1,0 +1,41 @@
+{
+  "id": "1oMiDFyAgmIzw9ZBQYHOJI",
+  "name": "El Guincho",
+  "followers": 54912,
+  "monthlyListeners": 903345,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 79774,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 68636,
+        "region": "CT"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 66985,
+        "region": "RM"
+      },
+      {
+        "city": "Valencia",
+        "country": "ES",
+        "numberOfListeners": 22963,
+        "region": "VC"
+      },
+      {
+        "city": "Málaga",
+        "country": "ES",
+        "numberOfListeners": 20389,
+        "region": "AN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1LZEQNv7sE11VDY3SdxQeN",
+  "name": "Bee Gees",
+  "followers": 8127789,
+  "monthlyListeners": 26166174,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 451801,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 432608,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 339140,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 303281,
+        "region": "NSW"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 292664,
+        "region": "JK"
+      }
+    ]
+  },
+  "worldRank": 201
+}

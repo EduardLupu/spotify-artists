@@ -1,0 +1,41 @@
+{
+  "id": "7to1UlTpu40h7CpjRPkGqA",
+  "name": "Jin",
+  "followers": 118547,
+  "monthlyListeners": 325756,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 41020,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 13085,
+        "region": "27"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 6199,
+        "region": "13"
+      },
+      {
+        "city": "Nagoya",
+        "country": "JP",
+        "numberOfListeners": 4776,
+        "region": "23"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 4422,
+        "region": "JK"
+      }
+    ]
+  },
+  "worldRank": 0
+}

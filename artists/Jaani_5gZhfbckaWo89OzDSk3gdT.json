@@ -1,0 +1,41 @@
+{
+  "id": "5gZhfbckaWo89OzDSk3gdT",
+  "name": "Jaani",
+  "followers": 445202,
+  "monthlyListeners": 19894020,
+  "topCities": {
+    "items": [
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1785875,
+        "region": "DL"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1601588,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1458853,
+        "region": "MH"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 1437529,
+        "region": "DL"
+      },
+      {
+        "city": "Jaipur",
+        "country": "IN",
+        "numberOfListeners": 981978,
+        "region": "RJ"
+      }
+    ]
+  },
+  "worldRank": 362
+}

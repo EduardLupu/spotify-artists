@@ -1,0 +1,41 @@
+{
+  "id": "7cjh6y0V9SsyCrWSXTzwOs",
+  "name": "RBD",
+  "followers": 1977522,
+  "monthlyListeners": 4332618,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 290910,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 137555,
+        "region": "LMA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 133086,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 128733,
+        "region": "DC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 118854,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

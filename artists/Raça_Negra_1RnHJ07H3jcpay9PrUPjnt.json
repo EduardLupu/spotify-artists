@@ -1,0 +1,41 @@
+{
+  "id": "1RnHJ07H3jcpay9PrUPjnt",
+  "name": "Raça Negra",
+  "followers": 2371695,
+  "monthlyListeners": 3289168,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 525951,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 202862,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 161988,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 121827,
+        "region": "SP"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 119990,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

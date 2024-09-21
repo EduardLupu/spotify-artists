@@ -1,0 +1,41 @@
+{
+  "id": "7qXzy6c5RWT0XlVQcOBIDG",
+  "name": "Mark Forster",
+  "followers": 2946557,
+  "monthlyListeners": 2191737,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 181296,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 131828,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 111331,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 101646,
+        "region": "BY"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 90381,
+        "region": "9"
+      }
+    ]
+  },
+  "worldRank": 0
+}

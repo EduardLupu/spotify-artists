@@ -1,0 +1,41 @@
+{
+  "id": "6twEaJ9RPRYiCmWapjG8xh",
+  "name": "Tony Aguirre",
+  "followers": 943847,
+  "monthlyListeners": 7893196,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 576220,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 399017,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 256931,
+        "region": "QUE"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 245715,
+        "region": "JAL"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 237456,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

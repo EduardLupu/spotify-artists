@@ -1,0 +1,41 @@
+{
+  "id": "7iWiAD5LLKyiox2grgfmUT",
+  "name": "Bullet For My Valentine",
+  "followers": 3083175,
+  "monthlyListeners": 4302589,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 67827,
+        "region": "ENG"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 63485,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 53559,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 52513,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 46229,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

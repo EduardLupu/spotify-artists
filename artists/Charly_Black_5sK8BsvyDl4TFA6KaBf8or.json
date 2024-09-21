@@ -1,0 +1,41 @@
+{
+  "id": "5sK8BsvyDl4TFA6KaBf8or",
+  "name": "Charly Black",
+  "followers": 346748,
+  "monthlyListeners": 4285893,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 130180,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 109929,
+        "region": "DC"
+      },
+      {
+        "city": "San José",
+        "country": "CR",
+        "numberOfListeners": 84113,
+        "region": "SJ"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 72185,
+        "region": "ENG"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 70475,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3HrbmsYpKjWH1lzhad7alj",
+  "name": "Los Auténticos Decadentes",
+  "followers": 2192785,
+  "monthlyListeners": 5527833,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 481581,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 477621,
+        "region": "C"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 341146,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 218496,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 217774,
+        "region": "B"
+      }
+    ]
+  },
+  "worldRank": 0
+}

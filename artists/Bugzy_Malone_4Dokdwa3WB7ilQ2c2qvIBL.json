@@ -1,0 +1,41 @@
+{
+  "id": "4Dokdwa3WB7ilQ2c2qvIBL",
+  "name": "Bugzy Malone",
+  "followers": 867892,
+  "monthlyListeners": 2343720,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 214708,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 100639,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 90991,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 69350,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 68090,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

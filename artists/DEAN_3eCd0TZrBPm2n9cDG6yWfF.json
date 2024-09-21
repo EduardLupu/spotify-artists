@@ -1,0 +1,41 @@
+{
+  "id": "3eCd0TZrBPm2n9cDG6yWfF",
+  "name": "DEAN",
+  "followers": 1475456,
+  "monthlyListeners": 1577053,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 49928,
+        "region": "JK"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 33978,
+        "region": "14"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 32427,
+        "region": "10"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 32148,
+        "region": ""
+      },
+      {
+        "city": "Seoul",
+        "country": "KR",
+        "numberOfListeners": 27639,
+        "region": "11"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4bPiOPI4V99cepEftvBYak",
+  "name": "Banda Los Recoditos",
+  "followers": 4484844,
+  "monthlyListeners": 6194389,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 528757,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 319092,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 211497,
+        "region": "CMX"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 210909,
+        "region": "QUE"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 203870,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5zctI4wO9XSKS8XwcnqEHk",
+  "name": "Lil Mosey",
+  "followers": 5569406,
+  "monthlyListeners": 6524216,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 79803,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 73776,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 70275,
+        "region": "IL"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 68651,
+        "region": "ON"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 66014,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

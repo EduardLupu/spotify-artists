@@ -1,0 +1,41 @@
+{
+  "id": "4stSxe6AbpXw3x7nRDsYVX",
+  "name": "Remmy Valenzuela",
+  "followers": 1839672,
+  "monthlyListeners": 4952226,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 460689,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 350648,
+        "region": "JAL"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 220058,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 202263,
+        "region": "QUE"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 181926,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4VuARVJiWGsH2msKTdsKdQ",
+  "name": "Veysel",
+  "followers": 914097,
+  "monthlyListeners": 1551925,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 144065,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 119295,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 114712,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 94176,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 91128,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

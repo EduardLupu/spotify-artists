@@ -1,0 +1,41 @@
+{
+  "id": "1jSjfSgDjedJdi5MoyRu78",
+  "name": "Lary Over",
+  "followers": 5218267,
+  "monthlyListeners": 5390034,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 359842,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 277015,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 192500,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 165123,
+        "region": "CMX"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 162777,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

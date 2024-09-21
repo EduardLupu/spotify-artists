@@ -1,0 +1,41 @@
+{
+  "id": "6UCQYrcJ6wab6gnQ89OJFh",
+  "name": "Headie One",
+  "followers": 607793,
+  "monthlyListeners": 3731218,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 313991,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 126743,
+        "region": "NSW"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 102411,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 95498,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 92167,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

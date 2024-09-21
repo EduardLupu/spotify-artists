@@ -1,0 +1,41 @@
+{
+  "id": "5AtWO8IEnjhRLzaVVQxFUs",
+  "name": "SoMo",
+  "followers": 708776,
+  "monthlyListeners": 1385790,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 31688,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 24044,
+        "region": "SP"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 19475,
+        "region": "10"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 17954,
+        "region": "00"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 14372,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2xiIXseIJcq3nG7C8fHeBj",
+  "name": "Three Days Grace",
+  "followers": 6277521,
+  "monthlyListeners": 13996056,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 198374,
+        "region": "SP"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 197884,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 172889,
+        "region": "TX"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 140160,
+        "region": "ON"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 139033,
+        "region": "NC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

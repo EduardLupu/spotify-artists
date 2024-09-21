@@ -1,0 +1,41 @@
+{
+  "id": "3wOsYKZM0zcKNasi3I7fP4",
+  "name": "Mahalini",
+  "followers": 13693183,
+  "monthlyListeners": 11861953,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 5115038,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 1176758,
+        "region": "JB"
+      },
+      {
+        "city": "Makassar",
+        "country": "ID",
+        "numberOfListeners": 585882,
+        "region": "SN"
+      },
+      {
+        "city": "Surabaya",
+        "country": "ID",
+        "numberOfListeners": 507056,
+        "region": "JI"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 486351,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

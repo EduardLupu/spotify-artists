@@ -1,0 +1,41 @@
+{
+  "id": "1tqysapcCh1lWEAc9dIFpa",
+  "name": "Jubin Nautiyal",
+  "followers": 18740842,
+  "monthlyListeners": 19231038,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1732419,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1554708,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1375607,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 1107378,
+        "region": "DL"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 946626,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 386
+}

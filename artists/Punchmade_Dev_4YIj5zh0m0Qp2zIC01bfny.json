@@ -1,0 +1,41 @@
+{
+  "id": "4YIj5zh0m0Qp2zIC01bfny",
+  "name": "Punchmade Dev",
+  "followers": 130621,
+  "monthlyListeners": 555767,
+  "topCities": {
+    "items": [
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 13244,
+        "region": "PA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 12638,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 10232,
+        "region": "NY"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 9355,
+        "region": "GA"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 8955,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

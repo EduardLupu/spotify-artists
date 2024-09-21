@@ -1,0 +1,41 @@
+{
+  "id": "1TA5sGRlKUJXBN4ZyJuDIX",
+  "name": "Blessd",
+  "followers": 4885708,
+  "monthlyListeners": 20528188,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1876687,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1225084,
+        "region": "RM"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 1053140,
+        "region": "ANT"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 825414,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 756866,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 344
+}

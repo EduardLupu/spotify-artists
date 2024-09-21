@@ -1,0 +1,41 @@
+{
+  "id": "3tQzzidoPfVifoURnDfgmD",
+  "name": "t-low",
+  "followers": 439639,
+  "monthlyListeners": 2264925,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 219507,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 165818,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 142358,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 136240,
+        "region": "BY"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 114357,
+        "region": "9"
+      }
+    ]
+  },
+  "worldRank": 0
+}

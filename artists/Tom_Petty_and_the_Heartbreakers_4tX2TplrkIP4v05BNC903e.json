@@ -1,0 +1,41 @@
+{
+  "id": "4tX2TplrkIP4v05BNC903e",
+  "name": "Tom Petty and the Heartbreakers",
+  "followers": 2836474,
+  "monthlyListeners": 7910567,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 148565,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 114399,
+        "region": "NY"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 106124,
+        "region": "PA"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 103279,
+        "region": "ON"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 102079,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

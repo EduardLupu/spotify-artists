@@ -1,0 +1,41 @@
+{
+  "id": "5cB4d4jPYjMT326sjihQ4m",
+  "name": "Shaan",
+  "followers": 8095650,
+  "monthlyListeners": 12278358,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1229861,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1098293,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 818080,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 685542,
+        "region": "DL"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 682948,
+        "region": "WB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

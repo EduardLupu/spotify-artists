@@ -1,0 +1,41 @@
+{
+  "id": "1WQBwwssN6r8DSjUlkyUGW",
+  "name": "MC Cabelinho",
+  "followers": 8111023,
+  "monthlyListeners": 9331411,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1527950,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 1045735,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 513703,
+        "region": "MG"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 345802,
+        "region": "RS"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 329450,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

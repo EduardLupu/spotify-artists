@@ -1,0 +1,41 @@
+{
+  "id": "7j6necEPY4TApEMUs9xJgh",
+  "name": "CREAM",
+  "followers": 130112,
+  "monthlyListeners": 289666,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 70833,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 30338,
+        "region": "27"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 12076,
+        "region": "13"
+      },
+      {
+        "city": "Nagoya",
+        "country": "JP",
+        "numberOfListeners": 9587,
+        "region": "23"
+      },
+      {
+        "city": "Fukuoka",
+        "country": "JP",
+        "numberOfListeners": 8466,
+        "region": "40"
+      }
+    ]
+  },
+  "worldRank": 0
+}

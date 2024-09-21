@@ -1,0 +1,41 @@
+{
+  "id": "2DaxqgrOhkeH0fpeiQq2f4",
+  "name": "Oasis",
+  "followers": 10620022,
+  "monthlyListeners": 32592648,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1307766,
+        "region": "ENG"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 893789,
+        "region": "JK"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 546564,
+        "region": "ENG"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 506435,
+        "region": "L"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 482717,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 131
+}

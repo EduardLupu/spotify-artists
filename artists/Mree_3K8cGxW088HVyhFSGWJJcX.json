@@ -1,0 +1,41 @@
+{
+  "id": "3K8cGxW088HVyhFSGWJJcX",
+  "name": "Mree",
+  "followers": 59864,
+  "monthlyListeners": 168225,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 3002,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 1748,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 1663,
+        "region": "VIC"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 1500,
+        "region": ""
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1489,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

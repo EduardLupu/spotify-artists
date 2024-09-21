@@ -1,0 +1,41 @@
+{
+  "id": "7bp2lSdh12wcA8LyB1srfJ",
+  "name": "Sofia Carson",
+  "followers": 3665203,
+  "monthlyListeners": 5467228,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 65469,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 56533,
+        "region": "ENG"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 56357,
+        "region": "JK"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 54616,
+        "region": "CMX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 53342,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

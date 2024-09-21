@@ -1,0 +1,41 @@
+{
+  "id": "3nlHsNqwCSvT988ZfSW1Yh",
+  "name": "Ronan Keating",
+  "followers": 1104389,
+  "monthlyListeners": 3758028,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 107292,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 71600,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 69917,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 61822,
+        "region": "VIC"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 57101,
+        "region": "00"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "20M8cOltIFk4sGOC0m21xU",
+  "name": "Phillip Berry",
+  "followers": 629,
+  "monthlyListeners": 9893,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 130,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 107,
+        "region": "QLD"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 104,
+        "region": "VIC"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 103,
+        "region": "CO"
+      },
+      {
+        "city": "Calgary",
+        "country": "CA",
+        "numberOfListeners": 97,
+        "region": "AB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

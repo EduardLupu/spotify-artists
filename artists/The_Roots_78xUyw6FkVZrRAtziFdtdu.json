@@ -1,0 +1,41 @@
+{
+  "id": "78xUyw6FkVZrRAtziFdtdu",
+  "name": "The Roots",
+  "followers": 1397907,
+  "monthlyListeners": 2729568,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 51209,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 37606,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 37492,
+        "region": "NH"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 35723,
+        "region": "CA"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 34155,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

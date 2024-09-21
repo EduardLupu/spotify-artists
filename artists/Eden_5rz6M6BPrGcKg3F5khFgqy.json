@@ -1,0 +1,41 @@
+{
+  "id": "5rz6M6BPrGcKg3F5khFgqy",
+  "name": "Eden",
+  "followers": 304,
+  "monthlyListeners": 2866,
+  "topCities": {
+    "items": [
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 814,
+        "region": "BRU"
+      },
+      {
+        "city": "Antwerp",
+        "country": "BE",
+        "numberOfListeners": 181,
+        "region": "VLG"
+      },
+      {
+        "city": "Ghent",
+        "country": "BE",
+        "numberOfListeners": 113,
+        "region": "VLG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 75,
+        "region": "NH"
+      },
+      {
+        "city": "Mechelen",
+        "country": "BE",
+        "numberOfListeners": 48,
+        "region": "VLG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

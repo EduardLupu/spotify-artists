@@ -1,0 +1,41 @@
+{
+  "id": "7fmQXLCgx5q0vkGArvS6mm",
+  "name": "Miguel Y Miguel",
+  "followers": 447782,
+  "monthlyListeners": 1790120,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 99874,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 87356,
+        "region": "JAL"
+      },
+      {
+        "city": "Tijuana",
+        "country": "MX",
+        "numberOfListeners": 83689,
+        "region": "BCN"
+      },
+      {
+        "city": "Monterrey",
+        "country": "MX",
+        "numberOfListeners": 57758,
+        "region": "NLE"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 55243,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

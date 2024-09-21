@@ -1,0 +1,41 @@
+{
+  "id": "2Tglaf8nvDzwSQnpSrjLHP",
+  "name": "Cuco",
+  "followers": 2976110,
+  "monthlyListeners": 5223507,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 164618,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 112595,
+        "region": "LMA"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 108899,
+        "region": "CA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 90127,
+        "region": "RM"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 85567,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

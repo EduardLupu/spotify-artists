@@ -1,0 +1,41 @@
+{
+  "id": "73su3oDG4DKZP77Jzz1CX6",
+  "name": "Eiafuawn",
+  "followers": 45444,
+  "monthlyListeners": 546793,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 12817,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 8043,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 7559,
+        "region": "NY"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 7090,
+        "region": "ENG"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 6921,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

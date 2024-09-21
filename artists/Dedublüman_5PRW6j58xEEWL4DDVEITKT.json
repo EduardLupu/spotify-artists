@@ -1,0 +1,41 @@
+{
+  "id": "5PRW6j58xEEWL4DDVEITKT",
+  "name": "Dedublüman",
+  "followers": 1489505,
+  "monthlyListeners": 4875676,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 1481314,
+        "region": "34"
+      },
+      {
+        "city": "Ankara",
+        "country": "TR",
+        "numberOfListeners": 836835,
+        "region": "06"
+      },
+      {
+        "city": "Izmir",
+        "country": "TR",
+        "numberOfListeners": 532203,
+        "region": "35"
+      },
+      {
+        "city": "Bursa",
+        "country": "TR",
+        "numberOfListeners": 287967,
+        "region": "16"
+      },
+      {
+        "city": "Adana",
+        "country": "TR",
+        "numberOfListeners": 272139,
+        "region": "01"
+      }
+    ]
+  },
+  "worldRank": 0
+}

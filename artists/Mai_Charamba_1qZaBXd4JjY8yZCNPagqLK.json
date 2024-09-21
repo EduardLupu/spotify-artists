@@ -1,0 +1,41 @@
+{
+  "id": "1qZaBXd4JjY8yZCNPagqLK",
+  "name": "Mai Charamba",
+  "followers": 15946,
+  "monthlyListeners": 5894,
+  "topCities": {
+    "items": [
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 1351,
+        "region": "GP"
+      },
+      {
+        "city": "Cape Town",
+        "country": "ZA",
+        "numberOfListeners": 980,
+        "region": "WC"
+      },
+      {
+        "city": "Harare",
+        "country": "ZW",
+        "numberOfListeners": 706,
+        "region": "HA"
+      },
+      {
+        "city": "Pretoria",
+        "country": "ZA",
+        "numberOfListeners": 470,
+        "region": "GP"
+      },
+      {
+        "city": "Durban",
+        "country": "ZA",
+        "numberOfListeners": 197,
+        "region": "KZN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

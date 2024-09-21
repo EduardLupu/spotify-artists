@@ -1,0 +1,41 @@
+{
+  "id": "5vQfv3s2Z2SRdPZKr82ABw",
+  "name": "Dzeko",
+  "followers": 71267,
+  "monthlyListeners": 2911246,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 51759,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 39733,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 36964,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 35304,
+        "region": "QLD"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 31422,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

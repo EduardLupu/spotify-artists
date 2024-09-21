@@ -1,0 +1,41 @@
+{
+  "id": "3iMzbvXlgNUpoFccD60bvr",
+  "name": "Prezioso",
+  "followers": 135281,
+  "monthlyListeners": 6749072,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 118091,
+        "region": "25"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 90184,
+        "region": "BE"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 86165,
+        "region": "10"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 82854,
+        "region": "IDF"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 80193,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

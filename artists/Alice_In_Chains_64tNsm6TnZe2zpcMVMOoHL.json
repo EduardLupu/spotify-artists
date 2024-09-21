@@ -1,0 +1,41 @@
+{
+  "id": "64tNsm6TnZe2zpcMVMOoHL",
+  "name": "Alice In Chains",
+  "followers": 5271752,
+  "monthlyListeners": 8981621,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 165809,
+        "region": "SP"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 150182,
+        "region": "IL"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 145472,
+        "region": "RM"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 117907,
+        "region": "TX"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 115196,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

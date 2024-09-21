@@ -1,0 +1,41 @@
+{
+  "id": "4KoZpKiPeX4jIi7Euwcfuo",
+  "name": "Thou",
+  "followers": 86406,
+  "monthlyListeners": 78562,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 1249,
+        "region": "CA"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 1241,
+        "region": "WA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1228,
+        "region": "IL"
+      },
+      {
+        "city": "Portland",
+        "country": "US",
+        "numberOfListeners": 1111,
+        "region": "OR"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1102,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

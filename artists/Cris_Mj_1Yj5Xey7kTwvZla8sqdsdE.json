@@ -1,0 +1,41 @@
+{
+  "id": "1Yj5Xey7kTwvZla8sqdsdE",
+  "name": "Cris Mj",
+  "followers": 3668635,
+  "monthlyListeners": 40955512,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 2407713,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1209187,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 989702,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 973541,
+        "region": "C"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 804042,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 75
+}

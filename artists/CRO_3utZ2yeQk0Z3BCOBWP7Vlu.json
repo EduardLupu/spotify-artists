@@ -1,0 +1,41 @@
+{
+  "id": "3utZ2yeQk0Z3BCOBWP7Vlu",
+  "name": "CRO",
+  "followers": 2574876,
+  "monthlyListeners": 4993640,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 496979,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 367558,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 350431,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 337756,
+        "region": "BY"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 268469,
+        "region": "9"
+      }
+    ]
+  },
+  "worldRank": 0
+}

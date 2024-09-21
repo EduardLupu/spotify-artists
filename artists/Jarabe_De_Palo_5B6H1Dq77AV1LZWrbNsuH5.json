@@ -1,0 +1,41 @@
+{
+  "id": "5B6H1Dq77AV1LZWrbNsuH5",
+  "name": "Jarabe De Palo",
+  "followers": 1685116,
+  "monthlyListeners": 11182009,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 581571,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 566136,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 440757,
+        "region": "DC"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 335715,
+        "region": "MD"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 282292,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

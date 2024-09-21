@@ -1,0 +1,41 @@
+{
+  "id": "02kJSzxNuaWGqwubyUba0Z",
+  "name": "G-Eazy",
+  "followers": 5427425,
+  "monthlyListeners": 22419010,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 440806,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 280251,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 226621,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 226538,
+        "region": "ENG"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 212675,
+        "region": "34"
+      }
+    ]
+  },
+  "worldRank": 290
+}

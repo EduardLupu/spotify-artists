@@ -1,0 +1,41 @@
+{
+  "id": "05etL4pzWd6TSv1x5WrlG3",
+  "name": "Faheem Abdullah",
+  "followers": 58197,
+  "monthlyListeners": 5094529,
+  "topCities": {
+    "items": [
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 435198,
+        "region": "DL"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 416364,
+        "region": "MH"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 353990,
+        "region": "DL"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 314445,
+        "region": "MH"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 269757,
+        "region": "WB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

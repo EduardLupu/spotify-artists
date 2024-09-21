@@ -1,0 +1,41 @@
+{
+  "id": "6kaefrHSdAvxhhCVDFTCEL",
+  "name": "Dulce María",
+  "followers": 737544,
+  "monthlyListeners": 4628972,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 311441,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 141432,
+        "region": "LMA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 137837,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 129355,
+        "region": "DC"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 123192,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

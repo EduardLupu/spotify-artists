@@ -1,0 +1,41 @@
+{
+  "id": "4JNTfGIaxV06Lm81hszL56",
+  "name": "ROBI",
+  "followers": 5046,
+  "monthlyListeners": 9009,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 103,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 91,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 88,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 81,
+        "region": "QLD"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 71,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

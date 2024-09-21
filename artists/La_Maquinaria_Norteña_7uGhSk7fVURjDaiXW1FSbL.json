@@ -1,0 +1,41 @@
+{
+  "id": "7uGhSk7fVURjDaiXW1FSbL",
+  "name": "La Maquinaria Norteña",
+  "followers": 580217,
+  "monthlyListeners": 3092653,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 196503,
+        "region": "CMX"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 127025,
+        "region": "QUE"
+      },
+      {
+        "city": "Monterrey",
+        "country": "MX",
+        "numberOfListeners": 94764,
+        "region": "NLE"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 94492,
+        "region": "JAL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 81953,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

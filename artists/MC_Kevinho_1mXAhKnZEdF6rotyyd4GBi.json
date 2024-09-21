@@ -1,0 +1,41 @@
+{
+  "id": "1mXAhKnZEdF6rotyyd4GBi",
+  "name": "MC Kevinho",
+  "followers": 7136939,
+  "monthlyListeners": 5652234,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 335856,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 135612,
+        "region": "RM"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 118933,
+        "region": "RJ"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 95595,
+        "region": "DC"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 91365,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

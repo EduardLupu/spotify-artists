@@ -1,0 +1,41 @@
+{
+  "id": "0LnhY2fzptb0QEs5Q5gM7S",
+  "name": "Laylow",
+  "followers": 795803,
+  "monthlyListeners": 2179717,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 406590,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 97753,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 90811,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 75786,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 62448,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

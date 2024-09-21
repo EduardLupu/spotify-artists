@@ -1,0 +1,41 @@
+{
+  "id": "1XLWox9w1Yvbodui0SRhUQ",
+  "name": "StaySolidRocky",
+  "followers": 249801,
+  "monthlyListeners": 3943925,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 55361,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 44777,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 41017,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 38329,
+        "region": "QLD"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 36522,
+        "region": "JK"
+      }
+    ]
+  },
+  "worldRank": 0
+}

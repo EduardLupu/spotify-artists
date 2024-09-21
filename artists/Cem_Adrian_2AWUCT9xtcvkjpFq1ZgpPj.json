@@ -1,0 +1,41 @@
+{
+  "id": "2AWUCT9xtcvkjpFq1ZgpPj",
+  "name": "Cem Adrian",
+  "followers": 3609044,
+  "monthlyListeners": 3136440,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 918269,
+        "region": "34"
+      },
+      {
+        "city": "Ankara",
+        "country": "TR",
+        "numberOfListeners": 487799,
+        "region": "06"
+      },
+      {
+        "city": "Izmir",
+        "country": "TR",
+        "numberOfListeners": 325539,
+        "region": "35"
+      },
+      {
+        "city": "Bursa",
+        "country": "TR",
+        "numberOfListeners": 164827,
+        "region": "16"
+      },
+      {
+        "city": "Adana",
+        "country": "TR",
+        "numberOfListeners": 157827,
+        "region": "01"
+      }
+    ]
+  },
+  "worldRank": 0
+}

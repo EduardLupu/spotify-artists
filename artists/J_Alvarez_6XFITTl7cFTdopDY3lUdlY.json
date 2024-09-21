@@ -1,0 +1,41 @@
+{
+  "id": "6XFITTl7cFTdopDY3lUdlY",
+  "name": "J Alvarez",
+  "followers": 5555965,
+  "monthlyListeners": 7500765,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 819950,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 624399,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 359818,
+        "region": "LMA"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 346588,
+        "region": "ANT"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 271518,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

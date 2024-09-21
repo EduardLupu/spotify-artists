@@ -1,0 +1,41 @@
+{
+  "id": "29shFZUhpt5FMe4xqUhOPl",
+  "name": "OH!",
+  "followers": 161,
+  "monthlyListeners": 31,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 23,
+        "region": "RM"
+      },
+      {
+        "city": "Valparaíso",
+        "country": "CL",
+        "numberOfListeners": 1,
+        "region": "VS"
+      },
+      {
+        "city": "Temuco",
+        "country": "CL",
+        "numberOfListeners": 1,
+        "region": "AR"
+      },
+      {
+        "city": "Concepción",
+        "country": "CL",
+        "numberOfListeners": 1,
+        "region": "BI"
+      },
+      {
+        "city": "Kota Kinabalu",
+        "country": "MY",
+        "numberOfListeners": 1,
+        "region": "12"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2cFrymmkijnjDg9SS92EPM",
+  "name": "blackbear",
+  "followers": 4976657,
+  "monthlyListeners": 14755651,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 187266,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 167989,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 157630,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 147410,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 142307,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

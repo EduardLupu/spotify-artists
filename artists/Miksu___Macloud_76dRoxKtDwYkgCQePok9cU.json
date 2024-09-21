@@ -1,0 +1,41 @@
+{
+  "id": "76dRoxKtDwYkgCQePok9cU",
+  "name": "Miksu / Macloud",
+  "followers": 159323,
+  "monthlyListeners": 4431313,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 465720,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 343058,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 319067,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 295172,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 237323,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

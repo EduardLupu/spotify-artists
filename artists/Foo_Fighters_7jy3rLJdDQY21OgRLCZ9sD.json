@@ -1,0 +1,41 @@
+{
+  "id": "7jy3rLJdDQY21OgRLCZ9sD",
+  "name": "Foo Fighters",
+  "followers": 12000867,
+  "monthlyListeners": 20146199,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 415200,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 391211,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 331597,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 297726,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 246100,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 352
+}

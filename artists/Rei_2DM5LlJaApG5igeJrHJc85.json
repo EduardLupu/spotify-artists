@@ -1,0 +1,41 @@
+{
+  "id": "2DM5LlJaApG5igeJrHJc85",
+  "name": "Rei",
+  "followers": 329,
+  "monthlyListeners": 364,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lilongwe",
+        "country": "MW",
+        "numberOfListeners": 131,
+        "region": "C"
+      },
+      {
+        "city": "Blantyre",
+        "country": "MW",
+        "numberOfListeners": 80,
+        "region": "S"
+      },
+      {
+        "city": "Panama City",
+        "country": "PA",
+        "numberOfListeners": 37,
+        "region": "8"
+      },
+      {
+        "city": "Nairobi",
+        "country": "KE",
+        "numberOfListeners": 7,
+        "region": "30"
+      },
+      {
+        "city": "Cape Town",
+        "country": "ZA",
+        "numberOfListeners": 6,
+        "region": "WC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

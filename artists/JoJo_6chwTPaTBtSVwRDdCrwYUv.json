@@ -1,0 +1,41 @@
+{
+  "id": "6chwTPaTBtSVwRDdCrwYUv",
+  "name": "JoJo",
+  "followers": 3230,
+  "monthlyListeners": 20430,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1650,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 683,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 635,
+        "region": "VIC"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 489,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 476,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

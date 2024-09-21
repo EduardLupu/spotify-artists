@@ -1,0 +1,41 @@
+{
+  "id": "1wxPItEzr7U7rGSMPqZ25r",
+  "name": "Shiloh Dynasty",
+  "followers": 1862880,
+  "monthlyListeners": 7891051,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 109938,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 87507,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 75459,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 73075,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 63298,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

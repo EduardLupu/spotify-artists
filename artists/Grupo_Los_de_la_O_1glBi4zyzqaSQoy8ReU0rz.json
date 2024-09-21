@@ -1,0 +1,41 @@
+{
+  "id": "1glBi4zyzqaSQoy8ReU0rz",
+  "name": "Grupo Los de la O",
+  "followers": 1428953,
+  "monthlyListeners": 3562388,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 241980,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 210752,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 133136,
+        "region": "QUE"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 133111,
+        "region": "JAL"
+      },
+      {
+        "city": "Tijuana",
+        "country": "MX",
+        "numberOfListeners": 122111,
+        "region": "BCN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

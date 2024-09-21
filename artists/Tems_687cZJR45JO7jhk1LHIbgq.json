@@ -1,0 +1,41 @@
+{
+  "id": "687cZJR45JO7jhk1LHIbgq",
+  "name": "Tems",
+  "followers": 2327280,
+  "monthlyListeners": 19263797,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 536783,
+        "region": "ENG"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 454781,
+        "region": "LA"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 274884,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 268298,
+        "region": "NSW"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 256677,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 384
+}

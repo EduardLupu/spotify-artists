@@ -1,0 +1,41 @@
+{
+  "id": "1Fg19vpUJpAAPFjnKaVYVW",
+  "name": "Reynmen",
+  "followers": 2868371,
+  "monthlyListeners": 4643619,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 1325343,
+        "region": "34"
+      },
+      {
+        "city": "Ankara",
+        "country": "TR",
+        "numberOfListeners": 691144,
+        "region": "06"
+      },
+      {
+        "city": "Izmir",
+        "country": "TR",
+        "numberOfListeners": 491886,
+        "region": "35"
+      },
+      {
+        "city": "Bursa",
+        "country": "TR",
+        "numberOfListeners": 256462,
+        "region": "16"
+      },
+      {
+        "city": "Adana",
+        "country": "TR",
+        "numberOfListeners": 203916,
+        "region": "01"
+      }
+    ]
+  },
+  "worldRank": 0
+}

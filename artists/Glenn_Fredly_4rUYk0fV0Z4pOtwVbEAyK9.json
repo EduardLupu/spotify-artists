@@ -1,0 +1,41 @@
+{
+  "id": "4rUYk0fV0Z4pOtwVbEAyK9",
+  "name": "Glenn Fredly",
+  "followers": 3083504,
+  "monthlyListeners": 3585380,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1562362,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 306966,
+        "region": "JB"
+      },
+      {
+        "city": "Makassar",
+        "country": "ID",
+        "numberOfListeners": 170132,
+        "region": "SN"
+      },
+      {
+        "city": "Surabaya",
+        "country": "ID",
+        "numberOfListeners": 131223,
+        "region": "JI"
+      },
+      {
+        "city": "Semarang",
+        "country": "ID",
+        "numberOfListeners": 118738,
+        "region": "JT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

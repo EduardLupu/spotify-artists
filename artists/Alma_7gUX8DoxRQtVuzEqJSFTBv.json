@@ -1,0 +1,41 @@
+{
+  "id": "7gUX8DoxRQtVuzEqJSFTBv",
+  "name": "Alma",
+  "followers": 10,
+  "monthlyListeners": 37,
+  "topCities": {
+    "items": [
+      {
+        "city": "Saint-Fulgent",
+        "country": "FR",
+        "numberOfListeners": 6,
+        "region": "PDL"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 3,
+        "region": "IDF"
+      },
+      {
+        "city": "La Roche-sur-Yon",
+        "country": "FR",
+        "numberOfListeners": 2,
+        "region": "PDL"
+      },
+      {
+        "city": "Port-au-Prince",
+        "country": "HT",
+        "numberOfListeners": 1,
+        "region": "OU"
+      },
+      {
+        "city": "Roussillon",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "ARA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

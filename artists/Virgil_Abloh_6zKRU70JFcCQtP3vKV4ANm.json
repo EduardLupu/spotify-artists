@@ -1,0 +1,41 @@
+{
+  "id": "6zKRU70JFcCQtP3vKV4ANm",
+  "name": "Virgil Abloh",
+  "followers": 19861,
+  "monthlyListeners": 28504,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 1619,
+        "region": "LA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 596,
+        "region": "ENG"
+      },
+      {
+        "city": "Abuja",
+        "country": "NG",
+        "numberOfListeners": 581,
+        "region": "FC"
+      },
+      {
+        "city": "Port Harcourt",
+        "country": "NG",
+        "numberOfListeners": 501,
+        "region": "RI"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 487,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

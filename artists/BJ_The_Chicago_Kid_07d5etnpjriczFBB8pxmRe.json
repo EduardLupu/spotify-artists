@@ -1,0 +1,41 @@
+{
+  "id": "07d5etnpjriczFBB8pxmRe",
+  "name": "BJ The Chicago Kid",
+  "followers": 450938,
+  "monthlyListeners": 842843,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 14144,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 14005,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 13334,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 10917,
+        "region": "NSW"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 10233,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

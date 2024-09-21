@@ -1,0 +1,41 @@
+{
+  "id": "2rEVnwCPBeGkWMv425KoG1",
+  "name": "AYLIVA",
+  "followers": 1675866,
+  "monthlyListeners": 5089131,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 595961,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 473132,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 457908,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 353471,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 322379,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

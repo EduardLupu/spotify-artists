@@ -1,0 +1,41 @@
+{
+  "id": "37hAfseJWi0G3Scife12Il",
+  "name": "City Girls",
+  "followers": 2640898,
+  "monthlyListeners": 3366870,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 60034,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 56980,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 48072,
+        "region": "TX"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 47405,
+        "region": "GA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 46539,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1l7ZsJRRS8wlW3WfJfPfNS",
+  "name": "Christina Aguilera",
+  "followers": 8447742,
+  "monthlyListeners": 27130381,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 439734,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 342792,
+        "region": "CMX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 327589,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 320878,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 290915,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 186
+}

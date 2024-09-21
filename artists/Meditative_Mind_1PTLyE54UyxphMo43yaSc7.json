@@ -1,0 +1,41 @@
+{
+  "id": "1PTLyE54UyxphMo43yaSc7",
+  "name": "Meditative Mind",
+  "followers": 156156,
+  "monthlyListeners": 340943,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 8200,
+        "region": "MH"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 7556,
+        "region": "KA"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 5979,
+        "region": "DL"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 5820,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 5761,
+        "region": "DL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

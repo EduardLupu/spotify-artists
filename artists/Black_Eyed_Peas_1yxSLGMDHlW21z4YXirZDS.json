@@ -1,0 +1,41 @@
+{
+  "id": "1yxSLGMDHlW21z4YXirZDS",
+  "name": "Black Eyed Peas",
+  "followers": 8395744,
+  "monthlyListeners": 42139185,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 643836,
+        "region": "SP"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 571432,
+        "region": "CMX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 571063,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 538435,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 488195,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 72
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2yp6zqk49KOKKrOSSsUb75",
+  "name": "TWICE",
+  "followers": 186625,
+  "monthlyListeners": 586526,
+  "topCities": {
+    "items": [
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 34244,
+        "region": "GU"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 29737,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 23744,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 18137,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 17328,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

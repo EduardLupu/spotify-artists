@@ -1,0 +1,41 @@
+{
+  "id": "45TgXXqMDdF8BkjA83OM7z",
+  "name": "Rod Wave",
+  "followers": 7777910,
+  "monthlyListeners": 6282794,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 143526,
+        "region": "IL"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 133147,
+        "region": "LA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 131347,
+        "region": "TX"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 127348,
+        "region": "GA"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 124890,
+        "region": "NC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

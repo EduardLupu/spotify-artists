@@ -1,0 +1,41 @@
+{
+  "id": "0LcJLqbBmaGUft1e9Mm8HV",
+  "name": "ABBA",
+  "followers": 12862967,
+  "monthlyListeners": 32562896,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 518608,
+        "region": "ENG"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 449865,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 387439,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 375750,
+        "region": "RM"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 360987,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 132
+}

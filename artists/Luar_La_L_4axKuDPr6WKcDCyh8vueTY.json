@@ -1,0 +1,41 @@
+{
+  "id": "4axKuDPr6WKcDCyh8vueTY",
+  "name": "Luar La L",
+  "followers": 1488846,
+  "monthlyListeners": 9099738,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 579545,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 391375,
+        "region": "DC"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 304781,
+        "region": "MD"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 282877,
+        "region": "LMA"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 233503,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

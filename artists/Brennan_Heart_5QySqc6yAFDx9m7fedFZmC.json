@@ -1,0 +1,41 @@
+{
+  "id": "5QySqc6yAFDx9m7fedFZmC",
+  "name": "Brennan Heart",
+  "followers": 314484,
+  "monthlyListeners": 2185874,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 135179,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 109783,
+        "region": "ZH"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 69035,
+        "region": "HH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 61514,
+        "region": "UT"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 49095,
+        "region": "BRU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

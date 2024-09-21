@@ -1,0 +1,41 @@
+{
+  "id": "6sBSLIunx1Je0Y2T77wpkP",
+  "name": "Motive",
+  "followers": 1496416,
+  "monthlyListeners": 2704031,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 977202,
+        "region": "34"
+      },
+      {
+        "city": "Ankara",
+        "country": "TR",
+        "numberOfListeners": 485934,
+        "region": "06"
+      },
+      {
+        "city": "Izmir",
+        "country": "TR",
+        "numberOfListeners": 372202,
+        "region": "35"
+      },
+      {
+        "city": "Bursa",
+        "country": "TR",
+        "numberOfListeners": 194587,
+        "region": "16"
+      },
+      {
+        "city": "Adana",
+        "country": "TR",
+        "numberOfListeners": 160568,
+        "region": "01"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3p7PcrEHaaKLJnPUGOtRlT",
+  "name": "Henrique & Juliano",
+  "followers": 23276888,
+  "monthlyListeners": 15661753,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 2723079,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 1094974,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 869801,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 841827,
+        "region": "PR"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 836394,
+        "region": "DF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

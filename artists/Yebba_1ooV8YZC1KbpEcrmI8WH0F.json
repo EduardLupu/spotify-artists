@@ -1,0 +1,41 @@
+{
+  "id": "1ooV8YZC1KbpEcrmI8WH0F",
+  "name": "Yebba",
+  "followers": 524984,
+  "monthlyListeners": 6173891,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 102564,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 82883,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 76749,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 73338,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 67531,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

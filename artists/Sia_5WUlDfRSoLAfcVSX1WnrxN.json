@@ -1,0 +1,41 @@
+{
+  "id": "5WUlDfRSoLAfcVSX1WnrxN",
+  "name": "Sia",
+  "followers": 28564539,
+  "monthlyListeners": 55135932,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1044429,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 667783,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 655356,
+        "region": "ENG"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 545246,
+        "region": "RM"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 543365,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 35
+}

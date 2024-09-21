@@ -1,0 +1,41 @@
+{
+  "id": "6LnJKrtFnTEGdbWQ2riWCL",
+  "name": "Ezhel",
+  "followers": 6226576,
+  "monthlyListeners": 4398565,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 1292692,
+        "region": "34"
+      },
+      {
+        "city": "Ankara",
+        "country": "TR",
+        "numberOfListeners": 650176,
+        "region": "06"
+      },
+      {
+        "city": "Izmir",
+        "country": "TR",
+        "numberOfListeners": 502245,
+        "region": "35"
+      },
+      {
+        "city": "Bursa",
+        "country": "TR",
+        "numberOfListeners": 248782,
+        "region": "16"
+      },
+      {
+        "city": "Adana",
+        "country": "TR",
+        "numberOfListeners": 201894,
+        "region": "01"
+      }
+    ]
+  },
+  "worldRank": 0
+}

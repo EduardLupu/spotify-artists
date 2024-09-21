@@ -1,0 +1,41 @@
+{
+  "id": "6veh5zbFpm31XsPdjBgPER",
+  "name": "BIA",
+  "followers": 595101,
+  "monthlyListeners": 5609841,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 91433,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 69505,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 68342,
+        "region": "HH"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 63574,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 61644,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

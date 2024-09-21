@@ -1,0 +1,41 @@
+{
+  "id": "1uU7g3DNSbsu0QjSEqZtEd",
+  "name": "Masked Wolf",
+  "followers": 747431,
+  "monthlyListeners": 5650109,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 87814,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 74180,
+        "region": "NSW"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 59367,
+        "region": "KA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 59344,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 59216,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

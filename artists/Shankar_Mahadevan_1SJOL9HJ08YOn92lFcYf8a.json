@@ -1,0 +1,41 @@
+{
+  "id": "1SJOL9HJ08YOn92lFcYf8a",
+  "name": "Shankar Mahadevan",
+  "followers": 10617940,
+  "monthlyListeners": 22598129,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 2351586,
+        "region": "TN"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 2224904,
+        "region": "MH"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 1835256,
+        "region": "TS"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1750130,
+        "region": "MH"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 1660100,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 285
+}

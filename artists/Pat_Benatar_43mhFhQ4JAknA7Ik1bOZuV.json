@@ -1,0 +1,41 @@
+{
+  "id": "43mhFhQ4JAknA7Ik1bOZuV",
+  "name": "Pat Benatar",
+  "followers": 1785019,
+  "monthlyListeners": 5367047,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 105619,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 95664,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 81857,
+        "region": "QLD"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 66417,
+        "region": "ENG"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 60106,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2T06whb4s6UiufL1j5Qtz9",
+  "name": "José Alfredo Jimenez",
+  "followers": 2218116,
+  "monthlyListeners": 3166019,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 299332,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 160274,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 125667,
+        "region": "QUE"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 121246,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 116401,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

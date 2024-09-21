@@ -1,0 +1,41 @@
+{
+  "id": "6twIAGnYuIT1pncMAsXnEm",
+  "name": "Commodores",
+  "followers": 1916649,
+  "monthlyListeners": 6972227,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 104688,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 102193,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 92878,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 74766,
+        "region": "NH"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 72519,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

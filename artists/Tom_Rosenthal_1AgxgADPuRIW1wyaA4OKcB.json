@@ -1,0 +1,41 @@
+{
+  "id": "1AgxgADPuRIW1wyaA4OKcB",
+  "name": "Tom Rosenthal",
+  "followers": 580939,
+  "monthlyListeners": 5807261,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 70355,
+        "region": "BE"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 61737,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 52248,
+        "region": "ENG"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 52157,
+        "region": "IDF"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 51681,
+        "region": "9"
+      }
+    ]
+  },
+  "worldRank": 0
+}

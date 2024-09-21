@@ -1,0 +1,41 @@
+{
+  "id": "4dM6NDYSfLcspt8GLoT5aE",
+  "name": "Hippie Sabotage",
+  "followers": 996182,
+  "monthlyListeners": 7075177,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 117859,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 85057,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 69951,
+        "region": "QLD"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 67171,
+        "region": "VIC"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 65499,
+        "region": "34"
+      }
+    ]
+  },
+  "worldRank": 0
+}

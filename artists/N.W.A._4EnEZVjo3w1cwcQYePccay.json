@@ -1,0 +1,41 @@
+{
+  "id": "4EnEZVjo3w1cwcQYePccay",
+  "name": "N.W.A.",
+  "followers": 5878686,
+  "monthlyListeners": 5511027,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 99742,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 94887,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 83909,
+        "region": "VIC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 78431,
+        "region": "CA"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 65332,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

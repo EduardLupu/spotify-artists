@@ -1,0 +1,41 @@
+{
+  "id": "0bBz5bRBkExaej2HxtVfCw",
+  "name": "347aidan",
+  "followers": 496583,
+  "monthlyListeners": 3870048,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 54021,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 44452,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 42383,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 38149,
+        "region": "IL"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 37621,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

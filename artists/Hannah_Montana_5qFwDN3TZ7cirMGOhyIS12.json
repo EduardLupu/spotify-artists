@@ -1,0 +1,41 @@
+{
+  "id": "5qFwDN3TZ7cirMGOhyIS12",
+  "name": "Hannah Montana",
+  "followers": 2980,
+  "monthlyListeners": 10719,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 753,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 631,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 370,
+        "region": "BY"
+      },
+      {
+        "city": "Cologne",
+        "country": "DE",
+        "numberOfListeners": 352,
+        "region": "NW"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 350,
+        "region": "HE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

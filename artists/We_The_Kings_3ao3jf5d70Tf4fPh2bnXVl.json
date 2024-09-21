@@ -1,0 +1,41 @@
+{
+  "id": "3ao3jf5d70Tf4fPh2bnXVl",
+  "name": "We The Kings",
+  "followers": 1277672,
+  "monthlyListeners": 3922179,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 83711,
+        "region": "JK"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 58342,
+        "region": "00"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 55431,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 55140,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 52463,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

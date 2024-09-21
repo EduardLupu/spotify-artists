@@ -1,0 +1,41 @@
+{
+  "id": "3AlRiyjMywTVNzTcHbf9QT",
+  "name": "Lil Kleine",
+  "followers": 1095504,
+  "monthlyListeners": 1963165,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 542778,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 439457,
+        "region": "ZH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 220036,
+        "region": "UT"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 123228,
+        "region": "BRU"
+      },
+      {
+        "city": "Amersfoort",
+        "country": "NL",
+        "numberOfListeners": 85875,
+        "region": "UT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

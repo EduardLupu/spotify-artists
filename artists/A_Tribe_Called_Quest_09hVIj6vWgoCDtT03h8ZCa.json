@@ -1,0 +1,41 @@
+{
+  "id": "09hVIj6vWgoCDtT03h8ZCa",
+  "name": "A Tribe Called Quest",
+  "followers": 2175350,
+  "monthlyListeners": 5055456,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 114541,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 98883,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 78059,
+        "region": "NY"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 76610,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 73336,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3k4YA0uPsWc2PuOQlJNpdH",
+  "name": "Hollywood Vampires",
+  "followers": 203439,
+  "monthlyListeners": 144744,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 2290,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1795,
+        "region": "SP"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 1771,
+        "region": "10"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 1583,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 1563,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

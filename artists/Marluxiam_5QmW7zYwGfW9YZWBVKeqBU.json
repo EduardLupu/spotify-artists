@@ -1,0 +1,41 @@
+{
+  "id": "5QmW7zYwGfW9YZWBVKeqBU",
+  "name": "Marluxiam",
+  "followers": 141110,
+  "monthlyListeners": 785032,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 8824,
+        "region": "JK"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 7868,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 7334,
+        "region": "IL"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 7127,
+        "region": "TX"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 7056,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

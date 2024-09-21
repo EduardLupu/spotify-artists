@@ -1,0 +1,41 @@
+{
+  "id": "3Oe9PeZLoQuF3ysW6UjJgn",
+  "name": "ELISA",
+  "followers": 24370,
+  "monthlyListeners": 51629,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 6798,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 2434,
+        "region": "27"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 1200,
+        "region": "13"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 1109,
+        "region": "TPE"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1092,
+        "region": "JK"
+      }
+    ]
+  },
+  "worldRank": 0
+}

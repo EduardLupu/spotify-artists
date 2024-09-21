@@ -1,0 +1,41 @@
+{
+  "id": "5QuiN2ovCC4NVGMSqSBia8",
+  "name": "J. Lock",
+  "followers": 5328,
+  "monthlyListeners": 2638,
+  "topCities": {
+    "items": [
+      {
+        "city": "Falkenstein",
+        "country": "DE",
+        "numberOfListeners": 134,
+        "region": "SN"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 81,
+        "region": "GA"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 59,
+        "region": "NC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 57,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 49,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

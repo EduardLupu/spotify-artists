@@ -1,0 +1,41 @@
+{
+  "id": "7uIbLdzzSEqnX0Pkrb56cR",
+  "name": "Yo Yo Honey Singh",
+  "followers": 20018372,
+  "monthlyListeners": 17458943,
+  "topCities": {
+    "items": [
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1587783,
+        "region": "DL"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1427445,
+        "region": "MH"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 1295420,
+        "region": "DL"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1220184,
+        "region": "MH"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 817458,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 458
+}

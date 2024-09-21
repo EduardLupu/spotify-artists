@@ -1,0 +1,41 @@
+{
+  "id": "3XxNRirzbjfLdDli06zMaB",
+  "name": "Eyedress",
+  "followers": 2149363,
+  "monthlyListeners": 16109630,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 233879,
+        "region": "JK"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 227325,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 152641,
+        "region": "IL"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 150630,
+        "region": "RM"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 141013,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "28AyklUmMECPwdfo8NEsV0",
+  "name": "Jimmy Buffett",
+  "followers": 1143158,
+  "monthlyListeners": 5835847,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 108629,
+        "region": "IL"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 95069,
+        "region": "NC"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 80359,
+        "region": "TX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 78841,
+        "region": "NSW"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 74623,
+        "region": "PA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

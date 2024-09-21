@@ -1,0 +1,41 @@
+{
+  "id": "6MWr1SmTaCU5BJzOZxwJEw",
+  "name": "Larry Fleet",
+  "followers": 140127,
+  "monthlyListeners": 1420004,
+  "topCities": {
+    "items": [
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 31742,
+        "region": "NC"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 27661,
+        "region": "TX"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 25889,
+        "region": "IL"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 24662,
+        "region": "GA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 22373,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

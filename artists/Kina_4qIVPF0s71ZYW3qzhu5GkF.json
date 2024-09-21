@@ -1,0 +1,41 @@
+{
+  "id": "4qIVPF0s71ZYW3qzhu5GkF",
+  "name": "Kina",
+  "followers": 841559,
+  "monthlyListeners": 6387974,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 101602,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 65641,
+        "region": "SP"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 57591,
+        "region": "KA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 57448,
+        "region": "NSW"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 56241,
+        "region": "LA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

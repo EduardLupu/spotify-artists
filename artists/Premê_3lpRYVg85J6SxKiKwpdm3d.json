@@ -1,0 +1,41 @@
+{
+  "id": "3lpRYVg85J6SxKiKwpdm3d",
+  "name": "Premê",
+  "followers": 2675,
+  "monthlyListeners": 5927,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1952,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 333,
+        "region": "RJ"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 280,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 228,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 193,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

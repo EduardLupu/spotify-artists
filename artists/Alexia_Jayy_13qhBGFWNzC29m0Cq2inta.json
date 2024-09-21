@@ -1,0 +1,41 @@
+{
+  "id": "13qhBGFWNzC29m0Cq2inta",
+  "name": "Alexia Jayy",
+  "followers": 13119,
+  "monthlyListeners": 42340,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 1403,
+        "region": "TX"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 1321,
+        "region": "GA"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 1164,
+        "region": "NC"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 1129,
+        "region": "TX"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 864,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

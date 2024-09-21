@@ -1,0 +1,41 @@
+{
+  "id": "7Ip2u3e5Nv6fFb5xyIHxEE",
+  "name": "DEV",
+  "followers": 252542,
+  "monthlyListeners": 652980,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 12734,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 10239,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 7568,
+        "region": "NY"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 7303,
+        "region": "34"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 7275,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

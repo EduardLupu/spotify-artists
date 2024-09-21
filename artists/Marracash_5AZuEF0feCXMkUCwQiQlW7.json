@@ -1,0 +1,41 @@
+{
+  "id": "5AZuEF0feCXMkUCwQiQlW7",
+  "name": "Marracash",
+  "followers": 2473032,
+  "monthlyListeners": 4759494,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 1242952,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 567272,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 262775,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 187679,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 141692,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

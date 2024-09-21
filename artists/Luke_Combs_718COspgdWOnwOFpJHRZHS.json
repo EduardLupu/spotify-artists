@@ -1,0 +1,41 @@
+{
+  "id": "718COspgdWOnwOFpJHRZHS",
+  "name": "Luke Combs",
+  "followers": 11381235,
+  "monthlyListeners": 30059856,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 679766,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 606081,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 548173,
+        "region": "TX"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 541990,
+        "region": "QLD"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 507623,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 158
+}

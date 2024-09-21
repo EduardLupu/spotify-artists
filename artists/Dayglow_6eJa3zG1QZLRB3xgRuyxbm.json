@@ -1,0 +1,41 @@
+{
+  "id": "6eJa3zG1QZLRB3xgRuyxbm",
+  "name": "Dayglow",
+  "followers": 1007571,
+  "monthlyListeners": 5405092,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 100463,
+        "region": "CMX"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 73932,
+        "region": "CA"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 66963,
+        "region": "LMA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 66197,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 56571,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

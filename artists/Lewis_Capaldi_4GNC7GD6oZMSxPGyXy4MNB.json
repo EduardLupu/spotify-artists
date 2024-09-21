@@ -1,0 +1,41 @@
+{
+  "id": "4GNC7GD6oZMSxPGyXy4MNB",
+  "name": "Lewis Capaldi",
+  "followers": 12797459,
+  "monthlyListeners": 32280185,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 803551,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 510695,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 430414,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 370203,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 363180,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 135
+}

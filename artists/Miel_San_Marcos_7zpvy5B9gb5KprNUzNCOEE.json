@@ -1,0 +1,41 @@
+{
+  "id": "7zpvy5B9gb5KprNUzNCOEE",
+  "name": "Miel San Marcos",
+  "followers": 1833908,
+  "monthlyListeners": 2197958,
+  "topCities": {
+    "items": [
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 146965,
+        "region": "GU"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 96377,
+        "region": "DC"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 79756,
+        "region": "01"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 71675,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 71112,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

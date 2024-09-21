@@ -1,0 +1,41 @@
+{
+  "id": "2ZviNqAuz3uO3j4wQ706PQ",
+  "name": "Meduza",
+  "followers": 175,
+  "monthlyListeners": 19,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 4,
+        "region": "CMX"
+      },
+      {
+        "city": "Venustiano Carranza",
+        "country": "MX",
+        "numberOfListeners": 3,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztacalco",
+        "country": "MX",
+        "numberOfListeners": 2,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 2,
+        "region": "CMX"
+      },
+      {
+        "city": "San Antonio",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

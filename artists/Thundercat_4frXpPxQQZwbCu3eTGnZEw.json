@@ -1,0 +1,41 @@
+{
+  "id": "4frXpPxQQZwbCu3eTGnZEw",
+  "name": "Thundercat",
+  "followers": 1376154,
+  "monthlyListeners": 11260787,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 312581,
+        "region": "JK"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 200355,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 152390,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 139595,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 135439,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

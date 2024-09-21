@@ -1,0 +1,41 @@
+{
+  "id": "3QLIkT4rD2FMusaqmkepbq",
+  "name": "Rachel Platten",
+  "followers": 927052,
+  "monthlyListeners": 4491022,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 106394,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 82118,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 69270,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 56503,
+        "region": "QLD"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 56035,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

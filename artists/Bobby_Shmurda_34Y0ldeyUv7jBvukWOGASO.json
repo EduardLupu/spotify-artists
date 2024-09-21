@@ -1,0 +1,41 @@
+{
+  "id": "34Y0ldeyUv7jBvukWOGASO",
+  "name": "Bobby Shmurda",
+  "followers": 1552165,
+  "monthlyListeners": 2106178,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 31742,
+        "region": "IL"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 30646,
+        "region": "ON"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 27441,
+        "region": "NSW"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 25820,
+        "region": "NY"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 25611,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

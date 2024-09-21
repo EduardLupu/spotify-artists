@@ -1,0 +1,41 @@
+{
+  "id": "4Tw2N3wdvJPGEU7JqMxFfE",
+  "name": "Eddie Money",
+  "followers": 910663,
+  "monthlyListeners": 2251862,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 40155,
+        "region": "IL"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 27719,
+        "region": "PA"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 27322,
+        "region": "ON"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 26428,
+        "region": "NY"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 25732,
+        "region": "NC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

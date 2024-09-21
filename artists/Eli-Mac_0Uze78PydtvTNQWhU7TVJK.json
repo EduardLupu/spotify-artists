@@ -1,0 +1,41 @@
+{
+  "id": "0Uze78PydtvTNQWhU7TVJK",
+  "name": "Eli-Mac",
+  "followers": 30180,
+  "monthlyListeners": 184647,
+  "topCities": {
+    "items": [
+      {
+        "city": "Honolulu",
+        "country": "US",
+        "numberOfListeners": 19303,
+        "region": "HI"
+      },
+      {
+        "city": "Auckland",
+        "country": "NZ",
+        "numberOfListeners": 14408,
+        "region": "AUK"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 5460,
+        "region": "CA"
+      },
+      {
+        "city": "Hamilton",
+        "country": "NZ",
+        "numberOfListeners": 5094,
+        "region": "WKO"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 3848,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

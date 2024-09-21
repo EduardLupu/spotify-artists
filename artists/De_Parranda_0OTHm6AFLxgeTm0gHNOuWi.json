@@ -1,0 +1,41 @@
+{
+  "id": "0OTHm6AFLxgeTm0gHNOuWi",
+  "name": "De Parranda",
+  "followers": 107066,
+  "monthlyListeners": 2244642,
+  "topCities": {
+    "items": [
+      {
+        "city": "Monterrey",
+        "country": "MX",
+        "numberOfListeners": 125822,
+        "region": "NLE"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 114833,
+        "region": "CMX"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 80714,
+        "region": "QUE"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 66214,
+        "region": "JAL"
+      },
+      {
+        "city": "San Nicolás de los Garza",
+        "country": "MX",
+        "numberOfListeners": 63855,
+        "region": "NLE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

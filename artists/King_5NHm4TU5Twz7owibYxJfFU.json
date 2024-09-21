@@ -1,0 +1,41 @@
+{
+  "id": "5NHm4TU5Twz7owibYxJfFU",
+  "name": "King",
+  "followers": 8764893,
+  "monthlyListeners": 9955029,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1041079,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 856980,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 778164,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 646674,
+        "region": "DL"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 508902,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

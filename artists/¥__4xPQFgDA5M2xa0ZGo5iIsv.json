@@ -1,0 +1,41 @@
+{
+  "id": "4xPQFgDA5M2xa0ZGo5iIsv",
+  "name": "¥$",
+  "followers": 786345,
+  "monthlyListeners": 17713826,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 253324,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 245888,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 245023,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 227030,
+        "region": "NY"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 222315,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 444
+}

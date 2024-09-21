@@ -1,0 +1,41 @@
+{
+  "id": "1F2v33FQTavJyaD7ZsyhdA",
+  "name": "Gülşen",
+  "followers": 1663801,
+  "monthlyListeners": 5757496,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 1958650,
+        "region": "34"
+      },
+      {
+        "city": "Ankara",
+        "country": "TR",
+        "numberOfListeners": 1063736,
+        "region": "06"
+      },
+      {
+        "city": "Izmir",
+        "country": "TR",
+        "numberOfListeners": 747541,
+        "region": "35"
+      },
+      {
+        "city": "Bursa",
+        "country": "TR",
+        "numberOfListeners": 398697,
+        "region": "16"
+      },
+      {
+        "city": "Adana",
+        "country": "TR",
+        "numberOfListeners": 328201,
+        "region": "01"
+      }
+    ]
+  },
+  "worldRank": 0
+}

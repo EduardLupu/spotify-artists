@@ -1,0 +1,41 @@
+{
+  "id": "48HORs6F9P7IgdyKrk4MZC",
+  "name": "Tarcísio do Acordeon",
+  "followers": 5909365,
+  "monthlyListeners": 4789785,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 641196,
+        "region": "SP"
+      },
+      {
+        "city": "Fortaleza",
+        "country": "BR",
+        "numberOfListeners": 236849,
+        "region": "CE"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 202497,
+        "region": "MG"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 198611,
+        "region": "RJ"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 190750,
+        "region": "DF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

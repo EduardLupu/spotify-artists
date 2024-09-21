@@ -1,0 +1,41 @@
+{
+  "id": "2KC9Qb60EaY0kW4eH68vr3",
+  "name": "ITZY",
+  "followers": 7615164,
+  "monthlyListeners": 4556187,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 225701,
+        "region": "JK"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 111893,
+        "region": "13"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 78590,
+        "region": "14"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 75725,
+        "region": ""
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 67509,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

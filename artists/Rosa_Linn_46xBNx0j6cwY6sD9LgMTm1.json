@@ -1,0 +1,41 @@
+{
+  "id": "46xBNx0j6cwY6sD9LgMTm1",
+  "name": "Rosa Linn",
+  "followers": 394468,
+  "monthlyListeners": 10320637,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 326464,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 165487,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 96263,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 91901,
+        "region": "NSW"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 83512,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0ICDrTxXsdPG2nopFWSRyI",
+  "name": "Estación Cero",
+  "followers": 21941,
+  "monthlyListeners": 57357,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 5329,
+        "region": "DC"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 3711,
+        "region": "GU"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 1895,
+        "region": "LMA"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 1730,
+        "region": "ANT"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 1655,
+        "region": "01"
+      }
+    ]
+  },
+  "worldRank": 0
+}

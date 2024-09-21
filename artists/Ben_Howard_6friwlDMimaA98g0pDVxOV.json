@@ -1,0 +1,41 @@
+{
+  "id": "6friwlDMimaA98g0pDVxOV",
+  "name": "Ben Howard",
+  "followers": 1184,
+  "monthlyListeners": 2598,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 82,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 43,
+        "region": "NSW"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 41,
+        "region": "BE"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 36,
+        "region": "NH"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 33,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5yG7ZAZafVaAlMTeBybKAL",
+  "name": "Iggy Azalea",
+  "followers": 6596212,
+  "monthlyListeners": 7323311,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 110908,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 95043,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 90399,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 88099,
+        "region": "SP"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 79696,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

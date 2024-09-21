@@ -1,0 +1,41 @@
+{
+  "id": "7j5TRVA8wsBe6XYz63KI4J",
+  "name": "Nitro",
+  "followers": 22,
+  "monthlyListeners": 17,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 10,
+        "region": "LMA"
+      },
+      {
+        "city": "Juliaca",
+        "country": "PE",
+        "numberOfListeners": 1,
+        "region": "PUN"
+      },
+      {
+        "city": "Arequipa",
+        "country": "PE",
+        "numberOfListeners": 1,
+        "region": "ARE"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "AZ"
+      },
+      {
+        "city": "Montesilvano Marina",
+        "country": "IT",
+        "numberOfListeners": 1,
+        "region": "65"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3WrYZkoJFRNZ5BMk572Vmo",
+  "name": "Majestic",
+  "followers": 74,
+  "monthlyListeners": 28,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 2,
+        "region": "C"
+      },
+      {
+        "city": "Santa Coloma de Gramenet",
+        "country": "ES",
+        "numberOfListeners": 1,
+        "region": "CT"
+      },
+      {
+        "city": "Antofagasta",
+        "country": "CL",
+        "numberOfListeners": 1,
+        "region": "AN"
+      },
+      {
+        "city": "Talca",
+        "country": "CL",
+        "numberOfListeners": 1,
+        "region": "ML"
+      },
+      {
+        "city": "Temuco",
+        "country": "CL",
+        "numberOfListeners": 1,
+        "region": "AR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

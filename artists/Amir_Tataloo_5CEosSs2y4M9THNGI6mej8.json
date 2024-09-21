@@ -1,0 +1,41 @@
+{
+  "id": "5CEosSs2y4M9THNGI6mej8",
+  "name": "Amir Tataloo",
+  "followers": 562372,
+  "monthlyListeners": 182271,
+  "topCities": {
+    "items": [
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 20091,
+        "region": "HE"
+      },
+      {
+        "city": "Nuremberg",
+        "country": "DE",
+        "numberOfListeners": 16065,
+        "region": "BY"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 9485,
+        "region": "AB"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 8827,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 8732,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

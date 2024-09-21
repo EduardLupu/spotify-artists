@@ -1,0 +1,41 @@
+{
+  "id": "1FAB3UrAYieEyevyoa3gdn",
+  "name": "Alida",
+  "followers": 279,
+  "monthlyListeners": 5454,
+  "topCities": {
+    "items": [
+      {
+        "city": "Pristina",
+        "country": "XK",
+        "numberOfListeners": 219,
+        "region": ""
+      },
+      {
+        "city": "Zurich",
+        "country": "CH",
+        "numberOfListeners": 207,
+        "region": "ZH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 142,
+        "region": "BY"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 138,
+        "region": "HE"
+      },
+      {
+        "city": "Tirana",
+        "country": "AL",
+        "numberOfListeners": 134,
+        "region": "11"
+      }
+    ]
+  },
+  "worldRank": 0
+}

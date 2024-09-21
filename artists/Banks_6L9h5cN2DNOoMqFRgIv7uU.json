@@ -1,0 +1,41 @@
+{
+  "id": "6L9h5cN2DNOoMqFRgIv7uU",
+  "name": "Banks",
+  "followers": 3253,
+  "monthlyListeners": 1076069,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 10429,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 9754,
+        "region": "VIC"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 9230,
+        "region": ""
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 8409,
+        "region": "CA"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 8196,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

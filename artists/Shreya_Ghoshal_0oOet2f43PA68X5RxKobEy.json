@@ -1,0 +1,41 @@
+{
+  "id": "0oOet2f43PA68X5RxKobEy",
+  "name": "Shreya Ghoshal",
+  "followers": 26113327,
+  "monthlyListeners": 37648411,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 3514688,
+        "region": "MH"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 2848362,
+        "region": "TS"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 2827817,
+        "region": "MH"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 2647643,
+        "region": "KA"
+      },
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 2418472,
+        "region": "TN"
+      }
+    ]
+  },
+  "worldRank": 92
+}

@@ -1,0 +1,41 @@
+{
+  "id": "57dN52uHvrHOxijzpIgu3E",
+  "name": "Ratatat",
+  "followers": 595034,
+  "monthlyListeners": 517372,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 11578,
+        "region": "IDF"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 7986,
+        "region": "CA"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 7916,
+        "region": "WA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 7531,
+        "region": "NY"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 7493,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

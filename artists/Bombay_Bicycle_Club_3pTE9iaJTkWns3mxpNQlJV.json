@@ -1,0 +1,41 @@
+{
+  "id": "3pTE9iaJTkWns3mxpNQlJV",
+  "name": "Bombay Bicycle Club",
+  "followers": 873705,
+  "monthlyListeners": 1270793,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 81841,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 25362,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 23601,
+        "region": "NSW"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 22971,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 22247,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

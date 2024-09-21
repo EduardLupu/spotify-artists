@@ -1,0 +1,41 @@
+{
+  "id": "2iM28IgKg89v1o7BTQAVPo",
+  "name": "Bruce Hornsby",
+  "followers": 411150,
+  "monthlyListeners": 211677,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 4621,
+        "region": "SP"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 2717,
+        "region": "BE"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 2501,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 2303,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 2281,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3wcj11K77LjEY1PkEazffa",
+  "name": "Burna Boy",
+  "followers": 10116991,
+  "monthlyListeners": 24057543,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 778149,
+        "region": "LA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 756156,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 472159,
+        "region": "NH"
+      },
+      {
+        "city": "Abuja",
+        "country": "NG",
+        "numberOfListeners": 371568,
+        "region": "FC"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 366005,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 244
+}

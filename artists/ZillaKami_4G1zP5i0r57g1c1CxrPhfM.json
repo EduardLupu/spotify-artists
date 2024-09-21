@@ -1,0 +1,41 @@
+{
+  "id": "4G1zP5i0r57g1c1CxrPhfM",
+  "name": "ZillaKami",
+  "followers": 563046,
+  "monthlyListeners": 1706060,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 30182,
+        "region": "IL"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 26411,
+        "region": "AZ"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 25069,
+        "region": "TX"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 24661,
+        "region": "CO"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 23518,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

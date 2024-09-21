@@ -1,0 +1,41 @@
+{
+  "id": "0MCKu8qoi4BbbnkwhdDoW0",
+  "name": "legado",
+  "followers": 1413,
+  "monthlyListeners": 3590,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 965,
+        "region": "DC"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 544,
+        "region": "ANT"
+      },
+      {
+        "city": "Santiago de Cali",
+        "country": "CO",
+        "numberOfListeners": 299,
+        "region": "VAC"
+      },
+      {
+        "city": "Barranquilla",
+        "country": "CO",
+        "numberOfListeners": 187,
+        "region": "ATL"
+      },
+      {
+        "city": "Bucaramanga",
+        "country": "CO",
+        "numberOfListeners": 112,
+        "region": "SAN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

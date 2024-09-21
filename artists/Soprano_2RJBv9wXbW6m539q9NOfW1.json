@@ -1,0 +1,41 @@
+{
+  "id": "2RJBv9wXbW6m539q9NOfW1",
+  "name": "Soprano",
+  "followers": 3491106,
+  "monthlyListeners": 2816587,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 427127,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 122772,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 97888,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 74490,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 73561,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

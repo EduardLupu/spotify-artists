@@ -1,0 +1,41 @@
+{
+  "id": "3CygdxquGHurS7f9LjNLkv",
+  "name": "Little Big Town",
+  "followers": 2803443,
+  "monthlyListeners": 3851892,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 75473,
+        "region": "IL"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 58785,
+        "region": "NC"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 57435,
+        "region": "TX"
+      },
+      {
+        "city": "Minneapolis",
+        "country": "US",
+        "numberOfListeners": 53250,
+        "region": "MN"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 51457,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

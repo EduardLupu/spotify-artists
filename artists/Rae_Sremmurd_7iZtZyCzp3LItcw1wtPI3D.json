@@ -1,0 +1,41 @@
+{
+  "id": "7iZtZyCzp3LItcw1wtPI3D",
+  "name": "Rae Sremmurd",
+  "followers": 7465817,
+  "monthlyListeners": 11743712,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 161797,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 145376,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 134937,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 129305,
+        "region": "ENG"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 125405,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

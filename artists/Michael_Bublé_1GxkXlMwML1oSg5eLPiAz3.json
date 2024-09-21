@@ -1,0 +1,41 @@
+{
+  "id": "1GxkXlMwML1oSg5eLPiAz3",
+  "name": "Michael Bublé",
+  "followers": 6383503,
+  "monthlyListeners": 16125433,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 306837,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 202681,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 188563,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 181404,
+        "region": "ENG"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 177882,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

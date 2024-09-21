@@ -1,0 +1,41 @@
+{
+  "id": "4Kxlr1PRlDKEB0ekOCyHgX",
+  "name": "BIGBANG",
+  "followers": 4916332,
+  "monthlyListeners": 3188121,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 173375,
+        "region": "JK"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 146289,
+        "region": "14"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 129767,
+        "region": "13"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 95271,
+        "region": ""
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 67924,
+        "region": "TPE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

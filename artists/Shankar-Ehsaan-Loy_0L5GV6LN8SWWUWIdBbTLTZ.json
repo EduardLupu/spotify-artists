@@ -1,0 +1,41 @@
+{
+  "id": "0L5GV6LN8SWWUWIdBbTLTZ",
+  "name": "Shankar-Ehsaan-Loy",
+  "followers": 6159027,
+  "monthlyListeners": 19784915,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 2196035,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1918089,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1429911,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 1195520,
+        "region": "DL"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 1039475,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 368
+}

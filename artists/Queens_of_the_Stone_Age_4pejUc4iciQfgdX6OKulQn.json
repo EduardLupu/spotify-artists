@@ -1,0 +1,41 @@
+{
+  "id": "4pejUc4iciQfgdX6OKulQn",
+  "name": "Queens of the Stone Age",
+  "followers": 3579952,
+  "monthlyListeners": 6437881,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 144713,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 112049,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 104473,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 99107,
+        "region": "RM"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 98654,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

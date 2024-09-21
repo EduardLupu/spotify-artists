@@ -1,0 +1,41 @@
+{
+  "id": "268eXUpq5JYD2KAf8kO6UG",
+  "name": "OH!",
+  "followers": 535,
+  "monthlyListeners": 1002,
+  "topCities": {
+    "items": [
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 124,
+        "region": "AB"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 85,
+        "region": "CA"
+      },
+      {
+        "city": "Tower Hamlets",
+        "country": "GB",
+        "numberOfListeners": 72,
+        "region": "ENG"
+      },
+      {
+        "city": "Bern",
+        "country": "CH",
+        "numberOfListeners": 71,
+        "region": "BE"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 63,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

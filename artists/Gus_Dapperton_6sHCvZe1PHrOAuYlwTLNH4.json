@@ -1,0 +1,41 @@
+{
+  "id": "6sHCvZe1PHrOAuYlwTLNH4",
+  "name": "Gus Dapperton",
+  "followers": 498710,
+  "monthlyListeners": 1044744,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 20704,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 16785,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 16741,
+        "region": "NY"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 14344,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 13275,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

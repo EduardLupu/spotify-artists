@@ -1,0 +1,41 @@
+{
+  "id": "6zFYqv1mOsgBRQbae3JJ9e",
+  "name": "Billy Joel",
+  "followers": 6258159,
+  "monthlyListeners": 25461778,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 438712,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 437353,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 373376,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 302505,
+        "region": "QLD"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 272423,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 214
+}

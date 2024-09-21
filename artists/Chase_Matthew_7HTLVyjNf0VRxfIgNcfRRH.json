@@ -1,0 +1,41 @@
+{
+  "id": "7HTLVyjNf0VRxfIgNcfRRH",
+  "name": "Chase Matthew",
+  "followers": 317581,
+  "monthlyListeners": 4698498,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 96266,
+        "region": "IL"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 80000,
+        "region": "NC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 76418,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 71103,
+        "region": "QLD"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 70737,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

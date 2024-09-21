@@ -1,0 +1,41 @@
+{
+  "id": "5Fojssd52d0TscSBqNmSzN",
+  "name": "Kilo",
+  "followers": 69,
+  "monthlyListeners": 50,
+  "topCities": {
+    "items": [
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 12,
+        "region": "GA"
+      },
+      {
+        "city": "Cumming",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "GA"
+      },
+      {
+        "city": "Stone Mountain",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "GA"
+      },
+      {
+        "city": "Monrovia",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "CA"
+      },
+      {
+        "city": "Bluffton",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "SC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6fOMl44jA4Sp5b9PpYCkzz",
+  "name": "NF",
+  "followers": 10253396,
+  "monthlyListeners": 13770266,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 191224,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 171359,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 159333,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 150038,
+        "region": "IL"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 145418,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2tkk5VxtMZEjPTKyi9OX1c",
+  "name": "ZOĒ",
+  "followers": 612,
+  "monthlyListeners": 6900,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 907,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 327,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 252,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 237,
+        "region": "ENG"
+      },
+      {
+        "city": "Tower Hamlets",
+        "country": "GB",
+        "numberOfListeners": 144,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

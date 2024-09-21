@@ -1,0 +1,41 @@
+{
+  "id": "09UmIX92EUH9hAK4bxvHx6",
+  "name": "Mithoon",
+  "followers": 9289007,
+  "monthlyListeners": 19979445,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1818003,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1627932,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1374145,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 1104108,
+        "region": "DL"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 1089968,
+        "region": "WB"
+      }
+    ]
+  },
+  "worldRank": 361
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2qAGJSFnMakCwnxL9Gucs1",
+  "name": "Leon",
+  "followers": 57,
+  "monthlyListeners": 79,
+  "topCities": {
+    "items": [
+      {
+        "city": "Rio Branco",
+        "country": "BR",
+        "numberOfListeners": 45,
+        "region": "AC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 7,
+        "region": "SP"
+      },
+      {
+        "city": "Manaus",
+        "country": "BR",
+        "numberOfListeners": 5,
+        "region": "AM"
+      },
+      {
+        "city": "Porto Velho",
+        "country": "BR",
+        "numberOfListeners": 5,
+        "region": "RO"
+      },
+      {
+        "city": "Palhoça",
+        "country": "BR",
+        "numberOfListeners": 3,
+        "region": "SC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

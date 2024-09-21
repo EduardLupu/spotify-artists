@@ -1,0 +1,41 @@
+{
+  "id": "1wiBLzTI7z9RUwEpNPdFT6",
+  "name": "Mase",
+  "followers": 835874,
+  "monthlyListeners": 2355168,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 57770,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 47615,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 38507,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 38251,
+        "region": "QLD"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 36696,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

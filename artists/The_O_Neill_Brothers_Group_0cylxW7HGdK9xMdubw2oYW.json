@@ -1,0 +1,41 @@
+{
+  "id": "0cylxW7HGdK9xMdubw2oYW",
+  "name": "The O'Neill Brothers Group",
+  "followers": 22783,
+  "monthlyListeners": 857746,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 10916,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 9104,
+        "region": "NSW"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 8706,
+        "region": ""
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 8052,
+        "region": "JK"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 7380,
+        "region": "00"
+      }
+    ]
+  },
+  "worldRank": 0
+}

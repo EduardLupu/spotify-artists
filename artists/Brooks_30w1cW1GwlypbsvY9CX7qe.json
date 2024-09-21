@@ -1,0 +1,41 @@
+{
+  "id": "30w1cW1GwlypbsvY9CX7qe",
+  "name": "Brooks",
+  "followers": 1672,
+  "monthlyListeners": 1537,
+  "topCities": {
+    "items": [
+      {
+        "city": "Detroit",
+        "country": "US",
+        "numberOfListeners": 75,
+        "region": "MI"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 58,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 51,
+        "region": "CA"
+      },
+      {
+        "city": "Columbus",
+        "country": "US",
+        "numberOfListeners": 31,
+        "region": "OH"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 28,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

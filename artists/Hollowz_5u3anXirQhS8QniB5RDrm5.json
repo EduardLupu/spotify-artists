@@ -1,0 +1,41 @@
+{
+  "id": "5u3anXirQhS8QniB5RDrm5",
+  "name": "Hollowz",
+  "followers": 676,
+  "monthlyListeners": 5530,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 48,
+        "region": "14"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 44,
+        "region": "IL"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 43,
+        "region": "BE"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 42,
+        "region": "ENG"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 42,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

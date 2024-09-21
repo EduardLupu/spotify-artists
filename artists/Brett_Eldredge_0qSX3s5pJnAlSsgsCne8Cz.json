@@ -1,0 +1,41 @@
+{
+  "id": "0qSX3s5pJnAlSsgsCne8Cz",
+  "name": "Brett Eldredge",
+  "followers": 1473076,
+  "monthlyListeners": 2007433,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 38680,
+        "region": "IL"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 28135,
+        "region": "NC"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 25499,
+        "region": "TX"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 24509,
+        "region": "PA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 24408,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

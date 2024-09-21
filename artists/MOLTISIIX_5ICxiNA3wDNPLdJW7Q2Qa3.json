@@ -1,0 +1,41 @@
+{
+  "id": "5ICxiNA3wDNPLdJW7Q2Qa3",
+  "name": "MOLTISIIX",
+  "followers": 17,
+  "monthlyListeners": 17,
+  "topCities": {
+    "items": [
+      {
+        "city": "Manaus",
+        "country": "BR",
+        "numberOfListeners": 2,
+        "region": "AM"
+      },
+      {
+        "city": "Boise",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "ID"
+      },
+      {
+        "city": "Oaxaca City",
+        "country": "MX",
+        "numberOfListeners": 1,
+        "region": "OAX"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 1,
+        "region": "21"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

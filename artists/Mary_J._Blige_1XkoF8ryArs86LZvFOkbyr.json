@@ -1,0 +1,41 @@
+{
+  "id": "1XkoF8ryArs86LZvFOkbyr",
+  "name": "Mary J. Blige",
+  "followers": 3925461,
+  "monthlyListeners": 11533133,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 238310,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 209823,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 163181,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 128839,
+        "region": "VIC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 126353,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4jwROPSUkTkohLCRiyjiZZ",
+  "name": "DESTIN CONRAD",
+  "followers": 149903,
+  "monthlyListeners": 901184,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 25327,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 19875,
+        "region": "CA"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 16325,
+        "region": "GP"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 15681,
+        "region": "GA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 13679,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

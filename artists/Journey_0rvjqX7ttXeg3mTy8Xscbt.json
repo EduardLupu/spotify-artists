@@ -1,0 +1,41 @@
+{
+  "id": "0rvjqX7ttXeg3mTy8Xscbt",
+  "name": "Journey",
+  "followers": 5688835,
+  "monthlyListeners": 24884437,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 409707,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 343467,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 331907,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 291393,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 284709,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 227
+}

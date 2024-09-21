@@ -1,0 +1,41 @@
+{
+  "id": "1yO2jcxDN0jGO6aaSGvYSj",
+  "name": "SHIVA",
+  "followers": 4324,
+  "monthlyListeners": 5358,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 77,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 66,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 62,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 59,
+        "region": "IL"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 51,
+        "region": "AZ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

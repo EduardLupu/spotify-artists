@@ -1,0 +1,41 @@
+{
+  "id": "2WjvvwAX0mdWwq3aFuUdtc",
+  "name": "Rebelution",
+  "followers": 856598,
+  "monthlyListeners": 1769845,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 60711,
+        "region": "CA"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 42806,
+        "region": "JK"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 36431,
+        "region": "AZ"
+      },
+      {
+        "city": "San Diego",
+        "country": "US",
+        "numberOfListeners": 35270,
+        "region": "CA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 33714,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

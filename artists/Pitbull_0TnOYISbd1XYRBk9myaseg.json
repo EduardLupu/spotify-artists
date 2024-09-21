@@ -1,0 +1,41 @@
+{
+  "id": "0TnOYISbd1XYRBk9myaseg",
+  "name": "Pitbull",
+  "followers": 10765904,
+  "monthlyListeners": 47229098,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 553620,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 531942,
+        "region": "ENG"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 529054,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 517803,
+        "region": "RM"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 456313,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 55
+}

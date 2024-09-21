@@ -1,0 +1,41 @@
+{
+  "id": "6mEQK9m2krja6X1cfsAjfl",
+  "name": "Ado",
+  "followers": 4958390,
+  "monthlyListeners": 5574225,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 713286,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 288700,
+        "region": "27"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 129426,
+        "region": "13"
+      },
+      {
+        "city": "Nagoya",
+        "country": "JP",
+        "numberOfListeners": 99653,
+        "region": "23"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 93853,
+        "region": "JK"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6ixeVIzszYpHksgu8wX6Zs",
+  "name": "Bmayzee",
+  "followers": 16454,
+  "monthlyListeners": 11685,
+  "topCities": {
+    "items": [
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 205,
+        "region": "CO"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 187,
+        "region": "IL"
+      },
+      {
+        "city": "Calgary",
+        "country": "CA",
+        "numberOfListeners": 179,
+        "region": "AB"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 161,
+        "region": "NSW"
+      },
+      {
+        "city": "Minneapolis",
+        "country": "US",
+        "numberOfListeners": 158,
+        "region": "MN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

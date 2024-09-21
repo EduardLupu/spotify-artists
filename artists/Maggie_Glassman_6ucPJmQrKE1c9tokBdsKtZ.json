@@ -1,0 +1,41 @@
+{
+  "id": "6ucPJmQrKE1c9tokBdsKtZ",
+  "name": "Maggie Glassman",
+  "followers": 729,
+  "monthlyListeners": 316,
+  "topCities": {
+    "items": [
+      {
+        "city": "Ankara",
+        "country": "TR",
+        "numberOfListeners": 12,
+        "region": "06"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 10,
+        "region": "34"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 5,
+        "region": "MG"
+      },
+      {
+        "city": "Izmir",
+        "country": "TR",
+        "numberOfListeners": 5,
+        "region": "35"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 4,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

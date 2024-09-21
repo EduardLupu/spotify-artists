@@ -1,0 +1,41 @@
+{
+  "id": "3nuc29fYGlQbIrwh4yrNWd",
+  "name": "Lake Street Dive",
+  "followers": 611806,
+  "monthlyListeners": 3222064,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 75092,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 58426,
+        "region": "IL"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 52980,
+        "region": "CO"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 49046,
+        "region": "WA"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 48332,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

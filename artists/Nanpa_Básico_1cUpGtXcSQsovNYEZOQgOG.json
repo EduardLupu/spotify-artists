@@ -1,0 +1,41 @@
+{
+  "id": "1cUpGtXcSQsovNYEZOQgOG",
+  "name": "Nanpa Básico",
+  "followers": 2643539,
+  "monthlyListeners": 11549893,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1077300,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 658514,
+        "region": "CMX"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 503244,
+        "region": "ANT"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 426123,
+        "region": "LMA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 410242,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

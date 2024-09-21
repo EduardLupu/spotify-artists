@@ -1,0 +1,41 @@
+{
+  "id": "0dlOr0VIysztGWvU1dpjmP",
+  "name": "Natalie Imbruglia",
+  "followers": 1031412,
+  "monthlyListeners": 10517438,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 210964,
+        "region": "RM"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 171736,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 167506,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 165650,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 150676,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

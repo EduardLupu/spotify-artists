@@ -1,0 +1,41 @@
+{
+  "id": "4fEkbug6kZzzJ8eYX6Kbbp",
+  "name": "KK",
+  "followers": 18692349,
+  "monthlyListeners": 23138888,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 2047827,
+        "region": "MH"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 1939327,
+        "region": "TS"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1740674,
+        "region": "MH"
+      },
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 1463823,
+        "region": "TN"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1443315,
+        "region": "DL"
+      }
+    ]
+  },
+  "worldRank": 264
+}

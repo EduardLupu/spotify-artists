@@ -1,0 +1,41 @@
+{
+  "id": "4IsTqAm3Q0LnbSwSimAcnw",
+  "name": "eden",
+  "followers": 1432,
+  "monthlyListeners": 21193,
+  "topCities": {
+    "items": [
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 4864,
+        "region": "AB"
+      },
+      {
+        "city": "Gothenburg",
+        "country": "SE",
+        "numberOfListeners": 2255,
+        "region": "O"
+      },
+      {
+        "city": "Malmo",
+        "country": "SE",
+        "numberOfListeners": 1408,
+        "region": "M"
+      },
+      {
+        "city": "Uppsala",
+        "country": "SE",
+        "numberOfListeners": 463,
+        "region": "C"
+      },
+      {
+        "city": "Umeå",
+        "country": "SE",
+        "numberOfListeners": 372,
+        "region": "AC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

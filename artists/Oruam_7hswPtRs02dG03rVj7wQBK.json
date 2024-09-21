@@ -1,0 +1,41 @@
+{
+  "id": "7hswPtRs02dG03rVj7wQBK",
+  "name": "Oruam",
+  "followers": 1400,
+  "monthlyListeners": 99951,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 3886,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 2592,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 2252,
+        "region": "BY"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 1960,
+        "region": "HE"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 1876,
+        "region": "9"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5gOJTI4TusSENizxhcG7jB",
+  "name": "David Bisbal",
+  "followers": 4601447,
+  "monthlyListeners": 7656738,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 393938,
+        "region": "MD"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 363166,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 315266,
+        "region": "C"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 224549,
+        "region": "CT"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 216967,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

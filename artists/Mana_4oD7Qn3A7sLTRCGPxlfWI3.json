@@ -1,0 +1,41 @@
+{
+  "id": "4oD7Qn3A7sLTRCGPxlfWI3",
+  "name": "Mana",
+  "followers": 3221,
+  "monthlyListeners": 424,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 33,
+        "region": "IDF"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 17,
+        "region": "QC"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 12,
+        "region": "ARA"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 12,
+        "region": "BRU"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 9,
+        "region": "HDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1XpDYCrUJnvCo9Ez6yeMWh",
+  "name": "Tenacious D",
+  "followers": 1835775,
+  "monthlyListeners": 3392275,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 77251,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 61566,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 57528,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 49714,
+        "region": "QLD"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 31934,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

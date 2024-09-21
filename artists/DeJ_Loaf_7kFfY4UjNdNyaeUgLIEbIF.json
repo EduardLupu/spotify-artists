@@ -1,0 +1,41 @@
+{
+  "id": "7kFfY4UjNdNyaeUgLIEbIF",
+  "name": "DeJ Loaf",
+  "followers": 1832736,
+  "monthlyListeners": 4513209,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 79184,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 70272,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 66373,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 59486,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 57156,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

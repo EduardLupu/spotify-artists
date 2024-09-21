@@ -1,0 +1,41 @@
+{
+  "id": "0otERMywEzFqwodgw6mLld",
+  "name": "Hermanos Vega De Ramon Vega",
+  "followers": 12951,
+  "monthlyListeners": 129572,
+  "topCities": {
+    "items": [
+      {
+        "city": "Hermosillo",
+        "country": "MX",
+        "numberOfListeners": 14676,
+        "region": "SON"
+      },
+      {
+        "city": "Culiacán",
+        "country": "MX",
+        "numberOfListeners": 12224,
+        "region": "SIN"
+      },
+      {
+        "city": "Tijuana",
+        "country": "MX",
+        "numberOfListeners": 10718,
+        "region": "BCN"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 5914,
+        "region": "CMX"
+      },
+      {
+        "city": "Unión de Crédito Agrícola de Hermosillo",
+        "country": "MX",
+        "numberOfListeners": 4558,
+        "region": "SON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

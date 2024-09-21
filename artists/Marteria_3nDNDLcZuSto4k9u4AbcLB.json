@@ -1,0 +1,41 @@
+{
+  "id": "3nDNDLcZuSto4k9u4AbcLB",
+  "name": "Marteria",
+  "followers": 846417,
+  "monthlyListeners": 1670701,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 165280,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 115897,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 99015,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 92906,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 72113,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

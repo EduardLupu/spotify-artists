@@ -1,0 +1,41 @@
+{
+  "id": "6nzxy2wXs6tLgzEtqOkEi2",
+  "name": "Monica",
+  "followers": 2618592,
+  "monthlyListeners": 5753244,
+  "topCities": {
+    "items": [
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 102168,
+        "region": "GP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 84498,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 80530,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 74276,
+        "region": "CA"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 68035,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

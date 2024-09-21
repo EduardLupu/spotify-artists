@@ -1,0 +1,41 @@
+{
+  "id": "1VF2jmv5aWGszBtIVPt2fT",
+  "name": "Shoby",
+  "followers": 12548,
+  "monthlyListeners": 1077454,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 18219,
+        "region": "SP"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 17497,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 10666,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 10425,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 10177,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

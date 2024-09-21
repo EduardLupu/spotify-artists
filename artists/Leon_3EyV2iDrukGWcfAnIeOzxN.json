@@ -1,0 +1,41 @@
+{
+  "id": "3EyV2iDrukGWcfAnIeOzxN",
+  "name": "Leon",
+  "followers": 5926,
+  "monthlyListeners": 18905,
+  "topCities": {
+    "items": [
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 1879,
+        "region": "9"
+      },
+      {
+        "city": "Belgrade",
+        "country": "RS",
+        "numberOfListeners": 1613,
+        "region": "00"
+      },
+      {
+        "city": "Zagreb",
+        "country": "HR",
+        "numberOfListeners": 1525,
+        "region": "21"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 667,
+        "region": "BY"
+      },
+      {
+        "city": "Sarajevo",
+        "country": "BA",
+        "numberOfListeners": 557,
+        "region": "BIH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

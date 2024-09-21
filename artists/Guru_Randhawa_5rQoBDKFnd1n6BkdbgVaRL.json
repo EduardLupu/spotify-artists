@@ -1,0 +1,41 @@
+{
+  "id": "5rQoBDKFnd1n6BkdbgVaRL",
+  "name": "Guru Randhawa",
+  "followers": 20096587,
+  "monthlyListeners": 9572794,
+  "topCities": {
+    "items": [
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 756726,
+        "region": "DL"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 635784,
+        "region": "MH"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 607633,
+        "region": "DL"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 580122,
+        "region": "MH"
+      },
+      {
+        "city": "Jaipur",
+        "country": "IN",
+        "numberOfListeners": 421237,
+        "region": "RJ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

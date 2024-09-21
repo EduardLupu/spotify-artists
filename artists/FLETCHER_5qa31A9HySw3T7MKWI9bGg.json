@@ -1,0 +1,41 @@
+{
+  "id": "5qa31A9HySw3T7MKWI9bGg",
+  "name": "FLETCHER",
+  "followers": 949866,
+  "monthlyListeners": 2253636,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 39587,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 37673,
+        "region": "NY"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 37231,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 35108,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 32813,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

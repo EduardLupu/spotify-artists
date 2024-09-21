@@ -1,0 +1,41 @@
+{
+  "id": "3TNt4aUIxgfy9aoaft5Jj2",
+  "name": "Yeah Yeah Yeahs",
+  "followers": 1331091,
+  "monthlyListeners": 6823016,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 110716,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 103621,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 98377,
+        "region": "VIC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 97558,
+        "region": "CMX"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 94204,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

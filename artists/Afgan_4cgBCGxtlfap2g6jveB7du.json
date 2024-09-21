@@ -1,0 +1,41 @@
+{
+  "id": "4cgBCGxtlfap2g6jveB7du",
+  "name": "Afgan",
+  "followers": 2764010,
+  "monthlyListeners": 6951167,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 2848388,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 628123,
+        "region": "JB"
+      },
+      {
+        "city": "Makassar",
+        "country": "ID",
+        "numberOfListeners": 325110,
+        "region": "SN"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 299004,
+        "region": "14"
+      },
+      {
+        "city": "Medan",
+        "country": "ID",
+        "numberOfListeners": 259195,
+        "region": "SU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

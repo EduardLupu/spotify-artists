@@ -1,0 +1,41 @@
+{
+  "id": "7I2JG3CcPawkeQPE7uypHJ",
+  "name": "HBz",
+  "followers": 358072,
+  "monthlyListeners": 3831878,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 299974,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 293628,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 232739,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 228453,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 167895,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

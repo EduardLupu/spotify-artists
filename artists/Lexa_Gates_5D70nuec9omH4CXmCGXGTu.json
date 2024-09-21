@@ -1,0 +1,41 @@
+{
+  "id": "5D70nuec9omH4CXmCGXGTu",
+  "name": "Lexa Gates",
+  "followers": 32676,
+  "monthlyListeners": 229821,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 6766,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 5503,
+        "region": "NY"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 5486,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 4297,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 4020,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4C50EbCS11M0VbGyH3OfLt",
+  "name": "Bahamas",
+  "followers": 391295,
+  "monthlyListeners": 1928651,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 29740,
+        "region": "NSW"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 29445,
+        "region": "ON"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 27512,
+        "region": "CO"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 24968,
+        "region": "NY"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 24652,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

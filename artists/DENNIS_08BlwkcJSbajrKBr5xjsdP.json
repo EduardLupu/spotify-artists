@@ -1,0 +1,41 @@
+{
+  "id": "08BlwkcJSbajrKBr5xjsdP",
+  "name": "DENNIS",
+  "followers": 74,
+  "monthlyListeners": 18,
+  "topCities": {
+    "items": [
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "PA"
+      },
+      {
+        "city": "Minneapolis",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "MN"
+      },
+      {
+        "city": "Perth",
+        "country": "AU",
+        "numberOfListeners": 1,
+        "region": "WA"
+      },
+      {
+        "city": "Rochester",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "MN"
+      },
+      {
+        "city": "DeSoto",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

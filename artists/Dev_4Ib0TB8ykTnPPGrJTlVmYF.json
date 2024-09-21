@@ -1,0 +1,41 @@
+{
+  "id": "4Ib0TB8ykTnPPGrJTlVmYF",
+  "name": "Dev",
+  "followers": 2520,
+  "monthlyListeners": 63384,
+  "topCities": {
+    "items": [
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 18967,
+        "region": "TS"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 9306,
+        "region": "WB"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 3501,
+        "region": "KA"
+      },
+      {
+        "city": "Kochi",
+        "country": "IN",
+        "numberOfListeners": 1701,
+        "region": "KL"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 1397,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

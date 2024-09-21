@@ -1,0 +1,41 @@
+{
+  "id": "3Awz0E6bVJHjevfJuEDG7Q",
+  "name": "ZION",
+  "followers": 2443,
+  "monthlyListeners": 2108,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 563,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 209,
+        "region": "27"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 87,
+        "region": "13"
+      },
+      {
+        "city": "Sapporo",
+        "country": "JP",
+        "numberOfListeners": 86,
+        "region": "01"
+      },
+      {
+        "city": "Yokohama",
+        "country": "JP",
+        "numberOfListeners": 59,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

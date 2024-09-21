@@ -1,0 +1,41 @@
+{
+  "id": "4AVFqumd2ogHFlRbKIjp1t",
+  "name": "Alesso",
+  "followers": 3930437,
+  "monthlyListeners": 20067079,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 289000,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 265077,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 248207,
+        "region": "NH"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 234068,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 223937,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 357
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6byQKddO1b34lXC2ZEjehQ",
+  "name": "Patricio Rey y sus Redonditos de Ricota",
+  "followers": 1705526,
+  "monthlyListeners": 2156121,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 756794,
+        "region": "C"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 338225,
+        "region": "B"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 124237,
+        "region": "X"
+      },
+      {
+        "city": "Montevideo",
+        "country": "UY",
+        "numberOfListeners": 87470,
+        "region": "MO"
+      },
+      {
+        "city": "Rosario",
+        "country": "AR",
+        "numberOfListeners": 73734,
+        "region": "S"
+      }
+    ]
+  },
+  "worldRank": 0
+}

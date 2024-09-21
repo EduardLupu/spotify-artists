@@ -1,0 +1,41 @@
+{
+  "id": "6evKD5JWJON3qPBJtUEmtY",
+  "name": "G-Unit",
+  "followers": 2476469,
+  "monthlyListeners": 3726140,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 76401,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 66416,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 61001,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 44989,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 44943,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "46HzS7yz0c9udVwtbHk1sx",
+  "name": "Cochise",
+  "followers": 784607,
+  "monthlyListeners": 4078203,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 54390,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 53312,
+        "region": "CA"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 47197,
+        "region": "JK"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 44277,
+        "region": "NY"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 40808,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

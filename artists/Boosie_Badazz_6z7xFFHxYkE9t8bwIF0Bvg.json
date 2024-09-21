@@ -1,0 +1,41 @@
+{
+  "id": "6z7xFFHxYkE9t8bwIF0Bvg",
+  "name": "Boosie Badazz",
+  "followers": 2420152,
+  "monthlyListeners": 2230592,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 99624,
+        "region": "TX"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 66615,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 63326,
+        "region": "NC"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 60516,
+        "region": "GA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 46704,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

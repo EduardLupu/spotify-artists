@@ -1,0 +1,41 @@
+{
+  "id": "5IiM2nkOmoS6Z8ihTuXjrU",
+  "name": "The Lost Children of Babylon",
+  "followers": 13601,
+  "monthlyListeners": 5327,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 83,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 80,
+        "region": "VIC"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 79,
+        "region": "AB"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 74,
+        "region": "NSW"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 67,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "38yvJGEo4vda9I55QAq1e0",
+  "name": "Camila",
+  "followers": 180,
+  "monthlyListeners": 187,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 113,
+        "region": "RM"
+      },
+      {
+        "city": "Concepción",
+        "country": "CL",
+        "numberOfListeners": 15,
+        "region": "BI"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 4,
+        "region": "AB"
+      },
+      {
+        "city": "Puente Alto",
+        "country": "CL",
+        "numberOfListeners": 3,
+        "region": "RM"
+      },
+      {
+        "city": "Rancagua",
+        "country": "CL",
+        "numberOfListeners": 3,
+        "region": "LI"
+      }
+    ]
+  },
+  "worldRank": 0
+}

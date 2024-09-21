@@ -1,0 +1,41 @@
+{
+  "id": "2zF0KCQEt1O4Z9fWVUVi4T",
+  "name": "Marcela Gandara",
+  "followers": 1973445,
+  "monthlyListeners": 2908871,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 168870,
+        "region": "DC"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 158222,
+        "region": "GU"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 95729,
+        "region": "RM"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 93034,
+        "region": "ANT"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 83192,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

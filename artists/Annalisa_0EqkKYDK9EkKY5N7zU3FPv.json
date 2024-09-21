@@ -1,0 +1,41 @@
+{
+  "id": "0EqkKYDK9EkKY5N7zU3FPv",
+  "name": "Annalisa",
+  "followers": 1632943,
+  "monthlyListeners": 4788244,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 1011633,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 459825,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 170987,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 152263,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 119118,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

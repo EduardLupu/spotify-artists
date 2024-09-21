@@ -1,0 +1,41 @@
+{
+  "id": "4xNadaO5ZZLVJdqDIVVIua",
+  "name": "Electric Six",
+  "followers": 163442,
+  "monthlyListeners": 453623,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 21433,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 10959,
+        "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 10309,
+        "region": "NSW"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 8942,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 7785,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

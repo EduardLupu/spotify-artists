@@ -1,0 +1,41 @@
+{
+  "id": "0EmeFodog0BfCgMzAIvKQp",
+  "name": "Shakira",
+  "followers": 34528096,
+  "monthlyListeners": 62358286,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1845535,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1668262,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1207880,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 1041768,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 925105,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 24
+}

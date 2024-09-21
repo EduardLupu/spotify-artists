@@ -1,0 +1,41 @@
+{
+  "id": "6LEG9Ld1aLImEFEVHdWNSB",
+  "name": "AP Dhillon",
+  "followers": 5372607,
+  "monthlyListeners": 12150730,
+  "topCities": {
+    "items": [
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1188472,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 967193,
+        "region": "DL"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 822719,
+        "region": "MH"
+      },
+      {
+        "city": "Ludhiana",
+        "country": "IN",
+        "numberOfListeners": 760683,
+        "region": "PB"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 666698,
+        "region": "MH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

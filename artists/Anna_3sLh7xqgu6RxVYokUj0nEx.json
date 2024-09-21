@@ -1,0 +1,41 @@
+{
+  "id": "3sLh7xqgu6RxVYokUj0nEx",
+  "name": "Anna",
+  "followers": 633,
+  "monthlyListeners": 27227,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 2783,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 1040,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 881,
+        "region": "MG"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 667,
+        "region": "DF"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 654,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

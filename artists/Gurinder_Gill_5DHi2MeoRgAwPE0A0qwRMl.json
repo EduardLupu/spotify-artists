@@ -1,0 +1,41 @@
+{
+  "id": "5DHi2MeoRgAwPE0A0qwRMl",
+  "name": "Gurinder Gill",
+  "followers": 708302,
+  "monthlyListeners": 8024604,
+  "topCities": {
+    "items": [
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 771905,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 629566,
+        "region": "DL"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 505770,
+        "region": "MH"
+      },
+      {
+        "city": "Ludhiana",
+        "country": "IN",
+        "numberOfListeners": 482387,
+        "region": "PB"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 408370,
+        "region": "MH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

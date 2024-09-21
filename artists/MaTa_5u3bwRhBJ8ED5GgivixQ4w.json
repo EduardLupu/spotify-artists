@@ -1,0 +1,41 @@
+{
+  "id": "5u3bwRhBJ8ED5GgivixQ4w",
+  "name": "MaTa",
+  "followers": 163,
+  "monthlyListeners": 114,
+  "topCities": {
+    "items": [
+      {
+        "city": "Annaba",
+        "country": "DZ",
+        "numberOfListeners": 5,
+        "region": "23"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 4,
+        "region": "HH"
+      },
+      {
+        "city": "Hanover",
+        "country": "DE",
+        "numberOfListeners": 4,
+        "region": "NI"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 4,
+        "region": "BE"
+      },
+      {
+        "city": "Algiers",
+        "country": "DZ",
+        "numberOfListeners": 4,
+        "region": "16"
+      }
+    ]
+  },
+  "worldRank": 0
+}

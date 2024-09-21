@@ -1,0 +1,41 @@
+{
+  "id": "6uYrXgVHctAJtIdSODcyLJ",
+  "name": "Melim",
+  "followers": 5371515,
+  "monthlyListeners": 3462902,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 542323,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 238886,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 154326,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 123261,
+        "region": "PR"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 120770,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

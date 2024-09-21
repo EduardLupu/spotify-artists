@@ -1,0 +1,41 @@
+{
+  "id": "2L2unNFaPbDxjg3NqzpqhJ",
+  "name": "Teebs",
+  "followers": 114214,
+  "monthlyListeners": 335614,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 9229,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 7507,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 6643,
+        "region": "VIC"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 5819,
+        "region": "NY"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 5348,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

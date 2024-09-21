@@ -1,0 +1,41 @@
+{
+  "id": "07SFzTMeYf5P8Rd32a9Zzw",
+  "name": "AK AUSSERKONTROLLE",
+  "followers": 1003631,
+  "monthlyListeners": 2154723,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 247996,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 180331,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 178181,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 145345,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 137434,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

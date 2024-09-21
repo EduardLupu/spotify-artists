@@ -1,0 +1,41 @@
+{
+  "id": "7tU1VKOuxiNZwBZC6RHidA",
+  "name": "Alexis y Fido",
+  "followers": 5254535,
+  "monthlyListeners": 5359883,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 615581,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 472870,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 258636,
+        "region": "LMA"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 256954,
+        "region": "ANT"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 154073,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

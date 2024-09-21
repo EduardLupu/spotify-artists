@@ -1,0 +1,41 @@
+{
+  "id": "4bUqnkrDrb4f7rqmDR9yDu",
+  "name": "Foy Vance",
+  "followers": 248227,
+  "monthlyListeners": 1084150,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 21742,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 17817,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 17080,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 13939,
+        "region": "QLD"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 10217,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1zNwMitSxX7ht9Kka0zOlc",
+  "name": "Orquesta Magia Caribeña Federico Junior",
+  "followers": 1326,
+  "monthlyListeners": 13766,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1112,
+        "region": "CMX"
+      },
+      {
+        "city": "Santo Domingo",
+        "country": "DO",
+        "numberOfListeners": 1050,
+        "region": "01"
+      },
+      {
+        "city": "Santo Domingo Este",
+        "country": "DO",
+        "numberOfListeners": 645,
+        "region": "32"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 601,
+        "region": "DC"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 510,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

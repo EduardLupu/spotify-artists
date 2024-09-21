@@ -1,0 +1,41 @@
+{
+  "id": "2pe1uLYghU4lj6Fe6qq8k6",
+  "name": "Dazy",
+  "followers": 5985,
+  "monthlyListeners": 21294,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 563,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 507,
+        "region": "CA"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 431,
+        "region": "NY"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 426,
+        "region": "NY"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 392,
+        "region": "PA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

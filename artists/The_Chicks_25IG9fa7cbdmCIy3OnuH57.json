@@ -1,0 +1,41 @@
+{
+  "id": "25IG9fa7cbdmCIy3OnuH57",
+  "name": "The Chicks",
+  "followers": 1450374,
+  "monthlyListeners": 5001274,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 125097,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 97189,
+        "region": "QLD"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 93498,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 85597,
+        "region": "IL"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 75543,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

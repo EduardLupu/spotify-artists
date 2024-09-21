@@ -1,0 +1,41 @@
+{
+  "id": "09eBKIxIhMym3kxJyDnVXh",
+  "name": "Rei",
+  "followers": 5933,
+  "monthlyListeners": 50179,
+  "topCities": {
+    "items": [
+      {
+        "city": "Auckland",
+        "country": "NZ",
+        "numberOfListeners": 10379,
+        "region": "AUK"
+      },
+      {
+        "city": "Hamilton",
+        "country": "NZ",
+        "numberOfListeners": 3322,
+        "region": "WKO"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 3121,
+        "region": "QLD"
+      },
+      {
+        "city": "Christchurch",
+        "country": "NZ",
+        "numberOfListeners": 2661,
+        "region": "CAN"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 2568,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

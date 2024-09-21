@@ -1,0 +1,41 @@
+{
+  "id": "3hN3iJMbbBmqBSAMx5veDa",
+  "name": "Ultimo",
+  "followers": 3590341,
+  "monthlyListeners": 3611641,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 769984,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 429743,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 194707,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 118086,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 97879,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

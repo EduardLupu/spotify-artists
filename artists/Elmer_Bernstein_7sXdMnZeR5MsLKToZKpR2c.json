@@ -1,0 +1,41 @@
+{
+  "id": "7sXdMnZeR5MsLKToZKpR2c",
+  "name": "Elmer Bernstein",
+  "followers": 29775,
+  "monthlyListeners": 264206,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 4354,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 2687,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 2353,
+        "region": "VIC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 2300,
+        "region": "RM"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 2218,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

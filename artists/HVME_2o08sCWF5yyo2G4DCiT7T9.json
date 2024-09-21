@@ -1,0 +1,41 @@
+{
+  "id": "2o08sCWF5yyo2G4DCiT7T9",
+  "name": "HVME",
+  "followers": 70742,
+  "monthlyListeners": 4791327,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 87453,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 66939,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 55704,
+        "region": "VIC"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 47454,
+        "region": "IDF"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 46396,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

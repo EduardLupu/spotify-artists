@@ -1,0 +1,41 @@
+{
+  "id": "67K7idnuGeHTmpU2giuPnh",
+  "name": "Passenger",
+  "followers": 4581,
+  "monthlyListeners": 3747,
+  "topCities": {
+    "items": [
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 151,
+        "region": "AB"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 110,
+        "region": "18"
+      },
+      {
+        "city": "Gothenburg",
+        "country": "SE",
+        "numberOfListeners": 72,
+        "region": "O"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 45,
+        "region": "9"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 42,
+        "region": "03"
+      }
+    ]
+  },
+  "worldRank": 0
+}

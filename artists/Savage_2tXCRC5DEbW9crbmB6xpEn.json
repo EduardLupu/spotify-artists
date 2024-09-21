@@ -1,0 +1,41 @@
+{
+  "id": "2tXCRC5DEbW9crbmB6xpEn",
+  "name": "Savage",
+  "followers": 49653,
+  "monthlyListeners": 232302,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 75634,
+        "region": "LA"
+      },
+      {
+        "city": "Abuja",
+        "country": "NG",
+        "numberOfListeners": 35832,
+        "region": "FC"
+      },
+      {
+        "city": "Port Harcourt",
+        "country": "NG",
+        "numberOfListeners": 33685,
+        "region": "RI"
+      },
+      {
+        "city": "Ibadan",
+        "country": "NG",
+        "numberOfListeners": 9408,
+        "region": "OY"
+      },
+      {
+        "city": "Benin City",
+        "country": "NG",
+        "numberOfListeners": 6642,
+        "region": "ED"
+      }
+    ]
+  },
+  "worldRank": 0
+}

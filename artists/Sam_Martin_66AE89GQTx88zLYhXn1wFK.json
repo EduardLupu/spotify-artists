@@ -1,0 +1,41 @@
+{
+  "id": "66AE89GQTx88zLYhXn1wFK",
+  "name": "Sam Martin",
+  "followers": 22087,
+  "monthlyListeners": 3264968,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 46727,
+        "region": "IDF"
+      },
+      {
+        "city": "Budapest",
+        "country": "HU",
+        "numberOfListeners": 42484,
+        "region": "BU"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 38737,
+        "region": "CMX"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 37512,
+        "region": "10"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 37065,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "46SHBwWsqBkxI7EeeBEQG7",
+  "name": "Kodak Black",
+  "followers": 10928052,
+  "monthlyListeners": 26793211,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 440385,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 435744,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 395302,
+        "region": "TX"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 340973,
+        "region": "NY"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 323164,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 192
+}

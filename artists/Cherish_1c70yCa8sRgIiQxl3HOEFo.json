@@ -1,0 +1,41 @@
+{
+  "id": "1c70yCa8sRgIiQxl3HOEFo",
+  "name": "Cherish",
+  "followers": 630590,
+  "monthlyListeners": 1193573,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 67273,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 20524,
+        "region": "RJ"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 16823,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 16104,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 15754,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

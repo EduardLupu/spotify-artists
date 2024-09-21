@@ -1,0 +1,41 @@
+{
+  "id": "7uphKs2gwMxGuWf5kQP6hc",
+  "name": "Amine",
+  "followers": 531,
+  "monthlyListeners": 1028,
+  "topCities": {
+    "items": [
+      {
+        "city": "Algiers",
+        "country": "DZ",
+        "numberOfListeners": 261,
+        "region": "16"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 92,
+        "region": "IDF"
+      },
+      {
+        "city": "Tizi Ouzou",
+        "country": "DZ",
+        "numberOfListeners": 65,
+        "region": "15"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 64,
+        "region": "QC"
+      },
+      {
+        "city": "Sétif",
+        "country": "DZ",
+        "numberOfListeners": 44,
+        "region": "19"
+      }
+    ]
+  },
+  "worldRank": 0
+}

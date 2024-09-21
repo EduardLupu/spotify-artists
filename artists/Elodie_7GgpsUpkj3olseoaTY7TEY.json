@@ -1,0 +1,41 @@
+{
+  "id": "7GgpsUpkj3olseoaTY7TEY",
+  "name": "Elodie",
+  "followers": 872577,
+  "monthlyListeners": 3887913,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 832894,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 383966,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 165024,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 122603,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 95691,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

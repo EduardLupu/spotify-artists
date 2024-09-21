@@ -1,0 +1,41 @@
+{
+  "id": "3eqjTLE0HfPfh78zjh6TqT",
+  "name": "Bruce Springsteen",
+  "followers": 6527507,
+  "monthlyListeners": 24942684,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 469409,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 453625,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 404909,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 333782,
+        "region": "NH"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 330398,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 226
+}

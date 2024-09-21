@@ -1,0 +1,41 @@
+{
+  "id": "4dyYjqmYDjegbB3F2mbvcT",
+  "name": "Zezé Di Camargo & Luciano",
+  "followers": 3801820,
+  "monthlyListeners": 4070121,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 551507,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 282611,
+        "region": "MG"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 228661,
+        "region": "DF"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 189905,
+        "region": "PR"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 183865,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

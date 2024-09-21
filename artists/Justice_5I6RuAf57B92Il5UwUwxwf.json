@@ -1,0 +1,41 @@
+{
+  "id": "5I6RuAf57B92Il5UwUwxwf",
+  "name": "Justice",
+  "followers": 1228,
+  "monthlyListeners": 248,
+  "topCities": {
+    "items": [
+      {
+        "city": "Kansas City",
+        "country": "US",
+        "numberOfListeners": 4,
+        "region": "MO"
+      },
+      {
+        "city": "St. George",
+        "country": "US",
+        "numberOfListeners": 4,
+        "region": "UT"
+      },
+      {
+        "city": "Portland",
+        "country": "US",
+        "numberOfListeners": 4,
+        "region": "OR"
+      },
+      {
+        "city": "Gilbert",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "AZ"
+      },
+      {
+        "city": "Salt Lake City",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "UT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

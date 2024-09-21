@@ -1,0 +1,41 @@
+{
+  "id": "0jdNdfi4vAuVi7a6cPDFBM",
+  "name": "Lazza",
+  "followers": 2254926,
+  "monthlyListeners": 5535264,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 1434187,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 641143,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 273840,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 221858,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 167345,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "64d1rUxfizSAOE9UbMnUZd",
+  "name": "Sezen Aksu",
+  "followers": 10430449,
+  "monthlyListeners": 5761041,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 1961432,
+        "region": "34"
+      },
+      {
+        "city": "Ankara",
+        "country": "TR",
+        "numberOfListeners": 1057376,
+        "region": "06"
+      },
+      {
+        "city": "Izmir",
+        "country": "TR",
+        "numberOfListeners": 741263,
+        "region": "35"
+      },
+      {
+        "city": "Bursa",
+        "country": "TR",
+        "numberOfListeners": 380317,
+        "region": "16"
+      },
+      {
+        "city": "Adana",
+        "country": "TR",
+        "numberOfListeners": 354574,
+        "region": "01"
+      }
+    ]
+  },
+  "worldRank": 0
+}

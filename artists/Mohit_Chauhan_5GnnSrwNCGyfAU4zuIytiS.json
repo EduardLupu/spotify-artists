@@ -1,0 +1,41 @@
+{
+  "id": "5GnnSrwNCGyfAU4zuIytiS",
+  "name": "Mohit Chauhan",
+  "followers": 9619536,
+  "monthlyListeners": 20315775,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 2032341,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1706184,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1397798,
+        "region": "DL"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 1232893,
+        "region": "KA"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 1162342,
+        "region": "DL"
+      }
+    ]
+  },
+  "worldRank": 347
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4GaL1Z5k45ZUOJmZLD0ga5",
+  "name": "María José",
+  "followers": 5,
+  "monthlyListeners": 521,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 44,
+        "region": "CMX"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 20,
+        "region": "SP"
+      },
+      {
+        "city": "Santo Domingo",
+        "country": "DO",
+        "numberOfListeners": 20,
+        "region": "01"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 17,
+        "region": "JAL"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 15,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

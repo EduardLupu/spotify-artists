@@ -1,0 +1,41 @@
+{
+  "id": "6sLwRSXSUF5JTUnQaFenyj",
+  "name": "Christopher Jackson",
+  "followers": 56493,
+  "monthlyListeners": 4305681,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 97809,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 77155,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 60964,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 54648,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 50789,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "70nxnxEqDQIEWneRjg2Q4O",
+  "name": "Adolescent's Orquesta",
+  "followers": 1166320,
+  "monthlyListeners": 9326489,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 740965,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 660529,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 547469,
+        "region": "LMA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 347077,
+        "region": "RM"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 333690,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

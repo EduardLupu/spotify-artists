@@ -1,0 +1,41 @@
+{
+  "id": "1vSN1fsvrzpbttOYGsliDr",
+  "name": "Tori Kelly",
+  "followers": 2147217,
+  "monthlyListeners": 4800144,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 84735,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 65289,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 54331,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 53687,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 50152,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

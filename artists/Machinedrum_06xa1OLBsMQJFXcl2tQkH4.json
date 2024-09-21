@@ -1,0 +1,41 @@
+{
+  "id": "06xa1OLBsMQJFXcl2tQkH4",
+  "name": "Machinedrum",
+  "followers": 126710,
+  "monthlyListeners": 449357,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 12623,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 8866,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 7551,
+        "region": "VIC"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 6847,
+        "region": "NY"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 6759,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

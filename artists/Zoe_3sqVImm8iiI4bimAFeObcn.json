@@ -1,0 +1,41 @@
+{
+  "id": "3sqVImm8iiI4bimAFeObcn",
+  "name": "Zoe",
+  "followers": 2051,
+  "monthlyListeners": 11626,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 498,
+        "region": "CMX"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 484,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 409,
+        "region": "CT"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 260,
+        "region": "JAL"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 201,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

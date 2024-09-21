@@ -1,0 +1,41 @@
+{
+  "id": "6TQj5BFPooTa08A7pk8AQ1",
+  "name": "Kaskade",
+  "followers": 954906,
+  "monthlyListeners": 4747766,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 100499,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 70782,
+        "region": "NSW"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 69682,
+        "region": "ON"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 67410,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 66250,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

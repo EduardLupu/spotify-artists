@@ -1,0 +1,41 @@
+{
+  "id": "02GmR27EYUG8oYH3oHpOCO",
+  "name": "CJ",
+  "followers": 2704,
+  "monthlyListeners": 53100,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 6949,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 5585,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 4254,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 1859,
+        "region": "ENG"
+      },
+      {
+        "city": "Leeds",
+        "country": "GB",
+        "numberOfListeners": 1574,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

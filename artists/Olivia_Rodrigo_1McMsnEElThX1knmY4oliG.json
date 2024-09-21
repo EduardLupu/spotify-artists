@@ -1,0 +1,41 @@
+{
+  "id": "1McMsnEElThX1knmY4oliG",
+  "name": "Olivia Rodrigo",
+  "followers": 39723954,
+  "monthlyListeners": 48350153,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1718672,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 725988,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 604479,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 542840,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 500938,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 52
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5ILrArfIV0tMURcHJN8Q07",
+  "name": "Vanessa Carlton",
+  "followers": 641059,
+  "monthlyListeners": 5431746,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 105669,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 92725,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 78033,
+        "region": "NSW"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 77251,
+        "region": "00"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 67837,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0Dvx6p8JDyzeOPGmaCIH1L",
+  "name": "RAF Camora",
+  "followers": 1771955,
+  "monthlyListeners": 5628483,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 527130,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 437151,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 420470,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 371600,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 325982,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7giUHu5pv6YTZgSkxxCcgh",
+  "name": "Edward Sharpe & The Magnetic Zeros",
+  "followers": 1031493,
+  "monthlyListeners": 5798998,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 110079,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 96533,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 93951,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 77910,
+        "region": "QLD"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 62118,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

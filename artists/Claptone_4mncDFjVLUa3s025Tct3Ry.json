@@ -1,0 +1,41 @@
+{
+  "id": "4mncDFjVLUa3s025Tct3Ry",
+  "name": "Claptone",
+  "followers": 541862,
+  "monthlyListeners": 3306889,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 75268,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 67828,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 54690,
+        "region": "C"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 48503,
+        "region": "NH"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 43609,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

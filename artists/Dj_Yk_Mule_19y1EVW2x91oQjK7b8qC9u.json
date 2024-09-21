@@ -1,0 +1,41 @@
+{
+  "id": "19y1EVW2x91oQjK7b8qC9u",
+  "name": "Dj Yk Mule",
+  "followers": 104876,
+  "monthlyListeners": 118220,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 49652,
+        "region": "LA"
+      },
+      {
+        "city": "Abuja",
+        "country": "NG",
+        "numberOfListeners": 14980,
+        "region": "FC"
+      },
+      {
+        "city": "Port Harcourt",
+        "country": "NG",
+        "numberOfListeners": 11959,
+        "region": "RI"
+      },
+      {
+        "city": "Ibadan",
+        "country": "NG",
+        "numberOfListeners": 7134,
+        "region": "OY"
+      },
+      {
+        "city": "Benin City",
+        "country": "NG",
+        "numberOfListeners": 2551,
+        "region": "ED"
+      }
+    ]
+  },
+  "worldRank": 0
+}

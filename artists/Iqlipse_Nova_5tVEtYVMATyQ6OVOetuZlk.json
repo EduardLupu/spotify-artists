@@ -1,0 +1,41 @@
+{
+  "id": "5tVEtYVMATyQ6OVOetuZlk",
+  "name": "Iqlipse Nova",
+  "followers": 230679,
+  "monthlyListeners": 3056729,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 331767,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 286532,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 200525,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 166341,
+        "region": "DL"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 154020,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

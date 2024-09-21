@@ -1,0 +1,41 @@
+{
+  "id": "3tQx1LPXbsYjE9VwN1Peaa",
+  "name": "Marc E. Bassy",
+  "followers": 416292,
+  "monthlyListeners": 1760756,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 30269,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 28672,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 28630,
+        "region": "IL"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 25017,
+        "region": "WA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 24626,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

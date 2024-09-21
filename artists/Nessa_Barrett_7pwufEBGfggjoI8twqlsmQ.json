@@ -1,0 +1,41 @@
+{
+  "id": "7pwufEBGfggjoI8twqlsmQ",
+  "name": "Nessa Barrett",
+  "followers": 1362082,
+  "monthlyListeners": 5031892,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 64579,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 62021,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 58524,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 50800,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 49013,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

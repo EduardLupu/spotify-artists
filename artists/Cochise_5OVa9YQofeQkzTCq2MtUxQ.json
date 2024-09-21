@@ -1,0 +1,41 @@
+{
+  "id": "5OVa9YQofeQkzTCq2MtUxQ",
+  "name": "Cochise",
+  "followers": 1536,
+  "monthlyListeners": 9034,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 169,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 130,
+        "region": "HH"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 106,
+        "region": "IDF"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 97,
+        "region": "HE"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 83,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

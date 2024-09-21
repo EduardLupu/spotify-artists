@@ -1,0 +1,41 @@
+{
+  "id": "2cADQgiLMjNhbsfeN52Bf3",
+  "name": "Swizz Beatz",
+  "followers": 436659,
+  "monthlyListeners": 373633,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 7089,
+        "region": "NY"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 6594,
+        "region": "NY"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 6506,
+        "region": "PA"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 5735,
+        "region": "CA"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 5638,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

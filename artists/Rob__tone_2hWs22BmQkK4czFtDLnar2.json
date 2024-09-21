@@ -1,0 +1,41 @@
+{
+  "id": "2hWs22BmQkK4czFtDLnar2",
+  "name": "Rob $tone",
+  "followers": 269806,
+  "monthlyListeners": 2820836,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 38340,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 35362,
+        "region": "CA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 33215,
+        "region": "TX"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 31901,
+        "region": "AZ"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 26987,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

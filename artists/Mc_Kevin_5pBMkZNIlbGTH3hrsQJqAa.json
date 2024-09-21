@@ -1,0 +1,41 @@
+{
+  "id": "5pBMkZNIlbGTH3hrsQJqAa",
+  "name": "Mc Kevin",
+  "followers": 8755211,
+  "monthlyListeners": 7038413,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1569721,
+        "region": "SP"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 374348,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 356746,
+        "region": "MG"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 324710,
+        "region": "RJ"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 307055,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

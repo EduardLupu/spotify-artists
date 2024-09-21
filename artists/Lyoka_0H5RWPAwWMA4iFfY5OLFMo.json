@@ -1,0 +1,41 @@
+{
+  "id": "0H5RWPAwWMA4iFfY5OLFMo",
+  "name": "Lyoka",
+  "followers": 1325,
+  "monthlyListeners": 4439,
+  "topCities": {
+    "items": [
+      {
+        "city": "Yerevan",
+        "country": "AM",
+        "numberOfListeners": 733,
+        "region": "ER"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 240,
+        "region": "CA"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 134,
+        "region": "BRU"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 109,
+        "region": "NH"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 79,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

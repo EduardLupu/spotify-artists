@@ -1,0 +1,41 @@
+{
+  "id": "0jNDKefhfSbLR9sFvcPLHo",
+  "name": "San Holo",
+  "followers": 693932,
+  "monthlyListeners": 1266029,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 29930,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 23148,
+        "region": "IL"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 19472,
+        "region": "CO"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 18216,
+        "region": "NY"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 17461,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

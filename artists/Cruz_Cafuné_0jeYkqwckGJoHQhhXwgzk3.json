@@ -1,0 +1,41 @@
+{
+  "id": "0jeYkqwckGJoHQhhXwgzk3",
+  "name": "Cruz Cafuné",
+  "followers": 404005,
+  "monthlyListeners": 1883430,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 279440,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 159952,
+        "region": "CT"
+      },
+      {
+        "city": "Valencia",
+        "country": "ES",
+        "numberOfListeners": 78193,
+        "region": "VC"
+      },
+      {
+        "city": "Málaga",
+        "country": "ES",
+        "numberOfListeners": 60262,
+        "region": "AN"
+      },
+      {
+        "city": "Seville",
+        "country": "ES",
+        "numberOfListeners": 57452,
+        "region": "AN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

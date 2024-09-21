@@ -1,0 +1,41 @@
+{
+  "id": "4gUE1bhccIGVxxwXIyuWYD",
+  "name": "Arcángel",
+  "followers": 13615,
+  "monthlyListeners": 123825,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 10927,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 6054,
+        "region": "CT"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 4591,
+        "region": "RM"
+      },
+      {
+        "city": "Seville",
+        "country": "ES",
+        "numberOfListeners": 4536,
+        "region": "AN"
+      },
+      {
+        "city": "Málaga",
+        "country": "ES",
+        "numberOfListeners": 3351,
+        "region": "AN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

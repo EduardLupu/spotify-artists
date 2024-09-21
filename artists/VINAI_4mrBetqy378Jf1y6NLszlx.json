@@ -1,0 +1,41 @@
+{
+  "id": "4mrBetqy378Jf1y6NLszlx",
+  "name": "VINAI",
+  "followers": 491562,
+  "monthlyListeners": 6824350,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 116043,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 107654,
+        "region": "HH"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 95718,
+        "region": "IDF"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 93807,
+        "region": "NH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 89942,
+        "region": "HE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

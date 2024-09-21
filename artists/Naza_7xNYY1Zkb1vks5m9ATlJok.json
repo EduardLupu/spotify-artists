@@ -1,0 +1,41 @@
+{
+  "id": "7xNYY1Zkb1vks5m9ATlJok",
+  "name": "Naza",
+  "followers": 1557998,
+  "monthlyListeners": 3854732,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 520490,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 143279,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 101163,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 82501,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 81267,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

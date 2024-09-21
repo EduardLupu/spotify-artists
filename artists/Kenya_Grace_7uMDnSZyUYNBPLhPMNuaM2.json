@@ -1,0 +1,41 @@
+{
+  "id": "7uMDnSZyUYNBPLhPMNuaM2",
+  "name": "Kenya Grace",
+  "followers": 530760,
+  "monthlyListeners": 11208536,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 187534,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 166221,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 140794,
+        "region": "VIC"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 108232,
+        "region": "JK"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 105308,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

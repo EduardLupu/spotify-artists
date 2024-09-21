@@ -1,0 +1,41 @@
+{
+  "id": "3LKXWvXFWrkwUzJWxzwVpW",
+  "name": "Tony Dize",
+  "followers": 3771835,
+  "monthlyListeners": 14908586,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1264840,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 837978,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 683203,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 580017,
+        "region": "LMA"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 416910,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

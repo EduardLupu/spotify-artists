@@ -1,0 +1,41 @@
+{
+  "id": "3cMInYqk6yzf37zo8iznoz",
+  "name": "DNMO",
+  "followers": 54701,
+  "monthlyListeners": 1481440,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 41764,
+        "region": "ENG"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 36590,
+        "region": "10"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 24539,
+        "region": "9"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 20655,
+        "region": "BE"
+      },
+      {
+        "city": "Perth",
+        "country": "AU",
+        "numberOfListeners": 19050,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

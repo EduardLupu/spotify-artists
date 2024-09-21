@@ -1,0 +1,41 @@
+{
+  "id": "3F5E6wKnGN6qRjtsF2Z6vt",
+  "name": "Fuego",
+  "followers": 20862,
+  "monthlyListeners": 102189,
+  "topCities": {
+    "items": [
+      {
+        "city": "San José",
+        "country": "CR",
+        "numberOfListeners": 5881,
+        "region": "SJ"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 5760,
+        "region": "GU"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 4150,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 2659,
+        "region": "LMA"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 2563,
+        "region": "01"
+      }
+    ]
+  },
+  "worldRank": 0
+}

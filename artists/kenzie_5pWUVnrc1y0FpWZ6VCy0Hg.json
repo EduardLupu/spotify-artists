@@ -1,0 +1,41 @@
+{
+  "id": "5pWUVnrc1y0FpWZ6VCy0Hg",
+  "name": "kenzie",
+  "followers": 637203,
+  "monthlyListeners": 1994416,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 58829,
+        "region": "JK"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 35161,
+        "region": "13"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 23330,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 20898,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 19225,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

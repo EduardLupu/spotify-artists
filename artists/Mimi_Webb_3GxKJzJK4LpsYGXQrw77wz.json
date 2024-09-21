@@ -1,0 +1,41 @@
+{
+  "id": "3GxKJzJK4LpsYGXQrw77wz",
+  "name": "Mimi Webb",
+  "followers": 373061,
+  "monthlyListeners": 2412763,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 104115,
+        "region": "ENG"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 49952,
+        "region": "L"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 49488,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 42127,
+        "region": "VIC"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 38062,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

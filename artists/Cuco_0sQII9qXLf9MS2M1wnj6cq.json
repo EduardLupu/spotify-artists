@@ -1,0 +1,41 @@
+{
+  "id": "0sQII9qXLf9MS2M1wnj6cq",
+  "name": "Cuco",
+  "followers": 487,
+  "monthlyListeners": 177,
+  "topCities": {
+    "items": [
+      {
+        "city": "Quito",
+        "country": "EC",
+        "numberOfListeners": 48,
+        "region": "P"
+      },
+      {
+        "city": "Cuenca",
+        "country": "EC",
+        "numberOfListeners": 40,
+        "region": "A"
+      },
+      {
+        "city": "Guayaquil",
+        "country": "EC",
+        "numberOfListeners": 39,
+        "region": "G"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "PA"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

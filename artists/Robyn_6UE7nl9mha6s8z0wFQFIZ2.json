@@ -1,0 +1,41 @@
+{
+  "id": "6UE7nl9mha6s8z0wFQFIZ2",
+  "name": "Robyn",
+  "followers": 842084,
+  "monthlyListeners": 4225409,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 133029,
+        "region": "ENG"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 112648,
+        "region": "AB"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 76583,
+        "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 72556,
+        "region": "NSW"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 62992,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

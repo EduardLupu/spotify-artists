@@ -1,0 +1,41 @@
+{
+  "id": "7K3zpFXBvPcvzhj7zlGJdO",
+  "name": "Crystal Castles",
+  "followers": 2667040,
+  "monthlyListeners": 7727735,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 92911,
+        "region": "34"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 91467,
+        "region": "CA"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 85774,
+        "region": "14"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 85283,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 78743,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

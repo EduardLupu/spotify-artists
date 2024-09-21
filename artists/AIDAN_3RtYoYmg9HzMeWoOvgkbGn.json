@@ -1,0 +1,41 @@
+{
+  "id": "3RtYoYmg9HzMeWoOvgkbGn",
+  "name": "AIDAN",
+  "followers": 728,
+  "monthlyListeners": 211,
+  "topCities": {
+    "items": [
+      {
+        "city": "Guwahati",
+        "country": "IN",
+        "numberOfListeners": 24,
+        "region": "AS"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 10,
+        "region": "MH"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 9,
+        "region": "HDF"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 6,
+        "region": "DL"
+      },
+      {
+        "city": "Villeneuve-d'Ascq",
+        "country": "FR",
+        "numberOfListeners": 5,
+        "region": "HDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

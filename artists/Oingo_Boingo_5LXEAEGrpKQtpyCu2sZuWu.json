@@ -1,0 +1,41 @@
+{
+  "id": "5LXEAEGrpKQtpyCu2sZuWu",
+  "name": "Oingo Boingo",
+  "followers": 459203,
+  "monthlyListeners": 959497,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 53105,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 22632,
+        "region": "RJ"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 22163,
+        "region": "CA"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 14030,
+        "region": "RS"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 12349,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

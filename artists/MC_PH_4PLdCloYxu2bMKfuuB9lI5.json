@@ -1,0 +1,41 @@
+{
+  "id": "4PLdCloYxu2bMKfuuB9lI5",
+  "name": "MC PH",
+  "followers": 3119098,
+  "monthlyListeners": 13099060,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 2555669,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 889017,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 730359,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 653705,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 554596,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

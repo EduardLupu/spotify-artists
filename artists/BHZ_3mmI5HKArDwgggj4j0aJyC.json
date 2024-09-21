@@ -1,0 +1,41 @@
+{
+  "id": "3mmI5HKArDwgggj4j0aJyC",
+  "name": "BHZ",
+  "followers": 344777,
+  "monthlyListeners": 2094395,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 241056,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 162412,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 156217,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 150281,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 112603,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

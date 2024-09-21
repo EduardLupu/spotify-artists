@@ -1,0 +1,41 @@
+{
+  "id": "6AUl0ykLLpvTktob97x9hO",
+  "name": "Tee Grizzley",
+  "followers": 3771192,
+  "monthlyListeners": 6858372,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 168826,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 130734,
+        "region": "CA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 124421,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 116511,
+        "region": "NC"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 111426,
+        "region": "GA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

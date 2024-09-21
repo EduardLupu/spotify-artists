@@ -1,0 +1,41 @@
+{
+  "id": "5BKzvAPtNXnt0LwzGvKOH3",
+  "name": "Aaron Watson",
+  "followers": 260940,
+  "monthlyListeners": 689607,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 27885,
+        "region": "TX"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 21873,
+        "region": "TX"
+      },
+      {
+        "city": "Austin",
+        "country": "US",
+        "numberOfListeners": 17199,
+        "region": "TX"
+      },
+      {
+        "city": "San Antonio",
+        "country": "US",
+        "numberOfListeners": 15315,
+        "region": "TX"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 14221,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1YOVBTvznjiDvtAj4ExHeo",
+  "name": "BK",
+  "followers": 1572950,
+  "monthlyListeners": 5061431,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 864426,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 558411,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 248541,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 165321,
+        "region": "PR"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 161196,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6b4jozQw0RkUzPOp2tuIEn",
+  "name": "Faraón Love Shady",
+  "followers": 333080,
+  "monthlyListeners": 269334,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 18811,
+        "region": "LMA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 9938,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 9703,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 9030,
+        "region": "DC"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 6572,
+        "region": "GU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

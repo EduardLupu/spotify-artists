@@ -1,0 +1,41 @@
+{
+  "id": "2Omy3P5hFZym7FKum1JA1s",
+  "name": "UFO",
+  "followers": 585503,
+  "monthlyListeners": 1512446,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 27778,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 23589,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 16134,
+        "region": "ENG"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 16076,
+        "region": "AB"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 14740,
+        "region": "18"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5UjifI1TYefXWn9GdqDOHl",
+  "name": "Social House",
+  "followers": 157793,
+  "monthlyListeners": 6488286,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 273914,
+        "region": "JK"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 134373,
+        "region": "10"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 93254,
+        "region": "00"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 78818,
+        "region": "14"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 76649,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

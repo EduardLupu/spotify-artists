@@ -1,0 +1,41 @@
+{
+  "id": "7rXMvXRnWHaSwnVvPeUUfw",
+  "name": "Gloria Groove",
+  "followers": 3346982,
+  "monthlyListeners": 8125451,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1419995,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 842377,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 414782,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 332767,
+        "region": "SP"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 329985,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

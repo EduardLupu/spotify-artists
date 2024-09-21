@@ -1,0 +1,41 @@
+{
+  "id": "4TnGh5PKbSjpYqpIdlW5nz",
+  "name": "MONSTA X",
+  "followers": 5193262,
+  "monthlyListeners": 1370581,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 38206,
+        "region": "JK"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 19603,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 17879,
+        "region": "CMX"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 17745,
+        "region": "14"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 16794,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 0
+}

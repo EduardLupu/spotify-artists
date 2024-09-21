@@ -1,0 +1,41 @@
+{
+  "id": "6qgnBH6iDM91ipVXv28OMu",
+  "name": "KAYTRANADA",
+  "followers": 1531803,
+  "monthlyListeners": 7150493,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 213270,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 170464,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 138247,
+        "region": "NY"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 137521,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 124741,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

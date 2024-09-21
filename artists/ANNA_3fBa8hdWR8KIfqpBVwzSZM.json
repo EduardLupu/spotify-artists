@@ -1,0 +1,41 @@
+{
+  "id": "3fBa8hdWR8KIfqpBVwzSZM",
+  "name": "ANNA",
+  "followers": 313,
+  "monthlyListeners": 4849,
+  "topCities": {
+    "items": [
+      {
+        "city": "Kyiv",
+        "country": "UA",
+        "numberOfListeners": 681,
+        "region": "30"
+      },
+      {
+        "city": "Dnipro",
+        "country": "UA",
+        "numberOfListeners": 264,
+        "region": "12"
+      },
+      {
+        "city": "Lviv",
+        "country": "UA",
+        "numberOfListeners": 244,
+        "region": "46"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 184,
+        "region": "14"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 169,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

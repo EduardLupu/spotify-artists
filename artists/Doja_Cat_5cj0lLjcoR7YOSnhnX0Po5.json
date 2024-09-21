@@ -1,0 +1,41 @@
+{
+  "id": "5cj0lLjcoR7YOSnhnX0Po5",
+  "name": "Doja Cat",
+  "followers": 31294243,
+  "monthlyListeners": 49841882,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 730191,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 623995,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 610150,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 605773,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 517492,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 47
+}

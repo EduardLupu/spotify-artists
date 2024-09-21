@@ -1,0 +1,41 @@
+{
+  "id": "1Zkxm1dM3HI3QkTmxUEVQA",
+  "name": "Los Gemelos De Sinaloa",
+  "followers": 853537,
+  "monthlyListeners": 4627733,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 256541,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 195386,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 131619,
+        "region": "QUE"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 126295,
+        "region": "CA"
+      },
+      {
+        "city": "Tijuana",
+        "country": "MX",
+        "numberOfListeners": 117556,
+        "region": "BCN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

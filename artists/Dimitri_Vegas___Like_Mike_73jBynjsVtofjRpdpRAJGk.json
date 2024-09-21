@@ -1,0 +1,41 @@
+{
+  "id": "73jBynjsVtofjRpdpRAJGk",
+  "name": "Dimitri Vegas & Like Mike",
+  "followers": 3516178,
+  "monthlyListeners": 17138497,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 339841,
+        "region": "NH"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 265914,
+        "region": "BE"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 256024,
+        "region": "BRU"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 254467,
+        "region": "ZH"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 241835,
+        "region": "HH"
+      }
+    ]
+  },
+  "worldRank": 471
+}

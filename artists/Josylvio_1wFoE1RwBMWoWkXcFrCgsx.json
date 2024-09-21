@@ -1,0 +1,41 @@
+{
+  "id": "1wFoE1RwBMWoWkXcFrCgsx",
+  "name": "Josylvio",
+  "followers": 610459,
+  "monthlyListeners": 1181041,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 391510,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 320736,
+        "region": "ZH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 152346,
+        "region": "UT"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 79424,
+        "region": "BRU"
+      },
+      {
+        "city": "Amersfoort",
+        "country": "NL",
+        "numberOfListeners": 60005,
+        "region": "UT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

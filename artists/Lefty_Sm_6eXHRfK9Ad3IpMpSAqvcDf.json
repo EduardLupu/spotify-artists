@@ -1,0 +1,41 @@
+{
+  "id": "6eXHRfK9Ad3IpMpSAqvcDf",
+  "name": "Lefty Sm",
+  "followers": 2565524,
+  "monthlyListeners": 6189868,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 536702,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 305981,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 268608,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 260426,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 233184,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5NDMothbpdpq2xHqSjrrWn",
+  "name": "Faith Evans",
+  "followers": 1665025,
+  "monthlyListeners": 2509931,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 61123,
+        "region": "ENG"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 59623,
+        "region": "GP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 46305,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 38770,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 34127,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

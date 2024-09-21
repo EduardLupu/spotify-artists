@@ -1,0 +1,41 @@
+{
+  "id": "0zmxCsd8aIJHfNC95gdT2i",
+  "name": "ALEXSUCKS",
+  "followers": 19487,
+  "monthlyListeners": 549941,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 6582,
+        "region": "CA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 6238,
+        "region": "RM"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 5743,
+        "region": "IL"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 4942,
+        "region": "LMA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 4698,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

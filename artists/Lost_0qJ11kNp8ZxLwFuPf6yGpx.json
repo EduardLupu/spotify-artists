@@ -1,0 +1,41 @@
+{
+  "id": "0qJ11kNp8ZxLwFuPf6yGpx",
+  "name": "Lost",
+  "followers": 11811,
+  "monthlyListeners": 6908,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 1357,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 423,
+        "region": "62"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 179,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 156,
+        "region": "52"
+      },
+      {
+        "city": "Verona",
+        "country": "IT",
+        "numberOfListeners": 146,
+        "region": "34"
+      }
+    ]
+  },
+  "worldRank": 0
+}

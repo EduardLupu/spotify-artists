@@ -1,0 +1,41 @@
+{
+  "id": "28uJnu5EsrGml2tBd7y8ts",
+  "name": "Vintage Culture",
+  "followers": 1856778,
+  "monthlyListeners": 9714730,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 509502,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 191242,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 174133,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 166693,
+        "region": "PR"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 141363,
+        "region": "DF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0SwO7SWeDHJijQ3XNS7xEE",
+  "name": "MGMT",
+  "followers": 3190535,
+  "monthlyListeners": 16357635,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 293394,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 271566,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 242647,
+        "region": "VIC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 207073,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 190956,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 499
+}

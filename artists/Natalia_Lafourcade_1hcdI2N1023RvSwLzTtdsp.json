@@ -1,0 +1,41 @@
+{
+  "id": "1hcdI2N1023RvSwLzTtdsp",
+  "name": "Natalia Lafourcade",
+  "followers": 4669019,
+  "monthlyListeners": 12845101,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 835443,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 491186,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 429121,
+        "region": "DC"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 356895,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 332285,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "39T6qqI0jDtSWWioX8eGJz",
+  "name": "The Doobie Brothers",
+  "followers": 2568786,
+  "monthlyListeners": 9784686,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 167914,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 130674,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 128011,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 124079,
+        "region": "QLD"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 120472,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

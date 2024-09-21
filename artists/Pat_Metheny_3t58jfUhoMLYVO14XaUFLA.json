@@ -1,0 +1,41 @@
+{
+  "id": "3t58jfUhoMLYVO14XaUFLA",
+  "name": "Pat Metheny",
+  "followers": 368892,
+  "monthlyListeners": 568704,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 7473,
+        "region": "RM"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 6710,
+        "region": "14"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 6048,
+        "region": "ENG"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 5953,
+        "region": "IDF"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 5670,
+        "region": "25"
+      }
+    ]
+  },
+  "worldRank": 0
+}

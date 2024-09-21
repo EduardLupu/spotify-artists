@@ -1,0 +1,41 @@
+{
+  "id": "4IMAo2UQchVFyPH24PAjUs",
+  "name": "Jowell & Randy",
+  "followers": 4428320,
+  "monthlyListeners": 11551510,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 739171,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 598749,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 546887,
+        "region": "CMX"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 416920,
+        "region": "ANT"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 331330,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

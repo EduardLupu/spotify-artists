@@ -1,0 +1,41 @@
+{
+  "id": "60uh2KYYSCqAgJNxcU4DA0",
+  "name": "Hombres G",
+  "followers": 4434122,
+  "monthlyListeners": 11405813,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 822954,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 405675,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 392508,
+        "region": "LMA"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 355928,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 333334,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

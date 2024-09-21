@@ -1,0 +1,41 @@
+{
+  "id": "7Gj9vlL0VwiGadleo2Mz4t",
+  "name": "Jane 3",
+  "followers": 235,
+  "monthlyListeners": 596,
+  "topCities": {
+    "items": [
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 267,
+        "region": "NY"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 116,
+        "region": "BE"
+      },
+      {
+        "city": "Pomezia",
+        "country": "IT",
+        "numberOfListeners": 63,
+        "region": "62"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "NY"
+      },
+      {
+        "city": "Cheyenne",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "WY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

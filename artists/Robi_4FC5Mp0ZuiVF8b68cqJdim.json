@@ -1,0 +1,41 @@
+{
+  "id": "4FC5Mp0ZuiVF8b68cqJdim",
+  "name": "Robi",
+  "followers": 11363,
+  "monthlyListeners": 75151,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bucharest",
+        "country": "RO",
+        "numberOfListeners": 21829,
+        "region": "B"
+      },
+      {
+        "city": "Cluj-Napoca",
+        "country": "RO",
+        "numberOfListeners": 6328,
+        "region": "CJ"
+      },
+      {
+        "city": "Timișoara",
+        "country": "RO",
+        "numberOfListeners": 5178,
+        "region": "TM"
+      },
+      {
+        "city": "Iasi",
+        "country": "RO",
+        "numberOfListeners": 4147,
+        "region": "IS"
+      },
+      {
+        "city": "Ploieşti",
+        "country": "RO",
+        "numberOfListeners": 3920,
+        "region": "PH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

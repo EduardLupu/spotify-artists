@@ -1,0 +1,41 @@
+{
+  "id": "1lVi8dVhx7rkcnOEBzzYz8",
+  "name": "JuJu",
+  "followers": 940,
+  "monthlyListeners": 500,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 22,
+        "region": "13"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 14,
+        "region": "NY"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 13,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 9,
+        "region": "VIC"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 8,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

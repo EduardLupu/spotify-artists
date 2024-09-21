@@ -1,0 +1,41 @@
+{
+  "id": "5j4HeCoUlzhfWtjAfM1acR",
+  "name": "Stromae",
+  "followers": 3406951,
+  "monthlyListeners": 12019536,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 283316,
+        "region": "IDF"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 249650,
+        "region": "34"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 192175,
+        "region": "BRU"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 181287,
+        "region": "NH"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 136086,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

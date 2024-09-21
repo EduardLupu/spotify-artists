@@ -1,0 +1,41 @@
+{
+  "id": "6lHL3ubAMgSasKjNqKb8HF",
+  "name": "Mýa",
+  "followers": 1435830,
+  "monthlyListeners": 3831029,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 68904,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 62009,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 61406,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 47864,
+        "region": "QLD"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 40842,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

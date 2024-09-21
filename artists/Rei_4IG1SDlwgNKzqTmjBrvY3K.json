@@ -1,0 +1,41 @@
+{
+  "id": "4IG1SDlwgNKzqTmjBrvY3K",
+  "name": "Rei",
+  "followers": 684693,
+  "monthlyListeners": 3185739,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 473230,
+        "region": "C"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 203537,
+        "region": "B"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 170136,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 95011,
+        "region": "LMA"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 94565,
+        "region": "X"
+      }
+    ]
+  },
+  "worldRank": 0
+}

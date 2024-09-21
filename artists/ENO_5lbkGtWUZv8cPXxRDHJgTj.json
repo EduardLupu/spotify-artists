@@ -1,0 +1,41 @@
+{
+  "id": "5lbkGtWUZv8cPXxRDHJgTj",
+  "name": "ENO",
+  "followers": 76,
+  "monthlyListeners": 38,
+  "topCities": {
+    "items": [
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 9,
+        "region": "TPE"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 2,
+        "region": "BW"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 2,
+        "region": "BE"
+      },
+      {
+        "city": "New Taipei City",
+        "country": "TW",
+        "numberOfListeners": 2,
+        "region": "NWT"
+      },
+      {
+        "city": "Kaohsiung",
+        "country": "TW",
+        "numberOfListeners": 2,
+        "region": "KHH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

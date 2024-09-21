@@ -1,0 +1,41 @@
+{
+  "id": "2CCgb0KApjfQDuTppovpf8",
+  "name": "Rvfv",
+  "followers": 727575,
+  "monthlyListeners": 11985323,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 789357,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 538974,
+        "region": "CT"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 388066,
+        "region": "RM"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 285727,
+        "region": "25"
+      },
+      {
+        "city": "Valencia",
+        "country": "ES",
+        "numberOfListeners": 239861,
+        "region": "VC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

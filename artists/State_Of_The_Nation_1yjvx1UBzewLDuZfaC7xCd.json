@@ -1,0 +1,41 @@
+{
+  "id": "1yjvx1UBzewLDuZfaC7xCd",
+  "name": "State Of The Nation",
+  "followers": 378,
+  "monthlyListeners": 174,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 6,
+        "region": "NSW"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 5,
+        "region": "BE"
+      },
+      {
+        "city": "Durango",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "CO"
+      },
+      {
+        "city": "Jacksonville",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "FL"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

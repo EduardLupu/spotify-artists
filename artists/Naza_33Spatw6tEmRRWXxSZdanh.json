@@ -1,0 +1,41 @@
+{
+  "id": "33Spatw6tEmRRWXxSZdanh",
+  "name": "Naza",
+  "followers": 295,
+  "monthlyListeners": 236,
+  "topCities": {
+    "items": [
+      {
+        "city": "Budapest",
+        "country": "HU",
+        "numberOfListeners": 149,
+        "region": "BU"
+      },
+      {
+        "city": "Győr",
+        "country": "HU",
+        "numberOfListeners": 4,
+        "region": "GS"
+      },
+      {
+        "city": "Sopron",
+        "country": "HU",
+        "numberOfListeners": 4,
+        "region": "GS"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 3,
+        "region": "BY"
+      },
+      {
+        "city": "Bucharest",
+        "country": "RO",
+        "numberOfListeners": 3,
+        "region": "B"
+      }
+    ]
+  },
+  "worldRank": 0
+}

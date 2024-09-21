@@ -1,0 +1,41 @@
+{
+  "id": "4vhNDa5ycK0ST968ek7kRr",
+  "name": "Carlos Vives",
+  "followers": 6226775,
+  "monthlyListeners": 17890703,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 831262,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 771183,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 571318,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 555485,
+        "region": "LMA"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 337452,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 435
+}

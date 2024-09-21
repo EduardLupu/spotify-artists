@@ -1,0 +1,41 @@
+{
+  "id": "1elUiq4X7pxej6FRlrEzjM",
+  "name": "Jorge & Mateus",
+  "followers": 20086291,
+  "monthlyListeners": 13895687,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 2406679,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 982640,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 777683,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 765256,
+        "region": "PR"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 735273,
+        "region": "DF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3qiHUAX7zY4Qnjx8TNUzVx",
+  "name": "Yeat",
+  "followers": 5299497,
+  "monthlyListeners": 17562670,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 246294,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 234809,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 233588,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 227388,
+        "region": "NY"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 215249,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 453
+}

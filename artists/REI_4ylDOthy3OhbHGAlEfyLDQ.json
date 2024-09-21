@@ -1,0 +1,41 @@
+{
+  "id": "4ylDOthy3OhbHGAlEfyLDQ",
+  "name": "REI",
+  "followers": 507,
+  "monthlyListeners": 2844,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 367,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 257,
+        "region": "ZH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 136,
+        "region": "UT"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 133,
+        "region": "BRU"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 125,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

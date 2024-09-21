@@ -1,0 +1,41 @@
+{
+  "id": "4BLdbgVNetzII3ggCMsNtq",
+  "name": "Madds Buckley",
+  "followers": 152094,
+  "monthlyListeners": 1300173,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 16065,
+        "region": "SP"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 12611,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 11269,
+        "region": "TX"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 11078,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 10570,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

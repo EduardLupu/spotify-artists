@@ -1,0 +1,41 @@
+{
+  "id": "675tsBPpaZtqyiBwEf3ZEP",
+  "name": "Watchhouse",
+  "followers": 334795,
+  "monthlyListeners": 3022442,
+  "topCities": {
+    "items": [
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 75849,
+        "region": "CO"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 53177,
+        "region": "IL"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 52569,
+        "region": "WA"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 52490,
+        "region": "NC"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 44257,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

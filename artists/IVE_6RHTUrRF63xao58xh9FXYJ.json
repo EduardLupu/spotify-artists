@@ -1,0 +1,41 @@
+{
+  "id": "6RHTUrRF63xao58xh9FXYJ",
+  "name": "IVE",
+  "followers": 4530082,
+  "monthlyListeners": 6632858,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 410517,
+        "region": "JK"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 264199,
+        "region": "13"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 143347,
+        "region": "14"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 137545,
+        "region": "TPE"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 130812,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

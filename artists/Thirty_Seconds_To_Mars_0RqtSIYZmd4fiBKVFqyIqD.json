@@ -1,0 +1,41 @@
+{
+  "id": "0RqtSIYZmd4fiBKVFqyIqD",
+  "name": "Thirty Seconds To Mars",
+  "followers": 3546191,
+  "monthlyListeners": 8902602,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 156938,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 142571,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 117806,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 104343,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 101293,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

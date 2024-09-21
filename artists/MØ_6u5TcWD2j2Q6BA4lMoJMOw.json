@@ -1,0 +1,41 @@
+{
+  "id": "6u5TcWD2j2Q6BA4lMoJMOw",
+  "name": "MØ",
+  "followers": 399,
+  "monthlyListeners": 4734,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 409,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 285,
+        "region": "ZH"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 174,
+        "region": "BRU"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 115,
+        "region": "UT"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 97,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

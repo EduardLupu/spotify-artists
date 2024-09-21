@@ -1,0 +1,41 @@
+{
+  "id": "6DgP9otnZw5z6daOntINxp",
+  "name": "Joel Corry",
+  "followers": 433981,
+  "monthlyListeners": 13925029,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 343162,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 237694,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 189517,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 183763,
+        "region": "NH"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 152711,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

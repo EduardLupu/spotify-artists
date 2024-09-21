@@ -1,0 +1,41 @@
+{
+  "id": "3Uobr6LgQpBbk6k4QGAb3V",
+  "name": "I Prevail",
+  "followers": 1541990,
+  "monthlyListeners": 4473206,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 82034,
+        "region": "JK"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 68598,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 63665,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 60867,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 59970,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

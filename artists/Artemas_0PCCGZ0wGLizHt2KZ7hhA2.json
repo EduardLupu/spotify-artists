@@ -1,0 +1,41 @@
+{
+  "id": "0PCCGZ0wGLizHt2KZ7hhA2",
+  "name": "Artemas",
+  "followers": 921365,
+  "monthlyListeners": 30694483,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 372182,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 351068,
+        "region": "ENG"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 345148,
+        "region": "14"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 328187,
+        "region": "VIC"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 325663,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 150
+}

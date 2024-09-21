@@ -1,0 +1,41 @@
+{
+  "id": "69UypehHabb68utzfjAVlV",
+  "name": "Kany García",
+  "followers": 3020905,
+  "monthlyListeners": 11999346,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 687021,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 685843,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 510841,
+        "region": "RM"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 376852,
+        "region": "JAL"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 323511,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

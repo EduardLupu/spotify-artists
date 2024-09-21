@@ -1,0 +1,41 @@
+{
+  "id": "0VKh7CQDi9MkUvaBMoK1V0",
+  "name": "Bronco",
+  "followers": 3755516,
+  "monthlyListeners": 7764819,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 580706,
+        "region": "CMX"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 310858,
+        "region": "GU"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 265315,
+        "region": "JAL"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 257577,
+        "region": "PUE"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 248153,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "44qMkOoou5YVTDJYPWCPBU",
+  "name": "LEON",
+  "followers": 43,
+  "monthlyListeners": 793,
+  "topCities": {
+    "items": [
+      {
+        "city": "Casablanca",
+        "country": "MA",
+        "numberOfListeners": 130,
+        "region": "06"
+      },
+      {
+        "city": "Fes",
+        "country": "MA",
+        "numberOfListeners": 30,
+        "region": "03"
+      },
+      {
+        "city": "Rabat",
+        "country": "MA",
+        "numberOfListeners": 28,
+        "region": "04"
+      },
+      {
+        "city": "Agadir",
+        "country": "MA",
+        "numberOfListeners": 26,
+        "region": "09"
+      },
+      {
+        "city": "Marrakesh",
+        "country": "MA",
+        "numberOfListeners": 24,
+        "region": "07"
+      }
+    ]
+  },
+  "worldRank": 0
+}

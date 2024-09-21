@@ -1,0 +1,41 @@
+{
+  "id": "0NsJZ5PMjqghGDuMzY7CuT",
+  "name": "Marcos & Belutti",
+  "followers": 5345274,
+  "monthlyListeners": 6914334,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 997193,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 379095,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 322297,
+        "region": "PR"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 296778,
+        "region": "SP"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 293461,
+        "region": "DF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

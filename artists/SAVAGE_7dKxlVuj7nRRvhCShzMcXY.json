@@ -1,0 +1,41 @@
+{
+  "id": "7dKxlVuj7nRRvhCShzMcXY",
+  "name": "SAVAGE",
+  "followers": 10608,
+  "monthlyListeners": 21472,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 6315,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 1150,
+        "region": "62"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 920,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 553,
+        "region": "52"
+      },
+      {
+        "city": "Verona",
+        "country": "IT",
+        "numberOfListeners": 545,
+        "region": "34"
+      }
+    ]
+  },
+  "worldRank": 0
+}

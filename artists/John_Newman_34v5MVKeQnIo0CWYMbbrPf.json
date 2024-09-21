@@ -1,0 +1,41 @@
+{
+  "id": "34v5MVKeQnIo0CWYMbbrPf",
+  "name": "John Newman",
+  "followers": 747416,
+  "monthlyListeners": 14248348,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 245458,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 231080,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 195061,
+        "region": "NSW"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 194642,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 172969,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

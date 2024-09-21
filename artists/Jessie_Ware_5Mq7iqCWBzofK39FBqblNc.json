@@ -1,0 +1,41 @@
+{
+  "id": "5Mq7iqCWBzofK39FBqblNc",
+  "name": "Jessie Ware",
+  "followers": 769002,
+  "monthlyListeners": 2011082,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 76161,
+        "region": "ENG"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 29621,
+        "region": "14"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 27566,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 24445,
+        "region": "NSW"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 22450,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

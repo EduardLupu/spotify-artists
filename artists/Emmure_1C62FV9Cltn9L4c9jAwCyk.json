@@ -1,0 +1,41 @@
+{
+  "id": "1C62FV9Cltn9L4c9jAwCyk",
+  "name": "Emmure",
+  "followers": 352781,
+  "monthlyListeners": 934394,
+  "topCities": {
+    "items": [
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 14233,
+        "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 14144,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 12490,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 12401,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 10537,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

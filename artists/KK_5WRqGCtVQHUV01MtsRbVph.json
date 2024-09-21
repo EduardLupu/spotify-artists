@@ -1,0 +1,41 @@
+{
+  "id": "5WRqGCtVQHUV01MtsRbVph",
+  "name": "KK",
+  "followers": 1279,
+  "monthlyListeners": 1199,
+  "topCities": {
+    "items": [
+      {
+        "city": "Colombo",
+        "country": "LK",
+        "numberOfListeners": 809,
+        "region": "1"
+      },
+      {
+        "city": "Kaduwela",
+        "country": "LK",
+        "numberOfListeners": 48,
+        "region": "1"
+      },
+      {
+        "city": "Kandy",
+        "country": "LK",
+        "numberOfListeners": 43,
+        "region": "2"
+      },
+      {
+        "city": "Kurunegala",
+        "country": "LK",
+        "numberOfListeners": 31,
+        "region": "6"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 20,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

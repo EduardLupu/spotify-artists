@@ -1,0 +1,41 @@
+{
+  "id": "0fiWOxhsBsQQvFDtxUQWo0",
+  "name": "Brett Young",
+  "followers": 1150561,
+  "monthlyListeners": 4275931,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 79189,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 67953,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 65610,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 63169,
+        "region": "TX"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 54819,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

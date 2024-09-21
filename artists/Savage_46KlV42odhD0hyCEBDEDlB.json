@@ -1,0 +1,41 @@
+{
+  "id": "46KlV42odhD0hyCEBDEDlB",
+  "name": "Savage",
+  "followers": 177,
+  "monthlyListeners": 9637,
+  "topCities": {
+    "items": [
+      {
+        "city": "Nairobi",
+        "country": "KE",
+        "numberOfListeners": 805,
+        "region": "30"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 512,
+        "region": "RM"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 418,
+        "region": "ENG"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 413,
+        "region": "DC"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 311,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

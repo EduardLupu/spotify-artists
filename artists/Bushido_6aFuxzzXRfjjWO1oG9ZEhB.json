@@ -1,0 +1,41 @@
+{
+  "id": "6aFuxzzXRfjjWO1oG9ZEhB",
+  "name": "Bushido",
+  "followers": 11865,
+  "monthlyListeners": 44075,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 6949,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 2694,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 2454,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 2391,
+        "region": "JAL"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 2034,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

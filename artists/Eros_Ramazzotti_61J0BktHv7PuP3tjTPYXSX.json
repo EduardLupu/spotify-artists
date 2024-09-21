@@ -1,0 +1,41 @@
+{
+  "id": "61J0BktHv7PuP3tjTPYXSX",
+  "name": "Eros Ramazzotti",
+  "followers": 2260605,
+  "monthlyListeners": 6977604,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 257407,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 208074,
+        "region": "CMX"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 153857,
+        "region": "25"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 129104,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 112110,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

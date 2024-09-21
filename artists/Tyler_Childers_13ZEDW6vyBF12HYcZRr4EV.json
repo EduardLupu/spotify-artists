@@ -1,0 +1,41 @@
+{
+  "id": "13ZEDW6vyBF12HYcZRr4EV",
+  "name": "Tyler Childers",
+  "followers": 2608944,
+  "monthlyListeners": 12269758,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 294898,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 285809,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 281036,
+        "region": "NC"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 269056,
+        "region": "CO"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 217723,
+        "region": "GA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

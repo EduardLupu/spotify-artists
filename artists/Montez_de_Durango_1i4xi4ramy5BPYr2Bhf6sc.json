@@ -1,0 +1,41 @@
+{
+  "id": "1i4xi4ramy5BPYr2Bhf6sc",
+  "name": "Montez de Durango",
+  "followers": 610148,
+  "monthlyListeners": 2319566,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 168079,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 92610,
+        "region": "JAL"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 91756,
+        "region": "GU"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 85980,
+        "region": "CMX"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 82938,
+        "region": "QUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3Y8fH6qqMlkoN5DHPQwbo4",
+  "name": "EXO",
+  "followers": 653,
+  "monthlyListeners": 62224,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 1224,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 1143,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 959,
+        "region": "SP"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 892,
+        "region": "QLD"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 625,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

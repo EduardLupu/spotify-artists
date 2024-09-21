@@ -1,0 +1,41 @@
+{
+  "id": "7Hf9AwMO37bSdxHb0FBGmO",
+  "name": "Alejandra Guzman",
+  "followers": 3837168,
+  "monthlyListeners": 5672084,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 523938,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 222151,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 209798,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 201531,
+        "region": "PUE"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 172860,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

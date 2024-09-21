@@ -1,0 +1,41 @@
+{
+  "id": "2KjAo6wVc9d2WcxdxSArpV",
+  "name": "RY X",
+  "followers": 550042,
+  "monthlyListeners": 3625388,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 60117,
+        "region": "BE"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 56050,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 55959,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 49309,
+        "region": "VIC"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 48542,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7jdFEYD2LTYjfwxOdlVjmc",
+  "name": "KALEO",
+  "followers": 1843874,
+  "monthlyListeners": 14323874,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 183635,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 166428,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 163942,
+        "region": "ENG"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 139307,
+        "region": "IDF"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 137243,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

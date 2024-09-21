@@ -1,0 +1,41 @@
+{
+  "id": "5cdbXEnJgop6zjIxn4ljZ8",
+  "name": "Blake Rules",
+  "followers": 11942,
+  "monthlyListeners": 55418,
+  "topCities": {
+    "items": [
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 876,
+        "region": "WA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 861,
+        "region": "IL"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 777,
+        "region": "CO"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 759,
+        "region": "NSW"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 738,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

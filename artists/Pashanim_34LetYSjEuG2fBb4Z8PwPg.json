@@ -1,0 +1,41 @@
+{
+  "id": "34LetYSjEuG2fBb4Z8PwPg",
+  "name": "Pashanim",
+  "followers": 860760,
+  "monthlyListeners": 4315747,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 527578,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 384063,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 371021,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 319439,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 275153,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

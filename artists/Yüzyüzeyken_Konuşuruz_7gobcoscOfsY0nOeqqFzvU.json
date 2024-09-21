@@ -1,0 +1,41 @@
+{
+  "id": "7gobcoscOfsY0nOeqqFzvU",
+  "name": "Yüzyüzeyken Konuşuruz",
+  "followers": 2774226,
+  "monthlyListeners": 3202398,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 1038512,
+        "region": "34"
+      },
+      {
+        "city": "Ankara",
+        "country": "TR",
+        "numberOfListeners": 542432,
+        "region": "06"
+      },
+      {
+        "city": "Izmir",
+        "country": "TR",
+        "numberOfListeners": 385134,
+        "region": "35"
+      },
+      {
+        "city": "Bursa",
+        "country": "TR",
+        "numberOfListeners": 194316,
+        "region": "16"
+      },
+      {
+        "city": "Adana",
+        "country": "TR",
+        "numberOfListeners": 165466,
+        "region": "01"
+      }
+    ]
+  },
+  "worldRank": 0
+}

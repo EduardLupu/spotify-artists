@@ -1,0 +1,41 @@
+{
+  "id": "4sVieJlKgpZ2k9ESNS5IdN",
+  "name": "Jamule",
+  "followers": 341144,
+  "monthlyListeners": 2375445,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 242323,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 191850,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 191427,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 162095,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 146995,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

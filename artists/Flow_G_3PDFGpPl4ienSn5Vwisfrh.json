@@ -1,0 +1,41 @@
+{
+  "id": "3PDFGpPl4ienSn5Vwisfrh",
+  "name": "Flow G",
+  "followers": 2793877,
+  "monthlyListeners": 4601082,
+  "topCities": {
+    "items": [
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 658507,
+        "region": "00"
+      },
+      {
+        "city": "Manila",
+        "country": "PH",
+        "numberOfListeners": 406023,
+        "region": "00"
+      },
+      {
+        "city": "Caloocan City",
+        "country": "PH",
+        "numberOfListeners": 268027,
+        "region": "00"
+      },
+      {
+        "city": "Davao City",
+        "country": "PH",
+        "numberOfListeners": 245239,
+        "region": "11"
+      },
+      {
+        "city": "San Juan",
+        "country": "PH",
+        "numberOfListeners": 223969,
+        "region": "00"
+      }
+    ]
+  },
+  "worldRank": 0
+}

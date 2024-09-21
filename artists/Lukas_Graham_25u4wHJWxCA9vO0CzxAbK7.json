@@ -1,0 +1,41 @@
+{
+  "id": "25u4wHJWxCA9vO0CzxAbK7",
+  "name": "Lukas Graham",
+  "followers": 2269013,
+  "monthlyListeners": 12598704,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 319444,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 151017,
+        "region": "NSW"
+      },
+      {
+        "city": "Copenhagen",
+        "country": "DK",
+        "numberOfListeners": 146857,
+        "region": "84"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 124949,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 120618,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

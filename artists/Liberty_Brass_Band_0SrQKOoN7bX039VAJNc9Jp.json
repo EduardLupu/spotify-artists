@@ -1,0 +1,41 @@
+{
+  "id": "0SrQKOoN7bX039VAJNc9Jp",
+  "name": "Liberty Brass Band",
+  "followers": 1424,
+  "monthlyListeners": 3469,
+  "topCities": {
+    "items": [
+      {
+        "city": "New Orleans",
+        "country": "US",
+        "numberOfListeners": 88,
+        "region": "LA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 52,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 49,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 48,
+        "region": "NY"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 42,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

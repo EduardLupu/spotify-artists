@@ -1,0 +1,41 @@
+{
+  "id": "7hIqJfRYGBWWT1Qxu6Cpd2",
+  "name": "Andy Rivera",
+  "followers": 3062574,
+  "monthlyListeners": 5393269,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1229253,
+        "region": "DC"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 610942,
+        "region": "ANT"
+      },
+      {
+        "city": "Santiago de Cali",
+        "country": "CO",
+        "numberOfListeners": 280522,
+        "region": "VAC"
+      },
+      {
+        "city": "Barranquilla",
+        "country": "CO",
+        "numberOfListeners": 200629,
+        "region": "ATL"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 183290,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

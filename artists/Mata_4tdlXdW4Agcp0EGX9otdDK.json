@@ -1,0 +1,41 @@
+{
+  "id": "4tdlXdW4Agcp0EGX9otdDK",
+  "name": "Mata",
+  "followers": 17239,
+  "monthlyListeners": 27387,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 5545,
+        "region": "IDF"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 557,
+        "region": "ARA"
+      },
+      {
+        "city": "Toulouse",
+        "country": "FR",
+        "numberOfListeners": 526,
+        "region": "OCC"
+      },
+      {
+        "city": "Bordeaux",
+        "country": "FR",
+        "numberOfListeners": 497,
+        "region": "NAQ"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 345,
+        "region": "HDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

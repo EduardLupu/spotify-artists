@@ -1,0 +1,41 @@
+{
+  "id": "6rVPWyQqL7diEkEpsFn06O",
+  "name": "Aleman",
+  "followers": 245,
+  "monthlyListeners": 380,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tegucigalpa",
+        "country": "HN",
+        "numberOfListeners": 74,
+        "region": "FM"
+      },
+      {
+        "city": "San Pedro Sula",
+        "country": "HN",
+        "numberOfListeners": 74,
+        "region": "CR"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 18,
+        "region": "CMX"
+      },
+      {
+        "city": "La Ceiba",
+        "country": "HN",
+        "numberOfListeners": 14,
+        "region": "AT"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 7,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

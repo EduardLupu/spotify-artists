@@ -1,0 +1,41 @@
+{
+  "id": "5wTdspmxzb8V4ZjvDodpBo",
+  "name": "A Touch Of Class",
+  "followers": 42315,
+  "monthlyListeners": 5536504,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 63682,
+        "region": "NSW"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 59970,
+        "region": "BE"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 58346,
+        "region": "10"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 57986,
+        "region": "14"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 55816,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

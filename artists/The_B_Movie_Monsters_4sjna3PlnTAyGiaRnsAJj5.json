@@ -1,0 +1,41 @@
+{
+  "id": "4sjna3PlnTAyGiaRnsAJj5",
+  "name": "The B Movie Monsters",
+  "followers": 2066,
+  "monthlyListeners": 550,
+  "topCities": {
+    "items": [
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 10,
+        "region": "WA"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 9,
+        "region": "PA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 8,
+        "region": "IL"
+      },
+      {
+        "city": "Detroit",
+        "country": "US",
+        "numberOfListeners": 8,
+        "region": "MI"
+      },
+      {
+        "city": "Indianapolis",
+        "country": "US",
+        "numberOfListeners": 7,
+        "region": "IN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5WJCUSIw2Td5IEfa3LXCo9",
+  "name": "Ax and the Hatchetmen",
+  "followers": 51828,
+  "monthlyListeners": 442970,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 9821,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 7971,
+        "region": "NY"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 7850,
+        "region": "CA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 7233,
+        "region": "CO"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 6351,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

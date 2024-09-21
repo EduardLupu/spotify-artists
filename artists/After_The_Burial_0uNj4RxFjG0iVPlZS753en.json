@@ -1,0 +1,41 @@
+{
+  "id": "0uNj4RxFjG0iVPlZS753en",
+  "name": "After The Burial",
+  "followers": 307814,
+  "monthlyListeners": 335009,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 5685,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 4335,
+        "region": "TX"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 4288,
+        "region": "CO"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 4231,
+        "region": "PA"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 4044,
+        "region": "AZ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

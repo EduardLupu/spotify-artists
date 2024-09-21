@@ -1,0 +1,41 @@
+{
+  "id": "7gwJ8TW7iRGwBMUplmuLte",
+  "name": "ROAR",
+  "followers": 910,
+  "monthlyListeners": 1975,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 521,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 144,
+        "region": "27"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 70,
+        "region": "13"
+      },
+      {
+        "city": "Nagoya",
+        "country": "JP",
+        "numberOfListeners": 61,
+        "region": "23"
+      },
+      {
+        "city": "Yokohama",
+        "country": "JP",
+        "numberOfListeners": 58,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

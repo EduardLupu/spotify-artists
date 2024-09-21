@@ -1,0 +1,41 @@
+{
+  "id": "3AnRJXttxRO7191Fxwkaxz",
+  "name": "kevin",
+  "followers": 4433,
+  "monthlyListeners": 28637,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 2552,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 2179,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 1457,
+        "region": "BY"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 1306,
+        "region": "HE"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 1051,
+        "region": "9"
+      }
+    ]
+  },
+  "worldRank": 0
+}

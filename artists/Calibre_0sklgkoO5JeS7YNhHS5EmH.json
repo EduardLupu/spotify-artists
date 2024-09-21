@@ -1,0 +1,41 @@
+{
+  "id": "0sklgkoO5JeS7YNhHS5EmH",
+  "name": "Calibre",
+  "followers": 103002,
+  "monthlyListeners": 299031,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 24772,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 7335,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 5940,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 5515,
+        "region": "ENG"
+      },
+      {
+        "city": "Auckland",
+        "country": "NZ",
+        "numberOfListeners": 5128,
+        "region": "AUK"
+      }
+    ]
+  },
+  "worldRank": 0
+}

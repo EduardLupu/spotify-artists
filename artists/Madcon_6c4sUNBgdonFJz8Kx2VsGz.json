@@ -1,0 +1,41 @@
+{
+  "id": "6c4sUNBgdonFJz8Kx2VsGz",
+  "name": "Madcon",
+  "followers": 436335,
+  "monthlyListeners": 5507286,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 105676,
+        "region": "IDF"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 88389,
+        "region": "BE"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 70859,
+        "region": "ENG"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 68149,
+        "region": "14"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 67864,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

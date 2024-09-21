@@ -1,0 +1,41 @@
+{
+  "id": "3WGpXCj9YhhfX11TToZcXP",
+  "name": "Troye Sivan",
+  "followers": 8310600,
+  "monthlyListeners": 23664148,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 958083,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 391143,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 353845,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 309476,
+        "region": "ENG"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 282374,
+        "region": "00"
+      }
+    ]
+  },
+  "worldRank": 256
+}

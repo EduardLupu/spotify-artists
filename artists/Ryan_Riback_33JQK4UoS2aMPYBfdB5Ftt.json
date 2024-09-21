@@ -1,0 +1,41 @@
+{
+  "id": "33JQK4UoS2aMPYBfdB5Ftt",
+  "name": "Ryan Riback",
+  "followers": 15641,
+  "monthlyListeners": 2395887,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 70520,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 53804,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 48437,
+        "region": "QLD"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 30069,
+        "region": "ENG"
+      },
+      {
+        "city": "Perth",
+        "country": "AU",
+        "numberOfListeners": 26189,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

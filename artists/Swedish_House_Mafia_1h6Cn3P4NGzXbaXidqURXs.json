@@ -1,0 +1,41 @@
+{
+  "id": "1h6Cn3P4NGzXbaXidqURXs",
+  "name": "Swedish House Mafia",
+  "followers": 3836107,
+  "monthlyListeners": 25785817,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 428816,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 369097,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 358494,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 316558,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 290036,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 207
+}

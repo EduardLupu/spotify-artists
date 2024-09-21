@@ -1,0 +1,41 @@
+{
+  "id": "5RK6c1tyaKpwcDpbgCGNgj",
+  "name": "El Canto Del Loco",
+  "followers": 1052356,
+  "monthlyListeners": 2682324,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 390852,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 222024,
+        "region": "CT"
+      },
+      {
+        "city": "Valencia",
+        "country": "ES",
+        "numberOfListeners": 96099,
+        "region": "VC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 68393,
+        "region": "CMX"
+      },
+      {
+        "city": "Seville",
+        "country": "ES",
+        "numberOfListeners": 62196,
+        "region": "AN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

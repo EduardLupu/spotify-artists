@@ -1,0 +1,41 @@
+{
+  "id": "59eoOrX85XfQZh0d2ImTMz",
+  "name": "Diddy",
+  "followers": 118,
+  "monthlyListeners": 3881,
+  "topCities": {
+    "items": [
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 431,
+        "region": "ENG"
+      },
+      {
+        "city": "Liverpool",
+        "country": "GB",
+        "numberOfListeners": 356,
+        "region": "ENG"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 272,
+        "region": "L"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 201,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 99,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

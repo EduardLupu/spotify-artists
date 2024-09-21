@@ -1,0 +1,41 @@
+{
+  "id": "6aGSzthld2n0Wzk5jCcayv",
+  "name": "Capo",
+  "followers": 11481,
+  "monthlyListeners": 3723,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 156,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 82,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 54,
+        "region": "NY"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 52,
+        "region": "TX"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 52,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

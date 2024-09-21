@@ -1,0 +1,41 @@
+{
+  "id": "08Ld63UgKrJ0nZnCkzHtzc",
+  "name": "Project Pat",
+  "followers": 865561,
+  "monthlyListeners": 2632528,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 56189,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 53932,
+        "region": "TX"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 50826,
+        "region": "CA"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 45017,
+        "region": "TX"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 40781,
+        "region": "GA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

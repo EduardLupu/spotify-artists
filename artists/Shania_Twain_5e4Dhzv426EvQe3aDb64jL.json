@@ -1,0 +1,41 @@
+{
+  "id": "5e4Dhzv426EvQe3aDb64jL",
+  "name": "Shania Twain",
+  "followers": 3114404,
+  "monthlyListeners": 13974991,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 246385,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 236306,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 233907,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 194971,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 175706,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "78V5Xh3taZwfgq2xVtZiki",
+  "name": "ALMA",
+  "followers": 29044,
+  "monthlyListeners": 340941,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 125271,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 29900,
+        "region": "JB"
+      },
+      {
+        "city": "Surabaya",
+        "country": "ID",
+        "numberOfListeners": 13961,
+        "region": "JI"
+      },
+      {
+        "city": "Semarang",
+        "country": "ID",
+        "numberOfListeners": 12893,
+        "region": "JT"
+      },
+      {
+        "city": "Makassar",
+        "country": "ID",
+        "numberOfListeners": 12844,
+        "region": "SN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

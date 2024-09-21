@@ -1,0 +1,41 @@
+{
+  "id": "5ghp5ErAmXs1NTonjBM5kT",
+  "name": "Roy C",
+  "followers": 13363,
+  "monthlyListeners": 10642,
+  "topCities": {
+    "items": [
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 396,
+        "region": "NC"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 217,
+        "region": "GA"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 203,
+        "region": "TX"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 197,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 151,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

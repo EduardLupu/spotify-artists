@@ -1,0 +1,41 @@
+{
+  "id": "57WHJIHrjOE3iAxpihhMnp",
+  "name": "Louis Tomlinson",
+  "followers": 7073386,
+  "monthlyListeners": 2454196,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 89287,
+        "region": "JK"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 44517,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 27638,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 27233,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 25918,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "75gewyyPpbOMU5Oy1w5awI",
+  "name": "Legado",
+  "followers": 25,
+  "monthlyListeners": 205,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 125,
+        "region": "RM"
+      },
+      {
+        "city": "Port Montt",
+        "country": "CL",
+        "numberOfListeners": 23,
+        "region": "LL"
+      },
+      {
+        "city": "Concepción",
+        "country": "CL",
+        "numberOfListeners": 22,
+        "region": "BI"
+      },
+      {
+        "city": "Temuco",
+        "country": "CL",
+        "numberOfListeners": 11,
+        "region": "AR"
+      },
+      {
+        "city": "Osorno",
+        "country": "CL",
+        "numberOfListeners": 8,
+        "region": "LL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

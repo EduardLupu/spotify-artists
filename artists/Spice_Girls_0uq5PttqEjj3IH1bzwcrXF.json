@@ -1,0 +1,41 @@
+{
+  "id": "0uq5PttqEjj3IH1bzwcrXF",
+  "name": "Spice Girls",
+  "followers": 3752137,
+  "monthlyListeners": 12238563,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 188357,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 182383,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 168422,
+        "region": "VIC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 158333,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 137610,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

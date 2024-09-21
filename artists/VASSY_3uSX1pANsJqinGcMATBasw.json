@@ -1,0 +1,41 @@
+{
+  "id": "3uSX1pANsJqinGcMATBasw",
+  "name": "VASSY",
+  "followers": 79,
+  "monthlyListeners": 32,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 4,
+        "region": "IDF"
+      },
+      {
+        "city": "Le Pontet",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "PAC"
+      },
+      {
+        "city": "Le Crès",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "OCC"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "ARA"
+      },
+      {
+        "city": "Bobigny",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

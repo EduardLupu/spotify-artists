@@ -1,0 +1,41 @@
+{
+  "id": "1hP7FHieMakh44E1edH89w",
+  "name": "Sia",
+  "followers": 1263,
+  "monthlyListeners": 5912,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 924,
+        "region": "LA"
+      },
+      {
+        "city": "Port Harcourt",
+        "country": "NG",
+        "numberOfListeners": 362,
+        "region": "RI"
+      },
+      {
+        "city": "Abuja",
+        "country": "NG",
+        "numberOfListeners": 333,
+        "region": "FC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 195,
+        "region": "SP"
+      },
+      {
+        "city": "Accra",
+        "country": "GH",
+        "numberOfListeners": 118,
+        "region": "AA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

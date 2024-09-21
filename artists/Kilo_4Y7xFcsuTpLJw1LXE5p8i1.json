@@ -1,0 +1,41 @@
+{
+  "id": "4Y7xFcsuTpLJw1LXE5p8i1",
+  "name": "Kilo",
+  "followers": 5,
+  "monthlyListeners": 236,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 15,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 9,
+        "region": "RM"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 9,
+        "region": "PUE"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 8,
+        "region": "DC"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 5,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

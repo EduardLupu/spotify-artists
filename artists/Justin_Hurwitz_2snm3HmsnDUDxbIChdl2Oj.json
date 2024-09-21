@@ -1,0 +1,41 @@
+{
+  "id": "2snm3HmsnDUDxbIChdl2Oj",
+  "name": "Justin Hurwitz",
+  "followers": 161329,
+  "monthlyListeners": 5113771,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 70031,
+        "region": "IDF"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 62405,
+        "region": "CMX"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 62028,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 57268,
+        "region": "CA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 51127,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

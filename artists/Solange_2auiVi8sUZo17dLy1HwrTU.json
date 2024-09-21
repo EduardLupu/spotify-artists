@@ -1,0 +1,41 @@
+{
+  "id": "2auiVi8sUZo17dLy1HwrTU",
+  "name": "Solange",
+  "followers": 2096187,
+  "monthlyListeners": 2370802,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 65157,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 61060,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 52824,
+        "region": "NY"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 52623,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 41884,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

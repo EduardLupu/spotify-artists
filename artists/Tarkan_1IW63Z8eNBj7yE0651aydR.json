@@ -1,0 +1,41 @@
+{
+  "id": "1IW63Z8eNBj7yE0651aydR",
+  "name": "Tarkan",
+  "followers": 448,
+  "monthlyListeners": 2349,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sofia",
+        "country": "BG",
+        "numberOfListeners": 557,
+        "region": "22"
+      },
+      {
+        "city": "Bucharest",
+        "country": "RO",
+        "numberOfListeners": 207,
+        "region": "B"
+      },
+      {
+        "city": "Varna",
+        "country": "BG",
+        "numberOfListeners": 60,
+        "region": "03"
+      },
+      {
+        "city": "Bratislava",
+        "country": "SK",
+        "numberOfListeners": 59,
+        "region": "BL"
+      },
+      {
+        "city": "Cluj-Napoca",
+        "country": "RO",
+        "numberOfListeners": 38,
+        "region": "CJ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

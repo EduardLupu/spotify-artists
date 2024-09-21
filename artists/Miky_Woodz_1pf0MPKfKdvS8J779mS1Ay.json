@@ -1,0 +1,41 @@
+{
+  "id": "1pf0MPKfKdvS8J779mS1Ay",
+  "name": "Miky Woodz",
+  "followers": 4375364,
+  "monthlyListeners": 5549435,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 431212,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 255498,
+        "region": "DC"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 164661,
+        "region": "ANT"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 162994,
+        "region": "CMX"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 155219,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6vY79t9JpycrDvkeBKB1Th",
+  "name": "Lea",
+  "followers": 4,
+  "monthlyListeners": 46,
+  "topCities": {
+    "items": [
+      {
+        "city": "Vilnius",
+        "country": "LT",
+        "numberOfListeners": 2,
+        "region": "VL"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 2,
+        "region": "C"
+      },
+      {
+        "city": "Fira",
+        "country": "GR",
+        "numberOfListeners": 1,
+        "region": "L"
+      },
+      {
+        "city": "Salamanca",
+        "country": "ES",
+        "numberOfListeners": 1,
+        "region": "CL"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 1,
+        "region": "CT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

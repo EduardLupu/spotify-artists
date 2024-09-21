@@ -1,0 +1,41 @@
+{
+  "id": "77kULmXAQ6vWer7IIHdGzI",
+  "name": "Jordan Davis",
+  "followers": 1315369,
+  "monthlyListeners": 10588387,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 232191,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 219350,
+        "region": "IL"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 203087,
+        "region": "QLD"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 172772,
+        "region": "ON"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 170330,
+        "region": "NC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

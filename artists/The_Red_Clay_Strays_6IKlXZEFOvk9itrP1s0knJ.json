@@ -1,0 +1,41 @@
+{
+  "id": "6IKlXZEFOvk9itrP1s0knJ",
+  "name": "The Red Clay Strays",
+  "followers": 440005,
+  "monthlyListeners": 6603195,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 135661,
+        "region": "TX"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 127358,
+        "region": "IL"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 126083,
+        "region": "NC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 120970,
+        "region": "NSW"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 117897,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

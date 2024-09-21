@@ -1,0 +1,41 @@
+{
+  "id": "0XmoUGD0mfZCuwtpMUbkZc",
+  "name": "Aurora",
+  "followers": 2049,
+  "monthlyListeners": 39192,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 2410,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 1147,
+        "region": "ENG"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 1109,
+        "region": "L"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 924,
+        "region": "ENG"
+      },
+      {
+        "city": "Glasgow",
+        "country": "GB",
+        "numberOfListeners": 902,
+        "region": "SCT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

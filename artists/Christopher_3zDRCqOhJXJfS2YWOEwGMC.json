@@ -1,0 +1,41 @@
+{
+  "id": "3zDRCqOhJXJfS2YWOEwGMC",
+  "name": "Christopher",
+  "followers": 436002,
+  "monthlyListeners": 2302432,
+  "topCities": {
+    "items": [
+      {
+        "city": "Copenhagen",
+        "country": "DK",
+        "numberOfListeners": 98436,
+        "region": "84"
+      },
+      {
+        "city": "Frederiksberg",
+        "country": "DK",
+        "numberOfListeners": 50358,
+        "region": "84"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 46711,
+        "region": "AB"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 34689,
+        "region": "03"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 28547,
+        "region": "TPE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

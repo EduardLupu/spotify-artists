@@ -1,0 +1,41 @@
+{
+  "id": "0f3EsoviYnRKTkmayI3cux",
+  "name": "Men At Work",
+  "followers": 1324364,
+  "monthlyListeners": 12491331,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 313844,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 236743,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 234821,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 195618,
+        "region": "VIC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 180047,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

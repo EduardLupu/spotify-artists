@@ -1,0 +1,41 @@
+{
+  "id": "3DbwFQlvLxRSi2uX8mf81A",
+  "name": "Sexyy Red",
+  "followers": 1363240,
+  "monthlyListeners": 13836408,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 262969,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 211698,
+        "region": "CA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 197868,
+        "region": "TX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 197547,
+        "region": "NSW"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 192793,
+        "region": "JK"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2Kx7MNY7cI1ENniW7vT30N",
+  "name": "Norah Jones",
+  "followers": 3188459,
+  "monthlyListeners": 9108709,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 137576,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 116297,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 115948,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 111386,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 100332,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

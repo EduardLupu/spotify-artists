@@ -1,0 +1,41 @@
+{
+  "id": "7j6DKwmjbxvpQO8h914uEz",
+  "name": "Ryan Castro",
+  "followers": 2962623,
+  "monthlyListeners": 20665973,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1541163,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 933833,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 822407,
+        "region": "CMX"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 800331,
+        "region": "ANT"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 623472,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 342
+}

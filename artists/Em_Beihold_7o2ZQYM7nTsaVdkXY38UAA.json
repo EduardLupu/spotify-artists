@@ -1,0 +1,41 @@
+{
+  "id": "7o2ZQYM7nTsaVdkXY38UAA",
+  "name": "Em Beihold",
+  "followers": 496508,
+  "monthlyListeners": 14155465,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 517318,
+        "region": "JK"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 175846,
+        "region": "MH"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 156206,
+        "region": "KA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 141629,
+        "region": "NSW"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 132480,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4hKkEHkaqCsyxNxXEsszVH",
+  "name": "John Travolta",
+  "followers": 139668,
+  "monthlyListeners": 6057595,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 98561,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 97918,
+        "region": "RM"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 90543,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 76575,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 74843,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

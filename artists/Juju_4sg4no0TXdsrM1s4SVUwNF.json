@@ -1,0 +1,41 @@
+{
+  "id": "4sg4no0TXdsrM1s4SVUwNF",
+  "name": "Juju",
+  "followers": 571642,
+  "monthlyListeners": 2538961,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 258903,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 191780,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 179739,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 154301,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 136549,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

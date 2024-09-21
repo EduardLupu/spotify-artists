@@ -1,0 +1,41 @@
+{
+  "id": "5SC6i7ZmEW8ASzGgRmtQBV",
+  "name": "Uzi",
+  "followers": 4331,
+  "monthlyListeners": 7722,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 1350,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 463,
+        "region": "HH"
+      },
+      {
+        "city": "Leipzig",
+        "country": "DE",
+        "numberOfListeners": 460,
+        "region": "SN"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 399,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 292,
+        "region": "BY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

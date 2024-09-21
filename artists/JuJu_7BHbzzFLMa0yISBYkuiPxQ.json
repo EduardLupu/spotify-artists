@@ -1,0 +1,41 @@
+{
+  "id": "7BHbzzFLMa0yISBYkuiPxQ",
+  "name": "JuJu",
+  "followers": 5384,
+  "monthlyListeners": 215132,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 3072,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 2359,
+        "region": "SP"
+      },
+      {
+        "city": "Ho Chi Minh City",
+        "country": "VN",
+        "numberOfListeners": 2293,
+        "region": "SG"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 2276,
+        "region": "10"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 2259,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

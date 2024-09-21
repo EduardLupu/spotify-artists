@@ -1,0 +1,41 @@
+{
+  "id": "1gl0S9pS0Zw0qfa14rDD3D",
+  "name": "Surf Curse",
+  "followers": 1268163,
+  "monthlyListeners": 18965707,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 208867,
+        "region": "CA"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 204762,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 190375,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 180171,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 174240,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 398
+}

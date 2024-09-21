@@ -1,0 +1,41 @@
+{
+  "id": "4Uc8Dsxct0oMqx0P6i60ea",
+  "name": "Conan Gray",
+  "followers": 10073303,
+  "monthlyListeners": 22074730,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1072236,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 246788,
+        "region": "JB"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 244061,
+        "region": "00"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 227005,
+        "region": "14"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 183634,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 302
+}

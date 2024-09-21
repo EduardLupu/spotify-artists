@@ -1,0 +1,41 @@
+{
+  "id": "0U7iI0Dk4Ojvi17nZboNO4",
+  "name": "Vacations",
+  "followers": 1128991,
+  "monthlyListeners": 10092063,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 168628,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 116794,
+        "region": "IL"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 112219,
+        "region": "JK"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 103394,
+        "region": "RM"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 100602,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

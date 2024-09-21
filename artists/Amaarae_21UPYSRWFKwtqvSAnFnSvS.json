@@ -1,0 +1,41 @@
+{
+  "id": "21UPYSRWFKwtqvSAnFnSvS",
+  "name": "Amaarae",
+  "followers": 432237,
+  "monthlyListeners": 7001884,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 116659,
+        "region": "ENG"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 111866,
+        "region": "LA"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 103524,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 93619,
+        "region": "NY"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 85439,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

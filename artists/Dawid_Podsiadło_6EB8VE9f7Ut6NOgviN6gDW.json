@@ -1,0 +1,41 @@
+{
+  "id": "6EB8VE9f7Ut6NOgviN6gDW",
+  "name": "Dawid Podsiadło",
+  "followers": 2160242,
+  "monthlyListeners": 2546363,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 579823,
+        "region": "14"
+      },
+      {
+        "city": "Krakow",
+        "country": "PL",
+        "numberOfListeners": 207506,
+        "region": "12"
+      },
+      {
+        "city": "Katowice",
+        "country": "PL",
+        "numberOfListeners": 183326,
+        "region": "24"
+      },
+      {
+        "city": "Poznan",
+        "country": "PL",
+        "numberOfListeners": 182699,
+        "region": "30"
+      },
+      {
+        "city": "Wroclaw",
+        "country": "PL",
+        "numberOfListeners": 166562,
+        "region": "02"
+      }
+    ]
+  },
+  "worldRank": 0
+}

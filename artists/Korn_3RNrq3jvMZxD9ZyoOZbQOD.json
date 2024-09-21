@@ -1,0 +1,41 @@
+{
+  "id": "3RNrq3jvMZxD9ZyoOZbQOD",
+  "name": "Korn",
+  "followers": 7952136,
+  "monthlyListeners": 11270746,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 169136,
+        "region": "RM"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 148808,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 141327,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 133538,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 133030,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

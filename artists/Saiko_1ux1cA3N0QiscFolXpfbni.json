@@ -1,0 +1,41 @@
+{
+  "id": "1ux1cA3N0QiscFolXpfbni",
+  "name": "Saiko",
+  "followers": 4093,
+  "monthlyListeners": 167134,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 2624,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 1670,
+        "region": "HH"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 1656,
+        "region": "NSW"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 1578,
+        "region": "BY"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 1478,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

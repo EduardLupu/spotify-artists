@@ -1,0 +1,41 @@
+{
+  "id": "1BCxzKUFFD4Mow5izNQGoX",
+  "name": "The Party Machines",
+  "followers": 70,
+  "monthlyListeners": 586,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 34,
+        "region": "10"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 17,
+        "region": "DC"
+      },
+      {
+        "city": "Ho Chi Minh City",
+        "country": "VN",
+        "numberOfListeners": 9,
+        "region": "SG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 8,
+        "region": "SP"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 7,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

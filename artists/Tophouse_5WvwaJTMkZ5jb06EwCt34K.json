@@ -1,0 +1,41 @@
+{
+  "id": "5WvwaJTMkZ5jb06EwCt34K",
+  "name": "Tophouse",
+  "followers": 87782,
+  "monthlyListeners": 280710,
+  "topCities": {
+    "items": [
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 6402,
+        "region": "CO"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 5117,
+        "region": "WA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 4863,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 3832,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 3657,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

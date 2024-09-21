@@ -1,0 +1,41 @@
+{
+  "id": "6wH6iStAh4KIaWfuhf0NYM",
+  "name": "Manu Chao",
+  "followers": 1796204,
+  "monthlyListeners": 11611891,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 229110,
+        "region": "IDF"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 192400,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 183376,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 146049,
+        "region": "DC"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 135659,
+        "region": "25"
+      }
+    ]
+  },
+  "worldRank": 0
+}

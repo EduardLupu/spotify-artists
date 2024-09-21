@@ -1,0 +1,41 @@
+{
+  "id": "11j0zDm9wFGPGF40LC09sX",
+  "name": "SAVAGE",
+  "followers": 46,
+  "monthlyListeners": 9,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1,
+        "region": "B"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "TX"
+      },
+      {
+        "city": "Arvada",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "CO"
+      },
+      {
+        "city": "Minneapolis",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "MN"
+      },
+      {
+        "city": "New Smyrna Beach",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "FL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

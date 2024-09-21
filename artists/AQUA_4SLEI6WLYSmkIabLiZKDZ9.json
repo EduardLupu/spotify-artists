@@ -1,0 +1,41 @@
+{
+  "id": "4SLEI6WLYSmkIabLiZKDZ9",
+  "name": "AQUA",
+  "followers": 837,
+  "monthlyListeners": 2188,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 227,
+        "region": "BE"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 177,
+        "region": "BW"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 122,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 102,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 97,
+        "region": "BY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

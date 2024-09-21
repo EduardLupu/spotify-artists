@@ -1,0 +1,41 @@
+{
+  "id": "42Zgsktsq0IcvpdqPsE0Pm",
+  "name": "Arjan Dhillon",
+  "followers": 57,
+  "monthlyListeners": 1006,
+  "topCities": {
+    "items": [
+      {
+        "city": "Ludhiana",
+        "country": "IN",
+        "numberOfListeners": 289,
+        "region": "PB"
+      },
+      {
+        "city": "Chandigarh",
+        "country": "IN",
+        "numberOfListeners": 191,
+        "region": "CH"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 44,
+        "region": "ON"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 42,
+        "region": "DL"
+      },
+      {
+        "city": "Jalandhar",
+        "country": "IN",
+        "numberOfListeners": 40,
+        "region": "PB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

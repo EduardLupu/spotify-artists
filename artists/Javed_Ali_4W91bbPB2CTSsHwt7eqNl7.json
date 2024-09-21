@@ -1,0 +1,41 @@
+{
+  "id": "4W91bbPB2CTSsHwt7eqNl7",
+  "name": "Javed Ali",
+  "followers": 11183031,
+  "monthlyListeners": 15469847,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1465006,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1235321,
+        "region": "MH"
+      },
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 959670,
+        "region": "TN"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 957548,
+        "region": "TS"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 929537,
+        "region": "DL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

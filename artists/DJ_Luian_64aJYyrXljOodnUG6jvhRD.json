@@ -1,0 +1,41 @@
+{
+  "id": "64aJYyrXljOodnUG6jvhRD",
+  "name": "DJ Luian",
+  "followers": 2185270,
+  "monthlyListeners": 13515231,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 789287,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 552824,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 488581,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 477680,
+        "region": "CMX"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 381186,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

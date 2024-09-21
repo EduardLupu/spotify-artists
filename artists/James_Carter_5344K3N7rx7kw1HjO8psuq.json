@@ -1,0 +1,41 @@
+{
+  "id": "5344K3N7rx7kw1HjO8psuq",
+  "name": "James Carter",
+  "followers": 52149,
+  "monthlyListeners": 7634246,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 102609,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 100304,
+        "region": "NH"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 94558,
+        "region": "BE"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 89126,
+        "region": "ENG"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 86859,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

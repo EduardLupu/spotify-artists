@@ -1,0 +1,41 @@
+{
+  "id": "75JvBeqW4BJ4xgnbMAq6MN",
+  "name": "Anne Wilson",
+  "followers": 267798,
+  "monthlyListeners": 1902005,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 44768,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 41685,
+        "region": "NC"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 33948,
+        "region": "GA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 31998,
+        "region": "IL"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 27855,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

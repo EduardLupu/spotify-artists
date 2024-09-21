@@ -1,0 +1,41 @@
+{
+  "id": "29SvA4jVhq8FLtn5d8nfBc",
+  "name": "Ready Set Survive",
+  "followers": 182,
+  "monthlyListeners": 31,
+  "topCities": {
+    "items": [
+      {
+        "city": "Riverside",
+        "country": "US",
+        "numberOfListeners": 6,
+        "region": "CA"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "CA"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "AZ"
+      },
+      {
+        "city": "San Diego",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "CA"
+      },
+      {
+        "city": "Fontana",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

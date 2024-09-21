@@ -1,0 +1,41 @@
+{
+  "id": "4IJczjB0fJ04gs4uvP0Fli",
+  "name": "Gym Class Heroes",
+  "followers": 1502291,
+  "monthlyListeners": 12268268,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 212992,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 151260,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 129383,
+        "region": "VIC"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 119644,
+        "region": "KA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 119388,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

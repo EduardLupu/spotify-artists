@@ -1,0 +1,41 @@
+{
+  "id": "2JPY2P7Q4hYZhuSkPmvWqi",
+  "name": "Freccero",
+  "followers": 1799,
+  "monthlyListeners": 23546,
+  "topCities": {
+    "items": [
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 537,
+        "region": "AB"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 299,
+        "region": "BE"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 291,
+        "region": "03"
+      },
+      {
+        "city": "Gothenburg",
+        "country": "SE",
+        "numberOfListeners": 229,
+        "region": "O"
+      },
+      {
+        "city": "Cairo",
+        "country": "EG",
+        "numberOfListeners": 225,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

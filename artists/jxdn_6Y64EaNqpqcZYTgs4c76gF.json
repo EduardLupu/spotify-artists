@@ -1,0 +1,41 @@
+{
+  "id": "6Y64EaNqpqcZYTgs4c76gF",
+  "name": "jxdn",
+  "followers": 1012591,
+  "monthlyListeners": 1944807,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 22699,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 22091,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 21983,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 21200,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 17031,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4LG4Bs1Gadht7TCrMytQUO",
+  "name": "The Shins",
+  "followers": 1187945,
+  "monthlyListeners": 3527732,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 56903,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 56717,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 53913,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 52626,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 51168,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

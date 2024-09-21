@@ -1,0 +1,41 @@
+{
+  "id": "5IH6FPUwQTxPSXurCrcIov",
+  "name": "Alec Benjamin",
+  "followers": 5221008,
+  "monthlyListeners": 15068376,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 254061,
+        "region": "JK"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 206390,
+        "region": "KA"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 184360,
+        "region": "MH"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 142008,
+        "region": "NSW"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 135790,
+        "region": "TS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

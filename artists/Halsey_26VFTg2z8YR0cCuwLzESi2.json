@@ -1,0 +1,41 @@
+{
+  "id": "26VFTg2z8YR0cCuwLzESi2",
+  "name": "Halsey",
+  "followers": 21702282,
+  "monthlyListeners": 41308636,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 839586,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 532924,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 462925,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 444684,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 421057,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 74
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+  "name": "Chris Lake",
+  "followers": 347765,
+  "monthlyListeners": 10087151,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 215603,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 184722,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 182502,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 137337,
+        "region": "QLD"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 129233,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

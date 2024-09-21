@@ -1,0 +1,41 @@
+{
+  "id": "7rOlQwf8OuFLFQp4aydjBt",
+  "name": "Paloma Mami",
+  "followers": 1143658,
+  "monthlyListeners": 4600117,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 468243,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 172503,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 153085,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 123325,
+        "region": "LMA"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 113788,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

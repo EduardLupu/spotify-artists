@@ -1,0 +1,41 @@
+{
+  "id": "1ul8iLt2WnFe2UIyovjg7q",
+  "name": "reezy",
+  "followers": 570347,
+  "monthlyListeners": 2779848,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 312331,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 268382,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 257014,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 213471,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 189929,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

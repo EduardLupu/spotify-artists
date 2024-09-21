@@ -1,0 +1,41 @@
+{
+  "id": "5JLqvjW3Nyom2OsRUyFsS9",
+  "name": "Xiu Xiu",
+  "followers": 165270,
+  "monthlyListeners": 167634,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 3030,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 2936,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 2831,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 2822,
+        "region": "IL"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 2579,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

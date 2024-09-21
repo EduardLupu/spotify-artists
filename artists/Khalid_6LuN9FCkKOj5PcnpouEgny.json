@@ -1,0 +1,41 @@
+{
+  "id": "6LuN9FCkKOj5PcnpouEgny",
+  "name": "Khalid",
+  "followers": 16334260,
+  "monthlyListeners": 53624082,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 972905,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 776847,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 696259,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 626390,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 539904,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 39
+}

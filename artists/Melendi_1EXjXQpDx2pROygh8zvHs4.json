@@ -1,0 +1,41 @@
+{
+  "id": "1EXjXQpDx2pROygh8zvHs4",
+  "name": "Melendi",
+  "followers": 4022318,
+  "monthlyListeners": 9319777,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 743307,
+        "region": "MD"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 515106,
+        "region": "RM"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 406726,
+        "region": "CT"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 363778,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 232804,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

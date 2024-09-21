@@ -1,0 +1,41 @@
+{
+  "id": "7Aq8lpLMSt1Zxu56pe9bmp",
+  "name": "Jagged Edge",
+  "followers": 2140676,
+  "monthlyListeners": 2656160,
+  "topCities": {
+    "items": [
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 73580,
+        "region": "GP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 71504,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 50596,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 47230,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 44108,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

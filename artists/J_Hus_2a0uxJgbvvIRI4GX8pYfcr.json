@@ -1,0 +1,41 @@
+{
+  "id": "2a0uxJgbvvIRI4GX8pYfcr",
+  "name": "J Hus",
+  "followers": 1291342,
+  "monthlyListeners": 4155941,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 425682,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 140969,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 138706,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 131341,
+        "region": "ENG"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 123550,
+        "region": "LA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

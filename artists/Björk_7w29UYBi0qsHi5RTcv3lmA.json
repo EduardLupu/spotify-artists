@@ -1,0 +1,41 @@
+{
+  "id": "7w29UYBi0qsHi5RTcv3lmA",
+  "name": "Björk",
+  "followers": 2144644,
+  "monthlyListeners": 2286503,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 66444,
+        "region": "RM"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 44128,
+        "region": "ENG"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 38860,
+        "region": "CMX"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 30605,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 27570,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1YVoGhFlttfdiCJD6N7yqG",
+  "name": "MALU",
+  "followers": 1596,
+  "monthlyListeners": 16307,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 1301,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 850,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 755,
+        "region": "BY"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 733,
+        "region": "HE"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 594,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3VCLVWGByXwgEpCQW1jmBc",
+  "name": "Los Dos De La Sierra",
+  "followers": 8462,
+  "monthlyListeners": 21551,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tijuana",
+        "country": "MX",
+        "numberOfListeners": 1647,
+        "region": "BCN"
+      },
+      {
+        "city": "Culiacán",
+        "country": "MX",
+        "numberOfListeners": 1276,
+        "region": "SIN"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1196,
+        "region": "CMX"
+      },
+      {
+        "city": "Chihuahua City",
+        "country": "MX",
+        "numberOfListeners": 952,
+        "region": "CHH"
+      },
+      {
+        "city": "Hermosillo",
+        "country": "MX",
+        "numberOfListeners": 857,
+        "region": "SON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

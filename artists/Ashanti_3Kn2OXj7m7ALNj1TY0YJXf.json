@@ -1,0 +1,41 @@
+{
+  "id": "3Kn2OXj7m7ALNj1TY0YJXf",
+  "name": "Ashanti",
+  "followers": 4,
+  "monthlyListeners": 6,
+  "topCities": {
+    "items": [
+      {
+        "city": "Erbil",
+        "country": "IQ",
+        "numberOfListeners": 1,
+        "region": "AR"
+      },
+      {
+        "city": "Valparaíso",
+        "country": "CL",
+        "numberOfListeners": 1,
+        "region": "VS"
+      },
+      {
+        "city": "Austin",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "TX"
+      },
+      {
+        "city": "San Antonio",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "TX"
+      },
+      {
+        "city": "Pflugerville",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2Im8m4STDBosjfmb5hmP80",
+  "name": "Loredana",
+  "followers": 1092852,
+  "monthlyListeners": 1338849,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 90881,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 74022,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 73670,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 64301,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 61538,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

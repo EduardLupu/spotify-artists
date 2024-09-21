@@ -1,0 +1,41 @@
+{
+  "id": "0cc6vw3VN8YlIcvr1v7tBL",
+  "name": "Mötley Crüe",
+  "followers": 5289648,
+  "monthlyListeners": 8752463,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 115869,
+        "region": "IL"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 108258,
+        "region": "QC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 107009,
+        "region": "RM"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 97544,
+        "region": "ON"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 96645,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

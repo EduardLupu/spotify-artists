@@ -1,0 +1,41 @@
+{
+  "id": "2RdwBSPQiwcmiDo9kixcl8",
+  "name": "Pharrell Williams",
+  "followers": 4777801,
+  "monthlyListeners": 34110196,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 435060,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 411748,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 353271,
+        "region": "RM"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 351945,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 327197,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 119
+}

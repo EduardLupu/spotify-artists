@@ -1,0 +1,41 @@
+{
+  "id": "7K9rdoOJSiKXoVXPlSkGKT",
+  "name": "Paty Cantú",
+  "followers": 2472003,
+  "monthlyListeners": 3836254,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 406670,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 175552,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 167512,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 152273,
+        "region": "PUE"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 137893,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "07D1Bjaof0NFlU32KXiqUP",
+  "name": "Lucy Dacus",
+  "followers": 518229,
+  "monthlyListeners": 1420888,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 27668,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 25170,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 25055,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 20156,
+        "region": "CA"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 20002,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

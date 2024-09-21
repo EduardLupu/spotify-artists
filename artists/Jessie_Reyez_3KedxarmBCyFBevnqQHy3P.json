@@ -1,0 +1,41 @@
+{
+  "id": "3KedxarmBCyFBevnqQHy3P",
+  "name": "Jessie Reyez",
+  "followers": 1424899,
+  "monthlyListeners": 6912563,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 90183,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 88165,
+        "region": "CMX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 80989,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 80337,
+        "region": "ENG"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 77701,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

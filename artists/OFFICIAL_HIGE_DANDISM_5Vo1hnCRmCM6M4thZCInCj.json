@@ -1,0 +1,41 @@
+{
+  "id": "5Vo1hnCRmCM6M4thZCInCj",
+  "name": "OFFICIAL HIGE DANDISM",
+  "followers": 6672061,
+  "monthlyListeners": 4208837,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 821885,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 322289,
+        "region": "27"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 146216,
+        "region": "13"
+      },
+      {
+        "city": "Nagoya",
+        "country": "JP",
+        "numberOfListeners": 111990,
+        "region": "23"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 86771,
+        "region": "JK"
+      }
+    ]
+  },
+  "worldRank": 0
+}

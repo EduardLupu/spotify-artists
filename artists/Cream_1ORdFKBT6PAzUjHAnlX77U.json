@@ -1,0 +1,41 @@
+{
+  "id": "1ORdFKBT6PAzUjHAnlX77U",
+  "name": "Cream",
+  "followers": 515,
+  "monthlyListeners": 13091,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bucharest",
+        "country": "RO",
+        "numberOfListeners": 1938,
+        "region": "B"
+      },
+      {
+        "city": "Cluj-Napoca",
+        "country": "RO",
+        "numberOfListeners": 562,
+        "region": "CJ"
+      },
+      {
+        "city": "Timișoara",
+        "country": "RO",
+        "numberOfListeners": 351,
+        "region": "TM"
+      },
+      {
+        "city": "Iasi",
+        "country": "RO",
+        "numberOfListeners": 277,
+        "region": "IS"
+      },
+      {
+        "city": "Brasov",
+        "country": "RO",
+        "numberOfListeners": 261,
+        "region": "BV"
+      }
+    ]
+  },
+  "worldRank": 0
+}

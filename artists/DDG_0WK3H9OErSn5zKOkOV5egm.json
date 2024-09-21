@@ -1,0 +1,41 @@
+{
+  "id": "0WK3H9OErSn5zKOkOV5egm",
+  "name": "DDG",
+  "followers": 1332879,
+  "monthlyListeners": 3052843,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 43620,
+        "region": "IL"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 42158,
+        "region": "ON"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 38478,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 36668,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 35388,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

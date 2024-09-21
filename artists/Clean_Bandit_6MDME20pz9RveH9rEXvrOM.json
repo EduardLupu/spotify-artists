@@ -1,0 +1,41 @@
+{
+  "id": "6MDME20pz9RveH9rEXvrOM",
+  "name": "Clean Bandit",
+  "followers": 5537515,
+  "monthlyListeners": 29303796,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 749337,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 391174,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 356480,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 290438,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 274013,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 167
+}

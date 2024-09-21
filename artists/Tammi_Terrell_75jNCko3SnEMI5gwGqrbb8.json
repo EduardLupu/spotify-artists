@@ -1,0 +1,41 @@
+{
+  "id": "75jNCko3SnEMI5gwGqrbb8",
+  "name": "Tammi Terrell",
+  "followers": 185449,
+  "monthlyListeners": 15534292,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 237297,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 217513,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 181025,
+        "region": "VIC"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 165546,
+        "region": "IDF"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 155246,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

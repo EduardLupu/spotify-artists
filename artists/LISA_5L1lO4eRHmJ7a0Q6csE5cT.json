@@ -1,0 +1,41 @@
+{
+  "id": "5L1lO4eRHmJ7a0Q6csE5cT",
+  "name": "LISA",
+  "followers": 8852885,
+  "monthlyListeners": 21464891,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 832035,
+        "region": "JK"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 536080,
+        "region": "10"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 328509,
+        "region": "14"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 258309,
+        "region": "RM"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 252548,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 326
+}

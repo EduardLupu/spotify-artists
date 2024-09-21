@@ -1,0 +1,41 @@
+{
+  "id": "1cZQSpDsxgKIX2yW5OR9Ot",
+  "name": "Lennon Stella",
+  "followers": 385244,
+  "monthlyListeners": 3511608,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 88974,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 47665,
+        "region": "NSW"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 38779,
+        "region": ""
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 38342,
+        "region": "VIC"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 34774,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

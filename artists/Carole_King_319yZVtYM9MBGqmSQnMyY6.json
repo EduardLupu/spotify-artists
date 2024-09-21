@@ -1,0 +1,41 @@
+{
+  "id": "319yZVtYM9MBGqmSQnMyY6",
+  "name": "Carole King",
+  "followers": 1591603,
+  "monthlyListeners": 4123446,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 62411,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 60189,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 51218,
+        "region": "VIC"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 50198,
+        "region": "NY"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 41642,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

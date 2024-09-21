@@ -1,0 +1,41 @@
+{
+  "id": "18ISxWwWjV6rPLoVCXf1dz",
+  "name": "RIN",
+  "followers": 787818,
+  "monthlyListeners": 2221061,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 227828,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 170725,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 169092,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 157939,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 136685,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

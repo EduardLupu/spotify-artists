@@ -1,0 +1,41 @@
+{
+  "id": "0uZnm1DjXe8A1rriE6B1LU",
+  "name": "Sdm",
+  "followers": 135,
+  "monthlyListeners": 204,
+  "topCities": {
+    "items": [
+      {
+        "city": "Pretoria",
+        "country": "ZA",
+        "numberOfListeners": 68,
+        "region": "GP"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 54,
+        "region": "GP"
+      },
+      {
+        "city": "Cape Town",
+        "country": "ZA",
+        "numberOfListeners": 10,
+        "region": "WC"
+      },
+      {
+        "city": "Durban",
+        "country": "ZA",
+        "numberOfListeners": 5,
+        "region": "KZN"
+      },
+      {
+        "city": "Westonaria",
+        "country": "ZA",
+        "numberOfListeners": 3,
+        "region": "GP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

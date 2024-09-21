@@ -1,0 +1,41 @@
+{
+  "id": "6waa8mKu91GjzD4NlONlNJ",
+  "name": "The Hollies",
+  "followers": 1214660,
+  "monthlyListeners": 6654179,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 138708,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 113671,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 105491,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 87879,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 80343,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

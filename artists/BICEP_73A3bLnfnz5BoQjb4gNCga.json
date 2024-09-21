@@ -1,0 +1,41 @@
+{
+  "id": "73A3bLnfnz5BoQjb4gNCga",
+  "name": "BICEP",
+  "followers": 569350,
+  "monthlyListeners": 3160892,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 165911,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 68610,
+        "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 68415,
+        "region": "NSW"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 68028,
+        "region": "L"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 56757,
+        "region": "BRU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

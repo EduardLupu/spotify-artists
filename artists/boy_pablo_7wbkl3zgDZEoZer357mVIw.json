@@ -1,0 +1,41 @@
+{
+  "id": "7wbkl3zgDZEoZer357mVIw",
+  "name": "boy pablo",
+  "followers": 1262240,
+  "monthlyListeners": 2242382,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 232229,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 56745,
+        "region": "JB"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 31178,
+        "region": "CA"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 29181,
+        "region": "00"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 25273,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4yvcSjfu4PC0CYQyLy4wSq",
+  "name": "Glass Animals",
+  "followers": 4279884,
+  "monthlyListeners": 22864446,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 341847,
+        "region": "NSW"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 337296,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 298549,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 278225,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 234142,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 271
+}

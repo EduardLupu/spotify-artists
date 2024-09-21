@@ -1,0 +1,41 @@
+{
+  "id": "3aiNFfqqHURbyhzN5tOdp9",
+  "name": "BLANCO",
+  "followers": 11771,
+  "monthlyListeners": 71865,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bucharest",
+        "country": "RO",
+        "numberOfListeners": 20220,
+        "region": "B"
+      },
+      {
+        "city": "Cluj-Napoca",
+        "country": "RO",
+        "numberOfListeners": 5603,
+        "region": "CJ"
+      },
+      {
+        "city": "Timișoara",
+        "country": "RO",
+        "numberOfListeners": 4767,
+        "region": "TM"
+      },
+      {
+        "city": "Iasi",
+        "country": "RO",
+        "numberOfListeners": 4234,
+        "region": "IS"
+      },
+      {
+        "city": "Ploieşti",
+        "country": "RO",
+        "numberOfListeners": 3491,
+        "region": "PH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

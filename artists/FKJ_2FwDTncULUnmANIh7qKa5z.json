@@ -1,0 +1,41 @@
+{
+  "id": "2FwDTncULUnmANIh7qKa5z",
+  "name": "FKJ",
+  "followers": 1555410,
+  "monthlyListeners": 6592434,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 96585,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 84762,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 73506,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 70455,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 70331,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

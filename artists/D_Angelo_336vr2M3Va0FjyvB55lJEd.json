@@ -1,0 +1,41 @@
+{
+  "id": "336vr2M3Va0FjyvB55lJEd",
+  "name": "D'Angelo",
+  "followers": 1225200,
+  "monthlyListeners": 1861366,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 41685,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 31986,
+        "region": "CA"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 29649,
+        "region": "GP"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 26076,
+        "region": "IL"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 24837,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

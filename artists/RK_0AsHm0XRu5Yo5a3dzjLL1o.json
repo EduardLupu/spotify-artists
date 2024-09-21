@@ -1,0 +1,41 @@
+{
+  "id": "0AsHm0XRu5Yo5a3dzjLL1o",
+  "name": "RK",
+  "followers": 278,
+  "monthlyListeners": 5422,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1249,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 279,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 259,
+        "region": "SP"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 226,
+        "region": "RS"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 190,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

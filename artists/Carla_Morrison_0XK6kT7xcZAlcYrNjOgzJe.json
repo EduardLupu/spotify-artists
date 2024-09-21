@@ -1,0 +1,41 @@
+{
+  "id": "0XK6kT7xcZAlcYrNjOgzJe",
+  "name": "Carla Morrison",
+  "followers": 4390909,
+  "monthlyListeners": 10082875,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 660082,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 326005,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 317374,
+        "region": "RM"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 293563,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 278281,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

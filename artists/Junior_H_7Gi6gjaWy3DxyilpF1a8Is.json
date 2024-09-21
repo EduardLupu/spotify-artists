@@ -1,0 +1,41 @@
+{
+  "id": "7Gi6gjaWy3DxyilpF1a8Is",
+  "name": "Junior H",
+  "followers": 18961253,
+  "monthlyListeners": 24682104,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 2497544,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 1356221,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 1311690,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 1292138,
+        "region": "CMX"
+      },
+      {
+        "city": "Cuauhtémoc",
+        "country": "MX",
+        "numberOfListeners": 1072590,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 232
+}

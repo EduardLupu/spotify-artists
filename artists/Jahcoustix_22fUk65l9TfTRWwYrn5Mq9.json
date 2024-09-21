@@ -1,0 +1,41 @@
+{
+  "id": "22fUk65l9TfTRWwYrn5Mq9",
+  "name": "Jahcoustix",
+  "followers": 17558,
+  "monthlyListeners": 53926,
+  "topCities": {
+    "items": [
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 2034,
+        "region": "BY"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 1879,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 1460,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 1323,
+        "region": "HE"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 1311,
+        "region": "9"
+      }
+    ]
+  },
+  "worldRank": 0
+}

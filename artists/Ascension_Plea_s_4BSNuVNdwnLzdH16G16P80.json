@@ -1,0 +1,41 @@
+{
+  "id": "4BSNuVNdwnLzdH16G16P80",
+  "name": "Ascension Plea's",
+  "followers": 788,
+  "monthlyListeners": 11720,
+  "topCities": {
+    "items": [
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 378,
+        "region": "GP"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 347,
+        "region": "CA"
+      },
+      {
+        "city": "Gaborone",
+        "country": "BW",
+        "numberOfListeners": 238,
+        "region": "GA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 229,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 180,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "33W1pnW9zScZtYTnAoWnOT",
+  "name": "Mr. Probz",
+  "followers": 338222,
+  "monthlyListeners": 6020700,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 100324,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 97853,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 93200,
+        "region": "NH"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 76622,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 67447,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6F6lawSnwGWWgdXFN7LXO7",
+  "name": "The Dirty Dozen Brass Band",
+  "followers": 47060,
+  "monthlyListeners": 35111,
+  "topCities": {
+    "items": [
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 738,
+        "region": "CO"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 683,
+        "region": "GA"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 655,
+        "region": "NC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 632,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 518,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

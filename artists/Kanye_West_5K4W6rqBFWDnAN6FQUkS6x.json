@@ -1,0 +1,41 @@
+{
+  "id": "5K4W6rqBFWDnAN6FQUkS6x",
+  "name": "Kanye West",
+  "followers": 27124664,
+  "monthlyListeners": 65656105,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1409217,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 979924,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 964960,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 930675,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 895556,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 21
+}

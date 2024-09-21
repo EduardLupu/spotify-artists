@@ -1,0 +1,41 @@
+{
+  "id": "4ZgQDCtRqZlhLswVS6MHN4",
+  "name": "grandson",
+  "followers": 1162967,
+  "monthlyListeners": 4178661,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 42698,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 40752,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 38266,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 36305,
+        "region": "VIC"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 35164,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

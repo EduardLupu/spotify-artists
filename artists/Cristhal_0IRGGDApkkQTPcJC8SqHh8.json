@@ -1,0 +1,41 @@
+{
+  "id": "0IRGGDApkkQTPcJC8SqHh8",
+  "name": "Cristhal",
+  "followers": 12918,
+  "monthlyListeners": 6832,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 418,
+        "region": "LMA"
+      },
+      {
+        "city": "Mérida",
+        "country": "MX",
+        "numberOfListeners": 260,
+        "region": "YUC"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 242,
+        "region": "DC"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 218,
+        "region": "GU"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 210,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

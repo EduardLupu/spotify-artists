@@ -1,0 +1,41 @@
+{
+  "id": "16BYjRSzaDdaFgJeDhFhXc",
+  "name": "Eden",
+  "followers": 4,
+  "monthlyListeners": 14,
+  "topCities": {
+    "items": [
+      {
+        "city": "Pretoria",
+        "country": "ZA",
+        "numberOfListeners": 2,
+        "region": "GP"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 1,
+        "region": "13"
+      },
+      {
+        "city": "Nakano",
+        "country": "JP",
+        "numberOfListeners": 1,
+        "region": "13"
+      },
+      {
+        "city": "Nagasaki",
+        "country": "JP",
+        "numberOfListeners": 1,
+        "region": "42"
+      },
+      {
+        "city": "Nakanobu",
+        "country": "JP",
+        "numberOfListeners": 1,
+        "region": "13"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6TxY5T8v9RjF7Ry4XQvWT5",
+  "name": "Chris Travis",
+  "followers": 454932,
+  "monthlyListeners": 1600422,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 59988,
+        "region": "CA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 40802,
+        "region": "TX"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 37753,
+        "region": "AZ"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 33513,
+        "region": "IL"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 32426,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

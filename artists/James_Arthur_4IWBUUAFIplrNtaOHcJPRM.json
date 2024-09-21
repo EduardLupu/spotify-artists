@@ -1,0 +1,41 @@
+{
+  "id": "4IWBUUAFIplrNtaOHcJPRM",
+  "name": "James Arthur",
+  "followers": 18448508,
+  "monthlyListeners": 35054640,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 2650544,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 563958,
+        "region": "JB"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 492324,
+        "region": "SP"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 465152,
+        "region": "14"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 378346,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 115
+}

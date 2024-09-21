@@ -1,0 +1,41 @@
+{
+  "id": "6oUenG9cEPeZ4QYHXZGeFN",
+  "name": "BK",
+  "followers": 17539,
+  "monthlyListeners": 65939,
+  "topCities": {
+    "items": [
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 22896,
+        "region": "TPE"
+      },
+      {
+        "city": "Taichung",
+        "country": "TW",
+        "numberOfListeners": 11373,
+        "region": "TXG"
+      },
+      {
+        "city": "New Taipei City",
+        "country": "TW",
+        "numberOfListeners": 10583,
+        "region": "NWT"
+      },
+      {
+        "city": "Kaohsiung",
+        "country": "TW",
+        "numberOfListeners": 7709,
+        "region": "KHH"
+      },
+      {
+        "city": "Taoyuan District",
+        "country": "TW",
+        "numberOfListeners": 5031,
+        "region": "TAO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

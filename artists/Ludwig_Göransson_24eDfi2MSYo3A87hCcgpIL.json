@@ -1,0 +1,41 @@
+{
+  "id": "24eDfi2MSYo3A87hCcgpIL",
+  "name": "Ludwig Göransson",
+  "followers": 345274,
+  "monthlyListeners": 4037460,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 53346,
+        "region": "ENG"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 52513,
+        "region": "CMX"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 50186,
+        "region": "IDF"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 38344,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 37287,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

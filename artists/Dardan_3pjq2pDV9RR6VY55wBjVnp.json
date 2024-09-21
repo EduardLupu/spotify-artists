@@ -1,0 +1,41 @@
+{
+  "id": "3pjq2pDV9RR6VY55wBjVnp",
+  "name": "Dardan",
+  "followers": 1168826,
+  "monthlyListeners": 4585506,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 336550,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 300045,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 272258,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 238218,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 230322,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

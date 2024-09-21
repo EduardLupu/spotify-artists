@@ -1,0 +1,41 @@
+{
+  "id": "32cwcTvk0xu88kfzRf8AVP",
+  "name": "Xavi",
+  "followers": 801,
+  "monthlyListeners": 29371,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 2994,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 1471,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1231,
+        "region": "DC"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 1187,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1153,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

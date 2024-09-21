@@ -1,0 +1,41 @@
+{
+  "id": "50FNmD8Gjs4wGQ67upKX9b",
+  "name": "Randy",
+  "followers": 7082,
+  "monthlyListeners": 39990,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1305,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1033,
+        "region": "SP"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 834,
+        "region": "DC"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 541,
+        "region": "18"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 514,
+        "region": "AB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

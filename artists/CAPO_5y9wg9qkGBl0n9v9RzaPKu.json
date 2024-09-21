@@ -1,0 +1,41 @@
+{
+  "id": "5y9wg9qkGBl0n9v9RzaPKu",
+  "name": "CAPO",
+  "followers": 598373,
+  "monthlyListeners": 2293671,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 211301,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 196319,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 168589,
+        "region": "HH"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 145954,
+        "region": "BW"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 143823,
+        "region": "BY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

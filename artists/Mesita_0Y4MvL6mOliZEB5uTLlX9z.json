@@ -1,0 +1,41 @@
+{
+  "id": "0Y4MvL6mOliZEB5uTLlX9z",
+  "name": "Mesita",
+  "followers": 13234,
+  "monthlyListeners": 148731,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 2114,
+        "region": "NY"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 2098,
+        "region": "QC"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 2030,
+        "region": "10"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 2021,
+        "region": "ON"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1833,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

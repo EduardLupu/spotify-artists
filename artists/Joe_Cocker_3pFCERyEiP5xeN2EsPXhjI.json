@@ -1,0 +1,41 @@
+{
+  "id": "3pFCERyEiP5xeN2EsPXhjI",
+  "name": "Joe Cocker",
+  "followers": 2382789,
+  "monthlyListeners": 5890265,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 101963,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 78671,
+        "region": "SP"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 72595,
+        "region": "NH"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 72571,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 60006,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0WI8OfWCRvK4nGHmKfFQmd",
+  "name": "Alex Zurdo",
+  "followers": 2157230,
+  "monthlyListeners": 1865801,
+  "topCities": {
+    "items": [
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 136458,
+        "region": "GU"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 110379,
+        "region": "DC"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 79985,
+        "region": "01"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 66752,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 56245,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

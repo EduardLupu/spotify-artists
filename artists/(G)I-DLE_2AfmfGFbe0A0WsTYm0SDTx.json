@@ -1,0 +1,41 @@
+{
+  "id": "2AfmfGFbe0A0WsTYm0SDTx",
+  "name": "(G)I-DLE",
+  "followers": 9658458,
+  "monthlyListeners": 9466894,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 316115,
+        "region": "JK"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 238245,
+        "region": "TPE"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 176148,
+        "region": "13"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 156697,
+        "region": "14"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 152384,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 0
+}

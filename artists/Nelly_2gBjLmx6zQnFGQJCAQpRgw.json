@@ -1,0 +1,41 @@
+{
+  "id": "2gBjLmx6zQnFGQJCAQpRgw",
+  "name": "Nelly",
+  "followers": 3007720,
+  "monthlyListeners": 19403477,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 365808,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 321291,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 277772,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 269511,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 255425,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 376
+}

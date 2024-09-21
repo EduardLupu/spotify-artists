@@ -1,0 +1,41 @@
+{
+  "id": "7qYeIN2r4H1kBvr0Gm9Iav",
+  "name": "Randy",
+  "followers": 585746,
+  "monthlyListeners": 6683690,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 603123,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 386593,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 295208,
+        "region": "LMA"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 239603,
+        "region": "ANT"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 230273,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

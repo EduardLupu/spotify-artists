@@ -1,0 +1,41 @@
+{
+  "id": "1dfeR4HaWDbWqFHLkxsg1d",
+  "name": "Queen",
+  "followers": 51256495,
+  "monthlyListeners": 52787902,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 934614,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 858634,
+        "region": "CMX"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 851500,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 733445,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 634363,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 43
+}

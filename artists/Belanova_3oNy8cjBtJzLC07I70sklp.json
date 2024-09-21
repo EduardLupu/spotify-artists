@@ -1,0 +1,41 @@
+{
+  "id": "3oNy8cjBtJzLC07I70sklp",
+  "name": "Belanova",
+  "followers": 1684136,
+  "monthlyListeners": 8587632,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 818522,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 344968,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 320402,
+        "region": "JAL"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 301288,
+        "region": "PUE"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 285966,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

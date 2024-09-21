@@ -1,0 +1,41 @@
+{
+  "id": "58oPVy7oihAEXE0Ott6JOf",
+  "name": "Eve",
+  "followers": 2378236,
+  "monthlyListeners": 3813264,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 219571,
+        "region": "13"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 116655,
+        "region": "JK"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 79396,
+        "region": "27"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 60406,
+        "region": "RM"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 47197,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

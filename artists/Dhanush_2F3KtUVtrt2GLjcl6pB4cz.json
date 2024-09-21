@@ -1,0 +1,41 @@
+{
+  "id": "2F3KtUVtrt2GLjcl6pB4cz",
+  "name": "Dhanush",
+  "followers": 11022702,
+  "monthlyListeners": 9185852,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 2785953,
+        "region": "TN"
+      },
+      {
+        "city": "Coimbatore",
+        "country": "IN",
+        "numberOfListeners": 1159766,
+        "region": "TN"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 1064580,
+        "region": "TS"
+      },
+      {
+        "city": "Kochi",
+        "country": "IN",
+        "numberOfListeners": 1017262,
+        "region": "KL"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 925675,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

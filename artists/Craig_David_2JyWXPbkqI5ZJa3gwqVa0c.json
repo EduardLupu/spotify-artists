@@ -1,0 +1,41 @@
+{
+  "id": "2JyWXPbkqI5ZJa3gwqVa0c",
+  "name": "Craig David",
+  "followers": 908590,
+  "monthlyListeners": 4800339,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 210582,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 115672,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 91232,
+        "region": "VIC"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 74294,
+        "region": "JK"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 71217,
+        "region": "00"
+      }
+    ]
+  },
+  "worldRank": 0
+}

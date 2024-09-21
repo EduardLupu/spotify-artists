@@ -1,0 +1,41 @@
+{
+  "id": "21dooacK2WGBB5amYvKyfM",
+  "name": "Smokepurpp",
+  "followers": 2410027,
+  "monthlyListeners": 952973,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 13620,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 11615,
+        "region": "CA"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 11442,
+        "region": "ON"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 9280,
+        "region": "TX"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 9258,
+        "region": "AZ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

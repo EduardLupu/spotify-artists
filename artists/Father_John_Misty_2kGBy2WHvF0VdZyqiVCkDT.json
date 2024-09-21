@@ -1,0 +1,41 @@
+{
+  "id": "2kGBy2WHvF0VdZyqiVCkDT",
+  "name": "Father John Misty",
+  "followers": 851628,
+  "monthlyListeners": 11031985,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 171204,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 163375,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 155524,
+        "region": "NY"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 155250,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 148109,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "10NEnEUmzvcTJVFOE974yk",
+  "name": "Sonder",
+  "followers": 76,
+  "monthlyListeners": 43,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 35,
+        "region": "LMA"
+      },
+      {
+        "city": "Cusco",
+        "country": "PE",
+        "numberOfListeners": 2,
+        "region": "CUS"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "TX"
+      },
+      {
+        "city": "Tacoma",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "WA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

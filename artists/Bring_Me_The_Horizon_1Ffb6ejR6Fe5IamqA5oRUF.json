@@ -1,0 +1,41 @@
+{
+  "id": "1Ffb6ejR6Fe5IamqA5oRUF",
+  "name": "Bring Me The Horizon",
+  "followers": 5863491,
+  "monthlyListeners": 14696343,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 513971,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 264109,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 191391,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 171848,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 163712,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

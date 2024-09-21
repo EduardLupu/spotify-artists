@@ -1,0 +1,41 @@
+{
+  "id": "5hKGLu4Ik88FzWcTPhWNTN",
+  "name": "INTERWORLD",
+  "followers": 824040,
+  "monthlyListeners": 6597451,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 76676,
+        "region": "34"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 73818,
+        "region": "MH"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 72948,
+        "region": "JK"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 67469,
+        "region": "KA"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 55633,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5CfhjbeYClBdYNJmxTbpXV",
+  "name": "Darion Harris",
+  "followers": 1298,
+  "monthlyListeners": 33633,
+  "topCities": {
+    "items": [
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 1165,
+        "region": "GP"
+      },
+      {
+        "city": "Pretoria",
+        "country": "ZA",
+        "numberOfListeners": 779,
+        "region": "GP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 433,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 393,
+        "region": "VIC"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 374,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

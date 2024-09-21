@@ -1,0 +1,41 @@
+{
+  "id": "3cjEqqelV9zb4BYE3qDQ4O",
+  "name": "EXO",
+  "followers": 9476333,
+  "monthlyListeners": 4229636,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 264490,
+        "region": "JK"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 101707,
+        "region": "14"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 88883,
+        "region": "10"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 69028,
+        "region": ""
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 59319,
+        "region": "JB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

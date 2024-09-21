@@ -1,0 +1,41 @@
+{
+  "id": "5gmNQ6Io9stTk2PCPnHPDF",
+  "name": "Mabel",
+  "followers": 1034,
+  "monthlyListeners": 44473,
+  "topCities": {
+    "items": [
+      {
+        "city": "Copenhagen",
+        "country": "DK",
+        "numberOfListeners": 5000,
+        "region": "84"
+      },
+      {
+        "city": "Frederiksberg",
+        "country": "DK",
+        "numberOfListeners": 2458,
+        "region": "84"
+      },
+      {
+        "city": "Rødovre Municipality",
+        "country": "DK",
+        "numberOfListeners": 686,
+        "region": "84"
+      },
+      {
+        "city": "Aarhus",
+        "country": "DK",
+        "numberOfListeners": 616,
+        "region": "82"
+      },
+      {
+        "city": "Valby",
+        "country": "DK",
+        "numberOfListeners": 586,
+        "region": "84"
+      }
+    ]
+  },
+  "worldRank": 0
+}

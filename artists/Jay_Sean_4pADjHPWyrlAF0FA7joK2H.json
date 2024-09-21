@@ -1,0 +1,41 @@
+{
+  "id": "4pADjHPWyrlAF0FA7joK2H",
+  "name": "Jay Sean",
+  "followers": 1831308,
+  "monthlyListeners": 8883061,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 150387,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 133344,
+        "region": "ENG"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 119202,
+        "region": "MH"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 117343,
+        "region": "VIC"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 116562,
+        "region": "00"
+      }
+    ]
+  },
+  "worldRank": 0
+}

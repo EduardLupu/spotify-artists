@@ -1,0 +1,41 @@
+{
+  "id": "61bQ4nwIioR8w6PGxzpyY3",
+  "name": "Rondodasosa",
+  "followers": 1192527,
+  "monthlyListeners": 2871720,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 426905,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 146400,
+        "region": "62"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 63683,
+        "region": "21"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 48537,
+        "region": "72"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 46398,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

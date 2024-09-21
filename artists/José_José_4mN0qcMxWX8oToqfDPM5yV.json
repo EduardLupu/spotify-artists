@@ -1,0 +1,41 @@
+{
+  "id": "4mN0qcMxWX8oToqfDPM5yV",
+  "name": "José José",
+  "followers": 8057146,
+  "monthlyListeners": 10275828,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1097932,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 505676,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 458253,
+        "region": "PUE"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 438494,
+        "region": "JAL"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 435115,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

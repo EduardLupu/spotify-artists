@@ -1,0 +1,41 @@
+{
+  "id": "4DBi4EYXgiqbkxvWUXUzMi",
+  "name": "Old Crow Medicine Show",
+  "followers": 436080,
+  "monthlyListeners": 1339075,
+  "topCities": {
+    "items": [
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 24883,
+        "region": "CO"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 22739,
+        "region": "IL"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 21241,
+        "region": "NC"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 18806,
+        "region": "WA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 18201,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5kVgcCdPbeUwxBqWxi2Ktl",
+  "name": "Luan Pereira",
+  "followers": 2483166,
+  "monthlyListeners": 15959675,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 2469930,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 1007125,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 843309,
+        "region": "PR"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 808069,
+        "region": "SP"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 750038,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

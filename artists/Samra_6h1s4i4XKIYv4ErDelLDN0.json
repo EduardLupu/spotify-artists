@@ -1,0 +1,41 @@
+{
+  "id": "6h1s4i4XKIYv4ErDelLDN0",
+  "name": "Samra",
+  "followers": 1313734,
+  "monthlyListeners": 2962322,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 324583,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 253974,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 247547,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 204334,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 188227,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

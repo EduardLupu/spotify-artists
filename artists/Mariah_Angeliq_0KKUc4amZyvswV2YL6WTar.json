@@ -1,0 +1,41 @@
+{
+  "id": "0KKUc4amZyvswV2YL6WTar",
+  "name": "Mariah Angeliq",
+  "followers": 533660,
+  "monthlyListeners": 5008964,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 225765,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 154866,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 150366,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 117805,
+        "region": "LMA"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 100845,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

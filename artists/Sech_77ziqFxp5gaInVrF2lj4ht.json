@@ -1,0 +1,41 @@
+{
+  "id": "77ziqFxp5gaInVrF2lj4ht",
+  "name": "Sech",
+  "followers": 12077177,
+  "monthlyListeners": 18456911,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 942744,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 846892,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 714569,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 633944,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 616792,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 415
+}

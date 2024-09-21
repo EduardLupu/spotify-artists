@@ -1,0 +1,41 @@
+{
+  "id": "3RuKMixE6jnuXqEx1Jy1om",
+  "name": "Steve Kroeger",
+  "followers": 6617,
+  "monthlyListeners": 250448,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 3910,
+        "region": "NH"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 3182,
+        "region": "BE"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 3157,
+        "region": "NSW"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 2850,
+        "region": "QC"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 2594,
+        "region": "ZH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

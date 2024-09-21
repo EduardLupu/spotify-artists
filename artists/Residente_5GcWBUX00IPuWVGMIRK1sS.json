@@ -1,0 +1,41 @@
+{
+  "id": "5GcWBUX00IPuWVGMIRK1sS",
+  "name": "Residente",
+  "followers": 1434385,
+  "monthlyListeners": 3397011,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 170263,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 154999,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 154994,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 93471,
+        "region": "C"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 87494,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3ZuBEj9ppJe8GSdKaMTfMN",
+  "name": "Nimo",
+  "followers": 1468232,
+  "monthlyListeners": 3453566,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 379796,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 347388,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 311774,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 264814,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 255585,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6VYlGiloNWyBrupglR85GP",
+  "name": "L1TNEYY",
+  "followers": 1774,
+  "monthlyListeners": 5170,
+  "topCities": {
+    "items": [
+      {
+        "city": "Kyiv",
+        "country": "UA",
+        "numberOfListeners": 779,
+        "region": "30"
+      },
+      {
+        "city": "Dnipro",
+        "country": "UA",
+        "numberOfListeners": 284,
+        "region": "12"
+      },
+      {
+        "city": "Lviv",
+        "country": "UA",
+        "numberOfListeners": 197,
+        "region": "46"
+      },
+      {
+        "city": "Minsk",
+        "country": "BY",
+        "numberOfListeners": 128,
+        "region": "HM"
+      },
+      {
+        "city": "Kharkiv",
+        "country": "UA",
+        "numberOfListeners": 127,
+        "region": "63"
+      }
+    ]
+  },
+  "worldRank": 0
+}

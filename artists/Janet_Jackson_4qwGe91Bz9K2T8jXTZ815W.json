@@ -1,0 +1,41 @@
+{
+  "id": "4qwGe91Bz9K2T8jXTZ815W",
+  "name": "Janet Jackson",
+  "followers": 3966066,
+  "monthlyListeners": 5484630,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 104721,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 88608,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 84031,
+        "region": "CA"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 78515,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 74879,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

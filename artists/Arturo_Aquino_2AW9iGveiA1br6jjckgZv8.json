@@ -1,0 +1,41 @@
+{
+  "id": "2AW9iGveiA1br6jjckgZv8",
+  "name": "Arturo Aquino",
+  "followers": 3666,
+  "monthlyListeners": 8791,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tuxtla Gutiérrez",
+        "country": "MX",
+        "numberOfListeners": 1373,
+        "region": "CHP"
+      },
+      {
+        "city": "Mérida",
+        "country": "MX",
+        "numberOfListeners": 642,
+        "region": "YUC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 551,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 212,
+        "region": "PUE"
+      },
+      {
+        "city": "Puerto Juárez",
+        "country": "MX",
+        "numberOfListeners": 190,
+        "region": "ROO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0OdUWJ0sBjDrqHygGUXeCF",
+  "name": "Band of Horses",
+  "followers": 1013951,
+  "monthlyListeners": 3091088,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 42179,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 36146,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 35454,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 35061,
+        "region": "VIC"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 34065,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

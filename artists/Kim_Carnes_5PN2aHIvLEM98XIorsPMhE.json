@@ -1,0 +1,41 @@
+{
+  "id": "5PN2aHIvLEM98XIorsPMhE",
+  "name": "Kim Carnes",
+  "followers": 375651,
+  "monthlyListeners": 5363051,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 133550,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 81909,
+        "region": "NSW"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 78170,
+        "region": "CMX"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 75290,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 70211,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

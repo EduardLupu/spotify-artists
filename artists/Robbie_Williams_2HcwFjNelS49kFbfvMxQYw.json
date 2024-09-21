@@ -1,0 +1,41 @@
+{
+  "id": "2HcwFjNelS49kFbfvMxQYw",
+  "name": "Robbie Williams",
+  "followers": 2936269,
+  "monthlyListeners": 11915614,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 240424,
+        "region": "ENG"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 231582,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 213274,
+        "region": "CMX"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 160071,
+        "region": "NH"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 159320,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

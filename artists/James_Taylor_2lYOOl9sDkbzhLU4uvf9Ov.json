@@ -1,0 +1,41 @@
+{
+  "id": "2lYOOl9sDkbzhLU4uvf9Ov",
+  "name": "James Taylor",
+  "followers": 1073,
+  "monthlyListeners": 539,
+  "topCities": {
+    "items": [
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 20,
+        "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 18,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 17,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 16,
+        "region": "QLD"
+      },
+      {
+        "city": "Tel Aviv",
+        "country": "IL",
+        "numberOfListeners": 14,
+        "region": "TA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

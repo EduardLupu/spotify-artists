@@ -1,0 +1,41 @@
+{
+  "id": "027FXvEFQHDQTMIsqc1hsh",
+  "name": "Murda",
+  "followers": 257,
+  "monthlyListeners": 537,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 102,
+        "region": "CA"
+      },
+      {
+        "city": "Riverside",
+        "country": "US",
+        "numberOfListeners": 27,
+        "region": "CA"
+      },
+      {
+        "city": "San Diego",
+        "country": "US",
+        "numberOfListeners": 19,
+        "region": "CA"
+      },
+      {
+        "city": "Fontana",
+        "country": "US",
+        "numberOfListeners": 17,
+        "region": "CA"
+      },
+      {
+        "city": "Pacoima",
+        "country": "US",
+        "numberOfListeners": 17,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6WY7D3jk8zTrHtmkqqo5GI",
+  "name": "Maren Morris",
+  "followers": 822701,
+  "monthlyListeners": 11790550,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 183460,
+        "region": "NSW"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 175629,
+        "region": "JK"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 142324,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 139535,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 134220,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3KIfABOyL05fsdeguiG4Qa",
+  "name": "Fuego",
+  "followers": 32,
+  "monthlyListeners": 57,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 10,
+        "region": "IDF"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 3,
+        "region": "ARA"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 2,
+        "region": "QC"
+      },
+      {
+        "city": "Pierrefonds",
+        "country": "CA",
+        "numberOfListeners": 1,
+        "region": "QC"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 1,
+        "region": "BRU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

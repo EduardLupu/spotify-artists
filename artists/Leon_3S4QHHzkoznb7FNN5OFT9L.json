@@ -1,0 +1,41 @@
+{
+  "id": "3S4QHHzkoznb7FNN5OFT9L",
+  "name": "Leon",
+  "followers": 692,
+  "monthlyListeners": 3732,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 182,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 140,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 128,
+        "region": "HE"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 123,
+        "region": "AB"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 110,
+        "region": "BY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

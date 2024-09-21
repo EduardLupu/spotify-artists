@@ -1,0 +1,41 @@
+{
+  "id": "2UwqpfQtNuhBwviIC0f2ie",
+  "name": "Damso",
+  "followers": 5142202,
+  "monthlyListeners": 4262910,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 844640,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 237413,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 177211,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 154358,
+        "region": "HDF"
+      },
+      {
+        "city": "Bordeaux",
+        "country": "FR",
+        "numberOfListeners": 123291,
+        "region": "NAQ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

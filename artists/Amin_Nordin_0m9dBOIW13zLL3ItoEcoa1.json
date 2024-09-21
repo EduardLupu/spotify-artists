@@ -1,0 +1,41 @@
+{
+  "id": "0m9dBOIW13zLL3ItoEcoa1",
+  "name": "Amin Nordin",
+  "followers": 145,
+  "monthlyListeners": 2712,
+  "topCities": {
+    "items": [
+      {
+        "city": "Guwahati",
+        "country": "IN",
+        "numberOfListeners": 235,
+        "region": "AS"
+      },
+      {
+        "city": "Shillong",
+        "country": "IN",
+        "numberOfListeners": 133,
+        "region": "ML"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 94,
+        "region": "TPE"
+      },
+      {
+        "city": "Imphal",
+        "country": "IN",
+        "numberOfListeners": 88,
+        "region": "MN"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 83,
+        "region": "JK"
+      }
+    ]
+  },
+  "worldRank": 0
+}

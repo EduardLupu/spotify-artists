@@ -1,0 +1,41 @@
+{
+  "id": "250b0Wlc5Vk0CoUsaCY84M",
+  "name": "JENNIE",
+  "followers": 7191385,
+  "monthlyListeners": 31015205,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1697606,
+        "region": "JK"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 471447,
+        "region": "10"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 463294,
+        "region": "14"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 449427,
+        "region": "SP"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 378540,
+        "region": "JB"
+      }
+    ]
+  },
+  "worldRank": 146
+}

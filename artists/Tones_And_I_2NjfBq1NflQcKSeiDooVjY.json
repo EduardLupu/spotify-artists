@@ -1,0 +1,41 @@
+{
+  "id": "2NjfBq1NflQcKSeiDooVjY",
+  "name": "Tones And I",
+  "followers": 2951905,
+  "monthlyListeners": 13093555,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 306615,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 251682,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 215583,
+        "region": "QLD"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 162942,
+        "region": "ENG"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 130236,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

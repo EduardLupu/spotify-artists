@@ -1,0 +1,41 @@
+{
+  "id": "40Vr9VUq5tVrKOOsd68ojn",
+  "name": "Bones",
+  "followers": 1025,
+  "monthlyListeners": 5995,
+  "topCities": {
+    "items": [
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 1794,
+        "region": "GP"
+      },
+      {
+        "city": "Pretoria",
+        "country": "ZA",
+        "numberOfListeners": 1141,
+        "region": "GP"
+      },
+      {
+        "city": "Durban",
+        "country": "ZA",
+        "numberOfListeners": 837,
+        "region": "KZN"
+      },
+      {
+        "city": "Cape Town",
+        "country": "ZA",
+        "numberOfListeners": 756,
+        "region": "WC"
+      },
+      {
+        "city": "Port Elizabeth",
+        "country": "ZA",
+        "numberOfListeners": 91,
+        "region": "EC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

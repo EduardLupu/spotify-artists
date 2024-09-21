@@ -1,0 +1,41 @@
+{
+  "id": "5szilpXHcwOqnyKLqGco5j",
+  "name": "Faye Webster",
+  "followers": 1449837,
+  "monthlyListeners": 7219170,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 176153,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 115581,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 104148,
+        "region": "TX"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 102225,
+        "region": "NY"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 92839,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

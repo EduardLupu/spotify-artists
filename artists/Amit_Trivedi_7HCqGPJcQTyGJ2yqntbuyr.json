@@ -1,0 +1,41 @@
+{
+  "id": "7HCqGPJcQTyGJ2yqntbuyr",
+  "name": "Amit Trivedi",
+  "followers": 9255306,
+  "monthlyListeners": 16079887,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1711207,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1477565,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1127169,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 943386,
+        "region": "DL"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 860914,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

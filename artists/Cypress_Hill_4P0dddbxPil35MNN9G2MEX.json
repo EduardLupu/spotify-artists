@@ -1,0 +1,41 @@
+{
+  "id": "4P0dddbxPil35MNN9G2MEX",
+  "name": "Cypress Hill",
+  "followers": 2088894,
+  "monthlyListeners": 5876884,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 100171,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 87787,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 77747,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 77308,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 71453,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

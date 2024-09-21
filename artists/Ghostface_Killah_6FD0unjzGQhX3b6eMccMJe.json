@@ -1,0 +1,41 @@
+{
+  "id": "6FD0unjzGQhX3b6eMccMJe",
+  "name": "Ghostface Killah",
+  "followers": 940433,
+  "monthlyListeners": 1901220,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 34746,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 30623,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 29351,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 26647,
+        "region": "IL"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 26010,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

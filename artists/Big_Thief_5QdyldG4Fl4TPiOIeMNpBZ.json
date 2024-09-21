@@ -1,0 +1,41 @@
+{
+  "id": "5QdyldG4Fl4TPiOIeMNpBZ",
+  "name": "Big Thief",
+  "followers": 914071,
+  "monthlyListeners": 5687564,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 118806,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 91359,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 88850,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 88663,
+        "region": "NY"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 73059,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

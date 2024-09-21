@@ -1,0 +1,41 @@
+{
+  "id": "5ghnxpW47ojtLHHyTLdxdY",
+  "name": "Witt Lowry",
+  "followers": 598164,
+  "monthlyListeners": 2742135,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 79793,
+        "region": "JK"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 67672,
+        "region": "KA"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 57355,
+        "region": "MH"
+      },
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 44082,
+        "region": "TN"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 41636,
+        "region": "TS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

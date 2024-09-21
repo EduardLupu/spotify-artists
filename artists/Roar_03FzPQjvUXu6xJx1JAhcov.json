@@ -1,0 +1,41 @@
+{
+  "id": "03FzPQjvUXu6xJx1JAhcov",
+  "name": "Roar",
+  "followers": 46,
+  "monthlyListeners": 915,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 114,
+        "region": "NY"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 111,
+        "region": "CA"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 110,
+        "region": "SP"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 78,
+        "region": "WA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 68,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

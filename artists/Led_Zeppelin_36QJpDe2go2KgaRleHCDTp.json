@@ -1,0 +1,41 @@
+{
+  "id": "36QJpDe2go2KgaRleHCDTp",
+  "name": "Led Zeppelin",
+  "followers": 14639787,
+  "monthlyListeners": 17594920,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 288357,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 273618,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 217397,
+        "region": "CMX"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 208235,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 202873,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 451
+}

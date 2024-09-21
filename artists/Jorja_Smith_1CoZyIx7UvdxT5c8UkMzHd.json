@@ -1,0 +1,41 @@
+{
+  "id": "1CoZyIx7UvdxT5c8UkMzHd",
+  "name": "Jorja Smith",
+  "followers": 3469910,
+  "monthlyListeners": 13221418,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 476048,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 216088,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 204159,
+        "region": "NH"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 202044,
+        "region": "IDF"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 192036,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

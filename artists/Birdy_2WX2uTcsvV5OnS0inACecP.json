@@ -1,0 +1,41 @@
+{
+  "id": "2WX2uTcsvV5OnS0inACecP",
+  "name": "Birdy",
+  "followers": 3694650,
+  "monthlyListeners": 10669748,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 229651,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 175450,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 153073,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 141707,
+        "region": "NH"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 117881,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

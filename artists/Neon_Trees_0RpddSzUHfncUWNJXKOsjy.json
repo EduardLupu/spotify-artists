@@ -1,0 +1,41 @@
+{
+  "id": "0RpddSzUHfncUWNJXKOsjy",
+  "name": "Neon Trees",
+  "followers": 1229332,
+  "monthlyListeners": 7102182,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 113946,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 104399,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 100055,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 88899,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 85645,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

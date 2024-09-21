@@ -1,0 +1,41 @@
+{
+  "id": "7GlBOeep6PqTfFi59PTUUN",
+  "name": "Chappell Roan",
+  "followers": 3098400,
+  "monthlyListeners": 45248960,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1064099,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 770887,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 698019,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 671668,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 653612,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 59
+}

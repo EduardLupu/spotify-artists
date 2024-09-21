@@ -1,0 +1,41 @@
+{
+  "id": "0XNa1vTidXlvJ2gHSsRi4A",
+  "name": "Franz Ferdinand",
+  "followers": 2688489,
+  "monthlyListeners": 9715337,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 196937,
+        "region": "ENG"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 141762,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 140785,
+        "region": "NSW"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 135862,
+        "region": "CMX"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 128824,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

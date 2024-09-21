@@ -1,0 +1,41 @@
+{
+  "id": "4p2LiSvl1ITXaC68dCV4Jb",
+  "name": "MK",
+  "followers": 903,
+  "monthlyListeners": 1573,
+  "topCities": {
+    "items": [
+      {
+        "city": "Algiers",
+        "country": "DZ",
+        "numberOfListeners": 366,
+        "region": "16"
+      },
+      {
+        "city": "Oran",
+        "country": "DZ",
+        "numberOfListeners": 109,
+        "region": "31"
+      },
+      {
+        "city": "Tizi Ouzou",
+        "country": "DZ",
+        "numberOfListeners": 54,
+        "region": "15"
+      },
+      {
+        "city": "Blida",
+        "country": "DZ",
+        "numberOfListeners": 42,
+        "region": "09"
+      },
+      {
+        "city": "Constantine",
+        "country": "DZ",
+        "numberOfListeners": 38,
+        "region": "25"
+      }
+    ]
+  },
+  "worldRank": 0
+}

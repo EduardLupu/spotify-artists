@@ -1,0 +1,41 @@
+{
+  "id": "6rHwFb0YjWexAYxTjm4eIj",
+  "name": "Nickoog Clk",
+  "followers": 638275,
+  "monthlyListeners": 3140649,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1228120,
+        "region": "RM"
+      },
+      {
+        "city": "Concepción",
+        "country": "CL",
+        "numberOfListeners": 181856,
+        "region": "BI"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 158054,
+        "region": "C"
+      },
+      {
+        "city": "Temuco",
+        "country": "CL",
+        "numberOfListeners": 92183,
+        "region": "AR"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 85249,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

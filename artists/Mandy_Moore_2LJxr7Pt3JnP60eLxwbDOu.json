@@ -1,0 +1,41 @@
+{
+  "id": "2LJxr7Pt3JnP60eLxwbDOu",
+  "name": "Mandy Moore",
+  "followers": 757102,
+  "monthlyListeners": 4845783,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 120995,
+        "region": "JK"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 94023,
+        "region": "00"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 67800,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 66948,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 61586,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

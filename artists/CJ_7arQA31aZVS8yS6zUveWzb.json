@@ -1,0 +1,41 @@
+{
+  "id": "7arQA31aZVS8yS6zUveWzb",
+  "name": "CJ",
+  "followers": 243705,
+  "monthlyListeners": 5810263,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 72839,
+        "region": "25"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 59158,
+        "region": "RM"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 57487,
+        "region": "34"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 56132,
+        "region": "IDF"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 52341,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

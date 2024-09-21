@@ -1,0 +1,41 @@
+{
+  "id": "3xvaSlT4xsyk6lY1ESOspO",
+  "name": "Disney",
+  "followers": 607319,
+  "monthlyListeners": 26898608,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 549356,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 448134,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 353672,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 316644,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 255908,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 191
+}

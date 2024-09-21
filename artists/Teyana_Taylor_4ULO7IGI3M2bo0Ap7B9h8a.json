@@ -1,0 +1,41 @@
+{
+  "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+  "name": "Teyana Taylor",
+  "followers": 1921613,
+  "monthlyListeners": 3221827,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 73488,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 65627,
+        "region": "CA"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 56446,
+        "region": "GP"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 48905,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 48185,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

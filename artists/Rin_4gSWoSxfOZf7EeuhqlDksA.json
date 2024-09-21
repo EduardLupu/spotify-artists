@@ -1,0 +1,41 @@
+{
+  "id": "4gSWoSxfOZf7EeuhqlDksA",
+  "name": "Rin",
+  "followers": 20933,
+  "monthlyListeners": 63442,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 1395,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 837,
+        "region": "NSW"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 812,
+        "region": ""
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 795,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 792,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

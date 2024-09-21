@@ -1,0 +1,41 @@
+{
+  "id": "1zxDewzd2j1ZdSBGaYcr0y",
+  "name": "The Outfield",
+  "followers": 685606,
+  "monthlyListeners": 18287934,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 456354,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 428259,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 370997,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 196951,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 188837,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 419
+}

@@ -1,0 +1,41 @@
+{
+  "id": "76Pl0epAMXVXJspaSuz8im",
+  "name": "Freeze corleone",
+  "followers": 1149006,
+  "monthlyListeners": 2146984,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 234949,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 69938,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 51813,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 41228,
+        "region": "HDF"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 37509,
+        "region": "25"
+      }
+    ]
+  },
+  "worldRank": 0
+}

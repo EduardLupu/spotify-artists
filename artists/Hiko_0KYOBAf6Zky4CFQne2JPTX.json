@@ -1,0 +1,41 @@
+{
+  "id": "0KYOBAf6Zky4CFQne2JPTX",
+  "name": "Hiko",
+  "followers": 126821,
+  "monthlyListeners": 2772435,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 101603,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 32457,
+        "region": "NSW"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 25684,
+        "region": "10"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 25080,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 23880,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

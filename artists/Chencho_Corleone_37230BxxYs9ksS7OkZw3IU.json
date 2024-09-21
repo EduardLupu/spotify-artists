@@ -1,0 +1,41 @@
+{
+  "id": "37230BxxYs9ksS7OkZw3IU",
+  "name": "Chencho Corleone",
+  "followers": 1114934,
+  "monthlyListeners": 28929752,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1329152,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1169742,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1113269,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 889790,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 762379,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 170
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4IDpDJIDfK96HMLD4Tphyl",
+  "name": "AJJ",
+  "followers": 256181,
+  "monthlyListeners": 534629,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 9993,
+        "region": "IL"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 8007,
+        "region": "WA"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 6966,
+        "region": "PA"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 6899,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 6834,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

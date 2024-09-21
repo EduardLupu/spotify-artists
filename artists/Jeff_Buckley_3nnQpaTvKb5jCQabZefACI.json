@@ -1,0 +1,41 @@
+{
+  "id": "3nnQpaTvKb5jCQabZefACI",
+  "name": "Jeff Buckley",
+  "followers": 1463617,
+  "monthlyListeners": 4653132,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 99417,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 92268,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 88414,
+        "region": "VIC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 63323,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 54409,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

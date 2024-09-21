@@ -1,0 +1,41 @@
+{
+  "id": "2DifNzK1mrv4Wih2VgQ2E3",
+  "name": "Haze",
+  "followers": 185,
+  "monthlyListeners": 213,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 11,
+        "region": "ENG"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 8,
+        "region": "14"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 6,
+        "region": "ENG"
+      },
+      {
+        "city": "Sheffield",
+        "country": "GB",
+        "numberOfListeners": 6,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 5,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

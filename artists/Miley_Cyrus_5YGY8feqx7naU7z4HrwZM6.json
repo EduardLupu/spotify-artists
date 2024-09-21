@@ -1,0 +1,41 @@
+{
+  "id": "5YGY8feqx7naU7z4HrwZM6",
+  "name": "Miley Cyrus",
+  "followers": 24716717,
+  "monthlyListeners": 55679915,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1370376,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 741083,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 707993,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 686701,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 597758,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 33
+}

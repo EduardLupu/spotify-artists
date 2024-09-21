@@ -1,0 +1,41 @@
+{
+  "id": "7x5rK9BClDQ8wmCkYAGsQp",
+  "name": "Paolo Nutini",
+  "followers": 1450208,
+  "monthlyListeners": 4836777,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 353494,
+        "region": "ENG"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 210511,
+        "region": "L"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 133017,
+        "region": "ENG"
+      },
+      {
+        "city": "Glasgow",
+        "country": "GB",
+        "numberOfListeners": 111794,
+        "region": "SCT"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 107702,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

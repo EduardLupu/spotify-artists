@@ -1,0 +1,41 @@
+{
+  "id": "1E6arsXf5Fgsnv9YpSzjpE",
+  "name": "Parampara Tandon",
+  "followers": 1091303,
+  "monthlyListeners": 11255812,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1075908,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1006907,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 743318,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 602434,
+        "region": "DL"
+      },
+      {
+        "city": "Ahmedabad",
+        "country": "IN",
+        "numberOfListeners": 577062,
+        "region": "GJ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

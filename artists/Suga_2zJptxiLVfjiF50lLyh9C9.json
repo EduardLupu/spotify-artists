@@ -1,0 +1,41 @@
+{
+  "id": "2zJptxiLVfjiF50lLyh9C9",
+  "name": "Suga",
+  "followers": 1002,
+  "monthlyListeners": 1158,
+  "topCities": {
+    "items": [
+      {
+        "city": "Vancouver",
+        "country": "CA",
+        "numberOfListeners": 36,
+        "region": "BC"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 26,
+        "region": "NC"
+      },
+      {
+        "city": "Calgary",
+        "country": "CA",
+        "numberOfListeners": 26,
+        "region": "AB"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 25,
+        "region": "NY"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 24,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

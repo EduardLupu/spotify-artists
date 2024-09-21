@@ -1,0 +1,41 @@
+{
+  "id": "26T4yOaOoFJvUvxR87Y9HO",
+  "name": "Bethel Music",
+  "followers": 1906975,
+  "monthlyListeners": 4643284,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 86842,
+        "region": "TX"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 80985,
+        "region": "JK"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 62347,
+        "region": "NC"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 59160,
+        "region": "GA"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 56950,
+        "region": "GP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

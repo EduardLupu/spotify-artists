@@ -1,0 +1,41 @@
+{
+  "id": "5FAAR1LqXQp0HbgVfQ8ZWE",
+  "name": "Javier Rosas Y Su Artillería Pesada",
+  "followers": 1101480,
+  "monthlyListeners": 3241117,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 231900,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 203498,
+        "region": "JAL"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 127787,
+        "region": "JAL"
+      },
+      {
+        "city": "Tijuana",
+        "country": "MX",
+        "numberOfListeners": 124271,
+        "region": "BCN"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 124073,
+        "region": "QUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

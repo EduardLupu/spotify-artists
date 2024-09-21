@@ -1,0 +1,41 @@
+{
+  "id": "5SbkVQYYzlw1kte75QIabH",
+  "name": "Gnarls Barkley",
+  "followers": 551158,
+  "monthlyListeners": 8209398,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 140328,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 111864,
+        "region": "CMX"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 107138,
+        "region": "IDF"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 106400,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 105448,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

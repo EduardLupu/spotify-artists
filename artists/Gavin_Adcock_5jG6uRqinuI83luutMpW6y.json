@@ -1,0 +1,41 @@
+{
+  "id": "5jG6uRqinuI83luutMpW6y",
+  "name": "Gavin Adcock",
+  "followers": 193138,
+  "monthlyListeners": 3365309,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 100084,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 88104,
+        "region": "NC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 85192,
+        "region": "IL"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 75056,
+        "region": "GA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 64826,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

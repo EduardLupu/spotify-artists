@@ -1,0 +1,41 @@
+{
+  "id": "5dmU7FrmtbQaSzIvGsE4Jp",
+  "name": "Pancho Barraza",
+  "followers": 3122382,
+  "monthlyListeners": 4589796,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 384951,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 278998,
+        "region": "JAL"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 180201,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 163939,
+        "region": "QUE"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 157712,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

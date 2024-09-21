@@ -1,0 +1,41 @@
+{
+  "id": "6L1XC7NrmgWRlwAeLJvVtA",
+  "name": "Sam Fischer",
+  "followers": 286965,
+  "monthlyListeners": 3751207,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 90102,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 72565,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 60276,
+        "region": "QLD"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 54599,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 49004,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

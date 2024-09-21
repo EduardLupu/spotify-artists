@@ -1,0 +1,41 @@
+{
+  "id": "33ScadVnbm2X8kkUqOkC6Z",
+  "name": "Don Omar",
+  "followers": 12519049,
+  "monthlyListeners": 36238875,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1465541,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1305039,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1136428,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 775148,
+        "region": "LMA"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 678634,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 104
+}

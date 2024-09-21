@@ -1,0 +1,41 @@
+{
+  "id": "4S9EykWXhStSc15wEx8QFK",
+  "name": "Céline Dion",
+  "followers": 8780149,
+  "monthlyListeners": 18093981,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 390742,
+        "region": "IDF"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 363776,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 294200,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 198606,
+        "region": "NSW"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 187814,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 425
+}

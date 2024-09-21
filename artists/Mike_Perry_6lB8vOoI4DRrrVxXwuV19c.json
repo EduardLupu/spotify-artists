@@ -1,0 +1,41 @@
+{
+  "id": "6lB8vOoI4DRrrVxXwuV19c",
+  "name": "Mike Perry",
+  "followers": 1434447,
+  "monthlyListeners": 3408329,
+  "topCities": {
+    "items": [
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 54405,
+        "region": "AB"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 43721,
+        "region": "03"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 42685,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 40774,
+        "region": "NSW"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 32972,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 0
+}

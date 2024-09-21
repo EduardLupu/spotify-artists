@@ -1,0 +1,41 @@
+{
+  "id": "6xfqnpe2HnLVUaYXs2F8YS",
+  "name": "Anna Kendrick",
+  "followers": 366024,
+  "monthlyListeners": 5190662,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 107257,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 88204,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 71597,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 71411,
+        "region": "QLD"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 57365,
+        "region": "JK"
+      }
+    ]
+  },
+  "worldRank": 0
+}

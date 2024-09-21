@@ -1,0 +1,41 @@
+{
+  "id": "3c96G4d2lUOxhomM2mby5S",
+  "name": "Bushido",
+  "followers": 1232513,
+  "monthlyListeners": 1671208,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 174861,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 131183,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 126062,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 108932,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 96676,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

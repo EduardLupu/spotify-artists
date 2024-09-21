@@ -1,0 +1,41 @@
+{
+  "id": "0LKAV3zJ8a8AIGnyc5OvfB",
+  "name": "SDM",
+  "followers": 1219517,
+  "monthlyListeners": 4913470,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 934536,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 221537,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 194778,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 168116,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 151125,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

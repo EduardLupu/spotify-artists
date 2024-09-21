@@ -1,0 +1,41 @@
+{
+  "id": "0xCFWqyNyV1lwwIv7iB3oU",
+  "name": "MONICA",
+  "followers": 33,
+  "monthlyListeners": 164,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 77,
+        "region": "10"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 14,
+        "region": "13"
+      },
+      {
+        "city": "Chiang Mai",
+        "country": "TH",
+        "numberOfListeners": 5,
+        "region": "50"
+      },
+      {
+        "city": "Yokohama",
+        "country": "JP",
+        "numberOfListeners": 4,
+        "region": "14"
+      },
+      {
+        "city": "Nakano",
+        "country": "JP",
+        "numberOfListeners": 3,
+        "region": "13"
+      }
+    ]
+  },
+  "worldRank": 0
+}

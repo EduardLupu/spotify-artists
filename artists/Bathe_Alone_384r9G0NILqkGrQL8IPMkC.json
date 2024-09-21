@@ -1,0 +1,41 @@
+{
+  "id": "384r9G0NILqkGrQL8IPMkC",
+  "name": "Bathe Alone",
+  "followers": 19652,
+  "monthlyListeners": 230882,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 3360,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 2680,
+        "region": "NY"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 2316,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 2262,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 2091,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

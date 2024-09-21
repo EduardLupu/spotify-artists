@@ -1,0 +1,41 @@
+{
+  "id": "3XNtgte5IaLHpbX9H5sVVH",
+  "name": "Beck",
+  "followers": 282,
+  "monthlyListeners": 7097,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 111,
+        "region": "CMX"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 106,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 92,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 90,
+        "region": "NY"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 90,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

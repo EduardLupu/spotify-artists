@@ -1,0 +1,41 @@
+{
+  "id": "3ToJJJlCaYBQp1NcG3Db0N",
+  "name": "Platinum Moon",
+  "followers": 40736,
+  "monthlyListeners": 47550,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 645,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 506,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 487,
+        "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 485,
+        "region": "NSW"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 477,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

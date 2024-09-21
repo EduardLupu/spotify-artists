@@ -1,0 +1,41 @@
+{
+  "id": "6STK8LKh7Lhr3t75x5iE7d",
+  "name": "FTO Sett",
+  "followers": 44952,
+  "monthlyListeners": 222766,
+  "topCities": {
+    "items": [
+      {
+        "city": "Memphis",
+        "country": "US",
+        "numberOfListeners": 7008,
+        "region": "TN"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 6820,
+        "region": "TX"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 5353,
+        "region": "GA"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 5185,
+        "region": "NC"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 4962,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3pgCLfNbw5ozIfoNsvDU7i",
+  "name": "Fedez",
+  "followers": 2036566,
+  "monthlyListeners": 4130923,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 846196,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 356557,
+        "region": "62"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 126838,
+        "region": "21"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 121387,
+        "region": "72"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 96571,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

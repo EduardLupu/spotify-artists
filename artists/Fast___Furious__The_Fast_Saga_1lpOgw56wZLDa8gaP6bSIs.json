@@ -1,0 +1,41 @@
+{
+  "id": "1lpOgw56wZLDa8gaP6bSIs",
+  "name": "Fast & Furious: The Fast Saga",
+  "followers": 87276,
+  "monthlyListeners": 5624291,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 68582,
+        "region": "C"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 66440,
+        "region": "JK"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 57651,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 48296,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 44315,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

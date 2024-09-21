@@ -1,0 +1,41 @@
+{
+  "id": "2ziB7fzrXBoh1HUPS6sVFn",
+  "name": "Audioslave",
+  "followers": 4593234,
+  "monthlyListeners": 7955691,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 274504,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 217776,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 174216,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 118453,
+        "region": "DC"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 101342,
+        "region": "RJ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

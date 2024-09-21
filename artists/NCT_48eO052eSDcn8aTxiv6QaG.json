@@ -1,0 +1,41 @@
+{
+  "id": "48eO052eSDcn8aTxiv6QaG",
+  "name": "NCT",
+  "followers": 6256964,
+  "monthlyListeners": 2228212,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 183482,
+        "region": "JK"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 62548,
+        "region": "10"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 42036,
+        "region": "JB"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 37985,
+        "region": "13"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 36713,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

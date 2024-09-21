@@ -1,0 +1,41 @@
+{
+  "id": "6cXMpsP9x0SH4kFfMyVezF",
+  "name": "Josh Groban",
+  "followers": 957739,
+  "monthlyListeners": 1999022,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 34351,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 25789,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 23194,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 20464,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 16919,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

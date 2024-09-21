@@ -1,0 +1,41 @@
+{
+  "id": "5dbuFbrHa1SJlQhQX9OUJ2",
+  "name": "Don Henley",
+  "followers": 1605054,
+  "monthlyListeners": 4604306,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 87255,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 73007,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 67672,
+        "region": "QLD"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 65751,
+        "region": "ENG"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 48165,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

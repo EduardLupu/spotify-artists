@@ -1,0 +1,41 @@
+{
+  "id": "6WOdPJmexxFINcKMkP2jMG",
+  "name": "Sachet Tandon",
+  "followers": 4540923,
+  "monthlyListeners": 15136877,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1473895,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1360127,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1056867,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 857113,
+        "region": "DL"
+      },
+      {
+        "city": "Ahmedabad",
+        "country": "IN",
+        "numberOfListeners": 788570,
+        "region": "GJ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

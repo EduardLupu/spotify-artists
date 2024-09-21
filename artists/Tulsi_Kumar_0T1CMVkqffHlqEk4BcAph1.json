@@ -1,0 +1,41 @@
+{
+  "id": "0T1CMVkqffHlqEk4BcAph1",
+  "name": "Tulsi Kumar",
+  "followers": 10293763,
+  "monthlyListeners": 15570812,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1450729,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1340128,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1051795,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 843572,
+        "region": "DL"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 823342,
+        "region": "WB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

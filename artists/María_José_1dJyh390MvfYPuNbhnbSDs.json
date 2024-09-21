@@ -1,0 +1,41 @@
+{
+  "id": "1dJyh390MvfYPuNbhnbSDs",
+  "name": "María José",
+  "followers": 2903491,
+  "monthlyListeners": 4079719,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 508468,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 207871,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 201442,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 186031,
+        "region": "PUE"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 169543,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

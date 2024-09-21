@@ -1,0 +1,41 @@
+{
+  "id": "1QhaqxeqF9sipS2gwbEKpu",
+  "name": "C-Kan",
+  "followers": 3147783,
+  "monthlyListeners": 4903436,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 498734,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 277784,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 251988,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 238278,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 209225,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

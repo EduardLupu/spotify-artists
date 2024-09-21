@@ -1,0 +1,41 @@
+{
+  "id": "69Tu9c0t0IOf0ipXnE74sQ",
+  "name": "Tahsan",
+  "followers": 761296,
+  "monthlyListeners": 196203,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dhaka",
+        "country": "BD",
+        "numberOfListeners": 73715,
+        "region": "C"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 40202,
+        "region": "WB"
+      },
+      {
+        "city": "Chittagong",
+        "country": "BD",
+        "numberOfListeners": 7767,
+        "region": "B"
+      },
+      {
+        "city": "Guwahati",
+        "country": "IN",
+        "numberOfListeners": 5272,
+        "region": "AS"
+      },
+      {
+        "city": "Rajshahi",
+        "country": "BD",
+        "numberOfListeners": 3382,
+        "region": "E"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4BoRxUdrcgbbq1rxJvvhg9",
+  "name": "Olivia Newton-John",
+  "followers": 1615126,
+  "monthlyListeners": 9143655,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 182314,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 174375,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 113444,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 103793,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 101415,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

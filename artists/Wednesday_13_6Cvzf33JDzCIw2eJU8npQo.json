@@ -1,0 +1,41 @@
+{
+  "id": "6Cvzf33JDzCIw2eJU8npQo",
+  "name": "Wednesday 13",
+  "followers": 90985,
+  "monthlyListeners": 62855,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1071,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 1040,
+        "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 902,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 827,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 741,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

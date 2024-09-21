@@ -1,0 +1,41 @@
+{
+  "id": "0PhqM7UAxtvWYi5j4MwxSl",
+  "name": "Dolu Kadehi Ters Tut",
+  "followers": 2627847,
+  "monthlyListeners": 3483182,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 1177432,
+        "region": "34"
+      },
+      {
+        "city": "Ankara",
+        "country": "TR",
+        "numberOfListeners": 633253,
+        "region": "06"
+      },
+      {
+        "city": "Izmir",
+        "country": "TR",
+        "numberOfListeners": 446617,
+        "region": "35"
+      },
+      {
+        "city": "Bursa",
+        "country": "TR",
+        "numberOfListeners": 229197,
+        "region": "16"
+      },
+      {
+        "city": "Adana",
+        "country": "TR",
+        "numberOfListeners": 203232,
+        "region": "01"
+      }
+    ]
+  },
+  "worldRank": 0
+}

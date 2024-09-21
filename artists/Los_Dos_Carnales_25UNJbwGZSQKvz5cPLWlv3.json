@@ -1,0 +1,41 @@
+{
+  "id": "25UNJbwGZSQKvz5cPLWlv3",
+  "name": "Los Dos Carnales",
+  "followers": 2942426,
+  "monthlyListeners": 8594134,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 602612,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 349018,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 269927,
+        "region": "QUE"
+      },
+      {
+        "city": "Monterrey",
+        "country": "MX",
+        "numberOfListeners": 264835,
+        "region": "NLE"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 250563,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

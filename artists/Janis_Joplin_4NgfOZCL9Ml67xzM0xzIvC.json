@@ -1,0 +1,41 @@
+{
+  "id": "4NgfOZCL9Ml67xzM0xzIvC",
+  "name": "Janis Joplin",
+  "followers": 3413778,
+  "monthlyListeners": 3900750,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 63873,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 63684,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 41694,
+        "region": "NSW"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 41517,
+        "region": "CMX"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 38684,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

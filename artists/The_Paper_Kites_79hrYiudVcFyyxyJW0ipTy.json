@@ -1,0 +1,41 @@
+{
+  "id": "79hrYiudVcFyyxyJW0ipTy",
+  "name": "The Paper Kites",
+  "followers": 805754,
+  "monthlyListeners": 8792781,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 149509,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 129160,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 125007,
+        "region": "VIC"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 97349,
+        "region": "NY"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 92618,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

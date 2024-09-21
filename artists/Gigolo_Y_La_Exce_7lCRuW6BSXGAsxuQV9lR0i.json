@@ -1,0 +1,41 @@
+{
+  "id": "7lCRuW6BSXGAsxuQV9lR0i",
+  "name": "Gigolo Y La Exce",
+  "followers": 711853,
+  "monthlyListeners": 2386906,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 185460,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 106859,
+        "region": "DC"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 95011,
+        "region": "C"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 81386,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 67984,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0WOxhx4hikIsyF3CRPLC8W",
+  "name": "Famous Dex",
+  "followers": 2475520,
+  "monthlyListeners": 2039117,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 34969,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 31490,
+        "region": "CA"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 24460,
+        "region": "ON"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 24279,
+        "region": "NY"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 22353,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

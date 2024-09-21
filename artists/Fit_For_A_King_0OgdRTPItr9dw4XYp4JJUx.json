@@ -1,0 +1,41 @@
+{
+  "id": "0OgdRTPItr9dw4XYp4JJUx",
+  "name": "Fit For A King",
+  "followers": 419176,
+  "monthlyListeners": 1104527,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 15698,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 12814,
+        "region": "TX"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 12796,
+        "region": "PA"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 12218,
+        "region": "JK"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 12198,
+        "region": "NC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

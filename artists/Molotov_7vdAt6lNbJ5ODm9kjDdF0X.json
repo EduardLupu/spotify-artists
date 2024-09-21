@@ -1,0 +1,41 @@
+{
+  "id": "7vdAt6lNbJ5ODm9kjDdF0X",
+  "name": "Molotov",
+  "followers": 1808,
+  "monthlyListeners": 222,
+  "topCities": {
+    "items": [
+      {
+        "city": "Cairo",
+        "country": "EG",
+        "numberOfListeners": 74,
+        "region": "C"
+      },
+      {
+        "city": "Giza",
+        "country": "EG",
+        "numberOfListeners": 19,
+        "region": "GZ"
+      },
+      {
+        "city": "Alexandria",
+        "country": "EG",
+        "numberOfListeners": 10,
+        "region": "ALX"
+      },
+      {
+        "city": "Seoul",
+        "country": "KR",
+        "numberOfListeners": 6,
+        "region": "11"
+      },
+      {
+        "city": "Gangnam-gu",
+        "country": "KR",
+        "numberOfListeners": 4,
+        "region": "11"
+      }
+    ]
+  },
+  "worldRank": 0
+}

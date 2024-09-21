@@ -1,0 +1,41 @@
+{
+  "id": "5zeCSgiRyezbfLiGOpKAsR",
+  "name": "Tyrone Wells",
+  "followers": 99096,
+  "monthlyListeners": 507964,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 8993,
+        "region": "NH"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 6322,
+        "region": "NSW"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 5703,
+        "region": "ZH"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 4992,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 4729,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

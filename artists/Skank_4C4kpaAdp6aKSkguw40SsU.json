@@ -1,0 +1,41 @@
+{
+  "id": "4C4kpaAdp6aKSkguw40SsU",
+  "name": "Skank",
+  "followers": 3021152,
+  "monthlyListeners": 4392216,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 735331,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 306704,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 265197,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 184280,
+        "region": "PR"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 176559,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

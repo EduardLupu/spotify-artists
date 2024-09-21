@@ -1,0 +1,41 @@
+{
+  "id": "3fhMfkPPzksWuw0hEm4ldm",
+  "name": "Ernia",
+  "followers": 937803,
+  "monthlyListeners": 2841624,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 682673,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 296293,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 136744,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 101910,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 76552,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

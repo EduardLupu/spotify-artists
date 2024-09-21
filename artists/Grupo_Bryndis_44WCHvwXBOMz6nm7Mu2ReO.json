@@ -1,0 +1,41 @@
+{
+  "id": "44WCHvwXBOMz6nm7Mu2ReO",
+  "name": "Grupo Bryndis",
+  "followers": 2572904,
+  "monthlyListeners": 4811688,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 417275,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 208385,
+        "region": "PUE"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 201325,
+        "region": "QUE"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 182835,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 176532,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

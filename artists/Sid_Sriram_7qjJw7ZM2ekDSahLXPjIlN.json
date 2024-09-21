@@ -1,0 +1,41 @@
+{
+  "id": "7qjJw7ZM2ekDSahLXPjIlN",
+  "name": "Sid Sriram",
+  "followers": 16617522,
+  "monthlyListeners": 11419814,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 2664778,
+        "region": "TN"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 2381718,
+        "region": "TS"
+      },
+      {
+        "city": "Kochi",
+        "country": "IN",
+        "numberOfListeners": 1402587,
+        "region": "KL"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 1308714,
+        "region": "KA"
+      },
+      {
+        "city": "Coimbatore",
+        "country": "IN",
+        "numberOfListeners": 1085918,
+        "region": "TN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7u9m43vPVTERaALXXOzrRq",
+  "name": "Chalino Sanchez",
+  "followers": 3097348,
+  "monthlyListeners": 4986992,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 340982,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 215071,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 153783,
+        "region": "QUE"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 143886,
+        "region": "PUE"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 134664,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

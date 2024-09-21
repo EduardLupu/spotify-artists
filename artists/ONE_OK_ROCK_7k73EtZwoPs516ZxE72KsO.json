@@ -1,0 +1,41 @@
+{
+  "id": "7k73EtZwoPs516ZxE72KsO",
+  "name": "ONE OK ROCK",
+  "followers": 5403785,
+  "monthlyListeners": 3566940,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 506185,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 193076,
+        "region": "27"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 178152,
+        "region": "JK"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 89932,
+        "region": "13"
+      },
+      {
+        "city": "Nagoya",
+        "country": "JP",
+        "numberOfListeners": 67149,
+        "region": "23"
+      }
+    ]
+  },
+  "worldRank": 0
+}

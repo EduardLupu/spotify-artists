@@ -1,0 +1,41 @@
+{
+  "id": "1IQ2e1buppatiN1bxUVkrk",
+  "name": "Slayer",
+  "followers": 4030665,
+  "monthlyListeners": 5463668,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 111999,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 86265,
+        "region": "SP"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 66108,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 62145,
+        "region": "DC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 55161,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

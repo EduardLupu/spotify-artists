@@ -1,0 +1,41 @@
+{
+  "id": "12Kgt2eahvxNWhD5PnSUde",
+  "name": "Mary Mary",
+  "followers": 650562,
+  "monthlyListeners": 1141051,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 31677,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 29253,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 24225,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 19318,
+        "region": "QLD"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 15619,
+        "region": "GP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

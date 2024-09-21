@@ -1,0 +1,41 @@
+{
+  "id": "2tRsMl4eGxwoNabM08Dm4I",
+  "name": "Judas Priest",
+  "followers": 4131018,
+  "monthlyListeners": 4245338,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 77252,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 71856,
+        "region": "SP"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 58532,
+        "region": "CMX"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 52338,
+        "region": "AB"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 47455,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

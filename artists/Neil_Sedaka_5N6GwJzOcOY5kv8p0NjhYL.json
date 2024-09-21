@@ -1,0 +1,41 @@
+{
+  "id": "5N6GwJzOcOY5kv8p0NjhYL",
+  "name": "Neil Sedaka",
+  "followers": 535048,
+  "monthlyListeners": 1744161,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 33676,
+        "region": "RM"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 23847,
+        "region": "00"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 23030,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 20165,
+        "region": "VIC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 19541,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

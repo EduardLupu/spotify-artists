@@ -1,0 +1,41 @@
+{
+  "id": "5MmVJVhhYKQ86izuGHzJYA",
+  "name": "MIKA",
+  "followers": 1390694,
+  "monthlyListeners": 6755811,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 179423,
+        "region": "IDF"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 156586,
+        "region": "ENG"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 102759,
+        "region": "BRU"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 88207,
+        "region": "25"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 85486,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4gFvmewga93iVw8w5ZBXJz",
+  "name": "U",
+  "followers": 864,
+  "monthlyListeners": 3217,
+  "topCities": {
+    "items": [
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 235,
+        "region": "9"
+      },
+      {
+        "city": "Palembang",
+        "country": "ID",
+        "numberOfListeners": 207,
+        "region": "SS"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 113,
+        "region": "MD"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 100,
+        "region": "CA"
+      },
+      {
+        "city": "Tower Hamlets",
+        "country": "GB",
+        "numberOfListeners": 99,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

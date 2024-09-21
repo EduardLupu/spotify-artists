@@ -1,0 +1,41 @@
+{
+  "id": "1uiEZYehlNivdK3iQyAbye",
+  "name": "Tom Misch",
+  "followers": 1267707,
+  "monthlyListeners": 3436810,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 119796,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 63554,
+        "region": "NH"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 57505,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 49706,
+        "region": "VIC"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 40933,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

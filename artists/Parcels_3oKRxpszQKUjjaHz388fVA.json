@@ -1,0 +1,41 @@
+{
+  "id": "3oKRxpszQKUjjaHz388fVA",
+  "name": "Parcels",
+  "followers": 865553,
+  "monthlyListeners": 4451422,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 108817,
+        "region": "IDF"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 89363,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 82548,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 69437,
+        "region": "NH"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 67462,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

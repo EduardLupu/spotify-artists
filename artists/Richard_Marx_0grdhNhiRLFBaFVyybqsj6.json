@@ -1,0 +1,41 @@
+{
+  "id": "0grdhNhiRLFBaFVyybqsj6",
+  "name": "Richard Marx",
+  "followers": 1355158,
+  "monthlyListeners": 5360031,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 176147,
+        "region": "JK"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 111046,
+        "region": "RM"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 99759,
+        "region": "00"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 93266,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 60099,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5wyWp867LWGjFmYZXVSFnZ",
+  "name": "MERO",
+  "followers": 2091337,
+  "monthlyListeners": 4080845,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 375506,
+        "region": "34"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 280329,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 236142,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 221448,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 176935,
+        "region": "BY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2K5nCggbhSZ00YCYP5qkZS",
+  "name": "Shiva",
+  "followers": 2262838,
+  "monthlyListeners": 4834361,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 1234219,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 557983,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 254775,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 196064,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 148770,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

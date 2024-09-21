@@ -1,0 +1,41 @@
+{
+  "id": "6o1AkIpHU46WF5KZxaQABM",
+  "name": "Beny jr",
+  "followers": 14894,
+  "monthlyListeners": 11087,
+  "topCities": {
+    "items": [
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 1420,
+        "region": "CT"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 1034,
+        "region": "MD"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 508,
+        "region": "RM"
+      },
+      {
+        "city": "Valencia",
+        "country": "ES",
+        "numberOfListeners": 284,
+        "region": "VC"
+      },
+      {
+        "city": "Málaga",
+        "country": "ES",
+        "numberOfListeners": 259,
+        "region": "AN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

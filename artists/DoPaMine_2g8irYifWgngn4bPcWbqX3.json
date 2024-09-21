@@ -1,0 +1,41 @@
+{
+  "id": "2g8irYifWgngn4bPcWbqX3",
+  "name": "DoPaMine",
+  "followers": 93,
+  "monthlyListeners": 102,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 5,
+        "region": "10"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 5,
+        "region": "14"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 3,
+        "region": ""
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 3,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 2,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

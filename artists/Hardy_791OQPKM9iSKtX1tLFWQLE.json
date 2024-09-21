@@ -1,0 +1,41 @@
+{
+  "id": "791OQPKM9iSKtX1tLFWQLE",
+  "name": "Hardy",
+  "followers": 21,
+  "monthlyListeners": 40,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 21,
+        "region": "SP"
+      },
+      {
+        "city": "Santo André",
+        "country": "BR",
+        "numberOfListeners": 5,
+        "region": "SP"
+      },
+      {
+        "city": "São Bernardo do Campo",
+        "country": "BR",
+        "numberOfListeners": 5,
+        "region": "SP"
+      },
+      {
+        "city": "João Pessoa",
+        "country": "BR",
+        "numberOfListeners": 2,
+        "region": "PB"
+      },
+      {
+        "city": "Guarulhos",
+        "country": "BR",
+        "numberOfListeners": 1,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

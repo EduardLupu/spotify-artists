@@ -1,0 +1,41 @@
+{
+  "id": "5JMreTXFpbiZzkFzZdHilk",
+  "name": "Haze",
+  "followers": 15,
+  "monthlyListeners": 9,
+  "topCities": {
+    "items": [
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "NY"
+      },
+      {
+        "city": "Tel Aviv",
+        "country": "IL",
+        "numberOfListeners": 1,
+        "region": "TA"
+      },
+      {
+        "city": "Enskede-Årsta-Vantör",
+        "country": "SE",
+        "numberOfListeners": 1,
+        "region": "AB"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 1,
+        "region": "HE"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 1,
+        "region": "LA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

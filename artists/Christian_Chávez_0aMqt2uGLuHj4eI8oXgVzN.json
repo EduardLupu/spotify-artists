@@ -1,0 +1,41 @@
+{
+  "id": "0aMqt2uGLuHj4eI8oXgVzN",
+  "name": "Christian Chávez",
+  "followers": 185432,
+  "monthlyListeners": 4314277,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 291447,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 137122,
+        "region": "LMA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 130672,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 127758,
+        "region": "DC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 115976,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "210Sy1oGhvPu929TKoSVcN",
+  "name": "Kotim",
+  "followers": 232933,
+  "monthlyListeners": 5521257,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1045768,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 275129,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 261015,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 240061,
+        "region": "PR"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 239417,
+        "region": "RJ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

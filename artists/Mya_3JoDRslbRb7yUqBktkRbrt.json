@@ -1,0 +1,41 @@
+{
+  "id": "3JoDRslbRb7yUqBktkRbrt",
+  "name": "Mya",
+  "followers": 526,
+  "monthlyListeners": 756,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 69,
+        "region": "ENG"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 47,
+        "region": "ON"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 28,
+        "region": "NY"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 17,
+        "region": "NY"
+      },
+      {
+        "city": "Leeds",
+        "country": "GB",
+        "numberOfListeners": 11,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

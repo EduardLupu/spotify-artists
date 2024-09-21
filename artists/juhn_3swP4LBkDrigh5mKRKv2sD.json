@@ -1,0 +1,41 @@
+{
+  "id": "3swP4LBkDrigh5mKRKv2sD",
+  "name": "juhn",
+  "followers": 134,
+  "monthlyListeners": 3610,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 320,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 242,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 196,
+        "region": "HE"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 170,
+        "region": "AB"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 152,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

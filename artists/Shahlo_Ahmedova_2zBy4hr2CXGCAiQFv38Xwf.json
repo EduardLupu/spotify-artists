@@ -1,0 +1,41 @@
+{
+  "id": "2zBy4hr2CXGCAiQFv38Xwf",
+  "name": "Shahlo Ahmedova",
+  "followers": 3858,
+  "monthlyListeners": 11307,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tashkent",
+        "country": "UZ",
+        "numberOfListeners": 3369,
+        "region": "TK"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 859,
+        "region": "34"
+      },
+      {
+        "city": "Samarkand",
+        "country": "UZ",
+        "numberOfListeners": 426,
+        "region": "SA"
+      },
+      {
+        "city": "Ankara",
+        "country": "TR",
+        "numberOfListeners": 153,
+        "region": "06"
+      },
+      {
+        "city": "Dushanbe",
+        "country": "TJ",
+        "numberOfListeners": 126,
+        "region": "DU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6zYtDbgziYljg4xYDaPphf",
+  "name": "GHOST",
+  "followers": 11276,
+  "monthlyListeners": 391,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 60,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 28,
+        "region": "62"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 8,
+        "region": "DC"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 5,
+        "region": "72"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 4,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

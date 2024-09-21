@@ -1,0 +1,41 @@
+{
+  "id": "4npEfmQ6YuiwW1GpUmaq3F",
+  "name": "Ava Max",
+  "followers": 7079988,
+  "monthlyListeners": 32869749,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 631019,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 364442,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 360349,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 303830,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 282373,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 129
+}

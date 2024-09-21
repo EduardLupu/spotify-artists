@@ -1,0 +1,41 @@
+{
+  "id": "01nUdqwuIHCHLZNP2TvYVF",
+  "name": "Boy Wonder CF",
+  "followers": 76202,
+  "monthlyListeners": 5550361,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 395666,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 264035,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 210740,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 192232,
+        "region": "LMA"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 151987,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

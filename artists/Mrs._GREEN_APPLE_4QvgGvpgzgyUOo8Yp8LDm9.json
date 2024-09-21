@@ -1,0 +1,41 @@
+{
+  "id": "4QvgGvpgzgyUOo8Yp8LDm9",
+  "name": "Mrs. GREEN APPLE",
+  "followers": 4288079,
+  "monthlyListeners": 6593361,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 1679989,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 660581,
+        "region": "27"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 348766,
+        "region": "13"
+      },
+      {
+        "city": "Nagoya",
+        "country": "JP",
+        "numberOfListeners": 250670,
+        "region": "23"
+      },
+      {
+        "city": "Nakano",
+        "country": "JP",
+        "numberOfListeners": 193639,
+        "region": "13"
+      }
+    ]
+  },
+  "worldRank": 0
+}

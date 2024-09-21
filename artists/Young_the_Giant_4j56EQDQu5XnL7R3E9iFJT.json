@@ -1,0 +1,41 @@
+{
+  "id": "4j56EQDQu5XnL7R3E9iFJT",
+  "name": "Young the Giant",
+  "followers": 1605854,
+  "monthlyListeners": 6935024,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 158552,
+        "region": "JK"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 88938,
+        "region": "IL"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 77572,
+        "region": "34"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 76620,
+        "region": "NY"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 71876,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

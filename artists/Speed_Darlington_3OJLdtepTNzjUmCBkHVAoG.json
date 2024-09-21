@@ -1,0 +1,41 @@
+{
+  "id": "3OJLdtepTNzjUmCBkHVAoG",
+  "name": "Speed Darlington",
+  "followers": 8172,
+  "monthlyListeners": 19240,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 6224,
+        "region": "LA"
+      },
+      {
+        "city": "Port Harcourt",
+        "country": "NG",
+        "numberOfListeners": 4938,
+        "region": "RI"
+      },
+      {
+        "city": "Abuja",
+        "country": "NG",
+        "numberOfListeners": 3640,
+        "region": "FC"
+      },
+      {
+        "city": "Benin City",
+        "country": "NG",
+        "numberOfListeners": 770,
+        "region": "ED"
+      },
+      {
+        "city": "Enugu",
+        "country": "NG",
+        "numberOfListeners": 745,
+        "region": "EN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

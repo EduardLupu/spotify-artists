@@ -1,0 +1,41 @@
+{
+  "id": "685KHWPoaofdjcrL8DWohF",
+  "name": "Madmän",
+  "followers": 350,
+  "monthlyListeners": 94,
+  "topCities": {
+    "items": [
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 57,
+        "region": ""
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 14,
+        "region": "14"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 3,
+        "region": "JK"
+      },
+      {
+        "city": "Petaling Jaya",
+        "country": "MY",
+        "numberOfListeners": 3,
+        "region": "10"
+      },
+      {
+        "city": "Tampines New Town",
+        "country": "SG",
+        "numberOfListeners": 3,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4puAp107dCehraE47QXVQX",
+  "name": "C.R.O",
+  "followers": 2125542,
+  "monthlyListeners": 3684765,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 421259,
+        "region": "C"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 195010,
+        "region": "B"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 174869,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 142606,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 115288,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

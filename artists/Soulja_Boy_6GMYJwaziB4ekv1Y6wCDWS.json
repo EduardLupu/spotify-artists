@@ -1,0 +1,41 @@
+{
+  "id": "6GMYJwaziB4ekv1Y6wCDWS",
+  "name": "Soulja Boy",
+  "followers": 2124548,
+  "monthlyListeners": 11138592,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 200455,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 163061,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 126656,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 126610,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 115876,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

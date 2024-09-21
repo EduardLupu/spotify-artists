@@ -1,0 +1,41 @@
+{
+  "id": "1UdbiTrv73Dp7F0s3OHmn2",
+  "name": "Light",
+  "followers": 955353,
+  "monthlyListeners": 1135428,
+  "topCities": {
+    "items": [
+      {
+        "city": "Athens",
+        "country": "GR",
+        "numberOfListeners": 604447,
+        "region": "I"
+      },
+      {
+        "city": "Thessaloniki",
+        "country": "GR",
+        "numberOfListeners": 272152,
+        "region": "B"
+      },
+      {
+        "city": "Pátrai",
+        "country": "GR",
+        "numberOfListeners": 36860,
+        "region": "G"
+      },
+      {
+        "city": "Nicosia",
+        "country": "CY",
+        "numberOfListeners": 34595,
+        "region": "01"
+      },
+      {
+        "city": "Limassol",
+        "country": "CY",
+        "numberOfListeners": 29560,
+        "region": "02"
+      }
+    ]
+  },
+  "worldRank": 0
+}

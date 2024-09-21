@@ -1,0 +1,41 @@
+{
+  "id": "3lPQ2Fk5JOwGWAF3ORFCqH",
+  "name": "John Mellencamp",
+  "followers": 1744438,
+  "monthlyListeners": 5256235,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 139799,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 118640,
+        "region": "QLD"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 111079,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 92130,
+        "region": "IL"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 84159,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

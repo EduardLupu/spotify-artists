@@ -1,0 +1,41 @@
+{
+  "id": "07djC643Au1GhdnucdRUBe",
+  "name": "Ben Harper",
+  "followers": 86,
+  "monthlyListeners": 392,
+  "topCities": {
+    "items": [
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 7,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 6,
+        "region": "ENG"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 6,
+        "region": "RM"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 6,
+        "region": "AB"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 5,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

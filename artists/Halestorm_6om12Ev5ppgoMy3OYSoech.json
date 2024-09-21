@@ -1,0 +1,41 @@
+{
+  "id": "6om12Ev5ppgoMy3OYSoech",
+  "name": "Halestorm",
+  "followers": 1484979,
+  "monthlyListeners": 3111243,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 65442,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 41518,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 39807,
+        "region": "IL"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 30262,
+        "region": "CO"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 30247,
+        "region": "PA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

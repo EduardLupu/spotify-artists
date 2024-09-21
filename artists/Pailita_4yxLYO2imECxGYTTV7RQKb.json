@@ -1,0 +1,41 @@
+{
+  "id": "4yxLYO2imECxGYTTV7RQKb",
+  "name": "Pailita",
+  "followers": 1474807,
+  "monthlyListeners": 5878601,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1235220,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 223257,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 219903,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 192438,
+        "region": "LMA"
+      },
+      {
+        "city": "Concepción",
+        "country": "CL",
+        "numberOfListeners": 168887,
+        "region": "BI"
+      }
+    ]
+  },
+  "worldRank": 0
+}

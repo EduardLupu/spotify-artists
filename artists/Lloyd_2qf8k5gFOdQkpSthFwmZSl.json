@@ -1,0 +1,41 @@
+{
+  "id": "2qf8k5gFOdQkpSthFwmZSl",
+  "name": "Lloyd",
+  "followers": 11,
+  "monthlyListeners": 48,
+  "topCities": {
+    "items": [
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 3,
+        "region": "VIC"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 2,
+        "region": "HE"
+      },
+      {
+        "city": "Bocholt",
+        "country": "DE",
+        "numberOfListeners": 2,
+        "region": "NW"
+      },
+      {
+        "city": "Caloocan City",
+        "country": "PH",
+        "numberOfListeners": 2,
+        "region": "00"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 2,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

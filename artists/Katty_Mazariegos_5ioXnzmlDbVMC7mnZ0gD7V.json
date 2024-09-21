@@ -1,0 +1,41 @@
+{
+  "id": "5ioXnzmlDbVMC7mnZ0gD7V",
+  "name": "Katty Mazariegos",
+  "followers": 72089,
+  "monthlyListeners": 56515,
+  "topCities": {
+    "items": [
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 14089,
+        "region": "GU"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 7741,
+        "region": "01"
+      },
+      {
+        "city": "San Salvador",
+        "country": "SV",
+        "numberOfListeners": 1961,
+        "region": "SS"
+      },
+      {
+        "city": "Managua",
+        "country": "NI",
+        "numberOfListeners": 1459,
+        "region": "MN"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1005,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

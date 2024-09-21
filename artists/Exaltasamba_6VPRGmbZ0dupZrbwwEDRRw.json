@@ -1,0 +1,41 @@
+{
+  "id": "6VPRGmbZ0dupZrbwwEDRRw",
+  "name": "Exaltasamba",
+  "followers": 1890693,
+  "monthlyListeners": 4329632,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 910400,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 401479,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 207703,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 189841,
+        "region": "SP"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 165878,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

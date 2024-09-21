@@ -1,0 +1,41 @@
+{
+  "id": "1zNqDE7qDGCsyzJwohVaoX",
+  "name": "Anne-Marie",
+  "followers": 12050221,
+  "monthlyListeners": 32795017,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1456943,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 431233,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 357792,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 295341,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 293452,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 130
+}

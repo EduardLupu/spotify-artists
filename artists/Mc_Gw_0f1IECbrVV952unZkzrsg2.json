@@ -1,0 +1,41 @@
+{
+  "id": "0f1IECbrVV952unZkzrsg2",
+  "name": "Mc Gw",
+  "followers": 1532292,
+  "monthlyListeners": 20178070,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1636919,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 542190,
+        "region": "MG"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 456722,
+        "region": "RJ"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 440501,
+        "region": "PR"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 425093,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 350
+}

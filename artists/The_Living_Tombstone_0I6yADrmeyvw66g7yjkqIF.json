@@ -1,0 +1,41 @@
+{
+  "id": "0I6yADrmeyvw66g7yjkqIF",
+  "name": "The Living Tombstone",
+  "followers": 4168245,
+  "monthlyListeners": 6797532,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 80229,
+        "region": "RM"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 80035,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 68533,
+        "region": "SP"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 66015,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 58329,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+  "name": "BROCKHAMPTON",
+  "followers": 2242291,
+  "monthlyListeners": 3933230,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 80422,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 76018,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 69794,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 61654,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 58945,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1UTPBmNbXNTittyMJrNkvw",
+  "name": "Blake Shelton",
+  "followers": 7220419,
+  "monthlyListeners": 12663619,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 224218,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 215077,
+        "region": "NSW"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 187654,
+        "region": "TX"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 185972,
+        "region": "ON"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 182919,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

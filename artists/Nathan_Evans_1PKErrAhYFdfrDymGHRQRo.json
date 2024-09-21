@@ -1,0 +1,41 @@
+{
+  "id": "1PKErrAhYFdfrDymGHRQRo",
+  "name": "Nathan Evans",
+  "followers": 518237,
+  "monthlyListeners": 5694613,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 106164,
+        "region": "ENG"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 74623,
+        "region": "BE"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 66164,
+        "region": "NSW"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 60390,
+        "region": "HH"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 59461,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

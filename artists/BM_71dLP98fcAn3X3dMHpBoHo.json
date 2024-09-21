@@ -1,0 +1,41 @@
+{
+  "id": "71dLP98fcAn3X3dMHpBoHo",
+  "name": "BM",
+  "followers": 12223,
+  "monthlyListeners": 119873,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 3948,
+        "region": "IDF"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 2662,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 2378,
+        "region": "NH"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 2049,
+        "region": "QC"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 1777,
+        "region": "ZH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

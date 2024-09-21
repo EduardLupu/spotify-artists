@@ -1,0 +1,41 @@
+{
+  "id": "4BYxqVkZyFjtik7crYLg5Q",
+  "name": "Chris Young",
+  "followers": 2794933,
+  "monthlyListeners": 4824058,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 96210,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 91335,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 78205,
+        "region": "NC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 71435,
+        "region": "NSW"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 67833,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

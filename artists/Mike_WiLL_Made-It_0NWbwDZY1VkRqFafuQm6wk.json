@@ -1,0 +1,41 @@
+{
+  "id": "0NWbwDZY1VkRqFafuQm6wk",
+  "name": "Mike WiLL Made-It",
+  "followers": 1596148,
+  "monthlyListeners": 4696205,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 79370,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 57783,
+        "region": "CA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 54511,
+        "region": "TX"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 50587,
+        "region": "ON"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 49896,
+        "region": "GA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

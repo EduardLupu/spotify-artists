@@ -1,0 +1,41 @@
+{
+  "id": "2htToCUWzqrvOX6ISJY1nd",
+  "name": "The D.O.C.",
+  "followers": 430774,
+  "monthlyListeners": 285200,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 8617,
+        "region": "CA"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 5613,
+        "region": "SP"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 4902,
+        "region": "IL"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 4159,
+        "region": "AZ"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 3768,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

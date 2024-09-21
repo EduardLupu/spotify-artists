@@ -1,0 +1,41 @@
+{
+  "id": "1IZLcCJ2apQfW0g68Ukdm1",
+  "name": "AURORA",
+  "followers": 66,
+  "monthlyListeners": 1639,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 230,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 80,
+        "region": "62"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 34,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 28,
+        "region": "52"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 24,
+        "region": "72"
+      }
+    ]
+  },
+  "worldRank": 0
+}

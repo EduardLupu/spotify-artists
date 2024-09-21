@@ -1,0 +1,41 @@
+{
+  "id": "6yTYR09WCvsgdnurDW4WQo",
+  "name": "DJ Antoine",
+  "followers": 463613,
+  "monthlyListeners": 3647776,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 104686,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 92889,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 81058,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 79909,
+        "region": "BY"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 79404,
+        "region": "9"
+      }
+    ]
+  },
+  "worldRank": 0
+}

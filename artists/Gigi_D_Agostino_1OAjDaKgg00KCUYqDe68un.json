@@ -1,0 +1,41 @@
+{
+  "id": "1OAjDaKgg00KCUYqDe68un",
+  "name": "Gigi D'Agostino",
+  "followers": 937474,
+  "monthlyListeners": 15140498,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 226454,
+        "region": "SP"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 215954,
+        "region": "BE"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 215057,
+        "region": "CMX"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 190028,
+        "region": "25"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 178716,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

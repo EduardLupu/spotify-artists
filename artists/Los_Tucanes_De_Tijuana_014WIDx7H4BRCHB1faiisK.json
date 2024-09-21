@@ -1,0 +1,41 @@
+{
+  "id": "014WIDx7H4BRCHB1faiisK",
+  "name": "Los Tucanes De Tijuana",
+  "followers": 3352158,
+  "monthlyListeners": 11223886,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 804208,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 520155,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 390210,
+        "region": "QUE"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 358405,
+        "region": "PUE"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 333404,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

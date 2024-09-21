@@ -1,0 +1,41 @@
+{
+  "id": "6P5NO5hzJbuOqSdyPB7SJM",
+  "name": "Ashe",
+  "followers": 1624731,
+  "monthlyListeners": 10531358,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 243084,
+        "region": "JK"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 137314,
+        "region": "KA"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 123404,
+        "region": "TS"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 121087,
+        "region": "MH"
+      },
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 91555,
+        "region": "TN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

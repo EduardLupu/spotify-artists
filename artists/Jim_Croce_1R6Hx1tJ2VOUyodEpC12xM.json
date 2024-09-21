@@ -1,0 +1,41 @@
+{
+  "id": "1R6Hx1tJ2VOUyodEpC12xM",
+  "name": "Jim Croce",
+  "followers": 1470509,
+  "monthlyListeners": 10551055,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 131166,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 126108,
+        "region": "NSW"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 120495,
+        "region": "NY"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 109190,
+        "region": "ON"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 106278,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

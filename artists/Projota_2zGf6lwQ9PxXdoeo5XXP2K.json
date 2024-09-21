@@ -1,0 +1,41 @@
+{
+  "id": "2zGf6lwQ9PxXdoeo5XXP2K",
+  "name": "Projota",
+  "followers": 4418225,
+  "monthlyListeners": 2471201,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 426914,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 171317,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 116882,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 104870,
+        "region": "PR"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 96033,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

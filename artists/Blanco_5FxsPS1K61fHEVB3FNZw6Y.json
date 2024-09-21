@@ -1,0 +1,41 @@
+{
+  "id": "5FxsPS1K61fHEVB3FNZw6Y",
+  "name": "Blanco",
+  "followers": 154821,
+  "monthlyListeners": 2541724,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 194863,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 61319,
+        "region": "NSW"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 60969,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 54272,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 50360,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

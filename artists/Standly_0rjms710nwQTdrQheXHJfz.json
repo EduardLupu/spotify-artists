@@ -1,0 +1,41 @@
+{
+  "id": "0rjms710nwQTdrQheXHJfz",
+  "name": "Standly",
+  "followers": 1051668,
+  "monthlyListeners": 6677881,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1146716,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 342267,
+        "region": "C"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 288117,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 241121,
+        "region": "CMX"
+      },
+      {
+        "city": "Concepción",
+        "country": "CL",
+        "numberOfListeners": 163688,
+        "region": "BI"
+      }
+    ]
+  },
+  "worldRank": 0
+}

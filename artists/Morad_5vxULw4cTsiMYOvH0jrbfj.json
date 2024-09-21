@@ -1,0 +1,41 @@
+{
+  "id": "5vxULw4cTsiMYOvH0jrbfj",
+  "name": "Morad",
+  "followers": 8693,
+  "monthlyListeners": 54879,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 20763,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 5203,
+        "region": "JB"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 2173,
+        "region": "14"
+      },
+      {
+        "city": "Yogyakarta",
+        "country": "ID",
+        "numberOfListeners": 2149,
+        "region": "YO"
+      },
+      {
+        "city": "Surabaya",
+        "country": "ID",
+        "numberOfListeners": 2005,
+        "region": "JI"
+      }
+    ]
+  },
+  "worldRank": 0
+}

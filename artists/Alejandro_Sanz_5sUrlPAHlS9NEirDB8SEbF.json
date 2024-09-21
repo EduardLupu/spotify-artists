@@ -1,0 +1,41 @@
+{
+  "id": "5sUrlPAHlS9NEirDB8SEbF",
+  "name": "Alejandro Sanz",
+  "followers": 7587225,
+  "monthlyListeners": 12639027,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 656586,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 644987,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 393427,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 376830,
+        "region": "DC"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 340112,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

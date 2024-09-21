@@ -1,0 +1,41 @@
+{
+  "id": "1QJbbsxg2wqidJj51d3otw",
+  "name": "Natos y Waor",
+  "followers": 823362,
+  "monthlyListeners": 1515976,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 263345,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 120836,
+        "region": "CT"
+      },
+      {
+        "city": "Valencia",
+        "country": "ES",
+        "numberOfListeners": 61359,
+        "region": "VC"
+      },
+      {
+        "city": "Málaga",
+        "country": "ES",
+        "numberOfListeners": 39676,
+        "region": "AN"
+      },
+      {
+        "city": "Seville",
+        "country": "ES",
+        "numberOfListeners": 36516,
+        "region": "AN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

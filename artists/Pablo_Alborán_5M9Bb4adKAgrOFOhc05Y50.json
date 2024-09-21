@@ -1,0 +1,41 @@
+{
+  "id": "5M9Bb4adKAgrOFOhc05Y50",
+  "name": "Pablo Alborán",
+  "followers": 5104449,
+  "monthlyListeners": 14101311,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 815652,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 574421,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 554084,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 484918,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 376187,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

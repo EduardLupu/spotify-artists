@@ -1,0 +1,41 @@
+{
+  "id": "0GgY7hjMoGDsX8ZDe2mwds",
+  "name": "Soolking",
+  "followers": 5581001,
+  "monthlyListeners": 7810421,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 638614,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 222084,
+        "region": "BRU"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 172296,
+        "region": "MD"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 146967,
+        "region": "ARA"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 124249,
+        "region": "CT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

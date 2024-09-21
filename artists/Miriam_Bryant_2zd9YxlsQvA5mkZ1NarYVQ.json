@@ -1,0 +1,41 @@
+{
+  "id": "2zd9YxlsQvA5mkZ1NarYVQ",
+  "name": "Miriam Bryant",
+  "followers": 220440,
+  "monthlyListeners": 2042071,
+  "topCities": {
+    "items": [
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 526262,
+        "region": "AB"
+      },
+      {
+        "city": "Gothenburg",
+        "country": "SE",
+        "numberOfListeners": 250387,
+        "region": "O"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 238916,
+        "region": "18"
+      },
+      {
+        "city": "Malmo",
+        "country": "SE",
+        "numberOfListeners": 161807,
+        "region": "M"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 81142,
+        "region": "03"
+      }
+    ]
+  },
+  "worldRank": 0
+}

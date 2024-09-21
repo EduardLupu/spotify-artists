@@ -1,0 +1,41 @@
+{
+  "id": "1vQCz1xY3Wkdqf3CThYiWi",
+  "name": "justICE",
+  "followers": 315,
+  "monthlyListeners": 3497,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 83,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 64,
+        "region": "NC"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 59,
+        "region": "AZ"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 52,
+        "region": "GA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 51,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

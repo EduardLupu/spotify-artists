@@ -1,0 +1,41 @@
+{
+  "id": "1vfezMIyCr4XUdYRaKIKi3",
+  "name": "Keyshia Cole",
+  "followers": 3972093,
+  "monthlyListeners": 9230774,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 311085,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 209779,
+        "region": "SP"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 148845,
+        "region": "00"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 137192,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 108860,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "06cd30Cv9US973Ika84gDw",
+  "name": "Lucas Lucco",
+  "followers": 3159503,
+  "monthlyListeners": 1076909,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 144308,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 51824,
+        "region": "PR"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 48954,
+        "region": "MG"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 40538,
+        "region": "RS"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 38321,
+        "region": "DF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

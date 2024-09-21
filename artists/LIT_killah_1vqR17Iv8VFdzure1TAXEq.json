@@ -1,0 +1,41 @@
+{
+  "id": "1vqR17Iv8VFdzure1TAXEq",
+  "name": "LIT killah",
+  "followers": 5693506,
+  "monthlyListeners": 9756802,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 773218,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 749280,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 430966,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 349731,
+        "region": "B"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 278303,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

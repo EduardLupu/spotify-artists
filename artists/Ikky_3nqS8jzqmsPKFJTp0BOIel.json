@@ -1,0 +1,41 @@
+{
+  "id": "3nqS8jzqmsPKFJTp0BOIel",
+  "name": "Ikky",
+  "followers": 290750,
+  "monthlyListeners": 8972351,
+  "topCities": {
+    "items": [
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1064150,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 870903,
+        "region": "DL"
+      },
+      {
+        "city": "Ludhiana",
+        "country": "IN",
+        "numberOfListeners": 730106,
+        "region": "PB"
+      },
+      {
+        "city": "Chandigarh",
+        "country": "IN",
+        "numberOfListeners": 595015,
+        "region": "CH"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 520324,
+        "region": "MH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

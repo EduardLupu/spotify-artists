@@ -1,0 +1,41 @@
+{
+  "id": "2kozfbwlgQ2r7TsoCRZ84e",
+  "name": "Zion",
+  "followers": 191,
+  "monthlyListeners": 96,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 8,
+        "region": "LA"
+      },
+      {
+        "city": "Port Harcourt",
+        "country": "NG",
+        "numberOfListeners": 4,
+        "region": "RI"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 4,
+        "region": "ENG"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 4,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 3,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "01m2XZ7m7rAz6KY3scTdaV",
+  "name": "Neo Pistea",
+  "followers": 1370996,
+  "monthlyListeners": 4109153,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 545340,
+        "region": "C"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 244046,
+        "region": "B"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 216555,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 200849,
+        "region": "LMA"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 120650,
+        "region": "X"
+      }
+    ]
+  },
+  "worldRank": 0
+}

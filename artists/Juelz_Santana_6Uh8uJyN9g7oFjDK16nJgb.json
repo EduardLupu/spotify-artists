@@ -1,0 +1,41 @@
+{
+  "id": "6Uh8uJyN9g7oFjDK16nJgb",
+  "name": "Juelz Santana",
+  "followers": 841878,
+  "monthlyListeners": 1078150,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 25672,
+        "region": "SP"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 15140,
+        "region": "ON"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 15050,
+        "region": "PA"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 14912,
+        "region": "NY"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 14706,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

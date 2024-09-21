@@ -1,0 +1,41 @@
+{
+  "id": "7dzq55YG3wjViqexDwiycQ",
+  "name": "Ivete Sangalo",
+  "followers": 2126050,
+  "monthlyListeners": 4097191,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 417442,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 224323,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 133391,
+        "region": "MG"
+      },
+      {
+        "city": "Salvador",
+        "country": "BR",
+        "numberOfListeners": 120887,
+        "region": "BA"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 91058,
+        "region": "DF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

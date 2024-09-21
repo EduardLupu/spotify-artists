@@ -1,0 +1,41 @@
+{
+  "id": "41qil2VaGbD194gaEcmmyx",
+  "name": "Will Smith",
+  "followers": 988292,
+  "monthlyListeners": 10661419,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 214788,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 154198,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 131437,
+        "region": "VIC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 110258,
+        "region": "RM"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 106424,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

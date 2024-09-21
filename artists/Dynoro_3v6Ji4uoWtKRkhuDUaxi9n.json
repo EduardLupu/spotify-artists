@@ -1,0 +1,41 @@
+{
+  "id": "3v6Ji4uoWtKRkhuDUaxi9n",
+  "name": "Dynoro",
+  "followers": 285836,
+  "monthlyListeners": 10647763,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 196897,
+        "region": "SP"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 174393,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 120225,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 103760,
+        "region": "DC"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 95983,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5YDRqrHtTPVo8eQIFcdSCp",
+  "name": "Offset",
+  "followers": 72,
+  "monthlyListeners": 18,
+  "topCities": {
+    "items": [
+      {
+        "city": "Ichikawa-minami",
+        "country": "JP",
+        "numberOfListeners": 2,
+        "region": "12"
+      },
+      {
+        "city": "Bures-sur-Yvette",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "IDF"
+      },
+      {
+        "city": "Élancourt",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "IDF"
+      },
+      {
+        "city": "Sézanne",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "GES"
+      },
+      {
+        "city": "Toyoake",
+        "country": "JP",
+        "numberOfListeners": 1,
+        "region": "23"
+      }
+    ]
+  },
+  "worldRank": 0
+}

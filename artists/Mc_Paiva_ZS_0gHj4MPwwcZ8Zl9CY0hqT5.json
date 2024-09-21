@@ -1,0 +1,41 @@
+{
+  "id": "0gHj4MPwwcZ8Zl9CY0hqT5",
+  "name": "Mc Paiva ZS",
+  "followers": 5109529,
+  "monthlyListeners": 7814365,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1601703,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 422190,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 415220,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 383648,
+        "region": "RJ"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 354476,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2J3U3cEOyn4msrMrEljXr3",
+  "name": "Aitch",
+  "followers": 378,
+  "monthlyListeners": 1149,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 100,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 62,
+        "region": "HH"
+      },
+      {
+        "city": "Cologne",
+        "country": "DE",
+        "numberOfListeners": 25,
+        "region": "NW"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 24,
+        "region": "NSW"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 24,
+        "region": "HE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

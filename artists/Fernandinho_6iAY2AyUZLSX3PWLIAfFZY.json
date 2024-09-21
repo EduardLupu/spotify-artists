@@ -1,0 +1,41 @@
+{
+  "id": "6iAY2AyUZLSX3PWLIAfFZY",
+  "name": "Fernandinho",
+  "followers": 5519201,
+  "monthlyListeners": 3771403,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 575110,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 280614,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 205045,
+        "region": "MG"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 169227,
+        "region": "DF"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 160035,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

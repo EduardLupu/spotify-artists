@@ -1,0 +1,41 @@
+{
+  "id": "5sy77gt4bfsLcSQ8GIe4ZZ",
+  "name": "Alan Menken",
+  "followers": 134097,
+  "monthlyListeners": 7437609,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 117831,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 91391,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 85659,
+        "region": "VIC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 79107,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 70909,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

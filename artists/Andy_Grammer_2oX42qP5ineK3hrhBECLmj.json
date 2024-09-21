@@ -1,0 +1,41 @@
+{
+  "id": "2oX42qP5ineK3hrhBECLmj",
+  "name": "Andy Grammer",
+  "followers": 1239299,
+  "monthlyListeners": 9802260,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 192850,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 153109,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 141983,
+        "region": "QLD"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 125411,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 114897,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

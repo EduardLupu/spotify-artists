@@ -1,0 +1,41 @@
+{
+  "id": "5XDJlfdfbGNJrOJJNxTcdq",
+  "name": "Phora",
+  "followers": 822625,
+  "monthlyListeners": 856830,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 24659,
+        "region": "CA"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 20278,
+        "region": "GP"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 17267,
+        "region": "AZ"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 14468,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 14393,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

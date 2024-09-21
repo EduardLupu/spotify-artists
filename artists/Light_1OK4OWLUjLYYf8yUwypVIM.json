@@ -1,0 +1,41 @@
+{
+  "id": "1OK4OWLUjLYYf8yUwypVIM",
+  "name": "Light",
+  "followers": 270,
+  "monthlyListeners": 3979,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bratislava",
+        "country": "SK",
+        "numberOfListeners": 1817,
+        "region": "BL"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 838,
+        "region": "10"
+      },
+      {
+        "city": "Žilina",
+        "country": "SK",
+        "numberOfListeners": 158,
+        "region": "ZI"
+      },
+      {
+        "city": "Košice",
+        "country": "SK",
+        "numberOfListeners": 97,
+        "region": "KI"
+      },
+      {
+        "city": "Brno",
+        "country": "CZ",
+        "numberOfListeners": 77,
+        "region": "64"
+      }
+    ]
+  },
+  "worldRank": 0
+}

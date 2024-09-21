@@ -1,0 +1,41 @@
+{
+  "id": "1sztQhLDJyOI46sQ6FbtQY",
+  "name": "Motive",
+  "followers": 13,
+  "monthlyListeners": 102,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 22,
+        "region": "14"
+      },
+      {
+        "city": "Poznan",
+        "country": "PL",
+        "numberOfListeners": 7,
+        "region": "30"
+      },
+      {
+        "city": "Wroclaw",
+        "country": "PL",
+        "numberOfListeners": 6,
+        "region": "02"
+      },
+      {
+        "city": "Lodz",
+        "country": "PL",
+        "numberOfListeners": 6,
+        "region": "10"
+      },
+      {
+        "city": "Krakow",
+        "country": "PL",
+        "numberOfListeners": 5,
+        "region": "12"
+      }
+    ]
+  },
+  "worldRank": 0
+}

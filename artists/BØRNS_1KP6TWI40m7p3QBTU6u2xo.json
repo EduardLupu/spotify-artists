@@ -1,0 +1,41 @@
+{
+  "id": "1KP6TWI40m7p3QBTU6u2xo",
+  "name": "BØRNS",
+  "followers": 1285102,
+  "monthlyListeners": 7769569,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 94360,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 89636,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 81608,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 80827,
+        "region": "NY"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 79917,
+        "region": "JK"
+      }
+    ]
+  },
+  "worldRank": 0
+}

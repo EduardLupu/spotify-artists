@@ -1,0 +1,41 @@
+{
+  "id": "3YBpatQ59rAPqnwMkx4R2h",
+  "name": "MK",
+  "followers": 3229,
+  "monthlyListeners": 1641,
+  "topCities": {
+    "items": [
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 896,
+        "region": "QC"
+      },
+      {
+        "city": "Laval",
+        "country": "CA",
+        "numberOfListeners": 96,
+        "region": "QC"
+      },
+      {
+        "city": "Québec",
+        "country": "CA",
+        "numberOfListeners": 75,
+        "region": "QC"
+      },
+      {
+        "city": "Longueuil",
+        "country": "CA",
+        "numberOfListeners": 71,
+        "region": "QC"
+      },
+      {
+        "city": "Ottawa",
+        "country": "CA",
+        "numberOfListeners": 54,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

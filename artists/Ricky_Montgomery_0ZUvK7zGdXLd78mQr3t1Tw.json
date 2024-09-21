@@ -1,0 +1,41 @@
+{
+  "id": "0ZUvK7zGdXLd78mQr3t1Tw",
+  "name": "Ricky Montgomery",
+  "followers": 1966544,
+  "monthlyListeners": 8324308,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 888425,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 212204,
+        "region": "JB"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 170393,
+        "region": "00"
+      },
+      {
+        "city": "Manila",
+        "country": "PH",
+        "numberOfListeners": 111273,
+        "region": "00"
+      },
+      {
+        "city": "Surabaya",
+        "country": "ID",
+        "numberOfListeners": 98030,
+        "region": "JI"
+      }
+    ]
+  },
+  "worldRank": 0
+}

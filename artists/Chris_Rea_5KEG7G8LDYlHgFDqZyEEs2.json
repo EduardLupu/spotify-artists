@@ -1,0 +1,41 @@
+{
+  "id": "5KEG7G8LDYlHgFDqZyEEs2",
+  "name": "Chris Rea",
+  "followers": 1059192,
+  "monthlyListeners": 2074032,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 38401,
+        "region": "NH"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 31478,
+        "region": "ENG"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 25667,
+        "region": "14"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 24666,
+        "region": "BE"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 24297,
+        "region": "AB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

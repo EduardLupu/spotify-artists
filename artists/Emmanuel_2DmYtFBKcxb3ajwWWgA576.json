@@ -1,0 +1,41 @@
+{
+  "id": "2DmYtFBKcxb3ajwWWgA576",
+  "name": "Emmanuel",
+  "followers": 2960691,
+  "monthlyListeners": 8184136,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 710665,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 408209,
+        "region": "RM"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 293408,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 274458,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 274219,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2PhFsxtwCQLS3e9SJwDN3j",
+  "name": "Coyote Beatz",
+  "followers": 31388,
+  "monthlyListeners": 2586132,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 479155,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 218705,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 151544,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 101803,
+        "region": "PR"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 94704,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

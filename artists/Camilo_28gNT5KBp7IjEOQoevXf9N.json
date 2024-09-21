@@ -1,0 +1,41 @@
+{
+  "id": "28gNT5KBp7IjEOQoevXf9N",
+  "name": "Camilo",
+  "followers": 19237678,
+  "monthlyListeners": 22674631,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1111966,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1024310,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1003531,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 876047,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 526922,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 280
+}

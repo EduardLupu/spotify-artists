@@ -1,0 +1,41 @@
+{
+  "id": "0ZMoJIyiDeIMJOqt7Pu74b",
+  "name": "Brooke Maxwell",
+  "followers": 2683,
+  "monthlyListeners": 650630,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 7908,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 7186,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 6491,
+        "region": "CA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 6468,
+        "region": "TX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 6047,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "40LHVA5BTQp9RxHOQ9JPYj",
+  "name": "Lauren Daigle",
+  "followers": 2834439,
+  "monthlyListeners": 5866128,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 78250,
+        "region": "TX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 68550,
+        "region": "NSW"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 65577,
+        "region": "NC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 61401,
+        "region": "SP"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 59347,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

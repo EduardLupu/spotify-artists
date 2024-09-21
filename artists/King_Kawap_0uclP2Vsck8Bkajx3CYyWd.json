@@ -1,0 +1,41 @@
+{
+  "id": "0uclP2Vsck8Bkajx3CYyWd",
+  "name": "King Kawap",
+  "followers": 2063,
+  "monthlyListeners": 22253,
+  "topCities": {
+    "items": [
+      {
+        "city": "Miami",
+        "country": "US",
+        "numberOfListeners": 1632,
+        "region": "FL"
+      },
+      {
+        "city": "Fort Lauderdale",
+        "country": "US",
+        "numberOfListeners": 1238,
+        "region": "FL"
+      },
+      {
+        "city": "Orlando",
+        "country": "US",
+        "numberOfListeners": 412,
+        "region": "FL"
+      },
+      {
+        "city": "Tampa",
+        "country": "US",
+        "numberOfListeners": 395,
+        "region": "FL"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 344,
+        "region": "GA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

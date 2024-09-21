@@ -1,0 +1,41 @@
+{
+  "id": "3gk0OYeLFWYupGFRHqLSR7",
+  "name": "Showtek",
+  "followers": 473392,
+  "monthlyListeners": 4418523,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 82307,
+        "region": "CMX"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 74449,
+        "region": "NH"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 64123,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 61034,
+        "region": "RM"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 57436,
+        "region": "ZH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5XLPn2OJLQjG5ModUE7Vpg",
+  "name": "UFO ",
+  "followers": 55,
+  "monthlyListeners": 230,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 149,
+        "region": "18"
+      },
+      {
+        "city": "Tampere",
+        "country": "FI",
+        "numberOfListeners": 21,
+        "region": "11"
+      },
+      {
+        "city": "Oulu",
+        "country": "FI",
+        "numberOfListeners": 13,
+        "region": "14"
+      },
+      {
+        "city": "Espoo",
+        "country": "FI",
+        "numberOfListeners": 10,
+        "region": "18"
+      },
+      {
+        "city": "Turku",
+        "country": "FI",
+        "numberOfListeners": 6,
+        "region": "19"
+      }
+    ]
+  },
+  "worldRank": 0
+}

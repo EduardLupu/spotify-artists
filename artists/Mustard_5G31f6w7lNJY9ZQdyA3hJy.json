@@ -1,0 +1,41 @@
+{
+  "id": "5G31f6w7lNJY9ZQdyA3hJy",
+  "name": "Mustard",
+  "followers": 4,
+  "monthlyListeners": 20,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 1,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 1,
+        "region": "CMX"
+      },
+      {
+        "city": "Aubenas",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "ARA"
+      },
+      {
+        "city": "Rennes",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "BRE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

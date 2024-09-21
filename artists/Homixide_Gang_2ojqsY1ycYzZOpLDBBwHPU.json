@@ -1,0 +1,41 @@
+{
+  "id": "2ojqsY1ycYzZOpLDBBwHPU",
+  "name": "Homixide Gang",
+  "followers": 442693,
+  "monthlyListeners": 1436059,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 30813,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 29024,
+        "region": "IL"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 27011,
+        "region": "GA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 23259,
+        "region": "NY"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 21827,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

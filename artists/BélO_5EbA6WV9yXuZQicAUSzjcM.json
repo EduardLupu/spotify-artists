@@ -1,0 +1,41 @@
+{
+  "id": "5EbA6WV9yXuZQicAUSzjcM",
+  "name": "BélO",
+  "followers": 11223,
+  "monthlyListeners": 17145,
+  "topCities": {
+    "items": [
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 830,
+        "region": "QC"
+      },
+      {
+        "city": "Port-au-Prince",
+        "country": "HT",
+        "numberOfListeners": 556,
+        "region": "OU"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 390,
+        "region": "IDF"
+      },
+      {
+        "city": "Miami",
+        "country": "US",
+        "numberOfListeners": 351,
+        "region": "FL"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 334,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

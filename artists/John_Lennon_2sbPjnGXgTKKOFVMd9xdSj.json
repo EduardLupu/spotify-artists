@@ -1,0 +1,41 @@
+{
+  "id": "2sbPjnGXgTKKOFVMd9xdSj",
+  "name": "John Lennon",
+  "followers": 28,
+  "monthlyListeners": 733,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 70,
+        "region": "18"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 13,
+        "region": "NSW"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 12,
+        "region": "CMX"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 10,
+        "region": "VIC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 10,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

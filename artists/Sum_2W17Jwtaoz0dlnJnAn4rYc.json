@@ -1,0 +1,41 @@
+{
+  "id": "2W17Jwtaoz0dlnJnAn4rYc",
+  "name": "Sum",
+  "followers": 232,
+  "monthlyListeners": 854,
+  "topCities": {
+    "items": [
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 200,
+        "region": "03"
+      },
+      {
+        "city": "Stavanger",
+        "country": "NO",
+        "numberOfListeners": 56,
+        "region": "11"
+      },
+      {
+        "city": "Bergen",
+        "country": "NO",
+        "numberOfListeners": 38,
+        "region": "46"
+      },
+      {
+        "city": "Kristiansand",
+        "country": "NO",
+        "numberOfListeners": 34,
+        "region": "42"
+      },
+      {
+        "city": "Sandnes",
+        "country": "NO",
+        "numberOfListeners": 13,
+        "region": "11"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0cwmNvclzPd8mQnoHuIksj",
+  "name": "Vengaboys",
+  "followers": 484216,
+  "monthlyListeners": 5557216,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 100158,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 85760,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 79999,
+        "region": "NH"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 74774,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 70563,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

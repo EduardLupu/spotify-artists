@@ -1,0 +1,41 @@
+{
+  "id": "2qSEpijpT3YSXgxcXac1ly",
+  "name": "Chris Willis",
+  "followers": 12348,
+  "monthlyListeners": 2201747,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 50157,
+        "region": "SP"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 34899,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 31138,
+        "region": "RM"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 28005,
+        "region": "IDF"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 26575,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

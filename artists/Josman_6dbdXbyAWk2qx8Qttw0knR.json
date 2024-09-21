@@ -1,0 +1,41 @@
+{
+  "id": "6dbdXbyAWk2qx8Qttw0knR",
+  "name": "Josman",
+  "followers": 1221478,
+  "monthlyListeners": 3109281,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 625733,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 146393,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 137694,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 113779,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 97541,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

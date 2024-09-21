@@ -1,0 +1,41 @@
+{
+  "id": "71mQj8OrRgy3smRMjnFioM",
+  "name": "Grupo Jalado",
+  "followers": 157306,
+  "monthlyListeners": 1355363,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 157556,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 75718,
+        "region": "PUE"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 70347,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 60763,
+        "region": "CMX"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 45686,
+        "region": "QUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

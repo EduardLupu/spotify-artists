@@ -1,0 +1,41 @@
+{
+  "id": "43tXe0vO00OOt1EDDbF4Ux",
+  "name": "BK",
+  "followers": 2953,
+  "monthlyListeners": 30053,
+  "topCities": {
+    "items": [
+      {
+        "city": "Panama City",
+        "country": "PA",
+        "numberOfListeners": 9057,
+        "region": "8"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 954,
+        "region": "LMA"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 871,
+        "region": "MD"
+      },
+      {
+        "city": "San Juan",
+        "country": "US",
+        "numberOfListeners": 678,
+        "region": "PR"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 579,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

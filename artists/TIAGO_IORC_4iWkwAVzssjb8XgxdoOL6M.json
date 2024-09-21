@@ -1,0 +1,41 @@
+{
+  "id": "4iWkwAVzssjb8XgxdoOL6M",
+  "name": "TIAGO IORC",
+  "followers": 2692751,
+  "monthlyListeners": 2440339,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 363936,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 168298,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 121130,
+        "region": "MG"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 83746,
+        "region": "DF"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 80009,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

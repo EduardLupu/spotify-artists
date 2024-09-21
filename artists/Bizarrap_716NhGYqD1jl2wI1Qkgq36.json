@@ -1,0 +1,41 @@
+{
+  "id": "716NhGYqD1jl2wI1Qkgq36",
+  "name": "Bizarrap",
+  "followers": 16524167,
+  "monthlyListeners": 30713492,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1356414,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1205076,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1179325,
+        "region": "C"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 812359,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 782801,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 149
+}

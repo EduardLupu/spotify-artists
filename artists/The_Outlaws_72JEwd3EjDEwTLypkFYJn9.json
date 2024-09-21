@@ -1,0 +1,41 @@
+{
+  "id": "72JEwd3EjDEwTLypkFYJn9",
+  "name": "The Outlaws",
+  "followers": 370511,
+  "monthlyListeners": 381451,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 6145,
+        "region": "IL"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 5229,
+        "region": "NC"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 5005,
+        "region": "NY"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 4690,
+        "region": "PA"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 4405,
+        "region": "GA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

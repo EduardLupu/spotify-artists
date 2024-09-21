@@ -1,0 +1,41 @@
+{
+  "id": "0jUQSUOcM7lxVn5eVGTkzQ",
+  "name": "Justine Skye",
+  "followers": 867395,
+  "monthlyListeners": 5133909,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 315333,
+        "region": "JK"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 106807,
+        "region": "10"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 70105,
+        "region": "JB"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 62328,
+        "region": "14"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 58079,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

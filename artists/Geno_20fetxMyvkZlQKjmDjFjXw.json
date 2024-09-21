@@ -1,0 +1,41 @@
+{
+  "id": "20fetxMyvkZlQKjmDjFjXw",
+  "name": "Geno",
+  "followers": 22,
+  "monthlyListeners": 104,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 4,
+        "region": "10"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 3,
+        "region": "GU"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 2,
+        "region": "B"
+      },
+      {
+        "city": "Mérida",
+        "country": "MX",
+        "numberOfListeners": 2,
+        "region": "YUC"
+      },
+      {
+        "city": "Stavanger",
+        "country": "NO",
+        "numberOfListeners": 2,
+        "region": "11"
+      }
+    ]
+  },
+  "worldRank": 0
+}

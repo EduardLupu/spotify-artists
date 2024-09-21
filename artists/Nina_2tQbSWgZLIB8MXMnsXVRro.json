@@ -1,0 +1,41 @@
+{
+  "id": "2tQbSWgZLIB8MXMnsXVRro",
+  "name": "Nina",
+  "followers": 644981,
+  "monthlyListeners": 939913,
+  "topCities": {
+    "items": [
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 114360,
+        "region": "00"
+      },
+      {
+        "city": "Manila",
+        "country": "PH",
+        "numberOfListeners": 56879,
+        "region": "00"
+      },
+      {
+        "city": "Caloocan City",
+        "country": "PH",
+        "numberOfListeners": 43350,
+        "region": "00"
+      },
+      {
+        "city": "Cebu City",
+        "country": "PH",
+        "numberOfListeners": 41746,
+        "region": "07"
+      },
+      {
+        "city": "Davao City",
+        "country": "PH",
+        "numberOfListeners": 40975,
+        "region": "11"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3l9G1G9MxH6DaRhwLklaf5",
+  "name": "Oscar Maydon",
+  "followers": 2545502,
+  "monthlyListeners": 19152098,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1930351,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 1168564,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 963824,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 935742,
+        "region": "CMX"
+      },
+      {
+        "city": "Monterrey",
+        "country": "MX",
+        "numberOfListeners": 843160,
+        "region": "NLE"
+      }
+    ]
+  },
+  "worldRank": 391
+}

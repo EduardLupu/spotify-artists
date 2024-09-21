@@ -1,0 +1,41 @@
+{
+  "id": "4RddZ3iHvSpGV4dvATac9X",
+  "name": "Papa Roach",
+  "followers": 5327986,
+  "monthlyListeners": 13540269,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 166687,
+        "region": "ENG"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 151975,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 150221,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 141926,
+        "region": "SP"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 139818,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

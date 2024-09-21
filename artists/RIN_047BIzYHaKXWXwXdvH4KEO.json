@@ -1,0 +1,41 @@
+{
+  "id": "047BIzYHaKXWXwXdvH4KEO",
+  "name": "RIN",
+  "followers": 31,
+  "monthlyListeners": 224,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 60,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 27,
+        "region": "27"
+      },
+      {
+        "city": "Kishiwada",
+        "country": "JP",
+        "numberOfListeners": 10,
+        "region": "27"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 6,
+        "region": "13"
+      },
+      {
+        "city": "Fukuoka",
+        "country": "JP",
+        "numberOfListeners": 5,
+        "region": "40"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "56o9U5W3H0bDipQ4Cj3n4H",
+  "name": "Finch",
+  "followers": 52,
+  "monthlyListeners": 36,
+  "topCities": {
+    "items": [
+      {
+        "city": "Zurich",
+        "country": "CH",
+        "numberOfListeners": 2,
+        "region": "ZH"
+      },
+      {
+        "city": "Annecy",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "ARA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 1,
+        "region": "VIC"
+      },
+      {
+        "city": "Clyde",
+        "country": "AU",
+        "numberOfListeners": 1,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 1,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6ISKc7ev3V4EGnEagkXexc",
+  "name": "ROBI",
+  "followers": 41589,
+  "monthlyListeners": 1963523,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 134760,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 90719,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 60518,
+        "region": "LMA"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 58457,
+        "region": "MD"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 56783,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

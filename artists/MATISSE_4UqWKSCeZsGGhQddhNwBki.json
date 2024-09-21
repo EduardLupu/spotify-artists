@@ -1,0 +1,41 @@
+{
+  "id": "4UqWKSCeZsGGhQddhNwBki",
+  "name": "MATISSE",
+  "followers": 250,
+  "monthlyListeners": 1100,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 106,
+        "region": "IDF"
+      },
+      {
+        "city": "Toulouse",
+        "country": "FR",
+        "numberOfListeners": 54,
+        "region": "OCC"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 25,
+        "region": "ARA"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 24,
+        "region": "BRU"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 23,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

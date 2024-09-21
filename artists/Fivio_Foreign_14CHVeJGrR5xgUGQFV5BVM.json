@@ -1,0 +1,41 @@
+{
+  "id": "14CHVeJGrR5xgUGQFV5BVM",
+  "name": "Fivio Foreign",
+  "followers": 1342869,
+  "monthlyListeners": 5631211,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 105782,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 101123,
+        "region": "NSW"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 88027,
+        "region": "ON"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 82240,
+        "region": "VIC"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 78193,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

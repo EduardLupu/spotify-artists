@@ -1,0 +1,41 @@
+{
+  "id": "7zFBW2JxM4bgTTKxCRcS8Q",
+  "name": "Hiphop Tamizha",
+  "followers": 10105314,
+  "monthlyListeners": 7254973,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 2384254,
+        "region": "TN"
+      },
+      {
+        "city": "Coimbatore",
+        "country": "IN",
+        "numberOfListeners": 1006042,
+        "region": "TN"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 953138,
+        "region": "TS"
+      },
+      {
+        "city": "Kochi",
+        "country": "IN",
+        "numberOfListeners": 798843,
+        "region": "KL"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 667218,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

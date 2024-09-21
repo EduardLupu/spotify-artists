@@ -1,0 +1,41 @@
+{
+  "id": "2oQX8QiMXOyuqbcZEFsZfm",
+  "name": "El Alfa",
+  "followers": 3637028,
+  "monthlyListeners": 22243640,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 793081,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 499822,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 493424,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 441941,
+        "region": "LMA"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 392947,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 296
+}

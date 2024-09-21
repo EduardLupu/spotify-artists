@@ -1,0 +1,41 @@
+{
+  "id": "5l6N2hoIaP7snXdjnCULvk",
+  "name": "Luis Alfonso Partida El Yaki",
+  "followers": 363351,
+  "monthlyListeners": 2591576,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 224981,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 141108,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 84254,
+        "region": "QUE"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 82948,
+        "region": "PUE"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 82820,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

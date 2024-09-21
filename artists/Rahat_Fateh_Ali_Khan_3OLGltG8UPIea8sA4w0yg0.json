@@ -1,0 +1,41 @@
+{
+  "id": "3OLGltG8UPIea8sA4w0yg0",
+  "name": "Rahat Fateh Ali Khan",
+  "followers": 22789287,
+  "monthlyListeners": 14534753,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1470638,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1279520,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1125570,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 913997,
+        "region": "DL"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 671815,
+        "region": "WB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

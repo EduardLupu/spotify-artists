@@ -1,0 +1,41 @@
+{
+  "id": "6m6e7D2TnV0aYMllFFwMxu",
+  "name": "Guilherme & Benuto",
+  "followers": 1210271,
+  "monthlyListeners": 10305448,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1615424,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 680807,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 563770,
+        "region": "PR"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 529711,
+        "region": "DF"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 526420,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

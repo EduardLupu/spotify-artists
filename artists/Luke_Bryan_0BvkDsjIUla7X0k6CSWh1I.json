@@ -1,0 +1,41 @@
+{
+  "id": "0BvkDsjIUla7X0k6CSWh1I",
+  "name": "Luke Bryan",
+  "followers": 8842491,
+  "monthlyListeners": 10536545,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 237799,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 201999,
+        "region": "NSW"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 188028,
+        "region": "ON"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 182706,
+        "region": "QLD"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 182368,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

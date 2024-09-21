@@ -1,0 +1,41 @@
+{
+  "id": "0iOVhN3tnSvgDbcg25JoJb",
+  "name": "Etta James",
+  "followers": 1735534,
+  "monthlyListeners": 11323736,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 184976,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 136215,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 136017,
+        "region": "SP"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 135347,
+        "region": "CA"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 122071,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

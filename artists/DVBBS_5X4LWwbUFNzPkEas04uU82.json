@@ -1,0 +1,41 @@
+{
+  "id": "5X4LWwbUFNzPkEas04uU82",
+  "name": "DVBBS",
+  "followers": 1063185,
+  "monthlyListeners": 3852207,
+  "topCities": {
+    "items": [
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 54100,
+        "region": "ON"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 52359,
+        "region": "QC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 41218,
+        "region": "CMX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 38132,
+        "region": "NSW"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 36018,
+        "region": "JK"
+      }
+    ]
+  },
+  "worldRank": 0
+}

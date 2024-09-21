@@ -1,0 +1,41 @@
+{
+  "id": "08F3Y3SctIlsOEmKd6dnH8",
+  "name": "Yusuf / Cat Stevens",
+  "followers": 1959998,
+  "monthlyListeners": 9315438,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 180163,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 146010,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 130093,
+        "region": "ENG"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 123091,
+        "region": "RM"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 119731,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

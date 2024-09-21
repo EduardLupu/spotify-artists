@@ -1,0 +1,41 @@
+{
+  "id": "4ijIJHRHj2vF4HkvB2gyL8",
+  "name": "Hnos Silva",
+  "followers": 191553,
+  "monthlyListeners": 438325,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 227819,
+        "region": "LMA"
+      },
+      {
+        "city": "Trujillo",
+        "country": "PE",
+        "numberOfListeners": 39338,
+        "region": "LAL"
+      },
+      {
+        "city": "Arequipa",
+        "country": "PE",
+        "numberOfListeners": 23750,
+        "region": "ARE"
+      },
+      {
+        "city": "Chiclayo",
+        "country": "PE",
+        "numberOfListeners": 12544,
+        "region": "LAM"
+      },
+      {
+        "city": "Piura",
+        "country": "PE",
+        "numberOfListeners": 8410,
+        "region": "PIU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

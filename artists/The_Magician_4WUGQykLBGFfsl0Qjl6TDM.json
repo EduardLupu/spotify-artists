@@ -1,0 +1,41 @@
+{
+  "id": "4WUGQykLBGFfsl0Qjl6TDM",
+  "name": "The Magician",
+  "followers": 94138,
+  "monthlyListeners": 6278661,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 136212,
+        "region": "IDF"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 105515,
+        "region": "ENG"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 101859,
+        "region": "CMX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 78501,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 76426,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

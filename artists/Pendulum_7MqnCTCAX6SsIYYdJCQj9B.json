@@ -1,0 +1,41 @@
+{
+  "id": "7MqnCTCAX6SsIYYdJCQj9B",
+  "name": "Pendulum",
+  "followers": 959492,
+  "monthlyListeners": 2637155,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 132437,
+        "region": "ENG"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 50542,
+        "region": "18"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 46841,
+        "region": "10"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 45726,
+        "region": "NSW"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 45005,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

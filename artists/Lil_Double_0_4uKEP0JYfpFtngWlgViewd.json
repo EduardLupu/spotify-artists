@@ -1,0 +1,41 @@
+{
+  "id": "4uKEP0JYfpFtngWlgViewd",
+  "name": "Lil Double 0",
+  "followers": 263508,
+  "monthlyListeners": 1223631,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 61302,
+        "region": "TX"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 43418,
+        "region": "TX"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 42288,
+        "region": "GA"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 41934,
+        "region": "NC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 35385,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

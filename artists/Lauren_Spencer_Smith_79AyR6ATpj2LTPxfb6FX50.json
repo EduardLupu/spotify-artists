@@ -1,0 +1,41 @@
+{
+  "id": "79AyR6ATpj2LTPxfb6FX50",
+  "name": "Lauren Spencer Smith",
+  "followers": 1483575,
+  "monthlyListeners": 5214801,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 104176,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 94021,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 79371,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 68168,
+        "region": "NH"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 61787,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

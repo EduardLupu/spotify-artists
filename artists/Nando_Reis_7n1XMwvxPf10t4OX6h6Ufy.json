@@ -1,0 +1,41 @@
+{
+  "id": "7n1XMwvxPf10t4OX6h6Ufy",
+  "name": "Nando Reis",
+  "followers": 2966823,
+  "monthlyListeners": 3620038,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 582141,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 267949,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 208284,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 130287,
+        "region": "SP"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 130187,
+        "region": "DF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

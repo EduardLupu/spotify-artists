@@ -1,0 +1,41 @@
+{
+  "id": "0L1f9i3L3fkMNENljDOsjG",
+  "name": "Rocco Hunt",
+  "followers": 1770886,
+  "monthlyListeners": 3656142,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 495272,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 260045,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 152624,
+        "region": "72"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 107840,
+        "region": "MD"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 72915,
+        "region": "21"
+      }
+    ]
+  },
+  "worldRank": 0
+}

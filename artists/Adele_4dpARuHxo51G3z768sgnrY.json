@@ -1,0 +1,41 @@
+{
+  "id": "4dpARuHxo51G3z768sgnrY",
+  "name": "Adele",
+  "followers": 58693722,
+  "monthlyListeners": 62550936,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 2051902,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 931864,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 782670,
+        "region": "SP"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 667082,
+        "region": "CMX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 665189,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 23
+}

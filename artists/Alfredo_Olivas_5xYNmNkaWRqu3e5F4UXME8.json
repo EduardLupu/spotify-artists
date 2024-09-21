@@ -1,0 +1,41 @@
+{
+  "id": "5xYNmNkaWRqu3e5F4UXME8",
+  "name": "Alfredo Olivas",
+  "followers": 8988584,
+  "monthlyListeners": 12381023,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1444762,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 885813,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 659821,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 639016,
+        "region": "CMX"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 616875,
+        "region": "QUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

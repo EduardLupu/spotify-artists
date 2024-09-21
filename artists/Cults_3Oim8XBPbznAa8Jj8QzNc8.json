@@ -1,0 +1,41 @@
+{
+  "id": "3Oim8XBPbznAa8Jj8QzNc8",
+  "name": "Cults",
+  "followers": 930799,
+  "monthlyListeners": 11299949,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 133818,
+        "region": "JK"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 122790,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 111697,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 110809,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 109101,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

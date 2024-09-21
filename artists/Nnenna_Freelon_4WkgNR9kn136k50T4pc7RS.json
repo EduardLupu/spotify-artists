@@ -1,0 +1,41 @@
+{
+  "id": "4WkgNR9kn136k50T4pc7RS",
+  "name": "Nnenna Freelon",
+  "followers": 22145,
+  "monthlyListeners": 42979,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 536,
+        "region": "SP"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 519,
+        "region": "JK"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 475,
+        "region": "TPE"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 370,
+        "region": "NSW"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 369,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0cmWgDlu9CwTgxPhf403hb",
+  "name": "Bonobo",
+  "followers": 1405893,
+  "monthlyListeners": 3119065,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 110172,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 55794,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 52573,
+        "region": "VIC"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 46703,
+        "region": "BE"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 46148,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

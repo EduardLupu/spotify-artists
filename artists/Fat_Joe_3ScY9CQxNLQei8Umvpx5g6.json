@@ -1,0 +1,41 @@
+{
+  "id": "3ScY9CQxNLQei8Umvpx5g6",
+  "name": "Fat Joe",
+  "followers": 1834008,
+  "monthlyListeners": 7448234,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 162535,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 141044,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 130136,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 100674,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 89349,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

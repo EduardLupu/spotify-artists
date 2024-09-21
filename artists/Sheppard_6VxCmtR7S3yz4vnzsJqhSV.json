@@ -1,0 +1,41 @@
+{
+  "id": "6VxCmtR7S3yz4vnzsJqhSV",
+  "name": "Sheppard",
+  "followers": 306992,
+  "monthlyListeners": 3452086,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 130058,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 112194,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 94857,
+        "region": "QLD"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 50883,
+        "region": "NH"
+      },
+      {
+        "city": "Perth",
+        "country": "AU",
+        "numberOfListeners": 50144,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

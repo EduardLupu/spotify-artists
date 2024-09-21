@@ -1,0 +1,41 @@
+{
+  "id": "2tIP7SsRs7vjIcLrU85W8J",
+  "name": "The Kid LAROI",
+  "followers": 5656863,
+  "monthlyListeners": 46300715,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 796564,
+        "region": "NSW"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 716503,
+        "region": "JK"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 663522,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 620753,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 505625,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 56
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2uxN16k07lBuPOQNriw5pr",
+  "name": "Honky Tonk Hustlas",
+  "followers": 14233,
+  "monthlyListeners": 10415,
+  "topCities": {
+    "items": [
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 163,
+        "region": "WA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 160,
+        "region": "CO"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 159,
+        "region": "AB"
+      },
+      {
+        "city": "Portland",
+        "country": "US",
+        "numberOfListeners": 142,
+        "region": "OR"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 136,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

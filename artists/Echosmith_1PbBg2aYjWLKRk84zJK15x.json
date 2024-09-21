@@ -1,0 +1,41 @@
+{
+  "id": "1PbBg2aYjWLKRk84zJK15x",
+  "name": "Echosmith",
+  "followers": 605278,
+  "monthlyListeners": 3324604,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 49276,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 43955,
+        "region": "VIC"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 41088,
+        "region": "JK"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 34977,
+        "region": "QLD"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 32892,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

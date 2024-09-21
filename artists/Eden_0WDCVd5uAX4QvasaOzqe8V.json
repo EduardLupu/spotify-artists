@@ -1,0 +1,41 @@
+{
+  "id": "0WDCVd5uAX4QvasaOzqe8V",
+  "name": "Eden",
+  "followers": 4863,
+  "monthlyListeners": 91058,
+  "topCities": {
+    "items": [
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 26344,
+        "region": "GP"
+      },
+      {
+        "city": "Pretoria",
+        "country": "ZA",
+        "numberOfListeners": 17721,
+        "region": "GP"
+      },
+      {
+        "city": "Cape Town",
+        "country": "ZA",
+        "numberOfListeners": 15986,
+        "region": "WC"
+      },
+      {
+        "city": "Durban",
+        "country": "ZA",
+        "numberOfListeners": 4411,
+        "region": "KZN"
+      },
+      {
+        "city": "Port Elizabeth",
+        "country": "ZA",
+        "numberOfListeners": 1526,
+        "region": "EC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1JbemQ1fPt2YmSLjAFhPBv",
+  "name": "Chayanne",
+  "followers": 8190897,
+  "monthlyListeners": 16252051,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1005241,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 943914,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 626689,
+        "region": "CMX"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 459533,
+        "region": "B"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 450561,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

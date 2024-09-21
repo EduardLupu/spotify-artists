@@ -1,0 +1,41 @@
+{
+  "id": "3RD9m7aftFHuvkx8zwftg0",
+  "name": "King",
+  "followers": 1954,
+  "monthlyListeners": 165853,
+  "topCities": {
+    "items": [
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 17153,
+        "region": "00"
+      },
+      {
+        "city": "Manila",
+        "country": "PH",
+        "numberOfListeners": 9600,
+        "region": "00"
+      },
+      {
+        "city": "Cebu City",
+        "country": "PH",
+        "numberOfListeners": 8185,
+        "region": "07"
+      },
+      {
+        "city": "Davao City",
+        "country": "PH",
+        "numberOfListeners": 7534,
+        "region": "11"
+      },
+      {
+        "city": "Caloocan City",
+        "country": "PH",
+        "numberOfListeners": 5949,
+        "region": "00"
+      }
+    ]
+  },
+  "worldRank": 0
+}

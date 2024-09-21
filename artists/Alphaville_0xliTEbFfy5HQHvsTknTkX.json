@@ -1,0 +1,41 @@
+{
+  "id": "0xliTEbFfy5HQHvsTknTkX",
+  "name": "Alphaville",
+  "followers": 900101,
+  "monthlyListeners": 20767162,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1465766,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 333874,
+        "region": "JB"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 300699,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 273296,
+        "region": "SP"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 195202,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 341
+}

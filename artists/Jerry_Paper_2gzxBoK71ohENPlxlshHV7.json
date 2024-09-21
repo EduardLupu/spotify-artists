@@ -1,0 +1,41 @@
+{
+  "id": "2gzxBoK71ohENPlxlshHV7",
+  "name": "Jerry Paper",
+  "followers": 61978,
+  "monthlyListeners": 67573,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 2224,
+        "region": "CA"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 1341,
+        "region": "NY"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 1273,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1189,
+        "region": "IL"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 998,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

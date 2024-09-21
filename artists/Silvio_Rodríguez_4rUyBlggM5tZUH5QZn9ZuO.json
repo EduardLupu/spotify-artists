@@ -1,0 +1,41 @@
+{
+  "id": "4rUyBlggM5tZUH5QZn9ZuO",
+  "name": "Silvio Rodríguez",
+  "followers": 1435193,
+  "monthlyListeners": 2046420,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 312073,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 115986,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 108146,
+        "region": "CMX"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 74087,
+        "region": "C"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 53298,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

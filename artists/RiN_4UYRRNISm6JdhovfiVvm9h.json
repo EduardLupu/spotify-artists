@@ -1,0 +1,41 @@
+{
+  "id": "4UYRRNISm6JdhovfiVvm9h",
+  "name": "RiN",
+  "followers": 907,
+  "monthlyListeners": 11414,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 2324,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 918,
+        "region": "27"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 413,
+        "region": "13"
+      },
+      {
+        "city": "Nagoya",
+        "country": "JP",
+        "numberOfListeners": 353,
+        "region": "23"
+      },
+      {
+        "city": "Yokohama",
+        "country": "JP",
+        "numberOfListeners": 250,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

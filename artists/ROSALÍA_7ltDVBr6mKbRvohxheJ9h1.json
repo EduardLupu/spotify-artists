@@ -1,0 +1,41 @@
+{
+  "id": "7ltDVBr6mKbRvohxheJ9h1",
+  "name": "ROSALÍA",
+  "followers": 8314695,
+  "monthlyListeners": 35693669,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 972119,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 825230,
+        "region": "CMX"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 680667,
+        "region": "MD"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 570182,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 538433,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 110
+}

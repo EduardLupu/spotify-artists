@@ -1,0 +1,41 @@
+{
+  "id": "5Z1CCuBsyhEHngq3U5IraY",
+  "name": "Westlife",
+  "followers": 4262643,
+  "monthlyListeners": 5375449,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 594576,
+        "region": "JK"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 125531,
+        "region": "00"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 121456,
+        "region": "14"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 106169,
+        "region": ""
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 101890,
+        "region": "JB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

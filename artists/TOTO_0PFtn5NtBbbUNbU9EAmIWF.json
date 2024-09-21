@@ -1,0 +1,41 @@
+{
+  "id": "0PFtn5NtBbbUNbU9EAmIWF",
+  "name": "TOTO",
+  "followers": 3039132,
+  "monthlyListeners": 29947882,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 655594,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 419970,
+        "region": "CMX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 372501,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 350084,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 330039,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 161
+}

@@ -1,0 +1,41 @@
+{
+  "id": "08HqAryJ8C5XGysjD7mYum",
+  "name": "Brando",
+  "followers": 155,
+  "monthlyListeners": 110,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 63,
+        "region": "18"
+      },
+      {
+        "city": "Oulu",
+        "country": "FI",
+        "numberOfListeners": 8,
+        "region": "14"
+      },
+      {
+        "city": "Espoo",
+        "country": "FI",
+        "numberOfListeners": 7,
+        "region": "18"
+      },
+      {
+        "city": "Tampere",
+        "country": "FI",
+        "numberOfListeners": 6,
+        "region": "11"
+      },
+      {
+        "city": "Vantaa",
+        "country": "FI",
+        "numberOfListeners": 6,
+        "region": "18"
+      }
+    ]
+  },
+  "worldRank": 0
+}

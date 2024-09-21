@@ -1,0 +1,41 @@
+{
+  "id": "6kBbwPicVyztrv790hSqLi",
+  "name": "Yk",
+  "followers": 3550,
+  "monthlyListeners": 22559,
+  "topCities": {
+    "items": [
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 5112,
+        "region": "ON"
+      },
+      {
+        "city": "Calgary",
+        "country": "CA",
+        "numberOfListeners": 1614,
+        "region": "AB"
+      },
+      {
+        "city": "Winnipeg",
+        "country": "CA",
+        "numberOfListeners": 1284,
+        "region": "MB"
+      },
+      {
+        "city": "Brampton",
+        "country": "CA",
+        "numberOfListeners": 1162,
+        "region": "ON"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 1142,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

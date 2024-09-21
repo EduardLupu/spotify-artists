@@ -1,0 +1,41 @@
+{
+  "id": "0hDjKSKjl1DC7ovYTDJHe8",
+  "name": "Bruno Major",
+  "followers": 1436362,
+  "monthlyListeners": 4465894,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 340305,
+        "region": "JK"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 140784,
+        "region": "00"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 79581,
+        "region": "JB"
+      },
+      {
+        "city": "Manila",
+        "country": "PH",
+        "numberOfListeners": 79325,
+        "region": "00"
+      },
+      {
+        "city": "Cebu City",
+        "country": "PH",
+        "numberOfListeners": 59889,
+        "region": "07"
+      }
+    ]
+  },
+  "worldRank": 0
+}

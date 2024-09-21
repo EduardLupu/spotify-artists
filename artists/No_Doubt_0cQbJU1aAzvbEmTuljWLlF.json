@@ -1,0 +1,41 @@
+{
+  "id": "0cQbJU1aAzvbEmTuljWLlF",
+  "name": "No Doubt",
+  "followers": 2889351,
+  "monthlyListeners": 11880046,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 242345,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 206301,
+        "region": "CMX"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 149930,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 147016,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 136486,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

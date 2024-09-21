@@ -1,0 +1,41 @@
+{
+  "id": "6tFIAdmTBeoZE5ceYwBw8p",
+  "name": "Alexander",
+  "followers": 10119,
+  "monthlyListeners": 27279,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 1146,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 1013,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 755,
+        "region": "HE"
+      },
+      {
+        "city": "Cologne",
+        "country": "DE",
+        "numberOfListeners": 681,
+        "region": "NW"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 664,
+        "region": "BY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

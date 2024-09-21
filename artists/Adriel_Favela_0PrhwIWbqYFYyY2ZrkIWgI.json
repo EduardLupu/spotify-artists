@@ -1,0 +1,41 @@
+{
+  "id": "0PrhwIWbqYFYyY2ZrkIWgI",
+  "name": "Adriel Favela",
+  "followers": 1609399,
+  "monthlyListeners": 5379551,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 368993,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 290354,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 181934,
+        "region": "QUE"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 178788,
+        "region": "JAL"
+      },
+      {
+        "city": "Tijuana",
+        "country": "MX",
+        "numberOfListeners": 160764,
+        "region": "BCN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

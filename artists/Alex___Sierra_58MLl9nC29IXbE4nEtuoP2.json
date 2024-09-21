@@ -1,0 +1,41 @@
+{
+  "id": "58MLl9nC29IXbE4nEtuoP2",
+  "name": "Alex & Sierra",
+  "followers": 1167937,
+  "monthlyListeners": 2257486,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 46694,
+        "region": "JK"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 31140,
+        "region": ""
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 30158,
+        "region": "NSW"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 27351,
+        "region": "14"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 25511,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

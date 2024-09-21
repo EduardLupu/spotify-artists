@@ -1,0 +1,41 @@
+{
+  "id": "2NoJ7NuNs9nyj8Thoh1kbu",
+  "name": "Hariharan",
+  "followers": 6136985,
+  "monthlyListeners": 13600707,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 2512485,
+        "region": "TN"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 1398509,
+        "region": "TS"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 1038035,
+        "region": "KA"
+      },
+      {
+        "city": "Coimbatore",
+        "country": "IN",
+        "numberOfListeners": 1037730,
+        "region": "TN"
+      },
+      {
+        "city": "Kochi",
+        "country": "IN",
+        "numberOfListeners": 933326,
+        "region": "KL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

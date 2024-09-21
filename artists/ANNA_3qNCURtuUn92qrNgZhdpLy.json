@@ -1,0 +1,41 @@
+{
+  "id": "3qNCURtuUn92qrNgZhdpLy",
+  "name": "ANNA",
+  "followers": 815,
+  "monthlyListeners": 428,
+  "topCities": {
+    "items": [
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 129,
+        "region": "TPE"
+      },
+      {
+        "city": "Taichung",
+        "country": "TW",
+        "numberOfListeners": 57,
+        "region": "TXG"
+      },
+      {
+        "city": "New Taipei City",
+        "country": "TW",
+        "numberOfListeners": 48,
+        "region": "NWT"
+      },
+      {
+        "city": "Kaohsiung",
+        "country": "TW",
+        "numberOfListeners": 35,
+        "region": "KHH"
+      },
+      {
+        "city": "Taoyuan District",
+        "country": "TW",
+        "numberOfListeners": 24,
+        "region": "TAO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

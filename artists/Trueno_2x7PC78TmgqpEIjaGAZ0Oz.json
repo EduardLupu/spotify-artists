@@ -1,0 +1,41 @@
+{
+  "id": "2x7PC78TmgqpEIjaGAZ0Oz",
+  "name": "Trueno",
+  "followers": 7489998,
+  "monthlyListeners": 22145371,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1453479,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1196136,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 913411,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 690432,
+        "region": "B"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 680899,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 299
+}

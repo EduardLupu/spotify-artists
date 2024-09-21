@@ -1,0 +1,41 @@
+{
+  "id": "40dnXSgTz12SdzNYNGTb8Q",
+  "name": "Andy Alemany",
+  "followers": 3763,
+  "monthlyListeners": 40837,
+  "topCities": {
+    "items": [
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 2707,
+        "region": "GU"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 2628,
+        "region": "DC"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 1340,
+        "region": "01"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 1163,
+        "region": "LMA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1089,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

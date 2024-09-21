@@ -1,0 +1,41 @@
+{
+  "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+  "name": "Selena Gomez",
+  "followers": 50715883,
+  "monthlyListeners": 37430779,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 756920,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 433263,
+        "region": "SP"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 399585,
+        "region": "CMX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 392062,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 365980,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 93
+}

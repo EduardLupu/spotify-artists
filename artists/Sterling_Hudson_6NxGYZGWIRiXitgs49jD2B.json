@@ -1,0 +1,41 @@
+{
+  "id": "6NxGYZGWIRiXitgs49jD2B",
+  "name": "Sterling Hudson",
+  "followers": 13305,
+  "monthlyListeners": 135712,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 1490,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1385,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 1247,
+        "region": "VIC"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 1227,
+        "region": "WA"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 1193,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

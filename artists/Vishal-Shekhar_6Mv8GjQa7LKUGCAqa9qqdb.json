@@ -1,0 +1,41 @@
+{
+  "id": "6Mv8GjQa7LKUGCAqa9qqdb",
+  "name": "Vishal-Shekhar",
+  "followers": 9379884,
+  "monthlyListeners": 26060022,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 2669329,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 2290943,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1785559,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 1480502,
+        "region": "DL"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 1459597,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 204
+}

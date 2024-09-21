@@ -1,0 +1,41 @@
+{
+  "id": "5ZqnEfVdEGmoPxtELhN7ai",
+  "name": "Estopa",
+  "followers": 2074415,
+  "monthlyListeners": 4111976,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 607847,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 381467,
+        "region": "CT"
+      },
+      {
+        "city": "Valencia",
+        "country": "ES",
+        "numberOfListeners": 159034,
+        "region": "VC"
+      },
+      {
+        "city": "Seville",
+        "country": "ES",
+        "numberOfListeners": 117498,
+        "region": "AN"
+      },
+      {
+        "city": "Málaga",
+        "country": "ES",
+        "numberOfListeners": 116753,
+        "region": "AN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

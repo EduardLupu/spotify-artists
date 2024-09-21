@@ -1,0 +1,41 @@
+{
+  "id": "5w61NhDHxboaPUjFZ9r2vh",
+  "name": "MoneySign Suede",
+  "followers": 224696,
+  "monthlyListeners": 593836,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 70077,
+        "region": "CA"
+      },
+      {
+        "city": "Riverside",
+        "country": "US",
+        "numberOfListeners": 21817,
+        "region": "CA"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 21257,
+        "region": "AZ"
+      },
+      {
+        "city": "Sacramento",
+        "country": "US",
+        "numberOfListeners": 21033,
+        "region": "CA"
+      },
+      {
+        "city": "San Diego",
+        "country": "US",
+        "numberOfListeners": 20671,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3rbtPd0NcvhO2AzMfzx90z",
+  "name": "Fredo",
+  "followers": 894293,
+  "monthlyListeners": 3734066,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 308105,
+        "region": "ENG"
+      },
+      {
+        "city": "Ludhiana",
+        "country": "IN",
+        "numberOfListeners": 239547,
+        "region": "PB"
+      },
+      {
+        "city": "Chandigarh",
+        "country": "IN",
+        "numberOfListeners": 164677,
+        "region": "CH"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 112574,
+        "region": "ENG"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 109135,
+        "region": "DL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

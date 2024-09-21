@@ -1,0 +1,41 @@
+{
+  "id": "44PA0rCQXikgOWbfY7Fq7m",
+  "name": "Ying Yang Twins",
+  "followers": 1131465,
+  "monthlyListeners": 1906566,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 35958,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 35610,
+        "region": "TX"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 34896,
+        "region": "CA"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 31774,
+        "region": "NC"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 30676,
+        "region": "GA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

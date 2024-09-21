@@ -1,0 +1,41 @@
+{
+  "id": "3TJGVUkSJzk5ZPixMFczZX",
+  "name": "Vitor Fernandes",
+  "followers": 2088240,
+  "monthlyListeners": 2576249,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 345852,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 109436,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 106364,
+        "region": "MG"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 95209,
+        "region": "DF"
+      },
+      {
+        "city": "Fortaleza",
+        "country": "BR",
+        "numberOfListeners": 79744,
+        "region": "CE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

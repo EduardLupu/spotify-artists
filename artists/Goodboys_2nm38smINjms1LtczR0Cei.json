@@ -1,0 +1,41 @@
+{
+  "id": "2nm38smINjms1LtczR0Cei",
+  "name": "Goodboys",
+  "followers": 73113,
+  "monthlyListeners": 8775936,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 261400,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 114066,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 110851,
+        "region": "ENG"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 95816,
+        "region": "RJ"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 93678,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

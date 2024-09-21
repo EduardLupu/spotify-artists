@@ -1,0 +1,41 @@
+{
+  "id": "1sBkRIssrMs1AbVkOJbc7a",
+  "name": "Rick Ross",
+  "followers": 7336803,
+  "monthlyListeners": 12463208,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 206315,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 181848,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 180116,
+        "region": "IL"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 170831,
+        "region": "ON"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 168243,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

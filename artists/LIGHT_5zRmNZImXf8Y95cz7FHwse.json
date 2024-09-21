@@ -1,0 +1,41 @@
+{
+  "id": "5zRmNZImXf8Y95cz7FHwse",
+  "name": "LIGHT",
+  "followers": 75,
+  "monthlyListeners": 28,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dammam",
+        "country": "SA",
+        "numberOfListeners": 2,
+        "region": "04"
+      },
+      {
+        "city": "Riyadh",
+        "country": "SA",
+        "numberOfListeners": 2,
+        "region": "01"
+      },
+      {
+        "city": "Jeddah",
+        "country": "SA",
+        "numberOfListeners": 2,
+        "region": "02"
+      },
+      {
+        "city": "Kalisz",
+        "country": "PL",
+        "numberOfListeners": 2,
+        "region": "30"
+      },
+      {
+        "city": "Las Vegas",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "NV"
+      }
+    ]
+  },
+  "worldRank": 0
+}

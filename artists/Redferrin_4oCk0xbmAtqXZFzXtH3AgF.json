@@ -1,0 +1,41 @@
+{
+  "id": "4oCk0xbmAtqXZFzXtH3AgF",
+  "name": "Redferrin",
+  "followers": 65705,
+  "monthlyListeners": 2825932,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 59217,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 54867,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 51135,
+        "region": "QLD"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 49321,
+        "region": "NC"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 46593,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

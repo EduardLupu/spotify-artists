@@ -1,0 +1,41 @@
+{
+  "id": "56ZTgzPBDge0OvCGgMO3OY",
+  "name": "Beach House",
+  "followers": 2306399,
+  "monthlyListeners": 13218419,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 286101,
+        "region": "JK"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 171933,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 129473,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 127625,
+        "region": "IL"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 121067,
+        "region": "34"
+      }
+    ]
+  },
+  "worldRank": 0
+}

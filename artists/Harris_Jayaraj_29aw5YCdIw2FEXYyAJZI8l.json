@@ -1,0 +1,41 @@
+{
+  "id": "29aw5YCdIw2FEXYyAJZI8l",
+  "name": "Harris Jayaraj",
+  "followers": 8430373,
+  "monthlyListeners": 10884157,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 3259549,
+        "region": "TN"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 2172985,
+        "region": "TS"
+      },
+      {
+        "city": "Coimbatore",
+        "country": "IN",
+        "numberOfListeners": 1449515,
+        "region": "TN"
+      },
+      {
+        "city": "Kochi",
+        "country": "IN",
+        "numberOfListeners": 1251388,
+        "region": "KL"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 1028241,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

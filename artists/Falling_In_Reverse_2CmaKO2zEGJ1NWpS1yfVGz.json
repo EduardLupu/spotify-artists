@@ -1,0 +1,41 @@
+{
+  "id": "2CmaKO2zEGJ1NWpS1yfVGz",
+  "name": "Falling In Reverse",
+  "followers": 3424691,
+  "monthlyListeners": 8349168,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 123329,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 117059,
+        "region": "ENG"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 102233,
+        "region": "TX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 90419,
+        "region": "NSW"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 89352,
+        "region": "NC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

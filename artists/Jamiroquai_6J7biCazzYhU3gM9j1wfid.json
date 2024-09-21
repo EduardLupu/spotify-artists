@@ -1,0 +1,41 @@
+{
+  "id": "6J7biCazzYhU3gM9j1wfid",
+  "name": "Jamiroquai",
+  "followers": 2461959,
+  "monthlyListeners": 5863328,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 186597,
+        "region": "ENG"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 151762,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 100303,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 90169,
+        "region": "VIC"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 80786,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

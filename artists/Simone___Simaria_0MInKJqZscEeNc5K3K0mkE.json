@@ -1,0 +1,41 @@
+{
+  "id": "0MInKJqZscEeNc5K3K0mkE",
+  "name": "Simone & Simaria",
+  "followers": 5376771,
+  "monthlyListeners": 2922516,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 370692,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 116691,
+        "region": "MG"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 108096,
+        "region": "RJ"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 98859,
+        "region": "PR"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 93290,
+        "region": "DF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

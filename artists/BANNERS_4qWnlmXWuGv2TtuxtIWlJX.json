@@ -1,0 +1,41 @@
+{
+  "id": "4qWnlmXWuGv2TtuxtIWlJX",
+  "name": "BANNERS",
+  "followers": 675050,
+  "monthlyListeners": 6086877,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 83098,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 80963,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 68911,
+        "region": "VIC"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 68671,
+        "region": "JK"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 54392,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

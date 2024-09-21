@@ -1,0 +1,41 @@
+{
+  "id": "4uPE8jQtZMzl7kYevZv26v",
+  "name": "Max",
+  "followers": 839,
+  "monthlyListeners": 6187,
+  "topCities": {
+    "items": [
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 518,
+        "region": "9"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 145,
+        "region": "BE"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 129,
+        "region": "AB"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 123,
+        "region": "25"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 112,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

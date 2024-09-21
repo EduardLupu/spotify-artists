@@ -1,0 +1,41 @@
+{
+  "id": "1LntpjxfMsSwxyuNyHllZn",
+  "name": "Kilo",
+  "followers": 487,
+  "monthlyListeners": 5961,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 116,
+        "region": "IDF"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 115,
+        "region": "25"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 113,
+        "region": "HE"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 111,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 105,
+        "region": "HH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

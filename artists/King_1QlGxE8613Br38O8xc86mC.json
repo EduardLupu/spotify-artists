@@ -1,0 +1,41 @@
+{
+  "id": "1QlGxE8613Br38O8xc86mC",
+  "name": "King",
+  "followers": 1530,
+  "monthlyListeners": 19444,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tbilisi",
+        "country": "GE",
+        "numberOfListeners": 14444,
+        "region": "TB"
+      },
+      {
+        "city": "Batumi",
+        "country": "GE",
+        "numberOfListeners": 855,
+        "region": "AJ"
+      },
+      {
+        "city": "Kutaisi",
+        "country": "GE",
+        "numberOfListeners": 610,
+        "region": "IM"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 190,
+        "region": "BE"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 181,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

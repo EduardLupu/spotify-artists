@@ -1,0 +1,41 @@
+{
+  "id": "08Qt8R18CSCSUxC3woCpsR",
+  "name": "RK",
+  "followers": 5103,
+  "monthlyListeners": 1146,
+  "topCities": {
+    "items": [
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 334,
+        "region": "TS"
+      },
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 190,
+        "region": "TN"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 60,
+        "region": "KA"
+      },
+      {
+        "city": "Coimbatore",
+        "country": "IN",
+        "numberOfListeners": 59,
+        "region": "TN"
+      },
+      {
+        "city": "Salem",
+        "country": "IN",
+        "numberOfListeners": 27,
+        "region": "TN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

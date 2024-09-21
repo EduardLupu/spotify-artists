@@ -1,0 +1,41 @@
+{
+  "id": "7M3xY5iHSzEtoL3FpqOD75",
+  "name": "Garry Sandhu",
+  "followers": 4785273,
+  "monthlyListeners": 6337377,
+  "topCities": {
+    "items": [
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 613520,
+        "region": "DL"
+      },
+      {
+        "city": "Ludhiana",
+        "country": "IN",
+        "numberOfListeners": 512548,
+        "region": "PB"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 479309,
+        "region": "DL"
+      },
+      {
+        "city": "Chandigarh",
+        "country": "IN",
+        "numberOfListeners": 388266,
+        "region": "CH"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 324156,
+        "region": "MH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

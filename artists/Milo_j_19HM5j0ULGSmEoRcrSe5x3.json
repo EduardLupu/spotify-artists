@@ -1,0 +1,41 @@
+{
+  "id": "19HM5j0ULGSmEoRcrSe5x3",
+  "name": "Milo j",
+  "followers": 4605976,
+  "monthlyListeners": 14671779,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1152606,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 811778,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 724649,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 553487,
+        "region": "B"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 474022,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

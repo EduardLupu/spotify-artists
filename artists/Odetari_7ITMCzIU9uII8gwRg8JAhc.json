@@ -1,0 +1,41 @@
+{
+  "id": "7ITMCzIU9uII8gwRg8JAhc",
+  "name": "Odetari",
+  "followers": 3388538,
+  "monthlyListeners": 10696755,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 117684,
+        "region": "JK"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 107927,
+        "region": "14"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 102120,
+        "region": "ENG"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 98058,
+        "region": "34"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 96017,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

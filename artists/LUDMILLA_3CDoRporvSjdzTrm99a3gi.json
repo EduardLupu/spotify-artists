@@ -1,0 +1,41 @@
+{
+  "id": "3CDoRporvSjdzTrm99a3gi",
+  "name": "LUDMILLA",
+  "followers": 7643959,
+  "monthlyListeners": 14795850,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 2087522,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 1157394,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 610693,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 496458,
+        "region": "SP"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 489928,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

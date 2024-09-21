@@ -1,0 +1,41 @@
+{
+  "id": "5KvSxVTQGfLPgoE75mYwHb",
+  "name": "Nelly",
+  "followers": 28,
+  "monthlyListeners": 366,
+  "topCities": {
+    "items": [
+      {
+        "city": "Cotonou",
+        "country": "BJ",
+        "numberOfListeners": 143,
+        "region": "LI"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 35,
+        "region": "IDF"
+      },
+      {
+        "city": "Kandi",
+        "country": "BJ",
+        "numberOfListeners": 19,
+        "region": "AL"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 13,
+        "region": "QC"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 6,
+        "region": "HE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

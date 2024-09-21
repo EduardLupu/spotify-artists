@@ -1,0 +1,41 @@
+{
+  "id": "2W8yFh0Ga6Yf3jiayVxwkE",
+  "name": "Dove Cameron",
+  "followers": 5198028,
+  "monthlyListeners": 9462930,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 107179,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 102425,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 98952,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 86553,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 72987,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5l58alNsn9lvaFHoxtrou2",
+  "name": "AnnA",
+  "followers": 91,
+  "monthlyListeners": 78,
+  "topCities": {
+    "items": [
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 16,
+        "region": "AB"
+      },
+      {
+        "city": "Incheon",
+        "country": "KR",
+        "numberOfListeners": 2,
+        "region": "28"
+      },
+      {
+        "city": "Copenhagen",
+        "country": "DK",
+        "numberOfListeners": 2,
+        "region": "84"
+      },
+      {
+        "city": "San Juan",
+        "country": "PH",
+        "numberOfListeners": 2,
+        "region": "00"
+      },
+      {
+        "city": "Malmo",
+        "country": "SE",
+        "numberOfListeners": 2,
+        "region": "M"
+      }
+    ]
+  },
+  "worldRank": 0
+}

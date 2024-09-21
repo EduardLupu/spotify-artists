@@ -1,0 +1,41 @@
+{
+  "id": "37J1PlAkhRK7yrZUtqaUpQ",
+  "name": "Caravan Palace",
+  "followers": 1084727,
+  "monthlyListeners": 2001724,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 32862,
+        "region": "IDF"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 24022,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 17641,
+        "region": "IL"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 17205,
+        "region": "10"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 17061,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

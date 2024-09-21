@@ -1,0 +1,41 @@
+{
+  "id": "5iot8OPcosJN9nCl7I5SdK",
+  "name": "Irama",
+  "followers": 2120966,
+  "monthlyListeners": 2743462,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 558519,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 237458,
+        "region": "62"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 83212,
+        "region": "21"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 81760,
+        "region": "72"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 63988,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

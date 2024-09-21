@@ -1,0 +1,41 @@
+{
+  "id": "70NcAr4ZtA3FAqU16iQZSb",
+  "name": "Dhruv",
+  "followers": 684180,
+  "monthlyListeners": 12044067,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1219112,
+        "region": "JK"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 435317,
+        "region": "10"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 380129,
+        "region": "14"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 340388,
+        "region": "00"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 271410,
+        "region": "JB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

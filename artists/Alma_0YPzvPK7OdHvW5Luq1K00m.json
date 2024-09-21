@@ -1,0 +1,41 @@
+{
+  "id": "0YPzvPK7OdHvW5Luq1K00m",
+  "name": "Alma",
+  "followers": 6651,
+  "monthlyListeners": 27364,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tel Aviv",
+        "country": "IL",
+        "numberOfListeners": 12938,
+        "region": "TA"
+      },
+      {
+        "city": "Jerusalem",
+        "country": "IL",
+        "numberOfListeners": 3701,
+        "region": "JM"
+      },
+      {
+        "city": "Ramat Gan",
+        "country": "IL",
+        "numberOfListeners": 2302,
+        "region": "TA"
+      },
+      {
+        "city": "Petah Tikva",
+        "country": "IL",
+        "numberOfListeners": 2018,
+        "region": "M"
+      },
+      {
+        "city": "Rishon LeTsiyyon",
+        "country": "IL",
+        "numberOfListeners": 1502,
+        "region": "M"
+      }
+    ]
+  },
+  "worldRank": 0
+}

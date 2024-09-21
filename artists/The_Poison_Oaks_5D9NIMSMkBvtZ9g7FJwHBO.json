@@ -1,0 +1,41 @@
+{
+  "id": "5D9NIMSMkBvtZ9g7FJwHBO",
+  "name": "The Poison Oaks",
+  "followers": 3547,
+  "monthlyListeners": 1867,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 24,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 24,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 23,
+        "region": "VIC"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 18,
+        "region": "9"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 17,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

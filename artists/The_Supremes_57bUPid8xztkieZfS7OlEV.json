@@ -1,0 +1,41 @@
+{
+  "id": "57bUPid8xztkieZfS7OlEV",
+  "name": "The Supremes",
+  "followers": 1715772,
+  "monthlyListeners": 4746286,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 108472,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 65500,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 59150,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 54344,
+        "region": "NH"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 51496,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

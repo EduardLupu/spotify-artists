@@ -1,0 +1,41 @@
+{
+  "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+  "name": "Tiësto",
+  "followers": 7483908,
+  "monthlyListeners": 44298331,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 639315,
+        "region": "NH"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 627913,
+        "region": "RM"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 607183,
+        "region": "ENG"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 602505,
+        "region": "CMX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 509808,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 62
+}

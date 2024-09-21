@@ -1,0 +1,41 @@
+{
+  "id": "5nkYRuiIHg2xXHFC8bfosJ",
+  "name": "ItaloBrothers",
+  "followers": 390566,
+  "monthlyListeners": 3331775,
+  "topCities": {
+    "items": [
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 68107,
+        "region": "HH"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 67557,
+        "region": "18"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 67341,
+        "region": "AB"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 63171,
+        "region": "BE"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 60129,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

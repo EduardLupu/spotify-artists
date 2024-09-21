@@ -1,0 +1,41 @@
+{
+  "id": "2OhUNb01gLwygOizYvTm0e",
+  "name": "Big One",
+  "followers": 603886,
+  "monthlyListeners": 12446866,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1495486,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1050941,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 682717,
+        "region": "B"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 512779,
+        "region": "LMA"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 423252,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

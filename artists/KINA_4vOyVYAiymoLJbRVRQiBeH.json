@@ -1,0 +1,41 @@
+{
+  "id": "4vOyVYAiymoLJbRVRQiBeH",
+  "name": "KINA",
+  "followers": 1650,
+  "monthlyListeners": 976,
+  "topCities": {
+    "items": [
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 64,
+        "region": "TPE"
+      },
+      {
+        "city": "Taichung",
+        "country": "TW",
+        "numberOfListeners": 45,
+        "region": "TXG"
+      },
+      {
+        "city": "Minsk",
+        "country": "BY",
+        "numberOfListeners": 45,
+        "region": "HM"
+      },
+      {
+        "city": "Riga",
+        "country": "LV",
+        "numberOfListeners": 26,
+        "region": "RIX"
+      },
+      {
+        "city": "Kaohsiung",
+        "country": "TW",
+        "numberOfListeners": 25,
+        "region": "KHH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

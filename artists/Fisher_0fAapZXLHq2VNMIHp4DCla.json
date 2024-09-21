@@ -1,0 +1,41 @@
+{
+  "id": "0fAapZXLHq2VNMIHp4DCla",
+  "name": "Fisher",
+  "followers": 3725,
+  "monthlyListeners": 20461,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 4093,
+        "region": "14"
+      },
+      {
+        "city": "Poznan",
+        "country": "PL",
+        "numberOfListeners": 1309,
+        "region": "30"
+      },
+      {
+        "city": "Katowice",
+        "country": "PL",
+        "numberOfListeners": 1199,
+        "region": "24"
+      },
+      {
+        "city": "Krakow",
+        "country": "PL",
+        "numberOfListeners": 1178,
+        "region": "12"
+      },
+      {
+        "city": "Wroclaw",
+        "country": "PL",
+        "numberOfListeners": 1021,
+        "region": "02"
+      }
+    ]
+  },
+  "worldRank": 0
+}

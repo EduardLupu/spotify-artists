@@ -1,0 +1,41 @@
+{
+  "id": "4W12lEvVl5wectUtRNrvDh",
+  "name": "White Noise Baby Sleep",
+  "followers": 37294,
+  "monthlyListeners": 229878,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 8711,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 7912,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 6968,
+        "region": "VIC"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 6067,
+        "region": "L"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 4858,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

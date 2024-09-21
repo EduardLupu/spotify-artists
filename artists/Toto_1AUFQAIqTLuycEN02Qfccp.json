@@ -1,0 +1,41 @@
+{
+  "id": "1AUFQAIqTLuycEN02Qfccp",
+  "name": "Toto",
+  "followers": 60,
+  "monthlyListeners": 175,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 22,
+        "region": "IDF"
+      },
+      {
+        "city": "Port Louis",
+        "country": "MU",
+        "numberOfListeners": 14,
+        "region": "PL"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 3,
+        "region": "PAC"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 3,
+        "region": "VIC"
+      },
+      {
+        "city": "Strasbourg",
+        "country": "FR",
+        "numberOfListeners": 2,
+        "region": "GES"
+      }
+    ]
+  },
+  "worldRank": 0
+}

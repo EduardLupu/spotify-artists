@@ -1,0 +1,41 @@
+{
+  "id": "3a1tBryiczPAZpgoZN9Rzg",
+  "name": "Asake",
+  "followers": 4140103,
+  "monthlyListeners": 9280573,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 941242,
+        "region": "LA"
+      },
+      {
+        "city": "Abuja",
+        "country": "NG",
+        "numberOfListeners": 441064,
+        "region": "FC"
+      },
+      {
+        "city": "Port Harcourt",
+        "country": "NG",
+        "numberOfListeners": 316352,
+        "region": "RI"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 297428,
+        "region": "ENG"
+      },
+      {
+        "city": "Nairobi",
+        "country": "KE",
+        "numberOfListeners": 184045,
+        "region": "30"
+      }
+    ]
+  },
+  "worldRank": 0
+}

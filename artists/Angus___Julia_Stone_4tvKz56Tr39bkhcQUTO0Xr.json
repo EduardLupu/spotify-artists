@@ -1,0 +1,41 @@
+{
+  "id": "4tvKz56Tr39bkhcQUTO0Xr",
+  "name": "Angus & Julia Stone",
+  "followers": 1283661,
+  "monthlyListeners": 5910136,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 212378,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 180106,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 146291,
+        "region": "QLD"
+      },
+      {
+        "city": "Perth",
+        "country": "AU",
+        "numberOfListeners": 91022,
+        "region": "WA"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 76432,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

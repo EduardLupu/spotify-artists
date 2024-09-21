@@ -1,0 +1,41 @@
+{
+  "id": "4lBpdC0ZU9G6dm05V1XAq7",
+  "name": "Bryan Lanning",
+  "followers": 63780,
+  "monthlyListeners": 31151,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 609,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 509,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 503,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 459,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 430,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

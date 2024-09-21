@@ -1,0 +1,41 @@
+{
+  "id": "4phGZZrJZRo4ElhRtViYdl",
+  "name": "Jason Mraz",
+  "followers": 7222752,
+  "monthlyListeners": 17393326,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 531476,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 360372,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 200458,
+        "region": "NSW"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 189683,
+        "region": "00"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 181198,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 460
+}

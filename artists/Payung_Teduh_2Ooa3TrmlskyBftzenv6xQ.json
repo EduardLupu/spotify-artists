@@ -1,0 +1,41 @@
+{
+  "id": "2Ooa3TrmlskyBftzenv6xQ",
+  "name": "Payung Teduh",
+  "followers": 3592968,
+  "monthlyListeners": 4825154,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 2051791,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 492406,
+        "region": "JB"
+      },
+      {
+        "city": "Makassar",
+        "country": "ID",
+        "numberOfListeners": 202237,
+        "region": "SN"
+      },
+      {
+        "city": "Yogyakarta",
+        "country": "ID",
+        "numberOfListeners": 196788,
+        "region": "YO"
+      },
+      {
+        "city": "Surabaya",
+        "country": "ID",
+        "numberOfListeners": 189316,
+        "region": "JI"
+      }
+    ]
+  },
+  "worldRank": 0
+}

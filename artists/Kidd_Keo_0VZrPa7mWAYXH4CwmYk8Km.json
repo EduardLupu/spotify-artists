@@ -1,0 +1,41 @@
+{
+  "id": "0VZrPa7mWAYXH4CwmYk8Km",
+  "name": "Kidd Keo",
+  "followers": 2909133,
+  "monthlyListeners": 3987295,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 209817,
+        "region": "CMX"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 206042,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 133434,
+        "region": "CT"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 118160,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 115419,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

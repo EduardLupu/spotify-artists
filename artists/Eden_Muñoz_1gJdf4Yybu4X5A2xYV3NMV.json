@@ -1,0 +1,41 @@
+{
+  "id": "1gJdf4Yybu4X5A2xYV3NMV",
+  "name": "Eden Muñoz",
+  "followers": 2024193,
+  "monthlyListeners": 12571854,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1100156,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 695301,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 510436,
+        "region": "QUE"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 465824,
+        "region": "PUE"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 441857,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

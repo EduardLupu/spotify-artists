@@ -1,0 +1,41 @@
+{
+  "id": "0PfmdkL8bPMhKQ1WszR2xj",
+  "name": "Zeritu Kebede",
+  "followers": 2178,
+  "monthlyListeners": 8072,
+  "topCities": {
+    "items": [
+      {
+        "city": "Addis Ababa",
+        "country": "ET",
+        "numberOfListeners": 4098,
+        "region": "AA"
+      },
+      {
+        "city": "Tel Aviv",
+        "country": "IL",
+        "numberOfListeners": 285,
+        "region": "TA"
+      },
+      {
+        "city": "Nazrēt",
+        "country": "ET",
+        "numberOfListeners": 181,
+        "region": "OR"
+      },
+      {
+        "city": "Washington",
+        "country": "US",
+        "numberOfListeners": 161,
+        "region": "DC"
+      },
+      {
+        "city": "Awasa",
+        "country": "ET",
+        "numberOfListeners": 152,
+        "region": "SI"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7A0awCXkE1FtSU8B0qwOJQ",
+  "name": "Jamie xx",
+  "followers": 841061,
+  "monthlyListeners": 4425103,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 182285,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 94918,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 91557,
+        "region": "VIC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 61786,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 60136,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

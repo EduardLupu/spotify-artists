@@ -1,0 +1,41 @@
+{
+  "id": "6CwfuxIqcltXDGjfZsMd9A",
+  "name": "MARINA",
+  "followers": 5656432,
+  "monthlyListeners": 9915206,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 131975,
+        "region": "ENG"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 102498,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 97683,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 94990,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 93454,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

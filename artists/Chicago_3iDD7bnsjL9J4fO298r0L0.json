@@ -1,0 +1,41 @@
+{
+  "id": "3iDD7bnsjL9J4fO298r0L0",
+  "name": "Chicago",
+  "followers": 4185198,
+  "monthlyListeners": 10472924,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 202728,
+        "region": "JK"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 200918,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 162519,
+        "region": "CMX"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 157863,
+        "region": "00"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 117589,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

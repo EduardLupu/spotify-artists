@@ -1,0 +1,41 @@
+{
+  "id": "0t2d08dbabO39qb8v4yDj5",
+  "name": "Wiu",
+  "followers": 605,
+  "monthlyListeners": 51641,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 2164,
+        "region": "14"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 1202,
+        "region": "10"
+      },
+      {
+        "city": "Poznan",
+        "country": "PL",
+        "numberOfListeners": 773,
+        "region": "30"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 722,
+        "region": "BE"
+      },
+      {
+        "city": "Wroclaw",
+        "country": "PL",
+        "numberOfListeners": 719,
+        "region": "02"
+      }
+    ]
+  },
+  "worldRank": 0
+}

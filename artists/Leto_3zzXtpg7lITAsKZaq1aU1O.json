@@ -1,0 +1,41 @@
+{
+  "id": "3zzXtpg7lITAsKZaq1aU1O",
+  "name": "Leto",
+  "followers": 1973,
+  "monthlyListeners": 69348,
+  "topCities": {
+    "items": [
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 7124,
+        "region": "HH"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 6789,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 4418,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 4216,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 2993,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

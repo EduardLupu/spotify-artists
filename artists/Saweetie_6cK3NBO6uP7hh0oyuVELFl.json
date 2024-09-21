@@ -1,0 +1,41 @@
+{
+  "id": "6cK3NBO6uP7hh0oyuVELFl",
+  "name": "Saweetie",
+  "followers": 2331333,
+  "monthlyListeners": 9595439,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 126051,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 123523,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 104443,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 102957,
+        "region": "VIC"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 91406,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

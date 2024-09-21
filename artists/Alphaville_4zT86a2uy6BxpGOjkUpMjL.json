@@ -1,0 +1,41 @@
+{
+  "id": "4zT86a2uy6BxpGOjkUpMjL",
+  "name": "Alphaville",
+  "followers": 1407,
+  "monthlyListeners": 1011,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 123,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 43,
+        "region": "CT"
+      },
+      {
+        "city": "Valencia",
+        "country": "ES",
+        "numberOfListeners": 18,
+        "region": "VC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 16,
+        "region": "NH"
+      },
+      {
+        "city": "Seville",
+        "country": "ES",
+        "numberOfListeners": 13,
+        "region": "AN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

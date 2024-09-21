@@ -1,0 +1,41 @@
+{
+  "id": "6PV9vNVhoud34JAnRlX25O",
+  "name": "GIBBS",
+  "followers": 835,
+  "monthlyListeners": 731,
+  "topCities": {
+    "items": [
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 104,
+        "region": "00"
+      },
+      {
+        "city": "Manila",
+        "country": "PH",
+        "numberOfListeners": 37,
+        "region": "00"
+      },
+      {
+        "city": "Caloocan City",
+        "country": "PH",
+        "numberOfListeners": 37,
+        "region": "00"
+      },
+      {
+        "city": "Cebu City",
+        "country": "PH",
+        "numberOfListeners": 28,
+        "region": "07"
+      },
+      {
+        "city": "Makati City",
+        "country": "PH",
+        "numberOfListeners": 27,
+        "region": "00"
+      }
+    ]
+  },
+  "worldRank": 0
+}

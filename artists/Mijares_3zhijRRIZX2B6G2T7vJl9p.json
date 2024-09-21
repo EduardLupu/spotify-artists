@@ -1,0 +1,41 @@
+{
+  "id": "3zhijRRIZX2B6G2T7vJl9p",
+  "name": "Mijares",
+  "followers": 2268244,
+  "monthlyListeners": 4254434,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 436075,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 172345,
+        "region": "JAL"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 171409,
+        "region": "RM"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 161282,
+        "region": "PUE"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 155107,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

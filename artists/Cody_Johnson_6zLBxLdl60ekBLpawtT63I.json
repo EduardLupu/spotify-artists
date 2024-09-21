@@ -1,0 +1,41 @@
+{
+  "id": "6zLBxLdl60ekBLpawtT63I",
+  "name": "Cody Johnson",
+  "followers": 1432253,
+  "monthlyListeners": 8789629,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 234891,
+        "region": "TX"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 188113,
+        "region": "IL"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 181081,
+        "region": "NC"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 156788,
+        "region": "TX"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 151167,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

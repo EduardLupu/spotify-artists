@@ -1,0 +1,41 @@
+{
+  "id": "06nvjg4wBANK6DCHjqtPNd",
+  "name": "Mahmood",
+  "followers": 1474077,
+  "monthlyListeners": 4304953,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 722487,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 339136,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 155054,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 108394,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 83582,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

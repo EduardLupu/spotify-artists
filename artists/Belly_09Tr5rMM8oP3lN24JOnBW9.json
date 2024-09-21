@@ -1,0 +1,41 @@
+{
+  "id": "09Tr5rMM8oP3lN24JOnBW9",
+  "name": "Belly",
+  "followers": 778,
+  "monthlyListeners": 53129,
+  "topCities": {
+    "items": [
+      {
+        "city": "Copenhagen",
+        "country": "DK",
+        "numberOfListeners": 19969,
+        "region": "84"
+      },
+      {
+        "city": "Frederiksberg",
+        "country": "DK",
+        "numberOfListeners": 12065,
+        "region": "84"
+      },
+      {
+        "city": "Rødovre Municipality",
+        "country": "DK",
+        "numberOfListeners": 3292,
+        "region": "84"
+      },
+      {
+        "city": "Aarhus",
+        "country": "DK",
+        "numberOfListeners": 2927,
+        "region": "82"
+      },
+      {
+        "city": "Valby",
+        "country": "DK",
+        "numberOfListeners": 2674,
+        "region": "84"
+      }
+    ]
+  },
+  "worldRank": 0
+}

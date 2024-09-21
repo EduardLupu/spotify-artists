@@ -1,0 +1,41 @@
+{
+  "id": "3ZzhFV13vSnWtx0TPkbpOl",
+  "name": "Casa de Kello",
+  "followers": 4162,
+  "monthlyListeners": 5510,
+  "topCities": {
+    "items": [
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 2002,
+        "region": "GU"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 1151,
+        "region": "01"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 209,
+        "region": "CMX"
+      },
+      {
+        "city": "Quetzaltenango",
+        "country": "GT",
+        "numberOfListeners": 148,
+        "region": "QZ"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 96,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

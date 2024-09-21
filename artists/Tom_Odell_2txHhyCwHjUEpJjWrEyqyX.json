@@ -1,0 +1,41 @@
+{
+  "id": "2txHhyCwHjUEpJjWrEyqyX",
+  "name": "Tom Odell",
+  "followers": 3968430,
+  "monthlyListeners": 38131078,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 640647,
+        "region": "NH"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 498343,
+        "region": "ENG"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 487070,
+        "region": "IDF"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 454080,
+        "region": "ZH"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 451009,
+        "region": "JK"
+      }
+    ]
+  },
+  "worldRank": 88
+}

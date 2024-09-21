@@ -1,0 +1,41 @@
+{
+  "id": "4hz8tIajF2INpgM0qzPJz2",
+  "name": "Rainbow Kitten Surprise",
+  "followers": 1179469,
+  "monthlyListeners": 6531212,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 116083,
+        "region": "IL"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 114584,
+        "region": "CO"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 95145,
+        "region": "NY"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 90045,
+        "region": "WA"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 86092,
+        "region": "NC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

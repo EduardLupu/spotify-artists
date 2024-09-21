@@ -1,0 +1,41 @@
+{
+  "id": "6jQZzWW3JlEtcRDSzFVKSP",
+  "name": "Nitro",
+  "followers": 699794,
+  "monthlyListeners": 1255635,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 307577,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 127091,
+        "region": "62"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 46223,
+        "region": "21"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 45088,
+        "region": "72"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 34323,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

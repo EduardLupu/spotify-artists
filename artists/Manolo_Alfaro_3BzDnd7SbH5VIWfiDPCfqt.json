@@ -1,0 +1,41 @@
+{
+  "id": "3BzDnd7SbH5VIWfiDPCfqt",
+  "name": "Manolo Alfaro",
+  "followers": 3425,
+  "monthlyListeners": 8640,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 4598,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 384,
+        "region": "LMA"
+      },
+      {
+        "city": "Concepción",
+        "country": "CL",
+        "numberOfListeners": 318,
+        "region": "BI"
+      },
+      {
+        "city": "Antofagasta",
+        "country": "CL",
+        "numberOfListeners": 201,
+        "region": "AN"
+      },
+      {
+        "city": "Quito",
+        "country": "EC",
+        "numberOfListeners": 111,
+        "region": "P"
+      }
+    ]
+  },
+  "worldRank": 0
+}

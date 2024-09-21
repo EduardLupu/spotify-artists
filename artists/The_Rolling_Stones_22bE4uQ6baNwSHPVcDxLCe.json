@@ -1,0 +1,41 @@
+{
+  "id": "22bE4uQ6baNwSHPVcDxLCe",
+  "name": "The Rolling Stones",
+  "followers": 14424162,
+  "monthlyListeners": 28096879,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 416571,
+        "region": "ENG"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 365781,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 363106,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 363103,
+        "region": "SP"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 327327,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 181
+}

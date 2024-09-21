@@ -1,0 +1,41 @@
+{
+  "id": "7KVJCU4z5L4EUHILL8aMxR",
+  "name": "Leo Santana",
+  "followers": 2312640,
+  "monthlyListeners": 6911228,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 967796,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 404545,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 355250,
+        "region": "MG"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 269592,
+        "region": "DF"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 241763,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

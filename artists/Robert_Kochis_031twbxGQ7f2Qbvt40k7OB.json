@@ -1,0 +1,41 @@
+{
+  "id": "031twbxGQ7f2Qbvt40k7OB",
+  "name": "Robert Kochis",
+  "followers": 4171,
+  "monthlyListeners": 65197,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 2095,
+        "region": "JK"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 1891,
+        "region": "00"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 1751,
+        "region": ""
+      },
+      {
+        "city": "Cebu City",
+        "country": "PH",
+        "numberOfListeners": 1355,
+        "region": "07"
+      },
+      {
+        "city": "Davao City",
+        "country": "PH",
+        "numberOfListeners": 1240,
+        "region": "11"
+      }
+    ]
+  },
+  "worldRank": 0
+}

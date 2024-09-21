@@ -1,0 +1,41 @@
+{
+  "id": "3TVXtAsR1Inumwj472S9r4",
+  "name": "Drake",
+  "followers": 91935085,
+  "monthlyListeners": 76085603,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1629625,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 1143341,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 1103015,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1033245,
+        "region": "IL"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 1000212,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 12
+}

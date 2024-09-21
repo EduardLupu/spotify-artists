@@ -1,0 +1,41 @@
+{
+  "id": "6XwwFnewNgWp81MYMK8zLq",
+  "name": "Edward Maya",
+  "followers": 276771,
+  "monthlyListeners": 10908745,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 176821,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 164943,
+        "region": "SP"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 144692,
+        "region": "IDF"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 143375,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 140461,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

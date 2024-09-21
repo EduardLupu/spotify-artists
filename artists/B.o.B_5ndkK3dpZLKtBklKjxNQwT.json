@@ -1,0 +1,41 @@
+{
+  "id": "5ndkK3dpZLKtBklKjxNQwT",
+  "name": "B.o.B",
+  "followers": 2073628,
+  "monthlyListeners": 18285829,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 733602,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 287682,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 213020,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 175680,
+        "region": "VIC"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 173357,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 420
+}

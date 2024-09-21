@@ -1,0 +1,41 @@
+{
+  "id": "2RDOrhPqAM4jzTRCEb19qX",
+  "name": "Sheck Wes",
+  "followers": 1629183,
+  "monthlyListeners": 5240693,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 70937,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 56618,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 56528,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 50340,
+        "region": "VIC"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 50218,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

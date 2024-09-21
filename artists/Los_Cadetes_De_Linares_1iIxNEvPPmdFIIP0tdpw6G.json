@@ -1,0 +1,41 @@
+{
+  "id": "1iIxNEvPPmdFIIP0tdpw6G",
+  "name": "Los Cadetes De Linares",
+  "followers": 2703917,
+  "monthlyListeners": 6566529,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 544970,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 321176,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 253489,
+        "region": "QUE"
+      },
+      {
+        "city": "Monterrey",
+        "country": "MX",
+        "numberOfListeners": 252136,
+        "region": "NLE"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 220360,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

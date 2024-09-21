@@ -1,0 +1,41 @@
+{
+  "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+  "name": "Dire Straits",
+  "followers": 7776427,
+  "monthlyListeners": 18676285,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 359454,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 338559,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 330547,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 324426,
+        "region": "NH"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 277361,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 406
+}

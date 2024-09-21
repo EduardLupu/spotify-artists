@@ -1,0 +1,41 @@
+{
+  "id": "25XJqeReVV38w0tR04GGBd",
+  "name": "Mainstreet",
+  "followers": 798852,
+  "monthlyListeners": 7629595,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1262984,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 798425,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 404413,
+        "region": "MG"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 278352,
+        "region": "RS"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 273714,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

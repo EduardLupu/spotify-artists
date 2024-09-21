@@ -1,0 +1,41 @@
+{
+  "id": "1Ts9of7VPZElwPQnqnDSfW",
+  "name": "Lyanno",
+  "followers": 1423430,
+  "monthlyListeners": 13364586,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 613226,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 543156,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 498977,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 425175,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 316385,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

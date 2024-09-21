@@ -1,0 +1,41 @@
+{
+  "id": "3jOstUTkEu2JkjvRdBA5Gu",
+  "name": "Weezer",
+  "followers": 3788056,
+  "monthlyListeners": 15081497,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 235609,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 226754,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 182809,
+        "region": "NSW"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 179354,
+        "region": "NY"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 176952,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

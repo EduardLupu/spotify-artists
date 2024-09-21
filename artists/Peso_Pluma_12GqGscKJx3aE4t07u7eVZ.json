@@ -1,0 +1,41 @@
+{
+  "id": "12GqGscKJx3aE4t07u7eVZ",
+  "name": "Peso Pluma",
+  "followers": 16106712,
+  "monthlyListeners": 49163127,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 3283087,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 1685083,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 1680060,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 1672836,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1533269,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 49
+}

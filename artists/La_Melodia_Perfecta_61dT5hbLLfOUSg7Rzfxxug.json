@@ -1,0 +1,41 @@
+{
+  "id": "61dT5hbLLfOUSg7Rzfxxug",
+  "name": "La Melodia Perfecta",
+  "followers": 184993,
+  "monthlyListeners": 77624,
+  "topCities": {
+    "items": [
+      {
+        "city": "Caracas",
+        "country": "VE",
+        "numberOfListeners": 8269,
+        "region": "A"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 4809,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 4149,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 3061,
+        "region": "DC"
+      },
+      {
+        "city": "Valencia",
+        "country": "VE",
+        "numberOfListeners": 2088,
+        "region": "G"
+      }
+    ]
+  },
+  "worldRank": 0
+}

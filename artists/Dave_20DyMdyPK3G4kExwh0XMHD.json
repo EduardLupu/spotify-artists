@@ -1,0 +1,41 @@
+{
+  "id": "20DyMdyPK3G4kExwh0XMHD",
+  "name": "Dave",
+  "followers": 801,
+  "monthlyListeners": 6079,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 170,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 167,
+        "region": "HH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 154,
+        "region": "ZH"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 152,
+        "region": "BW"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 148,
+        "region": "BY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

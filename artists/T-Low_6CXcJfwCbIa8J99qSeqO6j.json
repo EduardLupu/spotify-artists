@@ -1,0 +1,41 @@
+{
+  "id": "6CXcJfwCbIa8J99qSeqO6j",
+  "name": "T-Low",
+  "followers": 1019,
+  "monthlyListeners": 299,
+  "topCities": {
+    "items": [
+      {
+        "city": "Falkenstein",
+        "country": "DE",
+        "numberOfListeners": 70,
+        "region": "SN"
+      },
+      {
+        "city": "Halifax",
+        "country": "CA",
+        "numberOfListeners": 44,
+        "region": "NS"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 15,
+        "region": "QC"
+      },
+      {
+        "city": "Dartmouth",
+        "country": "CA",
+        "numberOfListeners": 12,
+        "region": "NS"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 6,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

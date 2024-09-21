@@ -1,0 +1,41 @@
+{
+  "id": "7HGNYPmbDrMkylWqeFCOIQ",
+  "name": "Caetano Veloso",
+  "followers": 2327118,
+  "monthlyListeners": 4752218,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 658482,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 335612,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 235802,
+        "region": "MG"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 145589,
+        "region": "DF"
+      },
+      {
+        "city": "Salvador",
+        "country": "BR",
+        "numberOfListeners": 140833,
+        "region": "BA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

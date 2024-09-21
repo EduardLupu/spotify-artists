@@ -1,0 +1,41 @@
+{
+  "id": "0u6GtibW46tFX7koQ6uNJZ",
+  "name": "Topic",
+  "followers": 261290,
+  "monthlyListeners": 19324983,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 405579,
+        "region": "NH"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 294012,
+        "region": "BE"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 291578,
+        "region": "ZH"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 272850,
+        "region": "ENG"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 255705,
+        "region": "HE"
+      }
+    ]
+  },
+  "worldRank": 379
+}

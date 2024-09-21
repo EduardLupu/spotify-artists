@@ -1,0 +1,41 @@
+{
+  "id": "51ZSh80McCt7vbqHouzW0A",
+  "name": "Yahritza Y Su Esencia",
+  "followers": 813664,
+  "monthlyListeners": 4790941,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 206648,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 192898,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 113632,
+        "region": "C"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 112578,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 110705,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

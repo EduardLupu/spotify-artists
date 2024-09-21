@@ -1,0 +1,41 @@
+{
+  "id": "5qrZ4EXMTVH4e6odErsQjb",
+  "name": "Murderdolls",
+  "followers": 194790,
+  "monthlyListeners": 170241,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 2564,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 2291,
+        "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 2022,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1826,
+        "region": "SP"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 1798,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

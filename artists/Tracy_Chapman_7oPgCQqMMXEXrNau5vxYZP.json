@@ -1,0 +1,41 @@
+{
+  "id": "7oPgCQqMMXEXrNau5vxYZP",
+  "name": "Tracy Chapman",
+  "followers": 1817267,
+  "monthlyListeners": 13796135,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 257377,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 218967,
+        "region": "RM"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 208169,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 208074,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 195262,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1hCkSJcXREhrodeIHQdav8",
+  "name": "Ramin Djawadi",
+  "followers": 659142,
+  "monthlyListeners": 3119163,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 49164,
+        "region": "IDF"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 44543,
+        "region": "ENG"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 35596,
+        "region": "34"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 29519,
+        "region": "BE"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 27907,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5JMLG56F1X5mFmWNmS0iAp",
+  "name": "Chelsea Cutler",
+  "followers": 716168,
+  "monthlyListeners": 5352794,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 154549,
+        "region": "JK"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 72883,
+        "region": ""
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 63883,
+        "region": "NSW"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 61654,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 58133,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

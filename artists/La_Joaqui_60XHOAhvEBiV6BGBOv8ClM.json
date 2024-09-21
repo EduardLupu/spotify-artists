@@ -1,0 +1,41 @@
+{
+  "id": "60XHOAhvEBiV6BGBOv8ClM",
+  "name": "La Joaqui",
+  "followers": 1863344,
+  "monthlyListeners": 7967279,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1199362,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 858732,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 535265,
+        "region": "B"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 262976,
+        "region": "X"
+      },
+      {
+        "city": "Montevideo",
+        "country": "UY",
+        "numberOfListeners": 200549,
+        "region": "MO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

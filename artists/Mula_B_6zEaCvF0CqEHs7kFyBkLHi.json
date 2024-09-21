@@ -1,0 +1,41 @@
+{
+  "id": "6zEaCvF0CqEHs7kFyBkLHi",
+  "name": "Mula B",
+  "followers": 229837,
+  "monthlyListeners": 920528,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 289220,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 234242,
+        "region": "ZH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 106337,
+        "region": "UT"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 59744,
+        "region": "BRU"
+      },
+      {
+        "city": "Amersfoort",
+        "country": "NL",
+        "numberOfListeners": 39857,
+        "region": "UT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

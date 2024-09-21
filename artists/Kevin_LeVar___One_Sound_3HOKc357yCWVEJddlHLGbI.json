@@ -1,0 +1,41 @@
+{
+  "id": "3HOKc357yCWVEJddlHLGbI",
+  "name": "Kevin LeVar & One Sound",
+  "followers": 15735,
+  "monthlyListeners": 122576,
+  "topCities": {
+    "items": [
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 4325,
+        "region": "GP"
+      },
+      {
+        "city": "Cape Town",
+        "country": "ZA",
+        "numberOfListeners": 3284,
+        "region": "WC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 3103,
+        "region": "ENG"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 2861,
+        "region": "LA"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 2627,
+        "region": "GA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

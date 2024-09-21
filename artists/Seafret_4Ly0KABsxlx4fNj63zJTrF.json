@@ -1,0 +1,41 @@
+{
+  "id": "4Ly0KABsxlx4fNj63zJTrF",
+  "name": "Seafret",
+  "followers": 982305,
+  "monthlyListeners": 10672003,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 612145,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 137108,
+        "region": "JB"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 135108,
+        "region": "SP"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 108620,
+        "region": "14"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 84653,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

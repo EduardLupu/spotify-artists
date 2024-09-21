@@ -1,0 +1,41 @@
+{
+  "id": "6DoH7ywD5BcQvjloe9OcIj",
+  "name": "Ray LaMontagne",
+  "followers": 1043162,
+  "monthlyListeners": 4510696,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 69750,
+        "region": "NSW"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 64735,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 63033,
+        "region": "IL"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 58229,
+        "region": "CO"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 56711,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

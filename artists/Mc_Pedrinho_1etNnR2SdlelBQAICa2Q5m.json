@@ -1,0 +1,41 @@
+{
+  "id": "1etNnR2SdlelBQAICa2Q5m",
+  "name": "Mc Pedrinho",
+  "followers": 4628255,
+  "monthlyListeners": 5698128,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 899241,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 241394,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 231677,
+        "region": "PR"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 220892,
+        "region": "RJ"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 217146,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

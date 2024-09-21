@@ -1,0 +1,41 @@
+{
+  "id": "6v19P1N5sEhOnyVK6zasl1",
+  "name": "Haze",
+  "followers": 28813,
+  "monthlyListeners": 21567,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 1909,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 620,
+        "region": "27"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 321,
+        "region": "CA"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 256,
+        "region": "13"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 235,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

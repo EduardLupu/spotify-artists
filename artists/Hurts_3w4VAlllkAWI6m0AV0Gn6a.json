@@ -1,0 +1,41 @@
+{
+  "id": "3w4VAlllkAWI6m0AV0Gn6a",
+  "name": "Hurts",
+  "followers": 351531,
+  "monthlyListeners": 6042825,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 95716,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 79904,
+        "region": "CMX"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 78752,
+        "region": "SP"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 77548,
+        "region": "BE"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 74235,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

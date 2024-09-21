@@ -1,0 +1,41 @@
+{
+  "id": "66W9LaWS0DPdL7Sz8iYGYe",
+  "name": "JP Saxe",
+  "followers": 525003,
+  "monthlyListeners": 6940474,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 233340,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 83271,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 70988,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 68878,
+        "region": "ENG"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 64015,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 0
+}

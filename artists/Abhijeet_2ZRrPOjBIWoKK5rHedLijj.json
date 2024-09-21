@@ -1,0 +1,41 @@
+{
+  "id": "2ZRrPOjBIWoKK5rHedLijj",
+  "name": "Abhijeet",
+  "followers": 4797457,
+  "monthlyListeners": 9873211,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1033059,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 985982,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 734654,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 596068,
+        "region": "DL"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 576579,
+        "region": "WB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

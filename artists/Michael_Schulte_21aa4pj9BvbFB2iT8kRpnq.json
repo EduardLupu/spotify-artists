@@ -1,0 +1,41 @@
+{
+  "id": "21aa4pj9BvbFB2iT8kRpnq",
+  "name": "Michael Schulte",
+  "followers": 331205,
+  "monthlyListeners": 4691721,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 122203,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 100294,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 88225,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 84520,
+        "region": "BY"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 73045,
+        "region": "9"
+      }
+    ]
+  },
+  "worldRank": 0
+}

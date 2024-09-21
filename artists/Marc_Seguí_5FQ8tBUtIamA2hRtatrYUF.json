@@ -1,0 +1,41 @@
+{
+  "id": "5FQ8tBUtIamA2hRtatrYUF",
+  "name": "Marc Seguí",
+  "followers": 163240,
+  "monthlyListeners": 7044441,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 313611,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 288952,
+        "region": "LMA"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 197207,
+        "region": "MD"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 196288,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 193007,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

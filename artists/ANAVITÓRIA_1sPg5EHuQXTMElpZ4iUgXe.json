@@ -1,0 +1,41 @@
+{
+  "id": "1sPg5EHuQXTMElpZ4iUgXe",
+  "name": "ANAVITÓRIA",
+  "followers": 6759083,
+  "monthlyListeners": 5309289,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 833948,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 365026,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 261523,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 187880,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 187829,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

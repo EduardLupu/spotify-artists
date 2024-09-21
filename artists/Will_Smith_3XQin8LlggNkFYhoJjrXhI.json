@@ -1,0 +1,41 @@
+{
+  "id": "3XQin8LlggNkFYhoJjrXhI",
+  "name": "Will Smith",
+  "followers": 41,
+  "monthlyListeners": 14,
+  "topCities": {
+    "items": [
+      {
+        "city": "Devizes",
+        "country": "GB",
+        "numberOfListeners": 1,
+        "region": "ENG"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 1,
+        "region": "GP"
+      },
+      {
+        "city": "San Antonio",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "TX"
+      },
+      {
+        "city": "Grand Rapids",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "MI"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

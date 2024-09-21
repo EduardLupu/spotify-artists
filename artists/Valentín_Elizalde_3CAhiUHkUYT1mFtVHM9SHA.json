@@ -1,0 +1,41 @@
+{
+  "id": "3CAhiUHkUYT1mFtVHM9SHA",
+  "name": "Valentín Elizalde",
+  "followers": 3527543,
+  "monthlyListeners": 5434440,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 522841,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 303130,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 212548,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 208311,
+        "region": "PUE"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 206621,
+        "region": "QUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

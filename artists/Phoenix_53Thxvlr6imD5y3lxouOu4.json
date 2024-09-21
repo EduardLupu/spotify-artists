@@ -1,0 +1,41 @@
+{
+  "id": "53Thxvlr6imD5y3lxouOu4",
+  "name": "Phoenix",
+  "followers": 20893,
+  "monthlyListeners": 33818,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bucharest",
+        "country": "RO",
+        "numberOfListeners": 9145,
+        "region": "B"
+      },
+      {
+        "city": "Cluj-Napoca",
+        "country": "RO",
+        "numberOfListeners": 2838,
+        "region": "CJ"
+      },
+      {
+        "city": "Timișoara",
+        "country": "RO",
+        "numberOfListeners": 1911,
+        "region": "TM"
+      },
+      {
+        "city": "Brasov",
+        "country": "RO",
+        "numberOfListeners": 1666,
+        "region": "BV"
+      },
+      {
+        "city": "Iasi",
+        "country": "RO",
+        "numberOfListeners": 1454,
+        "region": "IS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

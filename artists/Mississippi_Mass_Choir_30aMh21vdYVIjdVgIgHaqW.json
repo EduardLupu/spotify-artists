@@ -1,0 +1,41 @@
+{
+  "id": "30aMh21vdYVIjdVgIgHaqW",
+  "name": "Mississippi Mass Choir",
+  "followers": 190187,
+  "monthlyListeners": 96922,
+  "topCities": {
+    "items": [
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 3798,
+        "region": "NC"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 3683,
+        "region": "GA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 2841,
+        "region": "TX"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 2646,
+        "region": "TX"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 2188,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

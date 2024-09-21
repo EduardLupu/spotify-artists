@@ -1,0 +1,41 @@
+{
+  "id": "03r4iKL2g2442PT9n2UKsx",
+  "name": "Beastie Boys",
+  "followers": 2891951,
+  "monthlyListeners": 7914213,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 118313,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 109078,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 103733,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 103443,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 98350,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

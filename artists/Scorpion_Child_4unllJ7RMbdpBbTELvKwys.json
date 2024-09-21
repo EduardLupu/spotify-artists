@@ -1,0 +1,41 @@
+{
+  "id": "4unllJ7RMbdpBbTELvKwys",
+  "name": "Scorpion Child",
+  "followers": 17447,
+  "monthlyListeners": 17891,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 189,
+        "region": "18"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 185,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 178,
+        "region": "SP"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 174,
+        "region": "AB"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 161,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

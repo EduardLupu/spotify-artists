@@ -1,0 +1,41 @@
+{
+  "id": "5MouCg6ta7zAxsfMEbc1uh",
+  "name": "OMI",
+  "followers": 629456,
+  "monthlyListeners": 10986422,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 474597,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 132830,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 124624,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 121728,
+        "region": "ENG"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 105235,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

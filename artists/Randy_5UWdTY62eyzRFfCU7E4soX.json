@@ -1,0 +1,41 @@
+{
+  "id": "5UWdTY62eyzRFfCU7E4soX",
+  "name": "Randy",
+  "followers": 2874,
+  "monthlyListeners": 1807,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 269,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 69,
+        "region": "BRU"
+      },
+      {
+        "city": "Rennes",
+        "country": "FR",
+        "numberOfListeners": 69,
+        "region": "BRE"
+      },
+      {
+        "city": "Nantes",
+        "country": "FR",
+        "numberOfListeners": 52,
+        "region": "PDL"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 45,
+        "region": "ARA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

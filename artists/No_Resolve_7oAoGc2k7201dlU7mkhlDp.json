@@ -1,0 +1,41 @@
+{
+  "id": "7oAoGc2k7201dlU7mkhlDp",
+  "name": "No Resolve",
+  "followers": 323847,
+  "monthlyListeners": 1004218,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 12435,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 12097,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 11590,
+        "region": "QLD"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 11343,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 10574,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

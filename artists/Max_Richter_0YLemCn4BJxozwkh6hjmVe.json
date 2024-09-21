@@ -1,0 +1,41 @@
+{
+  "id": "0YLemCn4BJxozwkh6hjmVe",
+  "name": "Max Richter",
+  "followers": 30,
+  "monthlyListeners": 82,
+  "topCities": {
+    "items": [
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 3,
+        "region": "QC"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 3,
+        "region": "14"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 2,
+        "region": "CMX"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 2,
+        "region": "25"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "NC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

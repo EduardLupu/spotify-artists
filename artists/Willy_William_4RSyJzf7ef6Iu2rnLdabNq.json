@@ -1,0 +1,41 @@
+{
+  "id": "4RSyJzf7ef6Iu2rnLdabNq",
+  "name": "Willy William",
+  "followers": 250324,
+  "monthlyListeners": 8171772,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 113469,
+        "region": "IDF"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 98375,
+        "region": "34"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 89579,
+        "region": "NH"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 80095,
+        "region": "25"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 77028,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

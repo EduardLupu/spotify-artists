@@ -1,0 +1,41 @@
+{
+  "id": "7uMh23xWiuR7zsNkuNcm2G",
+  "name": "MNEK",
+  "followers": 293275,
+  "monthlyListeners": 10122999,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 255366,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 120471,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 110821,
+        "region": "NH"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 105774,
+        "region": "L"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 98907,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

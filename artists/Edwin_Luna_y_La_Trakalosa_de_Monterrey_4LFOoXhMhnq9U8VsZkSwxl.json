@@ -1,0 +1,41 @@
+{
+  "id": "4LFOoXhMhnq9U8VsZkSwxl",
+  "name": "Edwin Luna y La Trakalosa de Monterrey",
+  "followers": 3905430,
+  "monthlyListeners": 5253294,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 505034,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 258419,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 218668,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 218417,
+        "region": "PUE"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 194071,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3OeiVlod8F8Lq4jUcqfTJu",
+  "name": "Kévin",
+  "followers": 271,
+  "monthlyListeners": 177,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 12,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 9,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 8,
+        "region": "72"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 8,
+        "region": "BRU"
+      },
+      {
+        "city": "Catania",
+        "country": "IT",
+        "numberOfListeners": 7,
+        "region": "82"
+      }
+    ]
+  },
+  "worldRank": 0
+}

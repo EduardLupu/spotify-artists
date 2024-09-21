@@ -1,0 +1,41 @@
+{
+  "id": "3WqMJLyZPvXO42XfMqn52f",
+  "name": "Rin",
+  "followers": 87,
+  "monthlyListeners": 726,
+  "topCities": {
+    "items": [
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 118,
+        "region": "AB"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 91,
+        "region": "CA"
+      },
+      {
+        "city": "Tower Hamlets",
+        "country": "GB",
+        "numberOfListeners": 71,
+        "region": "ENG"
+      },
+      {
+        "city": "Bern",
+        "country": "CH",
+        "numberOfListeners": 67,
+        "region": "BE"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 64,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

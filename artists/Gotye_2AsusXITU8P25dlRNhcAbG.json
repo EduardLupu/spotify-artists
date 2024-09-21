@@ -1,0 +1,41 @@
+{
+  "id": "2AsusXITU8P25dlRNhcAbG",
+  "name": "Gotye",
+  "followers": 2191257,
+  "monthlyListeners": 18040854,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 291965,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 257296,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 254897,
+        "region": "VIC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 216792,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 211893,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 427
+}

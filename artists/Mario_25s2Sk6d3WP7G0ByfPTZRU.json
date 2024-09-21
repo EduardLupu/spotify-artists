@@ -1,0 +1,41 @@
+{
+  "id": "25s2Sk6d3WP7G0ByfPTZRU",
+  "name": "Mario",
+  "followers": 6627,
+  "monthlyListeners": 191313,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 44242,
+        "region": "14"
+      },
+      {
+        "city": "Poznan",
+        "country": "PL",
+        "numberOfListeners": 15310,
+        "region": "30"
+      },
+      {
+        "city": "Krakow",
+        "country": "PL",
+        "numberOfListeners": 14901,
+        "region": "12"
+      },
+      {
+        "city": "Katowice",
+        "country": "PL",
+        "numberOfListeners": 13692,
+        "region": "24"
+      },
+      {
+        "city": "Wroclaw",
+        "country": "PL",
+        "numberOfListeners": 11826,
+        "region": "02"
+      }
+    ]
+  },
+  "worldRank": 0
+}

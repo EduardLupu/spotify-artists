@@ -1,0 +1,41 @@
+{
+  "id": "7opp16lU7VM3l2WBdGMYHP",
+  "name": "Héctor Lavoe",
+  "followers": 2060135,
+  "monthlyListeners": 4306896,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 494267,
+        "region": "DC"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 249700,
+        "region": "ANT"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 223759,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 209380,
+        "region": "LMA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 177140,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

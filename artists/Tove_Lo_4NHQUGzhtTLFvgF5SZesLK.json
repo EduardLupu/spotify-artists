@@ -1,0 +1,41 @@
+{
+  "id": "4NHQUGzhtTLFvgF5SZesLK",
+  "name": "Tove Lo",
+  "followers": 3619027,
+  "monthlyListeners": 14239857,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 234471,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 209882,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 183554,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 183174,
+        "region": "VIC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 143497,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

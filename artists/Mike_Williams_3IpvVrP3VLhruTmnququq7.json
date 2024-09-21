@@ -1,0 +1,41 @@
+{
+  "id": "3IpvVrP3VLhruTmnququq7",
+  "name": "Mike Williams",
+  "followers": 364012,
+  "monthlyListeners": 1724562,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 27881,
+        "region": "NH"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 20668,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 20570,
+        "region": "HH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 20308,
+        "region": "ZH"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 18147,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

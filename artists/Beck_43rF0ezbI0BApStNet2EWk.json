@@ -1,0 +1,41 @@
+{
+  "id": "43rF0ezbI0BApStNet2EWk",
+  "name": "Beck",
+  "followers": 90,
+  "monthlyListeners": 13213,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 5081,
+        "region": "10"
+      },
+      {
+        "city": "Ho Chi Minh City",
+        "country": "VN",
+        "numberOfListeners": 675,
+        "region": "SG"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 652,
+        "region": "TPE"
+      },
+      {
+        "city": "Chiang Mai",
+        "country": "TH",
+        "numberOfListeners": 486,
+        "region": "50"
+      },
+      {
+        "city": "Hanoi",
+        "country": "VN",
+        "numberOfListeners": 470,
+        "region": "HN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

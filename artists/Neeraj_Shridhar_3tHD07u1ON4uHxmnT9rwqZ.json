@@ -1,0 +1,41 @@
+{
+  "id": "3tHD07u1ON4uHxmnT9rwqZ",
+  "name": "Neeraj Shridhar",
+  "followers": 2183355,
+  "monthlyListeners": 9186881,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 965718,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 849140,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 635835,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 533923,
+        "region": "DL"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 498098,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

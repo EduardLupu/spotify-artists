@@ -1,0 +1,41 @@
+{
+  "id": "4luZExkmgn39Kj5XsYWria",
+  "name": "Jagwar Twin",
+  "followers": 246092,
+  "monthlyListeners": 3238415,
+  "topCities": {
+    "items": [
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 29928,
+        "region": "10"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 27155,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 24922,
+        "region": "SP"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 23956,
+        "region": "14"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 23688,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

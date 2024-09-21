@@ -1,0 +1,41 @@
+{
+  "id": "1aVONoJ0EM97BB26etc1vo",
+  "name": "Steve Reich",
+  "followers": 234787,
+  "monthlyListeners": 150650,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 4240,
+        "region": "ENG"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 2693,
+        "region": "NY"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 2442,
+        "region": "NY"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 2434,
+        "region": "IDF"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 2151,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1fUSLFr4WUBx7joEcGwpvG",
+  "name": "Sorriso Maroto",
+  "followers": 3071568,
+  "monthlyListeners": 8157984,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1578089,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 877618,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 475492,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 402952,
+        "region": "SP"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 365844,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

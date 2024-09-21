@@ -1,0 +1,41 @@
+{
+  "id": "0xOeVMOz2fVg5BJY3N6akT",
+  "name": "Jaden",
+  "followers": 1930362,
+  "monthlyListeners": 3555032,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 47903,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 44261,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 43190,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 42890,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 41444,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

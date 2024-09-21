@@ -1,0 +1,41 @@
+{
+  "id": "1Q2ifiLn6HWlRAlycDOsvk",
+  "name": "Oliver Shanti & Friends",
+  "followers": 45194,
+  "monthlyListeners": 122695,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 3399,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1598,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1335,
+        "region": "CMX"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 1148,
+        "region": "BE"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 1028,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

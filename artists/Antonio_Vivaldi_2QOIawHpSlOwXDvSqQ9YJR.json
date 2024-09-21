@@ -1,0 +1,41 @@
+{
+  "id": "2QOIawHpSlOwXDvSqQ9YJR",
+  "name": "Antonio Vivaldi",
+  "followers": 2540307,
+  "monthlyListeners": 6229535,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 87368,
+        "region": "IDF"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 79094,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 70428,
+        "region": "RM"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 64013,
+        "region": "34"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 60332,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

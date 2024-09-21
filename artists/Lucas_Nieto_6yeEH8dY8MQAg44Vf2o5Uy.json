@@ -1,0 +1,41 @@
+{
+  "id": "6yeEH8dY8MQAg44Vf2o5Uy",
+  "name": "Lucas Nieto",
+  "followers": 3738,
+  "monthlyListeners": 8972,
+  "topCities": {
+    "items": [
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 788,
+        "region": "GU"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 359,
+        "region": "01"
+      },
+      {
+        "city": "Managua",
+        "country": "NI",
+        "numberOfListeners": 250,
+        "region": "MN"
+      },
+      {
+        "city": "San Salvador",
+        "country": "SV",
+        "numberOfListeners": 221,
+        "region": "SS"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 197,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

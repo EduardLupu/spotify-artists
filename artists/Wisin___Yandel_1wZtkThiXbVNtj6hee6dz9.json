@@ -1,0 +1,41 @@
+{
+  "id": "1wZtkThiXbVNtj6hee6dz9",
+  "name": "Wisin & Yandel",
+  "followers": 7689558,
+  "monthlyListeners": 19557871,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1380680,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 957735,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 872403,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 641293,
+        "region": "LMA"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 506331,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 375
+}

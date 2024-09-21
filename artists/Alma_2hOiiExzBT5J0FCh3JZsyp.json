@@ -1,0 +1,41 @@
+{
+  "id": "2hOiiExzBT5J0FCh3JZsyp",
+  "name": "Alma",
+  "followers": 1887,
+  "monthlyListeners": 2586,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 284,
+        "region": "MD"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 241,
+        "region": "9"
+      },
+      {
+        "city": "Tower Hamlets",
+        "country": "GB",
+        "numberOfListeners": 222,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 184,
+        "region": "CA"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 93,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6mdVQvlAoyqpPcakFvVVnz",
+  "name": "Robi",
+  "followers": 4064,
+  "monthlyListeners": 31695,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sofia",
+        "country": "BG",
+        "numberOfListeners": 20170,
+        "region": "22"
+      },
+      {
+        "city": "Varna",
+        "country": "BG",
+        "numberOfListeners": 3222,
+        "region": "03"
+      },
+      {
+        "city": "Burgas",
+        "country": "BG",
+        "numberOfListeners": 1084,
+        "region": "02"
+      },
+      {
+        "city": "Plovdiv",
+        "country": "BG",
+        "numberOfListeners": 1030,
+        "region": "16"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 472,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

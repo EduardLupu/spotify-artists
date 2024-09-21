@@ -1,0 +1,41 @@
+{
+  "id": "4F4pp8NUW08JuXwnoxglpN",
+  "name": "Bad Gyal",
+  "followers": 1781387,
+  "monthlyListeners": 9992331,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 503470,
+        "region": "RM"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 497220,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 355565,
+        "region": "CT"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 249667,
+        "region": "DC"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 242319,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "60fXvfp04ZchKZ0jEefADd",
+  "name": "Vangakuz",
+  "followers": 1750,
+  "monthlyListeners": 44174,
+  "topCities": {
+    "items": [
+      {
+        "city": "Ho Chi Minh City",
+        "country": "VN",
+        "numberOfListeners": 4838,
+        "region": "SG"
+      },
+      {
+        "city": "Hanoi",
+        "country": "VN",
+        "numberOfListeners": 3486,
+        "region": "HN"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 708,
+        "region": "JK"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 524,
+        "region": ""
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 459,
+        "region": "13"
+      }
+    ]
+  },
+  "worldRank": 0
+}

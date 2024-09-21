@@ -1,0 +1,41 @@
+{
+  "id": "4xd7mLI7urqrxELaXhAvzw",
+  "name": "Shekhar Ravjiani",
+  "followers": 893613,
+  "monthlyListeners": 12180949,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1191768,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1046665,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 793694,
+        "region": "DL"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 696947,
+        "region": "KA"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 663587,
+        "region": "DL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

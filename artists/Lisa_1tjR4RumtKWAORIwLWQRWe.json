@@ -1,0 +1,41 @@
+{
+  "id": "1tjR4RumtKWAORIwLWQRWe",
+  "name": "Lisa",
+  "followers": 3539,
+  "monthlyListeners": 18369,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 1144,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 812,
+        "region": "ZH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 466,
+        "region": "UT"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 201,
+        "region": "03"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 189,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

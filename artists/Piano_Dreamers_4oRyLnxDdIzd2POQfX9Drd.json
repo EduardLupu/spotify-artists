@@ -1,0 +1,41 @@
+{
+  "id": "4oRyLnxDdIzd2POQfX9Drd",
+  "name": "Piano Dreamers",
+  "followers": 25856,
+  "monthlyListeners": 252647,
+  "topCities": {
+    "items": [
+      {
+        "city": "Ho Chi Minh City",
+        "country": "VN",
+        "numberOfListeners": 2928,
+        "region": "SG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 2583,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 2285,
+        "region": "NSW"
+      },
+      {
+        "city": "Hanoi",
+        "country": "VN",
+        "numberOfListeners": 2059,
+        "region": "HN"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1956,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4wa8dxT1K4bvQRxPiv99VY",
+  "name": "KK",
+  "followers": 5177,
+  "monthlyListeners": 68067,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 9988,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 2834,
+        "region": "27"
+      },
+      {
+        "city": "Nagoya",
+        "country": "JP",
+        "numberOfListeners": 1247,
+        "region": "23"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1247,
+        "region": "JK"
+      },
+      {
+        "city": "Yokohama",
+        "country": "JP",
+        "numberOfListeners": 1243,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5mnS9jJdKQQcRSqFu5YPVe",
+  "name": "Auli'i Cravalho",
+  "followers": 167690,
+  "monthlyListeners": 5341952,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 111224,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 98932,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 84703,
+        "region": "VIC"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 74764,
+        "region": "JK"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 60020,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

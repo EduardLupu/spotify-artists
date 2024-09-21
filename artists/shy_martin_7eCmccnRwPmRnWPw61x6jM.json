@@ -1,0 +1,41 @@
+{
+  "id": "7eCmccnRwPmRnWPw61x6jM",
+  "name": "shy martin",
+  "followers": 298690,
+  "monthlyListeners": 1001956,
+  "topCities": {
+    "items": [
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 22078,
+        "region": ""
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 20698,
+        "region": "TPE"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 20113,
+        "region": "JK"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 12877,
+        "region": "13"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 12399,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

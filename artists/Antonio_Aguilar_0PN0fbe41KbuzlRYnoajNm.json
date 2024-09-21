@@ -1,0 +1,41 @@
+{
+  "id": "0PN0fbe41KbuzlRYnoajNm",
+  "name": "Antonio Aguilar",
+  "followers": 3353680,
+  "monthlyListeners": 5495655,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 437446,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 286974,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 207034,
+        "region": "QUE"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 186105,
+        "region": "DC"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 181852,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

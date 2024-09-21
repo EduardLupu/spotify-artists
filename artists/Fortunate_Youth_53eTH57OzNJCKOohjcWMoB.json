@@ -1,0 +1,41 @@
+{
+  "id": "53eTH57OzNJCKOohjcWMoB",
+  "name": "Fortunate Youth",
+  "followers": 119364,
+  "monthlyListeners": 189408,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 6202,
+        "region": "CA"
+      },
+      {
+        "city": "San Diego",
+        "country": "US",
+        "numberOfListeners": 3505,
+        "region": "CA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 3323,
+        "region": "CO"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 3319,
+        "region": "AZ"
+      },
+      {
+        "city": "Sacramento",
+        "country": "US",
+        "numberOfListeners": 3209,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

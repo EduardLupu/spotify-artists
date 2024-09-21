@@ -1,0 +1,41 @@
+{
+  "id": "0LALueHEQunQ2d61fXGeZh",
+  "name": "Diego Torres",
+  "followers": 2236374,
+  "monthlyListeners": 4878503,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 293718,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 244620,
+        "region": "C"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 209556,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 192089,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 177105,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

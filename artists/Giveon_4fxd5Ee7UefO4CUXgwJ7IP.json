@@ -1,0 +1,41 @@
+{
+  "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+  "name": "Giveon",
+  "followers": 4053378,
+  "monthlyListeners": 23749557,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 600714,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 307430,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 307051,
+        "region": "SP"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 266176,
+        "region": "LA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 265402,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 253
+}

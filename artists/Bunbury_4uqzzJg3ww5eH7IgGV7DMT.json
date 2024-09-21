@@ -1,0 +1,41 @@
+{
+  "id": "4uqzzJg3ww5eH7IgGV7DMT",
+  "name": "Bunbury",
+  "followers": 2695343,
+  "monthlyListeners": 3802162,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 450084,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 197126,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 177292,
+        "region": "JAL"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 175862,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 152675,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

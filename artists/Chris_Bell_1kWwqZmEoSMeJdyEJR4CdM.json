@@ -1,0 +1,41 @@
+{
+  "id": "1kWwqZmEoSMeJdyEJR4CdM",
+  "name": "Chris Bell",
+  "followers": 428,
+  "monthlyListeners": 618,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 14,
+        "region": "NY"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 13,
+        "region": "MD"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 11,
+        "region": "PA"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 11,
+        "region": "NY"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 10,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5KNNVgR6LBIABRIomyCwKJ",
+  "name": "Dermot Kennedy",
+  "followers": 1562698,
+  "monthlyListeners": 9892608,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 266388,
+        "region": "ENG"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 207951,
+        "region": "L"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 188824,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 157386,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 120484,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

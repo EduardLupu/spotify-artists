@@ -1,0 +1,41 @@
+{
+  "id": "7kplJl06UmldxLKseURAYi",
+  "name": "Warren Zeiders",
+  "followers": 748236,
+  "monthlyListeners": 8163037,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 169406,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 163810,
+        "region": "IL"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 151405,
+        "region": "QC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 150511,
+        "region": "QLD"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 149949,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

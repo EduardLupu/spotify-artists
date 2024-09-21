@@ -1,0 +1,41 @@
+{
+  "id": "66jXx36aLzGTIuq8XgVOqG",
+  "name": "YK",
+  "followers": 3146,
+  "monthlyListeners": 2239,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 174,
+        "region": "ENG"
+      },
+      {
+        "city": "Cairo",
+        "country": "EG",
+        "numberOfListeners": 94,
+        "region": "C"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 61,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 60,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 51,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

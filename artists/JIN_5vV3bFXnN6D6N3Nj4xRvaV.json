@@ -1,0 +1,41 @@
+{
+  "id": "5vV3bFXnN6D6N3Nj4xRvaV",
+  "name": "JIN",
+  "followers": 8150826,
+  "monthlyListeners": 2226430,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 84630,
+        "region": "JK"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 46246,
+        "region": "10"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 31821,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 29395,
+        "region": "CMX"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 27852,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

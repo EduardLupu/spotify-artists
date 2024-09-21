@@ -1,0 +1,41 @@
+{
+  "id": "5xkAtLTf309LAGZTbvULBn",
+  "name": "Ruel",
+  "followers": 1913425,
+  "monthlyListeners": 3319566,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 91938,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 81728,
+        "region": "VIC"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 79195,
+        "region": "JK"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 57244,
+        "region": "QLD"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 56259,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

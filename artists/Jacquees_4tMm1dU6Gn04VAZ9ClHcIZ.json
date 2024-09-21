@@ -1,0 +1,41 @@
+{
+  "id": "4tMm1dU6Gn04VAZ9ClHcIZ",
+  "name": "Jacquees",
+  "followers": 2973957,
+  "monthlyListeners": 5428481,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 101632,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 94864,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 82984,
+        "region": "SP"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 74833,
+        "region": "CA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 70099,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

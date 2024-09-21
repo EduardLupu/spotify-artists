@@ -1,0 +1,41 @@
+{
+  "id": "4zTtJRHQFj0F4TdlvGzcv9",
+  "name": "Nitro",
+  "followers": 602,
+  "monthlyListeners": 195,
+  "topCities": {
+    "items": [
+      {
+        "city": "Porto Velho",
+        "country": "BR",
+        "numberOfListeners": 47,
+        "region": "RO"
+      },
+      {
+        "city": "Manaus",
+        "country": "BR",
+        "numberOfListeners": 19,
+        "region": "AM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 19,
+        "region": "SP"
+      },
+      {
+        "city": "Campo Grande",
+        "country": "BR",
+        "numberOfListeners": 13,
+        "region": "MS"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 12,
+        "region": "RJ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

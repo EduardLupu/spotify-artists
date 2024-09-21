@@ -1,0 +1,41 @@
+{
+  "id": "0TeVa4xdLB8vdzjsvKH6Ri",
+  "name": "Anahí",
+  "followers": 768837,
+  "monthlyListeners": 4454566,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 307231,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 138716,
+        "region": "LMA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 133444,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 129879,
+        "region": "DC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 118188,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "17NeD1lVAkc9Yx9HgTsppS",
+  "name": "M.I.A.",
+  "followers": 263,
+  "monthlyListeners": 485,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 35,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 27,
+        "region": "HH"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 26,
+        "region": "9"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 21,
+        "region": "HE"
+      },
+      {
+        "city": "Cologne",
+        "country": "DE",
+        "numberOfListeners": 18,
+        "region": "NW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "29kkCKKGXheHuoO829FxWK",
+  "name": "Boston",
+  "followers": 2809971,
+  "monthlyListeners": 7547722,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 96569,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 87557,
+        "region": "IL"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 86014,
+        "region": "ON"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 83908,
+        "region": "VIC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 79368,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

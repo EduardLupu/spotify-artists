@@ -1,0 +1,41 @@
+{
+  "id": "5NGO30tJxFlKixkPSgXcFE",
+  "name": "The Police",
+  "followers": 6327012,
+  "monthlyListeners": 30343862,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 621777,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 538293,
+        "region": "SP"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 430487,
+        "region": "CMX"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 346832,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 346193,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 155
+}

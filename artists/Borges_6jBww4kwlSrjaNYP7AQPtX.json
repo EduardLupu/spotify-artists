@@ -1,0 +1,41 @@
+{
+  "id": "6jBww4kwlSrjaNYP7AQPtX",
+  "name": "Borges",
+  "followers": 1454935,
+  "monthlyListeners": 6117839,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1042286,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 626249,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 309609,
+        "region": "MG"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 216457,
+        "region": "RS"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 215831,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

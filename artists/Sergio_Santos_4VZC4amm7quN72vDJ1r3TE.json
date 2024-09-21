@@ -1,0 +1,41 @@
+{
+  "id": "4VZC4amm7quN72vDJ1r3TE",
+  "name": "Sergio Santos",
+  "followers": 1445,
+  "monthlyListeners": 4244,
+  "topCities": {
+    "items": [
+      {
+        "city": "Budapest",
+        "country": "HU",
+        "numberOfListeners": 230,
+        "region": "BU"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 186,
+        "region": "MD"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 153,
+        "region": "25"
+      },
+      {
+        "city": "Tower Hamlets",
+        "country": "GB",
+        "numberOfListeners": 127,
+        "region": "ENG"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 121,
+        "region": "62"
+      }
+    ]
+  },
+  "worldRank": 0
+}

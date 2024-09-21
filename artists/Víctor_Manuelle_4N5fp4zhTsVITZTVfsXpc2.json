@@ -1,0 +1,41 @@
+{
+  "id": "4N5fp4zhTsVITZTVfsXpc2",
+  "name": "Víctor Manuelle",
+  "followers": 1993749,
+  "monthlyListeners": 3898854,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 452849,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 250200,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 222171,
+        "region": "CMX"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 206140,
+        "region": "ANT"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 146227,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

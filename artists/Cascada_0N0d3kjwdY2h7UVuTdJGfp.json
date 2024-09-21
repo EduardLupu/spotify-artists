@@ -1,0 +1,41 @@
+{
+  "id": "0N0d3kjwdY2h7UVuTdJGfp",
+  "name": "Cascada",
+  "followers": 542460,
+  "monthlyListeners": 9130624,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 156539,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 156304,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 136590,
+        "region": "VIC"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 97799,
+        "region": "BE"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 97067,
+        "region": "18"
+      }
+    ]
+  },
+  "worldRank": 0
+}

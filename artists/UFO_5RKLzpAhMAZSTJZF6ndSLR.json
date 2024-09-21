@@ -1,0 +1,41 @@
+{
+  "id": "5RKLzpAhMAZSTJZF6ndSLR",
+  "name": "UFO",
+  "followers": 26,
+  "monthlyListeners": 45,
+  "topCities": {
+    "items": [
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 3,
+        "region": "00"
+      },
+      {
+        "city": "Kaunas",
+        "country": "LT",
+        "numberOfListeners": 2,
+        "region": "KU"
+      },
+      {
+        "city": "Mülheim",
+        "country": "DE",
+        "numberOfListeners": 1,
+        "region": "NW"
+      },
+      {
+        "city": "Calamba",
+        "country": "PH",
+        "numberOfListeners": 1,
+        "region": "40"
+      },
+      {
+        "city": "Cabanatuan City",
+        "country": "PH",
+        "numberOfListeners": 1,
+        "region": "03"
+      }
+    ]
+  },
+  "worldRank": 0
+}

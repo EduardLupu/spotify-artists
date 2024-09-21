@@ -1,0 +1,41 @@
+{
+  "id": "6kBjAFKyd0he7LiA5GQ3Gz",
+  "name": "Aqua",
+  "followers": 640775,
+  "monthlyListeners": 9930052,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 144805,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 126535,
+        "region": "RM"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 125836,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 100698,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 99403,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

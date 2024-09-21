@@ -1,0 +1,41 @@
+{
+  "id": "4YXycRbyyAE0wozTk7QMEq",
+  "name": "Matoma",
+  "followers": 712982,
+  "monthlyListeners": 4937815,
+  "topCities": {
+    "items": [
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 126765,
+        "region": "03"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 81539,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 77132,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 61264,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 56195,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

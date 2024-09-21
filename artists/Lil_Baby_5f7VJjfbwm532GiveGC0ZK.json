@@ -1,0 +1,41 @@
+{
+  "id": "5f7VJjfbwm532GiveGC0ZK",
+  "name": "Lil Baby",
+  "followers": 18534335,
+  "monthlyListeners": 32926088,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 676846,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 490615,
+        "region": "IL"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 459783,
+        "region": "ON"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 454365,
+        "region": "NSW"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 441811,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 128
+}

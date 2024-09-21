@@ -1,0 +1,41 @@
+{
+  "id": "49UAapOfpOg1ZOU4xf2NgY",
+  "name": "Noyz Narcos",
+  "followers": 817892,
+  "monthlyListeners": 1683572,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 458991,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 222795,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 67323,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 66885,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 53046,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0VZTVVWxTYnuC90abMZ74Y",
+  "name": "Gathering of Nations Pow Wow",
+  "followers": 4445,
+  "monthlyListeners": 10062,
+  "topCities": {
+    "items": [
+      {
+        "city": "Calgary",
+        "country": "CA",
+        "numberOfListeners": 485,
+        "region": "AB"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 356,
+        "region": "AZ"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 347,
+        "region": "ON"
+      },
+      {
+        "city": "Edmonton",
+        "country": "CA",
+        "numberOfListeners": 301,
+        "region": "AB"
+      },
+      {
+        "city": "Vancouver",
+        "country": "CA",
+        "numberOfListeners": 274,
+        "region": "BC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

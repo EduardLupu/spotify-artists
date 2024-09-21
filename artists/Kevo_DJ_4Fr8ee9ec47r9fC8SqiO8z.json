@@ -1,0 +1,41 @@
+{
+  "id": "4Fr8ee9ec47r9fC8SqiO8z",
+  "name": "Kevo DJ",
+  "followers": 149316,
+  "monthlyListeners": 661519,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 115581,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 46154,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 41697,
+        "region": "B"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 16679,
+        "region": "X"
+      },
+      {
+        "city": "Montevideo",
+        "country": "UY",
+        "numberOfListeners": 15931,
+        "region": "MO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

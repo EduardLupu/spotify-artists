@@ -1,0 +1,41 @@
+{
+  "id": "0IxgA9wO4Op3CSnPlhfwV1",
+  "name": "Kevin",
+  "followers": 179144,
+  "monthlyListeners": 936989,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 379320,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 313374,
+        "region": "ZH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 145792,
+        "region": "UT"
+      },
+      {
+        "city": "Amersfoort",
+        "country": "NL",
+        "numberOfListeners": 57211,
+        "region": "UT"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 54120,
+        "region": "BRU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

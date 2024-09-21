@@ -1,0 +1,41 @@
+{
+  "id": "1Cc4Wj8QgebS9K7NitQ1c9",
+  "name": "Day",
+  "followers": 5530,
+  "monthlyListeners": 6682,
+  "topCities": {
+    "items": [
+      {
+        "city": "Budapest",
+        "country": "HU",
+        "numberOfListeners": 4491,
+        "region": "BU"
+      },
+      {
+        "city": "Bratislava",
+        "country": "SK",
+        "numberOfListeners": 130,
+        "region": "BL"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 107,
+        "region": "9"
+      },
+      {
+        "city": "Győr",
+        "country": "HU",
+        "numberOfListeners": 84,
+        "region": "GS"
+      },
+      {
+        "city": "Debrecen",
+        "country": "HU",
+        "numberOfListeners": 72,
+        "region": "HB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

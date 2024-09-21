@@ -1,0 +1,41 @@
+{
+  "id": "6YHEMoNPbcheiWS2haGzkn",
+  "name": "Michael Bolton",
+  "followers": 2222919,
+  "monthlyListeners": 4266998,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 111925,
+        "region": "JK"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 87334,
+        "region": "RM"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 75520,
+        "region": "00"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 56329,
+        "region": "GP"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 52667,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

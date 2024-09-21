@@ -1,0 +1,41 @@
+{
+  "id": "3Wb38LDP3N4tkobValgE9D",
+  "name": "Juanka",
+  "followers": 876069,
+  "monthlyListeners": 2137481,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 374726,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 69531,
+        "region": "C"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 64093,
+        "region": "DC"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 63442,
+        "region": "MD"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 62934,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

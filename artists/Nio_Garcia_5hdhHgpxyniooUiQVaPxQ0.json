@@ -1,0 +1,41 @@
+{
+  "id": "5hdhHgpxyniooUiQVaPxQ0",
+  "name": "Nio Garcia",
+  "followers": 5303543,
+  "monthlyListeners": 12070737,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 650117,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 407938,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 396314,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 338044,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 277599,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

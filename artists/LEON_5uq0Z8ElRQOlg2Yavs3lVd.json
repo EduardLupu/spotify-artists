@@ -1,0 +1,41 @@
+{
+  "id": "5uq0Z8ElRQOlg2Yavs3lVd",
+  "name": "LEON",
+  "followers": 12220,
+  "monthlyListeners": 36257,
+  "topCities": {
+    "items": [
+      {
+        "city": "Seoul",
+        "country": "KR",
+        "numberOfListeners": 2235,
+        "region": "11"
+      },
+      {
+        "city": "Gangnam-gu",
+        "country": "KR",
+        "numberOfListeners": 1303,
+        "region": "11"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 1296,
+        "region": "10"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 987,
+        "region": "TPE"
+      },
+      {
+        "city": "Seocho-gu",
+        "country": "KR",
+        "numberOfListeners": 913,
+        "region": "11"
+      }
+    ]
+  },
+  "worldRank": 0
+}

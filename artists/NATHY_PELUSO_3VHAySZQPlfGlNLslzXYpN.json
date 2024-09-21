@@ -1,0 +1,41 @@
+{
+  "id": "3VHAySZQPlfGlNLslzXYpN",
+  "name": "NATHY PELUSO",
+  "followers": 1219862,
+  "monthlyListeners": 4798880,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 298977,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 234487,
+        "region": "RM"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 200729,
+        "region": "MD"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 158798,
+        "region": "B"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 153865,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "00sCATpEvwH48ays7PlQFU",
+  "name": "Jonita Gandhi",
+  "followers": 1276954,
+  "monthlyListeners": 16167956,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 1494359,
+        "region": "TN"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1273712,
+        "region": "MH"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 1060282,
+        "region": "KA"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1005512,
+        "region": "MH"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 981456,
+        "region": "TS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

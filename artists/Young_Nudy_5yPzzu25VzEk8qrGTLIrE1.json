@@ -1,0 +1,41 @@
+{
+  "id": "5yPzzu25VzEk8qrGTLIrE1",
+  "name": "Young Nudy",
+  "followers": 1516315,
+  "monthlyListeners": 7486849,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 140234,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 124870,
+        "region": "CA"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 124760,
+        "region": "GA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 113404,
+        "region": "TX"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 100503,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4YgUVg4p7xtMOrOS4GjiJZ",
+  "name": "Jatin-Lalit",
+  "followers": 358176,
+  "monthlyListeners": 13891095,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1435710,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1291097,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 989969,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 813208,
+        "region": "DL"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 698868,
+        "region": "WB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

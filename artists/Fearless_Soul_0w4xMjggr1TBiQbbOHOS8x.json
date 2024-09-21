@@ -1,0 +1,41 @@
+{
+  "id": "0w4xMjggr1TBiQbbOHOS8x",
+  "name": "Fearless Soul",
+  "followers": 135338,
+  "monthlyListeners": 356184,
+  "topCities": {
+    "items": [
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 12125,
+        "region": "00"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 9188,
+        "region": "JK"
+      },
+      {
+        "city": "Cebu City",
+        "country": "PH",
+        "numberOfListeners": 7329,
+        "region": "07"
+      },
+      {
+        "city": "Manila",
+        "country": "PH",
+        "numberOfListeners": 6716,
+        "region": "00"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 6659,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

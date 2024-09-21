@@ -1,0 +1,41 @@
+{
+  "id": "5fJsY7afrbsyzJj9wdzJMh",
+  "name": "Tito \"El Bambino\"",
+  "followers": 4010945,
+  "monthlyListeners": 8572226,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 823242,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 490852,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 445019,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 243807,
+        "region": "CMX"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 235824,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

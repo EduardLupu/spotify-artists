@@ -1,0 +1,41 @@
+{
+  "id": "0XFgyr4jwM0MGeZZW0VzA5",
+  "name": "DVRST",
+  "followers": 520492,
+  "monthlyListeners": 4469366,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 55529,
+        "region": "34"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 41419,
+        "region": "KA"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 40236,
+        "region": "MH"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 38756,
+        "region": "CMX"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 34553,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

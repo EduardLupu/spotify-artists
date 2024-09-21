@@ -1,0 +1,41 @@
+{
+  "id": "06psPjZwwhJgFFFLTj7aAh",
+  "name": "CVS",
+  "followers": 618,
+  "monthlyListeners": 618,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 76,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 35,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 35,
+        "region": "HE"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 29,
+        "region": "BW"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 17,
+        "region": "BY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3VtBF6CD0XUIu87CvSmZET",
+  "name": "Savage",
+  "followers": 50060,
+  "monthlyListeners": 104626,
+  "topCities": {
+    "items": [
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 9730,
+        "region": "DL"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 9485,
+        "region": "MH"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 7626,
+        "region": "DL"
+      },
+      {
+        "city": "Karachi",
+        "country": "PK",
+        "numberOfListeners": 6953,
+        "region": "SD"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 4425,
+        "region": "MH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

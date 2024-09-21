@@ -1,0 +1,41 @@
+{
+  "id": "5Y5TRrQiqgUO4S36tzjIRZ",
+  "name": "Timbaland",
+  "followers": 2943617,
+  "monthlyListeners": 21121578,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 330776,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 326431,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 282239,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 270541,
+        "region": "SP"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 214228,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 337
+}

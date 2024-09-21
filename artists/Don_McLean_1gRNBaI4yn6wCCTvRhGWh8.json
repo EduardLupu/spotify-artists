@@ -1,0 +1,41 @@
+{
+  "id": "1gRNBaI4yn6wCCTvRhGWh8",
+  "name": "Don McLean",
+  "followers": 1002451,
+  "monthlyListeners": 6260607,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 125846,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 108036,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 107113,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 90204,
+        "region": "QLD"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 69119,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

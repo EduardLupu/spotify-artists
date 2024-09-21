@@ -1,0 +1,41 @@
+{
+  "id": "59IZPHfed17Kn89v6knzSJ",
+  "name": "Ghost",
+  "followers": 4425,
+  "monthlyListeners": 2738,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 52,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 49,
+        "region": "ENG"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 49,
+        "region": "13"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 44,
+        "region": "NY"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 40,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

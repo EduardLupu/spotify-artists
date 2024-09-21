@@ -1,0 +1,41 @@
+{
+  "id": "0hCNtLu0JehylgoiP8L4Gh",
+  "name": "Nicki Minaj",
+  "followers": 32308263,
+  "monthlyListeners": 45498716,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 695367,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 606917,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 499393,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 475015,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 447775,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 58
+}

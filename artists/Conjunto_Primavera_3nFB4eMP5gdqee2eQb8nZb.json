@@ -1,0 +1,41 @@
+{
+  "id": "3nFB4eMP5gdqee2eQb8nZb",
+  "name": "Conjunto Primavera",
+  "followers": 3117320,
+  "monthlyListeners": 6130813,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 588202,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 330384,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 307794,
+        "region": "QUE"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 254201,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 243769,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0h1zs4CTlU9D2QtgPxptUD",
+  "name": "Ricardo Arjona",
+  "followers": 13084532,
+  "monthlyListeners": 8696694,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 535872,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 502824,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 338757,
+        "region": "DC"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 318741,
+        "region": "C"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 245420,
+        "region": "GU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

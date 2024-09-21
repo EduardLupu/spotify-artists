@@ -1,0 +1,41 @@
+{
+  "id": "1GIOCR8qzQuJwlnETPbyqa",
+  "name": "Gilli",
+  "followers": 38,
+  "monthlyListeners": 30,
+  "topCities": {
+    "items": [
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 11,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 6,
+        "region": "QLD"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 4,
+        "region": "NSW"
+      },
+      {
+        "city": "Copenhagen",
+        "country": "DK",
+        "numberOfListeners": 2,
+        "region": "84"
+      },
+      {
+        "city": "Sant Cugat del Vallès",
+        "country": "ES",
+        "numberOfListeners": 1,
+        "region": "CT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

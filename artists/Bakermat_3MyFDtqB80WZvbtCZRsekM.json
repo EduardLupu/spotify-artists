@@ -1,0 +1,41 @@
+{
+  "id": "3MyFDtqB80WZvbtCZRsekM",
+  "name": "Bakermat",
+  "followers": 444227,
+  "monthlyListeners": 11673098,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 254274,
+        "region": "IDF"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 196877,
+        "region": "NH"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 177611,
+        "region": "ENG"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 164890,
+        "region": "BE"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 149009,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

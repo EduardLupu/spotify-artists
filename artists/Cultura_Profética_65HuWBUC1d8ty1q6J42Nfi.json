@@ -1,0 +1,41 @@
+{
+  "id": "65HuWBUC1d8ty1q6J42Nfi",
+  "name": "Cultura Profética",
+  "followers": 1789716,
+  "monthlyListeners": 2210948,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 222065,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 166368,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 89125,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 88775,
+        "region": "LMA"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 76780,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

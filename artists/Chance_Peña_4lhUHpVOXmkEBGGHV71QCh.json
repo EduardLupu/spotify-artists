@@ -1,0 +1,41 @@
+{
+  "id": "4lhUHpVOXmkEBGGHV71QCh",
+  "name": "Chance Peña",
+  "followers": 391607,
+  "monthlyListeners": 12844901,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 195373,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 179887,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 161319,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 132633,
+        "region": "QLD"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 124986,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

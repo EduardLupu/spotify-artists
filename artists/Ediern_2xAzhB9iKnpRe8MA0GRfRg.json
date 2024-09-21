@@ -1,0 +1,41 @@
+{
+  "id": "2xAzhB9iKnpRe8MA0GRfRg",
+  "name": "Ediern",
+  "followers": 1037,
+  "monthlyListeners": 49235,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 3050,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 2071,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1777,
+        "region": "CMX"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1170,
+        "region": "C"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1015,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

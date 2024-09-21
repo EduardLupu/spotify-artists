@@ -1,0 +1,41 @@
+{
+  "id": "14zUHaJZo1mnYtn6IBRaRP",
+  "name": "Justin Quiles",
+  "followers": 4660343,
+  "monthlyListeners": 16345050,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 840374,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 815819,
+        "region": "DC"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 599255,
+        "region": "C"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 540813,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 534908,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 500
+}

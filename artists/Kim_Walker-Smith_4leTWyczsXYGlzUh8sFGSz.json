@@ -1,0 +1,41 @@
+{
+  "id": "4leTWyczsXYGlzUh8sFGSz",
+  "name": "Kim Walker-Smith",
+  "followers": 522924,
+  "monthlyListeners": 632840,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 10785,
+        "region": "SP"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 9498,
+        "region": "GP"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 8917,
+        "region": ""
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 8895,
+        "region": "TX"
+      },
+      {
+        "city": "Cape Town",
+        "country": "ZA",
+        "numberOfListeners": 6661,
+        "region": "WC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

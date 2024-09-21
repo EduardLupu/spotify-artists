@@ -1,0 +1,41 @@
+{
+  "id": "2kXKa3aAFngGz2P4GjG5w2",
+  "name": "SCH",
+  "followers": 2320111,
+  "monthlyListeners": 4263143,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 736144,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 184338,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 178094,
+        "region": "ARA"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 153265,
+        "region": "PAC"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 131782,
+        "region": "HDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

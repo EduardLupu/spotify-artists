@@ -1,0 +1,41 @@
+{
+  "id": "6Ss4rcW4OJbKeSug2s33Jg",
+  "name": "Whani Jansen",
+  "followers": 1300,
+  "monthlyListeners": 3921,
+  "topCities": {
+    "items": [
+      {
+        "city": "Cape Town",
+        "country": "ZA",
+        "numberOfListeners": 1743,
+        "region": "WC"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 536,
+        "region": "GP"
+      },
+      {
+        "city": "Durban",
+        "country": "ZA",
+        "numberOfListeners": 198,
+        "region": "KZN"
+      },
+      {
+        "city": "Pretoria",
+        "country": "ZA",
+        "numberOfListeners": 187,
+        "region": "GP"
+      },
+      {
+        "city": "Port Elizabeth",
+        "country": "ZA",
+        "numberOfListeners": 162,
+        "region": "EC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

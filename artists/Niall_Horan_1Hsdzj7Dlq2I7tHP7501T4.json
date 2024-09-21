@@ -1,0 +1,41 @@
+{
+  "id": "1Hsdzj7Dlq2I7tHP7501T4",
+  "name": "Niall Horan",
+  "followers": 9915295,
+  "monthlyListeners": 13573288,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 238430,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 223343,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 215330,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 185713,
+        "region": "VIC"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 182889,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

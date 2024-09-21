@@ -1,0 +1,41 @@
+{
+  "id": "7BMccF0hQFBpP6417k1OtQ",
+  "name": "Action Bronson",
+  "followers": 833656,
+  "monthlyListeners": 2004156,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 42223,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 36801,
+        "region": "NY"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 36065,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 34280,
+        "region": "IL"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 29326,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

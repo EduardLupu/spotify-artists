@@ -1,0 +1,41 @@
+{
+  "id": "6C8vPirDpnA5E9PUfn4RaW",
+  "name": "Aidan",
+  "followers": 8654,
+  "monthlyListeners": 125601,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 3563,
+        "region": "ENG"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 2547,
+        "region": "BE"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 2302,
+        "region": "CA"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 2109,
+        "region": "NY"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 2093,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

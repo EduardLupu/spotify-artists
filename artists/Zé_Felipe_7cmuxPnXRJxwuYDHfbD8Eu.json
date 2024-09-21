@@ -1,0 +1,41 @@
+{
+  "id": "7cmuxPnXRJxwuYDHfbD8Eu",
+  "name": "Zé Felipe",
+  "followers": 5026317,
+  "monthlyListeners": 9797467,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1277337,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 492432,
+        "region": "MG"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 415586,
+        "region": "RJ"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 381199,
+        "region": "PR"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 372412,
+        "region": "DF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "54R6Y0I7jGUCveDTtI21nb",
+  "name": "Boney M.",
+  "followers": 2061800,
+  "monthlyListeners": 14854529,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 214687,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 209112,
+        "region": "CMX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 174709,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 169242,
+        "region": "ENG"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 167010,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

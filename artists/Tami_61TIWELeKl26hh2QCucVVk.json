@@ -1,0 +1,41 @@
+{
+  "id": "61TIWELeKl26hh2QCucVVk",
+  "name": "Tami",
+  "followers": 42,
+  "monthlyListeners": 22,
+  "topCities": {
+    "items": [
+      {
+        "city": "Vancouver",
+        "country": "CA",
+        "numberOfListeners": 1,
+        "region": "BC"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 1,
+        "region": "L"
+      },
+      {
+        "city": "Copenhagen",
+        "country": "DK",
+        "numberOfListeners": 1,
+        "region": "84"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 1,
+        "region": "LMA"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 1,
+        "region": "BY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

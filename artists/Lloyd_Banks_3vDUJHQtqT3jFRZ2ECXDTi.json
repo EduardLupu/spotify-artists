@@ -1,0 +1,41 @@
+{
+  "id": "3vDUJHQtqT3jFRZ2ECXDTi",
+  "name": "Lloyd Banks",
+  "followers": 1364885,
+  "monthlyListeners": 2417646,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 46669,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 36923,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 36106,
+        "region": "ENG"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 30975,
+        "region": "ON"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 27994,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

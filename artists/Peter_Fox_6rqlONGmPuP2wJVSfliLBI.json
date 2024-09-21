@@ -1,0 +1,41 @@
+{
+  "id": "6rqlONGmPuP2wJVSfliLBI",
+  "name": "Peter Fox",
+  "followers": 1010085,
+  "monthlyListeners": 3277215,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 345422,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 242592,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 220338,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 199684,
+        "region": "BY"
+      },
+      {
+        "city": "Cologne",
+        "country": "DE",
+        "numberOfListeners": 159708,
+        "region": "NW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

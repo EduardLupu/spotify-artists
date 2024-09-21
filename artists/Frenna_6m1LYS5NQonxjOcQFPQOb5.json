@@ -1,0 +1,41 @@
+{
+  "id": "6m1LYS5NQonxjOcQFPQOb5",
+  "name": "Frenna",
+  "followers": 575776,
+  "monthlyListeners": 2257030,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 707510,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 582645,
+        "region": "ZH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 285497,
+        "region": "UT"
+      },
+      {
+        "city": "Amersfoort",
+        "country": "NL",
+        "numberOfListeners": 113045,
+        "region": "UT"
+      },
+      {
+        "city": "The Hague",
+        "country": "NL",
+        "numberOfListeners": 110072,
+        "region": "ZH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

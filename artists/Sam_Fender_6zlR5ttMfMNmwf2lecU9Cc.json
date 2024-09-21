@@ -1,0 +1,41 @@
+{
+  "id": "6zlR5ttMfMNmwf2lecU9Cc",
+  "name": "Sam Fender",
+  "followers": 912821,
+  "monthlyListeners": 4045862,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 391639,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 169929,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 133827,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 123920,
+        "region": "ENG"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 122911,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

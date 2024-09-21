@@ -1,0 +1,29 @@
+{
+  "id": "0e6FPxYaPyZe7u9lk10fAD",
+  "name": "Alida",
+  "followers": 26,
+  "monthlyListeners": 8,
+  "topCities": {
+    "items": [
+      {
+        "city": "Pretoria",
+        "country": "ZA",
+        "numberOfListeners": 3,
+        "region": "GP"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 3,
+        "region": "GP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

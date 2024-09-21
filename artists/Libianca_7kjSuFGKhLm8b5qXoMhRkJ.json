@@ -1,0 +1,41 @@
+{
+  "id": "7kjSuFGKhLm8b5qXoMhRkJ",
+  "name": "Libianca",
+  "followers": 500801,
+  "monthlyListeners": 8604719,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 352975,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 143895,
+        "region": "ENG"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 130365,
+        "region": "LA"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 118955,
+        "region": "NH"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 92853,
+        "region": "MH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

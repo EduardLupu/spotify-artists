@@ -1,0 +1,41 @@
+{
+  "id": "0hWfOMSs6CSqw6yF0oWWji",
+  "name": "Eiffel",
+  "followers": 805,
+  "monthlyListeners": 180,
+  "topCities": {
+    "items": [
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 26,
+        "region": "00"
+      },
+      {
+        "city": "Manila",
+        "country": "PH",
+        "numberOfListeners": 14,
+        "region": "00"
+      },
+      {
+        "city": "Bacoor",
+        "country": "PH",
+        "numberOfListeners": 7,
+        "region": "40"
+      },
+      {
+        "city": "Caloocan City",
+        "country": "PH",
+        "numberOfListeners": 6,
+        "region": "00"
+      },
+      {
+        "city": "Lipa City",
+        "country": "PH",
+        "numberOfListeners": 5,
+        "region": "40"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1gBUSTR3TyDdTVFIaQnc02",
+  "name": "NCT DREAM",
+  "followers": 7871762,
+  "monthlyListeners": 3525883,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 415293,
+        "region": "JK"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 151077,
+        "region": "10"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 96485,
+        "region": "13"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 96307,
+        "region": "JB"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 68282,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

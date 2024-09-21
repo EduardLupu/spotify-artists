@@ -1,0 +1,41 @@
+{
+  "id": "7Elcs2a06oqx52NQyJMT5o",
+  "name": "Crush",
+  "followers": 778,
+  "monthlyListeners": 363,
+  "topCities": {
+    "items": [
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 121,
+        "region": "9"
+      },
+      {
+        "city": "Graz",
+        "country": "AT",
+        "numberOfListeners": 26,
+        "region": "6"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 9,
+        "region": "BY"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 5,
+        "region": "BE"
+      },
+      {
+        "city": "Salzburg",
+        "country": "AT",
+        "numberOfListeners": 5,
+        "region": "5"
+      }
+    ]
+  },
+  "worldRank": 0
+}

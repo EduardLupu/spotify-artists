@@ -1,0 +1,41 @@
+{
+  "id": "28DdkLhrzQNizZ0ExQpyku",
+  "name": "Rizky Febian",
+  "followers": 6938449,
+  "monthlyListeners": 4960017,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 2001188,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 460226,
+        "region": "JB"
+      },
+      {
+        "city": "Makassar",
+        "country": "ID",
+        "numberOfListeners": 230058,
+        "region": "SN"
+      },
+      {
+        "city": "Surabaya",
+        "country": "ID",
+        "numberOfListeners": 184974,
+        "region": "JI"
+      },
+      {
+        "city": "Medan",
+        "country": "ID",
+        "numberOfListeners": 173412,
+        "region": "SU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

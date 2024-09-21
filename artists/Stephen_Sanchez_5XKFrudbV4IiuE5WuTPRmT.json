@@ -1,0 +1,41 @@
+{
+  "id": "5XKFrudbV4IiuE5WuTPRmT",
+  "name": "Stephen Sanchez",
+  "followers": 1537187,
+  "monthlyListeners": 21464382,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 819674,
+        "region": "JK"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 249868,
+        "region": "MH"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 218888,
+        "region": "KA"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 202551,
+        "region": "14"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 193333,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 327
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6ZK2nrW8aCTg8Bid7I7N10",
+  "name": "Chelsea Wolfe",
+  "followers": 321091,
+  "monthlyListeners": 426826,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 6078,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 5894,
+        "region": "CA"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 5071,
+        "region": "BE"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 4679,
+        "region": "IL"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 4628,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

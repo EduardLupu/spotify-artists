@@ -1,0 +1,41 @@
+{
+  "id": "5aHKxMwIrPVwy4m6FTOiXK",
+  "name": "Nivel",
+  "followers": 725650,
+  "monthlyListeners": 1885729,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 71842,
+        "region": "CMX"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 58317,
+        "region": "CA"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 53491,
+        "region": "JAL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 50971,
+        "region": "TX"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 42128,
+        "region": "QUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

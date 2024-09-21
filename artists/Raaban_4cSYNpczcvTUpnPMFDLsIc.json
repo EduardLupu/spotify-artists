@@ -1,0 +1,41 @@
+{
+  "id": "4cSYNpczcvTUpnPMFDLsIc",
+  "name": "Raaban",
+  "followers": 408265,
+  "monthlyListeners": 1896743,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 56019,
+        "region": "KA"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 45995,
+        "region": "AB"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 44375,
+        "region": "MH"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 40774,
+        "region": "TS"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 39227,
+        "region": "18"
+      }
+    ]
+  },
+  "worldRank": 0
+}

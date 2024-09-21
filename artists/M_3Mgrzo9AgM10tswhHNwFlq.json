@@ -1,0 +1,41 @@
+{
+  "id": "3Mgrzo9AgM10tswhHNwFlq",
+  "name": "M",
+  "followers": 6602,
+  "monthlyListeners": 4677,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 409,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 137,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 85,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 65,
+        "region": "HDF"
+      },
+      {
+        "city": "Nantes",
+        "country": "FR",
+        "numberOfListeners": 55,
+        "region": "PDL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

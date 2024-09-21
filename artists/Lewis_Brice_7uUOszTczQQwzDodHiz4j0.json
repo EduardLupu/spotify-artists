@@ -1,0 +1,41 @@
+{
+  "id": "7uUOszTczQQwzDodHiz4j0",
+  "name": "Lewis Brice",
+  "followers": 14072,
+  "monthlyListeners": 85007,
+  "topCities": {
+    "items": [
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 2186,
+        "region": "QLD"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 2118,
+        "region": "NSW"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 1370,
+        "region": "QC"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 1315,
+        "region": "ON"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1250,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

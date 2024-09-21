@@ -1,0 +1,41 @@
+{
+  "id": "6LFTNZ2LbcYDP3Vm86fxba",
+  "name": "CALLE",
+  "followers": 80,
+  "monthlyListeners": 291,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 69,
+        "region": "18"
+      },
+      {
+        "city": "Copenhagen",
+        "country": "DK",
+        "numberOfListeners": 45,
+        "region": "84"
+      },
+      {
+        "city": "Børkop",
+        "country": "DK",
+        "numberOfListeners": 24,
+        "region": "83"
+      },
+      {
+        "city": "Frederiksberg",
+        "country": "DK",
+        "numberOfListeners": 20,
+        "region": "84"
+      },
+      {
+        "city": "Vejle",
+        "country": "DK",
+        "numberOfListeners": 20,
+        "region": "83"
+      }
+    ]
+  },
+  "worldRank": 0
+}

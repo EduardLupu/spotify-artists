@@ -1,0 +1,41 @@
+{
+  "id": "43qxAkuKFB6fMNSeS5dO7Z",
+  "name": "Ana Bárbara",
+  "followers": 1472588,
+  "monthlyListeners": 6028925,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 383426,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 235369,
+        "region": "RM"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 199745,
+        "region": "JAL"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 152248,
+        "region": "PUE"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 148732,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

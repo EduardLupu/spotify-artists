@@ -1,0 +1,41 @@
+{
+  "id": "6sCbFbEjbYepqswM1vWjjs",
+  "name": "Zendaya",
+  "followers": 4814924,
+  "monthlyListeners": 13946272,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 235400,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 178616,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 177874,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 156625,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 155824,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

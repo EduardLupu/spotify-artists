@@ -1,0 +1,41 @@
+{
+  "id": "0MCa0kFazck9HMH39eiPX8",
+  "name": "Raekwon",
+  "followers": 40,
+  "monthlyListeners": 272,
+  "topCities": {
+    "items": [
+      {
+        "city": "Riverside",
+        "country": "US",
+        "numberOfListeners": 23,
+        "region": "CA"
+      },
+      {
+        "city": "Hemet",
+        "country": "US",
+        "numberOfListeners": 18,
+        "region": "CA"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 15,
+        "region": "CA"
+      },
+      {
+        "city": "San Diego",
+        "country": "US",
+        "numberOfListeners": 8,
+        "region": "CA"
+      },
+      {
+        "city": "Ontario",
+        "country": "US",
+        "numberOfListeners": 8,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

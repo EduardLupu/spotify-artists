@@ -1,0 +1,41 @@
+{
+  "id": "4aFjkvXJvZCBDIbHESP4qi",
+  "name": "Carnage",
+  "followers": 30939,
+  "monthlyListeners": 10169,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 196,
+        "region": "RM"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 176,
+        "region": "18"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 150,
+        "region": "AB"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 141,
+        "region": "CA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 118,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

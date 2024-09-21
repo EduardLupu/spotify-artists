@@ -1,0 +1,41 @@
+{
+  "id": "22wbnEMDvgVIAGdFeek6ET",
+  "name": "Benson Boone",
+  "followers": 3559696,
+  "monthlyListeners": 52262276,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 894860,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 827590,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 761249,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 636258,
+        "region": "VIC"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 597781,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 45
+}

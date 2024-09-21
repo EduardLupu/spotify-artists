@@ -1,0 +1,41 @@
+{
+  "id": "7H6dkUChT5EoOQtUVMg4cN",
+  "name": "Hunter Hayes",
+  "followers": 1240417,
+  "monthlyListeners": 1676023,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 27038,
+        "region": "IL"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 21492,
+        "region": "00"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 21053,
+        "region": "TX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 20791,
+        "region": "NSW"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 19568,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

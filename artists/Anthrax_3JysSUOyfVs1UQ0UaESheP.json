@@ -1,0 +1,41 @@
+{
+  "id": "3JysSUOyfVs1UQ0UaESheP",
+  "name": "Anthrax",
+  "followers": 1699671,
+  "monthlyListeners": 1183520,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 28213,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 22044,
+        "region": "SP"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 12896,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 12180,
+        "region": "CMX"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 12083,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

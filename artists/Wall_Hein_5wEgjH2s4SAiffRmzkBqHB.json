@@ -1,0 +1,41 @@
+{
+  "id": "5wEgjH2s4SAiffRmzkBqHB",
+  "name": "Wall Hein",
+  "followers": 43201,
+  "monthlyListeners": 6874540,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1347491,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 487050,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 351999,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 309068,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 277447,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

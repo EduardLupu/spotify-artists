@@ -1,0 +1,41 @@
+{
+  "id": "3ZaN3OJQczXodUgJ0I95nt",
+  "name": "Sean",
+  "followers": 1290,
+  "monthlyListeners": 9163,
+  "topCities": {
+    "items": [
+      {
+        "city": "Nairobi",
+        "country": "KE",
+        "numberOfListeners": 391,
+        "region": "30"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 242,
+        "region": "LA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 240,
+        "region": "ENG"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 237,
+        "region": "IDF"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 236,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3r17AfJCCUqC9Lf0OAc73G",
+  "name": "Fergie",
+  "followers": 5771718,
+  "monthlyListeners": 12316079,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 208868,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 191254,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 176479,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 157384,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 145145,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

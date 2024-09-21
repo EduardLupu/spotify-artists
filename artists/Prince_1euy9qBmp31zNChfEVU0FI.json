@@ -1,0 +1,41 @@
+{
+  "id": "1euy9qBmp31zNChfEVU0FI",
+  "name": "Prince",
+  "followers": 2029,
+  "monthlyListeners": 6307,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 1431,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 767,
+        "region": "62"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 262,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 147,
+        "region": "52"
+      },
+      {
+        "city": "Bologna",
+        "country": "IT",
+        "numberOfListeners": 142,
+        "region": "45"
+      }
+    ]
+  },
+  "worldRank": 0
+}

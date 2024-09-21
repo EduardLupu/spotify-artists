@@ -1,0 +1,41 @@
+{
+  "id": "5lYeiQxUTcGKVgAuTqbTeL",
+  "name": "Charles Ans",
+  "followers": 1738468,
+  "monthlyListeners": 4006106,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 509583,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 275049,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 253276,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 220580,
+        "region": "JAL"
+      },
+      {
+        "city": "Cuauhtémoc",
+        "country": "MX",
+        "numberOfListeners": 200273,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

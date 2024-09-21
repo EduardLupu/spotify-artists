@@ -1,0 +1,41 @@
+{
+  "id": "1oKdM70mJD8VvDOTKeS8t1",
+  "name": "Emily Warren",
+  "followers": 59186,
+  "monthlyListeners": 1039055,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 39511,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 31629,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 28074,
+        "region": "QLD"
+      },
+      {
+        "city": "Perth",
+        "country": "AU",
+        "numberOfListeners": 16603,
+        "region": "WA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 13298,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

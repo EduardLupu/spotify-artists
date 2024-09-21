@@ -1,0 +1,41 @@
+{
+  "id": "5fImuTQJzqe9lEV2rcmL8p",
+  "name": "Sdp",
+  "followers": 92,
+  "monthlyListeners": 198,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 84,
+        "region": "MD"
+      },
+      {
+        "city": "Boadilla del Monte",
+        "country": "ES",
+        "numberOfListeners": 24,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 19,
+        "region": "CT"
+      },
+      {
+        "city": "Valencia",
+        "country": "ES",
+        "numberOfListeners": 5,
+        "region": "VC"
+      },
+      {
+        "city": "Las Rozas de Madrid",
+        "country": "ES",
+        "numberOfListeners": 4,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

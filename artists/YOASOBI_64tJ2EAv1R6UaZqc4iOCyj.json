@@ -1,0 +1,41 @@
+{
+  "id": "64tJ2EAv1R6UaZqc4iOCyj",
+  "name": "YOASOBI",
+  "followers": 8275522,
+  "monthlyListeners": 7974826,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 922705,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 356156,
+        "region": "27"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 287947,
+        "region": "JK"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 167208,
+        "region": "13"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 152567,
+        "region": "TPE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

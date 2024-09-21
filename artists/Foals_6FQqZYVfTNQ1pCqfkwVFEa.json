@@ -1,0 +1,41 @@
+{
+  "id": "6FQqZYVfTNQ1pCqfkwVFEa",
+  "name": "Foals",
+  "followers": 1418043,
+  "monthlyListeners": 3065474,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 142900,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 57344,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 52258,
+        "region": "VIC"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 51288,
+        "region": "ENG"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 46327,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

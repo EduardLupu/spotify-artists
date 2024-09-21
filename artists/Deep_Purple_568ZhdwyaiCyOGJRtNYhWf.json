@@ -1,0 +1,41 @@
+{
+  "id": "568ZhdwyaiCyOGJRtNYhWf",
+  "name": "Deep Purple",
+  "followers": 5595787,
+  "monthlyListeners": 6350377,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 158109,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 133746,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 81040,
+        "region": "CMX"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 63865,
+        "region": "JK"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 56293,
+        "region": "RJ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

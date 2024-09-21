@@ -1,0 +1,41 @@
+{
+  "id": "5XenQ7XfcvQdfIbpLEFaKQ",
+  "name": "GoldLink",
+  "followers": 903899,
+  "monthlyListeners": 5752600,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 131858,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 96451,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 86332,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 84423,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 78734,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

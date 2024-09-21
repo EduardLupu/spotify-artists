@@ -1,0 +1,41 @@
+{
+  "id": "48R2gYdPKtfnfKAzhSVPUx",
+  "name": "Migrantes",
+  "followers": 438218,
+  "monthlyListeners": 4882811,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 716139,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 327502,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 301574,
+        "region": "B"
+      },
+      {
+        "city": "Montevideo",
+        "country": "UY",
+        "numberOfListeners": 167027,
+        "region": "MO"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 157019,
+        "region": "X"
+      }
+    ]
+  },
+  "worldRank": 0
+}

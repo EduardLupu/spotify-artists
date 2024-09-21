@@ -1,0 +1,41 @@
+{
+  "id": "7hJcb9fa4alzcOq3EaNPoG",
+  "name": "Snoop Dogg",
+  "followers": 12469681,
+  "monthlyListeners": 28841864,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 468698,
+        "region": "SP"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 361212,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 350661,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 347163,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 339362,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 172
+}

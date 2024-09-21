@@ -1,0 +1,41 @@
+{
+  "id": "3NRFinRTEqUCfaTTZmk8ek",
+  "name": "Savage Garden",
+  "followers": 1342822,
+  "monthlyListeners": 6723882,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 185370,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 129439,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 117967,
+        "region": "VIC"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 111224,
+        "region": "00"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 100682,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

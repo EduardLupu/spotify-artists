@@ -1,0 +1,41 @@
+{
+  "id": "0GOx72r5AAEKRGQFn3xqXK",
+  "name": "GIMS",
+  "followers": 4801405,
+  "monthlyListeners": 14772886,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 1418864,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 422654,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 310046,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 247825,
+        "region": "HDF"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 242799,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

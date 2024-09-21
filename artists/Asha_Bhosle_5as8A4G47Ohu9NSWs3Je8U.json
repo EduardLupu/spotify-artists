@@ -1,0 +1,41 @@
+{
+  "id": "5as8A4G47Ohu9NSWs3Je8U",
+  "name": "Asha Bhosle",
+  "followers": 7930917,
+  "monthlyListeners": 10019288,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1058891,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 963278,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 703605,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 579443,
+        "region": "DL"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 490760,
+        "region": "WB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

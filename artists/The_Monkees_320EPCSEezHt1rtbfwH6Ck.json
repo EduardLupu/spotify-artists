@@ -1,0 +1,41 @@
+{
+  "id": "320EPCSEezHt1rtbfwH6Ck",
+  "name": "The Monkees",
+  "followers": 1221256,
+  "monthlyListeners": 6115527,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 110862,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 102834,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 89832,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 72512,
+        "region": "QLD"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 57355,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

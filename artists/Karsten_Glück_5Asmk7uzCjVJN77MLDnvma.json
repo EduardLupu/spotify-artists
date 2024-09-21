@@ -1,0 +1,41 @@
+{
+  "id": "5Asmk7uzCjVJN77MLDnvma",
+  "name": "Karsten Glück",
+  "followers": 21651,
+  "monthlyListeners": 2030656,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 186153,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 143308,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 123061,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 117219,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 91738,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7B4hKK0S9QYnaoqa9OuwgX",
+  "name": "Eazy-E",
+  "followers": 6118451,
+  "monthlyListeners": 4159104,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 74798,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 62249,
+        "region": "NSW"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 48928,
+        "region": "AZ"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 48054,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 47345,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

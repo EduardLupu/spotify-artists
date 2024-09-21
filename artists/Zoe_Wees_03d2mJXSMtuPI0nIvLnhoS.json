@@ -1,0 +1,41 @@
+{
+  "id": "03d2mJXSMtuPI0nIvLnhoS",
+  "name": "Zoe Wees",
+  "followers": 491820,
+  "monthlyListeners": 5952668,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 117255,
+        "region": "JK"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 83490,
+        "region": "BE"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 76154,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 71469,
+        "region": "NH"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 68057,
+        "region": "HH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

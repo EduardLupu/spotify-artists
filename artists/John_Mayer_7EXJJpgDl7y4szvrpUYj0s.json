@@ -1,0 +1,41 @@
+{
+  "id": "7EXJJpgDl7y4szvrpUYj0s",
+  "name": "John Mayer",
+  "followers": 2996,
+  "monthlyListeners": 2529,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 49,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 34,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 26,
+        "region": "VIC"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 24,
+        "region": "IDF"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 23,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

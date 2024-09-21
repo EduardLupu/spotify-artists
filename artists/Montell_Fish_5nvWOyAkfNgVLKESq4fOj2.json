@@ -1,0 +1,41 @@
+{
+  "id": "5nvWOyAkfNgVLKESq4fOj2",
+  "name": "Montell Fish",
+  "followers": 1691862,
+  "monthlyListeners": 12673188,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 186302,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 143599,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 143326,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 123308,
+        "region": "VIC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 114035,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

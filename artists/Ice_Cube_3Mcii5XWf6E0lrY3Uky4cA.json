@@ -1,0 +1,41 @@
+{
+  "id": "3Mcii5XWf6E0lrY3Uky4cA",
+  "name": "Ice Cube",
+  "followers": 8987727,
+  "monthlyListeners": 14469158,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 215704,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 192796,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 185434,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 162585,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 157288,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

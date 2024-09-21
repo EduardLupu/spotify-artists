@@ -1,0 +1,41 @@
+{
+  "id": "757aE44tKEUQEqRuT6GnEB",
+  "name": "Roddy Ricch",
+  "followers": 10841951,
+  "monthlyListeners": 19725313,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 279734,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 239828,
+        "region": "NSW"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 229228,
+        "region": "LA"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 218580,
+        "region": "ON"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 217963,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 371
+}

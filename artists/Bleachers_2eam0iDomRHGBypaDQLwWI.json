@@ -1,0 +1,41 @@
+{
+  "id": "2eam0iDomRHGBypaDQLwWI",
+  "name": "Bleachers",
+  "followers": 761229,
+  "monthlyListeners": 8563799,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 184334,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 116883,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 113221,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 102911,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 90821,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

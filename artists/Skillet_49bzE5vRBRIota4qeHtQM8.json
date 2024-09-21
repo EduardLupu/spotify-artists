@@ -1,0 +1,41 @@
+{
+  "id": "49bzE5vRBRIota4qeHtQM8",
+  "name": "Skillet",
+  "followers": 5265869,
+  "monthlyListeners": 9906961,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 149145,
+        "region": "SP"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 97823,
+        "region": "IL"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 92720,
+        "region": "10"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 85238,
+        "region": "TX"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 77319,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

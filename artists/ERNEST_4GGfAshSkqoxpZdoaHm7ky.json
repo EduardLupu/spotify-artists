@@ -1,0 +1,41 @@
+{
+  "id": "4GGfAshSkqoxpZdoaHm7ky",
+  "name": "ERNEST",
+  "followers": 185064,
+  "monthlyListeners": 12614881,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 258646,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 237267,
+        "region": "NSW"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 215169,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 211964,
+        "region": "NC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 204624,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

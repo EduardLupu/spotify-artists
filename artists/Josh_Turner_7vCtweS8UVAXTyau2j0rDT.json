@@ -1,0 +1,41 @@
+{
+  "id": "7vCtweS8UVAXTyau2j0rDT",
+  "name": "Josh Turner",
+  "followers": 2619719,
+  "monthlyListeners": 5205594,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 79410,
+        "region": "TX"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 76277,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 75785,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 67906,
+        "region": "QLD"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 65658,
+        "region": "NC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

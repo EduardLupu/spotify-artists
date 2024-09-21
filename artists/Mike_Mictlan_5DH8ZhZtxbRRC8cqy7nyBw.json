@@ -1,0 +1,41 @@
+{
+  "id": "5DH8ZhZtxbRRC8cqy7nyBw",
+  "name": "Mike Mictlan",
+  "followers": 7046,
+  "monthlyListeners": 7101,
+  "topCities": {
+    "items": [
+      {
+        "city": "Minneapolis",
+        "country": "US",
+        "numberOfListeners": 369,
+        "region": "MN"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 228,
+        "region": "CO"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 154,
+        "region": "WA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 142,
+        "region": "IL"
+      },
+      {
+        "city": "Saint Paul",
+        "country": "US",
+        "numberOfListeners": 137,
+        "region": "MN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

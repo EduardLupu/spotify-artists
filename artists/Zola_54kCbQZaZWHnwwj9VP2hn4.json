@@ -1,0 +1,41 @@
+{
+  "id": "54kCbQZaZWHnwwj9VP2hn4",
+  "name": "Zola",
+  "followers": 2269562,
+  "monthlyListeners": 2869742,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 496834,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 135612,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 109327,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 96994,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 76871,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

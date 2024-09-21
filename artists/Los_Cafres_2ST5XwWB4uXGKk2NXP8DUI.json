@@ -1,0 +1,41 @@
+{
+  "id": "2ST5XwWB4uXGKk2NXP8DUI",
+  "name": "Los Cafres",
+  "followers": 1413680,
+  "monthlyListeners": 2396997,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 274738,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 173798,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 120337,
+        "region": "B"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 111766,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 85826,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

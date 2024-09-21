@@ -1,0 +1,41 @@
+{
+  "id": "5eIbEEQnDM8yuDVB0bimSP",
+  "name": "RL Grime",
+  "followers": 428026,
+  "monthlyListeners": 1819563,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 40191,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 39666,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 34305,
+        "region": "NSW"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 31820,
+        "region": "NY"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 27582,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3pyrfwmUGt2MIRbhMY8iar",
+  "name": "Rei",
+  "followers": 881,
+  "monthlyListeners": 1117,
+  "topCities": {
+    "items": [
+      {
+        "city": "Seoul",
+        "country": "KR",
+        "numberOfListeners": 157,
+        "region": "11"
+      },
+      {
+        "city": "Seocho-gu",
+        "country": "KR",
+        "numberOfListeners": 64,
+        "region": "11"
+      },
+      {
+        "city": "Gangnam-gu",
+        "country": "KR",
+        "numberOfListeners": 64,
+        "region": "11"
+      },
+      {
+        "city": "Dongjak-gu",
+        "country": "KR",
+        "numberOfListeners": 35,
+        "region": "11"
+      },
+      {
+        "city": "Mapo-gu",
+        "country": "KR",
+        "numberOfListeners": 31,
+        "region": "11"
+      }
+    ]
+  },
+  "worldRank": 0
+}

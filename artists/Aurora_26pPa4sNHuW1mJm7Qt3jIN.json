@@ -1,0 +1,41 @@
+{
+  "id": "26pPa4sNHuW1mJm7Qt3jIN",
+  "name": "Aurora",
+  "followers": 778,
+  "monthlyListeners": 1226,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 49,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 30,
+        "region": "CMX"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 20,
+        "region": "CT"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 18,
+        "region": "DC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 15,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

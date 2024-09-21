@@ -1,0 +1,41 @@
+{
+  "id": "2UqRkW2wfEkZmyvKyTTv2W",
+  "name": "Ulises Bueno",
+  "followers": 1749956,
+  "monthlyListeners": 3487709,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 885175,
+        "region": "C"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 381902,
+        "region": "B"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 242561,
+        "region": "X"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 193412,
+        "region": "RM"
+      },
+      {
+        "city": "Montevideo",
+        "country": "UY",
+        "numberOfListeners": 118663,
+        "region": "MO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

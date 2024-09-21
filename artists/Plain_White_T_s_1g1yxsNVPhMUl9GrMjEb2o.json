@@ -1,0 +1,41 @@
+{
+  "id": "1g1yxsNVPhMUl9GrMjEb2o",
+  "name": "Plain White T's",
+  "followers": 1264191,
+  "monthlyListeners": 6168623,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 89287,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 85343,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 80706,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 64857,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 64358,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

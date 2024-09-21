@@ -1,0 +1,41 @@
+{
+  "id": "2dd5mrQZvg6SmahdgVKDzh",
+  "name": "PSY",
+  "followers": 1626909,
+  "monthlyListeners": 5447516,
+  "topCities": {
+    "items": [
+      {
+        "city": "Kochi",
+        "country": "IN",
+        "numberOfListeners": 73799,
+        "region": "KL"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 72342,
+        "region": "JK"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 65649,
+        "region": "RM"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 64730,
+        "region": "KA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 57749,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5C0a28Zdpuoz1bxHXRSPcD",
+  "name": "Sido",
+  "followers": 16,
+  "monthlyListeners": 138,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 10,
+        "region": "IDF"
+      },
+      {
+        "city": "Antananarivo",
+        "country": "MG",
+        "numberOfListeners": 7,
+        "region": ""
+      },
+      {
+        "city": "Toulouse",
+        "country": "FR",
+        "numberOfListeners": 5,
+        "region": "OCC"
+      },
+      {
+        "city": "Port Louis",
+        "country": "MU",
+        "numberOfListeners": 4,
+        "region": "PL"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 3,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

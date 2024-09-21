@@ -1,0 +1,41 @@
+{
+  "id": "40KlwpvpKEQtZTJgbml8lT",
+  "name": "Teoman",
+  "followers": 2387570,
+  "monthlyListeners": 2616510,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 884476,
+        "region": "34"
+      },
+      {
+        "city": "Ankara",
+        "country": "TR",
+        "numberOfListeners": 444563,
+        "region": "06"
+      },
+      {
+        "city": "Izmir",
+        "country": "TR",
+        "numberOfListeners": 348914,
+        "region": "35"
+      },
+      {
+        "city": "Bursa",
+        "country": "TR",
+        "numberOfListeners": 164842,
+        "region": "16"
+      },
+      {
+        "city": "Adana",
+        "country": "TR",
+        "numberOfListeners": 138191,
+        "region": "01"
+      }
+    ]
+  },
+  "worldRank": 0
+}

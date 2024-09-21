@@ -1,0 +1,41 @@
+{
+  "id": "5ZS223C6JyBfXasXxrRqOk",
+  "name": "Jhené Aiko",
+  "followers": 8248911,
+  "monthlyListeners": 12312701,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 280069,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 256132,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 198023,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 194818,
+        "region": "NSW"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 183796,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

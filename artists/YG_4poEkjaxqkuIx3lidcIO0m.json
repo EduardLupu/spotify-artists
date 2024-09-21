@@ -1,0 +1,41 @@
+{
+  "id": "4poEkjaxqkuIx3lidcIO0m",
+  "name": "YG",
+  "followers": 2030,
+  "monthlyListeners": 50221,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 4237,
+        "region": "CA"
+      },
+      {
+        "city": "Sacramento",
+        "country": "US",
+        "numberOfListeners": 1428,
+        "region": "CA"
+      },
+      {
+        "city": "San Diego",
+        "country": "US",
+        "numberOfListeners": 1085,
+        "region": "CA"
+      },
+      {
+        "city": "San Francisco",
+        "country": "US",
+        "numberOfListeners": 1080,
+        "region": "CA"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 1066,
+        "region": "AZ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

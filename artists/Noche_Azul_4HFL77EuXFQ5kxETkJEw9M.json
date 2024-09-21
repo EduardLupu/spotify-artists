@@ -1,0 +1,41 @@
+{
+  "id": "4HFL77EuXFQ5kxETkJEw9M",
+  "name": "Noche Azul",
+  "followers": 7604,
+  "monthlyListeners": 25260,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 11205,
+        "region": "LMA"
+      },
+      {
+        "city": "Bucaramanga",
+        "country": "CO",
+        "numberOfListeners": 2291,
+        "region": "SAN"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 2037,
+        "region": "DC"
+      },
+      {
+        "city": "Arequipa",
+        "country": "PE",
+        "numberOfListeners": 944,
+        "region": "ARE"
+      },
+      {
+        "city": "Trujillo",
+        "country": "PE",
+        "numberOfListeners": 917,
+        "region": "LAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

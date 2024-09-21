@@ -1,0 +1,41 @@
+{
+  "id": "32r72WOqqRO1DtSznId7Lr",
+  "name": "James Brown & The Famous Flames",
+  "followers": 190908,
+  "monthlyListeners": 3996749,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 53926,
+        "region": "IDF"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 46291,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 46171,
+        "region": "SP"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 45494,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 40343,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

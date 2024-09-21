@@ -1,0 +1,41 @@
+{
+  "id": "4eE1pndp9eq1epaeDM9ICV",
+  "name": "Ludovico Einaudi",
+  "followers": 443,
+  "monthlyListeners": 555557,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 10759,
+        "region": "ENG"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 9876,
+        "region": "25"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 8409,
+        "region": "NH"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 7224,
+        "region": "MD"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 6862,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

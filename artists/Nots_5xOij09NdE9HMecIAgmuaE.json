@@ -1,0 +1,41 @@
+{
+  "id": "5xOij09NdE9HMecIAgmuaE",
+  "name": "Nots",
+  "followers": 9702,
+  "monthlyListeners": 2522,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 83,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 52,
+        "region": "IL"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 44,
+        "region": "NY"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 42,
+        "region": "WA"
+      },
+      {
+        "city": "Austin",
+        "country": "US",
+        "numberOfListeners": 39,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

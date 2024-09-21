@@ -1,0 +1,41 @@
+{
+  "id": "40DQXauiaNYpGhbjFymaU0",
+  "name": "MAYNOR MORALES",
+  "followers": 16115,
+  "monthlyListeners": 23568,
+  "topCities": {
+    "items": [
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 10987,
+        "region": "GU"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 5751,
+        "region": "01"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 707,
+        "region": "NY"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 468,
+        "region": "TX"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 445,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

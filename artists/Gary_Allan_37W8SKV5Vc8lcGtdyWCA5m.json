@@ -1,0 +1,41 @@
+{
+  "id": "37W8SKV5Vc8lcGtdyWCA5m",
+  "name": "Gary Allan",
+  "followers": 1071595,
+  "monthlyListeners": 1704987,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 46466,
+        "region": "TX"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 33090,
+        "region": "IL"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 33050,
+        "region": "NC"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 31696,
+        "region": "TX"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 30493,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5nRScv1PP8JmmJsTj57xVe",
+  "name": "Léa",
+  "followers": 4616,
+  "monthlyListeners": 5213,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 660,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 269,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 134,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 98,
+        "region": "HDF"
+      },
+      {
+        "city": "Lausanne",
+        "country": "CH",
+        "numberOfListeners": 94,
+        "region": "VD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

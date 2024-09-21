@@ -1,0 +1,41 @@
+{
+  "id": "7d2zrxNfFzWB6Pe56SHrLi",
+  "name": "King",
+  "followers": 85,
+  "monthlyListeners": 145,
+  "topCities": {
+    "items": [
+      {
+        "city": "Kansas City",
+        "country": "US",
+        "numberOfListeners": 4,
+        "region": "MO"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 3,
+        "region": "13"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 2,
+        "region": "HE"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 2,
+        "region": "DC"
+      },
+      {
+        "city": "Perth",
+        "country": "AU",
+        "numberOfListeners": 2,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

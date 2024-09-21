@@ -1,0 +1,41 @@
+{
+  "id": "3YBJLs7RqR0aPGBgU27nDh",
+  "name": "Werenoi",
+  "followers": 1388191,
+  "monthlyListeners": 5120881,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 964431,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 221402,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 215684,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 186633,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 164343,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

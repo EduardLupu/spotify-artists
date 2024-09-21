@@ -1,0 +1,41 @@
+{
+  "id": "7FGMzt9SFKAX9ghTDCP4bt",
+  "name": "Shiva",
+  "followers": 1659,
+  "monthlyListeners": 404,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 41,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 13,
+        "region": "27"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 7,
+        "region": "18"
+      },
+      {
+        "city": "Nagoya",
+        "country": "JP",
+        "numberOfListeners": 6,
+        "region": "23"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 5,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

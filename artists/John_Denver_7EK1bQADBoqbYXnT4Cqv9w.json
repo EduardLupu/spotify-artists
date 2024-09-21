@@ -1,0 +1,41 @@
+{
+  "id": "7EK1bQADBoqbYXnT4Cqv9w",
+  "name": "John Denver",
+  "followers": 2262912,
+  "monthlyListeners": 10277375,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 267055,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 170178,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 140142,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 127252,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 124688,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

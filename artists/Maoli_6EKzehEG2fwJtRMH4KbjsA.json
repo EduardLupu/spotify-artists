@@ -1,0 +1,41 @@
+{
+  "id": "6EKzehEG2fwJtRMH4KbjsA",
+  "name": "Maoli",
+  "followers": 229256,
+  "monthlyListeners": 991947,
+  "topCities": {
+    "items": [
+      {
+        "city": "Auckland",
+        "country": "NZ",
+        "numberOfListeners": 79529,
+        "region": "AUK"
+      },
+      {
+        "city": "Honolulu",
+        "country": "US",
+        "numberOfListeners": 67577,
+        "region": "HI"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 39007,
+        "region": "QLD"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 35657,
+        "region": "NSW"
+      },
+      {
+        "city": "Hamilton",
+        "country": "NZ",
+        "numberOfListeners": 28176,
+        "region": "WKO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

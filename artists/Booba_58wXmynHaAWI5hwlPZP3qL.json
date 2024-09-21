@@ -1,0 +1,41 @@
+{
+  "id": "58wXmynHaAWI5hwlPZP3qL",
+  "name": "Booba",
+  "followers": 3091054,
+  "monthlyListeners": 3812012,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 792855,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 175652,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 167145,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 141417,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 123550,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

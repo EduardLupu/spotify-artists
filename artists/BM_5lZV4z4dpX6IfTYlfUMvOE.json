@@ -1,0 +1,41 @@
+{
+  "id": "5lZV4z4dpX6IfTYlfUMvOE",
+  "name": "BM",
+  "followers": 82286,
+  "monthlyListeners": 136581,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 2075,
+        "region": "10"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1617,
+        "region": "RM"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1609,
+        "region": "JK"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 1609,
+        "region": ""
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 1333,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

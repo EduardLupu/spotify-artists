@@ -1,0 +1,41 @@
+{
+  "id": "6kz53iCdBSqhQCZ21CoLcc",
+  "name": "Culture Club",
+  "followers": 1604781,
+  "monthlyListeners": 6635057,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 181525,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 100085,
+        "region": "SP"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 93053,
+        "region": "CMX"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 89492,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 75733,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

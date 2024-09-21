@@ -1,0 +1,41 @@
+{
+  "id": "5TILiJvjQ5cTSGQWxkmyee",
+  "name": "Zion",
+  "followers": 768,
+  "monthlyListeners": 419,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 10,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 8,
+        "region": "TX"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 6,
+        "region": "VIC"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 6,
+        "region": "RJ"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 6,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

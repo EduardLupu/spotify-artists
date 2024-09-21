@@ -1,0 +1,41 @@
+{
+  "id": "3RwQ26hR2tJtA8F9p2n7jG",
+  "name": "The Temptations",
+  "followers": 2998276,
+  "monthlyListeners": 10813481,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 153502,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 149264,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 144513,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 120009,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 112865,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

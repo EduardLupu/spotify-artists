@@ -1,0 +1,41 @@
+{
+  "id": "58r1rB5t3VF5X6yXGPequV",
+  "name": "Maverick City Music",
+  "followers": 2087828,
+  "monthlyListeners": 4903973,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 132354,
+        "region": "LA"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 96848,
+        "region": "GP"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 95028,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 77251,
+        "region": "NC"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 73671,
+        "region": "GA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

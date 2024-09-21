@@ -1,0 +1,41 @@
+{
+  "id": "3qBKjEOanahMxlRojwCzhI",
+  "name": "Zacari",
+  "followers": 107996,
+  "monthlyListeners": 534243,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 14787,
+        "region": "CA"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 8382,
+        "region": "GP"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 8169,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 7374,
+        "region": "NY"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 6584,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

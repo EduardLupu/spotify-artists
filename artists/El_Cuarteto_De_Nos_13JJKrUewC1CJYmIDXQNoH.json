@@ -1,0 +1,41 @@
+{
+  "id": "13JJKrUewC1CJYmIDXQNoH",
+  "name": "El Cuarteto De Nos",
+  "followers": 2269827,
+  "monthlyListeners": 3561521,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 295152,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 200265,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 179382,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 154963,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 148033,
+        "region": "B"
+      }
+    ]
+  },
+  "worldRank": 0
+}

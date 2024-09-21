@@ -1,0 +1,41 @@
+{
+  "id": "6RdcIWVKYYzNzjQRd3oyHS",
+  "name": "Pinguini Tattici Nucleari",
+  "followers": 1941164,
+  "monthlyListeners": 3078957,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 751727,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 317936,
+        "region": "62"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 117112,
+        "region": "21"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 99328,
+        "region": "72"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 91167,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5GIcOzVFTNnzArytjmTkW8",
+  "name": "Bizzey",
+  "followers": 384236,
+  "monthlyListeners": 2264423,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 386078,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 304936,
+        "region": "ZH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 151896,
+        "region": "UT"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 63163,
+        "region": "BRU"
+      },
+      {
+        "city": "Amersfoort",
+        "country": "NL",
+        "numberOfListeners": 52352,
+        "region": "UT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

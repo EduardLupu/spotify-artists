@@ -1,0 +1,41 @@
+{
+  "id": "3yAv8udgy9z6yF6rREcgfB",
+  "name": "Rock City Worship",
+  "followers": 17937,
+  "monthlyListeners": 161679,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 2070,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 1698,
+        "region": "NC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1599,
+        "region": "IL"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1575,
+        "region": "JK"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 1528,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 0
+}

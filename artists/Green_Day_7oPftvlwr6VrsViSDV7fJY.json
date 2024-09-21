@@ -1,0 +1,41 @@
+{
+  "id": "7oPftvlwr6VrsViSDV7fJY",
+  "name": "Green Day",
+  "followers": 15421695,
+  "monthlyListeners": 36436853,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1015581,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 546935,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 473887,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 459303,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 426287,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 102
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1mXD3HVrObKWyjMvRjfsXp",
+  "name": "Los Parras",
+  "followers": 1141429,
+  "monthlyListeners": 1512814,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 92482,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 77496,
+        "region": "JAL"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 53909,
+        "region": "GU"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 46870,
+        "region": "QUE"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 45332,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

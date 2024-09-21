@@ -1,0 +1,41 @@
+{
+  "id": "41QLxRXlc2NwfJZkHGHKid",
+  "name": "Israel & Rodolffo",
+  "followers": 2610675,
+  "monthlyListeners": 6434415,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 945642,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 396388,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 350367,
+        "region": "PR"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 316469,
+        "region": "DF"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 307470,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

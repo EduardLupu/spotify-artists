@@ -1,0 +1,41 @@
+{
+  "id": "5aYyPjAsLj7UzANzdupwnS",
+  "name": "Good Charlotte",
+  "followers": 2605520,
+  "monthlyListeners": 6537232,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 139930,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 137901,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 114876,
+        "region": "QLD"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 112272,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 80424,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

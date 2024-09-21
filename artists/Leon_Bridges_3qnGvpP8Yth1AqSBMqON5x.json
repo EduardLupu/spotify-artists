@@ -1,0 +1,41 @@
+{
+  "id": "3qnGvpP8Yth1AqSBMqON5x",
+  "name": "Leon Bridges",
+  "followers": 1711890,
+  "monthlyListeners": 13034635,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 265297,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 252161,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 202872,
+        "region": "VIC"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 191744,
+        "region": "NY"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 178977,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1ZyPVE0wXLVuEGEYpoFx22",
+  "name": "Chris Hosier",
+  "followers": 215591,
+  "monthlyListeners": 333904,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 7661,
+        "region": "IL"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 6864,
+        "region": "NC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 5850,
+        "region": "NSW"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 5637,
+        "region": "TX"
+      },
+      {
+        "city": "Minneapolis",
+        "country": "US",
+        "numberOfListeners": 5598,
+        "region": "MN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

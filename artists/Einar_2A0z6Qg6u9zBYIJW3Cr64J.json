@@ -1,0 +1,41 @@
+{
+  "id": "2A0z6Qg6u9zBYIJW3Cr64J",
+  "name": "Einar",
+  "followers": 86584,
+  "monthlyListeners": 6032,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 886,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 357,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 152,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 146,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 91,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0EbXnNYpjhTmDdvlgAa175",
+  "name": "NIKI",
+  "followers": 557,
+  "monthlyListeners": 537,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 149,
+        "region": "14"
+      },
+      {
+        "city": "Poznan",
+        "country": "PL",
+        "numberOfListeners": 42,
+        "region": "30"
+      },
+      {
+        "city": "Wroclaw",
+        "country": "PL",
+        "numberOfListeners": 36,
+        "region": "02"
+      },
+      {
+        "city": "Krakow",
+        "country": "PL",
+        "numberOfListeners": 32,
+        "region": "12"
+      },
+      {
+        "city": "Lodz",
+        "country": "PL",
+        "numberOfListeners": 23,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6LBtwIgQf2KlieJrqBBqcg",
+  "name": "Garden Party",
+  "followers": 621,
+  "monthlyListeners": 742,
+  "topCities": {
+    "items": [
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 18,
+        "region": "WA"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 15,
+        "region": "NY"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 13,
+        "region": "NY"
+      },
+      {
+        "city": "Portland",
+        "country": "US",
+        "numberOfListeners": 12,
+        "region": "OR"
+      },
+      {
+        "city": "Washington",
+        "country": "US",
+        "numberOfListeners": 11,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

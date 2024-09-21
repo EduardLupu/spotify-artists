@@ -1,0 +1,41 @@
+{
+  "id": "6mQfAAqZGBzIfrmlZCeaYT",
+  "name": "Chaka Khan",
+  "followers": 1638936,
+  "monthlyListeners": 4761836,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 130737,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 65793,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 62590,
+        "region": "NH"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 57762,
+        "region": "VIC"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 53823,
+        "region": "GP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

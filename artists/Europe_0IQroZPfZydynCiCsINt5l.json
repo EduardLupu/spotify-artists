@@ -1,0 +1,41 @@
+{
+  "id": "0IQroZPfZydynCiCsINt5l",
+  "name": "Europe",
+  "followers": 2076,
+  "monthlyListeners": 61518,
+  "topCities": {
+    "items": [
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 7214,
+        "region": "00"
+      },
+      {
+        "city": "Manila",
+        "country": "PH",
+        "numberOfListeners": 3103,
+        "region": "00"
+      },
+      {
+        "city": "Caloocan City",
+        "country": "PH",
+        "numberOfListeners": 2733,
+        "region": "00"
+      },
+      {
+        "city": "San Juan",
+        "country": "PH",
+        "numberOfListeners": 2459,
+        "region": "00"
+      },
+      {
+        "city": "Cebu City",
+        "country": "PH",
+        "numberOfListeners": 2133,
+        "region": "07"
+      }
+    ]
+  },
+  "worldRank": 0
+}

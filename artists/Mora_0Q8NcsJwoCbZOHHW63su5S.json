@@ -1,0 +1,41 @@
+{
+  "id": "0Q8NcsJwoCbZOHHW63su5S",
+  "name": "Mora",
+  "followers": 5956873,
+  "monthlyListeners": 18499063,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1000899,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 871092,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 798983,
+        "region": "CMX"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 625134,
+        "region": "MD"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 623239,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 414
+}

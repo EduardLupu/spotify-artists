@@ -1,0 +1,41 @@
+{
+  "id": "5WxlRio5crjmuqcbW9AQoI",
+  "name": "JuJu",
+  "followers": 204,
+  "monthlyListeners": 33,
+  "topCities": {
+    "items": [
+      {
+        "city": "Gangnam-gu",
+        "country": "KR",
+        "numberOfListeners": 2,
+        "region": "11"
+      },
+      {
+        "city": "Fontana",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "CA"
+      },
+      {
+        "city": "Leuven",
+        "country": "BE",
+        "numberOfListeners": 1,
+        "region": "VLG"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "IDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

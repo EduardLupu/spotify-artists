@@ -1,0 +1,41 @@
+{
+  "id": "2OAEsMvEXwG6AQQ7lHkHZ4",
+  "name": "ADO",
+  "followers": 2388,
+  "monthlyListeners": 8094,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 494,
+        "region": "ENG"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 236,
+        "region": "GP"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 223,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 146,
+        "region": "ZH"
+      },
+      {
+        "city": "Durban",
+        "country": "ZA",
+        "numberOfListeners": 127,
+        "region": "KZN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

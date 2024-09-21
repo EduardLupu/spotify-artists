@@ -1,0 +1,41 @@
+{
+  "id": "5SulO4l40qDuV9zUGLZx7n",
+  "name": "Capo Plaza",
+  "followers": 3860546,
+  "monthlyListeners": 5416304,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 1264718,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 547327,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 199257,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 195639,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 150511,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

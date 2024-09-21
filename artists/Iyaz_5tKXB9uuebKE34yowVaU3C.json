@@ -1,0 +1,41 @@
+{
+  "id": "5tKXB9uuebKE34yowVaU3C",
+  "name": "Iyaz",
+  "followers": 981065,
+  "monthlyListeners": 11628523,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 240584,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 165305,
+        "region": "NSW"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 155812,
+        "region": "00"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 145019,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 131890,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

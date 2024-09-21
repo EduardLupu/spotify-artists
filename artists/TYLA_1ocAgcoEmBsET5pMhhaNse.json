@@ -1,0 +1,41 @@
+{
+  "id": "1ocAgcoEmBsET5pMhhaNse",
+  "name": "TYLA",
+  "followers": 147,
+  "monthlyListeners": 819,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 41,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 20,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 15,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 15,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 15,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

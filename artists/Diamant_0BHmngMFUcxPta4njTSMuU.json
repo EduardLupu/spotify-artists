@@ -1,0 +1,41 @@
+{
+  "id": "0BHmngMFUcxPta4njTSMuU",
+  "name": "Diamant",
+  "followers": 20133,
+  "monthlyListeners": 65816,
+  "topCities": {
+    "items": [
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 4959,
+        "region": "BY"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 4462,
+        "region": "HH"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 4372,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 3994,
+        "region": "HE"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 3642,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

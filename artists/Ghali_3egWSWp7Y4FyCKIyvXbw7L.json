@@ -1,0 +1,41 @@
+{
+  "id": "3egWSWp7Y4FyCKIyvXbw7L",
+  "name": "Ghali",
+  "followers": 3173024,
+  "monthlyListeners": 4813067,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 1036180,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 442685,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 176583,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 155712,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 120213,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

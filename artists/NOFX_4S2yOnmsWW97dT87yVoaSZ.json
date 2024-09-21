@@ -1,0 +1,41 @@
+{
+  "id": "4S2yOnmsWW97dT87yVoaSZ",
+  "name": "NOFX",
+  "followers": 1086568,
+  "monthlyListeners": 1107628,
+  "topCities": {
+    "items": [
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 32047,
+        "region": "QC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 18173,
+        "region": "RM"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 16045,
+        "region": "CA"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 14860,
+        "region": "SP"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 14768,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

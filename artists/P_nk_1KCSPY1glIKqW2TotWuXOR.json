@@ -1,0 +1,41 @@
+{
+  "id": "1KCSPY1glIKqW2TotWuXOR",
+  "name": "P!nk",
+  "followers": 17098890,
+  "monthlyListeners": 36686833,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 997606,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 580040,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 564653,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 504765,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 436125,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 99
+}

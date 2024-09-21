@@ -1,0 +1,41 @@
+{
+  "id": "4YH3yvWJyMhJdmZTumulrb",
+  "name": "Willow",
+  "followers": 282,
+  "monthlyListeners": 333649,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 5434,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 4694,
+        "region": "DC"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 4096,
+        "region": "BE"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 3220,
+        "region": "CMX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 3183,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

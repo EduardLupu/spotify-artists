@@ -1,0 +1,41 @@
+{
+  "id": "4vpDg7Y7fU982Ds30zawDA",
+  "name": "The Band",
+  "followers": 1128204,
+  "monthlyListeners": 3247737,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 55851,
+        "region": "NY"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 55435,
+        "region": "ON"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 50787,
+        "region": "IL"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 42282,
+        "region": "CO"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 40575,
+        "region": "PA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

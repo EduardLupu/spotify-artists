@@ -1,0 +1,41 @@
+{
+  "id": "4RnBFZRiMLRyZy0AzzTg2C",
+  "name": "Run The Jewels",
+  "followers": 1104389,
+  "monthlyListeners": 1415038,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 26753,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 24573,
+        "region": "ENG"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 21273,
+        "region": "CO"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 20788,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 20594,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

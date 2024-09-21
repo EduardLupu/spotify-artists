@@ -1,0 +1,41 @@
+{
+  "id": "20JZFwl6HVl6yg8a4H3ZqK",
+  "name": "Panic! At The Disco",
+  "followers": 12342549,
+  "monthlyListeners": 21137341,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 300038,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 263081,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 237538,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 231242,
+        "region": "IL"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 225728,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 335
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1D6vAeVUcgMbSx80IA3Zun",
+  "name": "Henrique & Diego",
+  "followers": 2492425,
+  "monthlyListeners": 2192651,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 325670,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 119557,
+        "region": "PR"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 117449,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 93964,
+        "region": "SP"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 92391,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "33qOK5uJ8AR2xuQQAhHump",
+  "name": "Teddy Swims",
+  "followers": 2996534,
+  "monthlyListeners": 42751796,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 739523,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 649184,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 564170,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 526904,
+        "region": "VIC"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 508524,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 68
+}

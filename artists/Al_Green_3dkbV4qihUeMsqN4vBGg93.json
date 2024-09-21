@@ -1,0 +1,41 @@
+{
+  "id": "3dkbV4qihUeMsqN4vBGg93",
+  "name": "Al Green",
+  "followers": 2020940,
+  "monthlyListeners": 6722559,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 123336,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 117540,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 87912,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 73284,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 73001,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

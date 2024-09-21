@@ -1,0 +1,41 @@
+{
+  "id": "0zEQMCkiunPKoAy6zByLPj",
+  "name": "MK",
+  "followers": 193,
+  "monthlyListeners": 19,
+  "topCities": {
+    "items": [
+      {
+        "city": "Constantine",
+        "country": "DZ",
+        "numberOfListeners": 3,
+        "region": "25"
+      },
+      {
+        "city": "Osmaniye",
+        "country": "TR",
+        "numberOfListeners": 1,
+        "region": "80"
+      },
+      {
+        "city": "Kayseri",
+        "country": "TR",
+        "numberOfListeners": 1,
+        "region": "38"
+      },
+      {
+        "city": "Casablanca",
+        "country": "MA",
+        "numberOfListeners": 1,
+        "region": "06"
+      },
+      {
+        "city": "Laghouat",
+        "country": "DZ",
+        "numberOfListeners": 1,
+        "region": "03"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0kkxsdcaWmWU2yWAqclDh4",
+  "name": "Rixton",
+  "followers": 748113,
+  "monthlyListeners": 3710880,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 112603,
+        "region": "JK"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 44308,
+        "region": ""
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 44244,
+        "region": "14"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 43335,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 39046,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

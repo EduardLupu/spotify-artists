@@ -1,0 +1,41 @@
+{
+  "id": "3ycxRkcZ67ALN3GQJ57Vig",
+  "name": "Masego",
+  "followers": 1430664,
+  "monthlyListeners": 9935827,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 175354,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 130192,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 125267,
+        "region": "CA"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 124891,
+        "region": "SP"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 108383,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

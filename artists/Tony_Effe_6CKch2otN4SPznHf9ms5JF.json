@@ -1,0 +1,41 @@
+{
+  "id": "6CKch2otN4SPznHf9ms5JF",
+  "name": "Tony Effe",
+  "followers": 789450,
+  "monthlyListeners": 5761450,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 1448667,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 681840,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 285396,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 218222,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 170820,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

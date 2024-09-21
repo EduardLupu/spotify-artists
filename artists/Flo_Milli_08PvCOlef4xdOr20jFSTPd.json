@@ -1,0 +1,41 @@
+{
+  "id": "08PvCOlef4xdOr20jFSTPd",
+  "name": "Flo Milli",
+  "followers": 1223661,
+  "monthlyListeners": 11817416,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 237236,
+        "region": "JK"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 158399,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 154683,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 150104,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 138807,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

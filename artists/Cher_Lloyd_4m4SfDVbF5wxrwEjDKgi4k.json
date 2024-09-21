@@ -1,0 +1,41 @@
+{
+  "id": "4m4SfDVbF5wxrwEjDKgi4k",
+  "name": "Cher Lloyd",
+  "followers": 2604363,
+  "monthlyListeners": 1814568,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 32174,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 28866,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 25085,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 23127,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 19225,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

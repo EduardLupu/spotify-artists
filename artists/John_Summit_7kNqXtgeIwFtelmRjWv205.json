@@ -1,0 +1,41 @@
+{
+  "id": "7kNqXtgeIwFtelmRjWv205",
+  "name": "John Summit",
+  "followers": 371813,
+  "monthlyListeners": 9669538,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 171536,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 170696,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 169204,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 156759,
+        "region": "NY"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 145678,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

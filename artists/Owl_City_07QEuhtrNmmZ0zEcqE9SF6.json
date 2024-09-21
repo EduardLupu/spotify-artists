@@ -1,0 +1,41 @@
+{
+  "id": "07QEuhtrNmmZ0zEcqE9SF6",
+  "name": "Owl City",
+  "followers": 2403109,
+  "monthlyListeners": 9627020,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 282000,
+        "region": "JK"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 158164,
+        "region": "13"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 133630,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 113786,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 104691,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

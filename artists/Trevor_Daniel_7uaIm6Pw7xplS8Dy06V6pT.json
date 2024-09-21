@@ -1,0 +1,41 @@
+{
+  "id": "7uaIm6Pw7xplS8Dy06V6pT",
+  "name": "Trevor Daniel",
+  "followers": 843264,
+  "monthlyListeners": 9300514,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 153642,
+        "region": "JK"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 124374,
+        "region": "MH"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 122034,
+        "region": "KA"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 111631,
+        "region": "SP"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 80504,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

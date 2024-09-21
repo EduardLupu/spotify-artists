@@ -1,0 +1,41 @@
+{
+  "id": "5pnbUBPifNnlusY8kTBivi",
+  "name": "Jadakiss",
+  "followers": 1216423,
+  "monthlyListeners": 2087988,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 42849,
+        "region": "NY"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 41007,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 40178,
+        "region": "IL"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 37679,
+        "region": "PA"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 35029,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

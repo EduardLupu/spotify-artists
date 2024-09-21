@@ -1,0 +1,41 @@
+{
+  "id": "3IW7ScrzXmPvZhB27hmfgy",
+  "name": "Jul",
+  "followers": 10272044,
+  "monthlyListeners": 8031931,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 1156832,
+        "region": "IDF"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 299513,
+        "region": "ARA"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 272886,
+        "region": "BRU"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 263370,
+        "region": "PAC"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 207477,
+        "region": "HDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

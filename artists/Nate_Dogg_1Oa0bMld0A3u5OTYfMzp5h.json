@@ -1,0 +1,41 @@
+{
+  "id": "1Oa0bMld0A3u5OTYfMzp5h",
+  "name": "Nate Dogg",
+  "followers": 1737415,
+  "monthlyListeners": 5305194,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 203795,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 108280,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 97447,
+        "region": "NH"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 95118,
+        "region": "VIC"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 91967,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

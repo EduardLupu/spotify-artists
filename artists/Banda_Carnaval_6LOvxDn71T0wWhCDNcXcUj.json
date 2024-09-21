@@ -1,0 +1,41 @@
+{
+  "id": "6LOvxDn71T0wWhCDNcXcUj",
+  "name": "Banda Carnaval",
+  "followers": 2220672,
+  "monthlyListeners": 2264197,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 207279,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 154007,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 93819,
+        "region": "QUE"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 91721,
+        "region": "JAL"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 81095,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0SbGI4sb8dAKFZnK7RFyhz",
+  "name": "Obituary",
+  "followers": 506121,
+  "monthlyListeners": 262567,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 5030,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 3633,
+        "region": "SP"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 3309,
+        "region": "DC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 2880,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 2477,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

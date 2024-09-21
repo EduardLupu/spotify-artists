@@ -1,0 +1,35 @@
+{
+  "id": "6qcMty4A6ZNKJl7tAGAQIw",
+  "name": "Savage",
+  "followers": 11,
+  "monthlyListeners": 5,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 1,
+        "region": "LA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "IL"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 1,
+        "region": "QLD"
+      },
+      {
+        "city": "Leeds",
+        "country": "GB",
+        "numberOfListeners": 1,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

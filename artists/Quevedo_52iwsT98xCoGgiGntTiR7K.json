@@ -1,0 +1,41 @@
+{
+  "id": "52iwsT98xCoGgiGntTiR7K",
+  "name": "Quevedo",
+  "followers": 5092654,
+  "monthlyListeners": 25549971,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1140615,
+        "region": "RM"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 1001388,
+        "region": "MD"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 898063,
+        "region": "DC"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 823211,
+        "region": "C"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 811896,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 210
+}

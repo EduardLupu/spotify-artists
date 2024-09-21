@@ -1,0 +1,41 @@
+{
+  "id": "4zn0m3hBUQVl6Nf36Sb0A6",
+  "name": "Tuxedomoon",
+  "followers": 52722,
+  "monthlyListeners": 53256,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 1823,
+        "region": "BE"
+      },
+      {
+        "city": "Athens",
+        "country": "GR",
+        "numberOfListeners": 1538,
+        "region": "I"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 1108,
+        "region": "BRU"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 994,
+        "region": "IDF"
+      },
+      {
+        "city": "Tel Aviv",
+        "country": "IL",
+        "numberOfListeners": 892,
+        "region": "TA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

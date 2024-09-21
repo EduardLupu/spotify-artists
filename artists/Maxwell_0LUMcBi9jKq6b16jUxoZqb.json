@@ -1,0 +1,41 @@
+{
+  "id": "0LUMcBi9jKq6b16jUxoZqb",
+  "name": "Maxwell",
+  "followers": 396,
+  "monthlyListeners": 510,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 104,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 100,
+        "region": "ZH"
+      },
+      {
+        "city": "Willemstad",
+        "country": "CW",
+        "numberOfListeners": 97,
+        "region": ""
+      },
+      {
+        "city": "The Hague",
+        "country": "NL",
+        "numberOfListeners": 19,
+        "region": "ZH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 14,
+        "region": "UT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

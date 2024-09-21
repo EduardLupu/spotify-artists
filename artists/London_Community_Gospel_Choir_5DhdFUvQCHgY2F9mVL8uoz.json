@@ -1,0 +1,41 @@
+{
+  "id": "5DhdFUvQCHgY2F9mVL8uoz",
+  "name": "London Community Gospel Choir",
+  "followers": 12726,
+  "monthlyListeners": 27085,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 983,
+        "region": "ENG"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 356,
+        "region": "AB"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 352,
+        "region": "L"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 340,
+        "region": "IDF"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 318,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

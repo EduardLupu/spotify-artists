@@ -1,0 +1,41 @@
+{
+  "id": "0y7B2G0jNMGWyQJsOoRMUt",
+  "name": "Ajaxx",
+  "followers": 83989,
+  "monthlyListeners": 4941261,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 729113,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 570271,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 253823,
+        "region": "MG"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 165196,
+        "region": "RS"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 150236,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

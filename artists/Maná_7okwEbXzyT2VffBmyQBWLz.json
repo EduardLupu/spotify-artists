@@ -1,0 +1,41 @@
+{
+  "id": "7okwEbXzyT2VffBmyQBWLz",
+  "name": "Maná",
+  "followers": 11584572,
+  "monthlyListeners": 17208156,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1009268,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 803978,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 597486,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 573554,
+        "region": "LMA"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 482471,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 469
+}

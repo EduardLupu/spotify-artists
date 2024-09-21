@@ -1,0 +1,41 @@
+{
+  "id": "2WoVwexZuODvclzULjPQtm",
+  "name": "Sampha",
+  "followers": 792107,
+  "monthlyListeners": 4427487,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 150048,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 85275,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 77497,
+        "region": "VIC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 70067,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 60946,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

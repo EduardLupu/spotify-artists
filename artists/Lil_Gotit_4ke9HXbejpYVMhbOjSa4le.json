@@ -1,0 +1,41 @@
+{
+  "id": "4ke9HXbejpYVMhbOjSa4le",
+  "name": "Lil Gotit",
+  "followers": 411822,
+  "monthlyListeners": 393467,
+  "topCities": {
+    "items": [
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 9235,
+        "region": "GA"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 6281,
+        "region": "GP"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 6116,
+        "region": "ON"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 6025,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 5748,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

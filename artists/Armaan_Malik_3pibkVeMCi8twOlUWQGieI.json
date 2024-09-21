@@ -1,0 +1,41 @@
+{
+  "id": "3pibkVeMCi8twOlUWQGieI",
+  "name": "Armaan Malik",
+  "followers": 13596,
+  "monthlyListeners": 149353,
+  "topCities": {
+    "items": [
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 27357,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 19499,
+        "region": "DL"
+      },
+      {
+        "city": "Jaipur",
+        "country": "IN",
+        "numberOfListeners": 17650,
+        "region": "RJ"
+      },
+      {
+        "city": "Meerut",
+        "country": "IN",
+        "numberOfListeners": 7223,
+        "region": "UP"
+      },
+      {
+        "city": "Rohtak",
+        "country": "IN",
+        "numberOfListeners": 6286,
+        "region": "HR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

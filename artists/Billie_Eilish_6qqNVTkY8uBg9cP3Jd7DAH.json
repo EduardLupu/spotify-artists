@@ -1,0 +1,41 @@
+{
+  "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+  "name": "Billie Eilish",
+  "followers": 99594537,
+  "monthlyListeners": 105589849,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 3303217,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1684624,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1264684,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 1218507,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 1068533,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 2
+}

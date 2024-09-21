@@ -1,0 +1,41 @@
+{
+  "id": "7BJleNy6CWKzS3nKtrsNuN",
+  "name": "Nerve",
+  "followers": 31293,
+  "monthlyListeners": 146864,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 21567,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 18576,
+        "region": "QLD"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 16053,
+        "region": "VIC"
+      },
+      {
+        "city": "Perth",
+        "country": "AU",
+        "numberOfListeners": 9703,
+        "region": "WA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 8503,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

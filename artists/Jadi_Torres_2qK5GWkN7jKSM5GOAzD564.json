@@ -1,0 +1,41 @@
+{
+  "id": "2qK5GWkN7jKSM5GOAzD564",
+  "name": "Jadi Torres",
+  "followers": 2578,
+  "monthlyListeners": 48794,
+  "topCities": {
+    "items": [
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 2389,
+        "region": "GU"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 2140,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1354,
+        "region": "RM"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 1106,
+        "region": "01"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 1076,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

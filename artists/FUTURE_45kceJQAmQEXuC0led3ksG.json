@@ -1,0 +1,41 @@
+{
+  "id": "45kceJQAmQEXuC0led3ksG",
+  "name": "FUTURE",
+  "followers": 339,
+  "monthlyListeners": 7,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1,
+        "region": "DC"
+      },
+      {
+        "city": "Krakow",
+        "country": "PL",
+        "numberOfListeners": 1,
+        "region": "12"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "IDF"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 1,
+        "region": "JAL"
+      },
+      {
+        "city": "Champaign",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

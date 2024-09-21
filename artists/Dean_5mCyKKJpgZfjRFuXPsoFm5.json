@@ -1,0 +1,41 @@
+{
+  "id": "5mCyKKJpgZfjRFuXPsoFm5",
+  "name": "Dean",
+  "followers": 671,
+  "monthlyListeners": 3224,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 51,
+        "region": "ENG"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 43,
+        "region": "NC"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 43,
+        "region": "L"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 34,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 32,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

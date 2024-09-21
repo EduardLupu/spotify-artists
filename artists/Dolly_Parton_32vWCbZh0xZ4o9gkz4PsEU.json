@@ -1,0 +1,41 @@
+{
+  "id": "32vWCbZh0xZ4o9gkz4PsEU",
+  "name": "Dolly Parton",
+  "followers": 2594970,
+  "monthlyListeners": 21562531,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 420929,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 400345,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 333933,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 287146,
+        "region": "QLD"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 242671,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 323
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4DdkRBBYG6Yk9Ka8tdJ9BW",
+  "name": "Offset",
+  "followers": 4337770,
+  "monthlyListeners": 23181974,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 305452,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 293569,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 293364,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 285142,
+        "region": "NSW"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 275495,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 263
+}

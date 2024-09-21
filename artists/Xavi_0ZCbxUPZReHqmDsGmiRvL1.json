@@ -1,0 +1,41 @@
+{
+  "id": "0ZCbxUPZReHqmDsGmiRvL1",
+  "name": "Xavi",
+  "followers": 20597,
+  "monthlyListeners": 35645,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 3148,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 2485,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 2027,
+        "region": "BY"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 2005,
+        "region": "HE"
+      },
+      {
+        "city": "Cologne",
+        "country": "DE",
+        "numberOfListeners": 1569,
+        "region": "NW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

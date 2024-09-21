@@ -1,0 +1,41 @@
+{
+  "id": "5Dl3HXZjG6ZOWT5cV375lk",
+  "name": "Yo-Yo Ma",
+  "followers": 607408,
+  "monthlyListeners": 4606811,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 52968,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 49850,
+        "region": "ENG"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 46639,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 43755,
+        "region": "NSW"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 42912,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

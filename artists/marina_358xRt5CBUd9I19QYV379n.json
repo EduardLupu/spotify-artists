@@ -1,0 +1,41 @@
+{
+  "id": "358xRt5CBUd9I19QYV379n",
+  "name": "marina",
+  "followers": 610,
+  "monthlyListeners": 10669,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 1518,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 530,
+        "region": "27"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 460,
+        "region": "JK"
+      },
+      {
+        "city": "Nagoya",
+        "country": "JP",
+        "numberOfListeners": 206,
+        "region": "23"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 206,
+        "region": "13"
+      }
+    ]
+  },
+  "worldRank": 0
+}

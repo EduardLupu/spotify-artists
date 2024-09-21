@@ -1,0 +1,41 @@
+{
+  "id": "4boI7bJtmB1L3b1cuL75Zr",
+  "name": "Mon Laferte",
+  "followers": 7648799,
+  "monthlyListeners": 11535616,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 829525,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 714067,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 425355,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 385353,
+        "region": "LMA"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 374617,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

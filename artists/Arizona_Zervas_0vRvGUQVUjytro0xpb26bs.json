@@ -1,0 +1,41 @@
+{
+  "id": "0vRvGUQVUjytro0xpb26bs",
+  "name": "Arizona Zervas",
+  "followers": 757062,
+  "monthlyListeners": 4345341,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 72058,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 52432,
+        "region": "NSW"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 44584,
+        "region": "10"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 42824,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 41542,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

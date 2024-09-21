@@ -1,0 +1,41 @@
+{
+  "id": "0vjeBgTzYTwmYoVySJzXGD",
+  "name": "Virlan Garcia",
+  "followers": 4412782,
+  "monthlyListeners": 7310054,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 645821,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 496990,
+        "region": "JAL"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 314685,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 305582,
+        "region": "QUE"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 283085,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

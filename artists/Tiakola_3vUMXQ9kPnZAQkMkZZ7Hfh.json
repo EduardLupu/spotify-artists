@@ -1,0 +1,41 @@
+{
+  "id": "3vUMXQ9kPnZAQkMkZZ7Hfh",
+  "name": "Tiakola",
+  "followers": 2279520,
+  "monthlyListeners": 6267865,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 1068613,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 253310,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 215831,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 185355,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 163681,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0ZZ0bh6ir6dh0BPB75sr1T",
+  "name": "Logic",
+  "followers": 5602,
+  "monthlyListeners": 1081,
+  "topCities": {
+    "items": [
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 757,
+        "region": "10"
+      },
+      {
+        "city": "Bratislava",
+        "country": "SK",
+        "numberOfListeners": 85,
+        "region": "BL"
+      },
+      {
+        "city": "Brno",
+        "country": "CZ",
+        "numberOfListeners": 42,
+        "region": "64"
+      },
+      {
+        "city": "Ostrava",
+        "country": "CZ",
+        "numberOfListeners": 19,
+        "region": "80"
+      },
+      {
+        "city": "České Budějovice",
+        "country": "CZ",
+        "numberOfListeners": 12,
+        "region": "31"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2CKOmarVWvWqkNWUatHCex",
+  "name": "Ana Castela",
+  "followers": 7111422,
+  "monthlyListeners": 16083922,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 2578977,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 996908,
+        "region": "MG"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 882041,
+        "region": "RJ"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 827047,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 821631,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

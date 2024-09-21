@@ -1,0 +1,41 @@
+{
+  "id": "70cRZdQywnSFp9pnc2WTCE",
+  "name": "Simon & Garfunkel",
+  "followers": 5331407,
+  "monthlyListeners": 15171782,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 231204,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 217586,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 187675,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 172530,
+        "region": "NH"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 157636,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

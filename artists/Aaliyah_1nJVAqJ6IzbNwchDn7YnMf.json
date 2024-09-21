@@ -1,0 +1,23 @@
+{
+  "id": "1nJVAqJ6IzbNwchDn7YnMf",
+  "name": "Aaliyah",
+  "followers": 48,
+  "monthlyListeners": 3,
+  "topCities": {
+    "items": [
+      {
+        "city": "Oakland",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "CA"
+      },
+      {
+        "city": "Cologne",
+        "country": "DE",
+        "numberOfListeners": 1,
+        "region": "NW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4m6ubhNsdwF4psNf3R8kwR",
+  "name": "KHEA",
+  "followers": 5699828,
+  "monthlyListeners": 14297078,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1405806,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 788789,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 638217,
+        "region": "B"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 572128,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 393487,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

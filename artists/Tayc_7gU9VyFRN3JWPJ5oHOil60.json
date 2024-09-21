@@ -1,0 +1,41 @@
+{
+  "id": "7gU9VyFRN3JWPJ5oHOil60",
+  "name": "Tayc",
+  "followers": 2890665,
+  "monthlyListeners": 7263248,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 691870,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 189459,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 131347,
+        "region": "ARA"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 117943,
+        "region": "NH"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 111080,
+        "region": "MH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

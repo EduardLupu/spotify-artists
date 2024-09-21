@@ -1,0 +1,41 @@
+{
+  "id": "7gRhy3MIPHQo5CXYfWaw9I",
+  "name": "Azealia Banks",
+  "followers": 1084639,
+  "monthlyListeners": 3697639,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 125800,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 85079,
+        "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 80202,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 57031,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 56923,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

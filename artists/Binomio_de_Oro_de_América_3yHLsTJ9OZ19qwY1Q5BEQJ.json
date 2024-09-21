@@ -1,0 +1,41 @@
+{
+  "id": "3yHLsTJ9OZ19qwY1Q5BEQJ",
+  "name": "Binomio de Oro de América",
+  "followers": 2212199,
+  "monthlyListeners": 4224509,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 866072,
+        "region": "DC"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 428845,
+        "region": "ANT"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 163179,
+        "region": "LMA"
+      },
+      {
+        "city": "Guayaquil",
+        "country": "EC",
+        "numberOfListeners": 150419,
+        "region": "G"
+      },
+      {
+        "city": "Santiago de Cali",
+        "country": "CO",
+        "numberOfListeners": 143898,
+        "region": "VAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

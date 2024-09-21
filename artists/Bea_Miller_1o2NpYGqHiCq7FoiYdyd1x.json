@@ -1,0 +1,41 @@
+{
+  "id": "1o2NpYGqHiCq7FoiYdyd1x",
+  "name": "Bea Miller",
+  "followers": 3111084,
+  "monthlyListeners": 4992237,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 69662,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 68010,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 58217,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 48428,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 48092,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

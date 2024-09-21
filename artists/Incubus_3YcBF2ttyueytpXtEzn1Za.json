@@ -1,0 +1,41 @@
+{
+  "id": "3YcBF2ttyueytpXtEzn1Za",
+  "name": "Incubus",
+  "followers": 3328171,
+  "monthlyListeners": 8431370,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 182565,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 129958,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 121419,
+        "region": "SP"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 115079,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 111086,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

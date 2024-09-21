@@ -1,0 +1,41 @@
+{
+  "id": "5vBSrE1xujD2FXYRarbAXc",
+  "name": "Olly Alexander (Years & Years)",
+  "followers": 1969788,
+  "monthlyListeners": 7799720,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 177197,
+        "region": "ENG"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 133943,
+        "region": "CMX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 111352,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 96745,
+        "region": "RM"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 95119,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

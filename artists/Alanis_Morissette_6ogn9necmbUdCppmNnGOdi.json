@@ -1,0 +1,41 @@
+{
+  "id": "6ogn9necmbUdCppmNnGOdi",
+  "name": "Alanis Morissette",
+  "followers": 2903187,
+  "monthlyListeners": 7887847,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 146263,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 141034,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 132303,
+        "region": "VIC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 131253,
+        "region": "RM"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 127063,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6VuMaDnrHyPL1p4EHjYLi7",
+  "name": "Charlie Puth",
+  "followers": 23175905,
+  "monthlyListeners": 37102738,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1694510,
+        "region": "JK"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 527738,
+        "region": "10"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 469202,
+        "region": "14"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 382343,
+        "region": "MH"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 377681,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 94
+}

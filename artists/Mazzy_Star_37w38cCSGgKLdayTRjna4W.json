@@ -1,0 +1,41 @@
+{
+  "id": "37w38cCSGgKLdayTRjna4W",
+  "name": "Mazzy Star",
+  "followers": 1387827,
+  "monthlyListeners": 10139149,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 166796,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 142951,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 140638,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 133141,
+        "region": "VIC"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 109015,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

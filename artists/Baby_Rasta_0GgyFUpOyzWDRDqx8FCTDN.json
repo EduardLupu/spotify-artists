@@ -1,0 +1,41 @@
+{
+  "id": "0GgyFUpOyzWDRDqx8FCTDN",
+  "name": "Baby Rasta",
+  "followers": 2198252,
+  "monthlyListeners": 5415273,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 329047,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 317840,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 199400,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 190530,
+        "region": "LMA"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 181368,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

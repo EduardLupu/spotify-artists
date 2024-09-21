@@ -1,0 +1,41 @@
+{
+  "id": "32ogthv0BdaSMPml02X9YB",
+  "name": "The Cinematic Orchestra",
+  "followers": 693285,
+  "monthlyListeners": 6706293,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 106979,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 96685,
+        "region": "NSW"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 96605,
+        "region": "IDF"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 85735,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 84391,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

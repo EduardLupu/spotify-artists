@@ -1,0 +1,41 @@
+{
+  "id": "0zgFL90nGTrH2iOMD8Vysy",
+  "name": "Sabino",
+  "followers": 923990,
+  "monthlyListeners": 2060681,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 346801,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 161178,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 144645,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 129752,
+        "region": "JAL"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 116789,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

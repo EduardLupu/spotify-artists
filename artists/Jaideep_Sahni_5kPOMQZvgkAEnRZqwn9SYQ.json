@@ -1,0 +1,41 @@
+{
+  "id": "5kPOMQZvgkAEnRZqwn9SYQ",
+  "name": "Jaideep Sahni",
+  "followers": 85730,
+  "monthlyListeners": 11388914,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1049816,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 895166,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 666940,
+        "region": "DL"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 624229,
+        "region": "KA"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 581822,
+        "region": "WB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

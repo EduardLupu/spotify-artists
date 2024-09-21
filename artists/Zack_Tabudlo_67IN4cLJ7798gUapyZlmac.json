@@ -1,0 +1,41 @@
+{
+  "id": "67IN4cLJ7798gUapyZlmac",
+  "name": "Zack Tabudlo",
+  "followers": 4402459,
+  "monthlyListeners": 6101278,
+  "topCities": {
+    "items": [
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 543230,
+        "region": "00"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 339375,
+        "region": "JK"
+      },
+      {
+        "city": "Manila",
+        "country": "PH",
+        "numberOfListeners": 308794,
+        "region": "00"
+      },
+      {
+        "city": "Davao City",
+        "country": "PH",
+        "numberOfListeners": 230899,
+        "region": "11"
+      },
+      {
+        "city": "Cebu City",
+        "country": "PH",
+        "numberOfListeners": 221411,
+        "region": "07"
+      }
+    ]
+  },
+  "worldRank": 0
+}

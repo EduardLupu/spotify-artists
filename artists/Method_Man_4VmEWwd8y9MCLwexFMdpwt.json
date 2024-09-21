@@ -1,0 +1,41 @@
+{
+  "id": "4VmEWwd8y9MCLwexFMdpwt",
+  "name": "Method Man",
+  "followers": 2209489,
+  "monthlyListeners": 3170369,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 50728,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 43679,
+        "region": "CA"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 43542,
+        "region": "ON"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 38591,
+        "region": "NY"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 37268,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5Yo5iU2nf4H41waPl4ZnS1",
+  "name": "LEA",
+  "followers": 1458527,
+  "monthlyListeners": 2942247,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 288628,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 222996,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 186623,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 163895,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 139154,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

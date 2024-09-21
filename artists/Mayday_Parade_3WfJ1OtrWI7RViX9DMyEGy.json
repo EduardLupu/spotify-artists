@@ -1,0 +1,41 @@
+{
+  "id": "3WfJ1OtrWI7RViX9DMyEGy",
+  "name": "Mayday Parade",
+  "followers": 1361484,
+  "monthlyListeners": 1972932,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 33108,
+        "region": "IL"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 29279,
+        "region": "JK"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 28761,
+        "region": "PA"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 27932,
+        "region": "00"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 26224,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3NKKngINK1tP6BFy0WOyWk",
+  "name": "Max Styler",
+  "followers": 35993,
+  "monthlyListeners": 571361,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 11999,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 8070,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 7598,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 7223,
+        "region": "NSW"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 6828,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

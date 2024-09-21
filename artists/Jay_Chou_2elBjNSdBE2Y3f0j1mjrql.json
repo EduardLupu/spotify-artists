@@ -1,0 +1,41 @@
+{
+  "id": "2elBjNSdBE2Y3f0j1mjrql",
+  "name": "Jay Chou",
+  "followers": 6037049,
+  "monthlyListeners": 2823403,
+  "topCities": {
+    "items": [
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 417982,
+        "region": "TPE"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 363858,
+        "region": ""
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 241768,
+        "region": "14"
+      },
+      {
+        "city": "New Taipei City",
+        "country": "TW",
+        "numberOfListeners": 188811,
+        "region": "NWT"
+      },
+      {
+        "city": "Taichung",
+        "country": "TW",
+        "numberOfListeners": 184544,
+        "region": "TXG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

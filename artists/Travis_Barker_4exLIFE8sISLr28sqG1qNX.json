@@ -1,0 +1,41 @@
+{
+  "id": "4exLIFE8sISLr28sqG1qNX",
+  "name": "Travis Barker",
+  "followers": 465229,
+  "monthlyListeners": 5970782,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 81365,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 81152,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 76824,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 73501,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 65753,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

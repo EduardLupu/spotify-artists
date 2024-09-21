@@ -1,0 +1,41 @@
+{
+  "id": "2F9pvj94b52wGKs0OqiNi2",
+  "name": "Babasonicos",
+  "followers": 1505092,
+  "monthlyListeners": 3834548,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 742582,
+        "region": "C"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 370594,
+        "region": "B"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 230945,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 229378,
+        "region": "RM"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 155272,
+        "region": "X"
+      }
+    ]
+  },
+  "worldRank": 0
+}

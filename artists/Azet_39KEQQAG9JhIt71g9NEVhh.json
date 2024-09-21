@@ -1,0 +1,41 @@
+{
+  "id": "39KEQQAG9JhIt71g9NEVhh",
+  "name": "Azet",
+  "followers": 1384078,
+  "monthlyListeners": 2528217,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 255773,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 236492,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 211214,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 184571,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 178122,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

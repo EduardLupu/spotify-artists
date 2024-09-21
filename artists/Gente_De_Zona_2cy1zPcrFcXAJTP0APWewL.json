@@ -1,0 +1,41 @@
+{
+  "id": "2cy1zPcrFcXAJTP0APWewL",
+  "name": "Gente De Zona",
+  "followers": 1610034,
+  "monthlyListeners": 7130987,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 316304,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 202595,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 195937,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 192379,
+        "region": "DC"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 164059,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7KK6M2jPylHa6gLbMBI6V0",
+  "name": "Tony Christie",
+  "followers": 57569,
+  "monthlyListeners": 268786,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 13405,
+        "region": "ENG"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 6748,
+        "region": "L"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 5996,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 5245,
+        "region": "ENG"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 4665,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

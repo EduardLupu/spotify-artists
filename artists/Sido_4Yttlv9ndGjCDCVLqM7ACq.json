@@ -1,0 +1,41 @@
+{
+  "id": "4Yttlv9ndGjCDCVLqM7ACq",
+  "name": "Sido",
+  "followers": 2418107,
+  "monthlyListeners": 6000043,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 641194,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 499342,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 459900,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 399114,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 338341,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

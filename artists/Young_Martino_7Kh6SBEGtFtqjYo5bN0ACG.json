@@ -1,0 +1,41 @@
+{
+  "id": "7Kh6SBEGtFtqjYo5bN0ACG",
+  "name": "Young Martino",
+  "followers": 55356,
+  "monthlyListeners": 522463,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 31413,
+        "region": "RM"
+      },
+      {
+        "city": "San Juan",
+        "country": "US",
+        "numberOfListeners": 25168,
+        "region": "PR"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 23219,
+        "region": "DC"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 20599,
+        "region": "ANT"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 15895,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3x4ZOtvWL1tRd6aFUxeBoK",
+  "name": "Gian Piero Reverberi",
+  "followers": 1910,
+  "monthlyListeners": 80390,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 3137,
+        "region": "25"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 2708,
+        "region": "IDF"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 1438,
+        "region": "BE"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 1413,
+        "region": "62"
+      },
+      {
+        "city": "Zurich",
+        "country": "CH",
+        "numberOfListeners": 1398,
+        "region": "ZH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

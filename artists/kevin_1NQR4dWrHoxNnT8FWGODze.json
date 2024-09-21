@@ -1,0 +1,41 @@
+{
+  "id": "1NQR4dWrHoxNnT8FWGODze",
+  "name": "kevin",
+  "followers": 46,
+  "monthlyListeners": 2730,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 434,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 79,
+        "region": "C"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 66,
+        "region": "B"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 56,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 43,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

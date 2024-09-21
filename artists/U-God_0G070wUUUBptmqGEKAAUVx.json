@@ -1,0 +1,41 @@
+{
+  "id": "0G070wUUUBptmqGEKAAUVx",
+  "name": "U-God",
+  "followers": 137796,
+  "monthlyListeners": 47893,
+  "topCities": {
+    "items": [
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 674,
+        "region": "VIC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 673,
+        "region": "RM"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 614,
+        "region": "ENG"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 612,
+        "region": "ON"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 596,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

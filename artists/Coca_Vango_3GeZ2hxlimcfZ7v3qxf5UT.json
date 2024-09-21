@@ -1,0 +1,41 @@
+{
+  "id": "3GeZ2hxlimcfZ7v3qxf5UT",
+  "name": "Coca Vango",
+  "followers": 14860,
+  "monthlyListeners": 25588,
+  "topCities": {
+    "items": [
+      {
+        "city": "Auckland",
+        "country": "NZ",
+        "numberOfListeners": 801,
+        "region": "AUK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 678,
+        "region": "NSW"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 584,
+        "region": "GA"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 541,
+        "region": "QLD"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 433,
+        "region": "NC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

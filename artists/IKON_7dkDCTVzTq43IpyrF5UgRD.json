@@ -1,0 +1,41 @@
+{
+  "id": "7dkDCTVzTq43IpyrF5UgRD",
+  "name": "IKON",
+  "followers": 1363,
+  "monthlyListeners": 2687,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 55,
+        "region": "CMX"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 48,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 46,
+        "region": "RM"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 45,
+        "region": "BE"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 34,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7dWYWUbO68rXJOcyA7SpJk",
+  "name": "Fort Minor",
+  "followers": 618403,
+  "monthlyListeners": 4185731,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 59994,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 53834,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 46181,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 42274,
+        "region": "ENG"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 41775,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

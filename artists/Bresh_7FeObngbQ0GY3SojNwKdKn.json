@@ -1,0 +1,41 @@
+{
+  "id": "7FeObngbQ0GY3SojNwKdKn",
+  "name": "Bresh",
+  "followers": 265492,
+  "monthlyListeners": 3808114,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 981744,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 419234,
+        "region": "62"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 150075,
+        "region": "21"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 148186,
+        "region": "72"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 114368,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

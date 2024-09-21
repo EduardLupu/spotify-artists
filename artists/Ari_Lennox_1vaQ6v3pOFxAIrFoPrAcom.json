@@ -1,0 +1,41 @@
+{
+  "id": "1vaQ6v3pOFxAIrFoPrAcom",
+  "name": "Ari Lennox",
+  "followers": 811345,
+  "monthlyListeners": 2956655,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 64198,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 55728,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 52373,
+        "region": "IL"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 49893,
+        "region": "GP"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 48521,
+        "region": "GA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

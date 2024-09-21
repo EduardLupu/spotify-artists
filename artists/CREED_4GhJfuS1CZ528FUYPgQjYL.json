@@ -1,0 +1,41 @@
+{
+  "id": "4GhJfuS1CZ528FUYPgQjYL",
+  "name": "CREED",
+  "followers": 61,
+  "monthlyListeners": 96,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 33,
+        "region": "25"
+      },
+      {
+        "city": "Parma",
+        "country": "IT",
+        "numberOfListeners": 13,
+        "region": "45"
+      },
+      {
+        "city": "Reggio Emilia",
+        "country": "IT",
+        "numberOfListeners": 11,
+        "region": "45"
+      },
+      {
+        "city": "Bologna",
+        "country": "IT",
+        "numberOfListeners": 9,
+        "region": "45"
+      },
+      {
+        "city": "Modena",
+        "country": "IT",
+        "numberOfListeners": 9,
+        "region": "45"
+      }
+    ]
+  },
+  "worldRank": 0
+}

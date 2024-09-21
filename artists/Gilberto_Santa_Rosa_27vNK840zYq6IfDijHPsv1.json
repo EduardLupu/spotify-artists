@@ -1,0 +1,41 @@
+{
+  "id": "27vNK840zYq6IfDijHPsv1",
+  "name": "Gilberto Santa Rosa",
+  "followers": 3162325,
+  "monthlyListeners": 7261683,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 539881,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 425507,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 322630,
+        "region": "LMA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 306281,
+        "region": "RM"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 253627,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

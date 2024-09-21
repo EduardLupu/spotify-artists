@@ -1,0 +1,41 @@
+{
+  "id": "31W5EY0aAly4Qieq6OFu6I",
+  "name": "A Boogie Wit da Hoodie",
+  "followers": 8438299,
+  "monthlyListeners": 16475466,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 341421,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 289520,
+        "region": "NY"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 287485,
+        "region": "ON"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 277009,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 259587,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 492
+}

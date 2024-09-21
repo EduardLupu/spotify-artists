@@ -1,0 +1,41 @@
+{
+  "id": "4HzKw8XcD0piJmDrrPRCYk",
+  "name": "Majid Jordan",
+  "followers": 958878,
+  "monthlyListeners": 8623681,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 166608,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 147899,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 144728,
+        "region": "NSW"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 135523,
+        "region": "ON"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 124344,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

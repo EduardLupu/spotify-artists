@@ -1,0 +1,41 @@
+{
+  "id": "3JSSjGYcIkgsrz7892CelT",
+  "name": "Ed Maverick",
+  "followers": 3374960,
+  "monthlyListeners": 6564426,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 500703,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 239765,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 224685,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 221292,
+        "region": "DC"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 205421,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

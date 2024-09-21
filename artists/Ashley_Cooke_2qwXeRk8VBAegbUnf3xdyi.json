@@ -1,0 +1,41 @@
+{
+  "id": "2qwXeRk8VBAegbUnf3xdyi",
+  "name": "Ashley Cooke",
+  "followers": 134441,
+  "monthlyListeners": 2505057,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 46144,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 41350,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 37887,
+        "region": "QLD"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 36883,
+        "region": "NC"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 33707,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

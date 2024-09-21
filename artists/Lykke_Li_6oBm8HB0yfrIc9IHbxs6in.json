@@ -1,0 +1,41 @@
+{
+  "id": "6oBm8HB0yfrIc9IHbxs6in",
+  "name": "Lykke Li",
+  "followers": 1876141,
+  "monthlyListeners": 9736992,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 135514,
+        "region": "IDF"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 134560,
+        "region": "CMX"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 120332,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 108844,
+        "region": "SP"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 106494,
+        "region": "34"
+      }
+    ]
+  },
+  "worldRank": 0
+}

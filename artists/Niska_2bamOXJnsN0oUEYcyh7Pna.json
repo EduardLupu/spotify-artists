@@ -1,0 +1,29 @@
+{
+  "id": "2bamOXJnsN0oUEYcyh7Pna",
+  "name": "Niska",
+  "followers": 88,
+  "monthlyListeners": 5,
+  "topCities": {
+    "items": [
+      {
+        "city": "Hanover",
+        "country": "DE",
+        "numberOfListeners": 1,
+        "region": "NI"
+      },
+      {
+        "city": "Libertyville",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "IL"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 1,
+        "region": "BRU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

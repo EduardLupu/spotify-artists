@@ -1,0 +1,41 @@
+{
+  "id": "4ScCswdRlyA23odg9thgIO",
+  "name": "Jess Glynne",
+  "followers": 3063891,
+  "monthlyListeners": 11224581,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 268955,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 219815,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 176895,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 158842,
+        "region": "NH"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 145698,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

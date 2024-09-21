@@ -1,0 +1,41 @@
+{
+  "id": "7scapvSjZLSm0fBgqGM0Mn",
+  "name": "Lil Loaded",
+  "followers": 1476043,
+  "monthlyListeners": 2212192,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 29906,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 24610,
+        "region": "TX"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 22493,
+        "region": "ON"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 22269,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 20587,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4YYxffPVDFe9XoqqbRW6Bq",
+  "name": "L-Gante",
+  "followers": 2303698,
+  "monthlyListeners": 4155099,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 452857,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 282809,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 188479,
+        "region": "B"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 127429,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 91889,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

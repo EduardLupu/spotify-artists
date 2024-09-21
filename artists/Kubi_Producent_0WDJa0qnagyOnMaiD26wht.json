@@ -1,0 +1,41 @@
+{
+  "id": "0WDJa0qnagyOnMaiD26wht",
+  "name": "Kubi Producent",
+  "followers": 248878,
+  "monthlyListeners": 1975416,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 598737,
+        "region": "14"
+      },
+      {
+        "city": "Poznan",
+        "country": "PL",
+        "numberOfListeners": 206122,
+        "region": "30"
+      },
+      {
+        "city": "Krakow",
+        "country": "PL",
+        "numberOfListeners": 198683,
+        "region": "12"
+      },
+      {
+        "city": "Katowice",
+        "country": "PL",
+        "numberOfListeners": 197503,
+        "region": "24"
+      },
+      {
+        "city": "Wroclaw",
+        "country": "PL",
+        "numberOfListeners": 165805,
+        "region": "02"
+      }
+    ]
+  },
+  "worldRank": 0
+}

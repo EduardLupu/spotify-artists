@@ -1,0 +1,41 @@
+{
+  "id": "3MwsTOtzM5Xv79LHgCAY3T",
+  "name": "Dakota",
+  "followers": 2022,
+  "monthlyListeners": 15312,
+  "topCities": {
+    "items": [
+      {
+        "city": "Riga",
+        "country": "LV",
+        "numberOfListeners": 12750,
+        "region": "RIX"
+      },
+      {
+        "city": "Jelgava",
+        "country": "LV",
+        "numberOfListeners": 216,
+        "region": "JEL"
+      },
+      {
+        "city": "Liepāja",
+        "country": "LV",
+        "numberOfListeners": 180,
+        "region": "LPX"
+      },
+      {
+        "city": "Valmiera",
+        "country": "LV",
+        "numberOfListeners": 158,
+        "region": "113"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 119,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

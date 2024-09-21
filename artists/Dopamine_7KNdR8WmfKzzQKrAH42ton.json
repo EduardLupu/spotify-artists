@@ -1,0 +1,41 @@
+{
+  "id": "7KNdR8WmfKzzQKrAH42ton",
+  "name": "Dopamine",
+  "followers": 357,
+  "monthlyListeners": 594,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 36,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 11,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 10,
+        "region": "QLD"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 9,
+        "region": "ENG"
+      },
+      {
+        "city": "San Francisco",
+        "country": "US",
+        "numberOfListeners": 6,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

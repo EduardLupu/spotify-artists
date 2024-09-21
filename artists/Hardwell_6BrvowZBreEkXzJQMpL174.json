@@ -1,0 +1,41 @@
+{
+  "id": "6BrvowZBreEkXzJQMpL174",
+  "name": "Hardwell",
+  "followers": 3654136,
+  "monthlyListeners": 6639813,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 146249,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 109202,
+        "region": "ZH"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 87343,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 86205,
+        "region": "HH"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 76514,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

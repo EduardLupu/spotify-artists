@@ -1,0 +1,41 @@
+{
+  "id": "0MvXEITde2pNsHG1YBJgik",
+  "name": "Arcane",
+  "followers": 4334,
+  "monthlyListeners": 7391,
+  "topCities": {
+    "items": [
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 147,
+        "region": "ON"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 103,
+        "region": "VIC"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 96,
+        "region": "18"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 91,
+        "region": "NSW"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 68,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

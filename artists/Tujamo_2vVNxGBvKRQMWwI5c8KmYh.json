@@ -1,0 +1,41 @@
+{
+  "id": "2vVNxGBvKRQMWwI5c8KmYh",
+  "name": "Tujamo",
+  "followers": 271160,
+  "monthlyListeners": 3597949,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 52356,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 48931,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 42462,
+        "region": "HE"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 38933,
+        "region": "JK"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 38571,
+        "region": "BY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7wOZy3KdFVVINgNFFxkxwO",
+  "name": "Jerry Rivera",
+  "followers": 2048747,
+  "monthlyListeners": 5659603,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 501383,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 396647,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 343580,
+        "region": "LMA"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 224635,
+        "region": "ANT"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 195068,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5RmQ8k4l3HZ8JoPb4mNsML",
+  "name": "Agust D",
+  "followers": 14845585,
+  "monthlyListeners": 3658858,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 120049,
+        "region": "JK"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 83144,
+        "region": "10"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 54505,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 49322,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 49245,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

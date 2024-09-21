@@ -1,0 +1,41 @@
+{
+  "id": "6mjJJG5KpgfyY1HfNvK54S",
+  "name": "Marina",
+  "followers": 861,
+  "monthlyListeners": 2752,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 284,
+        "region": "18"
+      },
+      {
+        "city": "Almaty",
+        "country": "KZ",
+        "numberOfListeners": 84,
+        "region": "75"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 53,
+        "region": "13"
+      },
+      {
+        "city": "Tampere",
+        "country": "FI",
+        "numberOfListeners": 51,
+        "region": "11"
+      },
+      {
+        "city": "Astana",
+        "country": "KZ",
+        "numberOfListeners": 51,
+        "region": "71"
+      }
+    ]
+  },
+  "worldRank": 0
+}

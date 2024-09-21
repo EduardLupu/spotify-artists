@@ -1,0 +1,41 @@
+{
+  "id": "5Wg6XnPTp0xXxFCjywwR9I",
+  "name": "Eddie Santiago",
+  "followers": 2148490,
+  "monthlyListeners": 7061117,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 594641,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 590836,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 362306,
+        "region": "LMA"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 277195,
+        "region": "CMX"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 266096,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

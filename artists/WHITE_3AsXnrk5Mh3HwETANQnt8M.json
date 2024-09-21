@@ -1,0 +1,41 @@
+{
+  "id": "3AsXnrk5Mh3HwETANQnt8M",
+  "name": "WHITE",
+  "followers": 3054,
+  "monthlyListeners": 914,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 34,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 25,
+        "region": "NH"
+      },
+      {
+        "city": "Glasgow",
+        "country": "GB",
+        "numberOfListeners": 24,
+        "region": "SCT"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 24,
+        "region": "L"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 18,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

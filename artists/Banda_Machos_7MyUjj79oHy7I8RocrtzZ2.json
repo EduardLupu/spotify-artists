@@ -1,0 +1,41 @@
+{
+  "id": "7MyUjj79oHy7I8RocrtzZ2",
+  "name": "Banda Machos",
+  "followers": 1808893,
+  "monthlyListeners": 3207498,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 276182,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 206405,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 129547,
+        "region": "QUE"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 126573,
+        "region": "JAL"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 108668,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "52zMTJCKluDlFwMQWmccY7",
+  "name": "LOONA",
+  "followers": 2404215,
+  "monthlyListeners": 1091283,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 26510,
+        "region": "JK"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 23953,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 18555,
+        "region": "SP"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 12462,
+        "region": ""
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 12115,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

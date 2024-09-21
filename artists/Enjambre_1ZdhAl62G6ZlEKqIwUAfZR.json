@@ -1,0 +1,41 @@
+{
+  "id": "1ZdhAl62G6ZlEKqIwUAfZR",
+  "name": "Enjambre",
+  "followers": 1487372,
+  "monthlyListeners": 2767606,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 501275,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 249315,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 219303,
+        "region": "CMX"
+      },
+      {
+        "city": "Cuauhtémoc",
+        "country": "MX",
+        "numberOfListeners": 170814,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 161157,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5jAMCwdNHWr7JThxtMuEyy",
+  "name": "NOTD",
+  "followers": 309524,
+  "monthlyListeners": 3018236,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 55962,
+        "region": "NSW"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 52144,
+        "region": "AB"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 48175,
+        "region": "NY"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 43996,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 36557,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

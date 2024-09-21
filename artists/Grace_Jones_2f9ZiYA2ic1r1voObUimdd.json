@@ -1,0 +1,41 @@
+{
+  "id": "2f9ZiYA2ic1r1voObUimdd",
+  "name": "Grace Jones",
+  "followers": 337415,
+  "monthlyListeners": 878703,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 23236,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 17688,
+        "region": "NH"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 16111,
+        "region": "IDF"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 13941,
+        "region": "RM"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 13577,
+        "region": "BRU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

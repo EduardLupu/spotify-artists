@@ -1,0 +1,41 @@
+{
+  "id": "5InVWl8IZB8zFAoNa5roKm",
+  "name": "Mc Kako",
+  "followers": 1087894,
+  "monthlyListeners": 6904686,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1472343,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 411592,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 384685,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 352965,
+        "region": "RJ"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 319143,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2tVk5Sy0FnjpHsVcefhyQz",
+  "name": "Reezy",
+  "followers": 1509,
+  "monthlyListeners": 445,
+  "topCities": {
+    "items": [
+      {
+        "city": "Vancouver",
+        "country": "CA",
+        "numberOfListeners": 28,
+        "region": "BC"
+      },
+      {
+        "city": "Surrey",
+        "country": "CA",
+        "numberOfListeners": 12,
+        "region": "BC"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 11,
+        "region": "ON"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 8,
+        "region": "NSW"
+      },
+      {
+        "city": "Calgary",
+        "country": "CA",
+        "numberOfListeners": 8,
+        "region": "AB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

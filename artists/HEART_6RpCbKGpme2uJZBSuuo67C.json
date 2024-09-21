@@ -1,0 +1,41 @@
+{
+  "id": "6RpCbKGpme2uJZBSuuo67C",
+  "name": "HEART",
+  "followers": 132,
+  "monthlyListeners": 735,
+  "topCities": {
+    "items": [
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 13,
+        "region": "AZ"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 12,
+        "region": "GA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 11,
+        "region": "CO"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 11,
+        "region": "CA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 10,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

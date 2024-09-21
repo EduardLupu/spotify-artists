@@ -1,0 +1,41 @@
+{
+  "id": "6meTcQ79DrfkIuSLPZkpBg",
+  "name": "The Story So Far",
+  "followers": 474418,
+  "monthlyListeners": 898237,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 22543,
+        "region": "JK"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 18631,
+        "region": "IL"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 17820,
+        "region": "PA"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 17121,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 16877,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

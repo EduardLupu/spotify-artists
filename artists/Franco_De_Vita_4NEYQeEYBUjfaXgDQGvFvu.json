@@ -1,0 +1,41 @@
+{
+  "id": "4NEYQeEYBUjfaXgDQGvFvu",
+  "name": "Franco De Vita",
+  "followers": 5494956,
+  "monthlyListeners": 9947034,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 599070,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 501983,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 343381,
+        "region": "DC"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 287222,
+        "region": "JAL"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 284399,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

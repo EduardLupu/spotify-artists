@@ -1,0 +1,41 @@
+{
+  "id": "0U5RYP2HMdGv2GhicLhkOI",
+  "name": "Neto Peña",
+  "followers": 1548315,
+  "monthlyListeners": 6526519,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 596851,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 322641,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 293453,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 270514,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 250066,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

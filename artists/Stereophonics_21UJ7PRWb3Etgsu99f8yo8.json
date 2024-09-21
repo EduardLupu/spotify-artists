@@ -1,0 +1,41 @@
+{
+  "id": "21UJ7PRWb3Etgsu99f8yo8",
+  "name": "Stereophonics",
+  "followers": 1585119,
+  "monthlyListeners": 3404543,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 285499,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 120987,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 98671,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 83995,
+        "region": "ENG"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 79691,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

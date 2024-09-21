@@ -1,0 +1,41 @@
+{
+  "id": "6ElqtIfQsAkEYypgfJIjeK",
+  "name": "DannyLux",
+  "followers": 1743151,
+  "monthlyListeners": 6203461,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 373660,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 225531,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 183745,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 174926,
+        "region": "PUE"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 147628,
+        "region": "QUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

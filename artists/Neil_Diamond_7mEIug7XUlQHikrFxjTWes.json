@@ -1,0 +1,41 @@
+{
+  "id": "7mEIug7XUlQHikrFxjTWes",
+  "name": "Neil Diamond",
+  "followers": 2886057,
+  "monthlyListeners": 7833780,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 174626,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 150511,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 142423,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 124913,
+        "region": "QLD"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 93486,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

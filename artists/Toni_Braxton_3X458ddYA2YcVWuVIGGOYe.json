@@ -1,0 +1,41 @@
+{
+  "id": "3X458ddYA2YcVWuVIGGOYe",
+  "name": "Toni Braxton",
+  "followers": 4206685,
+  "monthlyListeners": 4652540,
+  "topCities": {
+    "items": [
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 147314,
+        "region": "GP"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 90425,
+        "region": "SP"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 82749,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 72402,
+        "region": "ENG"
+      },
+      {
+        "city": "Pretoria",
+        "country": "ZA",
+        "numberOfListeners": 67876,
+        "region": "GP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3KKomwHhzofchp8VArk3sC",
+  "name": "Luche",
+  "followers": 272,
+  "monthlyListeners": 9481,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1374,
+        "region": "C"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 725,
+        "region": "B"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 358,
+        "region": "X"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 341,
+        "region": "RM"
+      },
+      {
+        "city": "Montevideo",
+        "country": "UY",
+        "numberOfListeners": 256,
+        "region": "MO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

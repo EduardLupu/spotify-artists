@@ -1,0 +1,41 @@
+{
+  "id": "0YrtvWJMgSdVrk3SfNjTbx",
+  "name": "Death Cab for Cutie",
+  "followers": 1536643,
+  "monthlyListeners": 3388419,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 61705,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 56163,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 54185,
+        "region": "NY"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 53614,
+        "region": "WA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 46900,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2eogQKWWoohI3BSnoG7E2U",
+  "name": "Donna Summer",
+  "followers": 2021197,
+  "monthlyListeners": 5221760,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 109109,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 103227,
+        "region": "RM"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 75557,
+        "region": "ENG"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 63059,
+        "region": "IDF"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 56819,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

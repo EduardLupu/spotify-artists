@@ -1,0 +1,41 @@
+{
+  "id": "71IQntaV7HD081NS6wDUgP",
+  "name": "Noah Issa",
+  "followers": 1856,
+  "monthlyListeners": 14328,
+  "topCities": {
+    "items": [
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 356,
+        "region": "ON"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 262,
+        "region": "QC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 248,
+        "region": "ENG"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 204,
+        "region": "DC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 146,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4WENCisKu4uYlfm1r7PVkj",
+  "name": "Adam Levine",
+  "followers": 958,
+  "monthlyListeners": 256,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 19,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 5,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 4,
+        "region": "VIC"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 3,
+        "region": "CMX"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 3,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

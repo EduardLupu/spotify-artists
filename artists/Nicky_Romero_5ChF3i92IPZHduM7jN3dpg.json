@@ -1,0 +1,41 @@
+{
+  "id": "5ChF3i92IPZHduM7jN3dpg",
+  "name": "Nicky Romero",
+  "followers": 2191112,
+  "monthlyListeners": 4431997,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 66502,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 57347,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 55504,
+        "region": "NH"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 53628,
+        "region": "VIC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 52912,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

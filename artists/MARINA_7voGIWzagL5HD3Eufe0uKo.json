@@ -1,0 +1,41 @@
+{
+  "id": "7voGIWzagL5HD3Eufe0uKo",
+  "name": "MARINA",
+  "followers": 617,
+  "monthlyListeners": 1344,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bucharest",
+        "country": "RO",
+        "numberOfListeners": 128,
+        "region": "B"
+      },
+      {
+        "city": "Cluj-Napoca",
+        "country": "RO",
+        "numberOfListeners": 63,
+        "region": "CJ"
+      },
+      {
+        "city": "Timișoara",
+        "country": "RO",
+        "numberOfListeners": 45,
+        "region": "TM"
+      },
+      {
+        "city": "Iasi",
+        "country": "RO",
+        "numberOfListeners": 43,
+        "region": "IS"
+      },
+      {
+        "city": "Oradea",
+        "country": "RO",
+        "numberOfListeners": 38,
+        "region": "BH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2avRYQUWQpIkzJOEkf0MdY",
+  "name": "Kx5",
+  "followers": 81520,
+  "monthlyListeners": 1249602,
+  "topCities": {
+    "items": [
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 25369,
+        "region": "ON"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 23472,
+        "region": "CA"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 21542,
+        "region": "QC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 20758,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 18122,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

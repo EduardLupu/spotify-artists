@@ -1,0 +1,41 @@
+{
+  "id": "10xCtVcfYqdAuR1NGxoPeb",
+  "name": "BIA",
+  "followers": 2573,
+  "monthlyListeners": 894,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bucharest",
+        "country": "RO",
+        "numberOfListeners": 77,
+        "region": "B"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 23,
+        "region": "25"
+      },
+      {
+        "city": "Iasi",
+        "country": "RO",
+        "numberOfListeners": 21,
+        "region": "IS"
+      },
+      {
+        "city": "Timișoara",
+        "country": "RO",
+        "numberOfListeners": 18,
+        "region": "TM"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 15,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

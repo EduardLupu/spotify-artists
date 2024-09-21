@@ -1,0 +1,41 @@
+{
+  "id": "4TK1gDgb7QKoPFlzRrBRgR",
+  "name": "Los Enanitos Verdes",
+  "followers": 4336342,
+  "monthlyListeners": 14556779,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 971161,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 770490,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 601965,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 498098,
+        "region": "DC"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 474365,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

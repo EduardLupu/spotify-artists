@@ -1,0 +1,41 @@
+{
+  "id": "0FI0kxP0BWurTz8cB8BBug",
+  "name": "Mark Knopfler",
+  "followers": 1630650,
+  "monthlyListeners": 2315317,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 45387,
+        "region": "NH"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 37620,
+        "region": "03"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 36858,
+        "region": "AB"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 30832,
+        "region": "ENG"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 29120,
+        "region": "ZH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4pwXiI7Z5ZStkgKowZyoKi",
+  "name": "Like Mike",
+  "followers": 190171,
+  "monthlyListeners": 12030868,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 196161,
+        "region": "NH"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 178304,
+        "region": "BRU"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 177064,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 152828,
+        "region": "HH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 144855,
+        "region": "ZH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

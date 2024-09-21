@@ -1,0 +1,41 @@
+{
+  "id": "6sq1yF0OZEWA4xoXVKW1L9",
+  "name": "Alejandro Fernández",
+  "followers": 7726155,
+  "monthlyListeners": 15834183,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1207743,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 673235,
+        "region": "RM"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 617274,
+        "region": "JAL"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 548428,
+        "region": "DC"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 471129,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

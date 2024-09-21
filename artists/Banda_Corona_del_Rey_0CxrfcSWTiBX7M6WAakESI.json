@@ -1,0 +1,41 @@
+{
+  "id": "0CxrfcSWTiBX7M6WAakESI",
+  "name": "Banda Corona del Rey",
+  "followers": 133645,
+  "monthlyListeners": 629210,
+  "topCities": {
+    "items": [
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 43856,
+        "region": "JAL"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 40556,
+        "region": "CMX"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 34250,
+        "region": "QUE"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 30912,
+        "region": "JAL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 18818,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

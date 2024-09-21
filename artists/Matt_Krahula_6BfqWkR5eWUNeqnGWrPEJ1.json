@@ -1,0 +1,41 @@
+{
+  "id": "6BfqWkR5eWUNeqnGWrPEJ1",
+  "name": "Matt Krahula",
+  "followers": 522,
+  "monthlyListeners": 1361,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 172,
+        "region": "18"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 18,
+        "region": "NY"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 17,
+        "region": "ENG"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 16,
+        "region": "JK"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 16,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

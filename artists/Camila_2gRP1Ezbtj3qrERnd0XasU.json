@@ -1,0 +1,41 @@
+{
+  "id": "2gRP1Ezbtj3qrERnd0XasU",
+  "name": "Camila",
+  "followers": 4642829,
+  "monthlyListeners": 15653058,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 830247,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 709181,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 586052,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 543892,
+        "region": "DC"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 411270,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

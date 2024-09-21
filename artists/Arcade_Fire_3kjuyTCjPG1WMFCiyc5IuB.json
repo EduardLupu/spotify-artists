@@ -1,0 +1,41 @@
+{
+  "id": "3kjuyTCjPG1WMFCiyc5IuB",
+  "name": "Arcade Fire",
+  "followers": 2311646,
+  "monthlyListeners": 3790730,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 85099,
+        "region": "ENG"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 60976,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 54305,
+        "region": "RM"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 48643,
+        "region": "ON"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 46804,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

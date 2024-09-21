@@ -1,0 +1,41 @@
+{
+  "id": "0g5Bk15IdxhKc6Gea7cE3r",
+  "name": "Leonardo",
+  "followers": 142,
+  "monthlyListeners": 71,
+  "topCities": {
+    "items": [
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 2,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 2,
+        "region": "RJ"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 2,
+        "region": "CT"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 2,
+        "region": "VIC"
+      },
+      {
+        "city": "Nuremberg",
+        "country": "DE",
+        "numberOfListeners": 2,
+        "region": "BY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3nFiLTY27sDLtht7elCXrS",
+  "name": "Tool",
+  "followers": 402,
+  "monthlyListeners": 979,
+  "topCities": {
+    "items": [
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 18,
+        "region": "VIC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 17,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 16,
+        "region": "NSW"
+      },
+      {
+        "city": "Auckland",
+        "country": "NZ",
+        "numberOfListeners": 13,
+        "region": "AUK"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 12,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

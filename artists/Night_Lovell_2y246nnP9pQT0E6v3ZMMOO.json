@@ -1,0 +1,41 @@
+{
+  "id": "2y246nnP9pQT0E6v3ZMMOO",
+  "name": "Night Lovell",
+  "followers": 1427175,
+  "monthlyListeners": 3788614,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 50555,
+        "region": "34"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 46911,
+        "region": "AZ"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 45114,
+        "region": "IL"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 43588,
+        "region": "CO"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 42807,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

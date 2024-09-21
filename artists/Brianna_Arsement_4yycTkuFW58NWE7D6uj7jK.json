@@ -1,0 +1,41 @@
+{
+  "id": "4yycTkuFW58NWE7D6uj7jK",
+  "name": "Brianna Arsement",
+  "followers": 75504,
+  "monthlyListeners": 4849,
+  "topCities": {
+    "items": [
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 97,
+        "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 95,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 78,
+        "region": "QLD"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 67,
+        "region": "ENG"
+      },
+      {
+        "city": "Perth",
+        "country": "AU",
+        "numberOfListeners": 49,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

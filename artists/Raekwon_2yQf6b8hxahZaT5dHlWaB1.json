@@ -1,0 +1,41 @@
+{
+  "id": "2yQf6b8hxahZaT5dHlWaB1",
+  "name": "Raekwon",
+  "followers": 615268,
+  "monthlyListeners": 851691,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 15042,
+        "region": "NY"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 14970,
+        "region": "CA"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 13906,
+        "region": "NY"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 13235,
+        "region": "ENG"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 12932,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

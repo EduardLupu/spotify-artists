@@ -1,0 +1,41 @@
+{
+  "id": "6prmLEyn4LfHlD9NnXWlf7",
+  "name": "Adam Lambert",
+  "followers": 1623005,
+  "monthlyListeners": 2640289,
+  "topCities": {
+    "items": [
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 56997,
+        "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 56115,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 38813,
+        "region": "QLD"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 28617,
+        "region": "18"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 27747,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

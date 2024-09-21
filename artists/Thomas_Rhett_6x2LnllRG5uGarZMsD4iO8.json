@@ -1,0 +1,41 @@
+{
+  "id": "6x2LnllRG5uGarZMsD4iO8",
+  "name": "Thomas Rhett",
+  "followers": 4742263,
+  "monthlyListeners": 11154941,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 230790,
+        "region": "IL"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 191423,
+        "region": "ON"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 188282,
+        "region": "NSW"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 183640,
+        "region": "NC"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 180632,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

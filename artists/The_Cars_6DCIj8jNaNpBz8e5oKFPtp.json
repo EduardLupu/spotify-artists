@@ -1,0 +1,41 @@
+{
+  "id": "6DCIj8jNaNpBz8e5oKFPtp",
+  "name": "The Cars",
+  "followers": 1869599,
+  "monthlyListeners": 7454119,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 142023,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 101859,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 100218,
+        "region": "SP"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 85183,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 83159,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3B3KleUTIX5aaygS0wUoQA",
+  "name": "Frostfm",
+  "followers": 43868,
+  "monthlyListeners": 162283,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 1410,
+        "region": "34"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1359,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1342,
+        "region": "SP"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1319,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 1067,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

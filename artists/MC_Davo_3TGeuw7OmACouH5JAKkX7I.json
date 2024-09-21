@@ -1,0 +1,41 @@
+{
+  "id": "3TGeuw7OmACouH5JAKkX7I",
+  "name": "MC Davo",
+  "followers": 2642723,
+  "monthlyListeners": 6021572,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 552298,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 286966,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 261071,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 235882,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 229075,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

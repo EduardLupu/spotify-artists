@@ -1,0 +1,41 @@
+{
+  "id": "2U3FuHYvL3vhkbDAXm24Ep",
+  "name": "Dan Caplen",
+  "followers": 27581,
+  "monthlyListeners": 3919193,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 89435,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 77479,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 71602,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 64297,
+        "region": "QLD"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 46550,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

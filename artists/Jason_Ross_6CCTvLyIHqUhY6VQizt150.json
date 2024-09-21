@@ -1,0 +1,41 @@
+{
+  "id": "6CCTvLyIHqUhY6VQizt150",
+  "name": "Jason Ross",
+  "followers": 61736,
+  "monthlyListeners": 539632,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 17775,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 10816,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 10328,
+        "region": "NY"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 9451,
+        "region": "WA"
+      },
+      {
+        "city": "San Francisco",
+        "country": "US",
+        "numberOfListeners": 9019,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

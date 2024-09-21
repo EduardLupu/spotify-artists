@@ -1,0 +1,41 @@
+{
+  "id": "2hGh5VOeeqimQFxqXvfCUf",
+  "name": "John Coltrane",
+  "followers": 1684629,
+  "monthlyListeners": 2560889,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 31855,
+        "region": "NY"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 30071,
+        "region": "RM"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 29411,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 29375,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 28304,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

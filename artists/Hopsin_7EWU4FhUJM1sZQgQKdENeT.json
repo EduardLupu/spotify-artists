@@ -1,0 +1,41 @@
+{
+  "id": "7EWU4FhUJM1sZQgQKdENeT",
+  "name": "Hopsin",
+  "followers": 2413489,
+  "monthlyListeners": 1252180,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 22404,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 20566,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 19956,
+        "region": "QLD"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 19398,
+        "region": "CO"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 18590,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

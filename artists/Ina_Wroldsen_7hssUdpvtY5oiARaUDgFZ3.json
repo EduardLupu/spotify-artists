@@ -1,0 +1,41 @@
+{
+  "id": "7hssUdpvtY5oiARaUDgFZ3",
+  "name": "Ina Wroldsen",
+  "followers": 175355,
+  "monthlyListeners": 3225245,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 110859,
+        "region": "14"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 91820,
+        "region": "03"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 81718,
+        "region": "JK"
+      },
+      {
+        "city": "Krakow",
+        "country": "PL",
+        "numberOfListeners": 39404,
+        "region": "12"
+      },
+      {
+        "city": "Katowice",
+        "country": "PL",
+        "numberOfListeners": 37002,
+        "region": "24"
+      }
+    ]
+  },
+  "worldRank": 0
+}

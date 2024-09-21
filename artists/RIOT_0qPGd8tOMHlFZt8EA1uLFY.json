@@ -1,0 +1,41 @@
+{
+  "id": "0qPGd8tOMHlFZt8EA1uLFY",
+  "name": "RIOT",
+  "followers": 83732,
+  "monthlyListeners": 543755,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 9497,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 7865,
+        "region": "IL"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 7013,
+        "region": "WA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 6992,
+        "region": "CO"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 5621,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

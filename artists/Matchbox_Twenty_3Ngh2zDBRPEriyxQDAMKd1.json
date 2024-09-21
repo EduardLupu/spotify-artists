@@ -1,0 +1,41 @@
+{
+  "id": "3Ngh2zDBRPEriyxQDAMKd1",
+  "name": "Matchbox Twenty",
+  "followers": 2538491,
+  "monthlyListeners": 8301456,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 235574,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 206615,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 188497,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 127818,
+        "region": "IL"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 109566,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

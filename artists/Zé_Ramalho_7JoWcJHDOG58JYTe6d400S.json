@@ -1,0 +1,41 @@
+{
+  "id": "7JoWcJHDOG58JYTe6d400S",
+  "name": "Zé Ramalho",
+  "followers": 2661987,
+  "monthlyListeners": 3058668,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 456738,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 204574,
+        "region": "MG"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 181045,
+        "region": "RJ"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 132144,
+        "region": "DF"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 109627,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

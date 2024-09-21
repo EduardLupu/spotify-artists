@@ -1,0 +1,41 @@
+{
+  "id": "57ylwQTnFnIhJh4nu4rxCs",
+  "name": "In Flames",
+  "followers": 1202982,
+  "monthlyListeners": 2173810,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 73156,
+        "region": "18"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 61219,
+        "region": "AB"
+      },
+      {
+        "city": "Gothenburg",
+        "country": "SE",
+        "numberOfListeners": 30936,
+        "region": "O"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 25057,
+        "region": "RM"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 24977,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

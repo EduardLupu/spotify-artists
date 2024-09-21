@@ -1,0 +1,41 @@
+{
+  "id": "75VKfyoBlkmrJFDqo1o2VY",
+  "name": "Fireboy DML",
+  "followers": 3101307,
+  "monthlyListeners": 8802571,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 818526,
+        "region": "LA"
+      },
+      {
+        "city": "Abuja",
+        "country": "NG",
+        "numberOfListeners": 363686,
+        "region": "FC"
+      },
+      {
+        "city": "Port Harcourt",
+        "country": "NG",
+        "numberOfListeners": 271754,
+        "region": "RI"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 237424,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 172645,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

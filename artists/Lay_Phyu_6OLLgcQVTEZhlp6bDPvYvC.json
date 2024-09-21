@@ -1,0 +1,41 @@
+{
+  "id": "6OLLgcQVTEZhlp6bDPvYvC",
+  "name": "Lay Phyu",
+  "followers": 67883,
+  "monthlyListeners": 46000,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 12033,
+        "region": "10"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 6078,
+        "region": ""
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 2775,
+        "region": "14"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 1001,
+        "region": "13"
+      },
+      {
+        "city": "Phuket",
+        "country": "TH",
+        "numberOfListeners": 826,
+        "region": "83"
+      }
+    ]
+  },
+  "worldRank": 0
+}

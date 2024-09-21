@@ -1,0 +1,41 @@
+{
+  "id": "2nszmSgqreHSdJA3zWPyrW",
+  "name": "Luis Miguel",
+  "followers": 16758793,
+  "monthlyListeners": 18088268,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1790314,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 786180,
+        "region": "RM"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 777190,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 740245,
+        "region": "JAL"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 695901,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 426
+}

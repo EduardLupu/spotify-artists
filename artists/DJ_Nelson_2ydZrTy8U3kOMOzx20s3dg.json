@@ -1,0 +1,41 @@
+{
+  "id": "2ydZrTy8U3kOMOzx20s3dg",
+  "name": "DJ Nelson",
+  "followers": 1152074,
+  "monthlyListeners": 14619676,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 866840,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 702115,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 685171,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 400920,
+        "region": "CMX"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 356189,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

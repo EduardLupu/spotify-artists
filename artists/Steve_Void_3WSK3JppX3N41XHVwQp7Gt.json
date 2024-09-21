@@ -1,0 +1,41 @@
+{
+  "id": "3WSK3JppX3N41XHVwQp7Gt",
+  "name": "Steve Void",
+  "followers": 74545,
+  "monthlyListeners": 1170179,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 18169,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 15126,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 14585,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 14203,
+        "region": "SP"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 13788,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

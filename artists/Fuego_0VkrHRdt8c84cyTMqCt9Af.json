@@ -1,0 +1,41 @@
+{
+  "id": "0VkrHRdt8c84cyTMqCt9Af",
+  "name": "Fuego",
+  "followers": 5585,
+  "monthlyListeners": 33811,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bucharest",
+        "country": "RO",
+        "numberOfListeners": 4746,
+        "region": "B"
+      },
+      {
+        "city": "Chisinau",
+        "country": "MD",
+        "numberOfListeners": 2253,
+        "region": "CU"
+      },
+      {
+        "city": "Cluj-Napoca",
+        "country": "RO",
+        "numberOfListeners": 1258,
+        "region": "CJ"
+      },
+      {
+        "city": "Iasi",
+        "country": "RO",
+        "numberOfListeners": 1094,
+        "region": "IS"
+      },
+      {
+        "city": "Timișoara",
+        "country": "RO",
+        "numberOfListeners": 864,
+        "region": "TM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

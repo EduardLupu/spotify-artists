@@ -1,0 +1,41 @@
+{
+  "id": "6deZN1bslXzeGvOLaLMOIF",
+  "name": "Nickelback",
+  "followers": 7046895,
+  "monthlyListeners": 23095686,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 388420,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 372207,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 362896,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 322748,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 300188,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 266
+}

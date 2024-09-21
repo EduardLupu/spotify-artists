@@ -1,0 +1,41 @@
+{
+  "id": "0KPX4Ucy9dk82uj4GpKesn",
+  "name": "Dalex",
+  "followers": 4926270,
+  "monthlyListeners": 13172249,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 678507,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 651297,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 516091,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 506380,
+        "region": "C"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 482922,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

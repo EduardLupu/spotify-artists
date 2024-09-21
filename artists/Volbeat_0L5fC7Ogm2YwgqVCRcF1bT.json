@@ -1,0 +1,41 @@
+{
+  "id": "0L5fC7Ogm2YwgqVCRcF1bT",
+  "name": "Volbeat",
+  "followers": 2557547,
+  "monthlyListeners": 4956284,
+  "topCities": {
+    "items": [
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 130219,
+        "region": "AB"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 115744,
+        "region": "18"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 98077,
+        "region": "9"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 94116,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 87719,
+        "region": "HE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

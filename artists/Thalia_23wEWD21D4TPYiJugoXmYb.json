@@ -1,0 +1,41 @@
+{
+  "id": "23wEWD21D4TPYiJugoXmYb",
+  "name": "Thalia",
+  "followers": 5009991,
+  "monthlyListeners": 9607194,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 493069,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 473299,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 287946,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 268646,
+        "region": "DC"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 232558,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

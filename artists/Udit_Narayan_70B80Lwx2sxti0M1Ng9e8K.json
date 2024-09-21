@@ -1,0 +1,41 @@
+{
+  "id": "70B80Lwx2sxti0M1Ng9e8K",
+  "name": "Udit Narayan",
+  "followers": 15868155,
+  "monthlyListeners": 25495920,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 2175606,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1847218,
+        "region": "MH"
+      },
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 1791612,
+        "region": "TN"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 1639800,
+        "region": "TS"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 1612726,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 212
+}

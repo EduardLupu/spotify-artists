@@ -1,0 +1,41 @@
+{
+  "id": "2kbv7StqquBzmx54HetKbs",
+  "name": "Khalid",
+  "followers": 13293,
+  "monthlyListeners": 21326,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dhaka",
+        "country": "BD",
+        "numberOfListeners": 9215,
+        "region": "C"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 2864,
+        "region": "WB"
+      },
+      {
+        "city": "Chittagong",
+        "country": "BD",
+        "numberOfListeners": 1035,
+        "region": "B"
+      },
+      {
+        "city": "Guwahati",
+        "country": "IN",
+        "numberOfListeners": 361,
+        "region": "AS"
+      },
+      {
+        "city": "Rajshahi",
+        "country": "BD",
+        "numberOfListeners": 338,
+        "region": "E"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4EukMPjtYsdi87lkU1hIxN",
+  "name": "Manila Killa",
+  "followers": 69601,
+  "monthlyListeners": 244168,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 7482,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 4250,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 4047,
+        "region": "IL"
+      },
+      {
+        "city": "San Francisco",
+        "country": "US",
+        "numberOfListeners": 3668,
+        "region": "CA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 3626,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

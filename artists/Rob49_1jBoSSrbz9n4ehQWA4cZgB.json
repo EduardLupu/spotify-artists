@@ -1,0 +1,41 @@
+{
+  "id": "1jBoSSrbz9n4ehQWA4cZgB",
+  "name": "Rob49",
+  "followers": 230964,
+  "monthlyListeners": 6449338,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 112164,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 82652,
+        "region": "TX"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 81978,
+        "region": "CA"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 80308,
+        "region": "GA"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 76112,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

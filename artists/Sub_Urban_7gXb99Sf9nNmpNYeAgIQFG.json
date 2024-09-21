@@ -1,0 +1,41 @@
+{
+  "id": "7gXb99Sf9nNmpNYeAgIQFG",
+  "name": "Sub Urban",
+  "followers": 1731900,
+  "monthlyListeners": 6000120,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 71454,
+        "region": "KA"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 69837,
+        "region": "SP"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 67312,
+        "region": "JK"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 61414,
+        "region": "MH"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 48048,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

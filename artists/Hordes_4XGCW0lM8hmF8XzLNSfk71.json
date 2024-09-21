@@ -1,0 +1,41 @@
+{
+  "id": "4XGCW0lM8hmF8XzLNSfk71",
+  "name": "Hordes",
+  "followers": 188,
+  "monthlyListeners": 1417,
+  "topCities": {
+    "items": [
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 66,
+        "region": "00"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 55,
+        "region": "JK"
+      },
+      {
+        "city": "Davao City",
+        "country": "PH",
+        "numberOfListeners": 39,
+        "region": "11"
+      },
+      {
+        "city": "Manila",
+        "country": "PH",
+        "numberOfListeners": 33,
+        "region": "00"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 29,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

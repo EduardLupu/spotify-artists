@@ -1,0 +1,41 @@
+{
+  "id": "2NPduAUeLVsfIauhRwuft1",
+  "name": "Nightwish",
+  "followers": 2232910,
+  "monthlyListeners": 2876090,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 146463,
+        "region": "18"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 58322,
+        "region": "10"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 50204,
+        "region": "SP"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 46111,
+        "region": "AB"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 41919,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

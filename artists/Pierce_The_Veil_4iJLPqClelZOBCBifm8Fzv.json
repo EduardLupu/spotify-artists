@@ -1,0 +1,41 @@
+{
+  "id": "4iJLPqClelZOBCBifm8Fzv",
+  "name": "Pierce The Veil",
+  "followers": 3155098,
+  "monthlyListeners": 5890229,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 113925,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 110656,
+        "region": "IL"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 103150,
+        "region": "JK"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 99598,
+        "region": "TX"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 82785,
+        "region": "AZ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

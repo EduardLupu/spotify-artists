@@ -1,0 +1,41 @@
+{
+  "id": "7bHm3B3jJju0q9FUdOgp3b",
+  "name": "Blockhead",
+  "followers": 182240,
+  "monthlyListeners": 280676,
+  "topCities": {
+    "items": [
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 4816,
+        "region": "CO"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 4307,
+        "region": "WA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 3971,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 3846,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 3716,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

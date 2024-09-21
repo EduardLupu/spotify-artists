@@ -1,0 +1,41 @@
+{
+  "id": "6ynopZPMBXcIGBI9M02Un5",
+  "name": "Haftbefehl",
+  "followers": 758121,
+  "monthlyListeners": 2294045,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 236293,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 203551,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 176699,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 150140,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 142823,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

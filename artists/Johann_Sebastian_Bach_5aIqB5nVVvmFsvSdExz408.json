@@ -1,0 +1,41 @@
+{
+  "id": "5aIqB5nVVvmFsvSdExz408",
+  "name": "Johann Sebastian Bach",
+  "followers": 4436406,
+  "monthlyListeners": 7792485,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 91131,
+        "region": "ENG"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 90995,
+        "region": "IDF"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 88195,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 74177,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 72101,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

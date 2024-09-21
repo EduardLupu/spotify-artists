@@ -1,0 +1,41 @@
+{
+  "id": "09xj0S68Y1OU1vHMCZAIvz",
+  "name": "Café Tacvba",
+  "followers": 3147655,
+  "monthlyListeners": 6615680,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 677704,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 280765,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 244396,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 243611,
+        "region": "RM"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 243496,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

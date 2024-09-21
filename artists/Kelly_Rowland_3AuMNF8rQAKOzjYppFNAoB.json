@@ -1,0 +1,41 @@
+{
+  "id": "3AuMNF8rQAKOzjYppFNAoB",
+  "name": "Kelly Rowland",
+  "followers": 3493551,
+  "monthlyListeners": 3205497,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 70446,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 58939,
+        "region": "NSW"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 50443,
+        "region": "GP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 47339,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 37463,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

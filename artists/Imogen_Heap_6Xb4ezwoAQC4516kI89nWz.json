@@ -1,0 +1,41 @@
+{
+  "id": "6Xb4ezwoAQC4516kI89nWz",
+  "name": "Imogen Heap",
+  "followers": 521867,
+  "monthlyListeners": 10459963,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 153539,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 146946,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 141124,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 132596,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 123550,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

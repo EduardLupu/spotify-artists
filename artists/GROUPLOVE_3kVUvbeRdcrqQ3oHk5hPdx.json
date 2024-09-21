@@ -1,0 +1,41 @@
+{
+  "id": "3kVUvbeRdcrqQ3oHk5hPdx",
+  "name": "GROUPLOVE",
+  "followers": 1195015,
+  "monthlyListeners": 6350669,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 95598,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 94356,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 86397,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 80994,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 80266,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

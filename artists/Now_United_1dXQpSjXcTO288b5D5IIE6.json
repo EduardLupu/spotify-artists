@@ -1,0 +1,41 @@
+{
+  "id": "1dXQpSjXcTO288b5D5IIE6",
+  "name": "Now United",
+  "followers": 2120768,
+  "monthlyListeners": 390406,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 43813,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 18559,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 10507,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 8847,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 8665,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

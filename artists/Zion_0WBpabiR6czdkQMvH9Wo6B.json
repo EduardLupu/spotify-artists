@@ -1,0 +1,41 @@
+{
+  "id": "0WBpabiR6czdkQMvH9Wo6B",
+  "name": "Zion",
+  "followers": 304,
+  "monthlyListeners": 2546,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 156,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 52,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 43,
+        "region": "QLD"
+      },
+      {
+        "city": "Perth",
+        "country": "AU",
+        "numberOfListeners": 38,
+        "region": "WA"
+      },
+      {
+        "city": "Auckland",
+        "country": "NZ",
+        "numberOfListeners": 29,
+        "region": "AUK"
+      }
+    ]
+  },
+  "worldRank": 0
+}

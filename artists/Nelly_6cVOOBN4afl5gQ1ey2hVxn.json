@@ -1,0 +1,41 @@
+{
+  "id": "6cVOOBN4afl5gQ1ey2hVxn",
+  "name": "Nelly",
+  "followers": 384,
+  "monthlyListeners": 568,
+  "topCities": {
+    "items": [
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 238,
+        "region": "NY"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 84,
+        "region": "BE"
+      },
+      {
+        "city": "Pomezia",
+        "country": "IT",
+        "numberOfListeners": 64,
+        "region": "62"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 9,
+        "region": "03"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 6,
+        "region": "AB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

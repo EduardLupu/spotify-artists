@@ -1,0 +1,41 @@
+{
+  "id": "6PERJZF7wohA034PAxDK0b",
+  "name": "Neo Beats",
+  "followers": 95404,
+  "monthlyListeners": 4644290,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 703451,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 451090,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 216189,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 159243,
+        "region": "PR"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 156928,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

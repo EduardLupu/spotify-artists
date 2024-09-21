@@ -1,0 +1,41 @@
+{
+  "id": "5rGrDvrLOV2VV8SCFVGWlj",
+  "name": "Imanbek",
+  "followers": 247185,
+  "monthlyListeners": 14274081,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 186437,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 174602,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 145753,
+        "region": "VIC"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 142320,
+        "region": "QC"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 133995,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

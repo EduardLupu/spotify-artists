@@ -1,0 +1,41 @@
+{
+  "id": "08yf5A2nS4XEeNvabDXqyg",
+  "name": "Billy Talent",
+  "followers": 1273271,
+  "monthlyListeners": 2987736,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 97286,
+        "region": "BE"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 85897,
+        "region": "QC"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 85553,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 79727,
+        "region": "BY"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 78513,
+        "region": "HH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

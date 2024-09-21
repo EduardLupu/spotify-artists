@@ -1,0 +1,41 @@
+{
+  "id": "6oCxgUP6Vdx3YIJb59Ia0L",
+  "name": "Aster Aweke",
+  "followers": 47316,
+  "monthlyListeners": 36708,
+  "topCities": {
+    "items": [
+      {
+        "city": "Addis Ababa",
+        "country": "ET",
+        "numberOfListeners": 12879,
+        "region": "AA"
+      },
+      {
+        "city": "Washington",
+        "country": "US",
+        "numberOfListeners": 921,
+        "region": "DC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 808,
+        "region": "ENG"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 762,
+        "region": "ON"
+      },
+      {
+        "city": "Tel Aviv",
+        "country": "IL",
+        "numberOfListeners": 678,
+        "region": "TA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

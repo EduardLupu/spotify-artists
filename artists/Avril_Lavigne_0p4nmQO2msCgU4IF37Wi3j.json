@@ -1,0 +1,41 @@
+{
+  "id": "0p4nmQO2msCgU4IF37Wi3j",
+  "name": "Avril Lavigne",
+  "followers": 11261324,
+  "monthlyListeners": 25276411,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 499808,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 399735,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 382356,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 334671,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 309151,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 221
+}

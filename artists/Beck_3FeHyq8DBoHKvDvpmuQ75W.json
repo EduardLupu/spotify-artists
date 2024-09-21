@@ -1,0 +1,41 @@
+{
+  "id": "3FeHyq8DBoHKvDvpmuQ75W",
+  "name": "Beck",
+  "followers": 90,
+  "monthlyListeners": 98,
+  "topCities": {
+    "items": [
+      {
+        "city": "Athens",
+        "country": "GR",
+        "numberOfListeners": 48,
+        "region": "I"
+      },
+      {
+        "city": "Thessaloniki",
+        "country": "GR",
+        "numberOfListeners": 9,
+        "region": "B"
+      },
+      {
+        "city": "Nicosia",
+        "country": "CY",
+        "numberOfListeners": 2,
+        "region": "01"
+      },
+      {
+        "city": "Argostoli",
+        "country": "GR",
+        "numberOfListeners": 2,
+        "region": "F"
+      },
+      {
+        "city": "Rethymno",
+        "country": "GR",
+        "numberOfListeners": 2,
+        "region": "M"
+      }
+    ]
+  },
+  "worldRank": 0
+}

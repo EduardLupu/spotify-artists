@@ -1,0 +1,41 @@
+{
+  "id": "6tbLPxj1uQ6vsRQZI2YFCT",
+  "name": "In This Moment",
+  "followers": 1348562,
+  "monthlyListeners": 1694950,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 27007,
+        "region": "IL"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 25778,
+        "region": "CO"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 22231,
+        "region": "TX"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 21049,
+        "region": "WA"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 20308,
+        "region": "18"
+      }
+    ]
+  },
+  "worldRank": 0
+}

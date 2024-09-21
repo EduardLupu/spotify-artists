@@ -1,0 +1,41 @@
+{
+  "id": "3VVLqeEqQQqTgT8YhfY9Z6",
+  "name": "Emmit Fenn",
+  "followers": 236611,
+  "monthlyListeners": 5598226,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 92808,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 77654,
+        "region": "VIC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 69612,
+        "region": "CMX"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 68790,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 67346,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

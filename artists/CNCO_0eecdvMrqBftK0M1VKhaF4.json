@@ -1,0 +1,41 @@
+{
+  "id": "0eecdvMrqBftK0M1VKhaF4",
+  "name": "CNCO",
+  "followers": 9415132,
+  "monthlyListeners": 6858537,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 240204,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 217050,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 162554,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 136753,
+        "region": "DC"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 134990,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

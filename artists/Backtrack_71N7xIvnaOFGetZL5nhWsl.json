@@ -1,0 +1,41 @@
+{
+  "id": "71N7xIvnaOFGetZL5nhWsl",
+  "name": "Backtrack",
+  "followers": 48412,
+  "monthlyListeners": 53174,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 1446,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 883,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 877,
+        "region": "IL"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 794,
+        "region": "PA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 737,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

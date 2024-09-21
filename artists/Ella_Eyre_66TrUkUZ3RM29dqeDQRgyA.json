@@ -1,0 +1,41 @@
+{
+  "id": "66TrUkUZ3RM29dqeDQRgyA",
+  "name": "Ella Eyre",
+  "followers": 858463,
+  "monthlyListeners": 9362645,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 209245,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 161144,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 155760,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 132200,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 108129,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

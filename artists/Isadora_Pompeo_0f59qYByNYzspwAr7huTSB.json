@@ -1,0 +1,41 @@
+{
+  "id": "0f59qYByNYzspwAr7huTSB",
+  "name": "Isadora Pompeo",
+  "followers": 3511322,
+  "monthlyListeners": 5657393,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 863446,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 409374,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 279786,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 237391,
+        "region": "SP"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 227386,
+        "region": "DF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

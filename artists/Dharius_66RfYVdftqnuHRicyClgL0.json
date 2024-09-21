@@ -1,0 +1,41 @@
+{
+  "id": "66RfYVdftqnuHRicyClgL0",
+  "name": "Dharius",
+  "followers": 2747857,
+  "monthlyListeners": 5117452,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 496778,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 285955,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 246118,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 234516,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 224239,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

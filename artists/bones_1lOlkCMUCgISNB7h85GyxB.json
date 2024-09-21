@@ -1,0 +1,41 @@
+{
+  "id": "1lOlkCMUCgISNB7h85GyxB",
+  "name": "bones",
+  "followers": 153,
+  "monthlyListeners": 249,
+  "topCities": {
+    "items": [
+      {
+        "city": "Liverpool",
+        "country": "GB",
+        "numberOfListeners": 32,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 31,
+        "region": "ENG"
+      },
+      {
+        "city": "Runcorn",
+        "country": "GB",
+        "numberOfListeners": 18,
+        "region": "ENG"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 16,
+        "region": "ENG"
+      },
+      {
+        "city": "Huddersfield",
+        "country": "GB",
+        "numberOfListeners": 7,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

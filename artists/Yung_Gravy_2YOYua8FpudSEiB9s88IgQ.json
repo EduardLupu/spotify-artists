@@ -1,0 +1,41 @@
+{
+  "id": "2YOYua8FpudSEiB9s88IgQ",
+  "name": "Yung Gravy",
+  "followers": 1680777,
+  "monthlyListeners": 4874109,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 80992,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 70383,
+        "region": "NSW"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 61456,
+        "region": "CO"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 60461,
+        "region": "WA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 58300,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

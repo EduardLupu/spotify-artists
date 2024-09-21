@@ -1,0 +1,41 @@
+{
+  "id": "7Js6Lde8thlIHXggv2SCBz",
+  "name": "Europe",
+  "followers": 1625699,
+  "monthlyListeners": 6714539,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 178482,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 123819,
+        "region": "SP"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 78071,
+        "region": "CMX"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 75200,
+        "region": "JK"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 70686,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

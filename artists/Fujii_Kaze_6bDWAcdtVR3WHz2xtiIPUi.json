@@ -1,0 +1,41 @@
+{
+  "id": "6bDWAcdtVR3WHz2xtiIPUi",
+  "name": "Fujii Kaze",
+  "followers": 3532668,
+  "monthlyListeners": 7452179,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 718012,
+        "region": "13"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 395741,
+        "region": "10"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 261789,
+        "region": "27"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 243488,
+        "region": "JK"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 117096,
+        "region": "13"
+      }
+    ]
+  },
+  "worldRank": 0
+}

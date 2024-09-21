@@ -1,0 +1,41 @@
+{
+  "id": "31fjIKmoPGUEZeyNZRpgfA",
+  "name": "Russ",
+  "followers": 40,
+  "monthlyListeners": 312,
+  "topCities": {
+    "items": [
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 32,
+        "region": "ON"
+      },
+      {
+        "city": "Calgary",
+        "country": "CA",
+        "numberOfListeners": 15,
+        "region": "AB"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 9,
+        "region": "VIC"
+      },
+      {
+        "city": "Brampton",
+        "country": "CA",
+        "numberOfListeners": 8,
+        "region": "ON"
+      },
+      {
+        "city": "Surrey",
+        "country": "CA",
+        "numberOfListeners": 7,
+        "region": "BC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

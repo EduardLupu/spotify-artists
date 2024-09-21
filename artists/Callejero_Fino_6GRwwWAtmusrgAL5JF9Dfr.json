@@ -1,0 +1,41 @@
+{
+  "id": "6GRwwWAtmusrgAL5JF9Dfr",
+  "name": "Callejero Fino",
+  "followers": 1732540,
+  "monthlyListeners": 3905341,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 763142,
+        "region": "C"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 317598,
+        "region": "B"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 254967,
+        "region": "RM"
+      },
+      {
+        "city": "Montevideo",
+        "country": "UY",
+        "numberOfListeners": 152044,
+        "region": "MO"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 147706,
+        "region": "X"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2ayNSoKPCRAfjp6hQ76hRu",
+  "name": "Nacho",
+  "followers": 5408474,
+  "monthlyListeners": 5126710,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 295522,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 273756,
+        "region": "LMA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 260448,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 116673,
+        "region": "CMX"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 112535,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3sS2Q1UZuUXL7TZSbQumDI",
+  "name": "Approaching Nirvana",
+  "followers": 74491,
+  "monthlyListeners": 155809,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 1912,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 1663,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1447,
+        "region": "ENG"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 1408,
+        "region": "10"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 1247,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

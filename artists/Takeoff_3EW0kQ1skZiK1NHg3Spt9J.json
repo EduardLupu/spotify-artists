@@ -1,0 +1,41 @@
+{
+  "id": "3EW0kQ1skZiK1NHg3Spt9J",
+  "name": "Takeoff",
+  "followers": 1973810,
+  "monthlyListeners": 6233000,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 92805,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 83231,
+        "region": "CA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 83046,
+        "region": "TX"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 78325,
+        "region": "ON"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 70690,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

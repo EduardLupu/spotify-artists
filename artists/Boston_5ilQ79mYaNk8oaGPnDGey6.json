@@ -1,0 +1,41 @@
+{
+  "id": "5ilQ79mYaNk8oaGPnDGey6",
+  "name": "Boston",
+  "followers": 6134,
+  "monthlyListeners": 15502,
+  "topCities": {
+    "items": [
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 1455,
+        "region": "ON"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 1086,
+        "region": ""
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1006,
+        "region": "ENG"
+      },
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 875,
+        "region": "TN"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 856,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

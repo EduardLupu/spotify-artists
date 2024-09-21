@@ -1,0 +1,41 @@
+{
+  "id": "0TgNiaeQaWssaH9aWjbqnA",
+  "name": "Jordan Feliz",
+  "followers": 412019,
+  "monthlyListeners": 1128180,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 20866,
+        "region": "SP"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 19351,
+        "region": "JK"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 17675,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 14905,
+        "region": "NC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 13367,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

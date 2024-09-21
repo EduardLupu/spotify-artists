@@ -1,0 +1,41 @@
+{
+  "id": "7D162LQuIOp4vFQ1XMQcnd",
+  "name": "Hamza",
+  "followers": 3214,
+  "monthlyListeners": 19360,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 2423,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1958,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1153,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 1044,
+        "region": "DL"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 840,
+        "region": "WB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

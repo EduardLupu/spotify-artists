@@ -1,0 +1,41 @@
+{
+  "id": "3l0CmX0FuQjFxr8SK7Vqag",
+  "name": "Clairo",
+  "followers": 5265696,
+  "monthlyListeners": 19890469,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 540898,
+        "region": "JK"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 376087,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 282245,
+        "region": "NY"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 280550,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 258445,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 363
+}

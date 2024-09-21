@@ -1,0 +1,41 @@
+{
+  "id": "3tMTXQyRrPmMyHv5SoC0TV",
+  "name": "Juicy Luicy",
+  "followers": 1294001,
+  "monthlyListeners": 12046986,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 5659256,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 1330817,
+        "region": "JB"
+      },
+      {
+        "city": "Makassar",
+        "country": "ID",
+        "numberOfListeners": 592496,
+        "region": "SN"
+      },
+      {
+        "city": "Yogyakarta",
+        "country": "ID",
+        "numberOfListeners": 567762,
+        "region": "YO"
+      },
+      {
+        "city": "Surabaya",
+        "country": "ID",
+        "numberOfListeners": 567759,
+        "region": "JI"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5kSJMVPcTITrSZxTrHllVN",
+  "name": "Vanesa Martín",
+  "followers": 1157826,
+  "monthlyListeners": 2464183,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 152763,
+        "region": "MD"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 98887,
+        "region": "RM"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 82659,
+        "region": "CT"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 67449,
+        "region": "C"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 65209,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

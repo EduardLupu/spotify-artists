@@ -1,0 +1,41 @@
+{
+  "id": "1bAftSH8umNcGZ0uyV7LMg",
+  "name": "Duki",
+  "followers": 11183711,
+  "monthlyListeners": 17908076,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1356512,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1115927,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 652880,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 648498,
+        "region": "B"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 584925,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 432
+}

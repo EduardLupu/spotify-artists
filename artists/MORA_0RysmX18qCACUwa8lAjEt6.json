@@ -1,0 +1,41 @@
+{
+  "id": "0RysmX18qCACUwa8lAjEt6",
+  "name": "MORA",
+  "followers": 587,
+  "monthlyListeners": 1026,
+  "topCities": {
+    "items": [
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 118,
+        "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 115,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 79,
+        "region": "QLD"
+      },
+      {
+        "city": "Tel Aviv",
+        "country": "IL",
+        "numberOfListeners": 29,
+        "region": "TA"
+      },
+      {
+        "city": "Cape Town",
+        "country": "ZA",
+        "numberOfListeners": 24,
+        "region": "WC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

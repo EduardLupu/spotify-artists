@@ -1,0 +1,41 @@
+{
+  "id": "2cfXEHs80hFva0koAwZsHv",
+  "name": "alexander",
+  "followers": 42,
+  "monthlyListeners": 548,
+  "topCities": {
+    "items": [
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 145,
+        "region": "AB"
+      },
+      {
+        "city": "Gothenburg",
+        "country": "SE",
+        "numberOfListeners": 136,
+        "region": "O"
+      },
+      {
+        "city": "Malmo",
+        "country": "SE",
+        "numberOfListeners": 32,
+        "region": "M"
+      },
+      {
+        "city": "Mölndal",
+        "country": "SE",
+        "numberOfListeners": 10,
+        "region": "O"
+      },
+      {
+        "city": "Uppsala",
+        "country": "SE",
+        "numberOfListeners": 10,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

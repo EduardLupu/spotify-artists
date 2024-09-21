@@ -1,0 +1,41 @@
+{
+  "id": "1jQPnvdRAUW1dhfEKAEaRs",
+  "name": "La Palabra De Dios",
+  "followers": 3995,
+  "monthlyListeners": 7675,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 453,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 294,
+        "region": "CMX"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 245,
+        "region": "ANT"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 233,
+        "region": "JAL"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 161,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

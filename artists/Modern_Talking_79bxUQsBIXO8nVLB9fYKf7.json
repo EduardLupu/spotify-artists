@@ -1,0 +1,41 @@
+{
+  "id": "79bxUQsBIXO8nVLB9fYKf7",
+  "name": "Modern Talking",
+  "followers": 1810265,
+  "monthlyListeners": 13352465,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 316581,
+        "region": "RM"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 284332,
+        "region": "34"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 179473,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 169864,
+        "region": "LMA"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 146784,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

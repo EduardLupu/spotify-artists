@@ -1,0 +1,41 @@
+{
+  "id": "4EzkuveR9pLvDVFNx6foYD",
+  "name": "James Bay",
+  "followers": 4024198,
+  "monthlyListeners": 11615779,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 257814,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 215045,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 182357,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 142085,
+        "region": "QLD"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 131141,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

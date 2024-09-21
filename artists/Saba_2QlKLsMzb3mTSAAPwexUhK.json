@@ -1,0 +1,41 @@
+{
+  "id": "2QlKLsMzb3mTSAAPwexUhK",
+  "name": "Saba",
+  "followers": 868,
+  "monthlyListeners": 7774,
+  "topCities": {
+    "items": [
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 159,
+        "region": "WB"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 124,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 115,
+        "region": "CA"
+      },
+      {
+        "city": "Port Moresby",
+        "country": "PG",
+        "numberOfListeners": 115,
+        "region": "NCD"
+      },
+      {
+        "city": "Guwahati",
+        "country": "IN",
+        "numberOfListeners": 101,
+        "region": "AS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1mceaxtjWdEmwoDVAlkC41",
+  "name": "Zaytoven",
+  "followers": 403120,
+  "monthlyListeners": 738905,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 16287,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 16061,
+        "region": "TX"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 15900,
+        "region": "GA"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 13531,
+        "region": "NC"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 12143,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

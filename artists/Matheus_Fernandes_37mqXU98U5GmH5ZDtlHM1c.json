@@ -1,0 +1,41 @@
+{
+  "id": "37mqXU98U5GmH5ZDtlHM1c",
+  "name": "Matheus Fernandes",
+  "followers": 875238,
+  "monthlyListeners": 9934842,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1532362,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 610560,
+        "region": "MG"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 517982,
+        "region": "RJ"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 470524,
+        "region": "PR"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 462218,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

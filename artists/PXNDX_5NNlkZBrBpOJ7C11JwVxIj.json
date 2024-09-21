@@ -1,0 +1,41 @@
+{
+  "id": "5NNlkZBrBpOJ7C11JwVxIj",
+  "name": "PXNDX",
+  "followers": 1503993,
+  "monthlyListeners": 3274758,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 353180,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 156635,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 141069,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 139715,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 134325,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

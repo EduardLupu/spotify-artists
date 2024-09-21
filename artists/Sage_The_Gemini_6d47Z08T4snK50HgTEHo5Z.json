@@ -1,0 +1,41 @@
+{
+  "id": "6d47Z08T4snK50HgTEHo5Z",
+  "name": "Sage The Gemini",
+  "followers": 887083,
+  "monthlyListeners": 3739926,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 67201,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 60600,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 56560,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 45233,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 44069,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

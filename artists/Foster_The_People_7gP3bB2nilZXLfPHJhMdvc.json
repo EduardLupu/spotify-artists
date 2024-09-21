@@ -1,0 +1,41 @@
+{
+  "id": "7gP3bB2nilZXLfPHJhMdvc",
+  "name": "Foster The People",
+  "followers": 3828043,
+  "monthlyListeners": 20937658,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 391039,
+        "region": "CMX"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 286456,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 285437,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 249262,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 223839,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 338
+}

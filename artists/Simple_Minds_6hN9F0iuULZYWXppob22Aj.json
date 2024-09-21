@@ -1,0 +1,41 @@
+{
+  "id": "6hN9F0iuULZYWXppob22Aj",
+  "name": "Simple Minds",
+  "followers": 2054172,
+  "monthlyListeners": 8506665,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 148349,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 141584,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 141324,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 136135,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 117857,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

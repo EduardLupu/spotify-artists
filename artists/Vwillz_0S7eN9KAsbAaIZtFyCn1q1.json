@@ -1,0 +1,41 @@
+{
+  "id": "0S7eN9KAsbAaIZtFyCn1q1",
+  "name": "Vwillz",
+  "followers": 74437,
+  "monthlyListeners": 1164647,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 19740,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 18260,
+        "region": "NSW"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 17275,
+        "region": "CO"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 16085,
+        "region": "QLD"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 14947,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

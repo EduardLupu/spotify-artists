@@ -1,0 +1,41 @@
+{
+  "id": "3drusuMgq8oDz1sPY9dJE9",
+  "name": "KK",
+  "followers": 308,
+  "monthlyListeners": 473,
+  "topCities": {
+    "items": [
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 18,
+        "region": "14"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 15,
+        "region": "TPE"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 12,
+        "region": ""
+      },
+      {
+        "city": "Taichung",
+        "country": "TW",
+        "numberOfListeners": 11,
+        "region": "TXG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 10,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

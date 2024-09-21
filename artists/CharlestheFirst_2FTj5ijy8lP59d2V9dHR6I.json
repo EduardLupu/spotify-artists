@@ -1,0 +1,41 @@
+{
+  "id": "2FTj5ijy8lP59d2V9dHR6I",
+  "name": "CharlestheFirst",
+  "followers": 84881,
+  "monthlyListeners": 84597,
+  "topCities": {
+    "items": [
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 5194,
+        "region": "CO"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 2100,
+        "region": "WA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1975,
+        "region": "IL"
+      },
+      {
+        "city": "Portland",
+        "country": "US",
+        "numberOfListeners": 1918,
+        "region": "OR"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 1418,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4mAsWDGLUIEdo6imU77WG6",
+  "name": "Boomdabash",
+  "followers": 753751,
+  "monthlyListeners": 1980864,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 362263,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 160488,
+        "region": "62"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 53997,
+        "region": "21"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 52230,
+        "region": "72"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 40581,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

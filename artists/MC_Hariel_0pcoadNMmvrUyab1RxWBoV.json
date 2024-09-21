@@ -1,0 +1,41 @@
+{
+  "id": "0pcoadNMmvrUyab1RxWBoV",
+  "name": "MC Hariel",
+  "followers": 6458609,
+  "monthlyListeners": 9917617,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 2118145,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 594689,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 534127,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 528556,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 433836,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

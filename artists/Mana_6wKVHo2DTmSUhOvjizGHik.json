@@ -1,0 +1,41 @@
+{
+  "id": "6wKVHo2DTmSUhOvjizGHik",
+  "name": "Mana",
+  "followers": 19304,
+  "monthlyListeners": 674,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 28,
+        "region": "13"
+      },
+      {
+        "city": "Honolulu",
+        "country": "US",
+        "numberOfListeners": 20,
+        "region": "HI"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 16,
+        "region": "27"
+      },
+      {
+        "city": "Tuxtla Gutiérrez",
+        "country": "MX",
+        "numberOfListeners": 12,
+        "region": "CHP"
+      },
+      {
+        "city": "Auckland",
+        "country": "NZ",
+        "numberOfListeners": 9,
+        "region": "AUK"
+      }
+    ]
+  },
+  "worldRank": 0
+}

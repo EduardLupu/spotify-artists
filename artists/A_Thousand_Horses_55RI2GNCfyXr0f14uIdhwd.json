@@ -1,0 +1,41 @@
+{
+  "id": "55RI2GNCfyXr0f14uIdhwd",
+  "name": "A Thousand Horses",
+  "followers": 74575,
+  "monthlyListeners": 238847,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 6990,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 6311,
+        "region": "QLD"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 4257,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 4074,
+        "region": "IL"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 3345,
+        "region": "NC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3JUJlrHmHxgtat8uJSUXjo",
+  "name": "Tony Mix",
+  "followers": 45384,
+  "monthlyListeners": 63919,
+  "topCities": {
+    "items": [
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 5510,
+        "region": "QC"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 3596,
+        "region": "GP"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 3503,
+        "region": "IDF"
+      },
+      {
+        "city": "Port-au-Prince",
+        "country": "HT",
+        "numberOfListeners": 3413,
+        "region": "OU"
+      },
+      {
+        "city": "Pretoria",
+        "country": "ZA",
+        "numberOfListeners": 2303,
+        "region": "GP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

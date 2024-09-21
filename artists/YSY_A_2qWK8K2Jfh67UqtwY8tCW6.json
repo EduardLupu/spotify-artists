@@ -1,0 +1,41 @@
+{
+  "id": "2qWK8K2Jfh67UqtwY8tCW6",
+  "name": "YSY A",
+  "followers": 3216734,
+  "monthlyListeners": 4502387,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 703193,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 406194,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 340183,
+        "region": "B"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 156137,
+        "region": "X"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 135636,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

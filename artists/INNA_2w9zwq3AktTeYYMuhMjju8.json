@@ -1,0 +1,41 @@
+{
+  "id": "2w9zwq3AktTeYYMuhMjju8",
+  "name": "INNA",
+  "followers": 1337301,
+  "monthlyListeners": 11666252,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 288501,
+        "region": "34"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 287656,
+        "region": "NH"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 264027,
+        "region": "IDF"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 214206,
+        "region": "ZH"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 152918,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

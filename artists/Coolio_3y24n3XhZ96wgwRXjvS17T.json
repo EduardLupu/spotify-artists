@@ -1,0 +1,41 @@
+{
+  "id": "3y24n3XhZ96wgwRXjvS17T",
+  "name": "Coolio",
+  "followers": 1187167,
+  "monthlyListeners": 18838546,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 249027,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 233088,
+        "region": "RM"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 223444,
+        "region": "34"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 206338,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 174035,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 403
+}

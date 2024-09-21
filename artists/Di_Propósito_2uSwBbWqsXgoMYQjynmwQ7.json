@@ -1,0 +1,41 @@
+{
+  "id": "2uSwBbWqsXgoMYQjynmwQ7",
+  "name": "Di Propósito",
+  "followers": 610828,
+  "monthlyListeners": 3316560,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 588739,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 342673,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 170938,
+        "region": "MG"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 156850,
+        "region": "RS"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 144346,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

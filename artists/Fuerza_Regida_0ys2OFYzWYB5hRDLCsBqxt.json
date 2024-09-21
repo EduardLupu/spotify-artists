@@ -1,0 +1,41 @@
+{
+  "id": "0ys2OFYzWYB5hRDLCsBqxt",
+  "name": "Fuerza Regida",
+  "followers": 11387013,
+  "monthlyListeners": 28886567,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 2428899,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 1324945,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 1200176,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 1168785,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 1028974,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 171
+}

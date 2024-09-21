@@ -1,0 +1,41 @@
+{
+  "id": "6GlDvfTZyhrZIJYQTufgET",
+  "name": "Aluna",
+  "followers": 216,
+  "monthlyListeners": 3877,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 70,
+        "region": "RM"
+      },
+      {
+        "city": "Tel Aviv",
+        "country": "IL",
+        "numberOfListeners": 67,
+        "region": "TA"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 62,
+        "region": "34"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 60,
+        "region": "CMX"
+      },
+      {
+        "city": "Budapest",
+        "country": "HU",
+        "numberOfListeners": 45,
+        "region": "BU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

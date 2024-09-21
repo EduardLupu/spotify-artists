@@ -1,0 +1,41 @@
+{
+  "id": "34uNxJI9ZSXGDsBqfGsdt7",
+  "name": "Disembodiment",
+  "followers": 1273,
+  "monthlyListeners": 271,
+  "topCities": {
+    "items": [
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 15,
+        "region": "QC"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 5,
+        "region": "18"
+      },
+      {
+        "city": "Sherbrooke",
+        "country": "CA",
+        "numberOfListeners": 5,
+        "region": "QC"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 5,
+        "region": "TX"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 4,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

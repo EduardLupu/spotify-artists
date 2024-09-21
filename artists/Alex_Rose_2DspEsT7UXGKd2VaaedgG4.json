@@ -1,0 +1,41 @@
+{
+  "id": "2DspEsT7UXGKd2VaaedgG4",
+  "name": "Alex Rose",
+  "followers": 3973856,
+  "monthlyListeners": 8460022,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 559797,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 394708,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 303736,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 300263,
+        "region": "CMX"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 300226,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

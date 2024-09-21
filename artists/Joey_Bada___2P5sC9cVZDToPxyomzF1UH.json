@@ -1,0 +1,41 @@
+{
+  "id": "2P5sC9cVZDToPxyomzF1UH",
+  "name": "Joey Bada$$",
+  "followers": 3551754,
+  "monthlyListeners": 8118519,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 166841,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 148970,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 130357,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 126194,
+        "region": "NSW"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 121189,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

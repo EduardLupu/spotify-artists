@@ -1,0 +1,41 @@
+{
+  "id": "1InsTedYvYqIo6LvRAw3ER",
+  "name": "Benny Blanco",
+  "followers": 223,
+  "monthlyListeners": 266,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sacramento",
+        "country": "US",
+        "numberOfListeners": 23,
+        "region": "CA"
+      },
+      {
+        "city": "San Francisco",
+        "country": "US",
+        "numberOfListeners": 23,
+        "region": "CA"
+      },
+      {
+        "city": "San Jose",
+        "country": "US",
+        "numberOfListeners": 22,
+        "region": "CA"
+      },
+      {
+        "city": "Stockton",
+        "country": "US",
+        "numberOfListeners": 13,
+        "region": "CA"
+      },
+      {
+        "city": "Fresno",
+        "country": "US",
+        "numberOfListeners": 11,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "25NQNriVT2YbSW80ILRWJa",
+  "name": "Faith Hill",
+  "followers": 1862890,
+  "monthlyListeners": 3760155,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 67709,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 52343,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 51510,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 40326,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 37776,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

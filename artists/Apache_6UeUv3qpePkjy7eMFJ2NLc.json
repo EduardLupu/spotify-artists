@@ -1,0 +1,41 @@
+{
+  "id": "6UeUv3qpePkjy7eMFJ2NLc",
+  "name": "Apache",
+  "followers": 14,
+  "monthlyListeners": 314,
+  "topCities": {
+    "items": [
+      {
+        "city": "Banda Aceh",
+        "country": "ID",
+        "numberOfListeners": 151,
+        "region": "AC"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 101,
+        "region": "JK"
+      },
+      {
+        "city": "Medan",
+        "country": "ID",
+        "numberOfListeners": 69,
+        "region": "SU"
+      },
+      {
+        "city": "Lhokseumawe",
+        "country": "ID",
+        "numberOfListeners": 27,
+        "region": "AC"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 11,
+        "region": "JB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

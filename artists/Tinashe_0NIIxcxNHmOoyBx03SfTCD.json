@@ -1,0 +1,41 @@
+{
+  "id": "0NIIxcxNHmOoyBx03SfTCD",
+  "name": "Tinashe",
+  "followers": 2822880,
+  "monthlyListeners": 14635262,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 355093,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 281492,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 225464,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 225185,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 205044,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

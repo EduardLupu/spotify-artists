@@ -1,0 +1,41 @@
+{
+  "id": "6QwlKB1hO357wh5oNuuInl",
+  "name": "Crazy Mano",
+  "followers": 80885,
+  "monthlyListeners": 5642725,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 98493,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 94238,
+        "region": "SP"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 83495,
+        "region": "34"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 77419,
+        "region": "MH"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 57787,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

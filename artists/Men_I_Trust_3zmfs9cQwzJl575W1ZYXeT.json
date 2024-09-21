@@ -1,0 +1,41 @@
+{
+  "id": "3zmfs9cQwzJl575W1ZYXeT",
+  "name": "Men I Trust",
+  "followers": 1940394,
+  "monthlyListeners": 8409815,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 156903,
+        "region": "CA"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 118097,
+        "region": "JK"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 100734,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 99506,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 99506,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

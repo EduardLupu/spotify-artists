@@ -1,0 +1,41 @@
+{
+  "id": "1d6dwipPrsFSJVmFTTdFSS",
+  "name": "Paulina Rubio",
+  "followers": 2902788,
+  "monthlyListeners": 7163676,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 450335,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 364539,
+        "region": "RM"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 193456,
+        "region": "JAL"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 191132,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 182685,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

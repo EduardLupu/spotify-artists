@@ -1,0 +1,41 @@
+{
+  "id": "7ibAWtDtmEfaVhc1FJ3Vl9",
+  "name": "Eric Bellinger",
+  "followers": 894458,
+  "monthlyListeners": 3347507,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 180562,
+        "region": "JK"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 63218,
+        "region": "00"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 56246,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 44950,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 43811,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

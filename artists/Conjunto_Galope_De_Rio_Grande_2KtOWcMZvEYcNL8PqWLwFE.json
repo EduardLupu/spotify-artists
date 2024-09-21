@@ -1,0 +1,41 @@
+{
+  "id": "2KtOWcMZvEYcNL8PqWLwFE",
+  "name": "Conjunto Galope De Rio Grande",
+  "followers": 9524,
+  "monthlyListeners": 114517,
+  "topCities": {
+    "items": [
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 6387,
+        "region": "QUE"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 5439,
+        "region": "CMX"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 5361,
+        "region": "TX"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 2869,
+        "region": "TX"
+      },
+      {
+        "city": "Monterrey",
+        "country": "MX",
+        "numberOfListeners": 2700,
+        "region": "NLE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

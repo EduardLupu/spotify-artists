@@ -1,0 +1,41 @@
+{
+  "id": "6bmlMHgSheBauioMgKv2tn",
+  "name": "Powfu",
+  "followers": 1342947,
+  "monthlyListeners": 7898536,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 205521,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 72179,
+        "region": "NSW"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 71750,
+        "region": "MH"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 71521,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 61145,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

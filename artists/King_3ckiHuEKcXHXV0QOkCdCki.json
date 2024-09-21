@@ -1,0 +1,41 @@
+{
+  "id": "3ckiHuEKcXHXV0QOkCdCki",
+  "name": "King",
+  "followers": 9073,
+  "monthlyListeners": 148832,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 6886,
+        "region": "NH"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 6154,
+        "region": "RM"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 5634,
+        "region": "ENG"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 4489,
+        "region": "ZH"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 2541,
+        "region": "BRU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7mO0JGOATH8fVHvgCdZsXh",
+  "name": "Kylesa",
+  "followers": 94815,
+  "monthlyListeners": 44240,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 503,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 496,
+        "region": "ENG"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 458,
+        "region": "BE"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 457,
+        "region": "WA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 410,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

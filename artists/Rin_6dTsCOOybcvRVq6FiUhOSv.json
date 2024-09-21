@@ -1,0 +1,23 @@
+{
+  "id": "6dTsCOOybcvRVq6FiUhOSv",
+  "name": "Rin",
+  "followers": 7,
+  "monthlyListeners": 3,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 2,
+        "region": "JK"
+      },
+      {
+        "city": "Bogor",
+        "country": "ID",
+        "numberOfListeners": 1,
+        "region": "JB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

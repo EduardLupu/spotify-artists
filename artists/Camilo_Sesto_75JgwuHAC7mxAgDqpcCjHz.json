@@ -1,0 +1,41 @@
+{
+  "id": "75JgwuHAC7mxAgDqpcCjHz",
+  "name": "Camilo Sesto",
+  "followers": 987,
+  "monthlyListeners": 121249,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 7222,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 6429,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 5022,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 3874,
+        "region": "RM"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 3613,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

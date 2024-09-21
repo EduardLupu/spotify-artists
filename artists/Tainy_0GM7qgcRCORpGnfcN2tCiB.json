@@ -1,0 +1,41 @@
+{
+  "id": "0GM7qgcRCORpGnfcN2tCiB",
+  "name": "Tainy",
+  "followers": 2300850,
+  "monthlyListeners": 21932025,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 922567,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 906407,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 698438,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 562170,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 395134,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 309
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3ZGr7nQBXDU2WhyXgRVbt0",
+  "name": "Sticky Fingers",
+  "followers": 1087275,
+  "monthlyListeners": 2855817,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 210389,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 173482,
+        "region": "QLD"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 148619,
+        "region": "VIC"
+      },
+      {
+        "city": "Perth",
+        "country": "AU",
+        "numberOfListeners": 98121,
+        "region": "WA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 73718,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

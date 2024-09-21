@@ -1,0 +1,41 @@
+{
+  "id": "4O5orcvZe8L5RbquVB6YMK",
+  "name": "Bigbang",
+  "followers": 37656,
+  "monthlyListeners": 63289,
+  "topCities": {
+    "items": [
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 21936,
+        "region": "03"
+      },
+      {
+        "city": "Bergen",
+        "country": "NO",
+        "numberOfListeners": 2637,
+        "region": "46"
+      },
+      {
+        "city": "Trondheim",
+        "country": "NO",
+        "numberOfListeners": 2567,
+        "region": "50"
+      },
+      {
+        "city": "Stavanger",
+        "country": "NO",
+        "numberOfListeners": 1971,
+        "region": "11"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 1153,
+        "region": "AB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

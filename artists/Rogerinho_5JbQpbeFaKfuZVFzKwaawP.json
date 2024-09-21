@@ -1,0 +1,41 @@
+{
+  "id": "5JbQpbeFaKfuZVFzKwaawP",
+  "name": "Rogerinho",
+  "followers": 982198,
+  "monthlyListeners": 3022852,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 424084,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 159263,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 152983,
+        "region": "MG"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 120465,
+        "region": "DF"
+      },
+      {
+        "city": "Fortaleza",
+        "country": "BR",
+        "numberOfListeners": 98250,
+        "region": "CE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

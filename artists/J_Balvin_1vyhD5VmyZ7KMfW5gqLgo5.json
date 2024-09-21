@@ -1,0 +1,41 @@
+{
+  "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+  "name": "J Balvin",
+  "followers": 37152654,
+  "monthlyListeners": 57053213,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1781968,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1696359,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1669246,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 1273180,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 972211,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 31
+}

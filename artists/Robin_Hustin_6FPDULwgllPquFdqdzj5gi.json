@@ -1,0 +1,41 @@
+{
+  "id": "6FPDULwgllPquFdqdzj5gi",
+  "name": "Robin Hustin",
+  "followers": 19181,
+  "monthlyListeners": 493920,
+  "topCities": {
+    "items": [
+      {
+        "city": "Ho Chi Minh City",
+        "country": "VN",
+        "numberOfListeners": 10346,
+        "region": "SG"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 9649,
+        "region": "JK"
+      },
+      {
+        "city": "Hanoi",
+        "country": "VN",
+        "numberOfListeners": 9114,
+        "region": "HN"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 6349,
+        "region": "14"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 5728,
+        "region": "TPE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0bMt8SJlp0gFRUufzifS05",
+  "name": "K.I.Z",
+  "followers": 916351,
+  "monthlyListeners": 1987812,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 250037,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 178660,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 162554,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 140545,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 112455,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

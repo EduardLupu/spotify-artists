@@ -1,0 +1,41 @@
+{
+  "id": "3ATwBTSFZpJ8x55R9F4gBd",
+  "name": "Alex Olompiya",
+  "followers": 243,
+  "monthlyListeners": 1383,
+  "topCities": {
+    "items": [
+      {
+        "city": "Addis Ababa",
+        "country": "ET",
+        "numberOfListeners": 542,
+        "region": "AA"
+      },
+      {
+        "city": "Tel Aviv",
+        "country": "IL",
+        "numberOfListeners": 48,
+        "region": "TA"
+      },
+      {
+        "city": "Nazrēt",
+        "country": "ET",
+        "numberOfListeners": 29,
+        "region": "OR"
+      },
+      {
+        "city": "Durban",
+        "country": "ZA",
+        "numberOfListeners": 23,
+        "region": "KZN"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 23,
+        "region": "GP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3prRKGJz16RRMRSIM97nHw",
+  "name": "Supernova Ent",
+  "followers": 96218,
+  "monthlyListeners": 6874571,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1367677,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 561916,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 346232,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 300109,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 263779,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

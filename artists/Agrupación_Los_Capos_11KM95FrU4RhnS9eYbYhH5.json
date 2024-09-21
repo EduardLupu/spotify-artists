@@ -1,0 +1,41 @@
+{
+  "id": "11KM95FrU4RhnS9eYbYhH5",
+  "name": "Agrupación Los Capos",
+  "followers": 45269,
+  "monthlyListeners": 82286,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 19569,
+        "region": "LMA"
+      },
+      {
+        "city": "La Paz",
+        "country": "BO",
+        "numberOfListeners": 14352,
+        "region": "L"
+      },
+      {
+        "city": "Cochabamba",
+        "country": "BO",
+        "numberOfListeners": 8073,
+        "region": "C"
+      },
+      {
+        "city": "Santa Cruz",
+        "country": "BO",
+        "numberOfListeners": 8071,
+        "region": "S"
+      },
+      {
+        "city": "Arequipa",
+        "country": "PE",
+        "numberOfListeners": 5251,
+        "region": "ARE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

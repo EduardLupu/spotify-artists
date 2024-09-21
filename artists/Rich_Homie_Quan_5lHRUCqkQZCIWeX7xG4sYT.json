@@ -1,0 +1,41 @@
+{
+  "id": "5lHRUCqkQZCIWeX7xG4sYT",
+  "name": "Rich Homie Quan",
+  "followers": 2883957,
+  "monthlyListeners": 4183567,
+  "topCities": {
+    "items": [
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 103523,
+        "region": "GA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 87255,
+        "region": "TX"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 86692,
+        "region": "IL"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 82295,
+        "region": "NC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 77817,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5xd2Tg7Zo8755eCy8Gxkp8",
+  "name": "Ha*Ash",
+  "followers": 8600287,
+  "monthlyListeners": 9092276,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 722063,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 365951,
+        "region": "JAL"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 320395,
+        "region": "RM"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 299648,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 298343,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

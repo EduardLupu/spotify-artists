@@ -1,0 +1,41 @@
+{
+  "id": "5uHdXtqI5H3T17ovMtkqWs",
+  "name": "Marina",
+  "followers": 6941,
+  "monthlyListeners": 7971,
+  "topCities": {
+    "items": [
+      {
+        "city": "Minsk",
+        "country": "BY",
+        "numberOfListeners": 138,
+        "region": "HM"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 134,
+        "region": "10"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 108,
+        "region": "18"
+      },
+      {
+        "city": "Kyiv",
+        "country": "UA",
+        "numberOfListeners": 93,
+        "region": "30"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 84,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2x7EATekOPhFGRx3syMGEC",
+  "name": "The Knocks",
+  "followers": 235948,
+  "monthlyListeners": 3353514,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 47196,
+        "region": "NY"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 45780,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 41167,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 40936,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 38408,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

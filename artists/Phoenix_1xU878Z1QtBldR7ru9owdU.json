@@ -1,0 +1,41 @@
+{
+  "id": "1xU878Z1QtBldR7ru9owdU",
+  "name": "Phoenix",
+  "followers": 1936774,
+  "monthlyListeners": 5384056,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 147452,
+        "region": "IDF"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 84884,
+        "region": "CA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 78295,
+        "region": "CMX"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 75876,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 71455,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

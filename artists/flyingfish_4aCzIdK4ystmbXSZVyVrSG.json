@@ -1,0 +1,41 @@
+{
+  "id": "4aCzIdK4ystmbXSZVyVrSG",
+  "name": "flyingfish",
+  "followers": 144479,
+  "monthlyListeners": 1407861,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 25309,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 18409,
+        "region": "IL"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 17227,
+        "region": "TX"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 17098,
+        "region": "TX"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 16289,
+        "region": "AZ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

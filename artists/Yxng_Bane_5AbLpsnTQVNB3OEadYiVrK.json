@@ -1,0 +1,41 @@
+{
+  "id": "5AbLpsnTQVNB3OEadYiVrK",
+  "name": "Yxng Bane",
+  "followers": 432864,
+  "monthlyListeners": 1295570,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 151067,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 53185,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 46694,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 46062,
+        "region": "ENG"
+      },
+      {
+        "city": "Tower Hamlets",
+        "country": "GB",
+        "numberOfListeners": 25520,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

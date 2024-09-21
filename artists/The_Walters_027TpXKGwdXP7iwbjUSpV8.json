@@ -1,0 +1,41 @@
+{
+  "id": "027TpXKGwdXP7iwbjUSpV8",
+  "name": "The Walters",
+  "followers": 785535,
+  "monthlyListeners": 18815149,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1175206,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 285705,
+        "region": "JB"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 264167,
+        "region": "00"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 254074,
+        "region": "10"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 241065,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 404
+}

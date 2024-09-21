@@ -1,0 +1,41 @@
+{
+  "id": "1OPqAyxsQc8mcRmoNBAnVk",
+  "name": "Dhvani Bhanushali",
+  "followers": 5886202,
+  "monthlyListeners": 11067565,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 929662,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 795906,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 638751,
+        "region": "DL"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 607696,
+        "region": "KA"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 536344,
+        "region": "TS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

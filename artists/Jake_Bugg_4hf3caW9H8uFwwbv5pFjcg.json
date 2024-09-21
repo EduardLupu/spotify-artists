@@ -1,0 +1,41 @@
+{
+  "id": "4hf3caW9H8uFwwbv5pFjcg",
+  "name": "Jake Bugg",
+  "followers": 801882,
+  "monthlyListeners": 1792305,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 118832,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 57601,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 41618,
+        "region": "ENG"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 35232,
+        "region": "L"
+      },
+      {
+        "city": "Glasgow",
+        "country": "GB",
+        "numberOfListeners": 33863,
+        "region": "SCT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

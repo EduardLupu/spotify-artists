@@ -1,0 +1,41 @@
+{
+  "id": "1ZyqnbV7Brg5LgyS4EZCUD",
+  "name": "FiNCH",
+  "followers": 532909,
+  "monthlyListeners": 4241676,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 421664,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 366097,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 304938,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 273543,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 206404,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

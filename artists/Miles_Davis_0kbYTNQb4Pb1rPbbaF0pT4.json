@@ -1,0 +1,41 @@
+{
+  "id": "0kbYTNQb4Pb1rPbbaF0pT4",
+  "name": "Miles Davis",
+  "followers": 2572509,
+  "monthlyListeners": 2755160,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 36389,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 34424,
+        "region": "NY"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 32731,
+        "region": "RM"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 32113,
+        "region": "CA"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 29327,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5lEF4Tt1uK7Kuk80ILMlE9",
+  "name": "Jake Wesley Rogers",
+  "followers": 92480,
+  "monthlyListeners": 146879,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1983,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 1893,
+        "region": "NSW"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 1848,
+        "region": "NY"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 1705,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1531,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

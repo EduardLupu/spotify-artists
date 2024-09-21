@@ -1,0 +1,41 @@
+{
+  "id": "0Jsk5iYMr5aNjHury7blm1",
+  "name": "Boef",
+  "followers": 1351265,
+  "monthlyListeners": 1767452,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 536064,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 437697,
+        "region": "ZH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 211915,
+        "region": "UT"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 132789,
+        "region": "BRU"
+      },
+      {
+        "city": "Amersfoort",
+        "country": "NL",
+        "numberOfListeners": 81419,
+        "region": "UT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4AKwRarlmsUlLjIwt38NLw",
+  "name": "Ofenbach",
+  "followers": 624457,
+  "monthlyListeners": 15712678,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 416231,
+        "region": "IDF"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 243054,
+        "region": "NH"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 237518,
+        "region": "14"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 215115,
+        "region": "BE"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 214134,
+        "region": "BRU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

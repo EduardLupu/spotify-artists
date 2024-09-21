@@ -1,0 +1,41 @@
+{
+  "id": "7n2Ycct7Beij7Dj7meI4X0",
+  "name": "TWICE",
+  "followers": 20742824,
+  "monthlyListeners": 8373591,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 364326,
+        "region": "13"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 330865,
+        "region": "JK"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 147438,
+        "region": "RM"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 135750,
+        "region": "14"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 128740,
+        "region": "27"
+      }
+    ]
+  },
+  "worldRank": 0
+}

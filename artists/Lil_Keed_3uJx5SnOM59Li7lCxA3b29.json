@@ -1,0 +1,41 @@
+{
+  "id": "3uJx5SnOM59Li7lCxA3b29",
+  "name": "Lil Keed",
+  "followers": 1022516,
+  "monthlyListeners": 1197453,
+  "topCities": {
+    "items": [
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 23034,
+        "region": "GA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 17925,
+        "region": "IL"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 17409,
+        "region": "LA"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 16367,
+        "region": "CA"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 16016,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

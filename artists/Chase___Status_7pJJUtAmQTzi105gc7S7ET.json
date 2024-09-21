@@ -1,0 +1,41 @@
+{
+  "id": "7pJJUtAmQTzi105gc7S7ET",
+  "name": "Chase & Status",
+  "followers": 51,
+  "monthlyListeners": 10391,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 598,
+        "region": "ENG"
+      },
+      {
+        "city": "Perth",
+        "country": "AU",
+        "numberOfListeners": 227,
+        "region": "WA"
+      },
+      {
+        "city": "Tower Hamlets",
+        "country": "GB",
+        "numberOfListeners": 204,
+        "region": "ENG"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 204,
+        "region": "10"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 188,
+        "region": "9"
+      }
+    ]
+  },
+  "worldRank": 0
+}

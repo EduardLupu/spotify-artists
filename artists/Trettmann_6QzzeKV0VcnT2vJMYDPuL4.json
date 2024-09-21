@@ -1,0 +1,41 @@
+{
+  "id": "6QzzeKV0VcnT2vJMYDPuL4",
+  "name": "Trettmann",
+  "followers": 477700,
+  "monthlyListeners": 2203136,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 239916,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 193272,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 161597,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 144999,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 125679,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

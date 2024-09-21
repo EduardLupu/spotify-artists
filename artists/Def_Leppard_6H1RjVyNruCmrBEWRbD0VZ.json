@@ -1,0 +1,41 @@
+{
+  "id": "6H1RjVyNruCmrBEWRbD0VZ",
+  "name": "Def Leppard",
+  "followers": 5110019,
+  "monthlyListeners": 7828331,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 105393,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 102246,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 94324,
+        "region": "IL"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 92829,
+        "region": "QC"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 89401,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "36osrWZoopJCeiaj2NPs26",
+  "name": "Jamo.",
+  "followers": 2347,
+  "monthlyListeners": 5644,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 146,
+        "region": "CA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 144,
+        "region": "CO"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 110,
+        "region": "IL"
+      },
+      {
+        "city": "Portland",
+        "country": "US",
+        "numberOfListeners": 102,
+        "region": "OR"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 97,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

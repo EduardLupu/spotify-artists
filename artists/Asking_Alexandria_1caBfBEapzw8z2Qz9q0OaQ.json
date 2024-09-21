@@ -1,0 +1,41 @@
+{
+  "id": "1caBfBEapzw8z2Qz9q0OaQ",
+  "name": "Asking Alexandria",
+  "followers": 2224369,
+  "monthlyListeners": 2831127,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 80056,
+        "region": "JK"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 36340,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 34778,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 31941,
+        "region": "SP"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 29195,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

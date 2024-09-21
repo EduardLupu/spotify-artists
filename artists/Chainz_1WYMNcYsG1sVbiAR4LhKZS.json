@@ -1,0 +1,41 @@
+{
+  "id": "1WYMNcYsG1sVbiAR4LhKZS",
+  "name": "Chainz",
+  "followers": 2848,
+  "monthlyListeners": 1737,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 73,
+        "region": "18"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 49,
+        "region": "IL"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 40,
+        "region": "GA"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 37,
+        "region": "PA"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 33,
+        "region": "AZ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

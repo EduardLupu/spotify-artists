@@ -1,0 +1,41 @@
+{
+  "id": "5KKpBU5eC2tJDzf0wmlRp2",
+  "name": "RAYE",
+  "followers": 1635529,
+  "monthlyListeners": 26381355,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 791135,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 469292,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 410999,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 356049,
+        "region": "NH"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 291105,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 197
+}

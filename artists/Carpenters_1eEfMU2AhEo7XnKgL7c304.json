@@ -1,0 +1,41 @@
+{
+  "id": "1eEfMU2AhEo7XnKgL7c304",
+  "name": "Carpenters",
+  "followers": 3343713,
+  "monthlyListeners": 5750617,
+  "topCities": {
+    "items": [
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 193431,
+        "region": "00"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 142199,
+        "region": "JK"
+      },
+      {
+        "city": "Manila",
+        "country": "PH",
+        "numberOfListeners": 109467,
+        "region": "00"
+      },
+      {
+        "city": "Cebu City",
+        "country": "PH",
+        "numberOfListeners": 93413,
+        "region": "07"
+      },
+      {
+        "city": "Davao City",
+        "country": "PH",
+        "numberOfListeners": 93362,
+        "region": "11"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2r09Inibex3C4ZNTUVSG3m",
+  "name": "Keith Sweat",
+  "followers": 2085132,
+  "monthlyListeners": 2283939,
+  "topCities": {
+    "items": [
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 86495,
+        "region": "GP"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 50738,
+        "region": "CA"
+      },
+      {
+        "city": "Pretoria",
+        "country": "ZA",
+        "numberOfListeners": 37159,
+        "region": "GP"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 34781,
+        "region": "TX"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 33319,
+        "region": "GA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

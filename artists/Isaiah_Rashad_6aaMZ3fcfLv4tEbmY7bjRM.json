@@ -1,0 +1,41 @@
+{
+  "id": "6aaMZ3fcfLv4tEbmY7bjRM",
+  "name": "Isaiah Rashad",
+  "followers": 1474767,
+  "monthlyListeners": 4542552,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 124070,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 83712,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 70434,
+        "region": "NY"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 63891,
+        "region": "ENG"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 63268,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

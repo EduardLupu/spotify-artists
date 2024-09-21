@@ -1,0 +1,41 @@
+{
+  "id": "28j8lBWDdDSHSSt5oPlsX2",
+  "name": "ZHU",
+  "followers": 923252,
+  "monthlyListeners": 3770163,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 76805,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 67460,
+        "region": "VIC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 64741,
+        "region": "CMX"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 62657,
+        "region": "CA"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 53364,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

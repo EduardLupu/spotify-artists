@@ -1,0 +1,41 @@
+{
+  "id": "78895QQcLtTagD8auJBHfE",
+  "name": "Major Lazer",
+  "followers": 188,
+  "monthlyListeners": 260,
+  "topCities": {
+    "items": [
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 31,
+        "region": ""
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 24,
+        "region": "JK"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 22,
+        "region": "14"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 12,
+        "region": "TPE"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 10,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

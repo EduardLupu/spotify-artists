@@ -1,0 +1,41 @@
+{
+  "id": "3O2zUrGaj1QzvGjmkbb3PD",
+  "name": "King",
+  "followers": 266,
+  "monthlyListeners": 1644,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 87,
+        "region": "LA"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 49,
+        "region": "GA"
+      },
+      {
+        "city": "Port Harcourt",
+        "country": "NG",
+        "numberOfListeners": 35,
+        "region": "RI"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 34,
+        "region": "TX"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 29,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

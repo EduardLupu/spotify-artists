@@ -1,0 +1,41 @@
+{
+  "id": "1iSp6fP7gO2Z459KZ9shFJ",
+  "name": "Evandro",
+  "followers": 16631,
+  "monthlyListeners": 11365,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 1671,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 1045,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 300,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 293,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 277,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

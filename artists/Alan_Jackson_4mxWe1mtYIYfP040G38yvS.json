@@ -1,0 +1,41 @@
+{
+  "id": "4mxWe1mtYIYfP040G38yvS",
+  "name": "Alan Jackson",
+  "followers": 2848189,
+  "monthlyListeners": 9372105,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 155169,
+        "region": "TX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 154033,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 146554,
+        "region": "IL"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 137420,
+        "region": "QLD"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 135275,
+        "region": "NC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

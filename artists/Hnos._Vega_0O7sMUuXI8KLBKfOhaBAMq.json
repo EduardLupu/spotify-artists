@@ -1,0 +1,41 @@
+{
+  "id": "0O7sMUuXI8KLBKfOhaBAMq",
+  "name": "Hnos. Vega",
+  "followers": 39432,
+  "monthlyListeners": 74328,
+  "topCities": {
+    "items": [
+      {
+        "city": "Hermosillo",
+        "country": "MX",
+        "numberOfListeners": 10405,
+        "region": "SON"
+      },
+      {
+        "city": "Culiacán",
+        "country": "MX",
+        "numberOfListeners": 9081,
+        "region": "SIN"
+      },
+      {
+        "city": "Tijuana",
+        "country": "MX",
+        "numberOfListeners": 8785,
+        "region": "BCN"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 3422,
+        "region": "AZ"
+      },
+      {
+        "city": "Unión de Crédito Agrícola de Hermosillo",
+        "country": "MX",
+        "numberOfListeners": 2964,
+        "region": "SON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

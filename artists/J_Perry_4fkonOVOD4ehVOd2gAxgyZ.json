@@ -1,0 +1,41 @@
+{
+  "id": "4fkonOVOD4ehVOd2gAxgyZ",
+  "name": "J Perry",
+  "followers": 19646,
+  "monthlyListeners": 166037,
+  "topCities": {
+    "items": [
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 5701,
+        "region": "ON"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 5689,
+        "region": "QC"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 4058,
+        "region": "NY"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 3385,
+        "region": "IDF"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 2706,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

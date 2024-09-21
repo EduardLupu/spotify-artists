@@ -1,0 +1,41 @@
+{
+  "id": "2q9wk5fkeU2C9CgCKdh4AN",
+  "name": "Mc IG",
+  "followers": 6092031,
+  "monthlyListeners": 11639204,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 2527394,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 719674,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 674821,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 668571,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 528753,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

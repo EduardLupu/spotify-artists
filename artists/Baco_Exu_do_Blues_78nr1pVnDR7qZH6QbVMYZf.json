@@ -1,0 +1,41 @@
+{
+  "id": "78nr1pVnDR7qZH6QbVMYZf",
+  "name": "Baco Exu do Blues",
+  "followers": 3517033,
+  "monthlyListeners": 5058190,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 891222,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 502296,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 239362,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 178863,
+        "region": "PR"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 172173,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

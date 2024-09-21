@@ -1,0 +1,41 @@
+{
+  "id": "7mnBLXK823vNxN3UWB7Gfz",
+  "name": "The Black Keys",
+  "followers": 4028128,
+  "monthlyListeners": 12011397,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 212983,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 192283,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 170938,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 145096,
+        "region": "IL"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 140539,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3uo0ix4Y67XHVWBhXXIY1S",
+  "name": "Xavier Wulf",
+  "followers": 985069,
+  "monthlyListeners": 5023190,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 129008,
+        "region": "CA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 100683,
+        "region": "TX"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 98457,
+        "region": "IL"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 96528,
+        "region": "AZ"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 74271,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

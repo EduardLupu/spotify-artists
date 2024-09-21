@@ -1,0 +1,41 @@
+{
+  "id": "4xFUf1FHVy696Q1JQZMTRj",
+  "name": "Carrie Underwood",
+  "followers": 5986900,
+  "monthlyListeners": 9964575,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 185250,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 159322,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 154754,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 151773,
+        "region": "QLD"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 139019,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

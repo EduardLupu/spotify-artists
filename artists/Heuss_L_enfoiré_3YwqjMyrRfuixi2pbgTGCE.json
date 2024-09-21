@@ -1,0 +1,41 @@
+{
+  "id": "3YwqjMyrRfuixi2pbgTGCE",
+  "name": "Heuss L'enfoiré",
+  "followers": 1687268,
+  "monthlyListeners": 5070709,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 654900,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 172939,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 153506,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 121814,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 112901,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0i8PvMmvRxNDnwwNugH2UR",
+  "name": "Aqua",
+  "followers": 184,
+  "monthlyListeners": 29,
+  "topCities": {
+    "items": [
+      {
+        "city": "Luxembourg",
+        "country": "LU",
+        "numberOfListeners": 13,
+        "region": "LU"
+      },
+      {
+        "city": "Onard",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "NAQ"
+      },
+      {
+        "city": "Belleville",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "ARA"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "ARA"
+      },
+      {
+        "city": "Rabat",
+        "country": "MA",
+        "numberOfListeners": 1,
+        "region": "04"
+      }
+    ]
+  },
+  "worldRank": 0
+}

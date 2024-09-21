@@ -1,0 +1,41 @@
+{
+  "id": "46GXASE9LHzyssNqKOInUu",
+  "name": "Dawin",
+  "followers": 218232,
+  "monthlyListeners": 1024455,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 143507,
+        "region": "JK"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 29688,
+        "region": "00"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 25452,
+        "region": "JB"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 16000,
+        "region": "NSW"
+      },
+      {
+        "city": "Manila",
+        "country": "PH",
+        "numberOfListeners": 15097,
+        "region": "00"
+      }
+    ]
+  },
+  "worldRank": 0
+}

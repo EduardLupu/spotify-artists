@@ -1,0 +1,41 @@
+{
+  "id": "7lhXTmhgazi4z6H01Jzn6D",
+  "name": "Phoenix",
+  "followers": 10,
+  "monthlyListeners": 21,
+  "topCities": {
+    "items": [
+      {
+        "city": "Westhampton Beach",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "NY"
+      },
+      {
+        "city": "Joinville",
+        "country": "BR",
+        "numberOfListeners": 1,
+        "region": "SC"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 1,
+        "region": "RJ"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 1,
+        "region": "DF"
+      },
+      {
+        "city": "Christchurch",
+        "country": "NZ",
+        "numberOfListeners": 1,
+        "region": "CAN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

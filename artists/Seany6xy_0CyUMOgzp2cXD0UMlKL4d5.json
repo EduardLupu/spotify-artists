@@ -1,0 +1,41 @@
+{
+  "id": "0CyUMOgzp2cXD0UMlKL4d5",
+  "name": "Seany6xy",
+  "followers": 1639,
+  "monthlyListeners": 3191,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 54,
+        "region": "IL"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 50,
+        "region": "CO"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 50,
+        "region": "TX"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 45,
+        "region": "AZ"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 37,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

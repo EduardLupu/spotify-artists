@@ -1,0 +1,41 @@
+{
+  "id": "5XY34cI4RsdqqYhoBGdZcx",
+  "name": "King",
+  "followers": 1278,
+  "monthlyListeners": 824,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 12,
+        "region": "IL"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 11,
+        "region": "ON"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 9,
+        "region": "WA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 8,
+        "region": "ENG"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 8,
+        "region": "NC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

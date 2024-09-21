@@ -1,0 +1,41 @@
+{
+  "id": "29CQLw9uLWsl8Qkz9holfr",
+  "name": "Racionais MC's",
+  "followers": 7538462,
+  "monthlyListeners": 4523622,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1009652,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 245248,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 240601,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 206728,
+        "region": "PR"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 206153,
+        "region": "RJ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1b8Wn3xSquDw84o7yJI6Jk",
+  "name": "DAVE",
+  "followers": 188,
+  "monthlyListeners": 10026,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 2222,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 1640,
+        "region": "ZH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 892,
+        "region": "UT"
+      },
+      {
+        "city": "Amersfoort",
+        "country": "NL",
+        "numberOfListeners": 288,
+        "region": "UT"
+      },
+      {
+        "city": "Arnhem",
+        "country": "NL",
+        "numberOfListeners": 219,
+        "region": "GE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

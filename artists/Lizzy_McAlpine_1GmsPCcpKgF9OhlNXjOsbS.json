@@ -1,0 +1,41 @@
+{
+  "id": "1GmsPCcpKgF9OhlNXjOsbS",
+  "name": "Lizzy McAlpine",
+  "followers": 1020964,
+  "monthlyListeners": 9422338,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 162344,
+        "region": "ENG"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 152216,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 136721,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 123967,
+        "region": "VIC"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 115846,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

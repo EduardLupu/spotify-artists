@@ -1,0 +1,41 @@
+{
+  "id": "5coZ307159clgSQiRamkVe",
+  "name": "BK",
+  "followers": 2028,
+  "monthlyListeners": 2874,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 859,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 491,
+        "region": "QLD"
+      },
+      {
+        "city": "Auckland",
+        "country": "NZ",
+        "numberOfListeners": 330,
+        "region": "AUK"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 290,
+        "region": "VIC"
+      },
+      {
+        "city": "Perth",
+        "country": "AU",
+        "numberOfListeners": 129,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4o0NtnL2m0lzZmEdRas1qv",
+  "name": "Ovi",
+  "followers": 1347422,
+  "monthlyListeners": 6238006,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 412053,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 256261,
+        "region": "DC"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 228569,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 202251,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 176357,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

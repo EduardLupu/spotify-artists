@@ -1,0 +1,41 @@
+{
+  "id": "4ufh0WuMZh6y4Dmdnklvdl",
+  "name": "BAEKHYUN",
+  "followers": 2720739,
+  "monthlyListeners": 3132684,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 180157,
+        "region": "JK"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 78089,
+        "region": "10"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 69118,
+        "region": "14"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 59235,
+        "region": ""
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 54358,
+        "region": "TPE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2OnKRchqP7tT0FzTvWIFI7",
+  "name": "Wolfine",
+  "followers": 1427910,
+  "monthlyListeners": 4337551,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 292682,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 291129,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 204393,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 140075,
+        "region": "CMX"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 133810,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2phinjclVB8y7vOXYgwc8b",
+  "name": "Luciano",
+  "followers": 199,
+  "monthlyListeners": 1094,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 42,
+        "region": "RM"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 20,
+        "region": "25"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 18,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 17,
+        "region": "NH"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 16,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

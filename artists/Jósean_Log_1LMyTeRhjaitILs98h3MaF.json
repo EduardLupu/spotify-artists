@@ -1,0 +1,41 @@
+{
+  "id": "1LMyTeRhjaitILs98h3MaF",
+  "name": "Jósean Log",
+  "followers": 975251,
+  "monthlyListeners": 8569813,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 519351,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 377769,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 356613,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 306098,
+        "region": "LMA"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 236276,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4mLJ3XfOM5FPjSAWdQ2Jk7",
+  "name": "Dr. Dog",
+  "followers": 556259,
+  "monthlyListeners": 5308139,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 94703,
+        "region": "JK"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 63923,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 56665,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 55885,
+        "region": "NSW"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 53402,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

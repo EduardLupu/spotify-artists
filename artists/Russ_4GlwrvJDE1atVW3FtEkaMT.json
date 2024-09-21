@@ -1,0 +1,41 @@
+{
+  "id": "4GlwrvJDE1atVW3FtEkaMT",
+  "name": "Russ",
+  "followers": 18118,
+  "monthlyListeners": 12895,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1926,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 575,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 476,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 338,
+        "region": "ENG"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 309,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

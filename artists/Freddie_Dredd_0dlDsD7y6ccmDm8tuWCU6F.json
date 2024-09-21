@@ -1,0 +1,41 @@
+{
+  "id": "0dlDsD7y6ccmDm8tuWCU6F",
+  "name": "Freddie Dredd",
+  "followers": 1867872,
+  "monthlyListeners": 5361992,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 54090,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 51577,
+        "region": "CA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 48747,
+        "region": "TX"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 47778,
+        "region": "SP"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 46337,
+        "region": "AZ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

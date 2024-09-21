@@ -1,0 +1,41 @@
+{
+  "id": "13or1Wf6ipcvSIiurZATvw",
+  "name": "La Sonora Dinamita",
+  "followers": 1138645,
+  "monthlyListeners": 4765689,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 409442,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 170918,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 154172,
+        "region": "PUE"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 143827,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 137039,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

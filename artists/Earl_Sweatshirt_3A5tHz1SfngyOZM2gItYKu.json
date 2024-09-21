@@ -1,0 +1,41 @@
+{
+  "id": "3A5tHz1SfngyOZM2gItYKu",
+  "name": "Earl Sweatshirt",
+  "followers": 2277607,
+  "monthlyListeners": 2707979,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 69676,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 54490,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 47640,
+        "region": "NY"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 43156,
+        "region": "ENG"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 35972,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2eK9gcJQ6uqVvJL63dnOM3",
+  "name": "Simone Mendes",
+  "followers": 2104875,
+  "monthlyListeners": 10589789,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1653132,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 669231,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 521823,
+        "region": "PR"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 512858,
+        "region": "SP"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 496338,
+        "region": "DF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

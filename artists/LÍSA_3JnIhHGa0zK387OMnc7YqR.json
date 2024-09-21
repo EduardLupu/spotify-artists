@@ -1,0 +1,35 @@
+{
+  "id": "3JnIhHGa0zK387OMnc7YqR",
+  "name": "LÍSA",
+  "followers": 83,
+  "monthlyListeners": 8,
+  "topCities": {
+    "items": [
+      {
+        "city": "Reykjavik",
+        "country": "IS",
+        "numberOfListeners": 4,
+        "region": "1"
+      },
+      {
+        "city": "Kopavogur",
+        "country": "IS",
+        "numberOfListeners": 2,
+        "region": "1"
+      },
+      {
+        "city": "Kota Kinabalu",
+        "country": "MY",
+        "numberOfListeners": 1,
+        "region": "12"
+      },
+      {
+        "city": "Tietê",
+        "country": "BR",
+        "numberOfListeners": 1,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

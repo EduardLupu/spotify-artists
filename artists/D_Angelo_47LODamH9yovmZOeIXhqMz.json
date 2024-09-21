@@ -1,0 +1,41 @@
+{
+  "id": "47LODamH9yovmZOeIXhqMz",
+  "name": "D'Angelo",
+  "followers": 270,
+  "monthlyListeners": 417,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 85,
+        "region": "SP"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 32,
+        "region": "CT"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 24,
+        "region": "MG"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 10,
+        "region": "RJ"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 7,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

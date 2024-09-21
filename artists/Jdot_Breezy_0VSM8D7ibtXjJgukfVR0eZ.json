@@ -1,0 +1,41 @@
+{
+  "id": "0VSM8D7ibtXjJgukfVR0eZ",
+  "name": "Jdot Breezy",
+  "followers": 229023,
+  "monthlyListeners": 1662619,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 46295,
+        "region": "IL"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 38359,
+        "region": "GA"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 37789,
+        "region": "NC"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 36356,
+        "region": "TX"
+      },
+      {
+        "city": "Miami",
+        "country": "US",
+        "numberOfListeners": 31547,
+        "region": "FL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

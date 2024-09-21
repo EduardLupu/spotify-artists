@@ -1,0 +1,41 @@
+{
+  "id": "2TQ4CGgxxCWHqa9yYIGDoU",
+  "name": "Big Soto",
+  "followers": 1108324,
+  "monthlyListeners": 2655594,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 148093,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 99639,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 82256,
+        "region": "RM"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 80539,
+        "region": "JAL"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 70371,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

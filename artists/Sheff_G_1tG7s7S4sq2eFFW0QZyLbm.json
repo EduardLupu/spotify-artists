@@ -1,0 +1,41 @@
+{
+  "id": "1tG7s7S4sq2eFFW0QZyLbm",
+  "name": "Sheff G",
+  "followers": 1105641,
+  "monthlyListeners": 3408277,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 82162,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 77861,
+        "region": "NSW"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 77526,
+        "region": "ON"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 77298,
+        "region": "NY"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 71552,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

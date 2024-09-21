@@ -1,0 +1,41 @@
+{
+  "id": "2wY79sveU1sp5g7SokKOiI",
+  "name": "Sam Smith",
+  "followers": 24216107,
+  "monthlyListeners": 52770012,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1163224,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 766213,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 695505,
+        "region": "ENG"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 658413,
+        "region": "CMX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 646138,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 44
+}

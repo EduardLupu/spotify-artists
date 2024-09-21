@@ -1,0 +1,41 @@
+{
+  "id": "2TL8gYTNgD6nXkyuUdDrMg",
+  "name": "Jasmine Thompson",
+  "followers": 873291,
+  "monthlyListeners": 2791402,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 43155,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 38556,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 32901,
+        "region": "VIC"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 26969,
+        "region": "IDF"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 26241,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 0
+}

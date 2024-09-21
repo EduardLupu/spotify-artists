@@ -1,0 +1,41 @@
+{
+  "id": "3FT639foSlBZjh26kEqFzh",
+  "name": "Hamza",
+  "followers": 44,
+  "monthlyListeners": 552,
+  "topCities": {
+    "items": [
+      {
+        "city": "Casablanca",
+        "country": "MA",
+        "numberOfListeners": 167,
+        "region": "06"
+      },
+      {
+        "city": "Agadir",
+        "country": "MA",
+        "numberOfListeners": 42,
+        "region": "09"
+      },
+      {
+        "city": "Marrakesh",
+        "country": "MA",
+        "numberOfListeners": 39,
+        "region": "07"
+      },
+      {
+        "city": "Rabat",
+        "country": "MA",
+        "numberOfListeners": 28,
+        "region": "04"
+      },
+      {
+        "city": "Fes",
+        "country": "MA",
+        "numberOfListeners": 16,
+        "region": "03"
+      }
+    ]
+  },
+  "worldRank": 0
+}

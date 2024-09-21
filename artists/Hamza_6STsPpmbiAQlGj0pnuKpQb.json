@@ -1,0 +1,41 @@
+{
+  "id": "6STsPpmbiAQlGj0pnuKpQb",
+  "name": "Hamza",
+  "followers": 0,
+  "monthlyListeners": 11,
+  "topCities": {
+    "items": [
+      {
+        "city": "Harringay",
+        "country": "GB",
+        "numberOfListeners": 2,
+        "region": "ENG"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "NY"
+      },
+      {
+        "city": "Watford",
+        "country": "GB",
+        "numberOfListeners": 1,
+        "region": "ENG"
+      },
+      {
+        "city": "Queens",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "NY"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

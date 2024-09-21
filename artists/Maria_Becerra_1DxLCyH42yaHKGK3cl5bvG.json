@@ -1,0 +1,41 @@
+{
+  "id": "1DxLCyH42yaHKGK3cl5bvG",
+  "name": "Maria Becerra",
+  "followers": 6945481,
+  "monthlyListeners": 24551038,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1849691,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1413417,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 883413,
+        "region": "B"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 857073,
+        "region": "LMA"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 721774,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 239
+}

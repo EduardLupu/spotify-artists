@@ -1,0 +1,41 @@
+{
+  "id": "61if35zz1W11GejEkxTLEQ",
+  "name": "Benny Dayal",
+  "followers": 4450275,
+  "monthlyListeners": 13604364,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 1428773,
+        "region": "TN"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1077333,
+        "region": "MH"
+      },
+      {
+        "city": "Kochi",
+        "country": "IN",
+        "numberOfListeners": 969125,
+        "region": "KL"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 946131,
+        "region": "KA"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 882931,
+        "region": "TS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

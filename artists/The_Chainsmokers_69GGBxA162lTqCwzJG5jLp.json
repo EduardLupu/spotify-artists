@@ -1,0 +1,41 @@
+{
+  "id": "69GGBxA162lTqCwzJG5jLp",
+  "name": "The Chainsmokers",
+  "followers": 20466370,
+  "monthlyListeners": 48584829,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1149810,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 618815,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 601533,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 541320,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 491085,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 51
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6VDdCwrBM4qQaGxoAyxyJC",
+  "name": "Cold War Kids",
+  "followers": 885609,
+  "monthlyListeners": 2641828,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 49082,
+        "region": "IL"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 40493,
+        "region": "CO"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 39578,
+        "region": "NY"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 39220,
+        "region": "NSW"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 38565,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

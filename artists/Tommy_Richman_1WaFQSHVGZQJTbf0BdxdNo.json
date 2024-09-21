@@ -1,0 +1,41 @@
+{
+  "id": "1WaFQSHVGZQJTbf0BdxdNo",
+  "name": "Tommy Richman",
+  "followers": 699458,
+  "monthlyListeners": 33420500,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 546479,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 447221,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 446408,
+        "region": "ENG"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 418901,
+        "region": "JK"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 418264,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 124
+}

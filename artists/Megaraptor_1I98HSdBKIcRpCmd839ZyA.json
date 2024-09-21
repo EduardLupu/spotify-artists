@@ -1,0 +1,41 @@
+{
+  "id": "1I98HSdBKIcRpCmd839ZyA",
+  "name": "Megaraptor",
+  "followers": 12475,
+  "monthlyListeners": 102114,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 2807,
+        "region": "18"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 1202,
+        "region": "BE"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 1155,
+        "region": "10"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 1067,
+        "region": "AB"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 989,
+        "region": "HE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

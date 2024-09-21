@@ -1,0 +1,41 @@
+{
+  "id": "5dXlc7MnpaTeUIsHLVe3n4",
+  "name": "Coez",
+  "followers": 2176343,
+  "monthlyListeners": 3569525,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 797397,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 396374,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 134350,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 120507,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 99704,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

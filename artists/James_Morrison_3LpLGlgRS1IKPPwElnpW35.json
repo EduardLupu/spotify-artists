@@ -1,0 +1,41 @@
+{
+  "id": "3LpLGlgRS1IKPPwElnpW35",
+  "name": "James Morrison",
+  "followers": 1535171,
+  "monthlyListeners": 4260930,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 142747,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 82787,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 73717,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 73568,
+        "region": "NH"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 64549,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

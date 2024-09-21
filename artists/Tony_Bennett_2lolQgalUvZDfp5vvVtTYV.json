@@ -1,0 +1,41 @@
+{
+  "id": "2lolQgalUvZDfp5vvVtTYV",
+  "name": "Tony Bennett",
+  "followers": 948921,
+  "monthlyListeners": 2966022,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 37469,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 30007,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 29133,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 29066,
+        "region": "RM"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 25710,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

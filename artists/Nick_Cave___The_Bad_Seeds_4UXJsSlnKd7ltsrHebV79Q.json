@@ -1,0 +1,41 @@
+{
+  "id": "4UXJsSlnKd7ltsrHebV79Q",
+  "name": "Nick Cave & The Bad Seeds",
+  "followers": 1441922,
+  "monthlyListeners": 4346287,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 103169,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 82840,
+        "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 82017,
+        "region": "NSW"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 61342,
+        "region": "BRU"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 58301,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

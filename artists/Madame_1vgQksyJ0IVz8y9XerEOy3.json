@@ -1,0 +1,41 @@
+{
+  "id": "1vgQksyJ0IVz8y9XerEOy3",
+  "name": "Madame",
+  "followers": 741966,
+  "monthlyListeners": 2223917,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 478923,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 208496,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 79300,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 72897,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 54591,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

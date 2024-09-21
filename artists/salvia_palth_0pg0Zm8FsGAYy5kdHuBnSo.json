@@ -1,0 +1,41 @@
+{
+  "id": "0pg0Zm8FsGAYy5kdHuBnSo",
+  "name": "salvia palth",
+  "followers": 1215211,
+  "monthlyListeners": 8068799,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 102407,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 87691,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 80432,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 76957,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 72629,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

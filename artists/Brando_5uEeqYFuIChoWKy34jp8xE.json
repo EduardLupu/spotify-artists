@@ -1,0 +1,41 @@
+{
+  "id": "5uEeqYFuIChoWKy34jp8xE",
+  "name": "Brando",
+  "followers": 35170,
+  "monthlyListeners": 7636735,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 169336,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 130526,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 113312,
+        "region": "QLD"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 89477,
+        "region": "SP"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 85010,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0CbeG1224FS58EUx4tPevZ",
+  "name": "Timmy Trumpet",
+  "followers": 1180121,
+  "monthlyListeners": 11123428,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 189841,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 185537,
+        "region": "HH"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 157887,
+        "region": "NSW"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 148881,
+        "region": "HE"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 148460,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

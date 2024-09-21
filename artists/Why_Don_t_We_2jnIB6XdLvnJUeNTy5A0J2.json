@@ -1,0 +1,41 @@
+{
+  "id": "2jnIB6XdLvnJUeNTy5A0J2",
+  "name": "Why Don't We",
+  "followers": 3711034,
+  "monthlyListeners": 5765886,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 403681,
+        "region": "JK"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 124946,
+        "region": "14"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 110467,
+        "region": ""
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 90368,
+        "region": "00"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 86231,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

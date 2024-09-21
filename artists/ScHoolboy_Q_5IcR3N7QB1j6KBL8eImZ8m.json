@@ -1,0 +1,41 @@
+{
+  "id": "5IcR3N7QB1j6KBL8eImZ8m",
+  "name": "ScHoolboy Q",
+  "followers": 4782614,
+  "monthlyListeners": 9301264,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 198149,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 158877,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 133556,
+        "region": "NSW"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 121492,
+        "region": "AZ"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 120608,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

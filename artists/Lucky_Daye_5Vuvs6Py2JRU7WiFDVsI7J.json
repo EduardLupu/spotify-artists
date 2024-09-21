@@ -1,0 +1,41 @@
+{
+  "id": "5Vuvs6Py2JRU7WiFDVsI7J",
+  "name": "Lucky Daye",
+  "followers": 726115,
+  "monthlyListeners": 5374698,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 94207,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 89483,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 75845,
+        "region": "NSW"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 73529,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 68322,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6roFdX1y5BYSbp60OTJWMd",
+  "name": "Tim McGraw",
+  "followers": 4623533,
+  "monthlyListeners": 12359879,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 239033,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 213556,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 198795,
+        "region": "NC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 187450,
+        "region": "NSW"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 175437,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

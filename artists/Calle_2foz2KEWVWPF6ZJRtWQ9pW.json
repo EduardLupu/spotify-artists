@@ -1,0 +1,41 @@
+{
+  "id": "2foz2KEWVWPF6ZJRtWQ9pW",
+  "name": "Calle",
+  "followers": 143,
+  "monthlyListeners": 10069,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 751,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 416,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 312,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 252,
+        "region": "JAL"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 249,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

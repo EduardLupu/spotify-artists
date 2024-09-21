@@ -1,0 +1,41 @@
+{
+  "id": "3aBkeBhwadnWMWoVJ2CxJC",
+  "name": "Rob Thomas",
+  "followers": 937065,
+  "monthlyListeners": 1402285,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 43499,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 39614,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 33835,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 20464,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 17440,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4Xi6LSfFqv26XgP9NKN26U",
+  "name": "AJ Tracey",
+  "followers": 1324551,
+  "monthlyListeners": 5601725,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 468761,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 181896,
+        "region": "NSW"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 158795,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 155920,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 150465,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

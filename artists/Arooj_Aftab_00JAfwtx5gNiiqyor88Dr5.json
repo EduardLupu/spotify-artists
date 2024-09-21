@@ -1,0 +1,41 @@
+{
+  "id": "00JAfwtx5gNiiqyor88Dr5",
+  "name": "Arooj Aftab",
+  "followers": 204448,
+  "monthlyListeners": 228045,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lahore",
+        "country": "PK",
+        "numberOfListeners": 6171,
+        "region": "PB"
+      },
+      {
+        "city": "Karachi",
+        "country": "PK",
+        "numberOfListeners": 5993,
+        "region": "SD"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 5063,
+        "region": "ENG"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 4425,
+        "region": "MH"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 4255,
+        "region": "DL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

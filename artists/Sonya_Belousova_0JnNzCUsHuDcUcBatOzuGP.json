@@ -1,0 +1,41 @@
+{
+  "id": "0JnNzCUsHuDcUcBatOzuGP",
+  "name": "Sonya Belousova",
+  "followers": 31457,
+  "monthlyListeners": 906402,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 11720,
+        "region": "IDF"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 11717,
+        "region": "ENG"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 11669,
+        "region": "10"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 8940,
+        "region": "NSW"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 8728,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

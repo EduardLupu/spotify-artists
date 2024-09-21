@@ -1,0 +1,41 @@
+{
+  "id": "5pWZnW7sp77EYl6xAAtfHY",
+  "name": "Somo",
+  "followers": 1273,
+  "monthlyListeners": 24974,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 2014,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1825,
+        "region": "MH"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 1539,
+        "region": "KA"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 1158,
+        "region": "WB"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1085,
+        "region": "DL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

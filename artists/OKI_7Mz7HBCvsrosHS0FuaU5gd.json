@@ -1,0 +1,41 @@
+{
+  "id": "7Mz7HBCvsrosHS0FuaU5gd",
+  "name": "OKI",
+  "followers": 238,
+  "monthlyListeners": 1485,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 355,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 90,
+        "region": "27"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 48,
+        "region": "13"
+      },
+      {
+        "city": "Yokohama",
+        "country": "JP",
+        "numberOfListeners": 27,
+        "region": "14"
+      },
+      {
+        "city": "Sapporo",
+        "country": "JP",
+        "numberOfListeners": 25,
+        "region": "01"
+      }
+    ]
+  },
+  "worldRank": 0
+}

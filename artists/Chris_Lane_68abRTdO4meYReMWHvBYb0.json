@@ -1,0 +1,41 @@
+{
+  "id": "68abRTdO4meYReMWHvBYb0",
+  "name": "Chris Lane",
+  "followers": 1011143,
+  "monthlyListeners": 1585774,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 32100,
+        "region": "IL"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 23959,
+        "region": "NC"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 23795,
+        "region": "ON"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 23614,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 22572,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

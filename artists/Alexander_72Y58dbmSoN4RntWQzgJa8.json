@@ -1,0 +1,41 @@
+{
+  "id": "72Y58dbmSoN4RntWQzgJa8",
+  "name": "Alexander",
+  "followers": 1869,
+  "monthlyListeners": 8747,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 1549,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 756,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago de Cali",
+        "country": "CO",
+        "numberOfListeners": 690,
+        "region": "VAC"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 530,
+        "region": "ANT"
+      },
+      {
+        "city": "Guayaquil",
+        "country": "EC",
+        "numberOfListeners": 320,
+        "region": "G"
+      }
+    ]
+  },
+  "worldRank": 0
+}

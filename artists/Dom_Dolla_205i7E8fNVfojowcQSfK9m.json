@@ -1,0 +1,41 @@
+{
+  "id": "205i7E8fNVfojowcQSfK9m",
+  "name": "Dom Dolla",
+  "followers": 442371,
+  "monthlyListeners": 7850888,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 335509,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 319295,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 205472,
+        "region": "QLD"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 154756,
+        "region": "ENG"
+      },
+      {
+        "city": "Perth",
+        "country": "AU",
+        "numberOfListeners": 132866,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3ZwTPSCldPF0VEekGEEVzY",
+  "name": "Shiva",
+  "followers": 27,
+  "monthlyListeners": 179,
+  "topCities": {
+    "items": [
+      {
+        "city": "Budapest",
+        "country": "HU",
+        "numberOfListeners": 107,
+        "region": "BU"
+      },
+      {
+        "city": "Székesfehérvár",
+        "country": "HU",
+        "numberOfListeners": 5,
+        "region": "FE"
+      },
+      {
+        "city": "Miskolc",
+        "country": "HU",
+        "numberOfListeners": 5,
+        "region": "BZ"
+      },
+      {
+        "city": "Kazincbarcika",
+        "country": "HU",
+        "numberOfListeners": 4,
+        "region": "BZ"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 4,
+        "region": "BY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

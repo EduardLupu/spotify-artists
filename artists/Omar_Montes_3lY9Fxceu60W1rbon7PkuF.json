@@ -1,0 +1,41 @@
+{
+  "id": "3lY9Fxceu60W1rbon7PkuF",
+  "name": "Omar Montes",
+  "followers": 797123,
+  "monthlyListeners": 10420355,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 1057982,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 656983,
+        "region": "CT"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 310113,
+        "region": "RM"
+      },
+      {
+        "city": "Valencia",
+        "country": "ES",
+        "numberOfListeners": 309408,
+        "region": "VC"
+      },
+      {
+        "city": "Seville",
+        "country": "ES",
+        "numberOfListeners": 289787,
+        "region": "AN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

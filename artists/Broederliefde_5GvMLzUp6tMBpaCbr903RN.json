@@ -1,0 +1,41 @@
+{
+  "id": "5GvMLzUp6tMBpaCbr903RN",
+  "name": "Broederliefde",
+  "followers": 536234,
+  "monthlyListeners": 1328479,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 485988,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 403769,
+        "region": "ZH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 188671,
+        "region": "UT"
+      },
+      {
+        "city": "Amersfoort",
+        "country": "NL",
+        "numberOfListeners": 71847,
+        "region": "UT"
+      },
+      {
+        "city": "The Hague",
+        "country": "NL",
+        "numberOfListeners": 67408,
+        "region": "ZH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

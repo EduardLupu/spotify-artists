@@ -1,0 +1,41 @@
+{
+  "id": "6LCkTqdz2Dc2wAu8up8hYy",
+  "name": "Oasis",
+  "followers": 254,
+  "monthlyListeners": 129,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 5,
+        "region": "13"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 5,
+        "region": "BE"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 4,
+        "region": "MG"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 2,
+        "region": "27"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

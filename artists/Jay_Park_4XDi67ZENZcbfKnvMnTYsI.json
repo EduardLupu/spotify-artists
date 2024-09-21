@@ -1,0 +1,41 @@
+{
+  "id": "4XDi67ZENZcbfKnvMnTYsI",
+  "name": "Jay Park",
+  "followers": 2123323,
+  "monthlyListeners": 3598475,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 128385,
+        "region": "JK"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 89883,
+        "region": "10"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 76564,
+        "region": ""
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 64082,
+        "region": "14"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 61207,
+        "region": "TPE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

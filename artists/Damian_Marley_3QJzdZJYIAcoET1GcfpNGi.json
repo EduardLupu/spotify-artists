@@ -1,0 +1,41 @@
+{
+  "id": "3QJzdZJYIAcoET1GcfpNGi",
+  "name": "Damian Marley",
+  "followers": 1656064,
+  "monthlyListeners": 6033646,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 124950,
+        "region": "RM"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 99065,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 90969,
+        "region": "SP"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 87078,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 76717,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

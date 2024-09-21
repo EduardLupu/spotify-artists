@@ -1,0 +1,41 @@
+{
+  "id": "5eumcnUkdmGvkvcsx1WFNG",
+  "name": "Tito Double P",
+  "followers": 1459169,
+  "monthlyListeners": 17281646,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1588938,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 1061494,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 792814,
+        "region": "CMX"
+      },
+      {
+        "city": "Monterrey",
+        "country": "MX",
+        "numberOfListeners": 779785,
+        "region": "NLE"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 766305,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 465
+}

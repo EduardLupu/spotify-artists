@@ -1,0 +1,41 @@
+{
+  "id": "7iK8PXO48WeuP03g8YR51W",
+  "name": "Myke Towers",
+  "followers": 16409349,
+  "monthlyListeners": 43096190,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 2020271,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1643775,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1557505,
+        "region": "CMX"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 1385336,
+        "region": "MD"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 1366219,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 67
+}

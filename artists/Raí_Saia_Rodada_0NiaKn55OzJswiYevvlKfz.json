@@ -1,0 +1,41 @@
+{
+  "id": "0NiaKn55OzJswiYevvlKfz",
+  "name": "Raí Saia Rodada",
+  "followers": 2405664,
+  "monthlyListeners": 2890446,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 374050,
+        "region": "SP"
+      },
+      {
+        "city": "Fortaleza",
+        "country": "BR",
+        "numberOfListeners": 130307,
+        "region": "CE"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 121606,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 121489,
+        "region": "MG"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 118860,
+        "region": "DF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

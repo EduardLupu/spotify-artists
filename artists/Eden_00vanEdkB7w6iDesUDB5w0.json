@@ -1,0 +1,41 @@
+{
+  "id": "00vanEdkB7w6iDesUDB5w0",
+  "name": "Eden",
+  "followers": 8,
+  "monthlyListeners": 480,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 99,
+        "region": "14"
+      },
+      {
+        "city": "Poznan",
+        "country": "PL",
+        "numberOfListeners": 26,
+        "region": "30"
+      },
+      {
+        "city": "Krakow",
+        "country": "PL",
+        "numberOfListeners": 22,
+        "region": "12"
+      },
+      {
+        "city": "Wroclaw",
+        "country": "PL",
+        "numberOfListeners": 21,
+        "region": "02"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 15,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3Ayl7mCk0nScecqOzvNp6s",
+  "name": "Jimmy Eat World",
+  "followers": 1596367,
+  "monthlyListeners": 10376027,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 174529,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 163727,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 157671,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 139373,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 136510,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

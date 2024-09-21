@@ -1,0 +1,41 @@
+{
+  "id": "2TM0qnbJH4QPhGMCdPt7fH",
+  "name": "Neck Deep",
+  "followers": 1586342,
+  "monthlyListeners": 3175048,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 815041,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 181326,
+        "region": "JB"
+      },
+      {
+        "city": "Surabaya",
+        "country": "ID",
+        "numberOfListeners": 103833,
+        "region": "JI"
+      },
+      {
+        "city": "Yogyakarta",
+        "country": "ID",
+        "numberOfListeners": 92674,
+        "region": "YO"
+      },
+      {
+        "city": "Semarang",
+        "country": "ID",
+        "numberOfListeners": 88083,
+        "region": "JT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1T4HxOYolAEb5PadIVKdWZ",
+  "name": "Gibbs",
+  "followers": 543822,
+  "monthlyListeners": 2721589,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 848585,
+        "region": "14"
+      },
+      {
+        "city": "Katowice",
+        "country": "PL",
+        "numberOfListeners": 288452,
+        "region": "24"
+      },
+      {
+        "city": "Krakow",
+        "country": "PL",
+        "numberOfListeners": 287795,
+        "region": "12"
+      },
+      {
+        "city": "Poznan",
+        "country": "PL",
+        "numberOfListeners": 284624,
+        "region": "30"
+      },
+      {
+        "city": "Wroclaw",
+        "country": "PL",
+        "numberOfListeners": 239659,
+        "region": "02"
+      }
+    ]
+  },
+  "worldRank": 0
+}

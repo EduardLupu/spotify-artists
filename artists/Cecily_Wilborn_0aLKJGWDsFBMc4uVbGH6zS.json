@@ -1,0 +1,41 @@
+{
+  "id": "0aLKJGWDsFBMc4uVbGH6zS",
+  "name": "Cecily Wilborn",
+  "followers": 5256,
+  "monthlyListeners": 50313,
+  "topCities": {
+    "items": [
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 2714,
+        "region": "NC"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 2680,
+        "region": "TX"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 2277,
+        "region": "TX"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 2201,
+        "region": "GA"
+      },
+      {
+        "city": "Memphis",
+        "country": "US",
+        "numberOfListeners": 1535,
+        "region": "TN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

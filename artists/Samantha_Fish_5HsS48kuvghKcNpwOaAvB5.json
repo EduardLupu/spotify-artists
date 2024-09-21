@@ -1,0 +1,41 @@
+{
+  "id": "5HsS48kuvghKcNpwOaAvB5",
+  "name": "Samantha Fish",
+  "followers": 124023,
+  "monthlyListeners": 170965,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 2259,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 1890,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1886,
+        "region": "ENG"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 1825,
+        "region": "CO"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1773,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

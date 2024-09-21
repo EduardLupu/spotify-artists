@@ -1,0 +1,41 @@
+{
+  "id": "0Cd6nHYwecCNM1sVEXKlYr",
+  "name": "Krewella",
+  "followers": 910803,
+  "monthlyListeners": 1206784,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 17728,
+        "region": "JK"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 15581,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 15354,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 14097,
+        "region": "NY"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 12122,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1j34sa4N2cHy7iYJrxznCR",
+  "name": "Calibre",
+  "followers": 574,
+  "monthlyListeners": 124,
+  "topCities": {
+    "items": [
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 3,
+        "region": "QLD"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "NY"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 2,
+        "region": "QC"
+      },
+      {
+        "city": "Surrey",
+        "country": "CA",
+        "numberOfListeners": 2,
+        "region": "BC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 2,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

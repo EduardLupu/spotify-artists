@@ -1,0 +1,41 @@
+{
+  "id": "5GfraSJ3cZKQqoxYoUGM09",
+  "name": "DIVINE",
+  "followers": 159,
+  "monthlyListeners": 74,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 22,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 5,
+        "region": "JB"
+      },
+      {
+        "city": "Surabaya",
+        "country": "ID",
+        "numberOfListeners": 4,
+        "region": "JI"
+      },
+      {
+        "city": "Makassar",
+        "country": "ID",
+        "numberOfListeners": 3,
+        "region": "SN"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 2,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

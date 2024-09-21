@@ -1,0 +1,41 @@
+{
+  "id": "09agIJMxCD2k87ys9Al0f0",
+  "name": "VIZE",
+  "followers": 211352,
+  "monthlyListeners": 6083268,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 225428,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 197108,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 163822,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 157698,
+        "region": "BY"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 127361,
+        "region": "9"
+      }
+    ]
+  },
+  "worldRank": 0
+}

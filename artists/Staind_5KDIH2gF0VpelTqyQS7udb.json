@@ -1,0 +1,41 @@
+{
+  "id": "5KDIH2gF0VpelTqyQS7udb",
+  "name": "Staind",
+  "followers": 2601522,
+  "monthlyListeners": 5162795,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 94333,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 83313,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 73733,
+        "region": "NC"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 65145,
+        "region": "TX"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 62564,
+        "region": "PA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

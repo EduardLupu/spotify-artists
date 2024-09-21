@@ -1,0 +1,41 @@
+{
+  "id": "2qFr8w5sWUITRlzZ9kZotF",
+  "name": "Jefferson Airplane",
+  "followers": 1606533,
+  "monthlyListeners": 4049280,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 59429,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 47316,
+        "region": "NSW"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 44887,
+        "region": "34"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 44409,
+        "region": "VIC"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 41604,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

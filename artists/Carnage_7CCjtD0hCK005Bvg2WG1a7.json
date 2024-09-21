@@ -1,0 +1,41 @@
+{
+  "id": "7CCjtD0hCK005Bvg2WG1a7",
+  "name": "Carnage",
+  "followers": 309606,
+  "monthlyListeners": 1289468,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 18730,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 18101,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 16728,
+        "region": "CA"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 13693,
+        "region": "ON"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 13068,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

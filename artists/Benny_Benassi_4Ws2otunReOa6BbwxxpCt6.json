@@ -1,0 +1,41 @@
+{
+  "id": "4Ws2otunReOa6BbwxxpCt6",
+  "name": "Benny Benassi",
+  "followers": 563838,
+  "monthlyListeners": 9393296,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 136725,
+        "region": "25"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 124837,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 114967,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 113823,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 111049,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

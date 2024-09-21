@@ -1,0 +1,41 @@
+{
+  "id": "7JjM4ZFJffM5vti5m241ye",
+  "name": "Roy Tosh",
+  "followers": 16452,
+  "monthlyListeners": 78753,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 1694,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 1225,
+        "region": "NC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1149,
+        "region": "IL"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 1128,
+        "region": "TX"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 1068,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3K2zB87GZv1krx031en5VA",
+  "name": "La Roux",
+  "followers": 653945,
+  "monthlyListeners": 7267918,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 209921,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 146202,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 125993,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 102191,
+        "region": "QLD"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 82604,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

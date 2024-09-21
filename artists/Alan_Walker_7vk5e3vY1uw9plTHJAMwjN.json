@@ -1,0 +1,41 @@
+{
+  "id": "7vk5e3vY1uw9plTHJAMwjN",
+  "name": "Alan Walker",
+  "followers": 39432604,
+  "monthlyListeners": 29724234,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1125513,
+        "region": "JK"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 345376,
+        "region": "KA"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 326277,
+        "region": "MH"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 321893,
+        "region": "14"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 254726,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 163
+}

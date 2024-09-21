@@ -1,0 +1,41 @@
+{
+  "id": "34qyuX5yO72yzL8Z4JclBc",
+  "name": "Nate Traveller",
+  "followers": 29194,
+  "monthlyListeners": 5027411,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 107389,
+        "region": "CMX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 65001,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 57280,
+        "region": "RM"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 56319,
+        "region": "BE"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 53771,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

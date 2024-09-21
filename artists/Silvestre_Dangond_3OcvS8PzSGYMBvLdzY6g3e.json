@@ -1,0 +1,41 @@
+{
+  "id": "3OcvS8PzSGYMBvLdzY6g3e",
+  "name": "Silvestre Dangond",
+  "followers": 5010954,
+  "monthlyListeners": 3989358,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 889765,
+        "region": "DC"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 397071,
+        "region": "ANT"
+      },
+      {
+        "city": "Barranquilla",
+        "country": "CO",
+        "numberOfListeners": 222315,
+        "region": "ATL"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 163583,
+        "region": "LMA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 137892,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

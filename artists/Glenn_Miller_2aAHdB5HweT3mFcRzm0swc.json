@@ -1,0 +1,41 @@
+{
+  "id": "2aAHdB5HweT3mFcRzm0swc",
+  "name": "Glenn Miller",
+  "followers": 523424,
+  "monthlyListeners": 1599921,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 16517,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 16433,
+        "region": "CA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 14945,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 14706,
+        "region": "RM"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 14303,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

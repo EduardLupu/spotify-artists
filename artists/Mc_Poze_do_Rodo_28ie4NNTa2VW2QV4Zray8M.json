@@ -1,0 +1,41 @@
+{
+  "id": "28ie4NNTa2VW2QV4Zray8M",
+  "name": "Mc Poze do Rodo",
+  "followers": 6402064,
+  "monthlyListeners": 6534370,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1107285,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 670529,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 355608,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 244685,
+        "region": "SP"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 242616,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

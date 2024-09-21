@@ -1,0 +1,41 @@
+{
+  "id": "3441uYrkzgTWwjXLd13R0U",
+  "name": "Enigma Norteño",
+  "followers": 1167984,
+  "monthlyListeners": 4153942,
+  "topCities": {
+    "items": [
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 286552,
+        "region": "JAL"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 271041,
+        "region": "CMX"
+      },
+      {
+        "city": "Tijuana",
+        "country": "MX",
+        "numberOfListeners": 198704,
+        "region": "BCN"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 184741,
+        "region": "JAL"
+      },
+      {
+        "city": "Culiacán",
+        "country": "MX",
+        "numberOfListeners": 165275,
+        "region": "SIN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

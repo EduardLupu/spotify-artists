@@ -1,0 +1,41 @@
+{
+  "id": "3XHO7cRUPCLOr6jwp8vsx5",
+  "name": "alt-J",
+  "followers": 3306785,
+  "monthlyListeners": 9670496,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 238767,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 131341,
+        "region": "NSW"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 118702,
+        "region": "IDF"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 110056,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 103251,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

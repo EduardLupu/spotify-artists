@@ -1,0 +1,41 @@
+{
+  "id": "070AvN8e3WycppehEutQao",
+  "name": "Qayaas",
+  "followers": 8135,
+  "monthlyListeners": 11549,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lahore",
+        "country": "PK",
+        "numberOfListeners": 746,
+        "region": "PB"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 664,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 622,
+        "region": "DL"
+      },
+      {
+        "city": "Karachi",
+        "country": "PK",
+        "numberOfListeners": 564,
+        "region": "SD"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 556,
+        "region": "MH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

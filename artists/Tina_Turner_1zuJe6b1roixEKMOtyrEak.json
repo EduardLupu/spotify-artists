@@ -1,0 +1,41 @@
+{
+  "id": "1zuJe6b1roixEKMOtyrEak",
+  "name": "Tina Turner",
+  "followers": 4229095,
+  "monthlyListeners": 10846656,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 185689,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 181765,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 173456,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 153856,
+        "region": "VIC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 149468,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

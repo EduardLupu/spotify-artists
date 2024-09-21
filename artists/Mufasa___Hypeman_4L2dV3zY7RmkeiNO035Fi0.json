@@ -1,0 +1,41 @@
+{
+  "id": "4L2dV3zY7RmkeiNO035Fi0",
+  "name": "Mufasa & Hypeman",
+  "followers": 17880,
+  "monthlyListeners": 4790941,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 74364,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 58805,
+        "region": "VIC"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 54117,
+        "region": "IDF"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 50254,
+        "region": "ENG"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 48660,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

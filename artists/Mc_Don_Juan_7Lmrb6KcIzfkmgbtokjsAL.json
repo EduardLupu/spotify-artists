@@ -1,0 +1,41 @@
+{
+  "id": "7Lmrb6KcIzfkmgbtokjsAL",
+  "name": "Mc Don Juan",
+  "followers": 5132851,
+  "monthlyListeners": 12289959,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 2353630,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 662630,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 628719,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 597330,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 532927,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2auikkNYqigWStoHWK1Grq",
+  "name": "John Martin",
+  "followers": 52329,
+  "monthlyListeners": 9256589,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 182599,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 124626,
+        "region": "NSW"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 121900,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 117041,
+        "region": "RM"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 106825,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

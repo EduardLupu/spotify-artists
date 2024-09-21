@@ -1,0 +1,41 @@
+{
+  "id": "7gCoPolzUpHjzOhp22ihoN",
+  "name": "BhadBoi OML",
+  "followers": 300260,
+  "monthlyListeners": 282414,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 166781,
+        "region": "LA"
+      },
+      {
+        "city": "Abuja",
+        "country": "NG",
+        "numberOfListeners": 44628,
+        "region": "FC"
+      },
+      {
+        "city": "Ibadan",
+        "country": "NG",
+        "numberOfListeners": 36881,
+        "region": "OY"
+      },
+      {
+        "city": "Port Harcourt",
+        "country": "NG",
+        "numberOfListeners": 28605,
+        "region": "RI"
+      },
+      {
+        "city": "Benin City",
+        "country": "NG",
+        "numberOfListeners": 9274,
+        "region": "ED"
+      }
+    ]
+  },
+  "worldRank": 0
+}

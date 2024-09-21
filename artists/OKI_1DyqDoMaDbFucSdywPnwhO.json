@@ -1,0 +1,41 @@
+{
+  "id": "1DyqDoMaDbFucSdywPnwhO",
+  "name": "OKI",
+  "followers": 6225,
+  "monthlyListeners": 13842,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 396,
+        "region": "13"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 392,
+        "region": "ENG"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 342,
+        "region": "L"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 287,
+        "region": "BE"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 184,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

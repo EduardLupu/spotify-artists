@@ -1,0 +1,41 @@
+{
+  "id": "2F8GvYuY0lfZNYu45dY6gJ",
+  "name": "Die Toten Hosen",
+  "followers": 1499115,
+  "monthlyListeners": 1927613,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 151983,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 115586,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 113834,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 106004,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 80183,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3YH3wlkHEEGeAl8sHCHqcK",
+  "name": "Oki",
+  "followers": 67,
+  "monthlyListeners": 27,
+  "topCities": {
+    "items": [
+      {
+        "city": "Nicosia",
+        "country": "CY",
+        "numberOfListeners": 10,
+        "region": "01"
+      },
+      {
+        "city": "Mersin",
+        "country": "TR",
+        "numberOfListeners": 7,
+        "region": "33"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 2,
+        "region": "34"
+      },
+      {
+        "city": "Famagusta",
+        "country": "CY",
+        "numberOfListeners": 1,
+        "region": "04"
+      },
+      {
+        "city": "Bratislava",
+        "country": "SK",
+        "numberOfListeners": 1,
+        "region": "BL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

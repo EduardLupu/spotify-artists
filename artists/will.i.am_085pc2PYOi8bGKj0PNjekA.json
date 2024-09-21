@@ -1,0 +1,41 @@
+{
+  "id": "085pc2PYOi8bGKj0PNjekA",
+  "name": "will.i.am",
+  "followers": 4191999,
+  "monthlyListeners": 10264366,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 155668,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 136252,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 134227,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 104705,
+        "region": "QLD"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 79831,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

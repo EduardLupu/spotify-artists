@@ -1,0 +1,41 @@
+{
+  "id": "3Xt3RrJMFv5SZkCfUE8C1J",
+  "name": "Kim Petras",
+  "followers": 1124932,
+  "monthlyListeners": 22796764,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 279891,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 253131,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 251985,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 243221,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 218010,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 275
+}

@@ -1,0 +1,41 @@
+{
+  "id": "08OCWF4MDd9CQC2uPbsV3j",
+  "name": "Xavi",
+  "followers": 8584,
+  "monthlyListeners": 21581,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 495,
+        "region": "CA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 340,
+        "region": "CO"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 322,
+        "region": "IL"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 308,
+        "region": "WA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 272,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

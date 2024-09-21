@@ -1,0 +1,41 @@
+{
+  "id": "2ZRQcIgzPCVaT9XKhXZIzh",
+  "name": "Gryffin",
+  "followers": 964821,
+  "monthlyListeners": 6530355,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 130057,
+        "region": "JK"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 96306,
+        "region": "CMX"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 87563,
+        "region": "NY"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 80333,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 73177,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6oDz5toU7YB8o1aA2pntIT",
+  "name": "KK",
+  "followers": 163,
+  "monthlyListeners": 2698,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 387,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 137,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 127,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 99,
+        "region": "BY"
+      },
+      {
+        "city": "Cologne",
+        "country": "DE",
+        "numberOfListeners": 92,
+        "region": "NW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

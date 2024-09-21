@@ -1,0 +1,41 @@
+{
+  "id": "3yiEJ9SByXZMXTwaKdVFN4",
+  "name": "Luchè",
+  "followers": 1326387,
+  "monthlyListeners": 2780670,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 651469,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 352053,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 230309,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 99297,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 76850,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

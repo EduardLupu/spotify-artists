@@ -1,0 +1,41 @@
+{
+  "id": "7uI6acuMQNQPqtsZf0SQ3e",
+  "name": "Ado",
+  "followers": 1168,
+  "monthlyListeners": 959,
+  "topCities": {
+    "items": [
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 282,
+        "region": "TPE"
+      },
+      {
+        "city": "Taichung",
+        "country": "TW",
+        "numberOfListeners": 112,
+        "region": "TXG"
+      },
+      {
+        "city": "Kaohsiung",
+        "country": "TW",
+        "numberOfListeners": 104,
+        "region": "KHH"
+      },
+      {
+        "city": "New Taipei City",
+        "country": "TW",
+        "numberOfListeners": 98,
+        "region": "NWT"
+      },
+      {
+        "city": "Tainan City",
+        "country": "TW",
+        "numberOfListeners": 42,
+        "region": "TNN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

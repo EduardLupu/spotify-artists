@@ -1,0 +1,41 @@
+{
+  "id": "1aS5tqEs9ci5P9KD9tZWa6",
+  "name": "Bonez MC",
+  "followers": 2257493,
+  "monthlyListeners": 4780004,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 531003,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 428981,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 420407,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 352420,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 305619,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

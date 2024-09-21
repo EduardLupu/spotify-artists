@@ -1,0 +1,41 @@
+{
+  "id": "2oSONSC9zQ4UonDKnLqksx",
+  "name": "Atif Aslam",
+  "followers": 26853561,
+  "monthlyListeners": 21826507,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 2376043,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 2073137,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1658067,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 1358973,
+        "region": "DL"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 1123668,
+        "region": "WB"
+      }
+    ]
+  },
+  "worldRank": 317
+}

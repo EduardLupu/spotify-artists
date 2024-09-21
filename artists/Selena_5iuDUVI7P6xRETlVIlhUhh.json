@@ -1,0 +1,41 @@
+{
+  "id": "5iuDUVI7P6xRETlVIlhUhh",
+  "name": "Selena",
+  "followers": 8796,
+  "monthlyListeners": 1818,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bucharest",
+        "country": "RO",
+        "numberOfListeners": 265,
+        "region": "B"
+      },
+      {
+        "city": "Iasi",
+        "country": "RO",
+        "numberOfListeners": 72,
+        "region": "IS"
+      },
+      {
+        "city": "Cluj-Napoca",
+        "country": "RO",
+        "numberOfListeners": 67,
+        "region": "CJ"
+      },
+      {
+        "city": "Timișoara",
+        "country": "RO",
+        "numberOfListeners": 66,
+        "region": "TM"
+      },
+      {
+        "city": "Ploieşti",
+        "country": "RO",
+        "numberOfListeners": 44,
+        "region": "PH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

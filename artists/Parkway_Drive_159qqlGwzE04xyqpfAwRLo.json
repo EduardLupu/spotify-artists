@@ -1,0 +1,41 @@
+{
+  "id": "159qqlGwzE04xyqpfAwRLo",
+  "name": "Parkway Drive",
+  "followers": 1138375,
+  "monthlyListeners": 1516498,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 55882,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 49802,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 48261,
+        "region": "QLD"
+      },
+      {
+        "city": "Perth",
+        "country": "AU",
+        "numberOfListeners": 24497,
+        "region": "WA"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 21609,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

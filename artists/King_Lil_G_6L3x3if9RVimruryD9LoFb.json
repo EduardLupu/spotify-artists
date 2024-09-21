@@ -1,0 +1,41 @@
+{
+  "id": "6L3x3if9RVimruryD9LoFb",
+  "name": "King Lil G",
+  "followers": 441069,
+  "monthlyListeners": 475026,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 26953,
+        "region": "CA"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 17208,
+        "region": "AZ"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 12495,
+        "region": "CO"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 11072,
+        "region": "TX"
+      },
+      {
+        "city": "Riverside",
+        "country": "US",
+        "numberOfListeners": 10303,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

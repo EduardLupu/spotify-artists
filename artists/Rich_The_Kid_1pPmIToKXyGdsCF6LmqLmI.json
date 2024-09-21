@@ -1,0 +1,41 @@
+{
+  "id": "1pPmIToKXyGdsCF6LmqLmI",
+  "name": "Rich The Kid",
+  "followers": 3384794,
+  "monthlyListeners": 6282224,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 104985,
+        "region": "CMX"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 83838,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 82763,
+        "region": "IL"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 76161,
+        "region": "JAL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 68657,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

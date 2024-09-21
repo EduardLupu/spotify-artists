@@ -1,0 +1,41 @@
+{
+  "id": "4PvnP3yCzrT289cX3wCdOx",
+  "name": "Yung Hurn",
+  "followers": 440630,
+  "monthlyListeners": 1651585,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 162403,
+        "region": "BE"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 120821,
+        "region": "9"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 105190,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 104637,
+        "region": "BY"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 103919,
+        "region": "HE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

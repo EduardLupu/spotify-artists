@@ -1,0 +1,41 @@
+{
+  "id": "26AHtbjWKiwYzsoGoUZq53",
+  "name": "Pentatonix",
+  "followers": 3751436,
+  "monthlyListeners": 3200449,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 37400,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 30934,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 28562,
+        "region": "SP"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 26884,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 26356,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

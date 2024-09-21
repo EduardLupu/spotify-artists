@@ -1,0 +1,41 @@
+{
+  "id": "5y1mXGApE4lshXA10gQ0S3",
+  "name": "Jovaan",
+  "followers": 21719,
+  "monthlyListeners": 192793,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 24152,
+        "region": "RM"
+      },
+      {
+        "city": "San Juan",
+        "country": "US",
+        "numberOfListeners": 15649,
+        "region": "PR"
+      },
+      {
+        "city": "Bayamón",
+        "country": "US",
+        "numberOfListeners": 5430,
+        "region": "PR"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 4111,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 3679,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

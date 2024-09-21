@@ -1,0 +1,41 @@
+{
+  "id": "5uUb3J6HqLhBWwzuh84LUZ",
+  "name": "Seventeen",
+  "followers": 3862459,
+  "monthlyListeners": 6143263,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 2525126,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 555895,
+        "region": "JB"
+      },
+      {
+        "city": "Makassar",
+        "country": "ID",
+        "numberOfListeners": 289980,
+        "region": "SN"
+      },
+      {
+        "city": "Medan",
+        "country": "ID",
+        "numberOfListeners": 246027,
+        "region": "SU"
+      },
+      {
+        "city": "Semarang",
+        "country": "ID",
+        "numberOfListeners": 225398,
+        "region": "JT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4VVEpEhC8NcR7AqNEds42U",
+  "name": "Chimbala",
+  "followers": 634831,
+  "monthlyListeners": 10054444,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 392582,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 317980,
+        "region": "JAL"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 263906,
+        "region": "RM"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 244064,
+        "region": "MD"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 192377,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

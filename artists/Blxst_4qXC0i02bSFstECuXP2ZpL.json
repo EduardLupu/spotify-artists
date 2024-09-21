@@ -1,0 +1,41 @@
+{
+  "id": "4qXC0i02bSFstECuXP2ZpL",
+  "name": "Blxst",
+  "followers": 517459,
+  "monthlyListeners": 7153116,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 161938,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 119379,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 102637,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 90020,
+        "region": "VIC"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 84015,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0M5XgwZq3BoGzkTvG9Lwb2",
+  "name": "Max",
+  "followers": 1210,
+  "monthlyListeners": 9578,
+  "topCities": {
+    "items": [
+      {
+        "city": "Panama City",
+        "country": "PA",
+        "numberOfListeners": 1193,
+        "region": "8"
+      },
+      {
+        "city": "Lisbon",
+        "country": "PT",
+        "numberOfListeners": 1080,
+        "region": "11"
+      },
+      {
+        "city": "Porto",
+        "country": "PT",
+        "numberOfListeners": 422,
+        "region": "13"
+      },
+      {
+        "city": "Salvador",
+        "country": "BR",
+        "numberOfListeners": 299,
+        "region": "BA"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 263,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

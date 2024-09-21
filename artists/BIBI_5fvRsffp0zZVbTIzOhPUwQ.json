@@ -1,0 +1,41 @@
+{
+  "id": "5fvRsffp0zZVbTIzOhPUwQ",
+  "name": "BIBI",
+  "followers": 35757,
+  "monthlyListeners": 32729,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 5522,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 3646,
+        "region": "ZH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 2110,
+        "region": "UT"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 1014,
+        "region": "BRU"
+      },
+      {
+        "city": "Amersfoort",
+        "country": "NL",
+        "numberOfListeners": 821,
+        "region": "UT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

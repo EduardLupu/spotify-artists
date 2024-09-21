@@ -1,0 +1,41 @@
+{
+  "id": "3ghRXw2nUEH2THaL82hw8R",
+  "name": "La K'onga",
+  "followers": 2711568,
+  "monthlyListeners": 4513283,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1064071,
+        "region": "C"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 462358,
+        "region": "B"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 406586,
+        "region": "RM"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 244673,
+        "region": "X"
+      },
+      {
+        "city": "Montevideo",
+        "country": "UY",
+        "numberOfListeners": 145417,
+        "region": "MO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

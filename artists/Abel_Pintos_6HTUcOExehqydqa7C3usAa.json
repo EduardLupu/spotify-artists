@@ -1,0 +1,41 @@
+{
+  "id": "6HTUcOExehqydqa7C3usAa",
+  "name": "Abel Pintos",
+  "followers": 3455826,
+  "monthlyListeners": 5430582,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1101070,
+        "region": "C"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 480245,
+        "region": "B"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 281518,
+        "region": "RM"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 241622,
+        "region": "X"
+      },
+      {
+        "city": "Montevideo",
+        "country": "UY",
+        "numberOfListeners": 184535,
+        "region": "MO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

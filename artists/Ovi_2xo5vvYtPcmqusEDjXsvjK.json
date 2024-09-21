@@ -1,0 +1,41 @@
+{
+  "id": "2xo5vvYtPcmqusEDjXsvjK",
+  "name": "Ovi",
+  "followers": 1,
+  "monthlyListeners": 107,
+  "topCities": {
+    "items": [
+      {
+        "city": "Guwahati",
+        "country": "IN",
+        "numberOfListeners": 40,
+        "region": "AS"
+      },
+      {
+        "city": "Dhaka",
+        "country": "BD",
+        "numberOfListeners": 20,
+        "region": "C"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 5,
+        "region": "WB"
+      },
+      {
+        "city": "Soalkuchi",
+        "country": "IN",
+        "numberOfListeners": 4,
+        "region": "AS"
+      },
+      {
+        "city": "Assam",
+        "country": "IN",
+        "numberOfListeners": 4,
+        "region": "AS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

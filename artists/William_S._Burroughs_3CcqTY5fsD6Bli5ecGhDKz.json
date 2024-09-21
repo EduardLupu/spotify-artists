@@ -1,0 +1,41 @@
+{
+  "id": "3CcqTY5fsD6Bli5ecGhDKz",
+  "name": "William S. Burroughs",
+  "followers": 19405,
+  "monthlyListeners": 7933,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 126,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 109,
+        "region": "VIC"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 86,
+        "region": "NY"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 76,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 72,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

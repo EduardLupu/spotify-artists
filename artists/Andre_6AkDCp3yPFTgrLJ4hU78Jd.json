@@ -1,0 +1,41 @@
+{
+  "id": "6AkDCp3yPFTgrLJ4hU78Jd",
+  "name": "Andre",
+  "followers": 789,
+  "monthlyListeners": 2113,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 547,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 186,
+        "region": "27"
+      },
+      {
+        "city": "Nagoya",
+        "country": "JP",
+        "numberOfListeners": 78,
+        "region": "23"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 54,
+        "region": "13"
+      },
+      {
+        "city": "Fukuoka",
+        "country": "JP",
+        "numberOfListeners": 50,
+        "region": "40"
+      }
+    ]
+  },
+  "worldRank": 0
+}

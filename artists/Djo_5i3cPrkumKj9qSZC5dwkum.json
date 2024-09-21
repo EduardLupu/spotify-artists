@@ -1,0 +1,41 @@
+{
+  "id": "5i3cPrkumKj9qSZC5dwkum",
+  "name": "Djo",
+  "followers": 856,
+  "monthlyListeners": 169,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lisbon",
+        "country": "PT",
+        "numberOfListeners": 21,
+        "region": "11"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 9,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 8,
+        "region": "ZH"
+      },
+      {
+        "city": "Porto",
+        "country": "PT",
+        "numberOfListeners": 7,
+        "region": "13"
+      },
+      {
+        "city": "Luanda",
+        "country": "AO",
+        "numberOfListeners": 6,
+        "region": "LUA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

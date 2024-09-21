@@ -1,0 +1,41 @@
+{
+  "id": "5hREZP0zTQbTLkZ2M8RS4v",
+  "name": "Djadja & Dinaz",
+  "followers": 2828076,
+  "monthlyListeners": 2763427,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 491140,
+        "region": "IDF"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 124385,
+        "region": "ARA"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 122797,
+        "region": "BRU"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 101550,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 88271,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

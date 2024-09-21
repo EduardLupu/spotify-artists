@@ -1,0 +1,41 @@
+{
+  "id": "1VPmR4DJC1PlOtd0IADAO0",
+  "name": "$uicideboy$",
+  "followers": 7686635,
+  "monthlyListeners": 12083427,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 236897,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 234676,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 231224,
+        "region": "TX"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 215950,
+        "region": "AZ"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 194547,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0a1gHP0HAqALbEyxaD5Ngn",
+  "name": "Rascal Flatts",
+  "followers": 3584660,
+  "monthlyListeners": 9072269,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 155687,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 120209,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 117882,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 117038,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 116803,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

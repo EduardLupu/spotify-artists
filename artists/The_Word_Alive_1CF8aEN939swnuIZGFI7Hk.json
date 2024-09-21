@@ -1,0 +1,41 @@
+{
+  "id": "1CF8aEN939swnuIZGFI7Hk",
+  "name": "The Word Alive",
+  "followers": 342657,
+  "monthlyListeners": 2057987,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 27175,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 18878,
+        "region": "NSW"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 18508,
+        "region": "JK"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 17026,
+        "region": "VIC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 15259,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

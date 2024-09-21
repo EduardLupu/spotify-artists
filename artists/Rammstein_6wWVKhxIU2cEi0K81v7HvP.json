@@ -1,0 +1,41 @@
+{
+  "id": "6wWVKhxIU2cEi0K81v7HvP",
+  "name": "Rammstein",
+  "followers": 10267694,
+  "monthlyListeners": 12496708,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 280641,
+        "region": "CMX"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 241159,
+        "region": "BE"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 194674,
+        "region": "RM"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 188984,
+        "region": "HE"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 168721,
+        "region": "34"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "05oH07COxkXKIMt6mIPRee",
+  "name": "Brandy",
+  "followers": 3706938,
+  "monthlyListeners": 7835710,
+  "topCities": {
+    "items": [
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 155956,
+        "region": "GP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 122632,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 110578,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 102085,
+        "region": "CA"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 94982,
+        "region": "JK"
+      }
+    ]
+  },
+  "worldRank": 0
+}

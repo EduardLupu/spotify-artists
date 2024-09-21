@@ -1,0 +1,41 @@
+{
+  "id": "4bthk9UfsYUYdcFyqxmSUU",
+  "name": "Tears For Fears",
+  "followers": 3579622,
+  "monthlyListeners": 20243226,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 389303,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 387219,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 311613,
+        "region": "CMX"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 275576,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 224609,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 349
+}

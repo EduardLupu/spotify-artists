@@ -1,0 +1,41 @@
+{
+  "id": "5f7qMHuc0PN9XOIMbejFlj",
+  "name": "Nox Holloway",
+  "followers": 3092,
+  "monthlyListeners": 17537,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 319,
+        "region": "IL"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 303,
+        "region": "CO"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 243,
+        "region": "NY"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 238,
+        "region": "WA"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 200,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

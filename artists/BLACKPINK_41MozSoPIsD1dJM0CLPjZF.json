@@ -1,0 +1,41 @@
+{
+  "id": "41MozSoPIsD1dJM0CLPjZF",
+  "name": "BLACKPINK",
+  "followers": 50937645,
+  "monthlyListeners": 16375136,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 863754,
+        "region": "JK"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 284351,
+        "region": "14"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 250303,
+        "region": "13"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 242560,
+        "region": "10"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 212328,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 498
+}

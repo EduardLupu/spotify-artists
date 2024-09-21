@@ -1,0 +1,41 @@
+{
+  "id": "27LlKWxS3KXW7RRAxN5S8s",
+  "name": "Geolier",
+  "followers": 2546473,
+  "monthlyListeners": 5855336,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 1467571,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 808829,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 459686,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 230530,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 181575,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

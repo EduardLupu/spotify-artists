@@ -1,0 +1,41 @@
+{
+  "id": "5WFFFHVqeVk5tLuYh2KjQy",
+  "name": "Luccas Carlos",
+  "followers": 921725,
+  "monthlyListeners": 3273986,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 588345,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 345167,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 149159,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 110855,
+        "region": "PR"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 106924,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

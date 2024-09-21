@@ -1,0 +1,41 @@
+{
+  "id": "1B7cXxCiF8Je72dc2XTt6M",
+  "name": "ALMA",
+  "followers": 5197,
+  "monthlyListeners": 400763,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sofia",
+        "country": "BG",
+        "numberOfListeners": 7782,
+        "region": "22"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 7088,
+        "region": "14"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 6241,
+        "region": "JK"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 5143,
+        "region": "34"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 4333,
+        "region": "TPE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

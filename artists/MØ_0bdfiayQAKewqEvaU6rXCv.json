@@ -1,0 +1,41 @@
+{
+  "id": "0bdfiayQAKewqEvaU6rXCv",
+  "name": "MØ",
+  "followers": 1456012,
+  "monthlyListeners": 3156580,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 127717,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 63295,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 50110,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 49529,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 43464,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

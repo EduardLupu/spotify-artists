@@ -1,0 +1,41 @@
+{
+  "id": "7abH1UXKWdw4j6KtHveCi1",
+  "name": "Kevin",
+  "followers": 55,
+  "monthlyListeners": 3106,
+  "topCities": {
+    "items": [
+      {
+        "city": "Budapest",
+        "country": "HU",
+        "numberOfListeners": 1946,
+        "region": "BU"
+      },
+      {
+        "city": "Bratislava",
+        "country": "SK",
+        "numberOfListeners": 70,
+        "region": "BL"
+      },
+      {
+        "city": "Miskolc",
+        "country": "HU",
+        "numberOfListeners": 70,
+        "region": "BZ"
+      },
+      {
+        "city": "Nyíregyháza",
+        "country": "HU",
+        "numberOfListeners": 50,
+        "region": "SZ"
+      },
+      {
+        "city": "Székesfehérvár",
+        "country": "HU",
+        "numberOfListeners": 43,
+        "region": "FE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

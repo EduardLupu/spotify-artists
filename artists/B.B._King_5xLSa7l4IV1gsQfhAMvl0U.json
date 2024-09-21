@@ -1,0 +1,41 @@
+{
+  "id": "5xLSa7l4IV1gsQfhAMvl0U",
+  "name": "B.B. King",
+  "followers": 2753974,
+  "monthlyListeners": 2759682,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 55827,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 37796,
+        "region": "RM"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 31599,
+        "region": "NH"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 28451,
+        "region": "NSW"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 27132,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1v3tdpIdBSW14rHUfiEVOv",
+  "name": "Lauren Alaina",
+  "followers": 667940,
+  "monthlyListeners": 3554973,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 70291,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 67143,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 61903,
+        "region": "QLD"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 52879,
+        "region": "NC"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 48588,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

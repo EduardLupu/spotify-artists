@@ -1,0 +1,41 @@
+{
+  "id": "4uoz4FUMvpeyGClFTTDBsD",
+  "name": "Ricardo Montaner",
+  "followers": 6415194,
+  "monthlyListeners": 6443963,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 339489,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 324895,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 210129,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 187447,
+        "region": "LMA"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 170172,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

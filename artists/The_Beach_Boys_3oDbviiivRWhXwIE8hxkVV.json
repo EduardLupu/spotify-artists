@@ -1,0 +1,41 @@
+{
+  "id": "3oDbviiivRWhXwIE8hxkVV",
+  "name": "The Beach Boys",
+  "followers": 4635747,
+  "monthlyListeners": 12073339,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 186053,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 178256,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 150991,
+        "region": "VIC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 136718,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 126252,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

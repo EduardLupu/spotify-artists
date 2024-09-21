@@ -1,0 +1,41 @@
+{
+  "id": "2h5Ha0ZiMFmOQD3iYcSXsy",
+  "name": "KayBlack",
+  "followers": 3420698,
+  "monthlyListeners": 11826741,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 2237984,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 889557,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 634863,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 549457,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 485148,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

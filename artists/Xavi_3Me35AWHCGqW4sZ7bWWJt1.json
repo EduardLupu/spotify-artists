@@ -1,0 +1,41 @@
+{
+  "id": "3Me35AWHCGqW4sZ7bWWJt1",
+  "name": "Xavi",
+  "followers": 6443429,
+  "monthlyListeners": 15710837,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1147317,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 648826,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 506651,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 479030,
+        "region": "PUE"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 477353,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3Nrfpe0tUJi4K4DXYWgMUX",
+  "name": "BTS",
+  "followers": 75838267,
+  "monthlyListeners": 27244879,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 966461,
+        "region": "JK"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 470257,
+        "region": "13"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 400783,
+        "region": "10"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 346018,
+        "region": "SP"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 341188,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 185
+}

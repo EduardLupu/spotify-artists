@@ -1,0 +1,41 @@
+{
+  "id": "0i5iO6icb7kxg48thi9gBM",
+  "name": "Manuel Medrano",
+  "followers": 2976455,
+  "monthlyListeners": 7639022,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 692480,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 528618,
+        "region": "CMX"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 282074,
+        "region": "ANT"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 266206,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 263854,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

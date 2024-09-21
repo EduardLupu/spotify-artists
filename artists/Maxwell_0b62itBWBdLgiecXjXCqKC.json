@@ -1,0 +1,41 @@
+{
+  "id": "0b62itBWBdLgiecXjXCqKC",
+  "name": "Maxwell",
+  "followers": 221911,
+  "monthlyListeners": 1560482,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 143598,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 120334,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 110770,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 94469,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 86117,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

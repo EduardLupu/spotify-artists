@@ -1,0 +1,41 @@
+{
+  "id": "2MRBDr0crHWE5JwPceFncq",
+  "name": "Juan Gabriel",
+  "followers": 8974504,
+  "monthlyListeners": 11063040,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 997383,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 447062,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 414101,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 385420,
+        "region": "PUE"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 374953,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

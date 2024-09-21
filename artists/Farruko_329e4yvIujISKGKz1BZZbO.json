@@ -1,0 +1,41 @@
+{
+  "id": "329e4yvIujISKGKz1BZZbO",
+  "name": "Farruko",
+  "followers": 15960304,
+  "monthlyListeners": 35133678,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1395760,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1183411,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1054096,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 819409,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 664911,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 113
+}

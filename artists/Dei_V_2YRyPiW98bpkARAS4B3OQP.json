@@ -1,0 +1,41 @@
+{
+  "id": "2YRyPiW98bpkARAS4B3OQP",
+  "name": "Dei V",
+  "followers": 1288767,
+  "monthlyListeners": 15690341,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1184986,
+        "region": "RM"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 841575,
+        "region": "MD"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 620527,
+        "region": "DC"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 546584,
+        "region": "CT"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 462967,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

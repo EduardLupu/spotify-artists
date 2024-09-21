@@ -1,0 +1,41 @@
+{
+  "id": "2XcZshqzPKm3iZcmt73R8D",
+  "name": "Pablo Chill-E",
+  "followers": 1391410,
+  "monthlyListeners": 5840065,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1546594,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 296899,
+        "region": "C"
+      },
+      {
+        "city": "Concepción",
+        "country": "CL",
+        "numberOfListeners": 229367,
+        "region": "BI"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 145654,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 138658,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

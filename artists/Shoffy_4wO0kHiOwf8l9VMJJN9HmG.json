@@ -1,0 +1,41 @@
+{
+  "id": "4wO0kHiOwf8l9VMJJN9HmG",
+  "name": "Shoffy",
+  "followers": 115019,
+  "monthlyListeners": 910399,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 15247,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 13000,
+        "region": "VIC"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 12155,
+        "region": "JK"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 11345,
+        "region": "NY"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 10300,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

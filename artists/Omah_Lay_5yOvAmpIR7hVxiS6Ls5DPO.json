@@ -1,0 +1,41 @@
+{
+  "id": "5yOvAmpIR7hVxiS6Ls5DPO",
+  "name": "Omah Lay",
+  "followers": 3270539,
+  "monthlyListeners": 11412258,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 686647,
+        "region": "LA"
+      },
+      {
+        "city": "Abuja",
+        "country": "NG",
+        "numberOfListeners": 331761,
+        "region": "FC"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 283417,
+        "region": "IDF"
+      },
+      {
+        "city": "Port Harcourt",
+        "country": "NG",
+        "numberOfListeners": 260564,
+        "region": "RI"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 258590,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

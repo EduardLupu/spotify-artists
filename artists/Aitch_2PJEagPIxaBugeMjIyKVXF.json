@@ -1,0 +1,41 @@
+{
+  "id": "2PJEagPIxaBugeMjIyKVXF",
+  "name": "Aitch",
+  "followers": 1144638,
+  "monthlyListeners": 6550575,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 363184,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 162537,
+        "region": "NSW"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 153313,
+        "region": "BE"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 142215,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 135648,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

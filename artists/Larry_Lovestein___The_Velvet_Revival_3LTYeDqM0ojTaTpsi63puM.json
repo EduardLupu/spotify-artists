@@ -1,0 +1,41 @@
+{
+  "id": "3LTYeDqM0ojTaTpsi63puM",
+  "name": "Larry Lovestein & The Velvet Revival",
+  "followers": 124251,
+  "monthlyListeners": 237897,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 4591,
+        "region": "CMX"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 4373,
+        "region": "CA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 3188,
+        "region": "RM"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 3109,
+        "region": "IL"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 2518,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

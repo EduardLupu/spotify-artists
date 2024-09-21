@@ -1,0 +1,41 @@
+{
+  "id": "2VDZoCBGjxbHJbnzSX5nP6",
+  "name": "KXLLSWXTCH",
+  "followers": 293537,
+  "monthlyListeners": 6787450,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 113404,
+        "region": "34"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 57146,
+        "region": "SP"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 53851,
+        "region": "10"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 53153,
+        "region": "14"
+      },
+      {
+        "city": "Ankara",
+        "country": "TR",
+        "numberOfListeners": 53003,
+        "region": "06"
+      }
+    ]
+  },
+  "worldRank": 0
+}

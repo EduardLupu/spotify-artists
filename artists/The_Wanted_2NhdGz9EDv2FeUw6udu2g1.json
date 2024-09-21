@@ -1,0 +1,41 @@
+{
+  "id": "2NhdGz9EDv2FeUw6udu2g1",
+  "name": "The Wanted",
+  "followers": 2491677,
+  "monthlyListeners": 6268560,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 128107,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 108012,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 79290,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 69298,
+        "region": "VIC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 54334,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

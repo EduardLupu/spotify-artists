@@ -1,0 +1,41 @@
+{
+  "id": "1QOmebWGB6FdFtW7Bo3F0W",
+  "name": "Gustavo Cerati",
+  "followers": 4647821,
+  "monthlyListeners": 5070835,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 643519,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 506950,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 316486,
+        "region": "B"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 221784,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 180458,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

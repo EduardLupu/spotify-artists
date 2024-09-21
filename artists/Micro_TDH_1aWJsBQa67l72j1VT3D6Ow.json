@@ -1,0 +1,41 @@
+{
+  "id": "1aWJsBQa67l72j1VT3D6Ow",
+  "name": "Micro TDH",
+  "followers": 2307972,
+  "monthlyListeners": 8628504,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 573743,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 450308,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 439048,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 390075,
+        "region": "CMX"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 224958,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

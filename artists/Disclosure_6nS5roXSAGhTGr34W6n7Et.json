@@ -1,0 +1,41 @@
+{
+  "id": "6nS5roXSAGhTGr34W6n7Et",
+  "name": "Disclosure",
+  "followers": 2232945,
+  "monthlyListeners": 22523984,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 563197,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 389406,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 321800,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 311768,
+        "region": "NH"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 281295,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 287
+}

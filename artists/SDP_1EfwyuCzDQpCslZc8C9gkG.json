@@ -1,0 +1,41 @@
+{
+  "id": "1EfwyuCzDQpCslZc8C9gkG",
+  "name": "SDP",
+  "followers": 1066562,
+  "monthlyListeners": 4422317,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 461635,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 399442,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 320567,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 286573,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 225955,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

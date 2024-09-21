@@ -1,0 +1,41 @@
+{
+  "id": "2ICR2m4hOBPhaYiZB3rnLW",
+  "name": "Sonder",
+  "followers": 1324774,
+  "monthlyListeners": 7135598,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 153347,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 125875,
+        "region": "ENG"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 110069,
+        "region": "GP"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 108029,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 103167,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

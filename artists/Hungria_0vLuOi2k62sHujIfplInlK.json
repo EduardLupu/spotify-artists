@@ -1,0 +1,41 @@
+{
+  "id": "0vLuOi2k62sHujIfplInlK",
+  "name": "Hungria",
+  "followers": 9536114,
+  "monthlyListeners": 9521357,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1600401,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 583105,
+        "region": "MG"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 488309,
+        "region": "DF"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 468940,
+        "region": "PR"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 468360,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

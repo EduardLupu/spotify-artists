@@ -1,0 +1,41 @@
+{
+  "id": "52qzWdNUp6ebjcNsvgZSiC",
+  "name": "Evaluna Montaner",
+  "followers": 728535,
+  "monthlyListeners": 4406022,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 250125,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 226603,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 191893,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 159445,
+        "region": "CMX"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 111575,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

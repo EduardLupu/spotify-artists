@@ -1,0 +1,41 @@
+{
+  "id": "7EGwUS3c5dXduO4sMyLWC5",
+  "name": "Houndmouth",
+  "followers": 307600,
+  "monthlyListeners": 1692621,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 38882,
+        "region": "IL"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 38807,
+        "region": "CO"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 34865,
+        "region": "NY"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 27147,
+        "region": "WA"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 26705,
+        "region": "NC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

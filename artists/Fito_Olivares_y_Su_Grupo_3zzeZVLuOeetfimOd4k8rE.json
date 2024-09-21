@@ -1,0 +1,41 @@
+{
+  "id": "3zzeZVLuOeetfimOd4k8rE",
+  "name": "Fito Olivares y Su Grupo",
+  "followers": 79480,
+  "monthlyListeners": 2159817,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 103804,
+        "region": "CMX"
+      },
+      {
+        "city": "Monterrey",
+        "country": "MX",
+        "numberOfListeners": 60377,
+        "region": "NLE"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 59921,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 56964,
+        "region": "QUE"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 55445,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3SozjO3Lat463tQICI9LcE",
+  "name": "Tyla",
+  "followers": 1893448,
+  "monthlyListeners": 23244576,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 703380,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 355081,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 281257,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 271362,
+        "region": "SP"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 260931,
+        "region": "LA"
+      }
+    ]
+  },
+  "worldRank": 261
+}

@@ -1,0 +1,41 @@
+{
+  "id": "56QDqaBTT0oTT7DXFeY31t",
+  "name": "Ice",
+  "followers": 39,
+  "monthlyListeners": 210,
+  "topCities": {
+    "items": [
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 12,
+        "region": "TX"
+      },
+      {
+        "city": "San Antonio",
+        "country": "US",
+        "numberOfListeners": 10,
+        "region": "TX"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 6,
+        "region": "CMX"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 5,
+        "region": "TX"
+      },
+      {
+        "city": "San Salvador",
+        "country": "SV",
+        "numberOfListeners": 4,
+        "region": "SS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

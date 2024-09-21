@@ -1,0 +1,41 @@
+{
+  "id": "3whuHq0yGx60atvA2RCVRW",
+  "name": "Olly Murs",
+  "followers": 3204033,
+  "monthlyListeners": 6315701,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 177707,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 93236,
+        "region": "NSW"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 82526,
+        "region": "JK"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 80991,
+        "region": "VIC"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 66151,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

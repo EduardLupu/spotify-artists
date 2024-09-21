@@ -1,0 +1,41 @@
+{
+  "id": "66Xc7Y6aW9W5RS2r8HY6P2",
+  "name": "Neaera",
+  "followers": 33125,
+  "monthlyListeners": 19048,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 937,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 855,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 653,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 544,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 469,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

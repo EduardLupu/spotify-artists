@@ -1,0 +1,41 @@
+{
+  "id": "7lA1fMcxbPmOpiarytSPUj",
+  "name": "JOE",
+  "followers": 288,
+  "monthlyListeners": 206,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 64,
+        "region": "BE"
+      },
+      {
+        "city": "Eberswalde",
+        "country": "DE",
+        "numberOfListeners": 16,
+        "region": "BB"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 10,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 7,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 7,
+        "region": "BY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

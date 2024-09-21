@@ -1,0 +1,41 @@
+{
+  "id": "6czdbISBoxGckbBX8F4m8L",
+  "name": "Jacob Sartorius",
+  "followers": 588173,
+  "monthlyListeners": 114810,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 1584,
+        "region": "13"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1547,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 1529,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 1458,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1293,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

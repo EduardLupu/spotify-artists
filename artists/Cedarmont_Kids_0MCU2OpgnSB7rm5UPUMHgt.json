@@ -1,0 +1,41 @@
+{
+  "id": "0MCU2OpgnSB7rm5UPUMHgt",
+  "name": "Cedarmont Kids",
+  "followers": 36706,
+  "monthlyListeners": 646784,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 11608,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 9742,
+        "region": "VIC"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 8707,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 8548,
+        "region": "NC"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 8544,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1buzCmyYZE4kcdLRudsb8V",
+  "name": "Mikky Ekko",
+  "followers": 138286,
+  "monthlyListeners": 1029955,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 12687,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 12176,
+        "region": "NSW"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 11077,
+        "region": "ON"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 10734,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 10482,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

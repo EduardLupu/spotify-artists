@@ -1,0 +1,41 @@
+{
+  "id": "1ackd5XprZEkH3McKbQD51",
+  "name": "Juan Magán",
+  "followers": 1673934,
+  "monthlyListeners": 8488856,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 421148,
+        "region": "MD"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 326441,
+        "region": "RM"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 264158,
+        "region": "CT"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 221951,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 211615,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

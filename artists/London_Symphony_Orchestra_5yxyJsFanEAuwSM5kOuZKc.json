@@ -1,0 +1,41 @@
+{
+  "id": "5yxyJsFanEAuwSM5kOuZKc",
+  "name": "London Symphony Orchestra",
+  "followers": 310232,
+  "monthlyListeners": 7935405,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 104853,
+        "region": "ENG"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 81454,
+        "region": "RM"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 79672,
+        "region": "IDF"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 78370,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 77542,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

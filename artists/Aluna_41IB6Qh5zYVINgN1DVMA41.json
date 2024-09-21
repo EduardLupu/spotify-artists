@@ -1,0 +1,29 @@
+{
+  "id": "41IB6Qh5zYVINgN1DVMA41",
+  "name": "Aluna",
+  "followers": 51,
+  "monthlyListeners": 4,
+  "topCities": {
+    "items": [
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 2,
+        "region": "ANT"
+      },
+      {
+        "city": "Oklahoma City",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "OK"
+      },
+      {
+        "city": "Edmond",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "OK"
+      }
+    ]
+  },
+  "worldRank": 0
+}

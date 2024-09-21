@@ -1,0 +1,41 @@
+{
+  "id": "0Yg29FX1M4ayqjXs0ttZFq",
+  "name": "Young Cister",
+  "followers": 574582,
+  "monthlyListeners": 4145414,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1425781,
+        "region": "RM"
+      },
+      {
+        "city": "Concepción",
+        "country": "CL",
+        "numberOfListeners": 212164,
+        "region": "BI"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 118031,
+        "region": "CMX"
+      },
+      {
+        "city": "Temuco",
+        "country": "CL",
+        "numberOfListeners": 117409,
+        "region": "AR"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 113898,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

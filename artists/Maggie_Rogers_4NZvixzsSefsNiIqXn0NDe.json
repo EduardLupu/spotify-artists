@@ -1,0 +1,41 @@
+{
+  "id": "4NZvixzsSefsNiIqXn0NDe",
+  "name": "Maggie Rogers",
+  "followers": 1140631,
+  "monthlyListeners": 8982758,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 208970,
+        "region": "NSW"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 183289,
+        "region": "NY"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 174375,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 167100,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 153913,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

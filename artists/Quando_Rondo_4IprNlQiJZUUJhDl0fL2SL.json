@@ -1,0 +1,41 @@
+{
+  "id": "4IprNlQiJZUUJhDl0fL2SL",
+  "name": "Quando Rondo",
+  "followers": 2678977,
+  "monthlyListeners": 1320958,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 26483,
+        "region": "NSW"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 25708,
+        "region": "TX"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 23475,
+        "region": "GA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 22825,
+        "region": "VIC"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 22758,
+        "region": "NC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

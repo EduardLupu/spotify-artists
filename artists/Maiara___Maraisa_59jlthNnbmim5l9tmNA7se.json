@@ -1,0 +1,41 @@
+{
+  "id": "59jlthNnbmim5l9tmNA7se",
+  "name": "Maiara & Maraisa",
+  "followers": 13666329,
+  "monthlyListeners": 10161801,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1672421,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 625138,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 516346,
+        "region": "PR"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 505540,
+        "region": "RJ"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 500769,
+        "region": "DF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

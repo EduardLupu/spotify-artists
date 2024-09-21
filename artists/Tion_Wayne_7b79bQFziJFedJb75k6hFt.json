@@ -1,0 +1,41 @@
+{
+  "id": "7b79bQFziJFedJb75k6hFt",
+  "name": "Tion Wayne",
+  "followers": 1121124,
+  "monthlyListeners": 5772781,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 332949,
+        "region": "ENG"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 193512,
+        "region": "LA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 146718,
+        "region": "NSW"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 111223,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 109077,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

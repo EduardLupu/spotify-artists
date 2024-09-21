@@ -1,0 +1,41 @@
+{
+  "id": "62elAqzzJwHJcsNbXeNwXy",
+  "name": "M",
+  "followers": 80,
+  "monthlyListeners": 1051,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 93,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 36,
+        "region": "62"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 34,
+        "region": "BE"
+      },
+      {
+        "city": "Vilnius",
+        "country": "LT",
+        "numberOfListeners": 22,
+        "region": "VL"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 21,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

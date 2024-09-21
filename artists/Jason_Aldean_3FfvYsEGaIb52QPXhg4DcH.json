@@ -1,0 +1,41 @@
+{
+  "id": "3FfvYsEGaIb52QPXhg4DcH",
+  "name": "Jason Aldean",
+  "followers": 6550447,
+  "monthlyListeners": 8458039,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 194952,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 183823,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 179605,
+        "region": "NC"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 136811,
+        "region": "GA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 136012,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

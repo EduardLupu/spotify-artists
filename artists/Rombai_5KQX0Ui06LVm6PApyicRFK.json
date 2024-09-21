@@ -1,0 +1,41 @@
+{
+  "id": "5KQX0Ui06LVm6PApyicRFK",
+  "name": "Rombai",
+  "followers": 1331860,
+  "monthlyListeners": 1774230,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 246667,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 221927,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 106158,
+        "region": "B"
+      },
+      {
+        "city": "Montevideo",
+        "country": "UY",
+        "numberOfListeners": 72683,
+        "region": "MO"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 68982,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "08PqJbuxE9RDvQqSn4nJbQ",
+  "name": "Samra",
+  "followers": 5591,
+  "monthlyListeners": 7048,
+  "topCities": {
+    "items": [
+      {
+        "city": "Baku",
+        "country": "AZ",
+        "numberOfListeners": 801,
+        "region": "BA"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 157,
+        "region": "18"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 129,
+        "region": "34"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 107,
+        "region": "14"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 106,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

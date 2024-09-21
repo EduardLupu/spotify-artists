@@ -1,0 +1,41 @@
+{
+  "id": "3rdJD72bitczKtW5yNgAA4",
+  "name": "Seph Schlueter",
+  "followers": 98930,
+  "monthlyListeners": 1125491,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 62928,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 23321,
+        "region": "RJ"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 19867,
+        "region": "PR"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 18502,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 17030,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

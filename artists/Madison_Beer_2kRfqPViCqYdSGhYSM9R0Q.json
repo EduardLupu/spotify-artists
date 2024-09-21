@@ -1,0 +1,41 @@
+{
+  "id": "2kRfqPViCqYdSGhYSM9R0Q",
+  "name": "Madison Beer",
+  "followers": 6966132,
+  "monthlyListeners": 15511138,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 858140,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 198211,
+        "region": "JB"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 175524,
+        "region": "14"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 166826,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 162606,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

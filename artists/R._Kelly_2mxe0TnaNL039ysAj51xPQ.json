@@ -1,0 +1,41 @@
+{
+  "id": "2mxe0TnaNL039ysAj51xPQ",
+  "name": "R. Kelly",
+  "followers": 2417437,
+  "monthlyListeners": 4748970,
+  "topCities": {
+    "items": [
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 101727,
+        "region": "GP"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 97856,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 90359,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 85698,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 65346,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

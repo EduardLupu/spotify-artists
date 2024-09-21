@@ -1,0 +1,41 @@
+{
+  "id": "3jGlU8UMMo44I2xeLQ6FD3",
+  "name": "Dalmata",
+  "followers": 1896754,
+  "monthlyListeners": 3487347,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 629783,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 324246,
+        "region": "RM"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 318918,
+        "region": "ANT"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 139892,
+        "region": "LMA"
+      },
+      {
+        "city": "Santiago de Cali",
+        "country": "CO",
+        "numberOfListeners": 112100,
+        "region": "VAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

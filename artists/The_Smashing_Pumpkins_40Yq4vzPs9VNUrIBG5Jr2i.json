@@ -1,0 +1,41 @@
+{
+  "id": "40Yq4vzPs9VNUrIBG5Jr2i",
+  "name": "The Smashing Pumpkins",
+  "followers": 5274329,
+  "monthlyListeners": 11689512,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 192806,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 179796,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 174690,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 167554,
+        "region": "VIC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 156914,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3E31HqA00iCX9nRhesw6LD",
+  "name": "Snelle",
+  "followers": 607726,
+  "monthlyListeners": 1519578,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 418908,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 326177,
+        "region": "ZH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 176640,
+        "region": "UT"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 89850,
+        "region": "BRU"
+      },
+      {
+        "city": "Amersfoort",
+        "country": "NL",
+        "numberOfListeners": 63014,
+        "region": "UT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

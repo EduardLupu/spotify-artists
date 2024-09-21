@@ -1,0 +1,41 @@
+{
+  "id": "04yr1h3maDSKvM08pgOezF",
+  "name": "Simone Sommerland",
+  "followers": 326475,
+  "monthlyListeners": 2035543,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 185963,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 143086,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 122947,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 117111,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 91666,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7KMqksf0UMdyA0UCf4R3ux",
+  "name": "James Blunt",
+  "followers": 3018830,
+  "monthlyListeners": 10595670,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 193916,
+        "region": "ENG"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 134259,
+        "region": "JK"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 131084,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 129338,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 120857,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

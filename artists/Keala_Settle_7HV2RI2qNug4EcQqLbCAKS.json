@@ -1,0 +1,41 @@
+{
+  "id": "7HV2RI2qNug4EcQqLbCAKS",
+  "name": "Keala Settle",
+  "followers": 172494,
+  "monthlyListeners": 5736568,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 131724,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 93721,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 86376,
+        "region": "VIC"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 71349,
+        "region": "JK"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 58389,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

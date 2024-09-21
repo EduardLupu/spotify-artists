@@ -1,0 +1,41 @@
+{
+  "id": "5wqsd8IMn1yRS35GnFi94y",
+  "name": "Marina",
+  "followers": 548,
+  "monthlyListeners": 3260,
+  "topCities": {
+    "items": [
+      {
+        "city": "Abidjan",
+        "country": "CI",
+        "numberOfListeners": 397,
+        "region": "AB"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 308,
+        "region": "IDF"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 181,
+        "region": "QC"
+      },
+      {
+        "city": "Kinshasa",
+        "country": "CD",
+        "numberOfListeners": 147,
+        "region": "KN"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 120,
+        "region": "BRU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

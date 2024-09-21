@@ -1,0 +1,41 @@
+{
+  "id": "3ZpEKRjHaHANcpk10u6Ntq",
+  "name": "Ayra Starr",
+  "followers": 3595236,
+  "monthlyListeners": 25353876,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 705829,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 665320,
+        "region": "LMA"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 628155,
+        "region": "LA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 583018,
+        "region": "DC"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 446080,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 218
+}

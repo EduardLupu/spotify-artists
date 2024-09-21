@@ -1,0 +1,41 @@
+{
+  "id": "70BYFdaZbEKbeauJ670ysI",
+  "name": "Shinedown",
+  "followers": 4166302,
+  "monthlyListeners": 6432237,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 121890,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 96095,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 89840,
+        "region": "NC"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 85541,
+        "region": "PA"
+      },
+      {
+        "city": "Minneapolis",
+        "country": "US",
+        "numberOfListeners": 85297,
+        "region": "MN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

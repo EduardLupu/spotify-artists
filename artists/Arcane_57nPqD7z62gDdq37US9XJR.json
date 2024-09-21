@@ -1,0 +1,41 @@
+{
+  "id": "57nPqD7z62gDdq37US9XJR",
+  "name": "Arcane",
+  "followers": 203294,
+  "monthlyListeners": 12868100,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 221723,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 125893,
+        "region": "RM"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 125074,
+        "region": "IDF"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 118629,
+        "region": "CMX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 100837,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

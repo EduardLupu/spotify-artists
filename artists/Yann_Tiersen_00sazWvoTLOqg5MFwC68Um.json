@@ -1,0 +1,41 @@
+{
+  "id": "00sazWvoTLOqg5MFwC68Um",
+  "name": "Yann Tiersen",
+  "followers": 1046987,
+  "monthlyListeners": 4775242,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 123738,
+        "region": "34"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 110332,
+        "region": "IDF"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 62469,
+        "region": "NH"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 57436,
+        "region": "BRU"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 55965,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

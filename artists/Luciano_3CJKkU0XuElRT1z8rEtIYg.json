@@ -1,0 +1,41 @@
+{
+  "id": "3CJKkU0XuElRT1z8rEtIYg",
+  "name": "Luciano",
+  "followers": 2303933,
+  "monthlyListeners": 7003728,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 555644,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 468102,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 435673,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 376550,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 333986,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

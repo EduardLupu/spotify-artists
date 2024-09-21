@@ -1,0 +1,41 @@
+{
+  "id": "5eyMzR1hYiEZtN2c9ly2kw",
+  "name": "Matisyahu",
+  "followers": 714765,
+  "monthlyListeners": 1241697,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 18560,
+        "region": "RM"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 17968,
+        "region": "CA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 17860,
+        "region": "DC"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 16218,
+        "region": "NY"
+      },
+      {
+        "city": "Tel Aviv",
+        "country": "IL",
+        "numberOfListeners": 13805,
+        "region": "TA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "00TKPo9MxwZ0j4ooveIxWZ",
+  "name": "Loote",
+  "followers": 220248,
+  "monthlyListeners": 1117158,
+  "topCities": {
+    "items": [
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 17559,
+        "region": ""
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 15908,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 14232,
+        "region": "NSW"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 13804,
+        "region": "NY"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 13337,
+        "region": "TPE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

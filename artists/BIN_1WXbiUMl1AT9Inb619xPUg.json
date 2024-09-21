@@ -1,0 +1,41 @@
+{
+  "id": "1WXbiUMl1AT9Inb619xPUg",
+  "name": "BIN",
+  "followers": 2098649,
+  "monthlyListeners": 4109758,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 630353,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 464896,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 200062,
+        "region": "MG"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 135310,
+        "region": "RS"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 132335,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

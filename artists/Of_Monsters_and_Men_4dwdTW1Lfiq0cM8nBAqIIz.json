@@ -1,0 +1,41 @@
+{
+  "id": "4dwdTW1Lfiq0cM8nBAqIIz",
+  "name": "Of Monsters and Men",
+  "followers": 3518293,
+  "monthlyListeners": 8688676,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 151035,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 150283,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 133132,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 107562,
+        "region": "QLD"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 92618,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

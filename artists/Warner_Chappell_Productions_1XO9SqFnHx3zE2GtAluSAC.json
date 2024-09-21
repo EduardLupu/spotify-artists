@@ -1,0 +1,41 @@
+{
+  "id": "1XO9SqFnHx3zE2GtAluSAC",
+  "name": "Warner/Chappell Productions",
+  "followers": 1177,
+  "monthlyListeners": 16548,
+  "topCities": {
+    "items": [
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 591,
+        "region": "10"
+      },
+      {
+        "city": "Athens",
+        "country": "GR",
+        "numberOfListeners": 325,
+        "region": "I"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 214,
+        "region": "34"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 211,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 198,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

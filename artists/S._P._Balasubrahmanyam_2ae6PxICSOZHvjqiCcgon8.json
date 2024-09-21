@@ -1,0 +1,41 @@
+{
+  "id": "2ae6PxICSOZHvjqiCcgon8",
+  "name": "S. P. Balasubrahmanyam",
+  "followers": 14687577,
+  "monthlyListeners": 13274278,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 2686955,
+        "region": "TN"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 2138611,
+        "region": "TS"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 1403665,
+        "region": "KA"
+      },
+      {
+        "city": "Coimbatore",
+        "country": "IN",
+        "numberOfListeners": 1131671,
+        "region": "TN"
+      },
+      {
+        "city": "Salem",
+        "country": "IN",
+        "numberOfListeners": 733877,
+        "region": "TN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

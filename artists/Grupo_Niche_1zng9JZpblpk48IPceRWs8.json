@@ -1,0 +1,41 @@
+{
+  "id": "1zng9JZpblpk48IPceRWs8",
+  "name": "Grupo Niche",
+  "followers": 3754487,
+  "monthlyListeners": 6676160,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 926356,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 433193,
+        "region": "CMX"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 418067,
+        "region": "ANT"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 409337,
+        "region": "LMA"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 196514,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

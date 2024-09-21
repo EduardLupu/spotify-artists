@@ -1,0 +1,41 @@
+{
+  "id": "0kKygNaCQjqVLrImIftRDJ",
+  "name": "Einár",
+  "followers": 376330,
+  "monthlyListeners": 1139256,
+  "topCities": {
+    "items": [
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 353244,
+        "region": "AB"
+      },
+      {
+        "city": "Gothenburg",
+        "country": "SE",
+        "numberOfListeners": 169135,
+        "region": "O"
+      },
+      {
+        "city": "Malmo",
+        "country": "SE",
+        "numberOfListeners": 111373,
+        "region": "M"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 76234,
+        "region": "03"
+      },
+      {
+        "city": "Uppsala",
+        "country": "SE",
+        "numberOfListeners": 27864,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

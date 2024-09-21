@@ -1,0 +1,41 @@
+{
+  "id": "1GhPHrq36VKCY3ucVaZCfo",
+  "name": "The Chemical Brothers",
+  "followers": 2101377,
+  "monthlyListeners": 3074950,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 97420,
+        "region": "ENG"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 68137,
+        "region": "CMX"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 54818,
+        "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 52892,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 48902,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

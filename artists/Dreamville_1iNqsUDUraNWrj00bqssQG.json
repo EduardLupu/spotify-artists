@@ -1,0 +1,41 @@
+{
+  "id": "1iNqsUDUraNWrj00bqssQG",
+  "name": "Dreamville",
+  "followers": 697266,
+  "monthlyListeners": 4829047,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 92075,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 87425,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 70575,
+        "region": "NY"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 65291,
+        "region": "TX"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 63720,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

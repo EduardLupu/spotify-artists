@@ -1,0 +1,41 @@
+{
+  "id": "2s7fZ34RK8RUJQ2ewsh6I5",
+  "name": "RK",
+  "followers": 1748842,
+  "monthlyListeners": 1591616,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 276192,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 65690,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 62906,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 54558,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 43372,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

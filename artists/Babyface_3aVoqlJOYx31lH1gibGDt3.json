@@ -1,0 +1,41 @@
+{
+  "id": "3aVoqlJOYx31lH1gibGDt3",
+  "name": "Babyface",
+  "followers": 1064737,
+  "monthlyListeners": 1545125,
+  "topCities": {
+    "items": [
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 101727,
+        "region": "GP"
+      },
+      {
+        "city": "Pretoria",
+        "country": "ZA",
+        "numberOfListeners": 52832,
+        "region": "GP"
+      },
+      {
+        "city": "Durban",
+        "country": "ZA",
+        "numberOfListeners": 34438,
+        "region": "KZN"
+      },
+      {
+        "city": "Cape Town",
+        "country": "ZA",
+        "numberOfListeners": 33764,
+        "region": "WC"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 28991,
+        "region": "JK"
+      }
+    ]
+  },
+  "worldRank": 0
+}

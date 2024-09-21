@@ -1,0 +1,41 @@
+{
+  "id": "3p4Uop6RFN6m75EGIPJApI",
+  "name": "Bronco",
+  "followers": 184,
+  "monthlyListeners": 830,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago de Cali",
+        "country": "CO",
+        "numberOfListeners": 145,
+        "region": "VAC"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 117,
+        "region": "DC"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 108,
+        "region": "ANT"
+      },
+      {
+        "city": "Guayaquil",
+        "country": "EC",
+        "numberOfListeners": 20,
+        "region": "G"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 17,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

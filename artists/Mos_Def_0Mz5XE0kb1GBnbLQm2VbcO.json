@@ -1,0 +1,41 @@
+{
+  "id": "0Mz5XE0kb1GBnbLQm2VbcO",
+  "name": "Mos Def",
+  "followers": 1506585,
+  "monthlyListeners": 2215148,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 49250,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 36998,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 32913,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 31550,
+        "region": "VIC"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 25507,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

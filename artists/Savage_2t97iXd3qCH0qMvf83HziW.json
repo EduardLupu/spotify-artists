@@ -1,0 +1,41 @@
+{
+  "id": "2t97iXd3qCH0qMvf83HziW",
+  "name": "Savage",
+  "followers": 34310,
+  "monthlyListeners": 321418,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 21144,
+        "region": "14"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 6745,
+        "region": "SP"
+      },
+      {
+        "city": "Poznan",
+        "country": "PL",
+        "numberOfListeners": 6546,
+        "region": "30"
+      },
+      {
+        "city": "Krakow",
+        "country": "PL",
+        "numberOfListeners": 6352,
+        "region": "12"
+      },
+      {
+        "city": "Katowice",
+        "country": "PL",
+        "numberOfListeners": 6036,
+        "region": "24"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3koiLjNrgRTNbOwViDipeA",
+  "name": "Marvin Gaye",
+  "followers": 5449842,
+  "monthlyListeners": 22145241,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 390154,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 308449,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 259939,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 256927,
+        "region": "VIC"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 242849,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 300
+}

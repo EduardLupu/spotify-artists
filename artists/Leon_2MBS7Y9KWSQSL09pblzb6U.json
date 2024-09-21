@@ -1,0 +1,41 @@
+{
+  "id": "2MBS7Y9KWSQSL09pblzb6U",
+  "name": "Leon",
+  "followers": 46,
+  "monthlyListeners": 16,
+  "topCities": {
+    "items": [
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 1,
+        "region": "ENG"
+      },
+      {
+        "city": "Sant'Arpino",
+        "country": "IT",
+        "numberOfListeners": 1,
+        "region": "72"
+      },
+      {
+        "city": "Brasov",
+        "country": "RO",
+        "numberOfListeners": 1,
+        "region": "BV"
+      },
+      {
+        "city": "Vechelde",
+        "country": "DE",
+        "numberOfListeners": 1,
+        "region": "NI"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 1,
+        "region": "HH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "41cBCgJoK9bpY0Qy2SWIRN",
+  "name": "Cece Coakley",
+  "followers": 22621,
+  "monthlyListeners": 84652,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 2153,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1870,
+        "region": "IL"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 1809,
+        "region": "CO"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 1676,
+        "region": "WA"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 1360,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

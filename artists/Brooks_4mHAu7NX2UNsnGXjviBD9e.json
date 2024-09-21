@@ -1,0 +1,41 @@
+{
+  "id": "4mHAu7NX2UNsnGXjviBD9e",
+  "name": "Brooks",
+  "followers": 321519,
+  "monthlyListeners": 1951036,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 21961,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 21118,
+        "region": "NH"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 20430,
+        "region": "JK"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 20388,
+        "region": "RM"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 19194,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

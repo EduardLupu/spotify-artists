@@ -1,0 +1,41 @@
+{
+  "id": "1dWEYMPtNmvSVaDNLgB6NV",
+  "name": "Saint Motel",
+  "followers": 720497,
+  "monthlyListeners": 4104031,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 67016,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 53232,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 45522,
+        "region": "NY"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 44323,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 40713,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7EHgi5H0Wz30PSGZlnZ8kB",
+  "name": "Isak J Martinsson",
+  "followers": 10851,
+  "monthlyListeners": 22554,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 274,
+        "region": "SP"
+      },
+      {
+        "city": "Kyiv",
+        "country": "UA",
+        "numberOfListeners": 215,
+        "region": "30"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 212,
+        "region": "RM"
+      },
+      {
+        "city": "Minsk",
+        "country": "BY",
+        "numberOfListeners": 163,
+        "region": "HM"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 162,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

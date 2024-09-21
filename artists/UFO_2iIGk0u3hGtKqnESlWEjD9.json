@@ -1,0 +1,41 @@
+{
+  "id": "2iIGk0u3hGtKqnESlWEjD9",
+  "name": "UFO",
+  "followers": 2011,
+  "monthlyListeners": 34835,
+  "topCities": {
+    "items": [
+      {
+        "city": "Budapest",
+        "country": "HU",
+        "numberOfListeners": 20608,
+        "region": "BU"
+      },
+      {
+        "city": "Bratislava",
+        "country": "SK",
+        "numberOfListeners": 717,
+        "region": "BL"
+      },
+      {
+        "city": "Győr",
+        "country": "HU",
+        "numberOfListeners": 480,
+        "region": "GS"
+      },
+      {
+        "city": "Debrecen",
+        "country": "HU",
+        "numberOfListeners": 435,
+        "region": "HB"
+      },
+      {
+        "city": "Szeged",
+        "country": "HU",
+        "numberOfListeners": 405,
+        "region": "CS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

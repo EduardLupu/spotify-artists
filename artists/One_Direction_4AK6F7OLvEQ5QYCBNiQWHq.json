@@ -1,0 +1,41 @@
+{
+  "id": "4AK6F7OLvEQ5QYCBNiQWHq",
+  "name": "One Direction",
+  "followers": 36410645,
+  "monthlyListeners": 42396732,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 3007798,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 610412,
+        "region": "JB"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 559595,
+        "region": "14"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 503801,
+        "region": "00"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 463761,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 69
+}

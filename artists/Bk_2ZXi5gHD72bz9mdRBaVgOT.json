@@ -1,0 +1,41 @@
+{
+  "id": "2ZXi5gHD72bz9mdRBaVgOT",
+  "name": "Bk",
+  "followers": 128,
+  "monthlyListeners": 220,
+  "topCities": {
+    "items": [
+      {
+        "city": "Ho Chi Minh City",
+        "country": "VN",
+        "numberOfListeners": 100,
+        "region": "SG"
+      },
+      {
+        "city": "Hanoi",
+        "country": "VN",
+        "numberOfListeners": 23,
+        "region": "HN"
+      },
+      {
+        "city": "Da Nang",
+        "country": "VN",
+        "numberOfListeners": 8,
+        "region": "DN"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 7,
+        "region": "GP"
+      },
+      {
+        "city": "Biên Hòa",
+        "country": "VN",
+        "numberOfListeners": 6,
+        "region": "39"
+      }
+    ]
+  },
+  "worldRank": 0
+}

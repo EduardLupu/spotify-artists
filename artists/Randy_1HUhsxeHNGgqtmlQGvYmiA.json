@@ -1,0 +1,41 @@
+{
+  "id": "1HUhsxeHNGgqtmlQGvYmiA",
+  "name": "Randy",
+  "followers": 6784,
+  "monthlyListeners": 15424,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 957,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 375,
+        "region": "NSW"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 374,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 356,
+        "region": "VIC"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 340,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

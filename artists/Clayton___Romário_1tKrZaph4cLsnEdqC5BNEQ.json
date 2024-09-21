@@ -1,0 +1,41 @@
+{
+  "id": "1tKrZaph4cLsnEdqC5BNEQ",
+  "name": "Clayton & Romário",
+  "followers": 559197,
+  "monthlyListeners": 7059627,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1059219,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 469672,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 398913,
+        "region": "PR"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 369943,
+        "region": "DF"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 348692,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

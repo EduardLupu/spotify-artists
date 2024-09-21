@@ -1,0 +1,41 @@
+{
+  "id": "0dS5xeDefwoUNasLUHnCjR",
+  "name": "Cappadonna",
+  "followers": 164347,
+  "monthlyListeners": 150420,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 2240,
+        "region": "CA"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 2099,
+        "region": "ON"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 2062,
+        "region": "NY"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 2043,
+        "region": "NY"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 1951,
+        "region": "PA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

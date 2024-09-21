@@ -1,0 +1,41 @@
+{
+  "id": "1EK2H2zluvJIWa1IDArr6Q",
+  "name": "jet",
+  "followers": 170,
+  "monthlyListeners": 698,
+  "topCities": {
+    "items": [
+      {
+        "city": "Fort Worth",
+        "country": "US",
+        "numberOfListeners": 35,
+        "region": "TX"
+      },
+      {
+        "city": "Memphis",
+        "country": "US",
+        "numberOfListeners": 34,
+        "region": "TN"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 29,
+        "region": "TX"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 27,
+        "region": "GA"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 21,
+        "region": "NC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

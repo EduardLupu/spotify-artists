@@ -1,0 +1,41 @@
+{
+  "id": "3836OTICMPjhTMMcpPw4EC",
+  "name": "Broiler",
+  "followers": 175300,
+  "monthlyListeners": 3358595,
+  "topCities": {
+    "items": [
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 211422,
+        "region": "03"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 81842,
+        "region": "AB"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 52299,
+        "region": "SP"
+      },
+      {
+        "city": "Gothenburg",
+        "country": "SE",
+        "numberOfListeners": 37348,
+        "region": "O"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 30430,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

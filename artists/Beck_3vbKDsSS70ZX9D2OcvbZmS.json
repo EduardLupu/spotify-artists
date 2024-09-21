@@ -1,0 +1,41 @@
+{
+  "id": "3vbKDsSS70ZX9D2OcvbZmS",
+  "name": "Beck",
+  "followers": 1584392,
+  "monthlyListeners": 6287316,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 90942,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 83258,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 80427,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 76233,
+        "region": "VIC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 75824,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

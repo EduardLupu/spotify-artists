@@ -1,0 +1,41 @@
+{
+  "id": "5lpH0xAS4fVfLkACg9DAuM",
+  "name": "Wham!",
+  "followers": 2788976,
+  "monthlyListeners": 13827054,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 211285,
+        "region": "ENG"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 208515,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 169642,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 152316,
+        "region": "VIC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 133174,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0j6Z5YMSqBePHbPKLQwrcU",
+  "name": "Emilia",
+  "followers": 108104,
+  "monthlyListeners": 190182,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sofia",
+        "country": "BG",
+        "numberOfListeners": 70641,
+        "region": "22"
+      },
+      {
+        "city": "Varna",
+        "country": "BG",
+        "numberOfListeners": 10924,
+        "region": "03"
+      },
+      {
+        "city": "Bucharest",
+        "country": "RO",
+        "numberOfListeners": 6784,
+        "region": "B"
+      },
+      {
+        "city": "Burgas",
+        "country": "BG",
+        "numberOfListeners": 4475,
+        "region": "02"
+      },
+      {
+        "city": "Plovdiv",
+        "country": "BG",
+        "numberOfListeners": 3910,
+        "region": "16"
+      }
+    ]
+  },
+  "worldRank": 0
+}

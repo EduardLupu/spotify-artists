@@ -1,0 +1,41 @@
+{
+  "id": "5K8Rmjmf4RZFffz94EmBRt",
+  "name": "Zé Vaqueiro",
+  "followers": 5767060,
+  "monthlyListeners": 5163483,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 738400,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 261950,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 232440,
+        "region": "MG"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 217236,
+        "region": "DF"
+      },
+      {
+        "city": "Fortaleza",
+        "country": "BR",
+        "numberOfListeners": 199951,
+        "region": "CE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

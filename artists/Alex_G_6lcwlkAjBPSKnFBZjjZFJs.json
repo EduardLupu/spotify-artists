@@ -1,0 +1,41 @@
+{
+  "id": "6lcwlkAjBPSKnFBZjjZFJs",
+  "name": "Alex G",
+  "followers": 2411455,
+  "monthlyListeners": 9289498,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 146940,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 128757,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 121869,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 100292,
+        "region": "NY"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 99602,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

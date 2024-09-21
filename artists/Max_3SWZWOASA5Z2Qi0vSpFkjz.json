@@ -1,0 +1,41 @@
+{
+  "id": "3SWZWOASA5Z2Qi0vSpFkjz",
+  "name": "Max",
+  "followers": 24,
+  "monthlyListeners": 70,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 7,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 2,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 2,
+        "region": "ENG"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 2,
+        "region": "MD"
+      },
+      {
+        "city": "Vancouver",
+        "country": "CA",
+        "numberOfListeners": 2,
+        "region": "BC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

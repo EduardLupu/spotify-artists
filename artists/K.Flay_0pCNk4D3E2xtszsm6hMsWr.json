@@ -1,0 +1,41 @@
+{
+  "id": "0pCNk4D3E2xtszsm6hMsWr",
+  "name": "K.Flay",
+  "followers": 604541,
+  "monthlyListeners": 4252066,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 45495,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 39846,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 35966,
+        "region": "IL"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 35571,
+        "region": "14"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 35408,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

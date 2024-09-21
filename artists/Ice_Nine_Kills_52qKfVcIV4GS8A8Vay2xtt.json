@@ -1,0 +1,41 @@
+{
+  "id": "52qKfVcIV4GS8A8Vay2xtt",
+  "name": "Ice Nine Kills",
+  "followers": 952166,
+  "monthlyListeners": 2159974,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 34301,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 29533,
+        "region": "ENG"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 26928,
+        "region": "PA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 25186,
+        "region": "TX"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 24870,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

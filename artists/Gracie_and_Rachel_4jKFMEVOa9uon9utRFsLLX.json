@@ -1,0 +1,41 @@
+{
+  "id": "4jKFMEVOa9uon9utRFsLLX",
+  "name": "Gracie and Rachel",
+  "followers": 7089,
+  "monthlyListeners": 18513,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 282,
+        "region": "34"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 230,
+        "region": "14"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 212,
+        "region": "BE"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 187,
+        "region": "IDF"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 184,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

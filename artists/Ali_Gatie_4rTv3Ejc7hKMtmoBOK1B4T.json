@@ -1,0 +1,41 @@
+{
+  "id": "4rTv3Ejc7hKMtmoBOK1B4T",
+  "name": "Ali Gatie",
+  "followers": 2089194,
+  "monthlyListeners": 6921353,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 302541,
+        "region": "JK"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 121391,
+        "region": "14"
+      },
+      {
+        "city": "Guwahati",
+        "country": "IN",
+        "numberOfListeners": 81333,
+        "region": "AS"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 73768,
+        "region": "NSW"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 68631,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2N4EYkIlG1kv25g6Wv8LGI",
+  "name": "Killer Mike",
+  "followers": 456953,
+  "monthlyListeners": 2647807,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 50206,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 41899,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 39267,
+        "region": "ENG"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 36465,
+        "region": "GA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 36460,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

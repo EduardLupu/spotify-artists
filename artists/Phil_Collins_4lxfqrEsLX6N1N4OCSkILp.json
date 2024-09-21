@@ -1,0 +1,41 @@
+{
+  "id": "4lxfqrEsLX6N1N4OCSkILp",
+  "name": "Phil Collins",
+  "followers": 6099526,
+  "monthlyListeners": 22996743,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 470655,
+        "region": "RM"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 336095,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 315835,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 288885,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 248156,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 268
+}

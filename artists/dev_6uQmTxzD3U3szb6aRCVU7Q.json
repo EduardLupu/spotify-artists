@@ -1,0 +1,41 @@
+{
+  "id": "6uQmTxzD3U3szb6aRCVU7Q",
+  "name": "dev",
+  "followers": 36,
+  "monthlyListeners": 30,
+  "topCities": {
+    "items": [
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 11,
+        "region": "ON"
+      },
+      {
+        "city": "Brampton",
+        "country": "CA",
+        "numberOfListeners": 7,
+        "region": "ON"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 4,
+        "region": "NSW"
+      },
+      {
+        "city": "Waterloo",
+        "country": "CA",
+        "numberOfListeners": 3,
+        "region": "ON"
+      },
+      {
+        "city": "Etobicoke",
+        "country": "CA",
+        "numberOfListeners": 3,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

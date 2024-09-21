@@ -1,0 +1,41 @@
+{
+  "id": "06I3le2oHogVS03FDwjjTu",
+  "name": "Madman",
+  "followers": 37,
+  "monthlyListeners": 424,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 31,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 17,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 12,
+        "region": "VIC"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 11,
+        "region": "ENG"
+      },
+      {
+        "city": "Perth",
+        "country": "AU",
+        "numberOfListeners": 9,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

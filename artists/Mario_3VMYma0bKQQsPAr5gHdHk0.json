@@ -1,0 +1,41 @@
+{
+  "id": "3VMYma0bKQQsPAr5gHdHk0",
+  "name": "Mario",
+  "followers": 47,
+  "monthlyListeners": 142,
+  "topCities": {
+    "items": [
+      {
+        "city": "Antananarivo",
+        "country": "MG",
+        "numberOfListeners": 13,
+        "region": ""
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 11,
+        "region": "IDF"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 4,
+        "region": "QC"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 2,
+        "region": "62"
+      },
+      {
+        "city": "Lausanne",
+        "country": "CH",
+        "numberOfListeners": 2,
+        "region": "VD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

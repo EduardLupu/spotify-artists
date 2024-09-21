@@ -1,0 +1,41 @@
+{
+  "id": "4ZDoy7AWNgQVmX7T0u0B1j",
+  "name": "No Te Va Gustar",
+  "followers": 2336325,
+  "monthlyListeners": 5210763,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1110930,
+        "region": "C"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 509323,
+        "region": "B"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 255497,
+        "region": "RM"
+      },
+      {
+        "city": "Montevideo",
+        "country": "UY",
+        "numberOfListeners": 219744,
+        "region": "MO"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 219134,
+        "region": "X"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2uyweLa0mvPZH6eRzDddeB",
+  "name": "Rocío Dúrcal",
+  "followers": 4586026,
+  "monthlyListeners": 8754734,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 625316,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 308723,
+        "region": "JAL"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 301683,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 291480,
+        "region": "DC"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 261953,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

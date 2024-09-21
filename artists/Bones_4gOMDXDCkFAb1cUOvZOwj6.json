@@ -1,0 +1,41 @@
+{
+  "id": "4gOMDXDCkFAb1cUOvZOwj6",
+  "name": "Bones",
+  "followers": 3,
+  "monthlyListeners": 6,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 3,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 1,
+        "region": "JB"
+      },
+      {
+        "city": "Kebumen Satu",
+        "country": "ID",
+        "numberOfListeners": 1,
+        "region": "JT"
+      },
+      {
+        "city": "Tasikmalaya",
+        "country": "ID",
+        "numberOfListeners": 1,
+        "region": "JB"
+      },
+      {
+        "city": "Makassar",
+        "country": "ID",
+        "numberOfListeners": 1,
+        "region": "SN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

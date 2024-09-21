@@ -1,0 +1,41 @@
+{
+  "id": "4Rxn7Im3LGfyRkY2FlHhWi",
+  "name": "Nick Jonas",
+  "followers": 10023984,
+  "monthlyListeners": 6527476,
+  "topCities": {
+    "items": [
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 99525,
+        "region": "00"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 82888,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 80288,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 70354,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 59147,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

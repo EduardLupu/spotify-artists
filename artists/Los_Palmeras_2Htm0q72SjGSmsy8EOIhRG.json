@@ -1,0 +1,41 @@
+{
+  "id": "2Htm0q72SjGSmsy8EOIhRG",
+  "name": "Los Palmeras",
+  "followers": 1919133,
+  "monthlyListeners": 3005525,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 711798,
+        "region": "C"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 288105,
+        "region": "B"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 190787,
+        "region": "RM"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 134467,
+        "region": "X"
+      },
+      {
+        "city": "Montevideo",
+        "country": "UY",
+        "numberOfListeners": 100518,
+        "region": "MO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

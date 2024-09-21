@@ -1,0 +1,41 @@
+{
+  "id": "5lkiCO9UQ8B23dZ1o0UV4m",
+  "name": "Jackson Browne",
+  "followers": 1361247,
+  "monthlyListeners": 3015891,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 50119,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 46622,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 45542,
+        "region": "NY"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 41355,
+        "region": "VIC"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 37057,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

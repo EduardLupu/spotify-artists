@@ -1,0 +1,41 @@
+{
+  "id": "6Y6rrQjzcZhaM4RXusI8UP",
+  "name": "Banda Sinaloense MS de Sergio Lizárraga",
+  "followers": 611280,
+  "monthlyListeners": 2633957,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 186620,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 154312,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 91841,
+        "region": "QUE"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 88799,
+        "region": "JAL"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 87040,
+        "region": "GU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

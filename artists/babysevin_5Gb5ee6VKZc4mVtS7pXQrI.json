@@ -1,0 +1,41 @@
+{
+  "id": "5Gb5ee6VKZc4mVtS7pXQrI",
+  "name": "babysevin",
+  "followers": 10505,
+  "monthlyListeners": 50623,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 695,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 658,
+        "region": "IL"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 632,
+        "region": "NY"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 583,
+        "region": "PA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 514,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4Wjf8diP59VmPG7fi4y724",
+  "name": "Cedric Gervais",
+  "followers": 105948,
+  "monthlyListeners": 5028620,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 69536,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 67576,
+        "region": "ENG"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 64015,
+        "region": "CMX"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 59459,
+        "region": "VIC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 56879,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

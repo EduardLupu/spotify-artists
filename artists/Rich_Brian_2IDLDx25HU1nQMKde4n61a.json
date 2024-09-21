@@ -1,0 +1,41 @@
+{
+  "id": "2IDLDx25HU1nQMKde4n61a",
+  "name": "Rich Brian",
+  "followers": 2128164,
+  "monthlyListeners": 4020763,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 238432,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 55110,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 50551,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 48645,
+        "region": "VIC"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 48129,
+        "region": "JB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

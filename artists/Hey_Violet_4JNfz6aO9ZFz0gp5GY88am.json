@@ -1,0 +1,41 @@
+{
+  "id": "4JNfz6aO9ZFz0gp5GY88am",
+  "name": "Hey Violet",
+  "followers": 1072702,
+  "monthlyListeners": 860932,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 9770,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 8840,
+        "region": "NSW"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 8133,
+        "region": "TX"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 7974,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 7525,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4OV6uYSnHxSYkjDYuBVBUz",
+  "name": "Slimane",
+  "followers": 1681546,
+  "monthlyListeners": 3056176,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 377541,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 132440,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 80284,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 66569,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 53618,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

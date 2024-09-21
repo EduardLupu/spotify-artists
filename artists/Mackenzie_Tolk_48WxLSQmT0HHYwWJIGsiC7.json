@@ -1,0 +1,41 @@
+{
+  "id": "48WxLSQmT0HHYwWJIGsiC7",
+  "name": "Mackenzie Tolk",
+  "followers": 2017,
+  "monthlyListeners": 15123,
+  "topCities": {
+    "items": [
+      {
+        "city": "Salt Lake City",
+        "country": "US",
+        "numberOfListeners": 371,
+        "region": "UT"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 141,
+        "region": "NSW"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 140,
+        "region": ""
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 131,
+        "region": "CO"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 130,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1aSxMhuvixZ8h9dK9jIDwL",
+  "name": "Kate Bush",
+  "followers": 2140317,
+  "monthlyListeners": 12003740,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 234563,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 151483,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 141559,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 130565,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 119388,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5254Zsy5Ip7BFeUto1bC8R",
+  "name": "aqualina",
+  "followers": 32909,
+  "monthlyListeners": 406017,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 5110,
+        "region": "JK"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 4109,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 3692,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 3373,
+        "region": "NY"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 3182,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

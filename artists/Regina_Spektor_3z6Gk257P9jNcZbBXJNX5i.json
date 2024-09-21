@@ -1,0 +1,41 @@
+{
+  "id": "3z6Gk257P9jNcZbBXJNX5i",
+  "name": "Regina Spektor",
+  "followers": 1398903,
+  "monthlyListeners": 3621839,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 66120,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 40056,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 39884,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 37475,
+        "region": "RM"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 37119,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

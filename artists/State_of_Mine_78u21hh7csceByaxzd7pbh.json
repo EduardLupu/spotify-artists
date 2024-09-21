@@ -1,0 +1,41 @@
+{
+  "id": "78u21hh7csceByaxzd7pbh",
+  "name": "State of Mine",
+  "followers": 246829,
+  "monthlyListeners": 960774,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 12309,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 10715,
+        "region": "TX"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 10213,
+        "region": "CO"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 10000,
+        "region": "NC"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 9839,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

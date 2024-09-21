@@ -1,0 +1,41 @@
+{
+  "id": "2CvCyf1gEVhI0mX6aFXmVI",
+  "name": "Paul Simon",
+  "followers": 2360992,
+  "monthlyListeners": 7281722,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 155552,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 142951,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 118408,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 99212,
+        "region": "QLD"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 93177,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

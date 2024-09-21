@@ -1,0 +1,41 @@
+{
+  "id": "5BjKDzwTigl4Qe1AHG4Ztg",
+  "name": "andre",
+  "followers": 315,
+  "monthlyListeners": 527,
+  "topCities": {
+    "items": [
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 74,
+        "region": "00"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 41,
+        "region": "JK"
+      },
+      {
+        "city": "Caloocan City",
+        "country": "PH",
+        "numberOfListeners": 23,
+        "region": "00"
+      },
+      {
+        "city": "Cebu City",
+        "country": "PH",
+        "numberOfListeners": 22,
+        "region": "07"
+      },
+      {
+        "city": "Pasig",
+        "country": "PH",
+        "numberOfListeners": 20,
+        "region": "00"
+      }
+    ]
+  },
+  "worldRank": 0
+}

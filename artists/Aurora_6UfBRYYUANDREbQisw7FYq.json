@@ -1,0 +1,41 @@
+{
+  "id": "6UfBRYYUANDREbQisw7FYq",
+  "name": "Aurora",
+  "followers": 107,
+  "monthlyListeners": 2743,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tirana",
+        "country": "AL",
+        "numberOfListeners": 246,
+        "region": "11"
+      },
+      {
+        "city": "Pristina",
+        "country": "XK",
+        "numberOfListeners": 199,
+        "region": ""
+      },
+      {
+        "city": "Zurich",
+        "country": "CH",
+        "numberOfListeners": 141,
+        "region": "ZH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 93,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 68,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

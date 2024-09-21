@@ -1,0 +1,41 @@
+{
+  "id": "5sXaGoRLSpd7VeyZrLkKwt",
+  "name": "Gregory Alan Isakov",
+  "followers": 946970,
+  "monthlyListeners": 6792216,
+  "topCities": {
+    "items": [
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 109580,
+        "region": "CO"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 101987,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 98192,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 96429,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 95744,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4N6mK6pFifTiAIGvf8DLLn",
+  "name": "V",
+  "followers": 901,
+  "monthlyListeners": 4413,
+  "topCities": {
+    "items": [
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 77,
+        "region": ""
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 71,
+        "region": "TPE"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 60,
+        "region": "CMX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 56,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 54,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1fctva4kpRbg2k3v7kwRuS",
+  "name": "Rvssian",
+  "followers": 2499108,
+  "monthlyListeners": 21374797,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 827951,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 734229,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 655216,
+        "region": "DC"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 517811,
+        "region": "C"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 449490,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 330
+}

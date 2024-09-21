@@ -1,0 +1,41 @@
+{
+  "id": "5hQAO1u7TC2MjIeMVDbsg5",
+  "name": "BM",
+  "followers": 38351,
+  "monthlyListeners": 1687499,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 64683,
+        "region": "25"
+      },
+      {
+        "city": "Athens",
+        "country": "GR",
+        "numberOfListeners": 40471,
+        "region": "I"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 39341,
+        "region": "34"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 37622,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 24555,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

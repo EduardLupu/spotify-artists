@@ -1,0 +1,41 @@
+{
+  "id": "3798s94gftIIXMXdtepJMk",
+  "name": "SIA",
+  "followers": 210,
+  "monthlyListeners": 349,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 11,
+        "region": "JK"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 10,
+        "region": ""
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 9,
+        "region": "14"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 5,
+        "region": "JB"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 5,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

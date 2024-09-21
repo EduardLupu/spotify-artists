@@ -1,0 +1,41 @@
+{
+  "id": "7MzHPIXAqIOCnvK0sVY72W",
+  "name": "Helene Fischer",
+  "followers": 2007798,
+  "monthlyListeners": 2543826,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 182716,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 143322,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 115758,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 101499,
+        "region": "BY"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 93093,
+        "region": "9"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3gBVHopic6vfv92oCUyYQa",
+  "name": "André",
+  "followers": 98,
+  "monthlyListeners": 1172,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lisbon",
+        "country": "PT",
+        "numberOfListeners": 107,
+        "region": "11"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 99,
+        "region": "IDF"
+      },
+      {
+        "city": "Luanda",
+        "country": "AO",
+        "numberOfListeners": 94,
+        "region": "LUA"
+      },
+      {
+        "city": "Maputo",
+        "country": "MZ",
+        "numberOfListeners": 59,
+        "region": "MPM"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 37,
+        "region": "ZH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

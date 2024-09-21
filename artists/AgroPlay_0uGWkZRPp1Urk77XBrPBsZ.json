@@ -1,0 +1,41 @@
+{
+  "id": "0uGWkZRPp1Urk77XBrPBsZ",
+  "name": "AgroPlay",
+  "followers": 778302,
+  "monthlyListeners": 7734081,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1066502,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 418632,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 401026,
+        "region": "PR"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 355598,
+        "region": "RS"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 345521,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

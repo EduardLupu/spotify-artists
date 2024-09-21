@@ -1,0 +1,41 @@
+{
+  "id": "3xGlLcG9CUrs5MvFkSLOS5",
+  "name": "Marco Mengoni",
+  "followers": 2137098,
+  "monthlyListeners": 2187718,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 397490,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 187763,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 65097,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 60704,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 46331,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

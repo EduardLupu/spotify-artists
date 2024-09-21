@@ -1,0 +1,41 @@
+{
+  "id": "4l3wKfGzkfCBnBWOLUQw0w",
+  "name": "LEON",
+  "followers": 47,
+  "monthlyListeners": 32,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 3,
+        "region": "ENG"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 2,
+        "region": "BY"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 1,
+        "region": "MG"
+      },
+      {
+        "city": "Varna",
+        "country": "BG",
+        "numberOfListeners": 1,
+        "region": "03"
+      },
+      {
+        "city": "Serres",
+        "country": "GR",
+        "numberOfListeners": 1,
+        "region": "B"
+      }
+    ]
+  },
+  "worldRank": 0
+}

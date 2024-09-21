@@ -1,0 +1,41 @@
+{
+  "id": "6ohaQzKaXrobAL8paLSaxq",
+  "name": "Salim–Sulaiman",
+  "followers": 2282156,
+  "monthlyListeners": 13482933,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1298243,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1103648,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 889452,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 739716,
+        "region": "DL"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 694799,
+        "region": "WB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

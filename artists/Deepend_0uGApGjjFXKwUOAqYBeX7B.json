@@ -1,0 +1,41 @@
+{
+  "id": "0uGApGjjFXKwUOAqYBeX7B",
+  "name": "Deepend",
+  "followers": 56400,
+  "monthlyListeners": 5389432,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 94878,
+        "region": "NH"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 82748,
+        "region": "IDF"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 61374,
+        "region": "ZH"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 61090,
+        "region": "BE"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 57550,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

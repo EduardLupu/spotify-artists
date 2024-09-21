@@ -1,0 +1,41 @@
+{
+  "id": "14D0I0RYqvIorkPL2EWoQh",
+  "name": "MC WM",
+  "followers": 2697958,
+  "monthlyListeners": 2417807,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 343664,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 91658,
+        "region": "PR"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 87915,
+        "region": "MG"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 85879,
+        "region": "RJ"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 79781,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

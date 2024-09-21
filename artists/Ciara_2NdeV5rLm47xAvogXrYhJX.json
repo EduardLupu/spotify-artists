@@ -1,0 +1,41 @@
+{
+  "id": "2NdeV5rLm47xAvogXrYhJX",
+  "name": "Ciara",
+  "followers": 6691302,
+  "monthlyListeners": 11742755,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 239974,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 202901,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 171725,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 163735,
+        "region": "VIC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 160351,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

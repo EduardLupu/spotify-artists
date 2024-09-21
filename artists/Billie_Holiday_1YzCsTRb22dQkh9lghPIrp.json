@@ -1,0 +1,41 @@
+{
+  "id": "1YzCsTRb22dQkh9lghPIrp",
+  "name": "Billie Holiday",
+  "followers": 1941210,
+  "monthlyListeners": 3906793,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 46233,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 44105,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 42237,
+        "region": "NY"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 40767,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 37892,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

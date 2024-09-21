@@ -1,0 +1,41 @@
+{
+  "id": "7IlRNXHjoOCgEAWN5qYksg",
+  "name": "Aya Nakamura",
+  "followers": 4912436,
+  "monthlyListeners": 9785623,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 800604,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 226013,
+        "region": "BRU"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 159354,
+        "region": "NH"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 150533,
+        "region": "ARA"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 140211,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

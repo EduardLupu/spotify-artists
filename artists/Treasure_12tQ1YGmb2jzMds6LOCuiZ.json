@@ -1,0 +1,41 @@
+{
+  "id": "12tQ1YGmb2jzMds6LOCuiZ",
+  "name": "Treasure",
+  "followers": 747,
+  "monthlyListeners": 3122,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 61,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 50,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 49,
+        "region": "VIC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 46,
+        "region": "CA"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 39,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

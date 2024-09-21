@@ -1,0 +1,41 @@
+{
+  "id": "00Lc7Ok0Grodr365KFTSi3",
+  "name": "La Factoria",
+  "followers": 4496,
+  "monthlyListeners": 2665254,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 186557,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 113888,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 108231,
+        "region": "LMA"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 79288,
+        "region": "JAL"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 70427,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

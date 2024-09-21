@@ -1,0 +1,41 @@
+{
+  "id": "14r9dR01KeBLFfylVSKCZQ",
+  "name": "Damien Rice",
+  "followers": 1102176,
+  "monthlyListeners": 1943842,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 36459,
+        "region": "ENG"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 32400,
+        "region": "L"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 27357,
+        "region": "BRU"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 25254,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 22815,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

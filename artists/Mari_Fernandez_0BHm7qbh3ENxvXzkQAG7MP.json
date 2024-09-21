@@ -1,0 +1,41 @@
+{
+  "id": "0BHm7qbh3ENxvXzkQAG7MP",
+  "name": "Mari Fernandez",
+  "followers": 3318862,
+  "monthlyListeners": 11553541,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1693397,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 632815,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 625117,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 472277,
+        "region": "PR"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 472186,
+        "region": "DF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6A43Djmhbe9100UwnI7epV",
+  "name": "CAKE",
+  "followers": 1192886,
+  "monthlyListeners": 3943495,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 71323,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 59094,
+        "region": "NSW"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 56520,
+        "region": "CO"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 56091,
+        "region": "CA"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 55702,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

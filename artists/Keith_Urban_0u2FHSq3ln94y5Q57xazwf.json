@@ -1,0 +1,41 @@
+{
+  "id": "0u2FHSq3ln94y5Q57xazwf",
+  "name": "Keith Urban",
+  "followers": 5166941,
+  "monthlyListeners": 7439373,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 211757,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 173272,
+        "region": "QLD"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 144660,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 117955,
+        "region": "IL"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 101763,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

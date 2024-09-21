@@ -1,0 +1,41 @@
+{
+  "id": "6YVMFz59CuY7ngCxTxjpxE",
+  "name": "aespa",
+  "followers": 6372907,
+  "monthlyListeners": 10355523,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 797958,
+        "region": "JK"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 312919,
+        "region": "13"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 268855,
+        "region": "10"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 236238,
+        "region": "TPE"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 234071,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

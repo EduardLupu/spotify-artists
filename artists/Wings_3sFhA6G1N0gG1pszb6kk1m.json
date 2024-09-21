@@ -1,0 +1,41 @@
+{
+  "id": "3sFhA6G1N0gG1pszb6kk1m",
+  "name": "Wings",
+  "followers": 1105620,
+  "monthlyListeners": 4493343,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 71161,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 69155,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 62342,
+        "region": "VIC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 59169,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 50123,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

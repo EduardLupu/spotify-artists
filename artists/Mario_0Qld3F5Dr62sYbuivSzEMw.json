@@ -1,0 +1,41 @@
+{
+  "id": "0Qld3F5Dr62sYbuivSzEMw",
+  "name": "Mario",
+  "followers": 80598,
+  "monthlyListeners": 126228,
+  "topCities": {
+    "items": [
+      {
+        "city": "Budapest",
+        "country": "HU",
+        "numberOfListeners": 80190,
+        "region": "BU"
+      },
+      {
+        "city": "Bratislava",
+        "country": "SK",
+        "numberOfListeners": 3016,
+        "region": "BL"
+      },
+      {
+        "city": "Debrecen",
+        "country": "HU",
+        "numberOfListeners": 2513,
+        "region": "HB"
+      },
+      {
+        "city": "Miskolc",
+        "country": "HU",
+        "numberOfListeners": 2255,
+        "region": "BZ"
+      },
+      {
+        "city": "Győr",
+        "country": "HU",
+        "numberOfListeners": 2113,
+        "region": "GS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

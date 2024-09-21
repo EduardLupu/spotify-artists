@@ -1,0 +1,41 @@
+{
+  "id": "5Hsv8dUHHOdnn72q4XIVz7",
+  "name": "Leiva",
+  "followers": 750188,
+  "monthlyListeners": 1455328,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 222999,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 99930,
+        "region": "CT"
+      },
+      {
+        "city": "Valencia",
+        "country": "ES",
+        "numberOfListeners": 48080,
+        "region": "VC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 35769,
+        "region": "CMX"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 30340,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3HyrDGPLI0c9Rd8luuO0zw",
+  "name": "Maelo Ruiz",
+  "followers": 2091398,
+  "monthlyListeners": 4676564,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 483384,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 411243,
+        "region": "CMX"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 219534,
+        "region": "ANT"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 206668,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 202214,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

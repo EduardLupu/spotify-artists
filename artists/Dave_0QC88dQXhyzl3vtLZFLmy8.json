@@ -1,0 +1,41 @@
+{
+  "id": "0QC88dQXhyzl3vtLZFLmy8",
+  "name": "Dave",
+  "followers": 205,
+  "monthlyListeners": 219,
+  "topCities": {
+    "items": [
+      {
+        "city": "Volendam",
+        "country": "NL",
+        "numberOfListeners": 69,
+        "region": "NH"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 51,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 23,
+        "region": "ZH"
+      },
+      {
+        "city": "Purmerend",
+        "country": "NL",
+        "numberOfListeners": 19,
+        "region": "NH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 6,
+        "region": "UT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

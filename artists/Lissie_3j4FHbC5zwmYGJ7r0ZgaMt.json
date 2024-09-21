@@ -1,0 +1,41 @@
+{
+  "id": "3j4FHbC5zwmYGJ7r0ZgaMt",
+  "name": "Lissie",
+  "followers": 228602,
+  "monthlyListeners": 806872,
+  "topCities": {
+    "items": [
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 39669,
+        "region": "AB"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 22018,
+        "region": "03"
+      },
+      {
+        "city": "Gothenburg",
+        "country": "SE",
+        "numberOfListeners": 17439,
+        "region": "O"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 12340,
+        "region": "ENG"
+      },
+      {
+        "city": "Malmo",
+        "country": "SE",
+        "numberOfListeners": 10500,
+        "region": "M"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3hE8S8ohRErocpkY7uJW4a",
+  "name": "Within Temptation",
+  "followers": 1307535,
+  "monthlyListeners": 2274726,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 89869,
+        "region": "18"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 48125,
+        "region": "NH"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 37557,
+        "region": "10"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 34774,
+        "region": "ZH"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 32136,
+        "region": "AB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

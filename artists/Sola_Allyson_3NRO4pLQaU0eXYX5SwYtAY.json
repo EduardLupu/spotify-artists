@@ -1,0 +1,41 @@
+{
+  "id": "3NRO4pLQaU0eXYX5SwYtAY",
+  "name": "Sola Allyson",
+  "followers": 159849,
+  "monthlyListeners": 113641,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 67250,
+        "region": "LA"
+      },
+      {
+        "city": "Ibadan",
+        "country": "NG",
+        "numberOfListeners": 13898,
+        "region": "OY"
+      },
+      {
+        "city": "Abuja",
+        "country": "NG",
+        "numberOfListeners": 10227,
+        "region": "FC"
+      },
+      {
+        "city": "Port Harcourt",
+        "country": "NG",
+        "numberOfListeners": 4638,
+        "region": "RI"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 2226,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

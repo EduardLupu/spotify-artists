@@ -1,0 +1,41 @@
+{
+  "id": "6CP5wWvO8oIxedESJNCN4H",
+  "name": "Ski Aggu",
+  "followers": 473438,
+  "monthlyListeners": 6091924,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 636889,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 476322,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 452776,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 406638,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 318208,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

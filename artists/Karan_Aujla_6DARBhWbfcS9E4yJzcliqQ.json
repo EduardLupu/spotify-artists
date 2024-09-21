@@ -1,0 +1,41 @@
+{
+  "id": "6DARBhWbfcS9E4yJzcliqQ",
+  "name": "Karan Aujla",
+  "followers": 12336575,
+  "monthlyListeners": 17798286,
+  "topCities": {
+    "items": [
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1910094,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 1554231,
+        "region": "DL"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1293681,
+        "region": "MH"
+      },
+      {
+        "city": "Ludhiana",
+        "country": "IN",
+        "numberOfListeners": 1257436,
+        "region": "PB"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1109288,
+        "region": "MH"
+      }
+    ]
+  },
+  "worldRank": 440
+}

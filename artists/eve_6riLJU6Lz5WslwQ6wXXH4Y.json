@@ -1,0 +1,41 @@
+{
+  "id": "6riLJU6Lz5WslwQ6wXXH4Y",
+  "name": "eve",
+  "followers": 373,
+  "monthlyListeners": 3045,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 58,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 47,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 34,
+        "region": "NSW"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 34,
+        "region": "TX"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 33,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

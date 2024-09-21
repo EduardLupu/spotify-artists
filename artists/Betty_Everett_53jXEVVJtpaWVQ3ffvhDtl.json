@@ -1,0 +1,41 @@
+{
+  "id": "53jXEVVJtpaWVQ3ffvhDtl",
+  "name": "Betty Everett",
+  "followers": 32157,
+  "monthlyListeners": 239948,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 3620,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 2988,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 2949,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 2660,
+        "region": "NH"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 2518,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

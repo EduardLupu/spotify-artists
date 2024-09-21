@@ -1,0 +1,41 @@
+{
+  "id": "4LlPdGVFwXjjUHkdQV3Zjs",
+  "name": "North Country Gentlemen",
+  "followers": 3545,
+  "monthlyListeners": 12870,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 393,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 182,
+        "region": "PR"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 155,
+        "region": "MG"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 133,
+        "region": "DF"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 119,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

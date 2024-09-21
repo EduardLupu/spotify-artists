@@ -1,0 +1,41 @@
+{
+  "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+  "name": "Frank Sinatra",
+  "followers": 7417019,
+  "monthlyListeners": 17664354,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 220350,
+        "region": "RM"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 213906,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 192591,
+        "region": "SP"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 183710,
+        "region": "CA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 183108,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 447
+}

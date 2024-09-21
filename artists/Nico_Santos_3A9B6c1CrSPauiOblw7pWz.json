@@ -1,0 +1,41 @@
+{
+  "id": "3A9B6c1CrSPauiOblw7pWz",
+  "name": "Nico Santos",
+  "followers": 693489,
+  "monthlyListeners": 1875828,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 91146,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 75236,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 66136,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 61209,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 52441,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "12A83CWwFiyXy90ScLWPIe",
+  "name": "LIZOT",
+  "followers": 96735,
+  "monthlyListeners": 5049022,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 172739,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 160532,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 124426,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 117719,
+        "region": "BY"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 91058,
+        "region": "9"
+      }
+    ]
+  },
+  "worldRank": 0
+}

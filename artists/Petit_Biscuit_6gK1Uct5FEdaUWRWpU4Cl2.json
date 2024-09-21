@@ -1,0 +1,41 @@
+{
+  "id": "6gK1Uct5FEdaUWRWpU4Cl2",
+  "name": "Petit Biscuit",
+  "followers": 967595,
+  "monthlyListeners": 3969431,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 126949,
+        "region": "IDF"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 56909,
+        "region": "NSW"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 47207,
+        "region": "BRU"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 43879,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 39726,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

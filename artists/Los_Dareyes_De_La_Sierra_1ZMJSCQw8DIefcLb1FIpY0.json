@@ -1,0 +1,41 @@
+{
+  "id": "1ZMJSCQw8DIefcLb1FIpY0",
+  "name": "Los Dareyes De La Sierra",
+  "followers": 1173751,
+  "monthlyListeners": 9902067,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 707422,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 548445,
+        "region": "JAL"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 356472,
+        "region": "JAL"
+      },
+      {
+        "city": "Monterrey",
+        "country": "MX",
+        "numberOfListeners": 349962,
+        "region": "NLE"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 343846,
+        "region": "QUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

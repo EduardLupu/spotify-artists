@@ -1,0 +1,41 @@
+{
+  "id": "5BvJzeQpmsdsFp4HGUYUEx",
+  "name": "Vampire Weekend",
+  "followers": 1973506,
+  "monthlyListeners": 5489430,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 134411,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 86997,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 83500,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 81542,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 76525,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

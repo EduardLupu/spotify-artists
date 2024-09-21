@@ -1,0 +1,41 @@
+{
+  "id": "6RJXSfbIkEMoCJ8GAg2dVO",
+  "name": "Victor Leksell",
+  "followers": 169250,
+  "monthlyListeners": 1551240,
+  "topCities": {
+    "items": [
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 404957,
+        "region": "AB"
+      },
+      {
+        "city": "Gothenburg",
+        "country": "SE",
+        "numberOfListeners": 192215,
+        "region": "O"
+      },
+      {
+        "city": "Malmo",
+        "country": "SE",
+        "numberOfListeners": 125874,
+        "region": "M"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 88558,
+        "region": "03"
+      },
+      {
+        "city": "Umeå",
+        "country": "SE",
+        "numberOfListeners": 36121,
+        "region": "AC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

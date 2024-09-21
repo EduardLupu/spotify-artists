@@ -1,0 +1,41 @@
+{
+  "id": "0hgd7z7Q8Zq1YjgzZITtBa",
+  "name": "Dev",
+  "followers": 59,
+  "monthlyListeners": 731,
+  "topCities": {
+    "items": [
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 105,
+        "region": "ON"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 45,
+        "region": "NY"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 36,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 26,
+        "region": "NY"
+      },
+      {
+        "city": "Brampton",
+        "country": "CA",
+        "numberOfListeners": 18,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

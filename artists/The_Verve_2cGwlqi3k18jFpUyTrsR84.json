@@ -1,0 +1,41 @@
+{
+  "id": "2cGwlqi3k18jFpUyTrsR84",
+  "name": "The Verve",
+  "followers": 2393747,
+  "monthlyListeners": 10203321,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 245622,
+        "region": "ENG"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 182355,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 157799,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 141703,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 139603,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

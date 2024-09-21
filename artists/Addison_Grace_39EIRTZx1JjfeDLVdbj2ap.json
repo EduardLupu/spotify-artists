@@ -1,0 +1,41 @@
+{
+  "id": "39EIRTZx1JjfeDLVdbj2ap",
+  "name": "Addison Grace",
+  "followers": 170890,
+  "monthlyListeners": 100777,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1278,
+        "region": "IL"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 1193,
+        "region": "WA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 999,
+        "region": "VIC"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 969,
+        "region": "CO"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 954,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

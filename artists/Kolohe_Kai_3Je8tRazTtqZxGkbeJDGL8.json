@@ -1,0 +1,41 @@
+{
+  "id": "3Je8tRazTtqZxGkbeJDGL8",
+  "name": "Kolohe Kai",
+  "followers": 424629,
+  "monthlyListeners": 1346055,
+  "topCities": {
+    "items": [
+      {
+        "city": "Auckland",
+        "country": "NZ",
+        "numberOfListeners": 63551,
+        "region": "AUK"
+      },
+      {
+        "city": "Honolulu",
+        "country": "US",
+        "numberOfListeners": 58710,
+        "region": "HI"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 45525,
+        "region": "00"
+      },
+      {
+        "city": "Davao City",
+        "country": "PH",
+        "numberOfListeners": 42512,
+        "region": "11"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 38019,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

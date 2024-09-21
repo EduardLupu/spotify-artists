@@ -1,0 +1,41 @@
+{
+  "id": "4ePO8vOW1BaqnzDUTd5pMo",
+  "name": "Gorepig",
+  "followers": 26644,
+  "monthlyListeners": 58838,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 673,
+        "region": "18"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 673,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 657,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 592,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 585,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

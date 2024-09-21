@@ -1,0 +1,41 @@
+{
+  "id": "34WGgBEvRPXyD1vF5UChpi",
+  "name": "Max",
+  "followers": 2,
+  "monthlyListeners": 175,
+  "topCities": {
+    "items": [
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 14,
+        "region": "TPE"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 13,
+        "region": ""
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 9,
+        "region": "14"
+      },
+      {
+        "city": "Taoyuan District",
+        "country": "TW",
+        "numberOfListeners": 7,
+        "region": "TAO"
+      },
+      {
+        "city": "Taichung",
+        "country": "TW",
+        "numberOfListeners": 6,
+        "region": "TXG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

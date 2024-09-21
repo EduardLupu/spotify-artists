@@ -1,0 +1,41 @@
+{
+  "id": "5eioJDe26lOqkAMbuhzZYs",
+  "name": "Gzuz",
+  "followers": 1442123,
+  "monthlyListeners": 3315567,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 351243,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 283303,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 275231,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 228830,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 200031,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

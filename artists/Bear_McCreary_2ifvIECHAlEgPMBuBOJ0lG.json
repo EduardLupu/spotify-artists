@@ -1,0 +1,41 @@
+{
+  "id": "2ifvIECHAlEgPMBuBOJ0lG",
+  "name": "Bear McCreary",
+  "followers": 203657,
+  "monthlyListeners": 2066599,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 28547,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 21732,
+        "region": "NSW"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 21272,
+        "region": "IDF"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 19904,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 19002,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

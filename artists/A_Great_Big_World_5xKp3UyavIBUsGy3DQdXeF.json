@@ -1,0 +1,41 @@
+{
+  "id": "5xKp3UyavIBUsGy3DQdXeF",
+  "name": "A Great Big World",
+  "followers": 578241,
+  "monthlyListeners": 3938863,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 82261,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 46806,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 41772,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 36092,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 35334,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

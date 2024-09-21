@@ -1,0 +1,41 @@
+{
+  "id": "7jVv8c5Fj3E9VhNjxT4snq",
+  "name": "Lil Nas X",
+  "followers": 12413418,
+  "monthlyListeners": 23758101,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 326978,
+        "region": "SP"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 263093,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 262264,
+        "region": "NSW"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 227799,
+        "region": "IDF"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 224448,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 252
+}

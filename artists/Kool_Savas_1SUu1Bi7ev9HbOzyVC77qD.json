@@ -1,0 +1,41 @@
+{
+  "id": "1SUu1Bi7ev9HbOzyVC77qD",
+  "name": "Kool Savas",
+  "followers": 622051,
+  "monthlyListeners": 1715856,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 179639,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 133772,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 129964,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 107268,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 100464,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

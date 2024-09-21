@@ -1,0 +1,41 @@
+{
+  "id": "2TcGJdSOiOvITBzhvfX8XB",
+  "name": "Shouse",
+  "followers": 147134,
+  "monthlyListeners": 8030654,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 101592,
+        "region": "NH"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 98711,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 96225,
+        "region": "SP"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 89604,
+        "region": "IDF"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 88216,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

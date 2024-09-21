@@ -1,0 +1,41 @@
+{
+  "id": "5kVZa4lFUmAQlBogl1fkd6",
+  "name": "Aimyon",
+  "followers": 5386444,
+  "monthlyListeners": 3563195,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 966076,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 387425,
+        "region": "27"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 176049,
+        "region": "13"
+      },
+      {
+        "city": "Nagoya",
+        "country": "JP",
+        "numberOfListeners": 134406,
+        "region": "23"
+      },
+      {
+        "city": "Nakano",
+        "country": "JP",
+        "numberOfListeners": 94513,
+        "region": "13"
+      }
+    ]
+  },
+  "worldRank": 0
+}

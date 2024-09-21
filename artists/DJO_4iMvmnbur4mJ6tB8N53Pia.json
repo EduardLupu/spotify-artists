@@ -1,0 +1,41 @@
+{
+  "id": "4iMvmnbur4mJ6tB8N53Pia",
+  "name": "DJO",
+  "followers": 58,
+  "monthlyListeners": 366,
+  "topCities": {
+    "items": [
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 100,
+        "region": "ZH"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 69,
+        "region": "NH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 23,
+        "region": "UT"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 11,
+        "region": "BRU"
+      },
+      {
+        "city": "Athens",
+        "country": "GR",
+        "numberOfListeners": 10,
+        "region": "I"
+      }
+    ]
+  },
+  "worldRank": 0
+}

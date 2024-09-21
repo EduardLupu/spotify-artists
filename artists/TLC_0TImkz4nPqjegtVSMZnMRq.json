@@ -1,0 +1,41 @@
+{
+  "id": "0TImkz4nPqjegtVSMZnMRq",
+  "name": "TLC",
+  "followers": 4079424,
+  "monthlyListeners": 15027414,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 320584,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 300367,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 255192,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 211303,
+        "region": "QLD"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 160997,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

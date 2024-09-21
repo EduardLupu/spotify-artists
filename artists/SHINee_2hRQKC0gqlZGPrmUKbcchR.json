@@ -1,0 +1,41 @@
+{
+  "id": "2hRQKC0gqlZGPrmUKbcchR",
+  "name": "SHINee",
+  "followers": 3120386,
+  "monthlyListeners": 2296267,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 100553,
+        "region": "JK"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 55709,
+        "region": "10"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 47928,
+        "region": "14"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 46362,
+        "region": ""
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 32881,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

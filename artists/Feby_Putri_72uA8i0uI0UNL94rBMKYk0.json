@@ -1,0 +1,41 @@
+{
+  "id": "72uA8i0uI0UNL94rBMKYk0",
+  "name": "Feby Putri",
+  "followers": 1432,
+  "monthlyListeners": 89866,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 36190,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 8963,
+        "region": "JB"
+      },
+      {
+        "city": "Makassar",
+        "country": "ID",
+        "numberOfListeners": 4287,
+        "region": "SN"
+      },
+      {
+        "city": "Medan",
+        "country": "ID",
+        "numberOfListeners": 3583,
+        "region": "SU"
+      },
+      {
+        "city": "Surabaya",
+        "country": "ID",
+        "numberOfListeners": 3200,
+        "region": "JI"
+      }
+    ]
+  },
+  "worldRank": 0
+}

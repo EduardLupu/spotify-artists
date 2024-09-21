@@ -1,0 +1,41 @@
+{
+  "id": "4yiECzxhHtKuPaQ1erLdQy",
+  "name": "Ghost",
+  "followers": 510,
+  "monthlyListeners": 3351,
+  "topCities": {
+    "items": [
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 454,
+        "region": "TX"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 205,
+        "region": "CA"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 185,
+        "region": "AB"
+      },
+      {
+        "city": "Tower Hamlets",
+        "country": "GB",
+        "numberOfListeners": 160,
+        "region": "ENG"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 105,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

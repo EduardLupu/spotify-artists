@@ -1,0 +1,41 @@
+{
+  "id": "7sLejq7H0gfGlhiLUTs4ME",
+  "name": "MILKBLOOD",
+  "followers": 26719,
+  "monthlyListeners": 120759,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 1414,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1390,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1290,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 1207,
+        "region": "VIC"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 1124,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

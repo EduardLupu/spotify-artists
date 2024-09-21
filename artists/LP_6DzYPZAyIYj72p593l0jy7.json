@@ -1,0 +1,41 @@
+{
+  "id": "6DzYPZAyIYj72p593l0jy7",
+  "name": "LP",
+  "followers": 129,
+  "monthlyListeners": 231,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sacramento",
+        "country": "US",
+        "numberOfListeners": 6,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 5,
+        "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 5,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 5,
+        "region": "CA"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 4,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

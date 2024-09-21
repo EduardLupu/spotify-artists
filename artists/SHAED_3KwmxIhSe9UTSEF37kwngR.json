@@ -1,0 +1,41 @@
+{
+  "id": "3KwmxIhSe9UTSEF37kwngR",
+  "name": "SHAED",
+  "followers": 179269,
+  "monthlyListeners": 2952003,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 34417,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 32159,
+        "region": "SP"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 30929,
+        "region": "IDF"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 29598,
+        "region": "KA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 27276,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

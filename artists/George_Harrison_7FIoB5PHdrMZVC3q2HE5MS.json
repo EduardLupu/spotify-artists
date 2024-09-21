@@ -1,0 +1,41 @@
+{
+  "id": "7FIoB5PHdrMZVC3q2HE5MS",
+  "name": "George Harrison",
+  "followers": 2730433,
+  "monthlyListeners": 8656303,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 139374,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 134382,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 133134,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 116459,
+        "region": "VIC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 91808,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

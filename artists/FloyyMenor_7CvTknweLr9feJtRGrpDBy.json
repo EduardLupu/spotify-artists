@@ -1,0 +1,41 @@
+{
+  "id": "7CvTknweLr9feJtRGrpDBy",
+  "name": "FloyyMenor",
+  "followers": 869153,
+  "monthlyListeners": 35412336,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1927500,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 852549,
+        "region": "C"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 846371,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 746914,
+        "region": "LMA"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 639989,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 112
+}

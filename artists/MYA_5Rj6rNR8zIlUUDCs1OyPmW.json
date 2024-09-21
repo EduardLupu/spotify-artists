@@ -1,0 +1,41 @@
+{
+  "id": "5Rj6rNR8zIlUUDCs1OyPmW",
+  "name": "MYA",
+  "followers": 747083,
+  "monthlyListeners": 3372515,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 478370,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 246818,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 206802,
+        "region": "B"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 113892,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 105366,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

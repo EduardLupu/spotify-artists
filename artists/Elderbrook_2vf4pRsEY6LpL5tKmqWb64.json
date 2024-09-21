@@ -1,0 +1,41 @@
+{
+  "id": "2vf4pRsEY6LpL5tKmqWb64",
+  "name": "Elderbrook",
+  "followers": 453570,
+  "monthlyListeners": 8383642,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 178394,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 150367,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 132189,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 109790,
+        "region": "NH"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 106364,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

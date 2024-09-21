@@ -1,0 +1,41 @@
+{
+  "id": "7r2uG6BlFXKcwmh9ItqlII",
+  "name": "Wrabel",
+  "followers": 270357,
+  "monthlyListeners": 1505757,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 21409,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 19561,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 17902,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 16850,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 16602,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

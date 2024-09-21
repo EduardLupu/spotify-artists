@@ -1,0 +1,41 @@
+{
+  "id": "6xrCU6zdcSTsG2hLrojpmI",
+  "name": "José González",
+  "followers": 1160345,
+  "monthlyListeners": 5822618,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 159332,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 139579,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 94524,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 93568,
+        "region": "QLD"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 91402,
+        "region": "AB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

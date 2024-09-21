@@ -1,0 +1,41 @@
+{
+  "id": "6P7H3ai06vU1sGvdpBwDmE",
+  "name": "Steely Dan",
+  "followers": 2291431,
+  "monthlyListeners": 5631306,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 100703,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 97105,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 88462,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 80609,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 78349,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

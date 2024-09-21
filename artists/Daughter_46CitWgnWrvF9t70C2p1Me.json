@@ -1,0 +1,41 @@
+{
+  "id": "46CitWgnWrvF9t70C2p1Me",
+  "name": "Daughter",
+  "followers": 1370135,
+  "monthlyListeners": 2522881,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 45740,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 36205,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 33742,
+        "region": "VIC"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 23876,
+        "region": "BE"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 22359,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

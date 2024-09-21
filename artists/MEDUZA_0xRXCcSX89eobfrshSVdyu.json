@@ -1,0 +1,41 @@
+{
+  "id": "0xRXCcSX89eobfrshSVdyu",
+  "name": "MEDUZA",
+  "followers": 810259,
+  "monthlyListeners": 18133879,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 325687,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 247223,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 246717,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 239222,
+        "region": "NH"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 209919,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 424
+}

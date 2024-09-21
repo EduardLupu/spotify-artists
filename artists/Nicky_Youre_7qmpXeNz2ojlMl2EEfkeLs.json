@@ -1,0 +1,41 @@
+{
+  "id": "7qmpXeNz2ojlMl2EEfkeLs",
+  "name": "Nicky Youre",
+  "followers": 265659,
+  "monthlyListeners": 12275156,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 236698,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 183377,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 145522,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 125667,
+        "region": "QLD"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 122055,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 0
+}

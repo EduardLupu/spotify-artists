@@ -1,0 +1,41 @@
+{
+  "id": "0KdPDmQhHxBKsHNsQuh5ry",
+  "name": "Roberto Roena Y Su Apollo Sound",
+  "followers": 110090,
+  "monthlyListeners": 1405963,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 226230,
+        "region": "DC"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 112191,
+        "region": "ANT"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 69864,
+        "region": "LMA"
+      },
+      {
+        "city": "Santiago de Cali",
+        "country": "CO",
+        "numberOfListeners": 57431,
+        "region": "VAC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 55668,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

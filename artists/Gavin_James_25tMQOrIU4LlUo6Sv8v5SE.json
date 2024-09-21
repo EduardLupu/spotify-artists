@@ -1,0 +1,41 @@
+{
+  "id": "25tMQOrIU4LlUo6Sv8v5SE",
+  "name": "Gavin James",
+  "followers": 715578,
+  "monthlyListeners": 2309158,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 70717,
+        "region": "SP"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 43065,
+        "region": "JK"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 39785,
+        "region": "NH"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 37716,
+        "region": "L"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 26417,
+        "region": "03"
+      }
+    ]
+  },
+  "worldRank": 0
+}

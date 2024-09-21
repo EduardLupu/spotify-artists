@@ -1,0 +1,41 @@
+{
+  "id": "5dzOZikdYydnlbmBNOS24S",
+  "name": "teto",
+  "followers": 40395,
+  "monthlyListeners": 17968,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 4895,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 1635,
+        "region": "27"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 707,
+        "region": "13"
+      },
+      {
+        "city": "Nagoya",
+        "country": "JP",
+        "numberOfListeners": 511,
+        "region": "23"
+      },
+      {
+        "city": "Yokohama",
+        "country": "JP",
+        "numberOfListeners": 480,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

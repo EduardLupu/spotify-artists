@@ -1,0 +1,41 @@
+{
+  "id": "2wYZ0Xy8zsRv0ptnaVU9S0",
+  "name": "MGK",
+  "followers": 6689,
+  "monthlyListeners": 32705,
+  "topCities": {
+    "items": [
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 1389,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 1379,
+        "region": "HE"
+      },
+      {
+        "city": "Minsk",
+        "country": "BY",
+        "numberOfListeners": 1229,
+        "region": "HM"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 1219,
+        "region": "BW"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 1079,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

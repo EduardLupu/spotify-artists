@@ -1,0 +1,41 @@
+{
+  "id": "0MIG6gMcQTSvFbKvUwK0id",
+  "name": "Mata",
+  "followers": 1968286,
+  "monthlyListeners": 2414922,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 752366,
+        "region": "14"
+      },
+      {
+        "city": "Poznan",
+        "country": "PL",
+        "numberOfListeners": 251214,
+        "region": "30"
+      },
+      {
+        "city": "Krakow",
+        "country": "PL",
+        "numberOfListeners": 250852,
+        "region": "12"
+      },
+      {
+        "city": "Katowice",
+        "country": "PL",
+        "numberOfListeners": 246422,
+        "region": "24"
+      },
+      {
+        "city": "Wroclaw",
+        "country": "PL",
+        "numberOfListeners": 206353,
+        "region": "02"
+      }
+    ]
+  },
+  "worldRank": 0
+}

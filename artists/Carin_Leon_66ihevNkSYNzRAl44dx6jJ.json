@@ -1,0 +1,41 @@
+{
+  "id": "66ihevNkSYNzRAl44dx6jJ",
+  "name": "Carin Leon",
+  "followers": 12929944,
+  "monthlyListeners": 31343585,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 2333826,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1313861,
+        "region": "DC"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 1258814,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 1030554,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 990574,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 142
+}

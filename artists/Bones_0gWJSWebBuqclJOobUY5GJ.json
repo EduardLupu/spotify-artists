@@ -1,0 +1,41 @@
+{
+  "id": "0gWJSWebBuqclJOobUY5GJ",
+  "name": "Bones",
+  "followers": 11,
+  "monthlyListeners": 129,
+  "topCities": {
+    "items": [
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "CO"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 3,
+        "region": "VIC"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 3,
+        "region": "14"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 2,
+        "region": "HE"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 2,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5XQWXnMwsvuvCPMneXUbsy",
+  "name": "Marcianeke",
+  "followers": 1068840,
+  "monthlyListeners": 2856259,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 883085,
+        "region": "RM"
+      },
+      {
+        "city": "Concepción",
+        "country": "CL",
+        "numberOfListeners": 123031,
+        "region": "BI"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 100114,
+        "region": "C"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 88001,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 69232,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

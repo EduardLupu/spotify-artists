@@ -1,0 +1,41 @@
+{
+  "id": "6aZyMrc4doVtZyKNilOmwu",
+  "name": "Colbie Caillat",
+  "followers": 2514227,
+  "monthlyListeners": 7724171,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 221724,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 154056,
+        "region": "SP"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 128558,
+        "region": "00"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 107337,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 87690,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

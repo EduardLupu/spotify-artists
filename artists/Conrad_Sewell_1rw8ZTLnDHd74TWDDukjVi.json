@@ -1,0 +1,41 @@
+{
+  "id": "1rw8ZTLnDHd74TWDDukjVi",
+  "name": "Conrad Sewell",
+  "followers": 114354,
+  "monthlyListeners": 6125524,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 157053,
+        "region": "CMX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 97139,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 80885,
+        "region": "RM"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 80729,
+        "region": "VIC"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 74143,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

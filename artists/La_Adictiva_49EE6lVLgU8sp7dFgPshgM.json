@@ -1,0 +1,41 @@
+{
+  "id": "49EE6lVLgU8sp7dFgPshgM",
+  "name": "La Adictiva",
+  "followers": 6186862,
+  "monthlyListeners": 10848182,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1112853,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 592464,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 481828,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 468715,
+        "region": "PUE"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 438041,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

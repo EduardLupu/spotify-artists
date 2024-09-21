@@ -1,0 +1,41 @@
+{
+  "id": "5p7f24Rk5HkUZsaS3BLG5F",
+  "name": "Hailee Steinfeld",
+  "followers": 8815961,
+  "monthlyListeners": 7726794,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 195800,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 140648,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 113947,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 94041,
+        "region": "QLD"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 89358,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

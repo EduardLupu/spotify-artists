@@ -1,0 +1,41 @@
+{
+  "id": "12Chz98pHFMPJEknJQMWvI",
+  "name": "Muse",
+  "followers": 7937090,
+  "monthlyListeners": 16375697,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 306715,
+        "region": "CMX"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 299163,
+        "region": "ENG"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 289559,
+        "region": "JK"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 230382,
+        "region": "IDF"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 195844,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 497
+}

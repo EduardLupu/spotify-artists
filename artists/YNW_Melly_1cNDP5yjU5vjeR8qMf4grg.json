@@ -1,0 +1,41 @@
+{
+  "id": "1cNDP5yjU5vjeR8qMf4grg",
+  "name": "YNW Melly",
+  "followers": 10896941,
+  "monthlyListeners": 9516569,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 133650,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 125943,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 113949,
+        "region": "NSW"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 105819,
+        "region": "TX"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 101585,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

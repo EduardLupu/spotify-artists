@@ -1,0 +1,41 @@
+{
+  "id": "2FZbvgjOvl4K9FPIzvtVAk",
+  "name": "JOE",
+  "followers": 2966,
+  "monthlyListeners": 12673,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 2456,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 1052,
+        "region": "27"
+      },
+      {
+        "city": "Nagoya",
+        "country": "JP",
+        "numberOfListeners": 324,
+        "region": "23"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 317,
+        "region": "13"
+      },
+      {
+        "city": "Fukuoka",
+        "country": "JP",
+        "numberOfListeners": 247,
+        "region": "40"
+      }
+    ]
+  },
+  "worldRank": 0
+}

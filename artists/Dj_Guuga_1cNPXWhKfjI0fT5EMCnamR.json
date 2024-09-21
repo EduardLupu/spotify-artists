@@ -1,0 +1,41 @@
+{
+  "id": "1cNPXWhKfjI0fT5EMCnamR",
+  "name": "Dj Guuga",
+  "followers": 1022846,
+  "monthlyListeners": 3683456,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 415106,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 143916,
+        "region": "PR"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 139565,
+        "region": "DF"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 118557,
+        "region": "MG"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 115276,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

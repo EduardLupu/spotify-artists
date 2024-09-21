@@ -1,0 +1,41 @@
+{
+  "id": "6vWDO969PvNqNYHIOW5v0m",
+  "name": "Beyoncé",
+  "followers": 38587062,
+  "monthlyListeners": 54905842,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1032855,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 932583,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 770047,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 650460,
+        "region": "VIC"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 557064,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 36
+}

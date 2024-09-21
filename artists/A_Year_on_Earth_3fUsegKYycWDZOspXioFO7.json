@@ -1,0 +1,41 @@
+{
+  "id": "3fUsegKYycWDZOspXioFO7",
+  "name": "A Year on Earth",
+  "followers": 3351,
+  "monthlyListeners": 17175,
+  "topCities": {
+    "items": [
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 327,
+        "region": "GP"
+      },
+      {
+        "city": "Cape Town",
+        "country": "ZA",
+        "numberOfListeners": 278,
+        "region": "WC"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 200,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 192,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 183,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

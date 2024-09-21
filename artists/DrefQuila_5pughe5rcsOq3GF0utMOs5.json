@@ -1,0 +1,41 @@
+{
+  "id": "5pughe5rcsOq3GF0utMOs5",
+  "name": "DrefQuila",
+  "followers": 1038492,
+  "monthlyListeners": 3023174,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1264095,
+        "region": "RM"
+      },
+      {
+        "city": "Concepción",
+        "country": "CL",
+        "numberOfListeners": 190245,
+        "region": "BI"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 149968,
+        "region": "C"
+      },
+      {
+        "city": "Temuco",
+        "country": "CL",
+        "numberOfListeners": 104859,
+        "region": "AR"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 69617,
+        "region": "B"
+      }
+    ]
+  },
+  "worldRank": 0
+}

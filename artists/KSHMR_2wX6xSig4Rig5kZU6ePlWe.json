@@ -1,0 +1,41 @@
+{
+  "id": "2wX6xSig4Rig5kZU6ePlWe",
+  "name": "KSHMR",
+  "followers": 1774331,
+  "monthlyListeners": 5408967,
+  "topCities": {
+    "items": [
+      {
+        "city": "Kochi",
+        "country": "IN",
+        "numberOfListeners": 294024,
+        "region": "KL"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 135297,
+        "region": "MH"
+      },
+      {
+        "city": "Thrissur",
+        "country": "IN",
+        "numberOfListeners": 94053,
+        "region": "KL"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 85670,
+        "region": "JK"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 76287,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

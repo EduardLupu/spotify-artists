@@ -1,0 +1,41 @@
+{
+  "id": "3tLYpanVDomWAZqF82NPds",
+  "name": "Vigiland",
+  "followers": 259337,
+  "monthlyListeners": 1358372,
+  "topCities": {
+    "items": [
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 48343,
+        "region": "AB"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 28138,
+        "region": "03"
+      },
+      {
+        "city": "Gothenburg",
+        "country": "SE",
+        "numberOfListeners": 22955,
+        "region": "O"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 21319,
+        "region": "18"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 19314,
+        "region": "9"
+      }
+    ]
+  },
+  "worldRank": 0
+}

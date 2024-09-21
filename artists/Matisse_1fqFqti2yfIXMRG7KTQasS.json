@@ -1,0 +1,41 @@
+{
+  "id": "1fqFqti2yfIXMRG7KTQasS",
+  "name": "Matisse",
+  "followers": 215,
+  "monthlyListeners": 5515,
+  "topCities": {
+    "items": [
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 220,
+        "region": "PA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 152,
+        "region": "NY"
+      },
+      {
+        "city": "Calgary",
+        "country": "CA",
+        "numberOfListeners": 145,
+        "region": "AB"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 126,
+        "region": "ON"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 125,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

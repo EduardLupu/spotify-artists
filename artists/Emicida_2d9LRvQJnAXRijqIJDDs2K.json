@@ -1,0 +1,41 @@
+{
+  "id": "2d9LRvQJnAXRijqIJDDs2K",
+  "name": "Emicida",
+  "followers": 1860096,
+  "monthlyListeners": 2649382,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 528275,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 227653,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 122371,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 97752,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 89565,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6V3F8MZrOKdT9fU686ybE9",
+  "name": "Mark Morrison",
+  "followers": 114312,
+  "monthlyListeners": 7105036,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 155427,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 143767,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 118178,
+        "region": "VIC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 117567,
+        "region": "CA"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 103993,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

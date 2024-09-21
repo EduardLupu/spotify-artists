@@ -1,0 +1,41 @@
+{
+  "id": "4PzYKhC14sTJNEr0dzoo0d",
+  "name": "Luísa Sonza",
+  "followers": 6032758,
+  "monthlyListeners": 11873154,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1885949,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 926875,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 548803,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 444931,
+        "region": "SP"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 439525,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

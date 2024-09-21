@@ -1,0 +1,41 @@
+{
+  "id": "7tmMPdOmFvdRvbj2aWoiRi",
+  "name": "Jovanotti",
+  "followers": 2540364,
+  "monthlyListeners": 2255705,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 393091,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 190665,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 59350,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 57521,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 51885,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "25uiPmTg16RbhZWAqwLBy5",
+  "name": "Charli xcx",
+  "followers": 4068109,
+  "monthlyListeners": 41966872,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 994462,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 675593,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 619851,
+        "region": "VIC"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 590617,
+        "region": "NY"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 525829,
+        "region": "JK"
+      }
+    ]
+  },
+  "worldRank": 73
+}

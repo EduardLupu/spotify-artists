@@ -1,0 +1,41 @@
+{
+  "id": "6RZUqkomCmb8zCRqc9eznB",
+  "name": "Placebo",
+  "followers": 1959078,
+  "monthlyListeners": 3280590,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 101184,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 91619,
+        "region": "RM"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 64921,
+        "region": "ENG"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 51819,
+        "region": "IDF"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 45595,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

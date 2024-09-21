@@ -1,0 +1,41 @@
+{
+  "id": "20SRUI2dEQ24r2w8BbDedq",
+  "name": "Mika Ben",
+  "followers": 1453,
+  "monthlyListeners": 2171,
+  "topCities": {
+    "items": [
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 282,
+        "region": "QC"
+      },
+      {
+        "city": "Miami",
+        "country": "US",
+        "numberOfListeners": 110,
+        "region": "FL"
+      },
+      {
+        "city": "Port-au-Prince",
+        "country": "HT",
+        "numberOfListeners": 103,
+        "region": "OU"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 88,
+        "region": "IDF"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 75,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

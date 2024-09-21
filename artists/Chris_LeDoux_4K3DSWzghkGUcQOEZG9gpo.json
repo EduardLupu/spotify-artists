@@ -1,0 +1,41 @@
+{
+  "id": "4K3DSWzghkGUcQOEZG9gpo",
+  "name": "Chris LeDoux",
+  "followers": 512847,
+  "monthlyListeners": 768215,
+  "topCities": {
+    "items": [
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 22797,
+        "region": "CO"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 18397,
+        "region": "TX"
+      },
+      {
+        "city": "Salt Lake City",
+        "country": "US",
+        "numberOfListeners": 14876,
+        "region": "UT"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 14729,
+        "region": "WA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 12695,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

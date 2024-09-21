@@ -1,0 +1,41 @@
+{
+  "id": "6RTC1abMgBC7Krg6qJQHJh",
+  "name": "Duman",
+  "followers": 5778149,
+  "monthlyListeners": 3709572,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 1252784,
+        "region": "34"
+      },
+      {
+        "city": "Ankara",
+        "country": "TR",
+        "numberOfListeners": 660906,
+        "region": "06"
+      },
+      {
+        "city": "Izmir",
+        "country": "TR",
+        "numberOfListeners": 478919,
+        "region": "35"
+      },
+      {
+        "city": "Bursa",
+        "country": "TR",
+        "numberOfListeners": 238367,
+        "region": "16"
+      },
+      {
+        "city": "Adana",
+        "country": "TR",
+        "numberOfListeners": 201784,
+        "region": "01"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2kqUKsTuEj1lPbm6BSn1AU",
+  "name": "Rich Music LTD",
+  "followers": 318488,
+  "monthlyListeners": 3843848,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 250951,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 205892,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 160595,
+        "region": "CMX"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 153972,
+        "region": "C"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 146498,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

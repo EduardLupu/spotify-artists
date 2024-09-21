@@ -1,0 +1,41 @@
+{
+  "id": "6GfiCQDFYANz5wUkSmb3Dr",
+  "name": "Thousand Foot Krutch",
+  "followers": 1374077,
+  "monthlyListeners": 4168384,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 59911,
+        "region": "SP"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 38418,
+        "region": "10"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 33993,
+        "region": "BE"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 32999,
+        "region": "IL"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 29738,
+        "region": "HE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0qTZZWLzuD59Un5r1speHm",
+  "name": "Chris Jedi",
+  "followers": 2614854,
+  "monthlyListeners": 8577845,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 484402,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 338859,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 268345,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 257290,
+        "region": "C"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 249179,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

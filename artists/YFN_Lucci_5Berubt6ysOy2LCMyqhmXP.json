@@ -1,0 +1,41 @@
+{
+  "id": "5Berubt6ysOy2LCMyqhmXP",
+  "name": "YFN Lucci",
+  "followers": 2516411,
+  "monthlyListeners": 1198005,
+  "topCities": {
+    "items": [
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 33502,
+        "region": "GA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 28471,
+        "region": "TX"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 26913,
+        "region": "IL"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 25741,
+        "region": "NC"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 25683,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

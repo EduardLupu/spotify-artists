@@ -1,0 +1,41 @@
+{
+  "id": "4dnPDc045bVjibyATxVUOs",
+  "name": "Marcynho Sensação",
+  "followers": 1252332,
+  "monthlyListeners": 1898429,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 252520,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 76133,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 74899,
+        "region": "MG"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 67184,
+        "region": "DF"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 58588,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3bvfu2KAve4lPHrhEFDZna",
+  "name": "Lola Indigo",
+  "followers": 1328581,
+  "monthlyListeners": 8369657,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 903624,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 548475,
+        "region": "CT"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 262153,
+        "region": "C"
+      },
+      {
+        "city": "Valencia",
+        "country": "ES",
+        "numberOfListeners": 245312,
+        "region": "VC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 240746,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3iUePhgjeXC4Ifz2Xu6sRR",
+  "name": "Arcane",
+  "followers": 95,
+  "monthlyListeners": 16566,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 878,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 819,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 508,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 446,
+        "region": "BY"
+      },
+      {
+        "city": "Cologne",
+        "country": "DE",
+        "numberOfListeners": 348,
+        "region": "NW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

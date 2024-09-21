@@ -1,0 +1,41 @@
+{
+  "id": "1dID9zgn0OV0Y8ud7Mh2tS",
+  "name": "Dustin Lynch",
+  "followers": 2406071,
+  "monthlyListeners": 7403960,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 213821,
+        "region": "SP"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 117052,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 99715,
+        "region": "NSW"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 93767,
+        "region": "MG"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 92649,
+        "region": "NC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5YwzDz4RJfTiMHS4tdR5Lf",
+  "name": "Xamã",
+  "followers": 3125143,
+  "monthlyListeners": 7875013,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1271523,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 823425,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 400485,
+        "region": "MG"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 280796,
+        "region": "RS"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 276549,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

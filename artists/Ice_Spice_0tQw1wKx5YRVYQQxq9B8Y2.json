@@ -1,0 +1,41 @@
+{
+  "id": "0tQw1wKx5YRVYQQxq9B8Y2",
+  "name": "Ice Spice",
+  "followers": 186,
+  "monthlyListeners": 1399,
+  "topCities": {
+    "items": [
+      {
+        "city": "Zagreb",
+        "country": "HR",
+        "numberOfListeners": 89,
+        "region": "21"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 69,
+        "region": "9"
+      },
+      {
+        "city": "Belgrade",
+        "country": "RS",
+        "numberOfListeners": 63,
+        "region": "00"
+      },
+      {
+        "city": "Ljubljana",
+        "country": "SI",
+        "numberOfListeners": 48,
+        "region": "061"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 38,
+        "region": "BY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

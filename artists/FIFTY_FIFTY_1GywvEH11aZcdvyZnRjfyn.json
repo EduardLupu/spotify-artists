@@ -1,0 +1,41 @@
+{
+  "id": "1GywvEH11aZcdvyZnRjfyn",
+  "name": "FIFTY FIFTY",
+  "followers": 822,
+  "monthlyListeners": 181067,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 5107,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 3223,
+        "region": "NSW"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 2940,
+        "region": "13"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 2490,
+        "region": "VIC"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 2335,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 0
+}

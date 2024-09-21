@@ -1,0 +1,41 @@
+{
+  "id": "48wqXzcBy1h0LWFgficXv6",
+  "name": "Rigopolar",
+  "followers": 6944,
+  "monthlyListeners": 29339,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1026,
+        "region": "CMX"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 749,
+        "region": "BE"
+      },
+      {
+        "city": "Vilnius",
+        "country": "LT",
+        "numberOfListeners": 560,
+        "region": "VL"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 551,
+        "region": "IDF"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 485,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

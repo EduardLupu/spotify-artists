@@ -1,0 +1,41 @@
+{
+  "id": "5i2CDjwlcp76dgdGADwhEG",
+  "name": "Jet",
+  "followers": 160,
+  "monthlyListeners": 187,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 6,
+        "region": "BE"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 5,
+        "region": "ENG"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 4,
+        "region": "ON"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 4,
+        "region": "ANT"
+      },
+      {
+        "city": "Austin",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

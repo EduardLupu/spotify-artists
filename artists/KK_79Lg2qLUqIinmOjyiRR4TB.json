@@ -1,0 +1,41 @@
+{
+  "id": "79Lg2qLUqIinmOjyiRR4TB",
+  "name": "KK",
+  "followers": 15,
+  "monthlyListeners": 736,
+  "topCities": {
+    "items": [
+      {
+        "city": "Guwahati",
+        "country": "IN",
+        "numberOfListeners": 138,
+        "region": "AS"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 50,
+        "region": "WB"
+      },
+      {
+        "city": "Patna",
+        "country": "IN",
+        "numberOfListeners": 47,
+        "region": "BR"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 35,
+        "region": "MH"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 31,
+        "region": "MH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6xr6rAsOspJmI2xwc2oTWi",
+  "name": "Lissa Subira",
+  "followers": 11716,
+  "monthlyListeners": 13019,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1744,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 689,
+        "region": "RJ"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 688,
+        "region": "PR"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 484,
+        "region": "MG"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 479,
+        "region": "DF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0e86yPdC41PGRkLp2Q1Bph",
+  "name": "Mother Mother",
+  "followers": 4164357,
+  "monthlyListeners": 8112238,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 86436,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 79644,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 79293,
+        "region": "RM"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 78884,
+        "region": "IL"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 69742,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

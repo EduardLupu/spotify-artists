@@ -1,0 +1,41 @@
+{
+  "id": "0Y3agQaa6g2r0YmHPOO9rh",
+  "name": "Davido",
+  "followers": 5605410,
+  "monthlyListeners": 7610943,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 648309,
+        "region": "LA"
+      },
+      {
+        "city": "Abuja",
+        "country": "NG",
+        "numberOfListeners": 302676,
+        "region": "FC"
+      },
+      {
+        "city": "Port Harcourt",
+        "country": "NG",
+        "numberOfListeners": 231122,
+        "region": "RI"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 205511,
+        "region": "ENG"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 179098,
+        "region": "GP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

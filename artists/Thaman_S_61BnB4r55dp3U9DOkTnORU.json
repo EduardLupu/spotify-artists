@@ -1,0 +1,41 @@
+{
+  "id": "61BnB4r55dp3U9DOkTnORU",
+  "name": "Thaman S",
+  "followers": 23,
+  "monthlyListeners": 3575,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 2836,
+        "region": "KA"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 153,
+        "region": "TS"
+      },
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 99,
+        "region": "TN"
+      },
+      {
+        "city": "Kochi",
+        "country": "IN",
+        "numberOfListeners": 73,
+        "region": "KL"
+      },
+      {
+        "city": "Mangalore",
+        "country": "IN",
+        "numberOfListeners": 49,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

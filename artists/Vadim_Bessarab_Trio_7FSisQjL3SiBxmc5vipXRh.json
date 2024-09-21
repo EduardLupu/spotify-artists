@@ -1,0 +1,41 @@
+{
+  "id": "7FSisQjL3SiBxmc5vipXRh",
+  "name": "Vadim Bessarab Trio",
+  "followers": 86,
+  "monthlyListeners": 21,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 1,
+        "region": "14"
+      },
+      {
+        "city": "Lviv",
+        "country": "UA",
+        "numberOfListeners": 1,
+        "region": "46"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 1,
+        "region": "CT"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "HDF"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 1,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

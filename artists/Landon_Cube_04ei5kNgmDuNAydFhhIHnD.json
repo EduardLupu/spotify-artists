@@ -1,0 +1,41 @@
+{
+  "id": "04ei5kNgmDuNAydFhhIHnD",
+  "name": "Landon Cube",
+  "followers": 374889,
+  "monthlyListeners": 1550020,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 28535,
+        "region": "IL"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 19420,
+        "region": "AZ"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 18606,
+        "region": "CA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 17490,
+        "region": "TX"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 17471,
+        "region": "PA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

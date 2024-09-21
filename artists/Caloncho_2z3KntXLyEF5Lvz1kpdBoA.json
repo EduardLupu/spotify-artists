@@ -1,0 +1,41 @@
+{
+  "id": "2z3KntXLyEF5Lvz1kpdBoA",
+  "name": "Caloncho",
+  "followers": 849371,
+  "monthlyListeners": 3150570,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 342261,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 155150,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 126458,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 111485,
+        "region": "PUE"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 110851,
+        "region": "QUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

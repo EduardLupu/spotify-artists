@@ -1,0 +1,41 @@
+{
+  "id": "1Z8ODXyhEBi3WynYw0Rya6",
+  "name": "De La Soul",
+  "followers": 1035712,
+  "monthlyListeners": 2747342,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 71689,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 41607,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 38310,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 38041,
+        "region": "NH"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 37627,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

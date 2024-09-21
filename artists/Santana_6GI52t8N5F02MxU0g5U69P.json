@@ -1,0 +1,41 @@
+{
+  "id": "6GI52t8N5F02MxU0g5U69P",
+  "name": "Santana",
+  "followers": 3449911,
+  "monthlyListeners": 13656690,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 200500,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 185471,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 170195,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 143262,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 142496,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

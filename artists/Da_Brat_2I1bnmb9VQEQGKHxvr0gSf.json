@@ -1,0 +1,41 @@
+{
+  "id": "2I1bnmb9VQEQGKHxvr0gSf",
+  "name": "Da Brat",
+  "followers": 586976,
+  "monthlyListeners": 503462,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 10921,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 9226,
+        "region": "NSW"
+      },
+      {
+        "city": "Auckland",
+        "country": "NZ",
+        "numberOfListeners": 8589,
+        "region": "AUK"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 7273,
+        "region": "GP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 6514,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

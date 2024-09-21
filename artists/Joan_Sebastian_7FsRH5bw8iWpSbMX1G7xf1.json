@@ -1,0 +1,41 @@
+{
+  "id": "7FsRH5bw8iWpSbMX1G7xf1",
+  "name": "Joan Sebastian",
+  "followers": 10405549,
+  "monthlyListeners": 13209425,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1241949,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 730675,
+        "region": "JAL"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 516766,
+        "region": "PUE"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 513185,
+        "region": "QUE"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 512214,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

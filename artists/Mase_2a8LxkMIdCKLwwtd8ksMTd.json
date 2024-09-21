@@ -1,0 +1,41 @@
+{
+  "id": "2a8LxkMIdCKLwwtd8ksMTd",
+  "name": "Mase",
+  "followers": 59,
+  "monthlyListeners": 513,
+  "topCities": {
+    "items": [
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 82,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 64,
+        "region": "ENG"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 60,
+        "region": "ENG"
+      },
+      {
+        "city": "Leeds",
+        "country": "GB",
+        "numberOfListeners": 25,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 18,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

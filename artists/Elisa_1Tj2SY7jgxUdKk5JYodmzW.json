@@ -1,0 +1,41 @@
+{
+  "id": "1Tj2SY7jgxUdKk5JYodmzW",
+  "name": "Elisa",
+  "followers": 359,
+  "monthlyListeners": 12660,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bucharest",
+        "country": "RO",
+        "numberOfListeners": 1792,
+        "region": "B"
+      },
+      {
+        "city": "Cluj-Napoca",
+        "country": "RO",
+        "numberOfListeners": 504,
+        "region": "CJ"
+      },
+      {
+        "city": "Iasi",
+        "country": "RO",
+        "numberOfListeners": 432,
+        "region": "IS"
+      },
+      {
+        "city": "Timișoara",
+        "country": "RO",
+        "numberOfListeners": 424,
+        "region": "TM"
+      },
+      {
+        "city": "Chisinau",
+        "country": "MD",
+        "numberOfListeners": 327,
+        "region": "CU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

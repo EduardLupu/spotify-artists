@@ -1,0 +1,41 @@
+{
+  "id": "6M6LWvHKgBle8SUtSpq6SU",
+  "name": "iamalex",
+  "followers": 16638,
+  "monthlyListeners": 878268,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 9775,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 9266,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 8700,
+        "region": "SP"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 8494,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 8107,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

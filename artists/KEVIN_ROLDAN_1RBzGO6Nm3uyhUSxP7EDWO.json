@@ -1,0 +1,41 @@
+{
+  "id": "1RBzGO6Nm3uyhUSxP7EDWO",
+  "name": "KEVIN ROLDAN",
+  "followers": 5629804,
+  "monthlyListeners": 7079562,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 907683,
+        "region": "DC"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 503059,
+        "region": "ANT"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 415198,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 308178,
+        "region": "RM"
+      },
+      {
+        "city": "Santiago de Cali",
+        "country": "CO",
+        "numberOfListeners": 261796,
+        "region": "VAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

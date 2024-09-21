@@ -1,0 +1,41 @@
+{
+  "id": "6AcOTCYBMvjKYy4zms0kaC",
+  "name": "Banda El Recodo",
+  "followers": 3913747,
+  "monthlyListeners": 8409490,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 825431,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 514685,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 338558,
+        "region": "QUE"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 329782,
+        "region": "CMX"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 326324,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

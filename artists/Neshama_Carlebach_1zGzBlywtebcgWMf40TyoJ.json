@@ -1,0 +1,41 @@
+{
+  "id": "1zGzBlywtebcgWMf40TyoJ",
+  "name": "Neshama Carlebach",
+  "followers": 4633,
+  "monthlyListeners": 8609,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tel Aviv",
+        "country": "IL",
+        "numberOfListeners": 835,
+        "region": "TA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 263,
+        "region": "NY"
+      },
+      {
+        "city": "Jerusalem",
+        "country": "IL",
+        "numberOfListeners": 259,
+        "region": "JM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 191,
+        "region": "DC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 189,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

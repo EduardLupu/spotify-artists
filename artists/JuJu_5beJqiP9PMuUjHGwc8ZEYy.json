@@ -1,0 +1,41 @@
+{
+  "id": "5beJqiP9PMuUjHGwc8ZEYy",
+  "name": "JuJu",
+  "followers": 329,
+  "monthlyListeners": 269,
+  "topCities": {
+    "items": [
+      {
+        "city": "Portland",
+        "country": "US",
+        "numberOfListeners": 13,
+        "region": "OR"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 10,
+        "region": "WA"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 5,
+        "region": "PA"
+      },
+      {
+        "city": "Vancouver",
+        "country": "US",
+        "numberOfListeners": 4,
+        "region": "WA"
+      },
+      {
+        "city": "Sacramento",
+        "country": "US",
+        "numberOfListeners": 4,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

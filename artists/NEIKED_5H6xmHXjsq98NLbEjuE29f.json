@@ -1,0 +1,41 @@
+{
+  "id": "5H6xmHXjsq98NLbEjuE29f",
+  "name": "NEIKED",
+  "followers": 175359,
+  "monthlyListeners": 3008058,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 68250,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 58427,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 55567,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 44659,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 30502,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

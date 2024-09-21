@@ -1,0 +1,41 @@
+{
+  "id": "2gUMs9PE8XZVQyzCDqaYmW",
+  "name": "High School Musical Cast",
+  "followers": 1402867,
+  "monthlyListeners": 4368226,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 82725,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 62123,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 59976,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 58983,
+        "region": "VIC"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 37272,
+        "region": "00"
+      }
+    ]
+  },
+  "worldRank": 0
+}

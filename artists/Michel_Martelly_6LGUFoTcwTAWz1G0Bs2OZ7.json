@@ -1,0 +1,41 @@
+{
+  "id": "6LGUFoTcwTAWz1G0Bs2OZ7",
+  "name": "Michel Martelly",
+  "followers": 23630,
+  "monthlyListeners": 28095,
+  "topCities": {
+    "items": [
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 2239,
+        "region": "QC"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 2135,
+        "region": "IDF"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 1219,
+        "region": "NY"
+      },
+      {
+        "city": "Miami",
+        "country": "US",
+        "numberOfListeners": 1114,
+        "region": "FL"
+      },
+      {
+        "city": "Port-au-Prince",
+        "country": "HT",
+        "numberOfListeners": 878,
+        "region": "OU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6gezkje7GoJlQbHBgLXHuu",
+  "name": "Destiny Rogers",
+  "followers": 183283,
+  "monthlyListeners": 1104289,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 36238,
+        "region": "JK"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 26122,
+        "region": "10"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 17061,
+        "region": "00"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 12867,
+        "region": "14"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 11400,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

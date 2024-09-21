@@ -1,0 +1,41 @@
+{
+  "id": "60df5JBRRPcnSpsIMxxwQm",
+  "name": "Otis Redding",
+  "followers": 2293199,
+  "monthlyListeners": 12278303,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 238511,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 198747,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 164872,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 146983,
+        "region": "NH"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 130472,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

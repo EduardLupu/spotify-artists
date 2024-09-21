@@ -1,0 +1,41 @@
+{
+  "id": "6jR0LD6soZjSHUjyzI6X8m",
+  "name": "Bronco",
+  "followers": 587,
+  "monthlyListeners": 104,
+  "topCities": {
+    "items": [
+      {
+        "city": "Zurich",
+        "country": "CH",
+        "numberOfListeners": 5,
+        "region": "ZH"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 4,
+        "region": "NC"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 4,
+        "region": "9"
+      },
+      {
+        "city": "Milwaukee",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "WI"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

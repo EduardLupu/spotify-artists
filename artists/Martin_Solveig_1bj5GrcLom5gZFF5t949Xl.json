@@ -1,0 +1,41 @@
+{
+  "id": "1bj5GrcLom5gZFF5t949Xl",
+  "name": "Martin Solveig",
+  "followers": 1178628,
+  "monthlyListeners": 5085549,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 135912,
+        "region": "ENG"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 95586,
+        "region": "IDF"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 74759,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 61637,
+        "region": "VIC"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 58469,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1MzXJ8AaHdidMAnjgcahS4",
+  "name": "Delacruz",
+  "followers": 2608981,
+  "monthlyListeners": 6580638,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1067852,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 728838,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 325227,
+        "region": "MG"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 227770,
+        "region": "RS"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 218216,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

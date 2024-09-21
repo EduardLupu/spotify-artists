@@ -1,0 +1,41 @@
+{
+  "id": "14H15rElxdGClICOZXEYHP",
+  "name": "MoStack",
+  "followers": 501899,
+  "monthlyListeners": 990400,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 138147,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 50489,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 44488,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 42597,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 22907,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

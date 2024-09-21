@@ -1,0 +1,41 @@
+{
+  "id": "7CyeXFnOrfC1N6z4naIpgo",
+  "name": "The Ronettes",
+  "followers": 320816,
+  "monthlyListeners": 6040487,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 90093,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 70347,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 64360,
+        "region": "VIC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 58696,
+        "region": "CA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 50383,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

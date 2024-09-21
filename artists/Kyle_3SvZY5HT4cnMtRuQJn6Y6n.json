@@ -1,0 +1,41 @@
+{
+  "id": "3SvZY5HT4cnMtRuQJn6Y6n",
+  "name": "Kyle",
+  "followers": 14,
+  "monthlyListeners": 16,
+  "topCities": {
+    "items": [
+      {
+        "city": "Shreveport",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "LA"
+      },
+      {
+        "city": "Macomb",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "IL"
+      },
+      {
+        "city": "Chapel Hill",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "NC"
+      },
+      {
+        "city": "Urbana",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "IL"
+      },
+      {
+        "city": "Tucson",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "AZ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

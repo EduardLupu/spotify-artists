@@ -1,0 +1,41 @@
+{
+  "id": "0dCaAdesbMJ9yOzru8mcy5",
+  "name": "LEA",
+  "followers": 1325,
+  "monthlyListeners": 6901,
+  "topCities": {
+    "items": [
+      {
+        "city": "Belgrade",
+        "country": "RS",
+        "numberOfListeners": 1659,
+        "region": "00"
+      },
+      {
+        "city": "Zagreb",
+        "country": "HR",
+        "numberOfListeners": 473,
+        "region": "21"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 286,
+        "region": "9"
+      },
+      {
+        "city": "Sarajevo",
+        "country": "BA",
+        "numberOfListeners": 129,
+        "region": "BIH"
+      },
+      {
+        "city": "Skopje",
+        "country": "MK",
+        "numberOfListeners": 127,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "43niWwvn8OX1HmJLXu4aLV",
+  "name": "Monster High",
+  "followers": 422578,
+  "monthlyListeners": 915773,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 10579,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 10112,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 9930,
+        "region": "ENG"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 9428,
+        "region": "14"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 9119,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

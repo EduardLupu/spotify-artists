@@ -1,0 +1,41 @@
+{
+  "id": "4nDoRrQiYLoBzwC5BhVJzF",
+  "name": "Camila Cabello",
+  "followers": 33755004,
+  "monthlyListeners": 43733907,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1047005,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 501668,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 437445,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 431378,
+        "region": "ENG"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 398180,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 65
+}

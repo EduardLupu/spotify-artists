@@ -1,0 +1,41 @@
+{
+  "id": "06Q5VlSAku57lFzyME3HrM",
+  "name": "Ke Personajes",
+  "followers": 3918485,
+  "monthlyListeners": 12832597,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1681647,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1441619,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 810272,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 746424,
+        "region": "B"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 351765,
+        "region": "X"
+      }
+    ]
+  },
+  "worldRank": 0
+}

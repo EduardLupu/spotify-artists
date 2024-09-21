@@ -1,0 +1,41 @@
+{
+  "id": "0ZwkOkCk6Ow2Mayne9rkPd",
+  "name": "IVE",
+  "followers": 1846,
+  "monthlyListeners": 925,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 69,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 67,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 55,
+        "region": "HE"
+      },
+      {
+        "city": "Cologne",
+        "country": "DE",
+        "numberOfListeners": 35,
+        "region": "NW"
+      },
+      {
+        "city": "Leipzig",
+        "country": "DE",
+        "numberOfListeners": 25,
+        "region": "SN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

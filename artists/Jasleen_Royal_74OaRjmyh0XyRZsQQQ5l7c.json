@@ -1,0 +1,41 @@
+{
+  "id": "74OaRjmyh0XyRZsQQQ5l7c",
+  "name": "Jasleen Royal",
+  "followers": 2273250,
+  "monthlyListeners": 13592958,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1315582,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1157025,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 829896,
+        "region": "DL"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 767025,
+        "region": "KA"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 687245,
+        "region": "DL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

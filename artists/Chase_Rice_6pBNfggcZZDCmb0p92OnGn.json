@@ -1,0 +1,41 @@
+{
+  "id": "6pBNfggcZZDCmb0p92OnGn",
+  "name": "Chase Rice",
+  "followers": 1187806,
+  "monthlyListeners": 2433891,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 51215,
+        "region": "IL"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 40391,
+        "region": "NC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 40034,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 38910,
+        "region": "QLD"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 36178,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

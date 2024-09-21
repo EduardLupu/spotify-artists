@@ -1,0 +1,41 @@
+{
+  "id": "51XrH5fQP2oIQynuKxSWcW",
+  "name": "Sky Rompiendo",
+  "followers": 229359,
+  "monthlyListeners": 8975540,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 478739,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 354738,
+        "region": "RM"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 302772,
+        "region": "MD"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 268065,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 262260,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

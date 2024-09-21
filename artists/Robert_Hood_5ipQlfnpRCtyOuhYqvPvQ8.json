@@ -1,0 +1,41 @@
+{
+  "id": "5ipQlfnpRCtyOuhYqvPvQ8",
+  "name": "Robert Hood",
+  "followers": 68964,
+  "monthlyListeners": 72713,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 2344,
+        "region": "BE"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 1693,
+        "region": "NH"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1657,
+        "region": "ENG"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 1225,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 1188,
+        "region": "BRU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3dN9MQpjIyNxyeRfz4EDZe",
+  "name": "Rochak Kohli",
+  "followers": 1033222,
+  "monthlyListeners": 15577510,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1481990,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1373344,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1130064,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 913111,
+        "region": "DL"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 828837,
+        "region": "WB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

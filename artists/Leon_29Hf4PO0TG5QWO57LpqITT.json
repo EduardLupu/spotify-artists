@@ -1,0 +1,41 @@
+{
+  "id": "29Hf4PO0TG5QWO57LpqITT",
+  "name": "Leon",
+  "followers": 49,
+  "monthlyListeners": 139,
+  "topCities": {
+    "items": [
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 55,
+        "region": "AB"
+      },
+      {
+        "city": "Gothenburg",
+        "country": "SE",
+        "numberOfListeners": 12,
+        "region": "O"
+      },
+      {
+        "city": "Malmo",
+        "country": "SE",
+        "numberOfListeners": 6,
+        "region": "M"
+      },
+      {
+        "city": "Solna",
+        "country": "SE",
+        "numberOfListeners": 6,
+        "region": "AB"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 4,
+        "region": "03"
+      }
+    ]
+  },
+  "worldRank": 0
+}

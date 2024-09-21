@@ -1,0 +1,41 @@
+{
+  "id": "4opU6MEEnDF28zEMpqsFRc",
+  "name": "Loudhouse",
+  "followers": 19373,
+  "monthlyListeners": 46081,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 927,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 900,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 751,
+        "region": "ENG"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 602,
+        "region": "L"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 564,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

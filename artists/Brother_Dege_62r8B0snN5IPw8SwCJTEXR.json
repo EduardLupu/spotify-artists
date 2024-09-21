@@ -1,0 +1,41 @@
+{
+  "id": "62r8B0snN5IPw8SwCJTEXR",
+  "name": "Brother Dege",
+  "followers": 64377,
+  "monthlyListeners": 326458,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 4184,
+        "region": "IDF"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 4125,
+        "region": "10"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 3503,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 3416,
+        "region": "NSW"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 3364,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

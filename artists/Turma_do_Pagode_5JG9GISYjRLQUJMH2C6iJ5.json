@@ -1,0 +1,41 @@
+{
+  "id": "5JG9GISYjRLQUJMH2C6iJ5",
+  "name": "Turma do Pagode",
+  "followers": 3264380,
+  "monthlyListeners": 5915737,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1139682,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 483689,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 298721,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 278962,
+        "region": "SP"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 278053,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

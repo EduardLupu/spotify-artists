@@ -1,0 +1,41 @@
+{
+  "id": "7wgrXbrp9RJQMri26GZgyH",
+  "name": "Uzielito Mix",
+  "followers": 666205,
+  "monthlyListeners": 5203162,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 844618,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 433026,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 397291,
+        "region": "CMX"
+      },
+      {
+        "city": "Cuauhtémoc",
+        "country": "MX",
+        "numberOfListeners": 310897,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 275598,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

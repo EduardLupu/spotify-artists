@@ -1,0 +1,41 @@
+{
+  "id": "6iVZjzQSsPC4iuI1JUV2Zs",
+  "name": "coldoutlay",
+  "followers": 5586,
+  "monthlyListeners": 119327,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 2113,
+        "region": "NY"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 2110,
+        "region": "CA"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 1961,
+        "region": "GA"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 1948,
+        "region": "ON"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1905,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

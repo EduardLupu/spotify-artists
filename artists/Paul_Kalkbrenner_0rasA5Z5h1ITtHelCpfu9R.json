@@ -1,0 +1,41 @@
+{
+  "id": "0rasA5Z5h1ITtHelCpfu9R",
+  "name": "Paul Kalkbrenner",
+  "followers": 1247059,
+  "monthlyListeners": 3039091,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 145809,
+        "region": "BE"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 86457,
+        "region": "BRU"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 77928,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 72858,
+        "region": "BY"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 71114,
+        "region": "25"
+      }
+    ]
+  },
+  "worldRank": 0
+}

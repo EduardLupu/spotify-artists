@@ -1,0 +1,41 @@
+{
+  "id": "4PULA4EFzYTrxYvOVlwpiQ",
+  "name": "Sidhu Moose Wala",
+  "followers": 35338744,
+  "monthlyListeners": 9574418,
+  "topCities": {
+    "items": [
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1069926,
+        "region": "DL"
+      },
+      {
+        "city": "Ludhiana",
+        "country": "IN",
+        "numberOfListeners": 1044146,
+        "region": "PB"
+      },
+      {
+        "city": "Chandigarh",
+        "country": "IN",
+        "numberOfListeners": 828925,
+        "region": "CH"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 826723,
+        "region": "DL"
+      },
+      {
+        "city": "Jaipur",
+        "country": "IN",
+        "numberOfListeners": 568140,
+        "region": "RJ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

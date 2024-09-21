@@ -1,0 +1,41 @@
+{
+  "id": "31nq78o8KzJuAV8IOSgtgy",
+  "name": "Anwar El Amir",
+  "followers": 1006,
+  "monthlyListeners": 622,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 30,
+        "region": "NSW"
+      },
+      {
+        "city": "Cairo",
+        "country": "EG",
+        "numberOfListeners": 22,
+        "region": "C"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 19,
+        "region": "VIC"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 18,
+        "region": "AB"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 17,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

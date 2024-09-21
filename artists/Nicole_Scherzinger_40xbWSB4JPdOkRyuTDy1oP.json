@@ -1,0 +1,41 @@
+{
+  "id": "40xbWSB4JPdOkRyuTDy1oP",
+  "name": "Nicole Scherzinger",
+  "followers": 2417488,
+  "monthlyListeners": 2850363,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 67926,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 57636,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 48345,
+        "region": "VIC"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 40590,
+        "region": "JK"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 35026,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

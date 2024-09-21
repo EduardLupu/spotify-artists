@@ -1,0 +1,41 @@
+{
+  "id": "5ROpMg3PeQnZ9RRIaAqNUB",
+  "name": "Mana",
+  "followers": 1247,
+  "monthlyListeners": 1997,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 47,
+        "region": "SP"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 30,
+        "region": "13"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 28,
+        "region": "CT"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 26,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 21,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

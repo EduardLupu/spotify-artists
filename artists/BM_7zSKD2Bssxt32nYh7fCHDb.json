@@ -1,0 +1,41 @@
+{
+  "id": "7zSKD2Bssxt32nYh7fCHDb",
+  "name": "BM",
+  "followers": 1116,
+  "monthlyListeners": 230,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 27,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 18,
+        "region": "ZH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 9,
+        "region": "UT"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 5,
+        "region": "BRU"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 4,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2Sqr0DXoaYABbjBo9HaMkM",
+  "name": "Sara Bareilles",
+  "followers": 1946596,
+  "monthlyListeners": 5903269,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 109100,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 97651,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 95483,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 75310,
+        "region": "NY"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 70857,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

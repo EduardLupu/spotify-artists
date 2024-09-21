@@ -1,0 +1,41 @@
+{
+  "id": "2JwyRtuXf2l6sTnSnGVIa1",
+  "name": "Farid Bang",
+  "followers": 845273,
+  "monthlyListeners": 1651136,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 149349,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 130220,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 121904,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 99650,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 95305,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

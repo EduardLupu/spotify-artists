@@ -1,0 +1,41 @@
+{
+  "id": "3ATyg4fGC9F8trfb0GRWmX",
+  "name": "Joey Montana",
+  "followers": 2673978,
+  "monthlyListeners": 2548782,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 236582,
+        "region": "LMA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 107487,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 107090,
+        "region": "DC"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 62486,
+        "region": "GU"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 60952,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

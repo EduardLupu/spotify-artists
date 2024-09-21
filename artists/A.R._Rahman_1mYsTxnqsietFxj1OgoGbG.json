@@ -1,0 +1,41 @@
+{
+  "id": "1mYsTxnqsietFxj1OgoGbG",
+  "name": "A.R. Rahman",
+  "followers": 52332755,
+  "monthlyListeners": 36599538,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 4187237,
+        "region": "TN"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 3185141,
+        "region": "MH"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 3009363,
+        "region": "TS"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 2507306,
+        "region": "KA"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 2363552,
+        "region": "MH"
+      }
+    ]
+  },
+  "worldRank": 101
+}

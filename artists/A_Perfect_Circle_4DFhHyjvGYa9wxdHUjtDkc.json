@@ -1,0 +1,41 @@
+{
+  "id": "4DFhHyjvGYa9wxdHUjtDkc",
+  "name": "A Perfect Circle",
+  "followers": 1899212,
+  "monthlyListeners": 2003932,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 36287,
+        "region": "RM"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 29397,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 27231,
+        "region": "TX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 26646,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 26219,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

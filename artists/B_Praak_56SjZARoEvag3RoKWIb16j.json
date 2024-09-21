@@ -1,0 +1,41 @@
+{
+  "id": "56SjZARoEvag3RoKWIb16j",
+  "name": "B Praak",
+  "followers": 11919154,
+  "monthlyListeners": 15401567,
+  "topCities": {
+    "items": [
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1306460,
+        "region": "DL"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1197619,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1083235,
+        "region": "MH"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 1037565,
+        "region": "DL"
+      },
+      {
+        "city": "Jaipur",
+        "country": "IN",
+        "numberOfListeners": 727648,
+        "region": "RJ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

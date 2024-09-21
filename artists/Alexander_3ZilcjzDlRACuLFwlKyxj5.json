@@ -1,0 +1,41 @@
+{
+  "id": "3ZilcjzDlRACuLFwlKyxj5",
+  "name": "Alexander",
+  "followers": 103,
+  "monthlyListeners": 601,
+  "topCities": {
+    "items": [
+      {
+        "city": "Copenhagen",
+        "country": "DK",
+        "numberOfListeners": 107,
+        "region": "84"
+      },
+      {
+        "city": "Frederiksberg",
+        "country": "DK",
+        "numberOfListeners": 51,
+        "region": "84"
+      },
+      {
+        "city": "Aalborg",
+        "country": "DK",
+        "numberOfListeners": 13,
+        "region": "81"
+      },
+      {
+        "city": "Aarhus",
+        "country": "DK",
+        "numberOfListeners": 11,
+        "region": "82"
+      },
+      {
+        "city": "Rødovre Municipality",
+        "country": "DK",
+        "numberOfListeners": 10,
+        "region": "84"
+      }
+    ]
+  },
+  "worldRank": 0
+}

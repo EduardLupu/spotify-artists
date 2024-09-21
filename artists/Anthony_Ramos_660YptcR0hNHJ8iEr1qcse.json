@@ -1,0 +1,41 @@
+{
+  "id": "660YptcR0hNHJ8iEr1qcse",
+  "name": "Anthony Ramos",
+  "followers": 154054,
+  "monthlyListeners": 636268,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 12237,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 10470,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 9728,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 7944,
+        "region": "IL"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 7554,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

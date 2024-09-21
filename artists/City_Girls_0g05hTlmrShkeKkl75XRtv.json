@@ -1,0 +1,41 @@
+{
+  "id": "0g05hTlmrShkeKkl75XRtv",
+  "name": "City Girls",
+  "followers": 1609,
+  "monthlyListeners": 3336,
+  "topCities": {
+    "items": [
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 1070,
+        "region": "TPE"
+      },
+      {
+        "city": "Taichung",
+        "country": "TW",
+        "numberOfListeners": 464,
+        "region": "TXG"
+      },
+      {
+        "city": "New Taipei City",
+        "country": "TW",
+        "numberOfListeners": 375,
+        "region": "NWT"
+      },
+      {
+        "city": "Kaohsiung",
+        "country": "TW",
+        "numberOfListeners": 353,
+        "region": "KHH"
+      },
+      {
+        "city": "Taoyuan District",
+        "country": "TW",
+        "numberOfListeners": 173,
+        "region": "TAO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

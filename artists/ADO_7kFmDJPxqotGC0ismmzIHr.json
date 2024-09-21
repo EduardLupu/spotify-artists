@@ -1,0 +1,41 @@
+{
+  "id": "7kFmDJPxqotGC0ismmzIHr",
+  "name": "ADO",
+  "followers": 179,
+  "monthlyListeners": 224,
+  "topCities": {
+    "items": [
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 7,
+        "region": ""
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 6,
+        "region": "VIC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 5,
+        "region": "CA"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 4,
+        "region": "13"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 4,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

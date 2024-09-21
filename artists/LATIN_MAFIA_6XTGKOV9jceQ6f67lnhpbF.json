@@ -1,0 +1,41 @@
+{
+  "id": "6XTGKOV9jceQ6f67lnhpbF",
+  "name": "LATIN MAFIA",
+  "followers": 1098157,
+  "monthlyListeners": 6391699,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 570417,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 253565,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 246456,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 215949,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 207387,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

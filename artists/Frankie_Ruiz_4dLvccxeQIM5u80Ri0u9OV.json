@@ -1,0 +1,41 @@
+{
+  "id": "4dLvccxeQIM5u80Ri0u9OV",
+  "name": "Frankie Ruiz",
+  "followers": 1607553,
+  "monthlyListeners": 6536827,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 600651,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 449679,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 387455,
+        "region": "LMA"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 272606,
+        "region": "ANT"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 211429,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

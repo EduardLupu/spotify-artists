@@ -1,0 +1,41 @@
+{
+  "id": "4sbXXFzEWJY2zsZjelerjX",
+  "name": "Dadju",
+  "followers": 6571203,
+  "monthlyListeners": 6924923,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 961177,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 252773,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 197717,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 159371,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 151355,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

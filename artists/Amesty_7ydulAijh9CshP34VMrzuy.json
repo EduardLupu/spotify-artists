@@ -1,0 +1,41 @@
+{
+  "id": "7ydulAijh9CshP34VMrzuy",
+  "name": "Amesty",
+  "followers": 1048,
+  "monthlyListeners": 30076,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1996,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1489,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 1171,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 997,
+        "region": "CMX"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 741,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

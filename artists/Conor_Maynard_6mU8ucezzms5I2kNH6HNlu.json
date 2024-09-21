@@ -1,0 +1,41 @@
+{
+  "id": "6mU8ucezzms5I2kNH6HNlu",
+  "name": "Conor Maynard",
+  "followers": 2096958,
+  "monthlyListeners": 4872857,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 114068,
+        "region": "JK"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 88258,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 66266,
+        "region": "ZH"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 64144,
+        "region": ""
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 62951,
+        "region": "13"
+      }
+    ]
+  },
+  "worldRank": 0
+}

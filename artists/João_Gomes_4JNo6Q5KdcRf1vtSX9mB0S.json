@@ -1,0 +1,41 @@
+{
+  "id": "4JNo6Q5KdcRf1vtSX9mB0S",
+  "name": "João Gomes",
+  "followers": 7372434,
+  "monthlyListeners": 7721777,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1140304,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 461537,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 374467,
+        "region": "MG"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 300888,
+        "region": "DF"
+      },
+      {
+        "city": "Fortaleza",
+        "country": "BR",
+        "numberOfListeners": 274339,
+        "region": "CE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

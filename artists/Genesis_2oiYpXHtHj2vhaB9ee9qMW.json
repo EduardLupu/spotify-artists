@@ -1,0 +1,41 @@
+{
+  "id": "2oiYpXHtHj2vhaB9ee9qMW",
+  "name": "Genesis",
+  "followers": 1489,
+  "monthlyListeners": 788,
+  "topCities": {
+    "items": [
+      {
+        "city": "San Juan",
+        "country": "US",
+        "numberOfListeners": 90,
+        "region": "PR"
+      },
+      {
+        "city": "Bayamón",
+        "country": "US",
+        "numberOfListeners": 33,
+        "region": "PR"
+      },
+      {
+        "city": "Orlando",
+        "country": "US",
+        "numberOfListeners": 21,
+        "region": "FL"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 14,
+        "region": "PA"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 9,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

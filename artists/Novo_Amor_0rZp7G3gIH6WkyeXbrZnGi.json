@@ -1,0 +1,41 @@
+{
+  "id": "0rZp7G3gIH6WkyeXbrZnGi",
+  "name": "Novo Amor",
+  "followers": 1194981,
+  "monthlyListeners": 8116691,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 190601,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 92304,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 90420,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 89788,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 79391,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

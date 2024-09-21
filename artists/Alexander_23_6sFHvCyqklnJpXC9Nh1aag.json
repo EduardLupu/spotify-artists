@@ -1,0 +1,41 @@
+{
+  "id": "6sFHvCyqklnJpXC9Nh1aag",
+  "name": "Alexander 23",
+  "followers": 442118,
+  "monthlyListeners": 3073862,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 92868,
+        "region": "JK"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 44321,
+        "region": ""
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 36760,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 32566,
+        "region": "VIC"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 30377,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

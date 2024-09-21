@@ -1,0 +1,41 @@
+{
+  "id": "4FpJcNgOvIpSBeJgRg3OfN",
+  "name": "Orelsan",
+  "followers": 2437037,
+  "monthlyListeners": 2799124,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 513471,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 136281,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 111477,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 87262,
+        "region": "HDF"
+      },
+      {
+        "city": "Nantes",
+        "country": "FR",
+        "numberOfListeners": 72066,
+        "region": "PDL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

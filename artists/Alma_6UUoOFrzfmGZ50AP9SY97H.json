@@ -1,0 +1,41 @@
+{
+  "id": "6UUoOFrzfmGZ50AP9SY97H",
+  "name": "Alma",
+  "followers": 13661,
+  "monthlyListeners": 36158,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 2985,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 1050,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 700,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 475,
+        "region": "HDF"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 464,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

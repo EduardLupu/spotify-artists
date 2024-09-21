@@ -1,0 +1,41 @@
+{
+  "id": "3plJVWt88EqjvtuB4ZDRV3",
+  "name": "Ben E. King",
+  "followers": 620328,
+  "monthlyListeners": 11410225,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 145067,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 143986,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 120951,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 117535,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 116785,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

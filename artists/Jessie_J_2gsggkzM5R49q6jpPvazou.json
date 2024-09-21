@@ -1,0 +1,41 @@
+{
+  "id": "2gsggkzM5R49q6jpPvazou",
+  "name": "Jessie J",
+  "followers": 11726471,
+  "monthlyListeners": 16085470,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 465893,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 226734,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 219740,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 211916,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 179537,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

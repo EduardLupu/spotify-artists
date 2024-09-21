@@ -1,0 +1,41 @@
+{
+  "id": "3GBBxBdoolb0B5YizZq9bF",
+  "name": "Eno",
+  "followers": 681430,
+  "monthlyListeners": 1887204,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 164295,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 150814,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 143040,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 111656,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 111365,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

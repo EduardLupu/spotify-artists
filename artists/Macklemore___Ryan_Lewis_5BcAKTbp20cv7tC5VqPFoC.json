@@ -1,0 +1,41 @@
+{
+  "id": "5BcAKTbp20cv7tC5VqPFoC",
+  "name": "Macklemore & Ryan Lewis",
+  "followers": 2566917,
+  "monthlyListeners": 19597202,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 276534,
+        "region": "IDF"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 269835,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 233696,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 215747,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 196559,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 374
+}

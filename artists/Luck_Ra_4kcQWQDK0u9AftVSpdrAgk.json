@@ -1,0 +1,41 @@
+{
+  "id": "4kcQWQDK0u9AftVSpdrAgk",
+  "name": "Luck Ra",
+  "followers": 1649649,
+  "monthlyListeners": 10803207,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1918974,
+        "region": "C"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 904488,
+        "region": "B"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 760910,
+        "region": "RM"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 449112,
+        "region": "X"
+      },
+      {
+        "city": "Montevideo",
+        "country": "UY",
+        "numberOfListeners": 303631,
+        "region": "MO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

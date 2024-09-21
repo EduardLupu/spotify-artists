@@ -1,0 +1,41 @@
+{
+  "id": "20wkVLutqVOYrc0kxFs7rA",
+  "name": "Daniel Caesar",
+  "followers": 6638546,
+  "monthlyListeners": 29083536,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1569116,
+        "region": "JK"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 583194,
+        "region": "00"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 458532,
+        "region": "SP"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 389720,
+        "region": "CA"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 376289,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 169
+}

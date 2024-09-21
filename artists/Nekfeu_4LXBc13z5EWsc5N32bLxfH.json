@@ -1,0 +1,41 @@
+{
+  "id": "4LXBc13z5EWsc5N32bLxfH",
+  "name": "Nekfeu",
+  "followers": 2781432,
+  "monthlyListeners": 2971077,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 615318,
+        "region": "IDF"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 139470,
+        "region": "ARA"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 137256,
+        "region": "BRU"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 109737,
+        "region": "HDF"
+      },
+      {
+        "city": "Bordeaux",
+        "country": "FR",
+        "numberOfListeners": 96647,
+        "region": "NAQ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

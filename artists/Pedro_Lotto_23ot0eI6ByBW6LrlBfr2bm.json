@@ -1,0 +1,41 @@
+{
+  "id": "23ot0eI6ByBW6LrlBfr2bm",
+  "name": "Pedro Lotto",
+  "followers": 85890,
+  "monthlyListeners": 6977636,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1349408,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 569469,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 356347,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 302778,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 273108,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

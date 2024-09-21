@@ -1,0 +1,41 @@
+{
+  "id": "6FOpWOxsjQxKEbLiJpU1xV",
+  "name": "India Martinez",
+  "followers": 984229,
+  "monthlyListeners": 3379320,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 246181,
+        "region": "MD"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 134615,
+        "region": "RM"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 132523,
+        "region": "CT"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 96702,
+        "region": "C"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 69255,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

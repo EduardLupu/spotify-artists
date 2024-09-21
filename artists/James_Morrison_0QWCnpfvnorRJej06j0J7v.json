@@ -1,0 +1,41 @@
+{
+  "id": "0QWCnpfvnorRJej06j0J7v",
+  "name": "James Morrison",
+  "followers": 18031,
+  "monthlyListeners": 17793,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 1153,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 895,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 471,
+        "region": "QLD"
+      },
+      {
+        "city": "Perth",
+        "country": "AU",
+        "numberOfListeners": 227,
+        "region": "WA"
+      },
+      {
+        "city": "Adelaide",
+        "country": "AU",
+        "numberOfListeners": 219,
+        "region": "SA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4ehtJnVumNf6xzSCDk8aLB",
+  "name": "Martin Jensen",
+  "followers": 1279696,
+  "monthlyListeners": 4232463,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 60600,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 58685,
+        "region": "NSW"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 58225,
+        "region": "AB"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 49069,
+        "region": "03"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 46506,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

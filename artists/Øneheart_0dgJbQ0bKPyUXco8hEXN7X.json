@@ -1,0 +1,41 @@
+{
+  "id": "0dgJbQ0bKPyUXco8hEXN7X",
+  "name": "Øneheart",
+  "followers": 800085,
+  "monthlyListeners": 8363769,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 157684,
+        "region": "JK"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 96444,
+        "region": "34"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 72927,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 67748,
+        "region": "RM"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 61648,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

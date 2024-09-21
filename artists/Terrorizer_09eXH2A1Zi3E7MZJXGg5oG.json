@@ -1,0 +1,41 @@
+{
+  "id": "09eXH2A1Zi3E7MZJXGg5oG",
+  "name": "Terrorizer",
+  "followers": 101617,
+  "monthlyListeners": 89867,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 2675,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1532,
+        "region": "DC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1351,
+        "region": "SP"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 1210,
+        "region": "CA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1165,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

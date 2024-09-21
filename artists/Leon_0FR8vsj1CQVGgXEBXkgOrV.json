@@ -1,0 +1,41 @@
+{
+  "id": "0FR8vsj1CQVGgXEBXkgOrV",
+  "name": "Leon",
+  "followers": 5671,
+  "monthlyListeners": 69904,
+  "topCities": {
+    "items": [
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 34555,
+        "region": "14"
+      },
+      {
+        "city": "Petaling Jaya",
+        "country": "MY",
+        "numberOfListeners": 8343,
+        "region": "10"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 6503,
+        "region": ""
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 4007,
+        "region": "JK"
+      },
+      {
+        "city": "Puchong Batu Dua Belas",
+        "country": "MY",
+        "numberOfListeners": 2899,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

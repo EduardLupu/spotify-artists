@@ -1,0 +1,41 @@
+{
+  "id": "6yhD1KjhLxIETFF7vIRf8B",
+  "name": "Against The Current",
+  "followers": 511333,
+  "monthlyListeners": 4202104,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 74694,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 42595,
+        "region": "SP"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 36116,
+        "region": "KA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 33542,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 32744,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

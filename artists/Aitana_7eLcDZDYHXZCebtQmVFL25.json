@@ -1,0 +1,41 @@
+{
+  "id": "7eLcDZDYHXZCebtQmVFL25",
+  "name": "Aitana",
+  "followers": 3071906,
+  "monthlyListeners": 10526203,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 667018,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 395207,
+        "region": "CT"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 379165,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 363672,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 273658,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

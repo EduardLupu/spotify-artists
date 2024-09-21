@@ -1,0 +1,41 @@
+{
+  "id": "0QrUbsrL5imqntAfDl8i7q",
+  "name": "Fred De Palma",
+  "followers": 1074162,
+  "monthlyListeners": 2429033,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 379244,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 160275,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 58841,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 57794,
+        "region": "21"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 56338,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

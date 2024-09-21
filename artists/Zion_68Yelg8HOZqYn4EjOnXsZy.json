@@ -1,0 +1,41 @@
+{
+  "id": "68Yelg8HOZqYn4EjOnXsZy",
+  "name": "Zion",
+  "followers": 21854,
+  "monthlyListeners": 1305376,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 238804,
+        "region": "RM"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 61577,
+        "region": "GU"
+      },
+      {
+        "city": "Asunción",
+        "country": "PY",
+        "numberOfListeners": 59363,
+        "region": "ASU"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 55457,
+        "region": "C"
+      },
+      {
+        "city": "Guayaquil",
+        "country": "EC",
+        "numberOfListeners": 41086,
+        "region": "G"
+      }
+    ]
+  },
+  "worldRank": 0
+}

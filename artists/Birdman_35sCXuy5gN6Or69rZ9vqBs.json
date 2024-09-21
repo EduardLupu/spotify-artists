@@ -1,0 +1,41 @@
+{
+  "id": "35sCXuy5gN6Or69rZ9vqBs",
+  "name": "Birdman",
+  "followers": 1302416,
+  "monthlyListeners": 1860263,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 43843,
+        "region": "TX"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 38455,
+        "region": "IL"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 37393,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 34023,
+        "region": "NC"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 32412,
+        "region": "GA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

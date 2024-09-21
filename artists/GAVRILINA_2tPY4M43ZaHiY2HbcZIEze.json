@@ -1,0 +1,41 @@
+{
+  "id": "2tPY4M43ZaHiY2HbcZIEze",
+  "name": "GAVRILINA",
+  "followers": 205767,
+  "monthlyListeners": 142880,
+  "topCities": {
+    "items": [
+      {
+        "city": "Minsk",
+        "country": "BY",
+        "numberOfListeners": 12477,
+        "region": "HM"
+      },
+      {
+        "city": "Kyiv",
+        "country": "UA",
+        "numberOfListeners": 6487,
+        "region": "30"
+      },
+      {
+        "city": "Riga",
+        "country": "LV",
+        "numberOfListeners": 3692,
+        "region": "RIX"
+      },
+      {
+        "city": "Almaty",
+        "country": "KZ",
+        "numberOfListeners": 3421,
+        "region": "75"
+      },
+      {
+        "city": "Dnipro",
+        "country": "UA",
+        "numberOfListeners": 3236,
+        "region": "12"
+      }
+    ]
+  },
+  "worldRank": 0
+}

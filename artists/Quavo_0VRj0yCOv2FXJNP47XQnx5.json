@@ -1,0 +1,41 @@
+{
+  "id": "0VRj0yCOv2FXJNP47XQnx5",
+  "name": "Quavo",
+  "followers": 7569950,
+  "monthlyListeners": 21309977,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 246741,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 241959,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 231001,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 228124,
+        "region": "NY"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 225989,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 332
+}

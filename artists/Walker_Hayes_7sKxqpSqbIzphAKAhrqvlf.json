@@ -1,0 +1,41 @@
+{
+  "id": "7sKxqpSqbIzphAKAhrqvlf",
+  "name": "Walker Hayes",
+  "followers": 674670,
+  "monthlyListeners": 4767951,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 95498,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 92976,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 76446,
+        "region": "IL"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 75536,
+        "region": "ON"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 68923,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3ypWcEX9hymG6lC2dcREgk",
+  "name": "Genesis",
+  "followers": 225,
+  "monthlyListeners": 957,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 326,
+        "region": "DC"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 124,
+        "region": "ANT"
+      },
+      {
+        "city": "Santiago de Cali",
+        "country": "CO",
+        "numberOfListeners": 35,
+        "region": "VAC"
+      },
+      {
+        "city": "Barranquilla",
+        "country": "CO",
+        "numberOfListeners": 23,
+        "region": "ATL"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 12,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

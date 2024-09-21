@@ -1,0 +1,41 @@
+{
+  "id": "6Ff53KvcvAj5U7Z1vojB5o",
+  "name": "*NSYNC",
+  "followers": 2601056,
+  "monthlyListeners": 28468722,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 750814,
+        "region": "JK"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 378931,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 335547,
+        "region": "SP"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 335277,
+        "region": "14"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 322290,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 179
+}

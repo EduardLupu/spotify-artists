@@ -1,0 +1,41 @@
+{
+  "id": "7An4yvF7hDYDolN4m5zKBp",
+  "name": "Soda Stereo",
+  "followers": 8998945,
+  "monthlyListeners": 10459269,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 938550,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 678646,
+        "region": "C"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 633097,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 444020,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 426878,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

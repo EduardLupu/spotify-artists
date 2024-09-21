@@ -1,0 +1,41 @@
+{
+  "id": "1kDGbuxWknIKx4FlgWxiSp",
+  "name": "Nothing But Thieves",
+  "followers": 1217357,
+  "monthlyListeners": 3575045,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 119284,
+        "region": "NH"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 114731,
+        "region": "ENG"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 85388,
+        "region": "ZH"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 47141,
+        "region": "BRU"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 46419,
+        "region": "UT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

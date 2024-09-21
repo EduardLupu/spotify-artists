@@ -1,0 +1,41 @@
+{
+  "id": "7lbSsjYACZHn1MSDXPxNF2",
+  "name": "Hikaru Utada",
+  "followers": 3589698,
+  "monthlyListeners": 4928097,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 730023,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 264450,
+        "region": "27"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 122417,
+        "region": "13"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 108577,
+        "region": "TPE"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 99055,
+        "region": "JK"
+      }
+    ]
+  },
+  "worldRank": 0
+}

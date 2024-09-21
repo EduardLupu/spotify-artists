@@ -1,0 +1,41 @@
+{
+  "id": "12PSlydMSjEHzSCj9X5qv7",
+  "name": "Baby Bash",
+  "followers": 959514,
+  "monthlyListeners": 4984901,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 111573,
+        "region": "CA"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 97527,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 93923,
+        "region": "NSW"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 78229,
+        "region": "AZ"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 70750,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7gOdHgIoIKoe4i9Tta6qdD",
+  "name": "Jonas Brothers",
+  "followers": 7656712,
+  "monthlyListeners": 17230195,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 232450,
+        "region": "NSW"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 216998,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 209939,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 196733,
+        "region": "VIC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 163927,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 468
+}

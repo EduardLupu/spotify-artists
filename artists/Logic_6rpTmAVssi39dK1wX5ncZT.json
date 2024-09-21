@@ -1,0 +1,41 @@
+{
+  "id": "6rpTmAVssi39dK1wX5ncZT",
+  "name": "Logic",
+  "followers": 35653,
+  "monthlyListeners": 26620,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1164,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 422,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 387,
+        "region": "NH"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 370,
+        "region": "VIC"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 357,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

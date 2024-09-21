@@ -1,0 +1,41 @@
+{
+  "id": "3jNkaOXasoc7RsxdchvEVq",
+  "name": "Chase & Status",
+  "followers": 1019178,
+  "monthlyListeners": 9256582,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 888172,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 319510,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 306935,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 286907,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 243638,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

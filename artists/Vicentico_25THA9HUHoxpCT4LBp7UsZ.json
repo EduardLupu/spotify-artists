@@ -1,0 +1,41 @@
+{
+  "id": "25THA9HUHoxpCT4LBp7UsZ",
+  "name": "Vicentico",
+  "followers": 1630381,
+  "monthlyListeners": 3320017,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 334489,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 212504,
+        "region": "CMX"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 199198,
+        "region": "C"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 115771,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 104059,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

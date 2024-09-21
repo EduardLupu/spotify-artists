@@ -1,0 +1,41 @@
+{
+  "id": "1bfl0AU8SqmLkElptOprhC",
+  "name": "Julión Álvarez y su Norteño Banda",
+  "followers": 6313013,
+  "monthlyListeners": 16454545,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1856299,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 1004451,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 843159,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 796182,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 776509,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 493
+}

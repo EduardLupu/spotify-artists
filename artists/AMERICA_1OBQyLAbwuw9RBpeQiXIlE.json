@@ -1,0 +1,41 @@
+{
+  "id": "1OBQyLAbwuw9RBpeQiXIlE",
+  "name": "AMERICA",
+  "followers": 410,
+  "monthlyListeners": 112,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 15,
+        "region": "25"
+      },
+      {
+        "city": "Brescia",
+        "country": "IT",
+        "numberOfListeners": 4,
+        "region": "25"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 4,
+        "region": "21"
+      },
+      {
+        "city": "Parma",
+        "country": "IT",
+        "numberOfListeners": 3,
+        "region": "45"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 3,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

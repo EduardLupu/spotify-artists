@@ -1,0 +1,41 @@
+{
+  "id": "4wLXwxDeWQ8mtUIRPxGiD6",
+  "name": "Marc Anthony",
+  "followers": 9919803,
+  "monthlyListeners": 11530206,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 601541,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 531342,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 461291,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 403094,
+        "region": "LMA"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 276079,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

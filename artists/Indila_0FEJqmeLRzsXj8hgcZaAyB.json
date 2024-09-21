@@ -1,0 +1,41 @@
+{
+  "id": "0FEJqmeLRzsXj8hgcZaAyB",
+  "name": "Indila",
+  "followers": 2021163,
+  "monthlyListeners": 10732465,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 307156,
+        "region": "JK"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 175411,
+        "region": "34"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 173289,
+        "region": "IDF"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 117625,
+        "region": "BE"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 116414,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

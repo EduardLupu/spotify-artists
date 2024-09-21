@@ -1,0 +1,41 @@
+{
+  "id": "1bprfZyzfeDtGHBcoRJzxK",
+  "name": "Disturbed",
+  "followers": 340,
+  "monthlyListeners": 158,
+  "topCities": {
+    "items": [
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 4,
+        "region": "NY"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 4,
+        "region": "WA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "NY"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

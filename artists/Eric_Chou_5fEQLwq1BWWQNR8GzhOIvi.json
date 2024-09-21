@@ -1,0 +1,41 @@
+{
+  "id": "5fEQLwq1BWWQNR8GzhOIvi",
+  "name": "Eric Chou",
+  "followers": 1527197,
+  "monthlyListeners": 1845053,
+  "topCities": {
+    "items": [
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 284898,
+        "region": ""
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 279727,
+        "region": "TPE"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 160904,
+        "region": "14"
+      },
+      {
+        "city": "Taichung",
+        "country": "TW",
+        "numberOfListeners": 126094,
+        "region": "TXG"
+      },
+      {
+        "city": "New Taipei City",
+        "country": "TW",
+        "numberOfListeners": 120788,
+        "region": "NWT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

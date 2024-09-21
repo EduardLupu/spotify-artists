@@ -1,0 +1,41 @@
+{
+  "id": "7ewEap8eGcW04L5dhd9zB4",
+  "name": "Aurora",
+  "followers": 86,
+  "monthlyListeners": 312,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 12,
+        "region": "25"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 9,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 4,
+        "region": "JAL"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 4,
+        "region": "JAL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 4,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7buQheR7CfANvdRHoRAub4",
+  "name": "Trevor Poole",
+  "followers": 2177,
+  "monthlyListeners": 63099,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 668,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 574,
+        "region": "NSW"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 540,
+        "region": "TPE"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 515,
+        "region": "VIC"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 479,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

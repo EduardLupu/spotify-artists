@@ -1,0 +1,41 @@
+{
+  "id": "1K2PVoys3mzMWNafujmJvi",
+  "name": "Boza",
+  "followers": 675,
+  "monthlyListeners": 1690,
+  "topCities": {
+    "items": [
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 270,
+        "region": "AB"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 225,
+        "region": "CA"
+      },
+      {
+        "city": "Tower Hamlets",
+        "country": "GB",
+        "numberOfListeners": 207,
+        "region": "ENG"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 171,
+        "region": "14"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 153,
+        "region": "HE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

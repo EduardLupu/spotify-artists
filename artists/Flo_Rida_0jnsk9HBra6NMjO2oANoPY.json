@@ -1,0 +1,41 @@
+{
+  "id": "0jnsk9HBra6NMjO2oANoPY",
+  "name": "Flo Rida",
+  "followers": 8632401,
+  "monthlyListeners": 31048244,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 446411,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 409395,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 366603,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 322229,
+        "region": "SP"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 315726,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 145
+}

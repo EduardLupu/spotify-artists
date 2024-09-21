@@ -1,0 +1,41 @@
+{
+  "id": "13UfNcNfBVluLz2d0J6y6v",
+  "name": "Symon Dice",
+  "followers": 6632,
+  "monthlyListeners": 84959,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 8689,
+        "region": "DC"
+      },
+      {
+        "city": "San José",
+        "country": "CR",
+        "numberOfListeners": 4185,
+        "region": "SJ"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 4052,
+        "region": "ANT"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 3663,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 3188,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

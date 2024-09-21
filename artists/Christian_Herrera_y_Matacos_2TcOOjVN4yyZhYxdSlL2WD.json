@@ -1,0 +1,41 @@
+{
+  "id": "2TcOOjVN4yyZhYxdSlL2WD",
+  "name": "Christian Herrera y Matacos",
+  "followers": 23903,
+  "monthlyListeners": 230568,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 51040,
+        "region": "C"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 20851,
+        "region": "B"
+      },
+      {
+        "city": "San Miguel de Tucumán",
+        "country": "AR",
+        "numberOfListeners": 18889,
+        "region": "T"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 16808,
+        "region": "X"
+      },
+      {
+        "city": "Salta",
+        "country": "AR",
+        "numberOfListeners": 10384,
+        "region": "A"
+      }
+    ]
+  },
+  "worldRank": 0
+}

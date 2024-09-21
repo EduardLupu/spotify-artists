@@ -1,0 +1,41 @@
+{
+  "id": "6TcnmlCSxihzWOQJ8k0rNS",
+  "name": "Third Eye Blind",
+  "followers": 1612314,
+  "monthlyListeners": 5866091,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 110405,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 102128,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 90305,
+        "region": "VIC"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 88857,
+        "region": "NY"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 82884,
+        "region": "PA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

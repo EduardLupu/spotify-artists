@@ -1,0 +1,41 @@
+{
+  "id": "4SpbR6yFEvexJuaBpgAU5p",
+  "name": "LE SSERAFIM",
+  "followers": 5749142,
+  "monthlyListeners": 14490818,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 695565,
+        "region": "JK"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 511899,
+        "region": "13"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 293417,
+        "region": "14"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 289959,
+        "region": "10"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 251289,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "55kkrbuMkdzPGD7YGA6xrJ",
+  "name": "Gurlez Akhtar",
+  "followers": 383594,
+  "monthlyListeners": 4276817,
+  "topCities": {
+    "items": [
+      {
+        "city": "Ludhiana",
+        "country": "IN",
+        "numberOfListeners": 796048,
+        "region": "PB"
+      },
+      {
+        "city": "Chandigarh",
+        "country": "IN",
+        "numberOfListeners": 586488,
+        "region": "CH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 457396,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 339940,
+        "region": "DL"
+      },
+      {
+        "city": "Jaipur",
+        "country": "IN",
+        "numberOfListeners": 276030,
+        "region": "RJ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7LvoDJUNGnOrPdGRzVtOJ9",
+  "name": "Young M.A",
+  "followers": 1502752,
+  "monthlyListeners": 2230727,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 43806,
+        "region": "LA"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 37517,
+        "region": "ON"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 34778,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 34191,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 33689,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

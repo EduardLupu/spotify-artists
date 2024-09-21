@@ -1,0 +1,41 @@
+{
+  "id": "7okSU80WTrn4LXlyXYbX3P",
+  "name": "Clinton Kane",
+  "followers": 907473,
+  "monthlyListeners": 3971593,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 93503,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 60605,
+        "region": "NSW"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 53308,
+        "region": ""
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 50548,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 43563,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

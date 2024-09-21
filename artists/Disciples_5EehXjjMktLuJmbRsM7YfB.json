@@ -1,0 +1,41 @@
+{
+  "id": "5EehXjjMktLuJmbRsM7YfB",
+  "name": "Disciples",
+  "followers": 242434,
+  "monthlyListeners": 9069368,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 153117,
+        "region": "34"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 142855,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 137835,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 115969,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 115362,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

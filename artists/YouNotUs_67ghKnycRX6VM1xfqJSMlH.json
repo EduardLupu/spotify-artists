@@ -1,0 +1,41 @@
+{
+  "id": "67ghKnycRX6VM1xfqJSMlH",
+  "name": "YouNotUs",
+  "followers": 69888,
+  "monthlyListeners": 4183135,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 134590,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 110172,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 99765,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 98549,
+        "region": "BY"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 87252,
+        "region": "9"
+      }
+    ]
+  },
+  "worldRank": 0
+}

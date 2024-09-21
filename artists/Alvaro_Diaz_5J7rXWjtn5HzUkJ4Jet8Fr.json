@@ -1,0 +1,41 @@
+{
+  "id": "5J7rXWjtn5HzUkJ4Jet8Fr",
+  "name": "Alvaro Diaz",
+  "followers": 884078,
+  "monthlyListeners": 9885482,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 583954,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 514062,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 434092,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 366444,
+        "region": "LMA"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 263699,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

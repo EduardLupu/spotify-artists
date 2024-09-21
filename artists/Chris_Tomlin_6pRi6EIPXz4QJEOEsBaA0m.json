@@ -1,0 +1,41 @@
+{
+  "id": "6pRi6EIPXz4QJEOEsBaA0m",
+  "name": "Chris Tomlin",
+  "followers": 1931865,
+  "monthlyListeners": 3604991,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 63501,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 48503,
+        "region": "NC"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 46506,
+        "region": ""
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 44478,
+        "region": "TX"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 43842,
+        "region": "GA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7gfkYbxpguEc9bm6m8TpAr",
+  "name": "Chitãozinho & Xororó",
+  "followers": 2299565,
+  "monthlyListeners": 5123130,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 782862,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 315662,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 242497,
+        "region": "PR"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 241921,
+        "region": "SP"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 226668,
+        "region": "DF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

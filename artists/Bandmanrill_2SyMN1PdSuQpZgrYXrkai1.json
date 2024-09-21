@@ -1,0 +1,41 @@
+{
+  "id": "2SyMN1PdSuQpZgrYXrkai1",
+  "name": "Bandmanrill",
+  "followers": 70874,
+  "monthlyListeners": 314868,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 8414,
+        "region": "NY"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 8234,
+        "region": "NY"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 6840,
+        "region": "PA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 4775,
+        "region": "IL"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 4731,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

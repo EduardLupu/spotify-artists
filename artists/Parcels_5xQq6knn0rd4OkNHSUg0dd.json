@@ -1,0 +1,41 @@
+{
+  "id": "5xQq6knn0rd4OkNHSUg0dd",
+  "name": "Parcels",
+  "followers": 21,
+  "monthlyListeners": 8,
+  "topCities": {
+    "items": [
+      {
+        "city": "Les Rousses",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "BFC"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 1,
+        "region": "QUE"
+      },
+      {
+        "city": "Olney",
+        "country": "GB",
+        "numberOfListeners": 1,
+        "region": "ENG"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1,
+        "region": "ENG"
+      },
+      {
+        "city": "Delmenhorst",
+        "country": "DE",
+        "numberOfListeners": 1,
+        "region": "NI"
+      }
+    ]
+  },
+  "worldRank": 0
+}

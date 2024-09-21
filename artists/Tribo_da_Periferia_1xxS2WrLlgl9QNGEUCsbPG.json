@@ -1,0 +1,41 @@
+{
+  "id": "1xxS2WrLlgl9QNGEUCsbPG",
+  "name": "Tribo da Periferia",
+  "followers": 3523326,
+  "monthlyListeners": 3568682,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 544808,
+        "region": "SP"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 275104,
+        "region": "DF"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 244505,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 172223,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 159826,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

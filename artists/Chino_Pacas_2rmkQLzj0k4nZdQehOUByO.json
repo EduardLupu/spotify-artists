@@ -1,0 +1,41 @@
+{
+  "id": "2rmkQLzj0k4nZdQehOUByO",
+  "name": "Chino Pacas",
+  "followers": 2440432,
+  "monthlyListeners": 17408138,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1404079,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 851691,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 665071,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 618604,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 608903,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 459
+}

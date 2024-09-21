@@ -1,0 +1,41 @@
+{
+  "id": "40QyleB3f1DEFqjtM0ubRd",
+  "name": "Emilia",
+  "followers": 570,
+  "monthlyListeners": 3242,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 152,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 137,
+        "region": "HH"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 121,
+        "region": "AB"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 101,
+        "region": "HE"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 90,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

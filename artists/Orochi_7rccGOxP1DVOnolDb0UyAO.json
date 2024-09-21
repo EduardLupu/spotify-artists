@@ -1,0 +1,41 @@
+{
+  "id": "7rccGOxP1DVOnolDb0UyAO",
+  "name": "Orochi",
+  "followers": 5589,
+  "monthlyListeners": 230,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 7,
+        "region": "SP"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 4,
+        "region": "BE"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 4,
+        "region": "13"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 4,
+        "region": "WA"
+      },
+      {
+        "city": "Enschede",
+        "country": "NL",
+        "numberOfListeners": 2,
+        "region": "OV"
+      }
+    ]
+  },
+  "worldRank": 0
+}

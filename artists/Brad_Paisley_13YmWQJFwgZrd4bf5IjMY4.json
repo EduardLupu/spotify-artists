@@ -1,0 +1,41 @@
+{
+  "id": "13YmWQJFwgZrd4bf5IjMY4",
+  "name": "Brad Paisley",
+  "followers": 2817075,
+  "monthlyListeners": 6538181,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 113121,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 105878,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 94735,
+        "region": "NC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 90300,
+        "region": "NSW"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 83932,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

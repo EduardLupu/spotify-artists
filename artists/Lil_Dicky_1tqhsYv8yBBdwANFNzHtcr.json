@@ -1,0 +1,41 @@
+{
+  "id": "1tqhsYv8yBBdwANFNzHtcr",
+  "name": "Lil Dicky",
+  "followers": 2005690,
+  "monthlyListeners": 3481355,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 58986,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 56808,
+        "region": "NSW"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 55696,
+        "region": "00"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 43525,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 42604,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

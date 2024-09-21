@@ -1,0 +1,41 @@
+{
+  "id": "7mDU6nMUJnOSY2Hkjz5oqM",
+  "name": "Roy Woods",
+  "followers": 1170788,
+  "monthlyListeners": 3028297,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 61211,
+        "region": "ENG"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 57478,
+        "region": "ON"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 46891,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 45452,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 38584,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

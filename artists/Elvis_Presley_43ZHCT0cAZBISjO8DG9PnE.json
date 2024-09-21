@@ -1,0 +1,41 @@
+{
+  "id": "43ZHCT0cAZBISjO8DG9PnE",
+  "name": "Elvis Presley",
+  "followers": 9849935,
+  "monthlyListeners": 25748261,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 462913,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 370516,
+        "region": "CMX"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 349898,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 348597,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 291457,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 208
+}

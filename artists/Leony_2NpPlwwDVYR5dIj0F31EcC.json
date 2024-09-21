@@ -1,0 +1,41 @@
+{
+  "id": "2NpPlwwDVYR5dIj0F31EcC",
+  "name": "Leony",
+  "followers": 167200,
+  "monthlyListeners": 6850494,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 257063,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 209230,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 185859,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 173906,
+        "region": "BY"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 147072,
+        "region": "9"
+      }
+    ]
+  },
+  "worldRank": 0
+}

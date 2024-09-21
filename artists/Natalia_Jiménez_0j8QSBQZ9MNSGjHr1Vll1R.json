@@ -1,0 +1,41 @@
+{
+  "id": "0j8QSBQZ9MNSGjHr1Vll1R",
+  "name": "Natalia Jiménez",
+  "followers": 1016812,
+  "monthlyListeners": 2826509,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 218154,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 109801,
+        "region": "JAL"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 84023,
+        "region": "PUE"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 82946,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 79603,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

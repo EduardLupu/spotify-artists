@@ -1,0 +1,41 @@
+{
+  "id": "7xTKLpo7UCzXSnlH7fOIoM",
+  "name": "Redman",
+  "followers": 1244975,
+  "monthlyListeners": 2468375,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 35691,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 35484,
+        "region": "CA"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 32755,
+        "region": "ON"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 27515,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 27011,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

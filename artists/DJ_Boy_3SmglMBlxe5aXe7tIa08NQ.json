@@ -1,0 +1,41 @@
+{
+  "id": "3SmglMBlxe5aXe7tIa08NQ",
+  "name": "DJ Boy",
+  "followers": 2514,
+  "monthlyListeners": 20769,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 3246,
+        "region": "SP"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 1219,
+        "region": "RS"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 1159,
+        "region": "PR"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 879,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 740,
+        "region": "RJ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

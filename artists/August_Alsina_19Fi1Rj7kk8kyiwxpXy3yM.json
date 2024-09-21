@@ -1,0 +1,41 @@
+{
+  "id": "19Fi1Rj7kk8kyiwxpXy3yM",
+  "name": "August Alsina",
+  "followers": 2635380,
+  "monthlyListeners": 1943287,
+  "topCities": {
+    "items": [
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 40756,
+        "region": "GP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 36019,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 29827,
+        "region": "ENG"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 29815,
+        "region": "TX"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 28267,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

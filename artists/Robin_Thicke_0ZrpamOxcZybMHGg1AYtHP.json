@@ -1,0 +1,41 @@
+{
+  "id": "0ZrpamOxcZybMHGg1AYtHP",
+  "name": "Robin Thicke",
+  "followers": 1942878,
+  "monthlyListeners": 5254126,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 70322,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 69965,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 58885,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 55076,
+        "region": "NH"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 51820,
+        "region": "GP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

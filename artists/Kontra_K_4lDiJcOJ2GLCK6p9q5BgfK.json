@@ -1,0 +1,41 @@
+{
+  "id": "4lDiJcOJ2GLCK6p9q5BgfK",
+  "name": "Kontra K",
+  "followers": 2395244,
+  "monthlyListeners": 3635208,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 404315,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 324053,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 297392,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 245348,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 218549,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2yH4oyZxXeHYhG03IKhGTA",
+  "name": "LEONARDO",
+  "followers": 53,
+  "monthlyListeners": 88,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 17,
+        "region": "25"
+      },
+      {
+        "city": "Verona",
+        "country": "IT",
+        "numberOfListeners": 4,
+        "region": "34"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 4,
+        "region": "72"
+      },
+      {
+        "city": "Cascina",
+        "country": "IT",
+        "numberOfListeners": 3,
+        "region": "52"
+      },
+      {
+        "city": "Venice",
+        "country": "IT",
+        "numberOfListeners": 3,
+        "region": "34"
+      }
+    ]
+  },
+  "worldRank": 0
+}

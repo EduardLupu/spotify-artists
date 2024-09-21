@@ -1,0 +1,41 @@
+{
+  "id": "2t2ZQiN47pzl93R0MyEENh",
+  "name": "Morad",
+  "followers": 130,
+  "monthlyListeners": 76,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 6,
+        "region": "IDF"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 6,
+        "region": "NH"
+      },
+      {
+        "city": "Casablanca",
+        "country": "MA",
+        "numberOfListeners": 4,
+        "region": "06"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 4,
+        "region": "ZH"
+      },
+      {
+        "city": "Fes",
+        "country": "MA",
+        "numberOfListeners": 2,
+        "region": "03"
+      }
+    ]
+  },
+  "worldRank": 0
+}

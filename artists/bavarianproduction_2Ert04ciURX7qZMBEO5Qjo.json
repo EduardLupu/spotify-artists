@@ -1,0 +1,41 @@
+{
+  "id": "2Ert04ciURX7qZMBEO5Qjo",
+  "name": "bavarianproduction",
+  "followers": 907,
+  "monthlyListeners": 7672,
+  "topCities": {
+    "items": [
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 869,
+        "region": "BY"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 507,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 402,
+        "region": "HH"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 389,
+        "region": "9"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 314,
+        "region": "HE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

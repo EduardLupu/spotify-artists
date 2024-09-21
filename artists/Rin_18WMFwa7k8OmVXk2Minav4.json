@@ -1,0 +1,41 @@
+{
+  "id": "18WMFwa7k8OmVXk2Minav4",
+  "name": "Rin",
+  "followers": 96,
+  "monthlyListeners": 277,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 65,
+        "region": "18"
+      },
+      {
+        "city": "Copenhagen",
+        "country": "DK",
+        "numberOfListeners": 46,
+        "region": "84"
+      },
+      {
+        "city": "Frederiksberg",
+        "country": "DK",
+        "numberOfListeners": 16,
+        "region": "84"
+      },
+      {
+        "city": "Aarhus",
+        "country": "DK",
+        "numberOfListeners": 12,
+        "region": "82"
+      },
+      {
+        "city": "Brønshøj",
+        "country": "DK",
+        "numberOfListeners": 4,
+        "region": "84"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1EwmySw39cnCNvirD7G0m7",
+  "name": "Jojo",
+  "followers": 70,
+  "monthlyListeners": 32945,
+  "topCities": {
+    "items": [
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 19648,
+        "region": "WB"
+      },
+      {
+        "city": "Guwahati",
+        "country": "IN",
+        "numberOfListeners": 2625,
+        "region": "AS"
+      },
+      {
+        "city": "Siliguri",
+        "country": "IN",
+        "numberOfListeners": 985,
+        "region": "WB"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 969,
+        "region": "KA"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 507,
+        "region": "MH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

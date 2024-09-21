@@ -1,0 +1,41 @@
+{
+  "id": "2x8vG4f0HYXzMEo3xNsoiI",
+  "name": "Bibi und Tina",
+  "followers": 460071,
+  "monthlyListeners": 1705557,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 156563,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 123823,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 85016,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 84764,
+        "region": "BY"
+      },
+      {
+        "city": "Cologne",
+        "country": "DE",
+        "numberOfListeners": 69282,
+        "region": "NW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

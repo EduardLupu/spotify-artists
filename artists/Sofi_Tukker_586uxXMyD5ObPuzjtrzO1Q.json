@@ -1,0 +1,41 @@
+{
+  "id": "586uxXMyD5ObPuzjtrzO1Q",
+  "name": "Sofi Tukker",
+  "followers": 825437,
+  "monthlyListeners": 7859586,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 136701,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 116903,
+        "region": "VIC"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 103715,
+        "region": "34"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 96919,
+        "region": "NY"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 92476,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "01pKrlgPJhm5dB4lneYAqS",
+  "name": "Sigma",
+  "followers": 329910,
+  "monthlyListeners": 2370754,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 129808,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 44217,
+        "region": "ENG"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 44021,
+        "region": "BE"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 41743,
+        "region": "ENG"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 41685,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

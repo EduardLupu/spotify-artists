@@ -1,0 +1,41 @@
+{
+  "id": "2TjgzYcbTdsZjbT9OItIeB",
+  "name": "Héctor \"El Father\"",
+  "followers": 823934,
+  "monthlyListeners": 6301005,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 576712,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 395350,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 262430,
+        "region": "LMA"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 236018,
+        "region": "ANT"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 196572,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

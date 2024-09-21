@@ -1,0 +1,41 @@
+{
+  "id": "7mWCSSOYqm4E9mB7V4ot6S",
+  "name": "Miguel Bosé",
+  "followers": 2833526,
+  "monthlyListeners": 9508853,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 690072,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 626873,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 298758,
+        "region": "DC"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 290593,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 258424,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

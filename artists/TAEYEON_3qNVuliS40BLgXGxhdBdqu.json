@@ -1,0 +1,41 @@
+{
+  "id": "3qNVuliS40BLgXGxhdBdqu",
+  "name": "TAEYEON",
+  "followers": 2910237,
+  "monthlyListeners": 4079915,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 304553,
+        "region": "JK"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 127681,
+        "region": "TPE"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 117254,
+        "region": "14"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 110607,
+        "region": "10"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 108407,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0fauHpmSHwodVYIjTqOGHz",
+  "name": "Yiruma",
+  "followers": 1153658,
+  "monthlyListeners": 3035740,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 65563,
+        "region": "JK"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 38803,
+        "region": ""
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 29195,
+        "region": "NH"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 28031,
+        "region": "NSW"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 27194,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

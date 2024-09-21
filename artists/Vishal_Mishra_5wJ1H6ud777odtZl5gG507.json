@@ -1,0 +1,41 @@
+{
+  "id": "5wJ1H6ud777odtZl5gG507",
+  "name": "Vishal Mishra",
+  "followers": 4859262,
+  "monthlyListeners": 22827292,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 2120888,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1880756,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1615763,
+        "region": "DL"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 1441593,
+        "region": "TS"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 1315044,
+        "region": "DL"
+      }
+    ]
+  },
+  "worldRank": 274
+}

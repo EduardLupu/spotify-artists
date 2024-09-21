@@ -1,0 +1,41 @@
+{
+  "id": "0HBESaOJXoy3IZcAiEr5y5",
+  "name": "John Williams",
+  "followers": 276,
+  "monthlyListeners": 392,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 47,
+        "region": "L"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 8,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 7,
+        "region": "NY"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 5,
+        "region": "AB"
+      },
+      {
+        "city": "Galway",
+        "country": "IE",
+        "numberOfListeners": 4,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

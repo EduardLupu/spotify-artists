@@ -1,0 +1,41 @@
+{
+  "id": "7nqOGRxlXj7N2JYbgNEjYH",
+  "name": "SEVENTEEN",
+  "followers": 12143816,
+  "monthlyListeners": 5866308,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 372805,
+        "region": "JK"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 196839,
+        "region": "13"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 139319,
+        "region": "14"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 121790,
+        "region": "00"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 108192,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7k3bq6FDLa9tqVFCi4AtdR",
+  "name": "Lloyd",
+  "followers": 780,
+  "monthlyListeners": 1687,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 323,
+        "region": "ENG"
+      },
+      {
+        "city": "Cardiff",
+        "country": "GB",
+        "numberOfListeners": 266,
+        "region": "WLS"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 115,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 88,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 50,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

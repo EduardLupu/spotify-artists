@@ -1,0 +1,41 @@
+{
+  "id": "3jO7X5KupvwmWTHGtHgcgo",
+  "name": "Charly García",
+  "followers": 1880780,
+  "monthlyListeners": 3944915,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 813698,
+        "region": "C"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 414472,
+        "region": "B"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 336873,
+        "region": "RM"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 150283,
+        "region": "X"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 131065,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

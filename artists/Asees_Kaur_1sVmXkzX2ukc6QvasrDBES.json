@@ -1,0 +1,41 @@
+{
+  "id": "1sVmXkzX2ukc6QvasrDBES",
+  "name": "Asees Kaur",
+  "followers": 3341699,
+  "monthlyListeners": 16136454,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1513449,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1373443,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1042723,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 841828,
+        "region": "DL"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 795632,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

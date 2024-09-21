@@ -1,0 +1,41 @@
+{
+  "id": "3bgsNtcf5d5h9jbQbohfBK",
+  "name": "Extremoduro",
+  "followers": 1360254,
+  "monthlyListeners": 1537207,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 298420,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 142859,
+        "region": "CT"
+      },
+      {
+        "city": "Valencia",
+        "country": "ES",
+        "numberOfListeners": 67625,
+        "region": "VC"
+      },
+      {
+        "city": "Málaga",
+        "country": "ES",
+        "numberOfListeners": 43071,
+        "region": "AN"
+      },
+      {
+        "city": "Bilbao",
+        "country": "ES",
+        "numberOfListeners": 40680,
+        "region": "PV"
+      }
+    ]
+  },
+  "worldRank": 0
+}

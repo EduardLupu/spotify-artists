@@ -1,0 +1,41 @@
+{
+  "id": "29zsVzEH33dD5QqxeL8dvy",
+  "name": "Vini Vici",
+  "followers": 541113,
+  "monthlyListeners": 4741859,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 77306,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 70693,
+        "region": "HH"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 70346,
+        "region": "CMX"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 63864,
+        "region": "IDF"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 62702,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

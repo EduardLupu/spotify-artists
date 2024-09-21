@@ -1,0 +1,41 @@
+{
+  "id": "3IJ21966TwNZI24MwZHMu4",
+  "name": "Baby Tate",
+  "followers": 503183,
+  "monthlyListeners": 3088137,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 36904,
+        "region": "JK"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 29564,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 27908,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 27569,
+        "region": "SP"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 25934,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

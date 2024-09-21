@@ -1,0 +1,41 @@
+{
+  "id": "2VpYQkkjCohjSPskaQGyp0",
+  "name": "West Bank Records",
+  "followers": 11123,
+  "monthlyListeners": 59349,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chaguanas",
+        "country": "TT",
+        "numberOfListeners": 3452,
+        "region": "CHA"
+      },
+      {
+        "city": "Port of Spain",
+        "country": "TT",
+        "numberOfListeners": 3327,
+        "region": "POS"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 3302,
+        "region": "ENG"
+      },
+      {
+        "city": "Kingston",
+        "country": "JM",
+        "numberOfListeners": 2463,
+        "region": "01"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 2399,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

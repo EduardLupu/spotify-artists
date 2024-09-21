@@ -1,0 +1,41 @@
+{
+  "id": "1TtXnWcUs0FCkaZDPGYHdf",
+  "name": "Darell",
+  "followers": 4500187,
+  "monthlyListeners": 16094875,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 760939,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 559377,
+        "region": "DC"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 508448,
+        "region": "MD"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 404514,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 391679,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

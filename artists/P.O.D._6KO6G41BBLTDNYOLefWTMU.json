@@ -1,0 +1,41 @@
+{
+  "id": "6KO6G41BBLTDNYOLefWTMU",
+  "name": "P.O.D.",
+  "followers": 1976887,
+  "monthlyListeners": 3441886,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 55707,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 41700,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 40769,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 38194,
+        "region": "QLD"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 38136,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

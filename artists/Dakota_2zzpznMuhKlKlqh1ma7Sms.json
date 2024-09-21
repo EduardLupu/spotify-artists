@@ -1,0 +1,41 @@
+{
+  "id": "2zzpznMuhKlKlqh1ma7Sms",
+  "name": "Dakota",
+  "followers": 15616,
+  "monthlyListeners": 4129536,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 65093,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 58547,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 51494,
+        "region": "VIC"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 50021,
+        "region": "JK"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 46132,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

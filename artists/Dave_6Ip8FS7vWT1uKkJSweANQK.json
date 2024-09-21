@@ -1,0 +1,41 @@
+{
+  "id": "6Ip8FS7vWT1uKkJSweANQK",
+  "name": "Dave",
+  "followers": 5356457,
+  "monthlyListeners": 15397344,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 840368,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 332147,
+        "region": "NSW"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 288528,
+        "region": "LA"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 286156,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 268796,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

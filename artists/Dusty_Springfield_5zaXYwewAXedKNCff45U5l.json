@@ -1,0 +1,41 @@
+{
+  "id": "5zaXYwewAXedKNCff45U5l",
+  "name": "Dusty Springfield",
+  "followers": 483234,
+  "monthlyListeners": 8894273,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 180014,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 145601,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 128544,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 103853,
+        "region": "NH"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 93149,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

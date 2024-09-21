@@ -1,0 +1,41 @@
+{
+  "id": "0yCwm7IY2ypxgGogCqpp5W",
+  "name": "MANA",
+  "followers": 722,
+  "monthlyListeners": 2235,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 353,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 165,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 109,
+        "region": "MG"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 90,
+        "region": "DF"
+      },
+      {
+        "city": "Salvador",
+        "country": "BR",
+        "numberOfListeners": 80,
+        "region": "BA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

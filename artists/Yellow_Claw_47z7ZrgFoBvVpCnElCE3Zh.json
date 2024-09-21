@@ -1,0 +1,41 @@
+{
+  "id": "47z7ZrgFoBvVpCnElCE3Zh",
+  "name": "Yellow Claw",
+  "followers": 1029678,
+  "monthlyListeners": 3024873,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 265097,
+        "region": "JK"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 74249,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 56247,
+        "region": "ZH"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 46760,
+        "region": "JB"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 28244,
+        "region": "BRU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

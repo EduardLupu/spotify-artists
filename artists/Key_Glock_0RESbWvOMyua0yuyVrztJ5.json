@@ -1,0 +1,41 @@
+{
+  "id": "0RESbWvOMyua0yuyVrztJ5",
+  "name": "Key Glock",
+  "followers": 2093090,
+  "monthlyListeners": 12509309,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 252439,
+        "region": "TX"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 250882,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 207939,
+        "region": "CA"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 186949,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 186098,
+        "region": "NC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

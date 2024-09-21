@@ -1,0 +1,41 @@
+{
+  "id": "6x9jRPDmA8Ihpw3A9FBowD",
+  "name": "Böhse Onkelz",
+  "followers": 1242388,
+  "monthlyListeners": 1506266,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 199964,
+        "region": "BE"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 138444,
+        "region": "HE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 130751,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 110940,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 86756,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

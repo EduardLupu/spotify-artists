@@ -1,0 +1,41 @@
+{
+  "id": "6ModsWtBph2rE6zCTVxvZt",
+  "name": "Maite Perroni",
+  "followers": 1203083,
+  "monthlyListeners": 4742504,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 305296,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 157785,
+        "region": "LMA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 154853,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 138394,
+        "region": "DC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 120541,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

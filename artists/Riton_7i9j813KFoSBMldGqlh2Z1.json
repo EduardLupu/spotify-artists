@@ -1,0 +1,41 @@
+{
+  "id": "7i9j813KFoSBMldGqlh2Z1",
+  "name": "Riton",
+  "followers": 143812,
+  "monthlyListeners": 9366244,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 191023,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 185189,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 165085,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 119161,
+        "region": "QLD"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 113163,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

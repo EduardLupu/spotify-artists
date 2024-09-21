@@ -1,0 +1,41 @@
+{
+  "id": "1lmfBAy4F2YJhCfQdCt6QO",
+  "name": "Cake",
+  "followers": 252,
+  "monthlyListeners": 284,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 15,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 9,
+        "region": "NH"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 8,
+        "region": "VIC"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 6,
+        "region": "NY"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 6,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

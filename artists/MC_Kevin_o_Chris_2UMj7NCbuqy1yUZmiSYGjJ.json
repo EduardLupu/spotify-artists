@@ -1,0 +1,41 @@
+{
+  "id": "2UMj7NCbuqy1yUZmiSYGjJ",
+  "name": "MC Kevin o Chris",
+  "followers": 3043772,
+  "monthlyListeners": 13732570,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1561870,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 669597,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 560865,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 444432,
+        "region": "PR"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 441871,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

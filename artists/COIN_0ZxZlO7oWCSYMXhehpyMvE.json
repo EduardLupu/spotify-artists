@@ -1,0 +1,41 @@
+{
+  "id": "0ZxZlO7oWCSYMXhehpyMvE",
+  "name": "COIN",
+  "followers": 654666,
+  "monthlyListeners": 2881447,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 56507,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 51161,
+        "region": "NY"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 44216,
+        "region": "CA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 41250,
+        "region": "CO"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 38208,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

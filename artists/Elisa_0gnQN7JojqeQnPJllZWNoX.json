@@ -1,0 +1,41 @@
+{
+  "id": "0gnQN7JojqeQnPJllZWNoX",
+  "name": "Elisa",
+  "followers": 1595,
+  "monthlyListeners": 14386,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 8013,
+        "region": "RM"
+      },
+      {
+        "city": "Concepción",
+        "country": "CL",
+        "numberOfListeners": 1112,
+        "region": "BI"
+      },
+      {
+        "city": "Temuco",
+        "country": "CL",
+        "numberOfListeners": 542,
+        "region": "AR"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 303,
+        "region": "C"
+      },
+      {
+        "city": "Port Montt",
+        "country": "CL",
+        "numberOfListeners": 278,
+        "region": "LL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

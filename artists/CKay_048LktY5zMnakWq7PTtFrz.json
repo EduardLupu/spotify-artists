@@ -1,0 +1,41 @@
+{
+  "id": "048LktY5zMnakWq7PTtFrz",
+  "name": "CKay",
+  "followers": 1527333,
+  "monthlyListeners": 9294483,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 270162,
+        "region": "LA"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 185788,
+        "region": "IDF"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 140058,
+        "region": "NH"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 126691,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 122254,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

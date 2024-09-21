@@ -1,0 +1,41 @@
+{
+  "id": "2hJPr4lk7Q8SSvCVBl9fWM",
+  "name": "Kip Moore",
+  "followers": 1261011,
+  "monthlyListeners": 2052853,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 58374,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 55444,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 38322,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 35725,
+        "region": "VIC"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 33908,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6FvRLrwGJXs31hXAwjyXoE",
+  "name": "Anna",
+  "followers": 133,
+  "monthlyListeners": 1947,
+  "topCities": {
+    "items": [
+      {
+        "city": "Athens",
+        "country": "GR",
+        "numberOfListeners": 520,
+        "region": "I"
+      },
+      {
+        "city": "Thessaloniki",
+        "country": "GR",
+        "numberOfListeners": 153,
+        "region": "B"
+      },
+      {
+        "city": "Limassol",
+        "country": "CY",
+        "numberOfListeners": 36,
+        "region": "02"
+      },
+      {
+        "city": "Nicosia",
+        "country": "CY",
+        "numberOfListeners": 36,
+        "region": "01"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 31,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

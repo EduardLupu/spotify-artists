@@ -1,0 +1,41 @@
+{
+  "id": "5ksRONqssB7BR161NTtJAm",
+  "name": "Ace of Base",
+  "followers": 876099,
+  "monthlyListeners": 9719628,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 172972,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 147756,
+        "region": "CMX"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 111083,
+        "region": "34"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 98137,
+        "region": "SP"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 92228,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

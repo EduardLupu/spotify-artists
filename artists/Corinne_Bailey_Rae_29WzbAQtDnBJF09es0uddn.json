@@ -1,0 +1,41 @@
+{
+  "id": "29WzbAQtDnBJF09es0uddn",
+  "name": "Corinne Bailey Rae",
+  "followers": 804001,
+  "monthlyListeners": 6524213,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 139729,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 125133,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 103437,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 83309,
+        "region": "VIC"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 69217,
+        "region": "JK"
+      }
+    ]
+  },
+  "worldRank": 0
+}

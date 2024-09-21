@@ -1,0 +1,41 @@
+{
+  "id": "1bZNv4q3OxYq7mmnLha7Tu",
+  "name": "Fito Paez",
+  "followers": 1888236,
+  "monthlyListeners": 4127127,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 663058,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 395121,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 333276,
+        "region": "B"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 177988,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 161185,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

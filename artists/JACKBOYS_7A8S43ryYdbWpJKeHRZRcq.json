@@ -1,0 +1,41 @@
+{
+  "id": "7A8S43ryYdbWpJKeHRZRcq",
+  "name": "JACKBOYS",
+  "followers": 801722,
+  "monthlyListeners": 6440276,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 100161,
+        "region": "SP"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 64637,
+        "region": "34"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 62058,
+        "region": "NSW"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 59429,
+        "region": "ON"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 56870,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4tm8CEdm4pkQsEh4jIr9Yp",
+  "name": "Santa Fe Klan",
+  "followers": 9393727,
+  "monthlyListeners": 10634186,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 829425,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 446480,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 392760,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 366647,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 348810,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

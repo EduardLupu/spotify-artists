@@ -1,0 +1,41 @@
+{
+  "id": "0EdvGhlC1FkGItLOWQzG4J",
+  "name": "Sublime",
+  "followers": 2963229,
+  "monthlyListeners": 10814514,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 245602,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 197138,
+        "region": "IL"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 156394,
+        "region": "CO"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 149894,
+        "region": "AZ"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 148716,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

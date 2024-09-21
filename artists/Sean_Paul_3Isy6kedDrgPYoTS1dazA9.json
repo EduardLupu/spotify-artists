@@ -1,0 +1,41 @@
+{
+  "id": "3Isy6kedDrgPYoTS1dazA9",
+  "name": "Sean Paul",
+  "followers": 4859909,
+  "monthlyListeners": 34115789,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 533672,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 519353,
+        "region": "RM"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 455019,
+        "region": "ENG"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 398242,
+        "region": "CMX"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 345068,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 118
+}

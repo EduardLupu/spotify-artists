@@ -1,0 +1,41 @@
+{
+  "id": "1ybINI1qPiFbwDXamRtwxD",
+  "name": "Smino",
+  "followers": 966237,
+  "monthlyListeners": 3208052,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 81004,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 65765,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 57955,
+        "region": "NY"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 47451,
+        "region": "NY"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 47092,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

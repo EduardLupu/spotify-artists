@@ -1,0 +1,41 @@
+{
+  "id": "6t1gpxYbY8OlLA7D2RiikQ",
+  "name": "Loud Luxury",
+  "followers": 665819,
+  "monthlyListeners": 8812207,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 184458,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 139721,
+        "region": "VIC"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 130302,
+        "region": "ON"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 130087,
+        "region": "QC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 124768,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

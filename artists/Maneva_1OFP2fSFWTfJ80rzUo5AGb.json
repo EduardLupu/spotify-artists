@@ -1,0 +1,41 @@
+{
+  "id": "1OFP2fSFWTfJ80rzUo5AGb",
+  "name": "Maneva",
+  "followers": 1670650,
+  "monthlyListeners": 4522800,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 893226,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 276899,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 224211,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 193497,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 191877,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4gwpcMTbLWtBUlOijbVpuu",
+  "name": "Capital Cities",
+  "followers": 922860,
+  "monthlyListeners": 10808875,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 247738,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 176982,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 150873,
+        "region": "DC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 120977,
+        "region": "SP"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 120565,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

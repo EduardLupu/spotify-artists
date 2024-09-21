@@ -1,0 +1,41 @@
+{
+  "id": "4z19QMyPVRwbd4Fs2LisBa",
+  "name": "Darkiel",
+  "followers": 1300613,
+  "monthlyListeners": 3654118,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 500455,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 163726,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 136941,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 125398,
+        "region": "CMX"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 93229,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

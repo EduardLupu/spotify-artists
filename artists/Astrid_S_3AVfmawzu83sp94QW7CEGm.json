@@ -1,0 +1,41 @@
+{
+  "id": "3AVfmawzu83sp94QW7CEGm",
+  "name": "Astrid S",
+  "followers": 1356620,
+  "monthlyListeners": 4248898,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 214963,
+        "region": "JK"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 142862,
+        "region": "03"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 68494,
+        "region": "KA"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 58461,
+        "region": "MH"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 53023,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0blbVefuxOGltDBa00dspv",
+  "name": "LiSA",
+  "followers": 3205254,
+  "monthlyListeners": 4181893,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 235481,
+        "region": "13"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 130249,
+        "region": "JK"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 90437,
+        "region": "27"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 67836,
+        "region": "TPE"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 52611,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

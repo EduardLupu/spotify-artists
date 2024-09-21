@@ -1,0 +1,41 @@
+{
+  "id": "6S2OmqARrzebs0tKUEyXyp",
+  "name": "Demi Lovato",
+  "followers": 26683398,
+  "monthlyListeners": 28471241,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 764125,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 436688,
+        "region": "SP"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 326586,
+        "region": "CMX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 258847,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 254522,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 178
+}

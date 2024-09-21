@@ -1,0 +1,41 @@
+{
+  "id": "1GbrJTB56Xs4XQGlmVbaCf",
+  "name": "Savage",
+  "followers": 51828,
+  "monthlyListeners": 3835284,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 120178,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 100637,
+        "region": "QLD"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 91173,
+        "region": "VIC"
+      },
+      {
+        "city": "Auckland",
+        "country": "NZ",
+        "numberOfListeners": 66241,
+        "region": "AUK"
+      },
+      {
+        "city": "Perth",
+        "country": "AU",
+        "numberOfListeners": 48548,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

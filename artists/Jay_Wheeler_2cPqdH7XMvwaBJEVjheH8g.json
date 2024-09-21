@@ -1,0 +1,41 @@
+{
+  "id": "2cPqdH7XMvwaBJEVjheH8g",
+  "name": "Jay Wheeler",
+  "followers": 4331844,
+  "monthlyListeners": 19289737,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1067560,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 855070,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 808030,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 569631,
+        "region": "CMX"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 508613,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 382
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5akxj2EWswQVfej0WALnOq",
+  "name": "Cassie",
+  "followers": 202,
+  "monthlyListeners": 460,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 9,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 8,
+        "region": "ENG"
+      },
+      {
+        "city": "Portland",
+        "country": "US",
+        "numberOfListeners": 7,
+        "region": "OR"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 5,
+        "region": "IDF"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 5,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

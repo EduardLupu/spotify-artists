@@ -1,0 +1,41 @@
+{
+  "id": "4ZYjW9vY2BTk1er3xomkwI",
+  "name": "M",
+  "followers": 7943,
+  "monthlyListeners": 302968,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 7480,
+        "region": "ENG"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 5602,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 4575,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 4242,
+        "region": "VIC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 3295,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

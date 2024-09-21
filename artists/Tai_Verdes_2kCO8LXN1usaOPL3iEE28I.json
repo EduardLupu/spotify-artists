@@ -1,0 +1,41 @@
+{
+  "id": "2kCO8LXN1usaOPL3iEE28I",
+  "name": "Tai Verdes",
+  "followers": 820307,
+  "monthlyListeners": 4269283,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 63956,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 56382,
+        "region": "IL"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 51172,
+        "region": "QLD"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 48495,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 47456,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

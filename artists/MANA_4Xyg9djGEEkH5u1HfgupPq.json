@@ -1,0 +1,41 @@
+{
+  "id": "4Xyg9djGEEkH5u1HfgupPq",
+  "name": "MANA",
+  "followers": 257,
+  "monthlyListeners": 3492,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 205,
+        "region": "18"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 71,
+        "region": "AB"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 45,
+        "region": "HE"
+      },
+      {
+        "city": "Gothenburg",
+        "country": "SE",
+        "numberOfListeners": 44,
+        "region": "O"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 44,
+        "region": "BY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

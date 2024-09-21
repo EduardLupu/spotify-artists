@@ -1,0 +1,41 @@
+{
+  "id": "03bcF3vFRGN6qJsv2REBvI",
+  "name": "Rosalia",
+  "followers": 2154,
+  "monthlyListeners": 1365,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 154,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 110,
+        "region": "CT"
+      },
+      {
+        "city": "Valencia",
+        "country": "ES",
+        "numberOfListeners": 44,
+        "region": "VC"
+      },
+      {
+        "city": "Málaga",
+        "country": "ES",
+        "numberOfListeners": 36,
+        "region": "AN"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 23,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

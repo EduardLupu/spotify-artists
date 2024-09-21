@@ -1,0 +1,41 @@
+{
+  "id": "6WMo39FU3nrpSz3qMgRKug",
+  "name": "Black Stone Cherry",
+  "followers": 594647,
+  "monthlyListeners": 756684,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 19609,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 9285,
+        "region": "IL"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 8724,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 8443,
+        "region": "ENG"
+      },
+      {
+        "city": "Calgary",
+        "country": "CA",
+        "numberOfListeners": 7037,
+        "region": "AB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "57ANZO11uMCaA0vpL9S3Rs",
+  "name": "EVE",
+  "followers": 3,
+  "monthlyListeners": 607,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lilongwe",
+        "country": "MW",
+        "numberOfListeners": 184,
+        "region": "C"
+      },
+      {
+        "city": "Blantyre",
+        "country": "MW",
+        "numberOfListeners": 131,
+        "region": "S"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 82,
+        "region": "GP"
+      },
+      {
+        "city": "Cape Town",
+        "country": "ZA",
+        "numberOfListeners": 58,
+        "region": "WC"
+      },
+      {
+        "city": "Pretoria",
+        "country": "ZA",
+        "numberOfListeners": 35,
+        "region": "GP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6yckVJE5v5VLON9SW0EwL9",
+  "name": "T-Low",
+  "followers": 18698,
+  "monthlyListeners": 43552,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lusaka",
+        "country": "ZM",
+        "numberOfListeners": 23416,
+        "region": "09"
+      },
+      {
+        "city": "Lilongwe",
+        "country": "MW",
+        "numberOfListeners": 2277,
+        "region": "C"
+      },
+      {
+        "city": "Blantyre",
+        "country": "MW",
+        "numberOfListeners": 1780,
+        "region": "S"
+      },
+      {
+        "city": "Solwezi",
+        "country": "ZM",
+        "numberOfListeners": 1355,
+        "region": "06"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 1115,
+        "region": "GP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

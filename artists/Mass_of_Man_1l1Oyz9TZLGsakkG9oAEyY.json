@@ -1,0 +1,41 @@
+{
+  "id": "1l1Oyz9TZLGsakkG9oAEyY",
+  "name": "Mass of Man",
+  "followers": 81040,
+  "monthlyListeners": 210480,
+  "topCities": {
+    "items": [
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 3310,
+        "region": "CO"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 3005,
+        "region": "IL"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 2986,
+        "region": "QLD"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 2800,
+        "region": "NSW"
+      },
+      {
+        "city": "Calgary",
+        "country": "CA",
+        "numberOfListeners": 2753,
+        "region": "AB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

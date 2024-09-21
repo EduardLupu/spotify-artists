@@ -1,0 +1,41 @@
+{
+  "id": "4EjxTntGBvpuJhxKKrOrwh",
+  "name": "LX",
+  "followers": 154,
+  "monthlyListeners": 835,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 79,
+        "region": "18"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 21,
+        "region": "RM"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 18,
+        "region": "NH"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 18,
+        "region": "SP"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 17,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5423qBaPPRptI9nyINCSJB",
+  "name": "Lexnour",
+  "followers": 69216,
+  "monthlyListeners": 225626,
+  "topCities": {
+    "items": [
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 4385,
+        "region": "GP"
+      },
+      {
+        "city": "Guwahati",
+        "country": "IN",
+        "numberOfListeners": 4086,
+        "region": "AS"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 3893,
+        "region": "LA"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 3060,
+        "region": "JK"
+      },
+      {
+        "city": "Pretoria",
+        "country": "ZA",
+        "numberOfListeners": 2770,
+        "region": "GP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7A4fdHnr9uGhUTjw5G7xfU",
+  "name": "George Lucena",
+  "followers": 3549,
+  "monthlyListeners": 16444,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 2975,
+        "region": "SP"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 745,
+        "region": "RS"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 731,
+        "region": "PR"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 687,
+        "region": "DF"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 618,
+        "region": "RJ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

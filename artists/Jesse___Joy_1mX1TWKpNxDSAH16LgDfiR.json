@@ -1,0 +1,41 @@
+{
+  "id": "1mX1TWKpNxDSAH16LgDfiR",
+  "name": "Jesse & Joy",
+  "followers": 9003058,
+  "monthlyListeners": 12234863,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 781462,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 612091,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 411720,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 400461,
+        "region": "LMA"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 366171,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

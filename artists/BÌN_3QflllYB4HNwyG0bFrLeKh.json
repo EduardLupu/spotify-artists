@@ -1,0 +1,41 @@
+{
+  "id": "3QflllYB4HNwyG0bFrLeKh",
+  "name": "BÌN",
+  "followers": 1227,
+  "monthlyListeners": 8331,
+  "topCities": {
+    "items": [
+      {
+        "city": "Ho Chi Minh City",
+        "country": "VN",
+        "numberOfListeners": 3603,
+        "region": "SG"
+      },
+      {
+        "city": "Hanoi",
+        "country": "VN",
+        "numberOfListeners": 1792,
+        "region": "HN"
+      },
+      {
+        "city": "Da Nang",
+        "country": "VN",
+        "numberOfListeners": 197,
+        "region": "DN"
+      },
+      {
+        "city": "Biên Hòa",
+        "country": "VN",
+        "numberOfListeners": 167,
+        "region": "39"
+      },
+      {
+        "city": "Can Tho",
+        "country": "VN",
+        "numberOfListeners": 153,
+        "region": "CT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

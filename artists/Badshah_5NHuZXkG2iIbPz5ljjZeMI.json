@@ -1,0 +1,41 @@
+{
+  "id": "5NHuZXkG2iIbPz5ljjZeMI",
+  "name": "Badshah",
+  "followers": 6,
+  "monthlyListeners": 10,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1,
+        "region": "MH"
+      },
+      {
+        "city": "Lucknow",
+        "country": "IN",
+        "numberOfListeners": 1,
+        "region": "UP"
+      },
+      {
+        "city": "Ahmedabad",
+        "country": "IN",
+        "numberOfListeners": 1,
+        "region": "GJ"
+      },
+      {
+        "city": "Sunnyvale",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "CA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

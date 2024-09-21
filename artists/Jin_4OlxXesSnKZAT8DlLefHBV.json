@@ -1,0 +1,41 @@
+{
+  "id": "4OlxXesSnKZAT8DlLefHBV",
+  "name": "Jin",
+  "followers": 81,
+  "monthlyListeners": 537,
+  "topCities": {
+    "items": [
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 61,
+        "region": "14"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 39,
+        "region": ""
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 25,
+        "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 15,
+        "region": "NSW"
+      },
+      {
+        "city": "Petaling Jaya",
+        "country": "MY",
+        "numberOfListeners": 11,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

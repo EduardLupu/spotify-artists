@@ -1,0 +1,41 @@
+{
+  "id": "5spEJXLwD1sKUdC2bnOHPg",
+  "name": "Bone Thugs-N-Harmony",
+  "followers": 3107345,
+  "monthlyListeners": 5329825,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 117895,
+        "region": "CA"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 88274,
+        "region": "SP"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 82999,
+        "region": "AZ"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 78784,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 78625,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1M4405pUqYMhrrF7FexQYq",
+  "name": "Ado",
+  "followers": 1715,
+  "monthlyListeners": 2342,
+  "topCities": {
+    "items": [
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 533,
+        "region": "AB"
+      },
+      {
+        "city": "Gothenburg",
+        "country": "SE",
+        "numberOfListeners": 211,
+        "region": "O"
+      },
+      {
+        "city": "Malmo",
+        "country": "SE",
+        "numberOfListeners": 141,
+        "region": "M"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 103,
+        "region": "03"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 79,
+        "region": "18"
+      }
+    ]
+  },
+  "worldRank": 0
+}

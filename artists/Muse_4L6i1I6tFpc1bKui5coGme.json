@@ -1,0 +1,41 @@
+{
+  "id": "4L6i1I6tFpc1bKui5coGme",
+  "name": "Muse",
+  "followers": 4752,
+  "monthlyListeners": 1978,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 493,
+        "region": "ENG"
+      },
+      {
+        "city": "Bristol",
+        "country": "GB",
+        "numberOfListeners": 256,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 181,
+        "region": "ENG"
+      },
+      {
+        "city": "Glasgow",
+        "country": "GB",
+        "numberOfListeners": 162,
+        "region": "SCT"
+      },
+      {
+        "city": "Leeds",
+        "country": "GB",
+        "numberOfListeners": 84,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

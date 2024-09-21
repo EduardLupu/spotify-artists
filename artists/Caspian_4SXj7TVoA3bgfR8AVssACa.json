@@ -1,0 +1,41 @@
+{
+  "id": "4SXj7TVoA3bgfR8AVssACa",
+  "name": "Caspian",
+  "followers": 118939,
+  "monthlyListeners": 70207,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 899,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 705,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 699,
+        "region": "IL"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 667,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 667,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

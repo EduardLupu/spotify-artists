@@ -1,0 +1,41 @@
+{
+  "id": "3YbOSxo85kla7RID8ugnW3",
+  "name": "Los Temerarios",
+  "followers": 5325557,
+  "monthlyListeners": 8980667,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 791049,
+        "region": "CMX"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 427488,
+        "region": "GU"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 374140,
+        "region": "PUE"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 369360,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 354769,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

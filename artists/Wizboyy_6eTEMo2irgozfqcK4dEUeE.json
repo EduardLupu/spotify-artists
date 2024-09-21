@@ -1,0 +1,41 @@
+{
+  "id": "6eTEMo2irgozfqcK4dEUeE",
+  "name": "Wizboyy",
+  "followers": 89383,
+  "monthlyListeners": 80214,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 9598,
+        "region": "LA"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 5215,
+        "region": "IDF"
+      },
+      {
+        "city": "Port Harcourt",
+        "country": "NG",
+        "numberOfListeners": 4551,
+        "region": "RI"
+      },
+      {
+        "city": "Abuja",
+        "country": "NG",
+        "numberOfListeners": 4252,
+        "region": "FC"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 1168,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

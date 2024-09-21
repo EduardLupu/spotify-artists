@@ -1,0 +1,41 @@
+{
+  "id": "0U3lHOgDPUU9HJ1Vs55fqu",
+  "name": "Genesis",
+  "followers": 217,
+  "monthlyListeners": 158,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 4,
+        "region": "CMX"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 4,
+        "region": "AB"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 3,
+        "region": "VIC"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 3,
+        "region": "BE"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 3,
+        "region": "34"
+      }
+    ]
+  },
+  "worldRank": 0
+}

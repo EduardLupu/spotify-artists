@@ -1,0 +1,41 @@
+{
+  "id": "00tVTdpEhQQw1bqdu8RCx2",
+  "name": "Blue Öyster Cult",
+  "followers": 1590031,
+  "monthlyListeners": 4821771,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 72664,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 58114,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 53942,
+        "region": "CA"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 51298,
+        "region": "ON"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 48824,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

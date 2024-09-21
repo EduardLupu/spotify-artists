@@ -1,0 +1,41 @@
+{
+  "id": "6FtZhorjCMfkaVJ7kKdmq7",
+  "name": "Payal Dev",
+  "followers": 2934368,
+  "monthlyListeners": 9687680,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 792357,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 735319,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 719659,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 572969,
+        "region": "DL"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 482135,
+        "region": "WB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

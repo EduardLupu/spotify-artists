@@ -1,0 +1,41 @@
+{
+  "id": "5CGtBYmVPeLhI1kM2Fn9Gv",
+  "name": "Los Invasores De Nuevo León",
+  "followers": 2179835,
+  "monthlyListeners": 5902511,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 534901,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 327033,
+        "region": "JAL"
+      },
+      {
+        "city": "Monterrey",
+        "country": "MX",
+        "numberOfListeners": 313627,
+        "region": "NLE"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 290194,
+        "region": "QUE"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 210491,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

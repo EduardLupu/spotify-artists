@@ -1,0 +1,41 @@
+{
+  "id": "67lytN32YpUxiSeWlKfHJ3",
+  "name": "Yung Lean",
+  "followers": 978297,
+  "monthlyListeners": 3647679,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 48728,
+        "region": "ENG"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 45560,
+        "region": "14"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 44684,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 39701,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 38724,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

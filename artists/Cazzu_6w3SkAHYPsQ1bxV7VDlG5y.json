@@ -1,0 +1,41 @@
+{
+  "id": "6w3SkAHYPsQ1bxV7VDlG5y",
+  "name": "Cazzu",
+  "followers": 7240745,
+  "monthlyListeners": 9111132,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 500758,
+        "region": "C"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 440907,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 407709,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 306584,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 224717,
+        "region": "B"
+      }
+    ]
+  },
+  "worldRank": 0
+}

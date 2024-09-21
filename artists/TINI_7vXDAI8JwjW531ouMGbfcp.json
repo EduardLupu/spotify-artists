@@ -1,0 +1,41 @@
+{
+  "id": "7vXDAI8JwjW531ouMGbfcp",
+  "name": "TINI",
+  "followers": 8311113,
+  "monthlyListeners": 26064686,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1227272,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 996478,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 639974,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 587490,
+        "region": "B"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 545915,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 203
+}

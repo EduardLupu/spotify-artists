@@ -1,0 +1,41 @@
+{
+  "id": "5X1JzPIIonP3u9lA580pPT",
+  "name": "Francesco Yates",
+  "followers": 40862,
+  "monthlyListeners": 6918240,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 100026,
+        "region": "NSW"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 85387,
+        "region": "CMX"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 81639,
+        "region": "VIC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 79799,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 78797,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

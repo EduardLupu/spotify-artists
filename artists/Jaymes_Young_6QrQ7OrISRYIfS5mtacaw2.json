@@ -1,0 +1,41 @@
+{
+  "id": "6QrQ7OrISRYIfS5mtacaw2",
+  "name": "Jaymes Young",
+  "followers": 953182,
+  "monthlyListeners": 9698081,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 193373,
+        "region": "JK"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 122439,
+        "region": "KA"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 115458,
+        "region": "SP"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 100278,
+        "region": "MH"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 82277,
+        "region": "TS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

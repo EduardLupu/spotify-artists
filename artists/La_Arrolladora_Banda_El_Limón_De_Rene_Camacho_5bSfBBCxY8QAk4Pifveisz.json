@@ -1,0 +1,41 @@
+{
+  "id": "5bSfBBCxY8QAk4Pifveisz",
+  "name": "La Arrolladora Banda El Limón De Rene Camacho",
+  "followers": 7205112,
+  "monthlyListeners": 10894998,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1444808,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 816233,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 676022,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 635282,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 601599,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

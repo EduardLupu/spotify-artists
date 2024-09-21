@@ -1,0 +1,41 @@
+{
+  "id": "7nU4hB040gTmHm45YYMvqc",
+  "name": "Hannah Montana",
+  "followers": 4766354,
+  "monthlyListeners": 3410679,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 46201,
+        "region": "ENG"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 42116,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 38168,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 36169,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 35340,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

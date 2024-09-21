@@ -1,0 +1,41 @@
+{
+  "id": "70TsVY28EcEUYSGG5Yw7mp",
+  "name": "Sam Tinnesz",
+  "followers": 239726,
+  "monthlyListeners": 4992588,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 46979,
+        "region": "34"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 46310,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 43728,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 39295,
+        "region": "ENG"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 38613,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

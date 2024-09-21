@@ -1,0 +1,41 @@
+{
+  "id": "7Ln80lUS6He07XvHI8qqHH",
+  "name": "Arctic Monkeys",
+  "followers": 26537611,
+  "monthlyListeners": 53114164,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1559345,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 962258,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 772312,
+        "region": "SP"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 610779,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 583950,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 42
+}

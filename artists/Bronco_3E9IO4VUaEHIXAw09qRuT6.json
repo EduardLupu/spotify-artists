@@ -1,0 +1,41 @@
+{
+  "id": "3E9IO4VUaEHIXAw09qRuT6",
+  "name": "Bronco",
+  "followers": 565,
+  "monthlyListeners": 1322,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 381,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 96,
+        "region": "CT"
+      },
+      {
+        "city": "Valencia",
+        "country": "ES",
+        "numberOfListeners": 41,
+        "region": "VC"
+      },
+      {
+        "city": "Quito",
+        "country": "EC",
+        "numberOfListeners": 32,
+        "region": "P"
+      },
+      {
+        "city": "Málaga",
+        "country": "ES",
+        "numberOfListeners": 27,
+        "region": "AN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0z4gvV4rjIZ9wHck67ucSV",
+  "name": "Akon",
+  "followers": 4899642,
+  "monthlyListeners": 29557093,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 721000,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 550515,
+        "region": "SP"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 405346,
+        "region": "MH"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 374293,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 368780,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 166
+}

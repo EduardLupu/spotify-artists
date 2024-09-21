@@ -1,0 +1,41 @@
+{
+  "id": "22WZ7M8sxp5THdruNY3gXt",
+  "name": "The Doors",
+  "followers": 8071115,
+  "monthlyListeners": 12006322,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 283391,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 273397,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 158171,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 133526,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 129528,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

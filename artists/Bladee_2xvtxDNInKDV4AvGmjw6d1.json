@@ -1,0 +1,41 @@
+{
+  "id": "2xvtxDNInKDV4AvGmjw6d1",
+  "name": "Bladee",
+  "followers": 514094,
+  "monthlyListeners": 1030473,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 23046,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 20844,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 18725,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 15418,
+        "region": "IL"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 15189,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

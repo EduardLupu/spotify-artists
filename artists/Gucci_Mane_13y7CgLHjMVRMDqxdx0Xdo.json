@@ -1,0 +1,41 @@
+{
+  "id": "13y7CgLHjMVRMDqxdx0Xdo",
+  "name": "Gucci Mane",
+  "followers": 5631372,
+  "monthlyListeners": 14542021,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 244790,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 230447,
+        "region": "TX"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 221719,
+        "region": "JK"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 217646,
+        "region": "CA"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 184652,
+        "region": "GA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

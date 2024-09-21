@@ -1,0 +1,41 @@
+{
+  "id": "2pdvghEHZJtgSXZ7cvNLou",
+  "name": "Crosby, Stills & Nash",
+  "followers": 1946426,
+  "monthlyListeners": 3146542,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 45405,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 41338,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 40643,
+        "region": "NSW"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 34656,
+        "region": "ON"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 33801,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

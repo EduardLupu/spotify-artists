@@ -1,0 +1,41 @@
+{
+  "id": "4ahGHMFbWyFm9ALlWYeP9K",
+  "name": "Polo Money",
+  "followers": 1971,
+  "monthlyListeners": 31931,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sacramento",
+        "country": "US",
+        "numberOfListeners": 1749,
+        "region": "CA"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 1569,
+        "region": "CA"
+      },
+      {
+        "city": "San Francisco",
+        "country": "US",
+        "numberOfListeners": 1252,
+        "region": "CA"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 1043,
+        "region": "WA"
+      },
+      {
+        "city": "Oakland",
+        "country": "US",
+        "numberOfListeners": 911,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

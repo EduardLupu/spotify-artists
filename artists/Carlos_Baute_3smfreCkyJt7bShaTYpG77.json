@@ -1,0 +1,41 @@
+{
+  "id": "3smfreCkyJt7bShaTYpG77",
+  "name": "Carlos Baute",
+  "followers": 1889246,
+  "monthlyListeners": 5804171,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 287110,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 210766,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 201297,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 198806,
+        "region": "CMX"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 185938,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

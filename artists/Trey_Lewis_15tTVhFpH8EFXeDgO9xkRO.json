@@ -1,0 +1,41 @@
+{
+  "id": "15tTVhFpH8EFXeDgO9xkRO",
+  "name": "Trey Lewis",
+  "followers": 106231,
+  "monthlyListeners": 1355600,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 32178,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 30345,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 25795,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 22359,
+        "region": "TX"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 21837,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

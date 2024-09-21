@@ -1,0 +1,41 @@
+{
+  "id": "5JYo7gm2dkyLLlWHjxS7Dy",
+  "name": "Sandro Cavazza",
+  "followers": 109078,
+  "monthlyListeners": 7071339,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 110550,
+        "region": "JK"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 101652,
+        "region": "AB"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 88600,
+        "region": "NH"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 85596,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 70261,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

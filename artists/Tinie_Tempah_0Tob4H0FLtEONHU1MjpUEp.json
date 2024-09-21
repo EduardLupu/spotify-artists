@@ -1,0 +1,41 @@
+{
+  "id": "0Tob4H0FLtEONHU1MjpUEp",
+  "name": "Tinie Tempah",
+  "followers": 839473,
+  "monthlyListeners": 5171771,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 266081,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 115225,
+        "region": "NH"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 103016,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 97354,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 95456,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

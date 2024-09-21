@@ -1,0 +1,41 @@
+{
+  "id": "4tuJ0bMpJh08umKkEXKUI5",
+  "name": "Gracie Abrams",
+  "followers": 2412648,
+  "monthlyListeners": 24796892,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 601409,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 489053,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 420725,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 372314,
+        "region": "VIC"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 358098,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 229
+}

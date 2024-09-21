@@ -1,0 +1,41 @@
+{
+  "id": "3SxrBNpBsKhqOA4WX7HSV5",
+  "name": "Haze",
+  "followers": 214644,
+  "monthlyListeners": 301484,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 29771,
+        "region": "BE"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 25312,
+        "region": "BW"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 22681,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 20007,
+        "region": "BY"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 19708,
+        "region": "HH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

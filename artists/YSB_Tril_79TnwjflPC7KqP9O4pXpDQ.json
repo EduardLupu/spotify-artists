@@ -1,0 +1,41 @@
+{
+  "id": "79TnwjflPC7KqP9O4pXpDQ",
+  "name": "YSB Tril",
+  "followers": 48635,
+  "monthlyListeners": 113535,
+  "topCities": {
+    "items": [
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 1536,
+        "region": "ON"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1533,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 1194,
+        "region": "NSW"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 1137,
+        "region": "NY"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 1136,
+        "region": "PA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

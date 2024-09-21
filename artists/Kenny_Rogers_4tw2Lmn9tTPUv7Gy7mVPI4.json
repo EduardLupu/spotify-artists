@@ -1,0 +1,41 @@
+{
+  "id": "4tw2Lmn9tTPUv7Gy7mVPI4",
+  "name": "Kenny Rogers",
+  "followers": 2782793,
+  "monthlyListeners": 9784907,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 224736,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 178022,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 172781,
+        "region": "QLD"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 165810,
+        "region": "00"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 165794,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

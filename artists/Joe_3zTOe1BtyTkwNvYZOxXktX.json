@@ -1,0 +1,41 @@
+{
+  "id": "3zTOe1BtyTkwNvYZOxXktX",
+  "name": "Joe",
+  "followers": 1941171,
+  "monthlyListeners": 3557111,
+  "topCities": {
+    "items": [
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 152417,
+        "region": "GP"
+      },
+      {
+        "city": "Pretoria",
+        "country": "ZA",
+        "numberOfListeners": 73685,
+        "region": "GP"
+      },
+      {
+        "city": "Cape Town",
+        "country": "ZA",
+        "numberOfListeners": 65537,
+        "region": "WC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 63573,
+        "region": "ENG"
+      },
+      {
+        "city": "Durban",
+        "country": "ZA",
+        "numberOfListeners": 57601,
+        "region": "KZN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

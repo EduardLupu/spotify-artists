@@ -1,0 +1,41 @@
+{
+  "id": "5DUlefCLzVRzNWaNURTFpK",
+  "name": "Cali Y El Dandee",
+  "followers": 3933310,
+  "monthlyListeners": 6999492,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 428015,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 304353,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 295533,
+        "region": "LMA"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 289441,
+        "region": "MD"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 192802,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

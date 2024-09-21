@@ -1,0 +1,41 @@
+{
+  "id": "3gBKY0y3dFFVRqicLnVZYz",
+  "name": "Alka Yagnik",
+  "followers": 15836417,
+  "monthlyListeners": 20286772,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1990066,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1801653,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1519253,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 1222837,
+        "region": "DL"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 994956,
+        "region": "WB"
+      }
+    ]
+  },
+  "worldRank": 348
+}

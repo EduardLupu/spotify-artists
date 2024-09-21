@@ -1,0 +1,41 @@
+{
+  "id": "2sWOUoteG0pkJq8XNgMmY3",
+  "name": "Saiko",
+  "followers": 48,
+  "monthlyListeners": 837,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 100,
+        "region": "C"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 59,
+        "region": "B"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 36,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 24,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 19,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

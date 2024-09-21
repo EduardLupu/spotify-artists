@@ -1,0 +1,41 @@
+{
+  "id": "0p3tzEAt0XWrBqbrwBoN1I",
+  "name": "Kyle Hume",
+  "followers": 260991,
+  "monthlyListeners": 2017836,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 27956,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 25051,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 22232,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 22112,
+        "region": "QLD"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 21825,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

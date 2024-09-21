@@ -1,0 +1,41 @@
+{
+  "id": "2sG4zTOLvjKG1PSoOyf5Ej",
+  "name": "Brandi Carlile",
+  "followers": 835406,
+  "monthlyListeners": 4010312,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 58029,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 54549,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 50972,
+        "region": "ENG"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 50667,
+        "region": "WA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 49370,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

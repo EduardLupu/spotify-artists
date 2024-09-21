@@ -1,0 +1,41 @@
+{
+  "id": "7F2utINZ6tSokSiZTQBE27",
+  "name": "Guè",
+  "followers": 2573564,
+  "monthlyListeners": 5958598,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 1579320,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 699383,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 291023,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 240559,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 183813,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

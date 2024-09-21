@@ -1,0 +1,41 @@
+{
+  "id": "0eHQ9o50hj6ZDNBt6Ys1sD",
+  "name": "Yandel",
+  "followers": 7906891,
+  "monthlyListeners": 21428093,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1230660,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1222470,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 808001,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 771672,
+        "region": "LMA"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 621493,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 329
+}

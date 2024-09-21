@@ -1,0 +1,41 @@
+{
+  "id": "4K6blSRoklNdpw4mzLxwfn",
+  "name": "Kumar Sanu",
+  "followers": 16922636,
+  "monthlyListeners": 11131567,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1062484,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1010952,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 837039,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 663192,
+        "region": "DL"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 610476,
+        "region": "WB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

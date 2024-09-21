@@ -1,0 +1,41 @@
+{
+  "id": "6PAt558ZEZl0DmdXlnjMgD",
+  "name": "Eric Clapton",
+  "followers": 5975210,
+  "monthlyListeners": 12231053,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 206268,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 170797,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 162299,
+        "region": "NSW"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 157486,
+        "region": "JK"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 130413,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

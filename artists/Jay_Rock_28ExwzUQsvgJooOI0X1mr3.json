@@ -1,0 +1,41 @@
+{
+  "id": "28ExwzUQsvgJooOI0X1mr3",
+  "name": "Jay Rock",
+  "followers": 1497119,
+  "monthlyListeners": 4687955,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 90614,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 69456,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 67239,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 59687,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 54683,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

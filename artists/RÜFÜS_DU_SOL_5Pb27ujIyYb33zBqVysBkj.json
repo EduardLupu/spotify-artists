@@ -1,0 +1,41 @@
+{
+  "id": "5Pb27ujIyYb33zBqVysBkj",
+  "name": "RÜFÜS DU SOL",
+  "followers": 1757335,
+  "monthlyListeners": 9133029,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 300820,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 274571,
+        "region": "VIC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 197741,
+        "region": "CMX"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 187557,
+        "region": "QLD"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 164625,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

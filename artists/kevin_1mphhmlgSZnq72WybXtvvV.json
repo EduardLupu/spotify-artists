@@ -1,0 +1,41 @@
+{
+  "id": "1mphhmlgSZnq72WybXtvvV",
+  "name": "kevin",
+  "followers": 68,
+  "monthlyListeners": 711,
+  "topCities": {
+    "items": [
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 13,
+        "region": "GA"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 11,
+        "region": "PA"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 10,
+        "region": "NY"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 10,
+        "region": "NY"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 10,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2vm8GdHyrJh2O2MfbQFYG0",
+  "name": "Ingrid Michaelson",
+  "followers": 796574,
+  "monthlyListeners": 2255989,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 38117,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 32397,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 25907,
+        "region": "CA"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 24747,
+        "region": "WA"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 23484,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

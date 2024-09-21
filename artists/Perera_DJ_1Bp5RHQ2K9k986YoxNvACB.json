@@ -1,0 +1,41 @@
+{
+  "id": "1Bp5RHQ2K9k986YoxNvACB",
+  "name": "Perera DJ",
+  "followers": 728622,
+  "monthlyListeners": 7344106,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1453530,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 347844,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 343611,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 314082,
+        "region": "RJ"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 308759,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

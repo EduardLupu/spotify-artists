@@ -1,0 +1,41 @@
+{
+  "id": "3NPpFNZtSTHheNBaWC82rB",
+  "name": "X Ambassadors",
+  "followers": 3026378,
+  "monthlyListeners": 13135741,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 181439,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 150544,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 139719,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 132366,
+        "region": "QLD"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 128156,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6aLdhHUqgdKE86xbtNmY8g",
+  "name": "Crush",
+  "followers": 1221259,
+  "monthlyListeners": 3107382,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 240296,
+        "region": "JK"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 99822,
+        "region": "14"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 85025,
+        "region": ""
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 74259,
+        "region": "10"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 56902,
+        "region": "00"
+      }
+    ]
+  },
+  "worldRank": 0
+}

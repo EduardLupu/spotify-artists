@@ -1,0 +1,41 @@
+{
+  "id": "0B3N0ZINFWvizfa8bKiz4v",
+  "name": "James TW",
+  "followers": 1361335,
+  "monthlyListeners": 3543052,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 65122,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 61212,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 53649,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 46176,
+        "region": "NH"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 43176,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

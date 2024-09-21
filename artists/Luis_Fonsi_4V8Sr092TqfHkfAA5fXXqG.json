@@ -1,0 +1,41 @@
+{
+  "id": "4V8Sr092TqfHkfAA5fXXqG",
+  "name": "Luis Fonsi",
+  "followers": 10573406,
+  "monthlyListeners": 21213098,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 726457,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 404773,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 390160,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 365565,
+        "region": "DC"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 302383,
+        "region": "JK"
+      }
+    ]
+  },
+  "worldRank": 333
+}

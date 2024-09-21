@@ -1,0 +1,41 @@
+{
+  "id": "52lBOxCxbJg0ttXEW9CQpW",
+  "name": "Louis Prima",
+  "followers": 205357,
+  "monthlyListeners": 1809585,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 28111,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 20534,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 20311,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 17132,
+        "region": "NH"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 16589,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

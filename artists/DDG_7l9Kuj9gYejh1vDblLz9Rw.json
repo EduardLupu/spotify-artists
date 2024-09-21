@@ -1,0 +1,41 @@
+{
+  "id": "7l9Kuj9gYejh1vDblLz9Rw",
+  "name": "DDG",
+  "followers": 8,
+  "monthlyListeners": 21,
+  "topCities": {
+    "items": [
+      {
+        "city": "Malabo",
+        "country": "GQ",
+        "numberOfListeners": 15,
+        "region": "BN"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "TX"
+      },
+      {
+        "city": "Azuqueca de Henares",
+        "country": "ES",
+        "numberOfListeners": 1,
+        "region": "CM"
+      },
+      {
+        "city": "Luba",
+        "country": "GQ",
+        "numberOfListeners": 1,
+        "region": "BS"
+      },
+      {
+        "city": "Caracas",
+        "country": "VE",
+        "numberOfListeners": 1,
+        "region": "A"
+      }
+    ]
+  },
+  "worldRank": 0
+}

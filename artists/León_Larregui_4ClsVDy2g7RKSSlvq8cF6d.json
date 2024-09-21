@@ -1,0 +1,41 @@
+{
+  "id": "4ClsVDy2g7RKSSlvq8cF6d",
+  "name": "León Larregui",
+  "followers": 2365885,
+  "monthlyListeners": 7657358,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 844291,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 368182,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 325361,
+        "region": "JAL"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 316029,
+        "region": "PUE"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 306047,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

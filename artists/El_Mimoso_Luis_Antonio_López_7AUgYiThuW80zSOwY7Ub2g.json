@@ -1,0 +1,41 @@
+{
+  "id": "7AUgYiThuW80zSOwY7Ub2g",
+  "name": "El Mimoso Luis Antonio López",
+  "followers": 1536159,
+  "monthlyListeners": 2624714,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 281949,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 157045,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 107335,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 99504,
+        "region": "PUE"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 98968,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

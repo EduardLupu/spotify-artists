@@ -1,0 +1,41 @@
+{
+  "id": "2D4FOOOtWycb3Aw9nY5n3c",
+  "name": "Declan McKenna",
+  "followers": 1023450,
+  "monthlyListeners": 8609411,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 244148,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 169088,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 141136,
+        "region": "VIC"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 119205,
+        "region": "L"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 114009,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

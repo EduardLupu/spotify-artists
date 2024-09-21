@@ -1,0 +1,41 @@
+{
+  "id": "1ZLns93mCgwuRW5fY20C7D",
+  "name": "Light",
+  "followers": 252,
+  "monthlyListeners": 1178,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 28,
+        "region": "18"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 19,
+        "region": "CT"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 18,
+        "region": "25"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 18,
+        "region": "MD"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 13,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

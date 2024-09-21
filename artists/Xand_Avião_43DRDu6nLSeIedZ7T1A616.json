@@ -1,0 +1,41 @@
+{
+  "id": "43DRDu6nLSeIedZ7T1A616",
+  "name": "Xand Avião",
+  "followers": 3135590,
+  "monthlyListeners": 6288755,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 895485,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 318119,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 304621,
+        "region": "MG"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 255493,
+        "region": "DF"
+      },
+      {
+        "city": "Fortaleza",
+        "country": "BR",
+        "numberOfListeners": 228458,
+        "region": "CE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

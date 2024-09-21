@@ -1,0 +1,41 @@
+{
+  "id": "4PPoI9LuYeFX8V674Z1R6l",
+  "name": "Vicente Fernández",
+  "followers": 11036057,
+  "monthlyListeners": 12922342,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 957257,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 593612,
+        "region": "DC"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 514132,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 401289,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 394971,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

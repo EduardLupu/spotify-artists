@@ -1,0 +1,41 @@
+{
+  "id": "7GaxyUddsPok8BuhxN6OUW",
+  "name": "James Brown",
+  "followers": 2185646,
+  "monthlyListeners": 4345152,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 80805,
+        "region": "ENG"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 56351,
+        "region": "IDF"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 50239,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 49580,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 49501,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

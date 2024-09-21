@@ -1,0 +1,41 @@
+{
+  "id": "0XATRDCYuuGhk0oE7C0o5G",
+  "name": "MAMAMOO",
+  "followers": 7345033,
+  "monthlyListeners": 2245186,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 60730,
+        "region": "JK"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 46263,
+        "region": "13"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 42598,
+        "region": ""
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 39266,
+        "region": "TPE"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 37628,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

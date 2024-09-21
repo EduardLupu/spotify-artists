@@ -1,0 +1,41 @@
+{
+  "id": "1QPdp5duV6lV4XINCzjwQ2",
+  "name": "Dinos",
+  "followers": 662078,
+  "monthlyListeners": 2516590,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 438728,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 109540,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 93613,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 78351,
+        "region": "HDF"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 68674,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

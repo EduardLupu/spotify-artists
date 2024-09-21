@@ -1,0 +1,41 @@
+{
+  "id": "3pO5VjZ4wOHCMBXOvbMISG",
+  "name": "Antônio Carlos Jobim",
+  "followers": 755972,
+  "monthlyListeners": 4852307,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 313227,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 155371,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 85235,
+        "region": "MG"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 77456,
+        "region": "RM"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 65162,
+        "region": "DF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

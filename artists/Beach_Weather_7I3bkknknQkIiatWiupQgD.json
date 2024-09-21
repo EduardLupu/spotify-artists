@@ -1,0 +1,41 @@
+{
+  "id": "7I3bkknknQkIiatWiupQgD",
+  "name": "Beach Weather",
+  "followers": 673581,
+  "monthlyListeners": 12159700,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 178601,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 147172,
+        "region": "SP"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 134428,
+        "region": "34"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 110235,
+        "region": "14"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 107336,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

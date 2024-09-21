@@ -1,0 +1,41 @@
+{
+  "id": "0r0R5nIjDY04TfxRM10Bcb",
+  "name": "Alligatoah",
+  "followers": 1204066,
+  "monthlyListeners": 2892416,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 294576,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 224365,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 196414,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 178948,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 135606,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

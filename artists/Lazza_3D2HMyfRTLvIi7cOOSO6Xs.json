@@ -1,0 +1,41 @@
+{
+  "id": "3D2HMyfRTLvIi7cOOSO6Xs",
+  "name": "Lazza",
+  "followers": 1029,
+  "monthlyListeners": 44996,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 11825,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 2165,
+        "region": "RJ"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 1617,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 1520,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 1409,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

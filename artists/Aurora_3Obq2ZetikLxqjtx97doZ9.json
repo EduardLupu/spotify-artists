@@ -1,0 +1,41 @@
+{
+  "id": "3Obq2ZetikLxqjtx97doZ9",
+  "name": "Aurora",
+  "followers": 7460,
+  "monthlyListeners": 8593,
+  "topCities": {
+    "items": [
+      {
+        "city": "Budapest",
+        "country": "HU",
+        "numberOfListeners": 5555,
+        "region": "BU"
+      },
+      {
+        "city": "Győr",
+        "country": "HU",
+        "numberOfListeners": 147,
+        "region": "GS"
+      },
+      {
+        "city": "Székesfehérvár",
+        "country": "HU",
+        "numberOfListeners": 144,
+        "region": "FE"
+      },
+      {
+        "city": "Bratislava",
+        "country": "SK",
+        "numberOfListeners": 143,
+        "region": "BL"
+      },
+      {
+        "city": "Debrecen",
+        "country": "HU",
+        "numberOfListeners": 111,
+        "region": "HB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3hTffafUYLLgO4yuPAxb5U",
+  "name": "Lenin Ramírez",
+  "followers": 3145996,
+  "monthlyListeners": 6846461,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 554322,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 333941,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 225873,
+        "region": "QUE"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 209732,
+        "region": "PUE"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 208846,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

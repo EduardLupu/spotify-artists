@@ -1,0 +1,41 @@
+{
+  "id": "1fosVknoHjmETFcLUMCRjm",
+  "name": "El Rodri",
+  "followers": 308359,
+  "monthlyListeners": 898282,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 219500,
+        "region": "C"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 81865,
+        "region": "B"
+      },
+      {
+        "city": "Montevideo",
+        "country": "UY",
+        "numberOfListeners": 60732,
+        "region": "MO"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 47449,
+        "region": "X"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 30898,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

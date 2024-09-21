@@ -1,0 +1,41 @@
+{
+  "id": "0J7U24vlOOIeMpuaO6Q85A",
+  "name": "LP",
+  "followers": 2709294,
+  "monthlyListeners": 6986940,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 261163,
+        "region": "34"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 221456,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 151708,
+        "region": "RM"
+      },
+      {
+        "city": "Ankara",
+        "country": "TR",
+        "numberOfListeners": 119511,
+        "region": "06"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 111097,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

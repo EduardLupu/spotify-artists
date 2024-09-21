@@ -1,0 +1,41 @@
+{
+  "id": "2fMqTqiTxUDlmcOEPaQSsx",
+  "name": "Amitabh Bhattacharya",
+  "followers": 972768,
+  "monthlyListeners": 28612678,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 2994306,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 2578215,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 2138911,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 1760858,
+        "region": "DL"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 1581308,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 175
+}

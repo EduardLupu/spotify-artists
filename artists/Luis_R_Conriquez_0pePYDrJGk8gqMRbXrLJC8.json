@@ -1,0 +1,41 @@
+{
+  "id": "0pePYDrJGk8gqMRbXrLJC8",
+  "name": "Luis R Conriquez",
+  "followers": 6247078,
+  "monthlyListeners": 20900740,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1902782,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 1186405,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 916795,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 898583,
+        "region": "CMX"
+      },
+      {
+        "city": "Monterrey",
+        "country": "MX",
+        "numberOfListeners": 845468,
+        "region": "NLE"
+      }
+    ]
+  },
+  "worldRank": 339
+}

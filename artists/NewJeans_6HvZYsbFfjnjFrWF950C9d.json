@@ -1,0 +1,41 @@
+{
+  "id": "6HvZYsbFfjnjFrWF950C9d",
+  "name": "NewJeans",
+  "followers": 9000370,
+  "monthlyListeners": 15851026,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 840391,
+        "region": "JK"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 585856,
+        "region": "13"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 343968,
+        "region": "10"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 293785,
+        "region": "14"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 252338,
+        "region": "TPE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

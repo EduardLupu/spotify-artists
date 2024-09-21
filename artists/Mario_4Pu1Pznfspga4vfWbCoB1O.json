@@ -1,0 +1,41 @@
+{
+  "id": "4Pu1Pznfspga4vfWbCoB1O",
+  "name": "Mario",
+  "followers": 250,
+  "monthlyListeners": 208,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tallinn",
+        "country": "EE",
+        "numberOfListeners": 116,
+        "region": "37"
+      },
+      {
+        "city": "Tartu",
+        "country": "EE",
+        "numberOfListeners": 21,
+        "region": "79"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 13,
+        "region": "18"
+      },
+      {
+        "city": "Rakvere",
+        "country": "EE",
+        "numberOfListeners": 3,
+        "region": "60"
+      },
+      {
+        "city": "Põlva",
+        "country": "EE",
+        "numberOfListeners": 3,
+        "region": "64"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3yfDRplDZh03Y0fEeCd6B0",
+  "name": "my little airport",
+  "followers": 261625,
+  "monthlyListeners": 161543,
+  "topCities": {
+    "items": [
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 12534,
+        "region": "TPE"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 4906,
+        "region": ""
+      },
+      {
+        "city": "Hong Kong",
+        "country": "HK",
+        "numberOfListeners": 4224,
+        "region": ""
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 4099,
+        "region": "13"
+      },
+      {
+        "city": "New Taipei City",
+        "country": "TW",
+        "numberOfListeners": 3857,
+        "region": "NWT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

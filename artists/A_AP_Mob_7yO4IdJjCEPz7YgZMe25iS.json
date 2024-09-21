@@ -1,0 +1,41 @@
+{
+  "id": "7yO4IdJjCEPz7YgZMe25iS",
+  "name": "A$AP Mob",
+  "followers": 2162253,
+  "monthlyListeners": 2125062,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 46571,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 37521,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 32196,
+        "region": "NY"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 27436,
+        "region": "TX"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 25942,
+        "region": "AZ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

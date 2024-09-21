@@ -1,0 +1,41 @@
+{
+  "id": "1J4ofBDurgOATlfzzyniZp",
+  "name": "ZOLA",
+  "followers": 3348,
+  "monthlyListeners": 22890,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 282,
+        "region": "IDF"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 280,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 276,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 255,
+        "region": "NY"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 251,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

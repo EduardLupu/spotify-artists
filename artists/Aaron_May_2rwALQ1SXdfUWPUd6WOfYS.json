@@ -1,0 +1,41 @@
+{
+  "id": "2rwALQ1SXdfUWPUd6WOfYS",
+  "name": "Aaron May",
+  "followers": 549951,
+  "monthlyListeners": 7994102,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 145008,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 109605,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 102897,
+        "region": "NSW"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 96922,
+        "region": "TX"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 94350,
+        "region": "AZ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

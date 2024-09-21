@@ -1,0 +1,41 @@
+{
+  "id": "2ZgkqMJtaEzlPnzjbCDCmD",
+  "name": "Eden",
+  "followers": 479,
+  "monthlyListeners": 795516,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 9029,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 7457,
+        "region": "ENG"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 7390,
+        "region": "BE"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 7313,
+        "region": "VIC"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 7095,
+        "region": "AB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

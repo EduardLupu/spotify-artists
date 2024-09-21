@@ -1,0 +1,41 @@
+{
+  "id": "3OKg7YbOIatODzkRIbLJR4",
+  "name": "TheFatRat",
+  "followers": 1889002,
+  "monthlyListeners": 3335163,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 59239,
+        "region": "JK"
+      },
+      {
+        "city": "Ho Chi Minh City",
+        "country": "VN",
+        "numberOfListeners": 36230,
+        "region": "SG"
+      },
+      {
+        "city": "Hanoi",
+        "country": "VN",
+        "numberOfListeners": 29989,
+        "region": "HN"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 29971,
+        "region": "KA"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 28864,
+        "region": "13"
+      }
+    ]
+  },
+  "worldRank": 0
+}

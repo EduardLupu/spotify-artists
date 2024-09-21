@@ -1,0 +1,41 @@
+{
+  "id": "5HcunTidTUrOaf8V0iJcvl",
+  "name": "Nusrat Fateh Ali Khan",
+  "followers": 7239607,
+  "monthlyListeners": 5734592,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 451002,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 418176,
+        "region": "DL"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 383327,
+        "region": "MH"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 332452,
+        "region": "DL"
+      },
+      {
+        "city": "Lucknow",
+        "country": "IN",
+        "numberOfListeners": 238403,
+        "region": "UP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

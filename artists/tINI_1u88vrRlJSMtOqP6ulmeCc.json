@@ -1,0 +1,41 @@
+{
+  "id": "1u88vrRlJSMtOqP6ulmeCc",
+  "name": "tINI",
+  "followers": 5387,
+  "monthlyListeners": 15682,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 400,
+        "region": "BE"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 315,
+        "region": "IDF"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 306,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 232,
+        "region": "NH"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 228,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2EMAnMvWE2eb56ToJVfCWs",
+  "name": "Bryson Tiller",
+  "followers": 8951703,
+  "monthlyListeners": 22681591,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 501981,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 406383,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 347659,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 335333,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 327767,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 278
+}

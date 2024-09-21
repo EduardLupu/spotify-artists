@@ -1,0 +1,41 @@
+{
+  "id": "2iDVt6mFbtbDEZG5ax0dTi",
+  "name": "Tulus",
+  "followers": 16159436,
+  "monthlyListeners": 10364925,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 4539448,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 991616,
+        "region": "JB"
+      },
+      {
+        "city": "Makassar",
+        "country": "ID",
+        "numberOfListeners": 498446,
+        "region": "SN"
+      },
+      {
+        "city": "Surabaya",
+        "country": "ID",
+        "numberOfListeners": 453652,
+        "region": "JI"
+      },
+      {
+        "city": "Yogyakarta",
+        "country": "ID",
+        "numberOfListeners": 428641,
+        "region": "YO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

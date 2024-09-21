@@ -1,0 +1,41 @@
+{
+  "id": "1q7T9rFQ2a2ukA1PU51fo3",
+  "name": "Koba LaD",
+  "followers": 3627779,
+  "monthlyListeners": 3621365,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 641252,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 163703,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 134102,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 116689,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 100470,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

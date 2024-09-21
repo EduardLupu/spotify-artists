@@ -1,0 +1,41 @@
+{
+  "id": "7oEWmZ9dKlAVxTgmjUbYr4",
+  "name": "J Boog",
+  "followers": 313510,
+  "monthlyListeners": 1789855,
+  "topCities": {
+    "items": [
+      {
+        "city": "Auckland",
+        "country": "NZ",
+        "numberOfListeners": 76397,
+        "region": "AUK"
+      },
+      {
+        "city": "Honolulu",
+        "country": "US",
+        "numberOfListeners": 64767,
+        "region": "HI"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 51287,
+        "region": "QLD"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 49364,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 40580,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

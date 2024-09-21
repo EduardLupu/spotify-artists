@@ -1,0 +1,41 @@
+{
+  "id": "2yMN0IP20GOaN6q0p0zL5k",
+  "name": "Tarkan",
+  "followers": 3386623,
+  "monthlyListeners": 4790748,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 1293315,
+        "region": "34"
+      },
+      {
+        "city": "Ankara",
+        "country": "TR",
+        "numberOfListeners": 643459,
+        "region": "06"
+      },
+      {
+        "city": "Izmir",
+        "country": "TR",
+        "numberOfListeners": 501519,
+        "region": "35"
+      },
+      {
+        "city": "Bursa",
+        "country": "TR",
+        "numberOfListeners": 253749,
+        "region": "16"
+      },
+      {
+        "city": "Adana",
+        "country": "TR",
+        "numberOfListeners": 176420,
+        "region": "01"
+      }
+    ]
+  },
+  "worldRank": 0
+}

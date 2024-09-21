@@ -1,0 +1,41 @@
+{
+  "id": "5BMgsAFg8rZQc3tqs5BB8G",
+  "name": "Mecano",
+  "followers": 1860264,
+  "monthlyListeners": 7434550,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 541366,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 352654,
+        "region": "RM"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 215500,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 210915,
+        "region": "CMX"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 207497,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5wMAzQadD8tMNmzrpMzhSY",
+  "name": "John Williams",
+  "followers": 22,
+  "monthlyListeners": 367,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 9,
+        "region": "NSW"
+      },
+      {
+        "city": "Portland",
+        "country": "US",
+        "numberOfListeners": 7,
+        "region": "OR"
+      },
+      {
+        "city": "Perth",
+        "country": "AU",
+        "numberOfListeners": 5,
+        "region": "WA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 4,
+        "region": "IL"
+      },
+      {
+        "city": "Salt Lake City",
+        "country": "US",
+        "numberOfListeners": 4,
+        "region": "UT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

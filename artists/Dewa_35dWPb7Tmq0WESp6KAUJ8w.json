@@ -1,0 +1,41 @@
+{
+  "id": "35dWPb7Tmq0WESp6KAUJ8w",
+  "name": "Dewa",
+  "followers": 2028237,
+  "monthlyListeners": 5673308,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 2524354,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 514740,
+        "region": "JB"
+      },
+      {
+        "city": "Makassar",
+        "country": "ID",
+        "numberOfListeners": 285550,
+        "region": "SN"
+      },
+      {
+        "city": "Surabaya",
+        "country": "ID",
+        "numberOfListeners": 235750,
+        "region": "JI"
+      },
+      {
+        "city": "Semarang",
+        "country": "ID",
+        "numberOfListeners": 218165,
+        "region": "JT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

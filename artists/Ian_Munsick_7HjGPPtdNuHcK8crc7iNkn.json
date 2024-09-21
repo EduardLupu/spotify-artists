@@ -1,0 +1,41 @@
+{
+  "id": "7HjGPPtdNuHcK8crc7iNkn",
+  "name": "Ian Munsick",
+  "followers": 217611,
+  "monthlyListeners": 1889189,
+  "topCities": {
+    "items": [
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 49374,
+        "region": "CO"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 42101,
+        "region": "TX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 37486,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 35516,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 35028,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

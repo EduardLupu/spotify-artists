@@ -1,0 +1,41 @@
+{
+  "id": "0id62QV2SZZfvBn9xpmuCl",
+  "name": "Aloe Blacc",
+  "followers": 718166,
+  "monthlyListeners": 4169396,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 79037,
+        "region": "IDF"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 58664,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 54022,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 44372,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 38920,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

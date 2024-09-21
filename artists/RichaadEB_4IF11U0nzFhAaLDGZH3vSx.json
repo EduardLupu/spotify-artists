@@ -1,0 +1,41 @@
+{
+  "id": "4IF11U0nzFhAaLDGZH3vSx",
+  "name": "RichaadEB",
+  "followers": 148790,
+  "monthlyListeners": 819182,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 8423,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 8198,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 7196,
+        "region": "NSW"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 6926,
+        "region": "TX"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 6747,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

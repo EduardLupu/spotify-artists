@@ -1,0 +1,41 @@
+{
+  "id": "3vQ0GE3mI0dAaxIMYe5g7z",
+  "name": "Paulo Londra",
+  "followers": 23734179,
+  "monthlyListeners": 13711614,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 618617,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 616221,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 585841,
+        "region": "DC"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 572291,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 570571,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

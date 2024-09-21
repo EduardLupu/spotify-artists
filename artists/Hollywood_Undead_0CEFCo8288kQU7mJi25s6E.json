@@ -1,0 +1,41 @@
+{
+  "id": "0CEFCo8288kQU7mJi25s6E",
+  "name": "Hollywood Undead",
+  "followers": 2390595,
+  "monthlyListeners": 4080894,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 60644,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 50076,
+        "region": "ENG"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 48062,
+        "region": "CO"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 44509,
+        "region": "TX"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 44307,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

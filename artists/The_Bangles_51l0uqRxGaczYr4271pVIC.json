@@ -1,0 +1,41 @@
+{
+  "id": "51l0uqRxGaczYr4271pVIC",
+  "name": "The Bangles",
+  "followers": 1472475,
+  "monthlyListeners": 5799155,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 122921,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 108216,
+        "region": "VIC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 107136,
+        "region": "RM"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 85568,
+        "region": "QLD"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 68320,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

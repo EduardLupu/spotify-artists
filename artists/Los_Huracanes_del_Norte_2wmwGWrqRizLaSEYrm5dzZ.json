@@ -1,0 +1,41 @@
+{
+  "id": "2wmwGWrqRizLaSEYrm5dzZ",
+  "name": "Los Huracanes del Norte",
+  "followers": 2130948,
+  "monthlyListeners": 3492227,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 282186,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 135906,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 131789,
+        "region": "QUE"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 112474,
+        "region": "PUE"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 108480,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

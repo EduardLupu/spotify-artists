@@ -1,0 +1,41 @@
+{
+  "id": "0BRIOuNbQ6SwOo0NJAEW6p",
+  "name": "Brooks",
+  "followers": 384,
+  "monthlyListeners": 2787,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 77,
+        "region": "RM"
+      },
+      {
+        "city": "Palestine",
+        "country": "US",
+        "numberOfListeners": 64,
+        "region": "TX"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 40,
+        "region": "JK"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 40,
+        "region": "10"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 38,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6FqXAd1hQl7vVdIQ3hhtgc",
+  "name": "D. Savage",
+  "followers": 541478,
+  "monthlyListeners": 1058525,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 40659,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 24674,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 20629,
+        "region": "TX"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 18767,
+        "region": "AZ"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 18639,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "240wlM8vDrf6S4zCyzGj2W",
+  "name": "CamelPhat",
+  "followers": 455469,
+  "monthlyListeners": 6001410,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 169068,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 108100,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 105626,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 86968,
+        "region": "SP"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 73705,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0vzpTsCGA7LFAhcQhTvtzt",
+  "name": "Intig",
+  "followers": 17653,
+  "monthlyListeners": 19768,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 658,
+        "region": "34"
+      },
+      {
+        "city": "Ankara",
+        "country": "TR",
+        "numberOfListeners": 356,
+        "region": "06"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 266,
+        "region": "14"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 239,
+        "region": "RM"
+      },
+      {
+        "city": "Izmir",
+        "country": "TR",
+        "numberOfListeners": 194,
+        "region": "35"
+      }
+    ]
+  },
+  "worldRank": 0
+}

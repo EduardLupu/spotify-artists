@@ -1,0 +1,41 @@
+{
+  "id": "7A9yZMTrFZcgEWAX2kBfK6",
+  "name": "Huey Lewis & The News",
+  "followers": 1631909,
+  "monthlyListeners": 5261699,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 85766,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 74048,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 72965,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 70451,
+        "region": "ENG"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 66297,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7gW0r5CkdEUMm42w9XpyZO",
+  "name": "Laufey",
+  "followers": 5194298,
+  "monthlyListeners": 14602909,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 483986,
+        "region": "JK"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 249600,
+        "region": "00"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 214978,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 156237,
+        "region": "NSW"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 152526,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

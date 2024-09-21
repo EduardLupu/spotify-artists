@@ -1,0 +1,41 @@
+{
+  "id": "3pnu9R82FgmuQp0KK2Xmzx",
+  "name": "Sueco",
+  "followers": 588,
+  "monthlyListeners": 3612,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 639,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 531,
+        "region": "RJ"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 141,
+        "region": "RS"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 120,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 101,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3uZFBSsMiooimnprFL9jD1",
+  "name": "Snow",
+  "followers": 71038,
+  "monthlyListeners": 941965,
+  "topCities": {
+    "items": [
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 16370,
+        "region": "ON"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 13843,
+        "region": "RM"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 13490,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 13470,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 11917,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

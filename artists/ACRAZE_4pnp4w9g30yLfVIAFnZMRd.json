@@ -1,0 +1,41 @@
+{
+  "id": "4pnp4w9g30yLfVIAFnZMRd",
+  "name": "ACRAZE",
+  "followers": 134313,
+  "monthlyListeners": 6617852,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 112699,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 81476,
+        "region": "NSW"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 75031,
+        "region": "CMX"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 72331,
+        "region": "NH"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 72194,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

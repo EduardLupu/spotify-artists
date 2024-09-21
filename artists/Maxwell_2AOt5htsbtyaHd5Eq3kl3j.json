@@ -1,0 +1,41 @@
+{
+  "id": "2AOt5htsbtyaHd5Eq3kl3j",
+  "name": "Maxwell",
+  "followers": 1684282,
+  "monthlyListeners": 2241110,
+  "topCities": {
+    "items": [
+      {
+        "city": "Johannesburg",
+        "country": "ZA",
+        "numberOfListeners": 122527,
+        "region": "GP"
+      },
+      {
+        "city": "Pretoria",
+        "country": "ZA",
+        "numberOfListeners": 59626,
+        "region": "GP"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 41059,
+        "region": "GA"
+      },
+      {
+        "city": "Durban",
+        "country": "ZA",
+        "numberOfListeners": 39853,
+        "region": "KZN"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 39644,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

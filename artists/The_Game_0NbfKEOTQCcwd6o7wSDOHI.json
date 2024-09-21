@@ -1,0 +1,41 @@
+{
+  "id": "0NbfKEOTQCcwd6o7wSDOHI",
+  "name": "The Game",
+  "followers": 4858515,
+  "monthlyListeners": 11408734,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 216705,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 202909,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 155791,
+        "region": "VIC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 146518,
+        "region": "CA"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 133401,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

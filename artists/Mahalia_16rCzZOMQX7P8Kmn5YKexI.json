@@ -1,0 +1,41 @@
+{
+  "id": "16rCzZOMQX7P8Kmn5YKexI",
+  "name": "Mahalia",
+  "followers": 986199,
+  "monthlyListeners": 2386497,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 110467,
+        "region": "ENG"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 39984,
+        "region": "LA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 39242,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 32141,
+        "region": "VIC"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 31794,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

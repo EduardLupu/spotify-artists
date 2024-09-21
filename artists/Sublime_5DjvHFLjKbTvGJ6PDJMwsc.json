@@ -1,0 +1,41 @@
+{
+  "id": "5DjvHFLjKbTvGJ6PDJMwsc",
+  "name": "Sublime",
+  "followers": 5054,
+  "monthlyListeners": 98876,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 15901,
+        "region": "IDF"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 4057,
+        "region": "ARA"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 4011,
+        "region": "BRU"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 2476,
+        "region": "HDF"
+      },
+      {
+        "city": "Nantes",
+        "country": "FR",
+        "numberOfListeners": 2445,
+        "region": "PDL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

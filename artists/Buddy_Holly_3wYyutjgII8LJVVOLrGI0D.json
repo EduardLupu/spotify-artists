@@ -1,0 +1,41 @@
+{
+  "id": "3wYyutjgII8LJVVOLrGI0D",
+  "name": "Buddy Holly",
+  "followers": 1342349,
+  "monthlyListeners": 1750927,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 28045,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 25820,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 25708,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 18334,
+        "region": "QLD"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 16571,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

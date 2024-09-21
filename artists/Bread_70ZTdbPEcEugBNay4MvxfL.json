@@ -1,0 +1,41 @@
+{
+  "id": "70ZTdbPEcEugBNay4MvxfL",
+  "name": "Bread",
+  "followers": 1761313,
+  "monthlyListeners": 5834756,
+  "topCities": {
+    "items": [
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 223278,
+        "region": "00"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 167884,
+        "region": "JK"
+      },
+      {
+        "city": "Manila",
+        "country": "PH",
+        "numberOfListeners": 127748,
+        "region": "00"
+      },
+      {
+        "city": "Davao City",
+        "country": "PH",
+        "numberOfListeners": 108544,
+        "region": "11"
+      },
+      {
+        "city": "Cebu City",
+        "country": "PH",
+        "numberOfListeners": 104608,
+        "region": "07"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5VLVogbPeBgFHXQPZQzBej",
+  "name": "JUJU",
+  "followers": 1046719,
+  "monthlyListeners": 524091,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 125202,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 51878,
+        "region": "27"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 21539,
+        "region": "13"
+      },
+      {
+        "city": "Nagoya",
+        "country": "JP",
+        "numberOfListeners": 16569,
+        "region": "23"
+      },
+      {
+        "city": "Yokohama",
+        "country": "JP",
+        "numberOfListeners": 10963,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

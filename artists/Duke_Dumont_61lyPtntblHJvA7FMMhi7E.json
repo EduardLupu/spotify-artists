@@ -1,0 +1,41 @@
+{
+  "id": "61lyPtntblHJvA7FMMhi7E",
+  "name": "Duke Dumont",
+  "followers": 736444,
+  "monthlyListeners": 7135407,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 196471,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 169195,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 143036,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 98917,
+        "region": "QLD"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 89285,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

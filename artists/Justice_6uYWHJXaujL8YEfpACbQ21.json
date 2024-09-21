@@ -1,0 +1,41 @@
+{
+  "id": "6uYWHJXaujL8YEfpACbQ21",
+  "name": "Justice",
+  "followers": 81,
+  "monthlyListeners": 126,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 3,
+        "region": "IDF"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 3,
+        "region": "NH"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 3,
+        "region": "QLD"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 2,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

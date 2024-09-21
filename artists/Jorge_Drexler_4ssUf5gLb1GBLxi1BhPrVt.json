@@ -1,0 +1,41 @@
+{
+  "id": "4ssUf5gLb1GBLxi1BhPrVt",
+  "name": "Jorge Drexler",
+  "followers": 853822,
+  "monthlyListeners": 2365969,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 180575,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 157668,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 108399,
+        "region": "B"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 70893,
+        "region": "MD"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 68235,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

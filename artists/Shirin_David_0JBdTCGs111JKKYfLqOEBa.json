@@ -1,0 +1,41 @@
+{
+  "id": "0JBdTCGs111JKKYfLqOEBa",
+  "name": "Shirin David",
+  "followers": 915153,
+  "monthlyListeners": 5472825,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 521617,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 399823,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 366802,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 322988,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 265316,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7jZM5w05mGhw6wTB1okhD9",
+  "name": "ATB",
+  "followers": 402538,
+  "monthlyListeners": 7057286,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 96203,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 90247,
+        "region": "NH"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 88609,
+        "region": "ENG"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 85079,
+        "region": "14"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 84279,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

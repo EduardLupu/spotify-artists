@@ -1,0 +1,41 @@
+{
+  "id": "6VD4UEUPvtsemqD3mmTqCR",
+  "name": "Deorro",
+  "followers": 1259894,
+  "monthlyListeners": 8719811,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 276483,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 145469,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 114788,
+        "region": "QUE"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 107123,
+        "region": "PUE"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 103807,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

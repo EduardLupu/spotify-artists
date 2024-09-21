@@ -1,0 +1,41 @@
+{
+  "id": "5Y3MV9DZ0d87NnVm56qSY1",
+  "name": "Tiago PZK",
+  "followers": 5301013,
+  "monthlyListeners": 19983522,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1846153,
+        "region": "C"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1542650,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 1026250,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 871739,
+        "region": "B"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 502105,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 360
+}

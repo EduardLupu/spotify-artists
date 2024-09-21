@@ -1,0 +1,41 @@
+{
+  "id": "6CPZWzcKiOKkHn4L2XI4i2",
+  "name": "cakal",
+  "followers": 2248623,
+  "monthlyListeners": 3903105,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 1316680,
+        "region": "34"
+      },
+      {
+        "city": "Ankara",
+        "country": "TR",
+        "numberOfListeners": 668359,
+        "region": "06"
+      },
+      {
+        "city": "Izmir",
+        "country": "TR",
+        "numberOfListeners": 505489,
+        "region": "35"
+      },
+      {
+        "city": "Bursa",
+        "country": "TR",
+        "numberOfListeners": 262889,
+        "region": "16"
+      },
+      {
+        "city": "Adana",
+        "country": "TR",
+        "numberOfListeners": 220236,
+        "region": "01"
+      }
+    ]
+  },
+  "worldRank": 0
+}

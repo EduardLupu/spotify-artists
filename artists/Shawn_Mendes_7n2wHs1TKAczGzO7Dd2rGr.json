@@ -1,0 +1,41 @@
+{
+  "id": "7n2wHs1TKAczGzO7Dd2rGr",
+  "name": "Shawn Mendes",
+  "followers": 43230640,
+  "monthlyListeners": 46007332,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1550759,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 674503,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 466265,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 451088,
+        "region": "ENG"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 404911,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 57
+}

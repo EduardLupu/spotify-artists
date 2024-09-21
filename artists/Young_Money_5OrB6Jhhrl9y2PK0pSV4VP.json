@@ -1,0 +1,41 @@
+{
+  "id": "5OrB6Jhhrl9y2PK0pSV4VP",
+  "name": "Young Money",
+  "followers": 3039005,
+  "monthlyListeners": 4872648,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 92973,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 77681,
+        "region": "CA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 74365,
+        "region": "TX"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 66194,
+        "region": "ON"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 65043,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

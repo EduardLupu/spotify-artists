@@ -1,0 +1,41 @@
+{
+  "id": "2YWOP324cKGfkTo2PydgJR",
+  "name": "Leonardo",
+  "followers": 1977852,
+  "monthlyListeners": 2375291,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 314713,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 166764,
+        "region": "MG"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 122296,
+        "region": "DF"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 105304,
+        "region": "PR"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 95816,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

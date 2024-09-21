@@ -1,0 +1,41 @@
+{
+  "id": "0B6QEFtRnneEzb4iqjI0Nw",
+  "name": "Arlo Guthrie",
+  "followers": 158968,
+  "monthlyListeners": 274240,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 3664,
+        "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 3633,
+        "region": "NY"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 3206,
+        "region": "NSW"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 3086,
+        "region": "WA"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 3039,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

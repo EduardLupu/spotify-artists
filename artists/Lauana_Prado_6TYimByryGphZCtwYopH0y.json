@@ -1,0 +1,41 @@
+{
+  "id": "6TYimByryGphZCtwYopH0y",
+  "name": "Lauana Prado",
+  "followers": 4653671,
+  "monthlyListeners": 9718762,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1603874,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 721621,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 549175,
+        "region": "PR"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 535153,
+        "region": "SP"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 512993,
+        "region": "DF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

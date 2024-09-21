@@ -1,0 +1,41 @@
+{
+  "id": "39Fh4OTce0hxKCiuyB21dg",
+  "name": "Dave",
+  "followers": 78458,
+  "monthlyListeners": 215996,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 22616,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 12815,
+        "region": "BRU"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 4946,
+        "region": "NH"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 4702,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 3614,
+        "region": "HDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

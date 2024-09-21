@@ -1,0 +1,41 @@
+{
+  "id": "2cRq6QCvmebOPeCmrc0sLE",
+  "name": "Ghost",
+  "followers": 254,
+  "monthlyListeners": 674,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 59,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 18,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 15,
+        "region": "VIC"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 14,
+        "region": "L"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 13,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

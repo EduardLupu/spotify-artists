@@ -1,0 +1,41 @@
+{
+  "id": "6T5tfhQCknKG4UnH90qGnz",
+  "name": "DNCE",
+  "followers": 4536999,
+  "monthlyListeners": 9791087,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 136461,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 120964,
+        "region": "NSW"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 105239,
+        "region": "CMX"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 103253,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 100076,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

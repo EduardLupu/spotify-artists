@@ -1,0 +1,41 @@
+{
+  "id": "2LRoIwlKmHjgvigdNGBHNo",
+  "name": "Feid",
+  "followers": 13770503,
+  "monthlyListeners": 44056718,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 2334882,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 2067547,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1809617,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 1589018,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1369222,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 63
+}

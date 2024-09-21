@@ -1,0 +1,41 @@
+{
+  "id": "67nwj3Y5sZQLl72VNUHEYE",
+  "name": "Wale",
+  "followers": 4161241,
+  "monthlyListeners": 6535831,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 209096,
+        "region": "LA"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 122672,
+        "region": "CA"
+      },
+      {
+        "city": "Abuja",
+        "country": "NG",
+        "numberOfListeners": 100442,
+        "region": "FC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 100226,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 90848,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

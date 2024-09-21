@@ -1,0 +1,41 @@
+{
+  "id": "2mpeljBig2IXLXRAFO9AAs",
+  "name": "Dido",
+  "followers": 1879180,
+  "monthlyListeners": 19098733,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 269819,
+        "region": "RM"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 242594,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 232848,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 224070,
+        "region": "NH"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 216431,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 392
+}

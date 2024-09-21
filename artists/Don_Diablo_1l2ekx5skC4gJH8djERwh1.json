@@ -1,0 +1,41 @@
+{
+  "id": "1l2ekx5skC4gJH8djERwh1",
+  "name": "Don Diablo",
+  "followers": 1805528,
+  "monthlyListeners": 7558603,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 108158,
+        "region": "NH"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 98034,
+        "region": "NSW"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 91707,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 79272,
+        "region": "HH"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 78560,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

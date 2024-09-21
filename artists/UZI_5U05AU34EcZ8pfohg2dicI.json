@@ -1,0 +1,41 @@
+{
+  "id": "5U05AU34EcZ8pfohg2dicI",
+  "name": "UZI",
+  "followers": 621721,
+  "monthlyListeners": 2356142,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 430732,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 94718,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 94262,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 82194,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 74620,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

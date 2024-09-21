@@ -1,0 +1,41 @@
+{
+  "id": "6MF9fzBmfXghAz953czmBC",
+  "name": "Taio Cruz",
+  "followers": 2238482,
+  "monthlyListeners": 13184347,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 180590,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 172067,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 153887,
+        "region": "VIC"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 141556,
+        "region": "BE"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 122508,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

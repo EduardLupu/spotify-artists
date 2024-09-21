@@ -1,0 +1,41 @@
+{
+  "id": "0T8Ix53aIN4F7aEKj4EnKy",
+  "name": "Jasiel Nuñez",
+  "followers": 776882,
+  "monthlyListeners": 11154170,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 827960,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 556812,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 386689,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 371622,
+        "region": "PUE"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 353967,
+        "region": "QUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

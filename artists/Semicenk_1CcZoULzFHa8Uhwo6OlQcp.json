@@ -1,0 +1,41 @@
+{
+  "id": "1CcZoULzFHa8Uhwo6OlQcp",
+  "name": "Semicenk",
+  "followers": 3907982,
+  "monthlyListeners": 7272138,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 2525967,
+        "region": "34"
+      },
+      {
+        "city": "Ankara",
+        "country": "TR",
+        "numberOfListeners": 1431397,
+        "region": "06"
+      },
+      {
+        "city": "Izmir",
+        "country": "TR",
+        "numberOfListeners": 975687,
+        "region": "35"
+      },
+      {
+        "city": "Bursa",
+        "country": "TR",
+        "numberOfListeners": 525496,
+        "region": "16"
+      },
+      {
+        "city": "Adana",
+        "country": "TR",
+        "numberOfListeners": 467125,
+        "region": "01"
+      }
+    ]
+  },
+  "worldRank": 0
+}

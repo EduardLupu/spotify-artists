@@ -1,0 +1,41 @@
+{
+  "id": "5XLHU6yZJSwDzupHXHpW3K",
+  "name": "Bethesda",
+  "followers": 281,
+  "monthlyListeners": 35359,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 374,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 302,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 302,
+        "region": "ENG"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 272,
+        "region": "IDF"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 269,
+        "region": "34"
+      }
+    ]
+  },
+  "worldRank": 0
+}

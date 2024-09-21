@@ -1,0 +1,41 @@
+{
+  "id": "3dUu9IeP8wOWOFSMlNLdkD",
+  "name": "Alexander",
+  "followers": 1357,
+  "monthlyListeners": 20748,
+  "topCities": {
+    "items": [
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 234,
+        "region": "10"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 204,
+        "region": "BE"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 193,
+        "region": "14"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 174,
+        "region": "IDF"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 165,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

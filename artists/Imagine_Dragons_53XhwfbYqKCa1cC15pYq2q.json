@@ -1,0 +1,41 @@
+{
+  "id": "53XhwfbYqKCa1cC15pYq2q",
+  "name": "Imagine Dragons",
+  "followers": 54551635,
+  "monthlyListeners": 59105377,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1019005,
+        "region": "SP"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 703698,
+        "region": "IDF"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 703519,
+        "region": "JK"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 684463,
+        "region": "CMX"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 668362,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 29
+}

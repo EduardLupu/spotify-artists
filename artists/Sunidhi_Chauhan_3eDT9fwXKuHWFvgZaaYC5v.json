@@ -1,0 +1,41 @@
+{
+  "id": "3eDT9fwXKuHWFvgZaaYC5v",
+  "name": "Sunidhi Chauhan",
+  "followers": 16779901,
+  "monthlyListeners": 17819591,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1674489,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1413743,
+        "region": "MH"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 1115203,
+        "region": "KA"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1097129,
+        "region": "DL"
+      },
+      {
+        "city": "Chennai",
+        "country": "IN",
+        "numberOfListeners": 939004,
+        "region": "TN"
+      }
+    ]
+  },
+  "worldRank": 438
+}

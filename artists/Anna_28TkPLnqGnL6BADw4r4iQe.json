@@ -1,0 +1,41 @@
+{
+  "id": "28TkPLnqGnL6BADw4r4iQe",
+  "name": "Anna",
+  "followers": 308,
+  "monthlyListeners": 25027,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 5111,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 1361,
+        "region": "27"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 622,
+        "region": "13"
+      },
+      {
+        "city": "Copenhagen",
+        "country": "DK",
+        "numberOfListeners": 578,
+        "region": "84"
+      },
+      {
+        "city": "Nagoya",
+        "country": "JP",
+        "numberOfListeners": 538,
+        "region": "23"
+      }
+    ]
+  },
+  "worldRank": 0
+}

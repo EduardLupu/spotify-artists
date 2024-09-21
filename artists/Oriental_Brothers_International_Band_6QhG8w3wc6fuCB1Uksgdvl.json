@@ -1,0 +1,41 @@
+{
+  "id": "6QhG8w3wc6fuCB1Uksgdvl",
+  "name": "Oriental Brothers International Band",
+  "followers": 34078,
+  "monthlyListeners": 54519,
+  "topCities": {
+    "items": [
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 16787,
+        "region": "LA"
+      },
+      {
+        "city": "Port Harcourt",
+        "country": "NG",
+        "numberOfListeners": 14020,
+        "region": "RI"
+      },
+      {
+        "city": "Abuja",
+        "country": "NG",
+        "numberOfListeners": 8847,
+        "region": "FC"
+      },
+      {
+        "city": "Enugu",
+        "country": "NG",
+        "numberOfListeners": 2340,
+        "region": "EN"
+      },
+      {
+        "city": "Benin City",
+        "country": "NG",
+        "numberOfListeners": 1979,
+        "region": "ED"
+      }
+    ]
+  },
+  "worldRank": 0
+}

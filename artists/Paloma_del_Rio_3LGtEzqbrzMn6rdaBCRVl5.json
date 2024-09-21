@@ -1,0 +1,41 @@
+{
+  "id": "3LGtEzqbrzMn6rdaBCRVl5",
+  "name": "Paloma del Rio",
+  "followers": 986,
+  "monthlyListeners": 8404,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 679,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 361,
+        "region": "JAL"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 262,
+        "region": "LMA"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 250,
+        "region": "PUE"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 243,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

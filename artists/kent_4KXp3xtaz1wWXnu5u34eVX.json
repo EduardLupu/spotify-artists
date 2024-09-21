@@ -1,0 +1,41 @@
+{
+  "id": "4KXp3xtaz1wWXnu5u34eVX",
+  "name": "kent",
+  "followers": 499034,
+  "monthlyListeners": 758099,
+  "topCities": {
+    "items": [
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 199342,
+        "region": "AB"
+      },
+      {
+        "city": "Gothenburg",
+        "country": "SE",
+        "numberOfListeners": 88245,
+        "region": "O"
+      },
+      {
+        "city": "Malmo",
+        "country": "SE",
+        "numberOfListeners": 56346,
+        "region": "M"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 27850,
+        "region": "03"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 24885,
+        "region": "18"
+      }
+    ]
+  },
+  "worldRank": 0
+}

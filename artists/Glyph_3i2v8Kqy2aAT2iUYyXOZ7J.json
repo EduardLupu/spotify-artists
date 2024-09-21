@@ -1,0 +1,41 @@
+{
+  "id": "3i2v8Kqy2aAT2iUYyXOZ7J",
+  "name": "Glyph",
+  "followers": 6477,
+  "monthlyListeners": 28856,
+  "topCities": {
+    "items": [
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 357,
+        "region": "QC"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 350,
+        "region": "BE"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 335,
+        "region": "18"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 329,
+        "region": "10"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 321,
+        "region": "HH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

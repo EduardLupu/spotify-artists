@@ -1,0 +1,41 @@
+{
+  "id": "0TYKRzQsLUoSX1C6pURHn6",
+  "name": "Robsan",
+  "followers": 37703,
+  "monthlyListeners": 76582,
+  "topCities": {
+    "items": [
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 921,
+        "region": "QC"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 894,
+        "region": "ON"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 865,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 849,
+        "region": "IL"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 781,
+        "region": "AZ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3ri8xqBbYq16yoXmL5jwr6",
+  "name": "Leonardo",
+  "followers": 41,
+  "monthlyListeners": 16,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 2,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 1,
+        "region": "VIC"
+      },
+      {
+        "city": "Bordeaux",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "NAQ"
+      },
+      {
+        "city": "Kassel",
+        "country": "DE",
+        "numberOfListeners": 1,
+        "region": "HE"
+      },
+      {
+        "city": "Hanover",
+        "country": "DE",
+        "numberOfListeners": 1,
+        "region": "NI"
+      }
+    ]
+  },
+  "worldRank": 0
+}

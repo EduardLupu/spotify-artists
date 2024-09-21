@@ -1,0 +1,41 @@
+{
+  "id": "5Vz7hlMWR4OFye64dYoGm0",
+  "name": "Cross Canadian Ragweed",
+  "followers": 238098,
+  "monthlyListeners": 393673,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 26392,
+        "region": "TX"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 17718,
+        "region": "TX"
+      },
+      {
+        "city": "Austin",
+        "country": "US",
+        "numberOfListeners": 14108,
+        "region": "TX"
+      },
+      {
+        "city": "Fort Worth",
+        "country": "US",
+        "numberOfListeners": 11961,
+        "region": "TX"
+      },
+      {
+        "city": "San Antonio",
+        "country": "US",
+        "numberOfListeners": 11746,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

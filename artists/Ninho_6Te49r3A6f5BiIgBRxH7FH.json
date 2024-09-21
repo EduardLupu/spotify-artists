@@ -1,0 +1,41 @@
+{
+  "id": "6Te49r3A6f5BiIgBRxH7FH",
+  "name": "Ninho",
+  "followers": 10232191,
+  "monthlyListeners": 6616709,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 1224342,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 266072,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 265132,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 221954,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 196538,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

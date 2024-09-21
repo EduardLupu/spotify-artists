@@ -1,0 +1,41 @@
+{
+  "id": "3gIRvgZssIb9aiirIg0nI3",
+  "name": "Jeremy Zucker",
+  "followers": 2272080,
+  "monthlyListeners": 8325098,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 402662,
+        "region": "JK"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 161051,
+        "region": "10"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 143683,
+        "region": "00"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 139517,
+        "region": ""
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 128591,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

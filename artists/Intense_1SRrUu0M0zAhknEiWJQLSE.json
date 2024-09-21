@@ -1,0 +1,41 @@
+{
+  "id": "1SRrUu0M0zAhknEiWJQLSE",
+  "name": "Intense",
+  "followers": 218,
+  "monthlyListeners": 2441,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 429,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 143,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 116,
+        "region": "ENG"
+      },
+      {
+        "city": "Tower Hamlets",
+        "country": "GB",
+        "numberOfListeners": 52,
+        "region": "ENG"
+      },
+      {
+        "city": "Newham",
+        "country": "GB",
+        "numberOfListeners": 46,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

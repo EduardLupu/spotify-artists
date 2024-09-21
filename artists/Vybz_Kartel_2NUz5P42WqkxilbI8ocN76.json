@@ -1,0 +1,41 @@
+{
+  "id": "2NUz5P42WqkxilbI8ocN76",
+  "name": "Vybz Kartel",
+  "followers": 1508054,
+  "monthlyListeners": 2670028,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 195940,
+        "region": "ENG"
+      },
+      {
+        "city": "San José",
+        "country": "CR",
+        "numberOfListeners": 142291,
+        "region": "SJ"
+      },
+      {
+        "city": "Nairobi",
+        "country": "KE",
+        "numberOfListeners": 115105,
+        "region": "30"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 103279,
+        "region": "ON"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 68384,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

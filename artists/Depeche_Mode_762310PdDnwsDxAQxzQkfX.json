@@ -1,0 +1,41 @@
+{
+  "id": "762310PdDnwsDxAQxzQkfX",
+  "name": "Depeche Mode",
+  "followers": 6562421,
+  "monthlyListeners": 13653546,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 330193,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 303296,
+        "region": "CMX"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 207768,
+        "region": "SP"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 184492,
+        "region": "BE"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 172048,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

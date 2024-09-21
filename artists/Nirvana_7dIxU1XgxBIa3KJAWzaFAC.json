@@ -1,0 +1,41 @@
+{
+  "id": "7dIxU1XgxBIa3KJAWzaFAC",
+  "name": "Nirvana",
+  "followers": 23004,
+  "monthlyListeners": 61353,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1170,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 781,
+        "region": "VIC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 780,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 709,
+        "region": "NSW"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 691,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

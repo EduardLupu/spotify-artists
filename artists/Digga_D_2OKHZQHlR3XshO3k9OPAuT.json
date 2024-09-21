@@ -1,0 +1,41 @@
+{
+  "id": "2OKHZQHlR3XshO3k9OPAuT",
+  "name": "Digga D",
+  "followers": 318,
+  "monthlyListeners": 1033,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 163,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 44,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 33,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 31,
+        "region": "NSW"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 30,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

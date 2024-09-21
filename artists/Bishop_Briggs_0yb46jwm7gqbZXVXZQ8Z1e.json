@@ -1,0 +1,41 @@
+{
+  "id": "0yb46jwm7gqbZXVXZQ8Z1e",
+  "name": "Bishop Briggs",
+  "followers": 897049,
+  "monthlyListeners": 4360585,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 62720,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 49543,
+        "region": "NSW"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 46012,
+        "region": "34"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 43309,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 41567,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

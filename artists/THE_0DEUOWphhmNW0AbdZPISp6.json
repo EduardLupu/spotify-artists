@@ -1,0 +1,41 @@
+{
+  "id": "0DEUOWphhmNW0AbdZPISp6",
+  "name": "THE",
+  "followers": 67,
+  "monthlyListeners": 7,
+  "topCities": {
+    "items": [
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "PA"
+      },
+      {
+        "city": "Saskatoon",
+        "country": "CA",
+        "numberOfListeners": 1,
+        "region": "SK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 1,
+        "region": "NSW"
+      },
+      {
+        "city": "Columbia",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "PA"
+      },
+      {
+        "city": "Lancaster",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "PA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3yDIp0kaq9EFKe07X1X2rz",
+  "name": "Nile Rodgers",
+  "followers": 146948,
+  "monthlyListeners": 19332715,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 278191,
+        "region": "IDF"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 247885,
+        "region": "AB"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 219554,
+        "region": "RM"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 212970,
+        "region": "NH"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 199565,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 378
+}

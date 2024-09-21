@@ -1,0 +1,41 @@
+{
+  "id": "2auC28zjQyVTsiZKNgPRGs",
+  "name": "RM",
+  "followers": 17082206,
+  "monthlyListeners": 3111806,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 88052,
+        "region": "JK"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 63695,
+        "region": "10"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 48116,
+        "region": "SP"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 44294,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 38381,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

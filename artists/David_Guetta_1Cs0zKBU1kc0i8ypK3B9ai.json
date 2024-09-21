@@ -1,0 +1,41 @@
+{
+  "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+  "name": "David Guetta",
+  "followers": 26189867,
+  "monthlyListeners": 77605048,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1246137,
+        "region": "ENG"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 1052305,
+        "region": "IDF"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 1010400,
+        "region": "NH"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 955663,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 924606,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 11
+}

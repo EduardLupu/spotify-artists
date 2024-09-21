@@ -1,0 +1,41 @@
+{
+  "id": "3Fe3pszR2t4TOBVz41B1WR",
+  "name": "The Oh Hellos",
+  "followers": 525670,
+  "monthlyListeners": 3006386,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 31769,
+        "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 30696,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 29610,
+        "region": "NSW"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 27483,
+        "region": "JK"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 26849,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

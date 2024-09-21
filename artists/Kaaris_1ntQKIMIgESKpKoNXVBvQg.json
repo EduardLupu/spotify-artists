@@ -1,0 +1,41 @@
+{
+  "id": "1ntQKIMIgESKpKoNXVBvQg",
+  "name": "Kaaris",
+  "followers": 1903547,
+  "monthlyListeners": 2805813,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 465569,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 120056,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 98999,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 84589,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 72967,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

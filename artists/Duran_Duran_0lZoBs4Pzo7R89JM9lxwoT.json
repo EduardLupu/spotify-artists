@@ -1,0 +1,41 @@
+{
+  "id": "0lZoBs4Pzo7R89JM9lxwoT",
+  "name": "Duran Duran",
+  "followers": 3107178,
+  "monthlyListeners": 10099710,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 251127,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 206235,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 182906,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 126053,
+        "region": "NSW"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 124579,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

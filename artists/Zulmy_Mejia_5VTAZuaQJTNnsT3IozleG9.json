@@ -1,0 +1,41 @@
+{
+  "id": "5VTAZuaQJTNnsT3IozleG9",
+  "name": "Zulmy Mejia",
+  "followers": 17540,
+  "monthlyListeners": 58516,
+  "topCities": {
+    "items": [
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 8484,
+        "region": "GU"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 3649,
+        "region": "01"
+      },
+      {
+        "city": "San Salvador",
+        "country": "SV",
+        "numberOfListeners": 1628,
+        "region": "SS"
+      },
+      {
+        "city": "Managua",
+        "country": "NI",
+        "numberOfListeners": 1480,
+        "region": "MN"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1399,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

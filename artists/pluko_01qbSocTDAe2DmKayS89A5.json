@@ -1,0 +1,41 @@
+{
+  "id": "01qbSocTDAe2DmKayS89A5",
+  "name": "pluko",
+  "followers": 77879,
+  "monthlyListeners": 727093,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 14519,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 13551,
+        "region": "IL"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 12874,
+        "region": "CO"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 11985,
+        "region": "NY"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 10281,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

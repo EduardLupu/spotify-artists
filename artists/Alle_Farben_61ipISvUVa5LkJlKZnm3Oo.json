@@ -1,0 +1,41 @@
+{
+  "id": "61ipISvUVa5LkJlKZnm3Oo",
+  "name": "Alle Farben",
+  "followers": 357212,
+  "monthlyListeners": 3914081,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 150415,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 118531,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 109306,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 101641,
+        "region": "BY"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 85781,
+        "region": "9"
+      }
+    ]
+  },
+  "worldRank": 0
+}

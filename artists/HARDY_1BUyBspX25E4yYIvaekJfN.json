@@ -1,0 +1,41 @@
+{
+  "id": "1BUyBspX25E4yYIvaekJfN",
+  "name": "HARDY",
+  "followers": 94,
+  "monthlyListeners": 1133,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 124,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 99,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 80,
+        "region": "IL"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 69,
+        "region": "TX"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 55,
+        "region": "AZ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

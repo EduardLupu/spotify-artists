@@ -1,0 +1,41 @@
+{
+  "id": "17wfyQCgZZFnGMpKdfQXIh",
+  "name": "Dugg",
+  "followers": 550,
+  "monthlyListeners": 1592,
+  "topCities": {
+    "items": [
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 580,
+        "region": "03"
+      },
+      {
+        "city": "Trondheim",
+        "country": "NO",
+        "numberOfListeners": 66,
+        "region": "50"
+      },
+      {
+        "city": "Bergen",
+        "country": "NO",
+        "numberOfListeners": 51,
+        "region": "46"
+      },
+      {
+        "city": "Stavanger",
+        "country": "NO",
+        "numberOfListeners": 35,
+        "region": "11"
+      },
+      {
+        "city": "Fredrikstad",
+        "country": "NO",
+        "numberOfListeners": 19,
+        "region": "01"
+      }
+    ]
+  },
+  "worldRank": 0
+}

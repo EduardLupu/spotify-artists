@@ -1,0 +1,41 @@
+{
+  "id": "5Nk0ZytxbTmln7pHwEEVYG",
+  "name": "Marcelo Rubio",
+  "followers": 9615,
+  "monthlyListeners": 349287,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 18623,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 18134,
+        "region": "LMA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 13649,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 10222,
+        "region": "CMX"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 7498,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

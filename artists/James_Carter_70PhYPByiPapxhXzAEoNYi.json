@@ -1,0 +1,41 @@
+{
+  "id": "70PhYPByiPapxhXzAEoNYi",
+  "name": "James Carter",
+  "followers": 771,
+  "monthlyListeners": 1066,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 30,
+        "region": "BE"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 16,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 16,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 16,
+        "region": "NH"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 14,
+        "region": "34"
+      }
+    ]
+  },
+  "worldRank": 0
+}

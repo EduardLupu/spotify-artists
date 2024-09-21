@@ -1,0 +1,41 @@
+{
+  "id": "6LEeAFiJF8OuPx747e1wxR",
+  "name": "Blood Orange",
+  "followers": 975853,
+  "monthlyListeners": 5662384,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 119246,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 118267,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 89911,
+        "region": "NSW"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 89748,
+        "region": "NY"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 85283,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "66Ok6bgC570sHkw08N20pZ",
+  "name": "OBOY",
+  "followers": 924663,
+  "monthlyListeners": 4455056,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 638955,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 169475,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 141213,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 115685,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 105181,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

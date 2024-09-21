@@ -1,0 +1,41 @@
+{
+  "id": "2if277C04z6zbfjSSciCp5",
+  "name": "Divine",
+  "followers": 266,
+  "monthlyListeners": 540,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 73,
+        "region": "RM"
+      },
+      {
+        "city": "Caracas",
+        "country": "VE",
+        "numberOfListeners": 42,
+        "region": "A"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 17,
+        "region": "C"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 16,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 14,
+        "region": "B"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4gOc8TsQed9eqnqJct2c5v",
+  "name": "K/DA",
+  "followers": 2162162,
+  "monthlyListeners": 2519802,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 32782,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 32489,
+        "region": "SP"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 26510,
+        "region": ""
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 25864,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 23318,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

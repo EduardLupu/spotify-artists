@@ -1,0 +1,41 @@
+{
+  "id": "0zOcE3mg9nS6l3yxt1Y0bK",
+  "name": "The Fray",
+  "followers": 4050861,
+  "monthlyListeners": 12258360,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 214097,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 196466,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 182158,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 147375,
+        "region": "QLD"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 124209,
+        "region": "JK"
+      }
+    ]
+  },
+  "worldRank": 0
+}

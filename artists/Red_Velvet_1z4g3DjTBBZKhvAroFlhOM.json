@@ -1,0 +1,41 @@
+{
+  "id": "1z4g3DjTBBZKhvAroFlhOM",
+  "name": "Red Velvet",
+  "followers": 9212579,
+  "monthlyListeners": 6771362,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 451218,
+        "region": "JK"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 151108,
+        "region": "10"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 142217,
+        "region": "14"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 123059,
+        "region": "13"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 116085,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 0
+}

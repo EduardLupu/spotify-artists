@@ -1,0 +1,41 @@
+{
+  "id": "4TrraAsitQKl821DQY42cZ",
+  "name": "Sigrid",
+  "followers": 704950,
+  "monthlyListeners": 2227358,
+  "topCities": {
+    "items": [
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 74160,
+        "region": "03"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 62585,
+        "region": "ENG"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 37559,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 27303,
+        "region": "NSW"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 25081,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "55kGWM0ahorhyUnDfaSjVo",
+  "name": "ZOË",
+  "followers": 27438,
+  "monthlyListeners": 70485,
+  "topCities": {
+    "items": [
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 2166,
+        "region": "9"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 1904,
+        "region": "25"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 992,
+        "region": "IDF"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 920,
+        "region": "62"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 912,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

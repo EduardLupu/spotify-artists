@@ -1,0 +1,41 @@
+{
+  "id": "7qlh1IM1XMeQXA9ukp59au",
+  "name": "Plan B",
+  "followers": 324464,
+  "monthlyListeners": 690575,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 80543,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 28383,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 26746,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 23010,
+        "region": "ENG"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 12529,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5eir5zFJpES4j7gsymbVyl",
+  "name": "Ronnie Flex",
+  "followers": 592585,
+  "monthlyListeners": 3212517,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 990470,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 795034,
+        "region": "ZH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 418665,
+        "region": "UT"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 180172,
+        "region": "BRU"
+      },
+      {
+        "city": "Amersfoort",
+        "country": "NL",
+        "numberOfListeners": 159272,
+        "region": "UT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

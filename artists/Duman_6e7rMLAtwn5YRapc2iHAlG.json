@@ -1,0 +1,41 @@
+{
+  "id": "6e7rMLAtwn5YRapc2iHAlG",
+  "name": "Duman",
+  "followers": 42320,
+  "monthlyListeners": 82127,
+  "topCities": {
+    "items": [
+      {
+        "city": "Almaty",
+        "country": "KZ",
+        "numberOfListeners": 20268,
+        "region": "75"
+      },
+      {
+        "city": "Astana",
+        "country": "KZ",
+        "numberOfListeners": 11451,
+        "region": "71"
+      },
+      {
+        "city": "Shymkent",
+        "country": "KZ",
+        "numberOfListeners": 8739,
+        "region": "79"
+      },
+      {
+        "city": "Aktobe",
+        "country": "KZ",
+        "numberOfListeners": 3962,
+        "region": "15"
+      },
+      {
+        "city": "Bishkek",
+        "country": "KG",
+        "numberOfListeners": 3946,
+        "region": "GB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "12j6dJrPXanCBwY599pZxf",
+  "name": "Matt Maltese",
+  "followers": 602809,
+  "monthlyListeners": 6929628,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 149551,
+        "region": "JK"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 82457,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 63853,
+        "region": "ENG"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 59954,
+        "region": "00"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 59809,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

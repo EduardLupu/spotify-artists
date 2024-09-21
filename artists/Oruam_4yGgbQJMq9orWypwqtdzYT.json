@@ -1,0 +1,41 @@
+{
+  "id": "4yGgbQJMq9orWypwqtdzYT",
+  "name": "Oruam",
+  "followers": 3644549,
+  "monthlyListeners": 7672767,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1318460,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 730647,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 395695,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 295570,
+        "region": "SP"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 294546,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

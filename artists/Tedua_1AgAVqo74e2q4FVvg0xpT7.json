@@ -1,0 +1,41 @@
+{
+  "id": "1AgAVqo74e2q4FVvg0xpT7",
+  "name": "Tedua",
+  "followers": 1831226,
+  "monthlyListeners": 4809526,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 1339117,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 591337,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 230082,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 209415,
+        "region": "21"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 159055,
+        "region": "52"
+      }
+    ]
+  },
+  "worldRank": 0
+}

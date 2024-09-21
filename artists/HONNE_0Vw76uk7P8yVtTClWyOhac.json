@@ -1,0 +1,41 @@
+{
+  "id": "0Vw76uk7P8yVtTClWyOhac",
+  "name": "HONNE",
+  "followers": 1554318,
+  "monthlyListeners": 3886121,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 628553,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 131460,
+        "region": "JB"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 108304,
+        "region": "10"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 89925,
+        "region": "00"
+      },
+      {
+        "city": "Surabaya",
+        "country": "ID",
+        "numberOfListeners": 66111,
+        "region": "JI"
+      }
+    ]
+  },
+  "worldRank": 0
+}

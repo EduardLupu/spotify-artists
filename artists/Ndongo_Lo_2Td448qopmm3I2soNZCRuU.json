@@ -1,0 +1,41 @@
+{
+  "id": "2Td448qopmm3I2soNZCRuU",
+  "name": "Ndongo Lo",
+  "followers": 5014,
+  "monthlyListeners": 3057,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dakar",
+        "country": "SN",
+        "numberOfListeners": 513,
+        "region": "DK"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 219,
+        "region": "IDF"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 113,
+        "region": "25"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 55,
+        "region": "QC"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 37,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

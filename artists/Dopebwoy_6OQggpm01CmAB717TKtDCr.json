@@ -1,0 +1,41 @@
+{
+  "id": "6OQggpm01CmAB717TKtDCr",
+  "name": "Dopebwoy",
+  "followers": 248421,
+  "monthlyListeners": 1511203,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 370366,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 303042,
+        "region": "ZH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 139377,
+        "region": "UT"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 73157,
+        "region": "BRU"
+      },
+      {
+        "city": "Amersfoort",
+        "country": "NL",
+        "numberOfListeners": 54702,
+        "region": "UT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

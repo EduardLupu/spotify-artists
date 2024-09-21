@@ -1,0 +1,41 @@
+{
+  "id": "28y6CyJNkGNjJQKrlx4AmN",
+  "name": "HRVY",
+  "followers": 1693119,
+  "monthlyListeners": 2137942,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 57850,
+        "region": "JK"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 44681,
+        "region": "13"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 25015,
+        "region": "NSW"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 22041,
+        "region": ""
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 21161,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

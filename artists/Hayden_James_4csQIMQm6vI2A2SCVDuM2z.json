@@ -1,0 +1,41 @@
+{
+  "id": "4csQIMQm6vI2A2SCVDuM2z",
+  "name": "Hayden James",
+  "followers": 263202,
+  "monthlyListeners": 2844378,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 123624,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 104018,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 75598,
+        "region": "QLD"
+      },
+      {
+        "city": "Perth",
+        "country": "AU",
+        "numberOfListeners": 48701,
+        "region": "WA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 36814,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

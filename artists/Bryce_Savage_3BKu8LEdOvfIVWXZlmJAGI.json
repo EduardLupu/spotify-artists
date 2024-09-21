@@ -1,0 +1,41 @@
+{
+  "id": "3BKu8LEdOvfIVWXZlmJAGI",
+  "name": "Bryce Savage",
+  "followers": 313975,
+  "monthlyListeners": 863464,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 14243,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 14101,
+        "region": "TX"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 14029,
+        "region": "CO"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 13076,
+        "region": "WA"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 12103,
+        "region": "NC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

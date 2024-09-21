@@ -1,0 +1,41 @@
+{
+  "id": "7m0BsF0t3K9WQFgKoPejfk",
+  "name": "ArrDee",
+  "followers": 980629,
+  "monthlyListeners": 3957559,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 258402,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 117289,
+        "region": "NSW"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 92957,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 89214,
+        "region": "VIC"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 83923,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

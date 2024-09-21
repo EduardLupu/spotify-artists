@@ -1,0 +1,41 @@
+{
+  "id": "0GNq4xh8uFCyihPurnunf7",
+  "name": "Engenheiros Do Hawaii",
+  "followers": 2432191,
+  "monthlyListeners": 2641219,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 397871,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 194079,
+        "region": "MG"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 162991,
+        "region": "RJ"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 120024,
+        "region": "PR"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 119151,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

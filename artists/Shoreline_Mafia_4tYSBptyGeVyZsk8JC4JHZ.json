@@ -1,0 +1,41 @@
+{
+  "id": "4tYSBptyGeVyZsk8JC4JHZ",
+  "name": "Shoreline Mafia",
+  "followers": 1236891,
+  "monthlyListeners": 4281375,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 181043,
+        "region": "CA"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 93857,
+        "region": "AZ"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 84877,
+        "region": "IL"
+      },
+      {
+        "city": "Sacramento",
+        "country": "US",
+        "numberOfListeners": 82871,
+        "region": "CA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 74318,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

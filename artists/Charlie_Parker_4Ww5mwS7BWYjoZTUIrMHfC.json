@@ -1,0 +1,41 @@
+{
+  "id": "4Ww5mwS7BWYjoZTUIrMHfC",
+  "name": "Charlie Parker",
+  "followers": 632024,
+  "monthlyListeners": 876243,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 11918,
+        "region": "NY"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 11565,
+        "region": "RM"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 9442,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 9263,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 8627,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

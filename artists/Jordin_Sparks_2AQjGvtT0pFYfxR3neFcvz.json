@@ -1,0 +1,41 @@
+{
+  "id": "2AQjGvtT0pFYfxR3neFcvz",
+  "name": "Jordin Sparks",
+  "followers": 2420961,
+  "monthlyListeners": 5140215,
+  "topCities": {
+    "items": [
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 109132,
+        "region": "00"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 101550,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 95926,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 79879,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 78120,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

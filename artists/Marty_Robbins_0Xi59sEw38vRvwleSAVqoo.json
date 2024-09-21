@@ -1,0 +1,41 @@
+{
+  "id": "0Xi59sEw38vRvwleSAVqoo",
+  "name": "Marty Robbins",
+  "followers": 544605,
+  "monthlyListeners": 2446198,
+  "topCities": {
+    "items": [
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 38431,
+        "region": "CO"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 36355,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 36250,
+        "region": "TX"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 34475,
+        "region": "WA"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 29554,
+        "region": "AZ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

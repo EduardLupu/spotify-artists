@@ -1,0 +1,41 @@
+{
+  "id": "6qVC8m27i8kYNfBNyIt4yW",
+  "name": "Bones",
+  "followers": 16773,
+  "monthlyListeners": 4816,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 129,
+        "region": "CA"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 87,
+        "region": "AZ"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 71,
+        "region": "TX"
+      },
+      {
+        "city": "San Antonio",
+        "country": "US",
+        "numberOfListeners": 67,
+        "region": "TX"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 59,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

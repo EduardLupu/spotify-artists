@@ -1,0 +1,41 @@
+{
+  "id": "0rZRTXEmmPmx6gt92tBqIc",
+  "name": "Moira Dela Torre",
+  "followers": 9852429,
+  "monthlyListeners": 3602069,
+  "topCities": {
+    "items": [
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 402700,
+        "region": "00"
+      },
+      {
+        "city": "Manila",
+        "country": "PH",
+        "numberOfListeners": 240877,
+        "region": "00"
+      },
+      {
+        "city": "Davao City",
+        "country": "PH",
+        "numberOfListeners": 181715,
+        "region": "11"
+      },
+      {
+        "city": "Cebu City",
+        "country": "PH",
+        "numberOfListeners": 176552,
+        "region": "07"
+      },
+      {
+        "city": "Caloocan City",
+        "country": "PH",
+        "numberOfListeners": 150633,
+        "region": "00"
+      }
+    ]
+  },
+  "worldRank": 0
+}

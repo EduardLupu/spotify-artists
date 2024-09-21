@@ -1,0 +1,41 @@
+{
+  "id": "37NCvKvazStnu0IQxeCPHR",
+  "name": "Capo",
+  "followers": 5567,
+  "monthlyListeners": 10858,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1222,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 506,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 432,
+        "region": "JAL"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 383,
+        "region": "PUE"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 334,
+        "region": "QUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

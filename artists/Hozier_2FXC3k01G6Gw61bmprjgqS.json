@@ -1,0 +1,41 @@
+{
+  "id": "2FXC3k01G6Gw61bmprjgqS",
+  "name": "Hozier",
+  "followers": 7830656,
+  "monthlyListeners": 53322105,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1008062,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 808153,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 691507,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 552795,
+        "region": "IL"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 541638,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 40
+}

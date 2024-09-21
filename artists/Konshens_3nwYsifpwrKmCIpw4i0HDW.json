@@ -1,0 +1,41 @@
+{
+  "id": "3nwYsifpwrKmCIpw4i0HDW",
+  "name": "Konshens",
+  "followers": 505587,
+  "monthlyListeners": 1881889,
+  "topCities": {
+    "items": [
+      {
+        "city": "San José",
+        "country": "CR",
+        "numberOfListeners": 99849,
+        "region": "SJ"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 60817,
+        "region": "ENG"
+      },
+      {
+        "city": "Nairobi",
+        "country": "KE",
+        "numberOfListeners": 57893,
+        "region": "30"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 52266,
+        "region": "NH"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 46432,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

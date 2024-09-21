@@ -1,0 +1,41 @@
+{
+  "id": "5BtHciL0e0zOP7prIHn3pP",
+  "name": "Breaking Benjamin",
+  "followers": 4678322,
+  "monthlyListeners": 6730867,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 108083,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 95746,
+        "region": "TX"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 82089,
+        "region": "NC"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 80213,
+        "region": "PA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 73136,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

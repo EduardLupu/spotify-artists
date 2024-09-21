@@ -1,0 +1,41 @@
+{
+  "id": "7MhMgCo0Bl0Kukl93PZbYS",
+  "name": "Blur",
+  "followers": 3450587,
+  "monthlyListeners": 11770876,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 354459,
+        "region": "ENG"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 208433,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 166784,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 156757,
+        "region": "VIC"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 133311,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

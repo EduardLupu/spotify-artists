@@ -1,0 +1,41 @@
+{
+  "id": "70kkdajctXSbqSMJbQO424",
+  "name": "Kacey Musgraves",
+  "followers": 1471621,
+  "monthlyListeners": 20116927,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 415115,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 357819,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 335339,
+        "region": "VIC"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 315662,
+        "region": "NY"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 301648,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 354
+}

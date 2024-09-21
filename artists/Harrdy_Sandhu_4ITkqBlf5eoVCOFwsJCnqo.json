@@ -1,0 +1,41 @@
+{
+  "id": "4ITkqBlf5eoVCOFwsJCnqo",
+  "name": "Harrdy Sandhu",
+  "followers": 8719137,
+  "monthlyListeners": 6763047,
+  "topCities": {
+    "items": [
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 638559,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 509842,
+        "region": "DL"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 477624,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 439554,
+        "region": "MH"
+      },
+      {
+        "city": "Jaipur",
+        "country": "IN",
+        "numberOfListeners": 349808,
+        "region": "RJ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

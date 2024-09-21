@@ -1,0 +1,41 @@
+{
+  "id": "6rJqqRce0Kvo2dJUXoHleC",
+  "name": "Alabama",
+  "followers": 1446991,
+  "monthlyListeners": 5641345,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 104138,
+        "region": "IL"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 100958,
+        "region": "NC"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 96294,
+        "region": "TX"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 78009,
+        "region": "CO"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 77904,
+        "region": "GA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

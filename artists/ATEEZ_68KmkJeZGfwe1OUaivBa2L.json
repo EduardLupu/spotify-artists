@@ -1,0 +1,41 @@
+{
+  "id": "68KmkJeZGfwe1OUaivBa2L",
+  "name": "ATEEZ",
+  "followers": 4219033,
+  "monthlyListeners": 3928643,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 138607,
+        "region": "JK"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 79310,
+        "region": "10"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 77949,
+        "region": "13"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 59819,
+        "region": "14"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 49371,
+        "region": ""
+      }
+    ]
+  },
+  "worldRank": 0
+}

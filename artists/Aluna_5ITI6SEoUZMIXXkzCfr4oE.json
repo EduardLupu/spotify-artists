@@ -1,0 +1,41 @@
+{
+  "id": "5ITI6SEoUZMIXXkzCfr4oE",
+  "name": "Aluna",
+  "followers": 80192,
+  "monthlyListeners": 3534229,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 92703,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 82914,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 71034,
+        "region": "VIC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 60615,
+        "region": "CA"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 50445,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

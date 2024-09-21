@@ -1,0 +1,41 @@
+{
+  "id": "2rfkmr5WzRN9D9gAfb2ycd",
+  "name": "Slovak Philharmonic",
+  "followers": 10241,
+  "monthlyListeners": 2336389,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 32137,
+        "region": "IDF"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 30096,
+        "region": "RM"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 22940,
+        "region": "34"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 22815,
+        "region": "SP"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 21905,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

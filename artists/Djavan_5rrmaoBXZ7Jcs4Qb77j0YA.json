@@ -1,0 +1,41 @@
+{
+  "id": "5rrmaoBXZ7Jcs4Qb77j0YA",
+  "name": "Djavan",
+  "followers": 2908866,
+  "monthlyListeners": 5220451,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 861227,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 469060,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 259528,
+        "region": "MG"
+      },
+      {
+        "city": "Salvador",
+        "country": "BR",
+        "numberOfListeners": 175685,
+        "region": "BA"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 172697,
+        "region": "DF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

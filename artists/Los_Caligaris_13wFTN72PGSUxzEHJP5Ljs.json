@@ -1,0 +1,41 @@
+{
+  "id": "13wFTN72PGSUxzEHJP5Ljs",
+  "name": "Los Caligaris",
+  "followers": 1128514,
+  "monthlyListeners": 2338778,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 344151,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 144871,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 134935,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 117487,
+        "region": "DC"
+      },
+      {
+        "city": "Cuauhtémoc",
+        "country": "MX",
+        "numberOfListeners": 103976,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3wQ87Cx3N17p9LuaqgWpEE",
+  "name": "Sal Houdini",
+  "followers": 30909,
+  "monthlyListeners": 86396,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 4085,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 3189,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 2901,
+        "region": "ENG"
+      },
+      {
+        "city": "Dubai",
+        "country": "AE",
+        "numberOfListeners": 2265,
+        "region": "DU"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 2200,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

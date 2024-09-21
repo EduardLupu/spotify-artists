@@ -1,0 +1,41 @@
+{
+  "id": "3aQeKQSyrW4qWr35idm0cy",
+  "name": "T-Pain",
+  "followers": 5002699,
+  "monthlyListeners": 16629491,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 302658,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 264294,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 261934,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 236076,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 209745,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 486
+}

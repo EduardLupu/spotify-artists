@@ -1,0 +1,41 @@
+{
+  "id": "194KfPDmshdDwoSumhgVwr",
+  "name": "ghost",
+  "followers": 42,
+  "monthlyListeners": 169,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 69,
+        "region": "18"
+      },
+      {
+        "city": "Bern",
+        "country": "CH",
+        "numberOfListeners": 25,
+        "region": "BE"
+      },
+      {
+        "city": "Zurich",
+        "country": "CH",
+        "numberOfListeners": 16,
+        "region": "ZH"
+      },
+      {
+        "city": "Lausanne",
+        "country": "CH",
+        "numberOfListeners": 8,
+        "region": "VD"
+      },
+      {
+        "city": "Aarburg",
+        "country": "CH",
+        "numberOfListeners": 7,
+        "region": "AG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

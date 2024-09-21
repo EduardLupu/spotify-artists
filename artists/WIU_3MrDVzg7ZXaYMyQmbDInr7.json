@@ -1,0 +1,41 @@
+{
+  "id": "3MrDVzg7ZXaYMyQmbDInr7",
+  "name": "WIU",
+  "followers": 2340431,
+  "monthlyListeners": 11145061,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1980987,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 860217,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 586976,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 474383,
+        "region": "SP"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 447291,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

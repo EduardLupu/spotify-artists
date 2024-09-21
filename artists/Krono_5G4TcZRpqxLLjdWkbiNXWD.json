@@ -1,0 +1,41 @@
+{
+  "id": "5G4TcZRpqxLLjdWkbiNXWD",
+  "name": "Krono",
+  "followers": 25,
+  "monthlyListeners": 1689,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 601,
+        "region": "25"
+      },
+      {
+        "city": "Rovellasca",
+        "country": "IT",
+        "numberOfListeners": 104,
+        "region": "25"
+      },
+      {
+        "city": "Origgio",
+        "country": "IT",
+        "numberOfListeners": 66,
+        "region": "25"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 61,
+        "region": "18"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 41,
+        "region": "62"
+      }
+    ]
+  },
+  "worldRank": 0
+}

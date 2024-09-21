@@ -1,0 +1,41 @@
+{
+  "id": "1mcTU81TzQhprhouKaTkpq",
+  "name": "Rauw Alejandro",
+  "followers": 23433415,
+  "monthlyListeners": 47797929,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 2021645,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 2011479,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1657627,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 1526812,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1379881,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 54
+}

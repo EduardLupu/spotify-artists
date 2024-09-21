@@ -1,0 +1,41 @@
+{
+  "id": "3w6zswp5THsSKYLICUbDTZ",
+  "name": "Gabrielle Aplin",
+  "followers": 675449,
+  "monthlyListeners": 1428272,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 41395,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 30151,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 22818,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 20041,
+        "region": "VIC"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 17212,
+        "region": "RJ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

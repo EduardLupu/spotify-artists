@@ -1,0 +1,41 @@
+{
+  "id": "7BLY667M9UcyQcoig1k9Lt",
+  "name": "Elsa Field",
+  "followers": 2898,
+  "monthlyListeners": 18338,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 484,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 221,
+        "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 211,
+        "region": "RM"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 210,
+        "region": "NH"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 200,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

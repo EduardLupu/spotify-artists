@@ -1,0 +1,41 @@
+{
+  "id": "6SLAMfhOi7UJI0fMztaK0m",
+  "name": "Rainbow",
+  "followers": 1524155,
+  "monthlyListeners": 2439089,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 38862,
+        "region": "ENG"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 35295,
+        "region": "18"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 33611,
+        "region": "SP"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 32574,
+        "region": "34"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 32410,
+        "region": "AB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

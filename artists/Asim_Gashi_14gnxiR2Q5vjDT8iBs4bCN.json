@@ -1,0 +1,41 @@
+{
+  "id": "14gnxiR2Q5vjDT8iBs4bCN",
+  "name": "Asim Gashi",
+  "followers": 3038,
+  "monthlyListeners": 16054,
+  "topCities": {
+    "items": [
+      {
+        "city": "Pristina",
+        "country": "XK",
+        "numberOfListeners": 1439,
+        "region": ""
+      },
+      {
+        "city": "Zurich",
+        "country": "CH",
+        "numberOfListeners": 1207,
+        "region": "ZH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 621,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 611,
+        "region": "BW"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 560,
+        "region": "HE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

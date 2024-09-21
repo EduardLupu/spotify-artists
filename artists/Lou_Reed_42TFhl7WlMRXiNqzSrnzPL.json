@@ -1,0 +1,41 @@
+{
+  "id": "42TFhl7WlMRXiNqzSrnzPL",
+  "name": "Lou Reed",
+  "followers": 1861851,
+  "monthlyListeners": 5595821,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 102567,
+        "region": "ENG"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 93021,
+        "region": "IDF"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 88912,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 78533,
+        "region": "VIC"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 65932,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

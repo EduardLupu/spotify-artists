@@ -1,0 +1,41 @@
+{
+  "id": "2iojnBLj0qIMiKPvVhLnsH",
+  "name": "Trey Songz",
+  "followers": 7449962,
+  "monthlyListeners": 7853184,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 133702,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 122028,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 116678,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 108958,
+        "region": "ENG"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 101846,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6pbE0pacGL0MCKjJRnTnP8",
+  "name": "Vinyl Pinups",
+  "followers": 3040,
+  "monthlyListeners": 17905,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 289,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 264,
+        "region": "IL"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 248,
+        "region": "CO"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 213,
+        "region": "WA"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 196,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

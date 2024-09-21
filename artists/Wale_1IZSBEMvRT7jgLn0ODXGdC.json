@@ -1,0 +1,41 @@
+{
+  "id": "1IZSBEMvRT7jgLn0ODXGdC",
+  "name": "Wale",
+  "followers": 283,
+  "monthlyListeners": 271,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 21,
+        "region": "SP"
+      },
+      {
+        "city": "Campo Grande",
+        "country": "BR",
+        "numberOfListeners": 9,
+        "region": "MS"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 7,
+        "region": "DF"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 7,
+        "region": "RS"
+      },
+      {
+        "city": "Düsseldorf",
+        "country": "DE",
+        "numberOfListeners": 5,
+        "region": "NW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

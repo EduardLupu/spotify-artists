@@ -1,0 +1,41 @@
+{
+  "id": "0FwnPHExlRRxEZPLAi5tmG",
+  "name": "JC Reyes",
+  "followers": 911512,
+  "monthlyListeners": 7665347,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 850470,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 538271,
+        "region": "CT"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 426098,
+        "region": "RM"
+      },
+      {
+        "city": "Valencia",
+        "country": "ES",
+        "numberOfListeners": 266155,
+        "region": "VC"
+      },
+      {
+        "city": "Seville",
+        "country": "ES",
+        "numberOfListeners": 253617,
+        "region": "AN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

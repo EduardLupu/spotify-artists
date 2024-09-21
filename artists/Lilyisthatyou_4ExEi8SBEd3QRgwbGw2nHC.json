@@ -1,0 +1,41 @@
+{
+  "id": "4ExEi8SBEd3QRgwbGw2nHC",
+  "name": "Lilyisthatyou",
+  "followers": 75302,
+  "monthlyListeners": 549908,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 9755,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 9516,
+        "region": "NSW"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 8833,
+        "region": "ON"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 8806,
+        "region": "VIC"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 8741,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

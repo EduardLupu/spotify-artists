@@ -1,0 +1,41 @@
+{
+  "id": "0nmQIMXWTXfhgOBdNzhGOs",
+  "name": "Avenged Sevenfold",
+  "followers": 8538707,
+  "monthlyListeners": 10744861,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1320132,
+        "region": "JK"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 343540,
+        "region": "JB"
+      },
+      {
+        "city": "Surabaya",
+        "country": "ID",
+        "numberOfListeners": 173068,
+        "region": "JI"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 169367,
+        "region": "SP"
+      },
+      {
+        "city": "Yogyakarta",
+        "country": "ID",
+        "numberOfListeners": 148513,
+        "region": "YO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

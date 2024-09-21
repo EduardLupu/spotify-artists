@@ -1,0 +1,41 @@
+{
+  "id": "53KwLdlmrlCelAZMaLVZqU",
+  "name": "James Blake",
+  "followers": 1481853,
+  "monthlyListeners": 9614122,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 168102,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 129588,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 127779,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 115187,
+        "region": "VIC"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 108710,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

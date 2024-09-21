@@ -1,0 +1,41 @@
+{
+  "id": "3t5xRXzsuZmMDkQzgOX35S",
+  "name": "Robin Schulz",
+  "followers": 3114884,
+  "monthlyListeners": 24968744,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 367796,
+        "region": "IDF"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 321638,
+        "region": "BE"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 317378,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 310273,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 300735,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 224
+}

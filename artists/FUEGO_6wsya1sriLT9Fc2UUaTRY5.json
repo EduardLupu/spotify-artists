@@ -1,0 +1,41 @@
+{
+  "id": "6wsya1sriLT9Fc2UUaTRY5",
+  "name": "FUEGO",
+  "followers": 1575,
+  "monthlyListeners": 22202,
+  "topCities": {
+    "items": [
+      {
+        "city": "Pristina",
+        "country": "XK",
+        "numberOfListeners": 1780,
+        "region": ""
+      },
+      {
+        "city": "Tirana",
+        "country": "AL",
+        "numberOfListeners": 1611,
+        "region": "11"
+      },
+      {
+        "city": "Zurich",
+        "country": "CH",
+        "numberOfListeners": 1401,
+        "region": "ZH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 799,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 651,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

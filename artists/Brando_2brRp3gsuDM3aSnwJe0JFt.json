@@ -1,0 +1,41 @@
+{
+  "id": "2brRp3gsuDM3aSnwJe0JFt",
+  "name": "Brando",
+  "followers": 483,
+  "monthlyListeners": 734,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 78,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 38,
+        "region": "HH"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 27,
+        "region": "BY"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 25,
+        "region": "9"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 22,
+        "region": "HE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

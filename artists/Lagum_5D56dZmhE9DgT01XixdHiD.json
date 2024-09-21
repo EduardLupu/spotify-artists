@@ -1,0 +1,41 @@
+{
+  "id": "5D56dZmhE9DgT01XixdHiD",
+  "name": "Lagum",
+  "followers": 969118,
+  "monthlyListeners": 3659874,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 598943,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 264282,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 186457,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 147095,
+        "region": "PR"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 131676,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3d1olqhURDe8e5HOta1Qxg",
+  "name": "The Neville Brothers",
+  "followers": 74494,
+  "monthlyListeners": 217160,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 4491,
+        "region": "NH"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 3325,
+        "region": "NSW"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 3243,
+        "region": "IDF"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 2913,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 2708,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

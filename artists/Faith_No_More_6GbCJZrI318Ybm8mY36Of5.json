@@ -1,0 +1,41 @@
+{
+  "id": "6GbCJZrI318Ybm8mY36Of5",
+  "name": "Faith No More",
+  "followers": 1845327,
+  "monthlyListeners": 3091050,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 137645,
+        "region": "RM"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 105104,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 66185,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 61257,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 51649,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

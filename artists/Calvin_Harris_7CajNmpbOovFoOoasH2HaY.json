@@ -1,0 +1,41 @@
+{
+  "id": "7CajNmpbOovFoOoasH2HaY",
+  "name": "Calvin Harris",
+  "followers": 22856606,
+  "monthlyListeners": 67256199,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1238114,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 928387,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 893883,
+        "region": "SP"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 839407,
+        "region": "JK"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 821490,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 17
+}

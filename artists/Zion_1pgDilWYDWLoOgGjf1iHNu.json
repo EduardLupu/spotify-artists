@@ -1,0 +1,41 @@
+{
+  "id": "1pgDilWYDWLoOgGjf1iHNu",
+  "name": "Zion",
+  "followers": 4194645,
+  "monthlyListeners": 13084607,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 946076,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 792413,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 485684,
+        "region": "LMA"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 439468,
+        "region": "ANT"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 403391,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

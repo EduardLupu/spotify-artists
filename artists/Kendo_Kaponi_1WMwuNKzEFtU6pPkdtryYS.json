@@ -1,0 +1,41 @@
+{
+  "id": "1WMwuNKzEFtU6pPkdtryYS",
+  "name": "Kendo Kaponi",
+  "followers": 1151780,
+  "monthlyListeners": 2156449,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 233314,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 105539,
+        "region": "DC"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 67014,
+        "region": "ANT"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 60428,
+        "region": "CMX"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 60287,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

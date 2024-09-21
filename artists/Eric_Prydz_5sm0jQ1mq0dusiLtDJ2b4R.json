@@ -1,0 +1,41 @@
+{
+  "id": "5sm0jQ1mq0dusiLtDJ2b4R",
+  "name": "Eric Prydz",
+  "followers": 637598,
+  "monthlyListeners": 7567373,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 156513,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 141583,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 132710,
+        "region": "VIC"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 104242,
+        "region": "IDF"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 97552,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

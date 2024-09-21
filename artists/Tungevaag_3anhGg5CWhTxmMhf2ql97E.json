@@ -1,0 +1,41 @@
+{
+  "id": "3anhGg5CWhTxmMhf2ql97E",
+  "name": "Tungevaag",
+  "followers": 51,
+  "monthlyListeners": 3196,
+  "topCities": {
+    "items": [
+      {
+        "city": "Copenhagen",
+        "country": "DK",
+        "numberOfListeners": 163,
+        "region": "84"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 89,
+        "region": "03"
+      },
+      {
+        "city": "Frederiksberg",
+        "country": "DK",
+        "numberOfListeners": 68,
+        "region": "84"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 45,
+        "region": "AB"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 44,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

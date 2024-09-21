@@ -1,0 +1,41 @@
+{
+  "id": "3famqI9bxiwLcAjRq3HuYl",
+  "name": "Riverdale Cast",
+  "followers": 544858,
+  "monthlyListeners": 323772,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 3924,
+        "region": "SP"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 3614,
+        "region": "IDF"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 3376,
+        "region": "CMX"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 3351,
+        "region": "BE"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 3175,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

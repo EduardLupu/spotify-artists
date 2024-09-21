@@ -1,0 +1,41 @@
+{
+  "id": "3CbYyyd8wH3RT6t0jwpdzC",
+  "name": "Murda Beatz",
+  "followers": 149291,
+  "monthlyListeners": 2571138,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 36083,
+        "region": "CA"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 30468,
+        "region": "ON"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 30345,
+        "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 28231,
+        "region": "NSW"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 24151,
+        "region": "AZ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

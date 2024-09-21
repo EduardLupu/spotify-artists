@@ -1,0 +1,41 @@
+{
+  "id": "2wkoKEfS6dXwThbyTnZWFU",
+  "name": "Mau y Ricky",
+  "followers": 6712770,
+  "monthlyListeners": 9677574,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 442719,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 401166,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 400973,
+        "region": "DC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 391514,
+        "region": "CMX"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 262964,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

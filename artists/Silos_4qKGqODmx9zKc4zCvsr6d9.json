@@ -1,0 +1,41 @@
+{
+  "id": "4qKGqODmx9zKc4zCvsr6d9",
+  "name": "Silos",
+  "followers": 4498,
+  "monthlyListeners": 72203,
+  "topCities": {
+    "items": [
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 853,
+        "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 822,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 724,
+        "region": "IL"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 713,
+        "region": "QLD"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 680,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

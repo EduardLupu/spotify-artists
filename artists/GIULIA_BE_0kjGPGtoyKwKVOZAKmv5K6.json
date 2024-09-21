@@ -1,0 +1,41 @@
+{
+  "id": "0kjGPGtoyKwKVOZAKmv5K6",
+  "name": "GIULIA BE",
+  "followers": 762083,
+  "monthlyListeners": 3026306,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 412278,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 171885,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 116672,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 110572,
+        "region": "PR"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 106067,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

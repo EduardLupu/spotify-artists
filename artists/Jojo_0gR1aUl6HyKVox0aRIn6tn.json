@@ -1,0 +1,41 @@
+{
+  "id": "0gR1aUl6HyKVox0aRIn6tn",
+  "name": "Jojo",
+  "followers": 413,
+  "monthlyListeners": 84,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 3,
+        "region": "18"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 3,
+        "region": "BY"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 3,
+        "region": "HH"
+      },
+      {
+        "city": "Cologne",
+        "country": "DE",
+        "numberOfListeners": 3,
+        "region": "NW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 3,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

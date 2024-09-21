@@ -1,0 +1,41 @@
+{
+  "id": "76fuWYgIf3TVIopTs3vaJ6",
+  "name": "Amaal Mallik",
+  "followers": 3496840,
+  "monthlyListeners": 16191503,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1495383,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1353443,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1033904,
+        "region": "DL"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 887556,
+        "region": "WB"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 856626,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

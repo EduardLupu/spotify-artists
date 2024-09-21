@@ -1,0 +1,41 @@
+{
+  "id": "0b13GbeDuFqkMEj6AaxIca",
+  "name": "Amine",
+  "followers": 79,
+  "monthlyListeners": 1096,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 125,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 43,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 36,
+        "region": "ARA"
+      },
+      {
+        "city": "Casablanca",
+        "country": "MA",
+        "numberOfListeners": 18,
+        "region": "06"
+      },
+      {
+        "city": "Toulouse",
+        "country": "FR",
+        "numberOfListeners": 17,
+        "region": "OCC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

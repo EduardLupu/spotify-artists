@@ -1,0 +1,41 @@
+{
+  "id": "2AZOALDIBORfbzKTuliwdJ",
+  "name": "Cristian Castro",
+  "followers": 3601373,
+  "monthlyListeners": 7565405,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 554531,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 358421,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 319248,
+        "region": "C"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 246196,
+        "region": "LMA"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 244996,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1DvtabXAjfrMihPP6JQdHs",
+  "name": "Shy Glizzy",
+  "followers": 864956,
+  "monthlyListeners": 1150960,
+  "topCities": {
+    "items": [
+      {
+        "city": "Washington",
+        "country": "US",
+        "numberOfListeners": 24386,
+        "region": "DC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 24074,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 20131,
+        "region": "TX"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 18677,
+        "region": "CA"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 18394,
+        "region": "NC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

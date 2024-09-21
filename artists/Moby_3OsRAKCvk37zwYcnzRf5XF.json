@@ -1,0 +1,41 @@
+{
+  "id": "3OsRAKCvk37zwYcnzRf5XF",
+  "name": "Moby",
+  "followers": 1897750,
+  "monthlyListeners": 6666304,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 141635,
+        "region": "ENG"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 109251,
+        "region": "IDF"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 92858,
+        "region": "NSW"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 90509,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 85849,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

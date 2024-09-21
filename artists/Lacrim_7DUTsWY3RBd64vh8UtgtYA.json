@@ -1,0 +1,41 @@
+{
+  "id": "7DUTsWY3RBd64vh8UtgtYA",
+  "name": "Lacrim",
+  "followers": 2533016,
+  "monthlyListeners": 4572740,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 717499,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 176267,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 174267,
+        "region": "ARA"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 144853,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 135804,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

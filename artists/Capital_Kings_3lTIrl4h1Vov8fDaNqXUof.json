@@ -1,0 +1,41 @@
+{
+  "id": "3lTIrl4h1Vov8fDaNqXUof",
+  "name": "Capital Kings",
+  "followers": 200081,
+  "monthlyListeners": 263794,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 4432,
+        "region": "SP"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 4383,
+        "region": "GU"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 3676,
+        "region": "TX"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 2883,
+        "region": "IL"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 2879,
+        "region": "DC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

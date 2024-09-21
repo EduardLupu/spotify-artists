@@ -1,0 +1,41 @@
+{
+  "id": "4FGcERJWMg8ENOLixwF71U",
+  "name": "Vitor Kley",
+  "followers": 1001007,
+  "monthlyListeners": 3410162,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 501604,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 223575,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 146319,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 124053,
+        "region": "PR"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 123028,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2p4FqHnazRucYQHyDCdBrJ",
+  "name": "Simple Plan",
+  "followers": 3653406,
+  "monthlyListeners": 8911445,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 355482,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 122344,
+        "region": "SP"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 116621,
+        "region": "00"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 97512,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 94214,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

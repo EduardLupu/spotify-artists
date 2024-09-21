@@ -1,0 +1,41 @@
+{
+  "id": "3zgnrYIltMkgeejmvMCnes",
+  "name": "IZA",
+  "followers": 4635824,
+  "monthlyListeners": 5455563,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 889779,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 516297,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 236014,
+        "region": "MG"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 182215,
+        "region": "RS"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 179218,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

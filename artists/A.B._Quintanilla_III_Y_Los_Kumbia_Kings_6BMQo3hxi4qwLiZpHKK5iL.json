@@ -1,0 +1,41 @@
+{
+  "id": "6BMQo3hxi4qwLiZpHKK5iL",
+  "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+  "followers": 98223,
+  "monthlyListeners": 3526028,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 259054,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 128954,
+        "region": "PUE"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 123409,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 122924,
+        "region": "QUE"
+      },
+      {
+        "city": "Monterrey",
+        "country": "MX",
+        "numberOfListeners": 105363,
+        "region": "NLE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

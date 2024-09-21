@@ -1,0 +1,41 @@
+{
+  "id": "2JHri2fFS9404xbjiZy8W3",
+  "name": "aidán",
+  "followers": 117,
+  "monthlyListeners": 82,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 26,
+        "region": "L"
+      },
+      {
+        "city": "Clifden",
+        "country": "IE",
+        "numberOfListeners": 2,
+        "region": "C"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 2,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 2,
+        "region": "VIC"
+      },
+      {
+        "city": "Vancouver",
+        "country": "CA",
+        "numberOfListeners": 2,
+        "region": "BC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4W48hZAnAHVOC2c8WH8pcq",
+  "name": "The Temper Trap",
+  "followers": 715669,
+  "monthlyListeners": 10711416,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 275440,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 258874,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 231084,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 171929,
+        "region": "QLD"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 148026,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

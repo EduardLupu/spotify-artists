@@ -1,0 +1,41 @@
+{
+  "id": "5bv5RplEOwdCvhq0EILh9E",
+  "name": "Lucenzo",
+  "followers": 143739,
+  "monthlyListeners": 4100281,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 174845,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 71846,
+        "region": "BRU"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 56675,
+        "region": "25"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 54825,
+        "region": "ENG"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 54191,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

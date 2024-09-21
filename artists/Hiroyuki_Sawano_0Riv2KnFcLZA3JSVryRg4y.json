@@ -1,0 +1,41 @@
+{
+  "id": "0Riv2KnFcLZA3JSVryRg4y",
+  "name": "Hiroyuki Sawano",
+  "followers": 590279,
+  "monthlyListeners": 2092282,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 49811,
+        "region": "13"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 40428,
+        "region": "JK"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 27210,
+        "region": "TPE"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 26859,
+        "region": "IDF"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 23591,
+        "region": "10"
+      }
+    ]
+  },
+  "worldRank": 0
+}

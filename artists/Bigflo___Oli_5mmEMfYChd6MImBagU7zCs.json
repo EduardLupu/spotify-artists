@@ -1,0 +1,41 @@
+{
+  "id": "5mmEMfYChd6MImBagU7zCs",
+  "name": "Bigflo & Oli",
+  "followers": 2010967,
+  "monthlyListeners": 1693938,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 257665,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 84828,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 59471,
+        "region": "ARA"
+      },
+      {
+        "city": "Toulouse",
+        "country": "FR",
+        "numberOfListeners": 43861,
+        "region": "OCC"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 41776,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

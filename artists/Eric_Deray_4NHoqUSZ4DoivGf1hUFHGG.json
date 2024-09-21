@@ -1,0 +1,41 @@
+{
+  "id": "4NHoqUSZ4DoivGf1hUFHGG",
+  "name": "Eric Deray",
+  "followers": 588,
+  "monthlyListeners": 11234,
+  "topCities": {
+    "items": [
+      {
+        "city": "Kyiv",
+        "country": "UA",
+        "numberOfListeners": 403,
+        "region": "30"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 292,
+        "region": "14"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 207,
+        "region": "34"
+      },
+      {
+        "city": "Dnipro",
+        "country": "UA",
+        "numberOfListeners": 153,
+        "region": "12"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 141,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

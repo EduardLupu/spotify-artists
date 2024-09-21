@@ -1,0 +1,41 @@
+{
+  "id": "2B8c0XLWWKbFmgSKDruKk4",
+  "name": "Abdu Kiar",
+  "followers": 43232,
+  "monthlyListeners": 60970,
+  "topCities": {
+    "items": [
+      {
+        "city": "Addis Ababa",
+        "country": "ET",
+        "numberOfListeners": 26675,
+        "region": "AA"
+      },
+      {
+        "city": "Tel Aviv",
+        "country": "IL",
+        "numberOfListeners": 1660,
+        "region": "TA"
+      },
+      {
+        "city": "Nazrēt",
+        "country": "ET",
+        "numberOfListeners": 1563,
+        "region": "OR"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 1316,
+        "region": "ON"
+      },
+      {
+        "city": "Awasa",
+        "country": "ET",
+        "numberOfListeners": 1296,
+        "region": "SI"
+      }
+    ]
+  },
+  "worldRank": 0
+}

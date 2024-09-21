@@ -1,0 +1,41 @@
+{
+  "id": "2yLzlEFtIS0Q9UkyBZdQA7",
+  "name": "Jessie Murph",
+  "followers": 1086048,
+  "monthlyListeners": 12517786,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 264782,
+        "region": "NSW"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 218346,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 208399,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 188105,
+        "region": "VIC"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 177881,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

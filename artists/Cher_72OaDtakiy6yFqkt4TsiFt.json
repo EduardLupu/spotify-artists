@@ -1,0 +1,41 @@
+{
+  "id": "72OaDtakiy6yFqkt4TsiFt",
+  "name": "Cher",
+  "followers": 3430955,
+  "monthlyListeners": 11673917,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 211629,
+        "region": "RM"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 196064,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 177138,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 159170,
+        "region": "VIC"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 132626,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

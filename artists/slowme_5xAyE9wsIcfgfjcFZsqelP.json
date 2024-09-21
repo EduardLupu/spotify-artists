@@ -1,0 +1,41 @@
+{
+  "id": "5xAyE9wsIcfgfjcFZsqelP",
+  "name": "slowme",
+  "followers": 5526,
+  "monthlyListeners": 53782,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1031,
+        "region": "JK"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 577,
+        "region": ""
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 513,
+        "region": "14"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 478,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 450,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

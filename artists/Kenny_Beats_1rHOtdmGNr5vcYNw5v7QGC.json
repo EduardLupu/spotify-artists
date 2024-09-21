@@ -1,0 +1,41 @@
+{
+  "id": "1rHOtdmGNr5vcYNw5v7QGC",
+  "name": "Kenny Beats",
+  "followers": 208486,
+  "monthlyListeners": 3651609,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 76196,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 73507,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 61590,
+        "region": "VIC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 53947,
+        "region": "CA"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 52841,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

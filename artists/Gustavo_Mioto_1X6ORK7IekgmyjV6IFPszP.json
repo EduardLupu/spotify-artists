@@ -1,0 +1,41 @@
+{
+  "id": "1X6ORK7IekgmyjV6IFPszP",
+  "name": "Gustavo Mioto",
+  "followers": 6029799,
+  "monthlyListeners": 12493362,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 2026344,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 773301,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 637850,
+        "region": "PR"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 627847,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 599696,
+        "region": "RJ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

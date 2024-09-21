@@ -1,0 +1,41 @@
+{
+  "id": "5ZNxiPcbKgaNcBrERMpqeu",
+  "name": "Mägo de Oz",
+  "followers": 4321003,
+  "monthlyListeners": 4161641,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 288382,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 237082,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 184218,
+        "region": "RM"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 132972,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 124317,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

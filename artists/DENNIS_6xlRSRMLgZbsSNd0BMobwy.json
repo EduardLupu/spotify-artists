@@ -1,0 +1,41 @@
+{
+  "id": "6xlRSRMLgZbsSNd0BMobwy",
+  "name": "DENNIS",
+  "followers": 2200645,
+  "monthlyListeners": 12330326,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1452697,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 567892,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 460043,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 396554,
+        "region": "PR"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 384178,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

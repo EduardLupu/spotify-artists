@@ -1,0 +1,41 @@
+{
+  "id": "2MqhkhX4npxDZ62ObR5ELO",
+  "name": "Hoobastank",
+  "followers": 2538537,
+  "monthlyListeners": 9562394,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 324277,
+        "region": "JK"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 168503,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 168294,
+        "region": "CMX"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 149090,
+        "region": "SP"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 118062,
+        "region": "LMA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

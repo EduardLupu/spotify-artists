@@ -1,0 +1,41 @@
+{
+  "id": "3ciRvbBIVz9fBoPbtSYq4x",
+  "name": "Lil Jon & The East Side Boyz",
+  "followers": 946968,
+  "monthlyListeners": 5419963,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 80602,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 75744,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 71133,
+        "region": "TX"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 69349,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 58826,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

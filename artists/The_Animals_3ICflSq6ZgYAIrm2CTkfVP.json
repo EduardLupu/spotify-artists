@@ -1,0 +1,41 @@
+{
+  "id": "3ICflSq6ZgYAIrm2CTkfVP",
+  "name": "The Animals",
+  "followers": 2448857,
+  "monthlyListeners": 8542670,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 103455,
+        "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 91478,
+        "region": "ENG"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 87456,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 85991,
+        "region": "NSW"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 76303,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

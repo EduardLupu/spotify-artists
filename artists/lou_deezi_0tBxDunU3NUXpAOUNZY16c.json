@@ -1,0 +1,41 @@
+{
+  "id": "0tBxDunU3NUXpAOUNZY16c",
+  "name": "lou deezi",
+  "followers": 71592,
+  "monthlyListeners": 566174,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 54448,
+        "region": "CA"
+      },
+      {
+        "city": "Sacramento",
+        "country": "US",
+        "numberOfListeners": 37150,
+        "region": "CA"
+      },
+      {
+        "city": "San Francisco",
+        "country": "US",
+        "numberOfListeners": 25356,
+        "region": "CA"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 20558,
+        "region": "AZ"
+      },
+      {
+        "city": "San Jose",
+        "country": "US",
+        "numberOfListeners": 19791,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

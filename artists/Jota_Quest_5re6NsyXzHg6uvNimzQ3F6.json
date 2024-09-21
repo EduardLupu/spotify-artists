@@ -1,0 +1,41 @@
+{
+  "id": "5re6NsyXzHg6uvNimzQ3F6",
+  "name": "Jota Quest",
+  "followers": 2302146,
+  "monthlyListeners": 2743763,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 446703,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 198007,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 168477,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 111690,
+        "region": "PR"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 111362,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

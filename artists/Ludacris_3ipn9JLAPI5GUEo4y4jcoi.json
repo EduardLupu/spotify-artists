@@ -1,0 +1,41 @@
+{
+  "id": "3ipn9JLAPI5GUEo4y4jcoi",
+  "name": "Ludacris",
+  "followers": 3084287,
+  "monthlyListeners": 5962800,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 95205,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 85793,
+        "region": "CA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 77974,
+        "region": "TX"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 68394,
+        "region": "AZ"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 68298,
+        "region": "NC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

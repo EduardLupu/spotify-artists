@@ -1,0 +1,41 @@
+{
+  "id": "6DIS6PRrLS3wbnZsf7vYic",
+  "name": "WALK THE MOON",
+  "followers": 2123916,
+  "monthlyListeners": 15989391,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 232873,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 228288,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 197658,
+        "region": "VIC"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 185291,
+        "region": "JK"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 161612,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

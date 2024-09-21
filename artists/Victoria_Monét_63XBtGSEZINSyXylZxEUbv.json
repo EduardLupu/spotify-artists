@@ -1,0 +1,41 @@
+{
+  "id": "63XBtGSEZINSyXylZxEUbv",
+  "name": "Victoria Monét",
+  "followers": 1125942,
+  "monthlyListeners": 7034907,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 125180,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 124610,
+        "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 107969,
+        "region": "NY"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 96787,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 96321,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

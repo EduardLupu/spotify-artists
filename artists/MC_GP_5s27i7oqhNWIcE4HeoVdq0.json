@@ -1,0 +1,41 @@
+{
+  "id": "5s27i7oqhNWIcE4HeoVdq0",
+  "name": "MC GP",
+  "followers": 1271434,
+  "monthlyListeners": 7931990,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1749585,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 452446,
+        "region": "RJ"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 442930,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 436922,
+        "region": "MG"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 357676,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

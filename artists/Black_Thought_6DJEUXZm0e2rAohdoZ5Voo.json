@@ -1,0 +1,41 @@
+{
+  "id": "6DJEUXZm0e2rAohdoZ5Voo",
+  "name": "Black Thought",
+  "followers": 265245,
+  "monthlyListeners": 835618,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 16189,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 13512,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 11474,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 11431,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 10911,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

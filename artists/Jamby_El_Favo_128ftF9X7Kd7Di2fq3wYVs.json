@@ -1,0 +1,41 @@
+{
+  "id": "128ftF9X7Kd7Di2fq3wYVs",
+  "name": "Jamby El Favo",
+  "followers": 1674984,
+  "monthlyListeners": 4659494,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 409496,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 360386,
+        "region": "RM"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 242824,
+        "region": "ANT"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 196507,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 186956,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

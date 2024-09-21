@@ -1,0 +1,41 @@
+{
+  "id": "54QMjE4toDfiCryzYWCpXX",
+  "name": "Metronomy",
+  "followers": 1059178,
+  "monthlyListeners": 4440387,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 136932,
+        "region": "IDF"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 102444,
+        "region": "ENG"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 92276,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 57599,
+        "region": "RM"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 56978,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

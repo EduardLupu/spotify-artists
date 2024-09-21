@@ -1,0 +1,41 @@
+{
+  "id": "3NrFXraWxwImjNeZRJzXDC",
+  "name": "Trio San Javier",
+  "followers": 7762,
+  "monthlyListeners": 29170,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 4223,
+        "region": "DC"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 3213,
+        "region": "ANT"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1644,
+        "region": "C"
+      },
+      {
+        "city": "Santiago de Cali",
+        "country": "CO",
+        "numberOfListeners": 1421,
+        "region": "VAC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 741,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

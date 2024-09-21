@@ -1,0 +1,41 @@
+{
+  "id": "2OIWxN9xUhgUHkeUCWCaNs",
+  "name": "Veronica Maggio",
+  "followers": 606577,
+  "monthlyListeners": 1590626,
+  "topCities": {
+    "items": [
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 454441,
+        "region": "AB"
+      },
+      {
+        "city": "Gothenburg",
+        "country": "SE",
+        "numberOfListeners": 209445,
+        "region": "O"
+      },
+      {
+        "city": "Malmo",
+        "country": "SE",
+        "numberOfListeners": 136949,
+        "region": "M"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 115434,
+        "region": "03"
+      },
+      {
+        "city": "Uppsala",
+        "country": "SE",
+        "numberOfListeners": 36981,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

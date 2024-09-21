@@ -1,0 +1,41 @@
+{
+  "id": "2WBJQGf1bT1kxuoqziH5g4",
+  "name": "Purple Disco Machine",
+  "followers": 734066,
+  "monthlyListeners": 12470885,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 227354,
+        "region": "IDF"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 221545,
+        "region": "NH"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 219514,
+        "region": "AB"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 190646,
+        "region": "BE"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 179018,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

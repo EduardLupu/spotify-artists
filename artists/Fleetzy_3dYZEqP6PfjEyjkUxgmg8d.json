@@ -1,0 +1,41 @@
+{
+  "id": "3dYZEqP6PfjEyjkUxgmg8d",
+  "name": "Fleetzy",
+  "followers": 1036,
+  "monthlyListeners": 12034,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 1822,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 480,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 386,
+        "region": "ARA"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 263,
+        "region": "PAC"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 241,
+        "region": "HDF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "69CLILkCLdR4JOoQieAFm2",
+  "name": "Jordana Bryant",
+  "followers": 48052,
+  "monthlyListeners": 100349,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 2571,
+        "region": "MH"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 2011,
+        "region": "KA"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 1491,
+        "region": "DL"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1455,
+        "region": "DL"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1374,
+        "region": "MH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

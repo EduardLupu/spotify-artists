@@ -1,0 +1,41 @@
+{
+  "id": "4QVBYiagIaa6ZGSPMbybpy",
+  "name": "Pedro Capó",
+  "followers": 1605078,
+  "monthlyListeners": 9109607,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 363555,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 328077,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 287020,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 214666,
+        "region": "LMA"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 193248,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

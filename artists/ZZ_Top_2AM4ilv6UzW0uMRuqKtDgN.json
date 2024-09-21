@@ -1,0 +1,41 @@
+{
+  "id": "2AM4ilv6UzW0uMRuqKtDgN",
+  "name": "ZZ Top",
+  "followers": 4465116,
+  "monthlyListeners": 11690287,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 172322,
+        "region": "RM"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 141956,
+        "region": "NSW"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 131338,
+        "region": "CMX"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 125286,
+        "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 123952,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

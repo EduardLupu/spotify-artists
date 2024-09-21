@@ -1,0 +1,41 @@
+{
+  "id": "53AcoyTAgCiIGOv1pGuSi5",
+  "name": "Ghost",
+  "followers": 3121,
+  "monthlyListeners": 74395,
+  "topCities": {
+    "items": [
+      {
+        "city": "Nairobi",
+        "country": "KE",
+        "numberOfListeners": 3338,
+        "region": "30"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 2718,
+        "region": "ENG"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 1923,
+        "region": "ON"
+      },
+      {
+        "city": "Kingston",
+        "country": "JM",
+        "numberOfListeners": 1301,
+        "region": "01"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 1284,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

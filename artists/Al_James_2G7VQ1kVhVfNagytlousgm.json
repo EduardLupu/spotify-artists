@@ -1,0 +1,41 @@
+{
+  "id": "2G7VQ1kVhVfNagytlousgm",
+  "name": "Al James",
+  "followers": 2793481,
+  "monthlyListeners": 3911201,
+  "topCities": {
+    "items": [
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 567057,
+        "region": "00"
+      },
+      {
+        "city": "Manila",
+        "country": "PH",
+        "numberOfListeners": 355582,
+        "region": "00"
+      },
+      {
+        "city": "Caloocan City",
+        "country": "PH",
+        "numberOfListeners": 229526,
+        "region": "00"
+      },
+      {
+        "city": "Davao City",
+        "country": "PH",
+        "numberOfListeners": 209263,
+        "region": "11"
+      },
+      {
+        "city": "Tarlac City",
+        "country": "PH",
+        "numberOfListeners": 191766,
+        "region": "03"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1uNFoZAHBGtllmzznpCI3s",
+  "name": "Justin Bieber",
+  "followers": 77316828,
+  "monthlyListeners": 75569870,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 2850535,
+        "region": "JK"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1147004,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 881621,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 849689,
+        "region": "ENG"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 735054,
+        "region": "00"
+      }
+    ]
+  },
+  "worldRank": 13
+}

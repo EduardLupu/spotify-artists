@@ -1,0 +1,41 @@
+{
+  "id": "62DmErcU7dqZbJaDqwsqzR",
+  "name": "Popcaan",
+  "followers": 1138129,
+  "monthlyListeners": 3307006,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 219710,
+        "region": "ENG"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 106100,
+        "region": "ON"
+      },
+      {
+        "city": "Nairobi",
+        "country": "KE",
+        "numberOfListeners": 77441,
+        "region": "30"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 72885,
+        "region": "LA"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 72733,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

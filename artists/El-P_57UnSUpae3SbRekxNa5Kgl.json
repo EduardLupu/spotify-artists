@@ -1,0 +1,41 @@
+{
+  "id": "57UnSUpae3SbRekxNa5Kgl",
+  "name": "El-P",
+  "followers": 187261,
+  "monthlyListeners": 1482768,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 27959,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 26129,
+        "region": "ENG"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 22110,
+        "region": "CO"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 21964,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 21705,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

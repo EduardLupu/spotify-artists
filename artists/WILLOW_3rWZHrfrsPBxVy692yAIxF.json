@@ -1,0 +1,41 @@
+{
+  "id": "3rWZHrfrsPBxVy692yAIxF",
+  "name": "WILLOW",
+  "followers": 2682762,
+  "monthlyListeners": 12238702,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 162443,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 161784,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 156122,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 142278,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 141041,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3D9ofxktYyApLM2pnBY3Mp",
+  "name": "Tanishk Bagchi",
+  "followers": 1,
+  "monthlyListeners": 325637,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 27880,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 23815,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 17933,
+        "region": "DL"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 17556,
+        "region": "WB"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 14407,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

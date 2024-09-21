@@ -1,0 +1,41 @@
+{
+  "id": "1nzgtKYFckznkcVMR3Gg4z",
+  "name": "KSI",
+  "followers": 2445464,
+  "monthlyListeners": 2006593,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 115152,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 51199,
+        "region": "NSW"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 43604,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 43533,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 40230,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

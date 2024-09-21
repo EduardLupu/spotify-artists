@@ -1,0 +1,41 @@
+{
+  "id": "1mU61l2mcjEFraXZLpvVMo",
+  "name": "Matthew Koma",
+  "followers": 102030,
+  "monthlyListeners": 271587,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 3761,
+        "region": "JK"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 3361,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 3235,
+        "region": "IL"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 3194,
+        "region": "14"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 3111,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

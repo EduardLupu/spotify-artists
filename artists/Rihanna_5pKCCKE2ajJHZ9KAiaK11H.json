@@ -1,0 +1,41 @@
+{
+  "id": "5pKCCKE2ajJHZ9KAiaK11H",
+  "name": "Rihanna",
+  "followers": 62674119,
+  "monthlyListeners": 83557974,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1517679,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1248658,
+        "region": "SP"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1242999,
+        "region": "JK"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 1058688,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 891008,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 8
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5lKZWd6HiSCLfnDGrq9RAm",
+  "name": "Leona Lewis",
+  "followers": 3579518,
+  "monthlyListeners": 6940864,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 110469,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 106252,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 93408,
+        "region": "VIC"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 85974,
+        "region": "JK"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 83261,
+        "region": "00"
+      }
+    ]
+  },
+  "worldRank": 0
+}

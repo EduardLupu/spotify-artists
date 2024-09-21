@@ -1,0 +1,41 @@
+{
+  "id": "3DCWeG2J1fZeu0Oe6i5Q6m",
+  "name": "PLK",
+  "followers": 2078337,
+  "monthlyListeners": 5668422,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 1073403,
+        "region": "IDF"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 250404,
+        "region": "ARA"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 246645,
+        "region": "BRU"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 199864,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 189430,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

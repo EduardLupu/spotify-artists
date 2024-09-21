@@ -1,0 +1,41 @@
+{
+  "id": "4vBr3v1KeNsPfSNeXOaQpD",
+  "name": "Madame",
+  "followers": 1995,
+  "monthlyListeners": 1109,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 32,
+        "region": "IDF"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 22,
+        "region": "CMX"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 21,
+        "region": "ON"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 18,
+        "region": "CA"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 14,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5TGJzOKQ9GbfJ6IZI9ktDn",
+  "name": "Dream Street",
+  "followers": 25880,
+  "monthlyListeners": 33091,
+  "topCities": {
+    "items": [
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 850,
+        "region": "NY"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 686,
+        "region": "PA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 674,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 625,
+        "region": "CA"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 619,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

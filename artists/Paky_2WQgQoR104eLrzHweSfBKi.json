@@ -1,0 +1,41 @@
+{
+  "id": "2WQgQoR104eLrzHweSfBKi",
+  "name": "Paky",
+  "followers": 433,
+  "monthlyListeners": 27817,
+  "topCities": {
+    "items": [
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 4498,
+        "region": "25"
+      },
+      {
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 2175,
+        "region": "62"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 1692,
+        "region": "72"
+      },
+      {
+        "city": "Turin",
+        "country": "IT",
+        "numberOfListeners": 659,
+        "region": "21"
+      },
+      {
+        "city": "Palermo",
+        "country": "IT",
+        "numberOfListeners": 582,
+        "region": "82"
+      }
+    ]
+  },
+  "worldRank": 0
+}

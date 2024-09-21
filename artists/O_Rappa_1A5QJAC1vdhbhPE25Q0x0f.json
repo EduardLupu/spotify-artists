@@ -1,0 +1,41 @@
+{
+  "id": "1A5QJAC1vdhbhPE25Q0x0f",
+  "name": "O Rappa",
+  "followers": 3536053,
+  "monthlyListeners": 4134321,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 799925,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 347347,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 251995,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 187383,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 187302,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

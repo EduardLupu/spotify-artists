@@ -1,0 +1,41 @@
+{
+  "id": "6oMRQ5H3A2XA5I3RG3leni",
+  "name": "Alan Gomez",
+  "followers": 1138531,
+  "monthlyListeners": 3396119,
+  "topCities": {
+    "items": [
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 538830,
+        "region": "C"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 224514,
+        "region": "B"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 163645,
+        "region": "RM"
+      },
+      {
+        "city": "Montevideo",
+        "country": "UY",
+        "numberOfListeners": 114936,
+        "region": "MO"
+      },
+      {
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 113611,
+        "region": "X"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1SupJlEpv7RS2tPNRaHViT",
+  "name": "Nicky Jam",
+  "followers": 18952565,
+  "monthlyListeners": 29225588,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1355289,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1162991,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 817858,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 783430,
+        "region": "CMX"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 622926,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 168
+}

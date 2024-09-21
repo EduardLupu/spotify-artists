@@ -1,0 +1,41 @@
+{
+  "id": "6JxHqr0dDwwWnE3DMUr2dE",
+  "name": "King",
+  "followers": 73,
+  "monthlyListeners": 406,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 34,
+        "region": "IDF"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 8,
+        "region": "HDF"
+      },
+      {
+        "city": "Nantes",
+        "country": "FR",
+        "numberOfListeners": 7,
+        "region": "PDL"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 6,
+        "region": "34"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 6,
+        "region": "ARA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

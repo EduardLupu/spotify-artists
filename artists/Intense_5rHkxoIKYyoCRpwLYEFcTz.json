@@ -1,0 +1,41 @@
+{
+  "id": "5rHkxoIKYyoCRpwLYEFcTz",
+  "name": "Intense",
+  "followers": 489,
+  "monthlyListeners": 28761,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 590,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 366,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 343,
+        "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 338,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 321,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

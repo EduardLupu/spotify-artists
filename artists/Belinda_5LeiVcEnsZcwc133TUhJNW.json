@@ -1,0 +1,41 @@
+{
+  "id": "5LeiVcEnsZcwc133TUhJNW",
+  "name": "Belinda",
+  "followers": 2223808,
+  "monthlyListeners": 11573104,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 882299,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 454419,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 346583,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 344115,
+        "region": "PUE"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 320755,
+        "region": "QUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

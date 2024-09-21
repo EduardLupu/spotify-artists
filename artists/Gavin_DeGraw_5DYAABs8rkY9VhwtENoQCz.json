@@ -1,0 +1,41 @@
+{
+  "id": "5DYAABs8rkY9VhwtENoQCz",
+  "name": "Gavin DeGraw",
+  "followers": 1266815,
+  "monthlyListeners": 2877100,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 51782,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 46750,
+        "region": "NH"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 46309,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 40448,
+        "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 36616,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

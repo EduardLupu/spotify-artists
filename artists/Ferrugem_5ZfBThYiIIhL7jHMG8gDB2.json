@@ -1,0 +1,41 @@
+{
+  "id": "5ZfBThYiIIhL7jHMG8gDB2",
+  "name": "Ferrugem",
+  "followers": 5406556,
+  "monthlyListeners": 9156137,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1702728,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 903321,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 499704,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 422512,
+        "region": "SP"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 401041,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

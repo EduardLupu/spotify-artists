@@ -1,0 +1,41 @@
+{
+  "id": "6uLNznYVguXrwbIPj9qUb1",
+  "name": "Mike's Dead",
+  "followers": 56831,
+  "monthlyListeners": 74443,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1102,
+        "region": "IL"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 883,
+        "region": "WA"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 866,
+        "region": "TX"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 830,
+        "region": "CO"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 785,
+        "region": "PA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

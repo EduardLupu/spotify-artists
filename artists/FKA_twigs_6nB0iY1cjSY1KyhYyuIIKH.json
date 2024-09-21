@@ -1,0 +1,41 @@
+{
+  "id": "6nB0iY1cjSY1KyhYyuIIKH",
+  "name": "FKA twigs",
+  "followers": 1254129,
+  "monthlyListeners": 2649245,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 64684,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 45320,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 43403,
+        "region": "NY"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 40417,
+        "region": "NY"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 37179,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

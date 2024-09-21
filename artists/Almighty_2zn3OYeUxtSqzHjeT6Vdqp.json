@@ -1,0 +1,41 @@
+{
+  "id": "2zn3OYeUxtSqzHjeT6Vdqp",
+  "name": "Almighty",
+  "followers": 483,
+  "monthlyListeners": 26684,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 2949,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1560,
+        "region": "DC"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 1228,
+        "region": "ANT"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 747,
+        "region": "C"
+      },
+      {
+        "city": "San Juan",
+        "country": "US",
+        "numberOfListeners": 644,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

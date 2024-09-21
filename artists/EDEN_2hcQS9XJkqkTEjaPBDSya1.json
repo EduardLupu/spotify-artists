@@ -1,0 +1,41 @@
+{
+  "id": "2hcQS9XJkqkTEjaPBDSya1",
+  "name": "EDEN",
+  "followers": 79,
+  "monthlyListeners": 117,
+  "topCities": {
+    "items": [
+      {
+        "city": "Orlando",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "FL"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "AZ"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 3,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 3,
+        "region": "NSW"
+      },
+      {
+        "city": "Ocala",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "FL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

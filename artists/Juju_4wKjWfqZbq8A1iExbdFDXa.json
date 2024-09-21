@@ -1,0 +1,41 @@
+{
+  "id": "4wKjWfqZbq8A1iExbdFDXa",
+  "name": "Juju",
+  "followers": 18299,
+  "monthlyListeners": 66800,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 44729,
+        "region": "18"
+      },
+      {
+        "city": "Tampere",
+        "country": "FI",
+        "numberOfListeners": 8853,
+        "region": "11"
+      },
+      {
+        "city": "Oulu",
+        "country": "FI",
+        "numberOfListeners": 7713,
+        "region": "14"
+      },
+      {
+        "city": "Vantaa",
+        "country": "FI",
+        "numberOfListeners": 4002,
+        "region": "18"
+      },
+      {
+        "city": "Espoo",
+        "country": "FI",
+        "numberOfListeners": 2649,
+        "region": "18"
+      }
+    ]
+  },
+  "worldRank": 0
+}

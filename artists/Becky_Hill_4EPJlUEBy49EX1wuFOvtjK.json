@@ -1,0 +1,41 @@
+{
+  "id": "4EPJlUEBy49EX1wuFOvtjK",
+  "name": "Becky Hill",
+  "followers": 853302,
+  "monthlyListeners": 16069876,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 676029,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 283252,
+        "region": "NSW"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 248867,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 233879,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 227433,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

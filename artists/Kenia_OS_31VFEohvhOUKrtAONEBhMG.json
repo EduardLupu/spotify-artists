@@ -1,0 +1,41 @@
+{
+  "id": "31VFEohvhOUKrtAONEBhMG",
+  "name": "Kenia OS",
+  "followers": 5384189,
+  "monthlyListeners": 12459780,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1091295,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 559059,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 502532,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 454749,
+        "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 452578,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

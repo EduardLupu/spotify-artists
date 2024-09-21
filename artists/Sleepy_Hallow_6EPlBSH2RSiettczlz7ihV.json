@@ -1,0 +1,41 @@
+{
+  "id": "6EPlBSH2RSiettczlz7ihV",
+  "name": "Sleepy Hallow",
+  "followers": 2125382,
+  "monthlyListeners": 11083063,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 196282,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 188979,
+        "region": "ENG"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 155586,
+        "region": "ON"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 154434,
+        "region": "NY"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 154104,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

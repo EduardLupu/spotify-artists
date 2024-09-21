@@ -1,0 +1,41 @@
+{
+  "id": "4IkN1rNU2zbmF5xcJTpdtt",
+  "name": "Skarb",
+  "followers": 60,
+  "monthlyListeners": 212,
+  "topCities": {
+    "items": [
+      {
+        "city": "Kyiv",
+        "country": "UA",
+        "numberOfListeners": 37,
+        "region": "30"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 16,
+        "region": "14"
+      },
+      {
+        "city": "Dnipro",
+        "country": "UA",
+        "numberOfListeners": 10,
+        "region": "12"
+      },
+      {
+        "city": "Lviv",
+        "country": "UA",
+        "numberOfListeners": 9,
+        "region": "46"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 4,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

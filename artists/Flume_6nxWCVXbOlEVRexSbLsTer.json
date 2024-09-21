@@ -1,0 +1,41 @@
+{
+  "id": "6nxWCVXbOlEVRexSbLsTer",
+  "name": "Flume",
+  "followers": 2458372,
+  "monthlyListeners": 11497533,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 374605,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 306324,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 257869,
+        "region": "QLD"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 188199,
+        "region": "ENG"
+      },
+      {
+        "city": "Perth",
+        "country": "AU",
+        "numberOfListeners": 162906,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

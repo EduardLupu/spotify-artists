@@ -1,0 +1,41 @@
+{
+  "id": "0awl5piYwO0CDTHEkCjUhn",
+  "name": "Nico & Vinz",
+  "followers": 531527,
+  "monthlyListeners": 5508240,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 88900,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 81428,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 72182,
+        "region": "ENG"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 66935,
+        "region": "JK"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 65654,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

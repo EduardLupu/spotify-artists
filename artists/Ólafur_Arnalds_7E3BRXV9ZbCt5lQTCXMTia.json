@@ -1,0 +1,41 @@
+{
+  "id": "7E3BRXV9ZbCt5lQTCXMTia",
+  "name": "Ólafur Arnalds",
+  "followers": 816828,
+  "monthlyListeners": 2707397,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 45208,
+        "region": "ENG"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 37125,
+        "region": "BE"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 34798,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 31329,
+        "region": "NH"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 31105,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1gALaWbNDnwS2ECV09sn2A",
+  "name": "Nightcrawlers",
+  "followers": 59409,
+  "monthlyListeners": 5860802,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 94308,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 89550,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 72660,
+        "region": "VIC"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 63172,
+        "region": "IDF"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 61159,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

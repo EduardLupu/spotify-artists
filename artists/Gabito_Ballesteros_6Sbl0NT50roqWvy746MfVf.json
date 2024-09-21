@@ -1,0 +1,41 @@
+{
+  "id": "6Sbl0NT50roqWvy746MfVf",
+  "name": "Gabito Ballesteros",
+  "followers": 3455486,
+  "monthlyListeners": 19983866,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1838283,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 1129958,
+        "region": "JAL"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 894442,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 855851,
+        "region": "CMX"
+      },
+      {
+        "city": "Monterrey",
+        "country": "MX",
+        "numberOfListeners": 812349,
+        "region": "NLE"
+      }
+    ]
+  },
+  "worldRank": 359
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0gusqTJKxtU1UTmNRMHZcv",
+  "name": "Dizzee Rascal",
+  "followers": 494730,
+  "monthlyListeners": 3247427,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 291934,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 138650,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 127131,
+        "region": "VIC"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 108560,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 100236,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

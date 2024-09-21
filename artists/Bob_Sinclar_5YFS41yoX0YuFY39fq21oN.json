@@ -1,0 +1,41 @@
+{
+  "id": "5YFS41yoX0YuFY39fq21oN",
+  "name": "Bob Sinclar",
+  "followers": 645100,
+  "monthlyListeners": 16732770,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 293420,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 287562,
+        "region": "CMX"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 257525,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 257441,
+        "region": "SP"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 246456,
+        "region": "IDF"
+      }
+    ]
+  },
+  "worldRank": 482
+}

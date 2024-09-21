@@ -1,0 +1,41 @@
+{
+  "id": "06HUwOHnsgjtP7F2CidMlq",
+  "name": "Murda",
+  "followers": 447,
+  "monthlyListeners": 2807,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 288,
+        "region": "ENG"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 249,
+        "region": "ON"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 219,
+        "region": "NY"
+      },
+      {
+        "city": "Bridgetown",
+        "country": "BB",
+        "numberOfListeners": 99,
+        "region": "08"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 79,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

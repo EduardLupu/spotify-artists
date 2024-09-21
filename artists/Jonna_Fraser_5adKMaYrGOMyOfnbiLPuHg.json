@@ -1,0 +1,41 @@
+{
+  "id": "5adKMaYrGOMyOfnbiLPuHg",
+  "name": "Jonna Fraser",
+  "followers": 262216,
+  "monthlyListeners": 1455889,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 559482,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 460412,
+        "region": "ZH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 222438,
+        "region": "UT"
+      },
+      {
+        "city": "Amersfoort",
+        "country": "NL",
+        "numberOfListeners": 88050,
+        "region": "UT"
+      },
+      {
+        "city": "The Hague",
+        "country": "NL",
+        "numberOfListeners": 83577,
+        "region": "ZH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

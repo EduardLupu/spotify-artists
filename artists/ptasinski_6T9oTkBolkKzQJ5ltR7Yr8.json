@@ -1,0 +1,41 @@
+{
+  "id": "6T9oTkBolkKzQJ5ltR7Yr8",
+  "name": "ptasinski",
+  "followers": 89347,
+  "monthlyListeners": 1315622,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 16161,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 12553,
+        "region": "RM"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 11835,
+        "region": "JK"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 11278,
+        "region": "10"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 10219,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

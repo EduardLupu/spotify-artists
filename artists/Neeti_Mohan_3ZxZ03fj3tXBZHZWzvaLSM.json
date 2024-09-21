@@ -1,0 +1,41 @@
+{
+  "id": "3ZxZ03fj3tXBZHZWzvaLSM",
+  "name": "Neeti Mohan",
+  "followers": 4431364,
+  "monthlyListeners": 15841749,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1420114,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1259425,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 961251,
+        "region": "DL"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 858723,
+        "region": "KA"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 781987,
+        "region": "DL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

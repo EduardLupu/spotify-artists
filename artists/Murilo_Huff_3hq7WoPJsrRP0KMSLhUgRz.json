@@ -1,0 +1,41 @@
+{
+  "id": "3hq7WoPJsrRP0KMSLhUgRz",
+  "name": "Murilo Huff",
+  "followers": 1558881,
+  "monthlyListeners": 10971327,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1745677,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 744523,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 599883,
+        "region": "PR"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 588789,
+        "region": "DF"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 586219,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

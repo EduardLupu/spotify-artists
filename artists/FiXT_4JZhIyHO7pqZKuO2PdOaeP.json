@@ -1,0 +1,41 @@
+{
+  "id": "4JZhIyHO7pqZKuO2PdOaeP",
+  "name": "FiXT",
+  "followers": 2325,
+  "monthlyListeners": 15326,
+  "topCities": {
+    "items": [
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 145,
+        "region": "WA"
+      },
+      {
+        "city": "Budapest",
+        "country": "HU",
+        "numberOfListeners": 130,
+        "region": "BU"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 128,
+        "region": "BE"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 127,
+        "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 126,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1gW6pz5n1aK249L0GvfQCC",
+  "name": "Grupo Marca Registrada",
+  "followers": 4753966,
+  "monthlyListeners": 15753496,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1377593,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 878360,
+        "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 618562,
+        "region": "QUE"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 612882,
+        "region": "CMX"
+      },
+      {
+        "city": "Monterrey",
+        "country": "MX",
+        "numberOfListeners": 609638,
+        "region": "NLE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

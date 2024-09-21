@@ -1,0 +1,41 @@
+{
+  "id": "1on7ZQ2pvgeQF4vmIA09x5",
+  "name": "Charlie Brown Jr.",
+  "followers": 7371811,
+  "monthlyListeners": 7640011,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1476352,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 546894,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 420562,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 364197,
+        "region": "PR"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 361442,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

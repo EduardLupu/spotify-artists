@@ -1,0 +1,41 @@
+{
+  "id": "4U7lXyKdSf1JbM1aXvsodC",
+  "name": "La Oreja de Van Gogh",
+  "followers": 4021356,
+  "monthlyListeners": 15979606,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 771964,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 737822,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 550669,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 492624,
+        "region": "LMA"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 450688,
+        "region": "MD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

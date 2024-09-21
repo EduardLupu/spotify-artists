@@ -1,0 +1,41 @@
+{
+  "id": "3Os4tuDjV4rsXKYjvp4RRP",
+  "name": "Cynthia Jones",
+  "followers": 3156,
+  "monthlyListeners": 856,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 48,
+        "region": "ENG"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 27,
+        "region": "NC"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 22,
+        "region": "GA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 14,
+        "region": "NY"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 13,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

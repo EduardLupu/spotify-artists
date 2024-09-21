@@ -1,0 +1,41 @@
+{
+  "id": "3hv9jJF3adDNsBSIQDqcjp",
+  "name": "Mark Ronson",
+  "followers": 1113073,
+  "monthlyListeners": 28493038,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 486554,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 416636,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 390552,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 360370,
+        "region": "VIC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 346554,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 177
+}

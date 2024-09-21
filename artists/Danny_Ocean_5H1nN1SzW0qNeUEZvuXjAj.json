@@ -1,0 +1,41 @@
+{
+  "id": "5H1nN1SzW0qNeUEZvuXjAj",
+  "name": "Danny Ocean",
+  "followers": 5570466,
+  "monthlyListeners": 18640006,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1032625,
+        "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 713730,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 692984,
+        "region": "DC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 678307,
+        "region": "RM"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 476078,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 409
+}

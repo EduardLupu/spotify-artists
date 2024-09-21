@@ -1,0 +1,41 @@
+{
+  "id": "2ExGrw6XpbtUAJHTLtUXUD",
+  "name": "Stefflon Don",
+  "followers": 1193109,
+  "monthlyListeners": 7287228,
+  "topCities": {
+    "items": [
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 396654,
+        "region": "34"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 223402,
+        "region": "ENG"
+      },
+      {
+        "city": "Ankara",
+        "country": "TR",
+        "numberOfListeners": 186865,
+        "region": "06"
+      },
+      {
+        "city": "Izmir",
+        "country": "TR",
+        "numberOfListeners": 138811,
+        "region": "35"
+      },
+      {
+        "city": "Ludhiana",
+        "country": "IN",
+        "numberOfListeners": 92922,
+        "region": "PB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

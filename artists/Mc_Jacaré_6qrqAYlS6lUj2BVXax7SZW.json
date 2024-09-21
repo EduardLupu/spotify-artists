@@ -1,0 +1,41 @@
+{
+  "id": "6qrqAYlS6lUj2BVXax7SZW",
+  "name": "Mc Jacaré",
+  "followers": 563485,
+  "monthlyListeners": 7157540,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1052924,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 396238,
+        "region": "MG"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 364471,
+        "region": "PR"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 353263,
+        "region": "DF"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 344810,
+        "region": "RS"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2NfSBtmWe7oPw1EmetJVso",
+  "name": "Boza",
+  "followers": 578031,
+  "monthlyListeners": 10157596,
+  "topCities": {
+    "items": [
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 720509,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 526393,
+        "region": "LMA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 404677,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 336001,
+        "region": "CMX"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 328044,
+        "region": "ANT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

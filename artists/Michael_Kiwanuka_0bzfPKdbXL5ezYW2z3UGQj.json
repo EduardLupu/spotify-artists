@@ -1,0 +1,41 @@
+{
+  "id": "0bzfPKdbXL5ezYW2z3UGQj",
+  "name": "Michael Kiwanuka",
+  "followers": 1469210,
+  "monthlyListeners": 5656963,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 140402,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 116989,
+        "region": "NH"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 81922,
+        "region": "IDF"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 81716,
+        "region": "NSW"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 74727,
+        "region": "BRU"
+      }
+    ]
+  },
+  "worldRank": 0
+}

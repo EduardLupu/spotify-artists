@@ -1,0 +1,41 @@
+{
+  "id": "5xSx2FM8mQnrfgM1QsHniB",
+  "name": "Danna Paola",
+  "followers": 5053383,
+  "monthlyListeners": 8264495,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 572481,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 293076,
+        "region": "RM"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 250754,
+        "region": "JAL"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 243791,
+        "region": "LMA"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 220347,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

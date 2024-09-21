@@ -1,0 +1,41 @@
+{
+  "id": "6fqAnsJdhftWSyDd3huQIi",
+  "name": "AIDAN",
+  "followers": 4722,
+  "monthlyListeners": 22097,
+  "topCities": {
+    "items": [
+      {
+        "city": "Msida",
+        "country": "MT",
+        "numberOfListeners": 3407,
+        "region": "34"
+      },
+      {
+        "city": "Birkirkara",
+        "country": "MT",
+        "numberOfListeners": 1788,
+        "region": "04"
+      },
+      {
+        "city": "San Ġwann",
+        "country": "MT",
+        "numberOfListeners": 1269,
+        "region": "49"
+      },
+      {
+        "city": "Qormi",
+        "country": "MT",
+        "numberOfListeners": 791,
+        "region": "43"
+      },
+      {
+        "city": "Sliema",
+        "country": "MT",
+        "numberOfListeners": 736,
+        "region": "56"
+      }
+    ]
+  },
+  "worldRank": 0
+}

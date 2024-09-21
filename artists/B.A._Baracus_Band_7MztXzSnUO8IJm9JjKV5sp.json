@@ -1,0 +1,41 @@
+{
+  "id": "7MztXzSnUO8IJm9JjKV5sp",
+  "name": "B.A. Baracus Band",
+  "followers": 135,
+  "monthlyListeners": 533,
+  "topCities": {
+    "items": [
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 15,
+        "region": "ON"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 15,
+        "region": "ENG"
+      },
+      {
+        "city": "Calgary",
+        "country": "CA",
+        "numberOfListeners": 11,
+        "region": "AB"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 11,
+        "region": "NSW"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 10,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

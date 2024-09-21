@@ -1,0 +1,41 @@
+{
+  "id": "4D75GcNG95ebPtNvoNVXhz",
+  "name": "AFROJACK",
+  "followers": 3926675,
+  "monthlyListeners": 22644085,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 271243,
+        "region": "CMX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 257594,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 239254,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 232279,
+        "region": "RM"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 227521,
+        "region": "JK"
+      }
+    ]
+  },
+  "worldRank": 283
+}

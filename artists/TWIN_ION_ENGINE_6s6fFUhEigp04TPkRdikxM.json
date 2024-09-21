@@ -1,0 +1,41 @@
+{
+  "id": "6s6fFUhEigp04TPkRdikxM",
+  "name": "TWIN ION ENGINE",
+  "followers": 3911,
+  "monthlyListeners": 19547,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 789,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 325,
+        "region": "IL"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 304,
+        "region": "AZ"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 262,
+        "region": "CMX"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 236,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

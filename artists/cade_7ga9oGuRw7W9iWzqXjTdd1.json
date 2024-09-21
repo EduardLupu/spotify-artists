@@ -1,0 +1,41 @@
+{
+  "id": "7ga9oGuRw7W9iWzqXjTdd1",
+  "name": "cade",
+  "followers": 283,
+  "monthlyListeners": 1614,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 46,
+        "region": "CA"
+      },
+      {
+        "city": "Detroit",
+        "country": "US",
+        "numberOfListeners": 43,
+        "region": "MI"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 42,
+        "region": "IL"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 29,
+        "region": "WA"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 28,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

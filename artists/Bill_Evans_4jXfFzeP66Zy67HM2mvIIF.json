@@ -1,0 +1,41 @@
+{
+  "id": "4jXfFzeP66Zy67HM2mvIIF",
+  "name": "Bill Evans",
+  "followers": 704573,
+  "monthlyListeners": 1433066,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 19786,
+        "region": "13"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 17899,
+        "region": "NY"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 16372,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 15771,
+        "region": "CA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 12938,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

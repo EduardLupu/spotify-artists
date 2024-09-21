@@ -1,0 +1,41 @@
+{
+  "id": "2T1aUibqR2QC2sINIDQOAK",
+  "name": "Mambo Kingz",
+  "followers": 359350,
+  "monthlyListeners": 13209244,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 739783,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 559422,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 478441,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 456089,
+        "region": "CMX"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 367841,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

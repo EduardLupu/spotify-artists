@@ -1,0 +1,41 @@
+{
+  "id": "6xeFne1rkxMhKSW3ipvkdV",
+  "name": "Toploader",
+  "followers": 96631,
+  "monthlyListeners": 8952085,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 244679,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 203031,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 169327,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 140997,
+        "region": "QLD"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 107556,
+        "region": "L"
+      }
+    ]
+  },
+  "worldRank": 0
+}

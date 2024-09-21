@@ -1,0 +1,41 @@
+{
+  "id": "2x2WoBP4HIXYCxxNzfGG34",
+  "name": "Alex North",
+  "followers": 9208,
+  "monthlyListeners": 55980,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 901,
+        "region": "MD"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 729,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 678,
+        "region": "NSW"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 674,
+        "region": "IDF"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 578,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

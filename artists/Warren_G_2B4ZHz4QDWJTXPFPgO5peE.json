@@ -1,0 +1,41 @@
+{
+  "id": "2B4ZHz4QDWJTXPFPgO5peE",
+  "name": "Warren G",
+  "followers": 2455545,
+  "monthlyListeners": 4882600,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 96256,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 86689,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 72798,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 66481,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 58220,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

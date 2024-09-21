@@ -1,0 +1,41 @@
+{
+  "id": "6qFt3TjvxMt77YGsktWG8Z",
+  "name": "Sofiane",
+  "followers": 1451279,
+  "monthlyListeners": 1602430,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 250671,
+        "region": "IDF"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 59438,
+        "region": "ARA"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 57559,
+        "region": "BRU"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 45751,
+        "region": "HDF"
+      },
+      {
+        "city": "Marseille",
+        "country": "FR",
+        "numberOfListeners": 41645,
+        "region": "PAC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

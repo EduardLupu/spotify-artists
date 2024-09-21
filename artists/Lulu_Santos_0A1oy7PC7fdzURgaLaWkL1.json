@@ -1,0 +1,41 @@
+{
+  "id": "0A1oy7PC7fdzURgaLaWkL1",
+  "name": "Lulu Santos",
+  "followers": 2069128,
+  "monthlyListeners": 3895646,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 633742,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 322281,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 224957,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 143057,
+        "region": "SP"
+      },
+      {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 137733,
+        "region": "DF"
+      }
+    ]
+  },
+  "worldRank": 0
+}

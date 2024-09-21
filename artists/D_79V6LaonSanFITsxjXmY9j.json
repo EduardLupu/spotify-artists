@@ -1,0 +1,41 @@
+{
+  "id": "79V6LaonSanFITsxjXmY9j",
+  "name": "D",
+  "followers": 6076,
+  "monthlyListeners": 3342,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 287,
+        "region": "13"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 172,
+        "region": "RM"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 102,
+        "region": "27"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 69,
+        "region": "SP"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 43,
+        "region": "13"
+      }
+    ]
+  },
+  "worldRank": 0
+}

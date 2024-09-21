@@ -1,0 +1,41 @@
+{
+  "id": "6c4WWQ2PYJlgnxtkQKqI5s",
+  "name": "Haze",
+  "followers": 118922,
+  "monthlyListeners": 448319,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 51864,
+        "region": "MD"
+      },
+      {
+        "city": "Seville",
+        "country": "ES",
+        "numberOfListeners": 33976,
+        "region": "AN"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 28206,
+        "region": "CT"
+      },
+      {
+        "city": "Málaga",
+        "country": "ES",
+        "numberOfListeners": 27098,
+        "region": "AN"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 18589,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

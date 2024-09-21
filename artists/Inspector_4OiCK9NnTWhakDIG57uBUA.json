@@ -1,0 +1,41 @@
+{
+  "id": "4OiCK9NnTWhakDIG57uBUA",
+  "name": "Inspector",
+  "followers": 1482729,
+  "monthlyListeners": 5069828,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 723100,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 319706,
+        "region": "CMX"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 285312,
+        "region": "CMX"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 251992,
+        "region": "JAL"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 225738,
+        "region": "PUE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

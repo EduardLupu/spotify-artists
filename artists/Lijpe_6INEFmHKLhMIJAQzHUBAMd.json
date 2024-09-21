@@ -1,0 +1,41 @@
+{
+  "id": "6INEFmHKLhMIJAQzHUBAMd",
+  "name": "Lijpe",
+  "followers": 552704,
+  "monthlyListeners": 955125,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 370417,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 315009,
+        "region": "ZH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 152745,
+        "region": "UT"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 68071,
+        "region": "BRU"
+      },
+      {
+        "city": "Amersfoort",
+        "country": "NL",
+        "numberOfListeners": 66937,
+        "region": "UT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

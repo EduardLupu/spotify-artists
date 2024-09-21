@@ -1,0 +1,41 @@
+{
+  "id": "4sM9N9up8K5UpSX610c5dE",
+  "name": "Randy",
+  "followers": 34,
+  "monthlyListeners": 48,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 1,
+        "region": "NSW"
+      },
+      {
+        "city": "Merkezefendi",
+        "country": "TR",
+        "numberOfListeners": 1,
+        "region": "20"
+      },
+      {
+        "city": "Esenler",
+        "country": "TR",
+        "numberOfListeners": 1,
+        "region": "34"
+      },
+      {
+        "city": "Denizli",
+        "country": "TR",
+        "numberOfListeners": 1,
+        "region": "20"
+      },
+      {
+        "city": "Izmir",
+        "country": "TR",
+        "numberOfListeners": 1,
+        "region": "35"
+      }
+    ]
+  },
+  "worldRank": 0
+}

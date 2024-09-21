@@ -1,0 +1,41 @@
+{
+  "id": "5f4QpKfy7ptCHwTqspnSJI",
+  "name": "Neha Kakkar",
+  "followers": 47754117,
+  "monthlyListeners": 15789037,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 1357353,
+        "region": "MH"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 1172235,
+        "region": "MH"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 1061896,
+        "region": "DL"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 860330,
+        "region": "DL"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 791675,
+        "region": "KA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

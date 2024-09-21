@@ -1,0 +1,41 @@
+{
+  "id": "2OfJOtcTmunKs2iIXGC9Ak",
+  "name": "Rotem Sivan",
+  "followers": 10211,
+  "monthlyListeners": 32326,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 510,
+        "region": "13"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 418,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 361,
+        "region": "VIC"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 361,
+        "region": "NY"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 356,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

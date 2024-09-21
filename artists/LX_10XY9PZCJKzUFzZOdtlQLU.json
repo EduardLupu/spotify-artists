@@ -1,0 +1,41 @@
+{
+  "id": "10XY9PZCJKzUFzZOdtlQLU",
+  "name": "LX",
+  "followers": 191867,
+  "monthlyListeners": 1108243,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 106904,
+        "region": "BE"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 86802,
+        "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 80920,
+        "region": "HE"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 67238,
+        "region": "BY"
+      },
+      {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 61223,
+        "region": "BW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4kYGAK2zu9EAomwj3hXkXy",
+  "name": "JP Cooper",
+  "followers": 909909,
+  "monthlyListeners": 6891066,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 195093,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 111489,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 94544,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 73577,
+        "region": "NH"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 73474,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

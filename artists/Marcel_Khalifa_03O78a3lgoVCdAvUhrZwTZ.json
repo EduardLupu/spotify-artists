@@ -1,0 +1,41 @@
+{
+  "id": "03O78a3lgoVCdAvUhrZwTZ",
+  "name": "Marcel Khalifa",
+  "followers": 103062,
+  "monthlyListeners": 58536,
+  "topCities": {
+    "items": [
+      {
+        "city": "Cairo",
+        "country": "EG",
+        "numberOfListeners": 2562,
+        "region": "C"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 1621,
+        "region": "34"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 1568,
+        "region": "IDF"
+      },
+      {
+        "city": "Casablanca",
+        "country": "MA",
+        "numberOfListeners": 1514,
+        "region": "06"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 915,
+        "region": "BE"
+      }
+    ]
+  },
+  "worldRank": 0
+}

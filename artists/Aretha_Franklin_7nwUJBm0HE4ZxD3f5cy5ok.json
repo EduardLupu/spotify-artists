@@ -1,0 +1,41 @@
+{
+  "id": "7nwUJBm0HE4ZxD3f5cy5ok",
+  "name": "Aretha Franklin",
+  "followers": 3441534,
+  "monthlyListeners": 14111894,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 268290,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 200807,
+        "region": "NSW"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 179629,
+        "region": "IDF"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 177972,
+        "region": "NH"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 173171,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

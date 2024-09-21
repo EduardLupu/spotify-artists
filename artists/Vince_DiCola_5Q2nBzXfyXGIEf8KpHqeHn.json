@@ -1,0 +1,41 @@
+{
+  "id": "5Q2nBzXfyXGIEf8KpHqeHn",
+  "name": "Vince DiCola",
+  "followers": 26632,
+  "monthlyListeners": 430669,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 9100,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 7220,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 6899,
+        "region": "C"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 6538,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 5609,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

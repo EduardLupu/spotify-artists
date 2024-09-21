@@ -1,0 +1,41 @@
+{
+  "id": "5O8cudluftNZ6PCwRzvYxo",
+  "name": "Christopher von Uckermann",
+  "followers": 145791,
+  "monthlyListeners": 200072,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 13600,
+        "region": "SP"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 9839,
+        "region": "CMX"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 6030,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 5528,
+        "region": "LMA"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 4979,
+        "region": "RJ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "392I9I5QMSyoA0FmI5pVfx",
+  "name": "Yung Tory",
+  "followers": 281704,
+  "monthlyListeners": 191420,
+  "topCities": {
+    "items": [
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 13450,
+        "region": "ON"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 8477,
+        "region": "ENG"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 5037,
+        "region": "QC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 3805,
+        "region": "NSW"
+      },
+      {
+        "city": "Calgary",
+        "country": "CA",
+        "numberOfListeners": 3681,
+        "region": "AB"
+      }
+    ]
+  },
+  "worldRank": 0
+}

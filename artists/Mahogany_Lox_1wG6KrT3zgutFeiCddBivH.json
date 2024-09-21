@@ -1,0 +1,41 @@
+{
+  "id": "1wG6KrT3zgutFeiCddBivH",
+  "name": "Mahogany Lox",
+  "followers": 66952,
+  "monthlyListeners": 116346,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 1557,
+        "region": "NSW"
+      },
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 1322,
+        "region": "JK"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 1242,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 1221,
+        "region": "QLD"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 1057,
+        "region": "34"
+      }
+    ]
+  },
+  "worldRank": 0
+}

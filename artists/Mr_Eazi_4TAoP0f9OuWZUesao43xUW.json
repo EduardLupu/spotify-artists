@@ -1,0 +1,41 @@
+{
+  "id": "4TAoP0f9OuWZUesao43xUW",
+  "name": "Mr Eazi",
+  "followers": 1546992,
+  "monthlyListeners": 3388521,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 108088,
+        "region": "ENG"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 103307,
+        "region": "LA"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 61757,
+        "region": "NH"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 51805,
+        "region": "DC"
+      },
+      {
+        "city": "Abuja",
+        "country": "NG",
+        "numberOfListeners": 47713,
+        "region": "FC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

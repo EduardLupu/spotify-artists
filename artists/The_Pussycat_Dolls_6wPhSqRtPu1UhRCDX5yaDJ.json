@@ -1,0 +1,41 @@
+{
+  "id": "6wPhSqRtPu1UhRCDX5yaDJ",
+  "name": "The Pussycat Dolls",
+  "followers": 5715475,
+  "monthlyListeners": 11838624,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 260705,
+        "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 195095,
+        "region": "NSW"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 192338,
+        "region": "00"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 173182,
+        "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 165014,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

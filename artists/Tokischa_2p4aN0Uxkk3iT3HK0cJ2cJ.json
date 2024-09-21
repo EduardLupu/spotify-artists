@@ -1,0 +1,41 @@
+{
+  "id": "2p4aN0Uxkk3iT3HK0cJ2cJ",
+  "name": "Tokischa",
+  "followers": 1317297,
+  "monthlyListeners": 11240543,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 429221,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 425675,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 311793,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 273620,
+        "region": "DC"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 196279,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

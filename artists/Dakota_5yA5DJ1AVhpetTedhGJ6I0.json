@@ -1,0 +1,41 @@
+{
+  "id": "5yA5DJ1AVhpetTedhGJ6I0",
+  "name": "Dakota",
+  "followers": 1891,
+  "monthlyListeners": 1431,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 55,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 39,
+        "region": "ZH"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 25,
+        "region": "BE"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 19,
+        "region": "CA"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 19,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

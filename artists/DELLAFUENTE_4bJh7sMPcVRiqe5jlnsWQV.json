@@ -1,0 +1,41 @@
+{
+  "id": "4bJh7sMPcVRiqe5jlnsWQV",
+  "name": "DELLAFUENTE",
+  "followers": 1036548,
+  "monthlyListeners": 5228618,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 530702,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 349701,
+        "region": "CT"
+      },
+      {
+        "city": "Valencia",
+        "country": "ES",
+        "numberOfListeners": 151476,
+        "region": "VC"
+      },
+      {
+        "city": "Málaga",
+        "country": "ES",
+        "numberOfListeners": 147369,
+        "region": "AN"
+      },
+      {
+        "city": "Seville",
+        "country": "ES",
+        "numberOfListeners": 142078,
+        "region": "AN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

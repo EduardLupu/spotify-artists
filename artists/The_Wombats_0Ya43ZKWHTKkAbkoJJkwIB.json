@@ -1,0 +1,41 @@
+{
+  "id": "0Ya43ZKWHTKkAbkoJJkwIB",
+  "name": "The Wombats",
+  "followers": 1069662,
+  "monthlyListeners": 2923621,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 175666,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 100494,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 89873,
+        "region": "VIC"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 74624,
+        "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 69793,
+        "region": "QLD"
+      }
+    ]
+  },
+  "worldRank": 0
+}

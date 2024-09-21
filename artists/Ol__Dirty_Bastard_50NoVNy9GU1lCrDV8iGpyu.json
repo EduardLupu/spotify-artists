@@ -1,0 +1,41 @@
+{
+  "id": "50NoVNy9GU1lCrDV8iGpyu",
+  "name": "Ol' Dirty Bastard",
+  "followers": 1077889,
+  "monthlyListeners": 2748689,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 48716,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 43672,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 43043,
+        "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 40436,
+        "region": "VIC"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 35172,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

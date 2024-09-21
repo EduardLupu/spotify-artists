@@ -1,0 +1,41 @@
+{
+  "id": "7iSFSY5b9LgkwJgw1oAkjZ",
+  "name": "Mabel",
+  "followers": 1661,
+  "monthlyListeners": 6356,
+  "topCities": {
+    "items": [
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 659,
+        "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 384,
+        "region": "NSW"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 310,
+        "region": "BE"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 227,
+        "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 193,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

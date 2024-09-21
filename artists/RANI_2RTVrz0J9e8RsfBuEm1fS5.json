@@ -1,0 +1,41 @@
+{
+  "id": "2RTVrz0J9e8RsfBuEm1fS5",
+  "name": "RANI",
+  "followers": 4,
+  "monthlyListeners": 32,
+  "topCities": {
+    "items": [
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 3,
+        "region": "HH"
+      },
+      {
+        "city": "Tel Aviv",
+        "country": "IL",
+        "numberOfListeners": 2,
+        "region": "TA"
+      },
+      {
+        "city": "Düren",
+        "country": "DE",
+        "numberOfListeners": 1,
+        "region": "NW"
+      },
+      {
+        "city": "Bergkamen",
+        "country": "DE",
+        "numberOfListeners": 1,
+        "region": "NW"
+      },
+      {
+        "city": "Pinneberg",
+        "country": "DE",
+        "numberOfListeners": 1,
+        "region": "SH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

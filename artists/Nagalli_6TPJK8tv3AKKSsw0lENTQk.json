@@ -1,0 +1,41 @@
+{
+  "id": "6TPJK8tv3AKKSsw0lENTQk",
+  "name": "Nagalli",
+  "followers": 272106,
+  "monthlyListeners": 6428245,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1252390,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 599628,
+        "region": "RJ"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 327359,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 263849,
+        "region": "SP"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 230403,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

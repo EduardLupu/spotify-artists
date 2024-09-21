@@ -1,0 +1,41 @@
+{
+  "id": "04QHNiih9ZesPvals6II1h",
+  "name": "MC Marks",
+  "followers": 1603692,
+  "monthlyListeners": 6515902,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 1442372,
+        "region": "SP"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 357567,
+        "region": "MG"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 356580,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 313974,
+        "region": "RJ"
+      },
+      {
+        "city": "Curitiba",
+        "country": "BR",
+        "numberOfListeners": 277220,
+        "region": "PR"
+      }
+    ]
+  },
+  "worldRank": 0
+}

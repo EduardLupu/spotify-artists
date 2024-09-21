@@ -1,0 +1,41 @@
+{
+  "id": "6jsjhAEteAlY0vCiLvMLBA",
+  "name": "ROZES",
+  "followers": 126175,
+  "monthlyListeners": 430892,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 6168,
+        "region": "JK"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 6058,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 5447,
+        "region": "IL"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 5261,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 4673,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

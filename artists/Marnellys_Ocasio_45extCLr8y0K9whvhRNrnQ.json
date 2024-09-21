@@ -1,0 +1,41 @@
+{
+  "id": "45extCLr8y0K9whvhRNrnQ",
+  "name": "Marnellys Ocasio",
+  "followers": 22300,
+  "monthlyListeners": 18150,
+  "topCities": {
+    "items": [
+      {
+        "city": "San Juan",
+        "country": "US",
+        "numberOfListeners": 1777,
+        "region": "PR"
+      },
+      {
+        "city": "Santo Domingo",
+        "country": "DO",
+        "numberOfListeners": 580,
+        "region": "01"
+      },
+      {
+        "city": "Bayamón",
+        "country": "US",
+        "numberOfListeners": 522,
+        "region": "PR"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 456,
+        "region": "DC"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 402,
+        "region": "PA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

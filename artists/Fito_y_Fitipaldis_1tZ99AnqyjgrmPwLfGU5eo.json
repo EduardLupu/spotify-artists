@@ -1,0 +1,41 @@
+{
+  "id": "1tZ99AnqyjgrmPwLfGU5eo",
+  "name": "Fito y Fitipaldis",
+  "followers": 2109417,
+  "monthlyListeners": 2786985,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 452695,
+        "region": "MD"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 256838,
+        "region": "CT"
+      },
+      {
+        "city": "Valencia",
+        "country": "ES",
+        "numberOfListeners": 111125,
+        "region": "VC"
+      },
+      {
+        "city": "Seville",
+        "country": "ES",
+        "numberOfListeners": 76473,
+        "region": "AN"
+      },
+      {
+        "city": "Málaga",
+        "country": "ES",
+        "numberOfListeners": 75626,
+        "region": "AN"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3fll16LLw6kdDxWzSpJPEQ",
+  "name": "Malu",
+  "followers": 91305,
+  "monthlyListeners": 588446,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 65152,
+        "region": "SP"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 22754,
+        "region": "RJ"
+      },
+      {
+        "city": "Porto Alegre",
+        "country": "BR",
+        "numberOfListeners": 22602,
+        "region": "RS"
+      },
+      {
+        "city": "Lisbon",
+        "country": "PT",
+        "numberOfListeners": 22332,
+        "region": "11"
+      },
+      {
+        "city": "Belo Horizonte",
+        "country": "BR",
+        "numberOfListeners": 19993,
+        "region": "MG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

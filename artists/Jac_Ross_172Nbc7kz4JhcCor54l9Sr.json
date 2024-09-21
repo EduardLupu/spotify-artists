@@ -1,0 +1,41 @@
+{
+  "id": "172Nbc7kz4JhcCor54l9Sr",
+  "name": "Jac Ross",
+  "followers": 87176,
+  "monthlyListeners": 831440,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 17433,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 13835,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 13472,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 12297,
+        "region": "QLD"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 11454,
+        "region": "SP"
+      }
+    ]
+  },
+  "worldRank": 0
+}

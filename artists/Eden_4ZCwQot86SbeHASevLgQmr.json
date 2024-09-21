@@ -1,0 +1,41 @@
+{
+  "id": "4ZCwQot86SbeHASevLgQmr",
+  "name": "Eden",
+  "followers": 674,
+  "monthlyListeners": 184,
+  "topCities": {
+    "items": [
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 19,
+        "region": "MD"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 8,
+        "region": "RM"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 5,
+        "region": "JAL"
+      },
+      {
+        "city": "Bilbao",
+        "country": "ES",
+        "numberOfListeners": 4,
+        "region": "PV"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 4,
+        "region": "CT"
+      }
+    ]
+  },
+  "worldRank": 0
+}

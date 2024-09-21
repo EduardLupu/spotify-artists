@@ -1,0 +1,41 @@
+{
+  "id": "6i3DxIlAqnDkwELLw4aVrx",
+  "name": "Lele Pons",
+  "followers": 1715236,
+  "monthlyListeners": 2522947,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 90550,
+        "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 72582,
+        "region": "RM"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 56715,
+        "region": "LMA"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 53785,
+        "region": "DC"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 43467,
+        "region": "JAL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

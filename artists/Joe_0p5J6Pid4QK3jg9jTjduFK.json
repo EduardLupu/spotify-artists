@@ -1,0 +1,41 @@
+{
+  "id": "0p5J6Pid4QK3jg9jTjduFK",
+  "name": "Joe",
+  "followers": 3368,
+  "monthlyListeners": 2811,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 194,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 68,
+        "region": "VIC"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 55,
+        "region": "BE"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 51,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 46,
+        "region": "CA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

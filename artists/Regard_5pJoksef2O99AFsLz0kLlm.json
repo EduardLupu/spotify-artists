@@ -1,0 +1,41 @@
+{
+  "id": "5pJoksef2O99AFsLz0kLlm",
+  "name": "Regard",
+  "followers": 475,
+  "monthlyListeners": 498,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 41,
+        "region": "IDF"
+      },
+      {
+        "city": "Abidjan",
+        "country": "CI",
+        "numberOfListeners": 11,
+        "region": "AB"
+      },
+      {
+        "city": "Lille",
+        "country": "FR",
+        "numberOfListeners": 8,
+        "region": "HDF"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 7,
+        "region": "34"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 7,
+        "region": "ARA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

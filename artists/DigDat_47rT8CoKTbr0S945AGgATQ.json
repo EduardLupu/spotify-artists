@@ -1,0 +1,41 @@
+{
+  "id": "47rT8CoKTbr0S945AGgATQ",
+  "name": "DigDat",
+  "followers": 274571,
+  "monthlyListeners": 546083,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 82606,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 27871,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 25479,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 24062,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 14778,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

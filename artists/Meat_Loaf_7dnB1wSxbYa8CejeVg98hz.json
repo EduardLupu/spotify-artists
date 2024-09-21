@@ -1,0 +1,41 @@
+{
+  "id": "7dnB1wSxbYa8CejeVg98hz",
+  "name": "Meat Loaf",
+  "followers": 1175484,
+  "monthlyListeners": 3806981,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 101516,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 81594,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 69045,
+        "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 64323,
+        "region": "QLD"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 59707,
+        "region": "NH"
+      }
+    ]
+  },
+  "worldRank": 0
+}

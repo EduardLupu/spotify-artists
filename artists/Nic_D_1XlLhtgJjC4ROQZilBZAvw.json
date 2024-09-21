@@ -1,0 +1,41 @@
+{
+  "id": "1XlLhtgJjC4ROQZilBZAvw",
+  "name": "Nic D",
+  "followers": 429310,
+  "monthlyListeners": 4353761,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 63157,
+        "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 61144,
+        "region": "IL"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 57435,
+        "region": "CO"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 55728,
+        "region": "ON"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 53676,
+        "region": "WA"
+      }
+    ]
+  },
+  "worldRank": 0
+}

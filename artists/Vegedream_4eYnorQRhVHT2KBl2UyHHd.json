@@ -1,0 +1,41 @@
+{
+  "id": "4eYnorQRhVHT2KBl2UyHHd",
+  "name": "Vegedream",
+  "followers": 1887617,
+  "monthlyListeners": 4045578,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 304812,
+        "region": "IDF"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 92432,
+        "region": "BRU"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 66568,
+        "region": "NH"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 60550,
+        "region": "ARA"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 52913,
+        "region": "QC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0Ty63ceoRnnJKVEYP0VQpk",
+  "name": "Sting",
+  "followers": 3430306,
+  "monthlyListeners": 11644009,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 233123,
+        "region": "RM"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 172560,
+        "region": "34"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 164854,
+        "region": "IDF"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 159829,
+        "region": "NH"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 128197,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

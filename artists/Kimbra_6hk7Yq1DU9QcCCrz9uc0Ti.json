@@ -1,0 +1,41 @@
+{
+  "id": "6hk7Yq1DU9QcCCrz9uc0Ti",
+  "name": "Kimbra",
+  "followers": 427618,
+  "monthlyListeners": 17027054,
+  "topCities": {
+    "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 286716,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 252047,
+        "region": "ENG"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 249896,
+        "region": "VIC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 215293,
+        "region": "RM"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 210840,
+        "region": "CMX"
+      }
+    ]
+  },
+  "worldRank": 473
+}

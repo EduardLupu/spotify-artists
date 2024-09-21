@@ -1,0 +1,41 @@
+{
+  "id": "7tYKF4w9nC0nq9CsPZTHyP",
+  "name": "SZA",
+  "followers": 23100298,
+  "monthlyListeners": 66053127,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 2540684,
+        "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 990001,
+        "region": "ENG"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 867846,
+        "region": "CA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 852507,
+        "region": "NSW"
+      },
+      {
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 752951,
+        "region": "00"
+      }
+    ]
+  },
+  "worldRank": 20
+}

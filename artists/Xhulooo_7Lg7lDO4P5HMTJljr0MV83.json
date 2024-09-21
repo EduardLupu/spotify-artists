@@ -1,0 +1,41 @@
+{
+  "id": "7Lg7lDO4P5HMTJljr0MV83",
+  "name": "Xhulooo",
+  "followers": 39171,
+  "monthlyListeners": 64398,
+  "topCities": {
+    "items": [
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1303,
+        "region": "IL"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 1181,
+        "region": "GA"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 1154,
+        "region": "CA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 1073,
+        "region": "NY"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 1029,
+        "region": "ON"
+      }
+    ]
+  },
+  "worldRank": 0
+}

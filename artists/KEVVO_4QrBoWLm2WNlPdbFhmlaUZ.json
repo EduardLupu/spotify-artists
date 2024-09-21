@@ -1,0 +1,41 @@
+{
+  "id": "4QrBoWLm2WNlPdbFhmlaUZ",
+  "name": "KEVVO",
+  "followers": 531149,
+  "monthlyListeners": 3006246,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 258517,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 126429,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 95404,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 93934,
+        "region": "CMX"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 87719,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 0
+}

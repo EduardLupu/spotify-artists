@@ -1,0 +1,41 @@
+{
+  "id": "0SfsnGyD8FpIN4U4WCkBZ5",
+  "name": "Armin van Buuren",
+  "followers": 4403632,
+  "monthlyListeners": 15408824,
+  "topCities": {
+    "items": [
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 450171,
+        "region": "NH"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 330078,
+        "region": "ZH"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 210174,
+        "region": "CMX"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 187230,
+        "region": "BRU"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 182425,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

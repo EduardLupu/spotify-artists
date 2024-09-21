@@ -1,0 +1,41 @@
+{
+  "id": "0wY6h98lBt17ZJsJPZNdRv",
+  "name": "Apache",
+  "followers": 14708,
+  "monthlyListeners": 66580,
+  "topCities": {
+    "items": [
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 1233,
+        "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1189,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 1028,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 951,
+        "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 837,
+        "region": "IL"
+      }
+    ]
+  },
+  "worldRank": 0
+}

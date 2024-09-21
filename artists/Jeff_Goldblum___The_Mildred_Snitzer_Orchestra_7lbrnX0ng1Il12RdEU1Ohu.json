@@ -1,0 +1,41 @@
+{
+  "id": "7lbrnX0ng1Il12RdEU1Ohu",
+  "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+  "followers": 53210,
+  "monthlyListeners": 87450,
+  "topCities": {
+    "items": [
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 2398,
+        "region": "IDF"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1238,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 845,
+        "region": "NSW"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 732,
+        "region": "NH"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 728,
+        "region": "VIC"
+      }
+    ]
+  },
+  "worldRank": 0
+}

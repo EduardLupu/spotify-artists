@@ -1,0 +1,41 @@
+{
+  "id": "3UbyYnvNIT5DFXU4WgiGpP",
+  "name": "Whitesnake",
+  "followers": 3020620,
+  "monthlyListeners": 4959224,
+  "topCities": {
+    "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 127603,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 122229,
+        "region": "RM"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 60745,
+        "region": "C"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 55244,
+        "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 54746,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

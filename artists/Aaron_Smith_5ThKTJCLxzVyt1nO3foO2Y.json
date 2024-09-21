@@ -1,0 +1,41 @@
+{
+  "id": "5ThKTJCLxzVyt1nO3foO2Y",
+  "name": "Aaron Smith",
+  "followers": 8765,
+  "monthlyListeners": 1713,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 19,
+        "region": "ENG"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 18,
+        "region": "SP"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 18,
+        "region": "IL"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 15,
+        "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 14,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

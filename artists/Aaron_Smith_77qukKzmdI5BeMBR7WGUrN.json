@@ -1,0 +1,41 @@
+{
+  "id": "77qukKzmdI5BeMBR7WGUrN",
+  "name": "Aaron Smith",
+  "followers": 350301,
+  "monthlyListeners": 7496837,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 104057,
+        "region": "CMX"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 102232,
+        "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 86269,
+        "region": "RM"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 74126,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 73771,
+        "region": "NSW"
+      }
+    ]
+  },
+  "worldRank": 0
+}

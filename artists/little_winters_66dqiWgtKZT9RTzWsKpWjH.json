@@ -1,0 +1,41 @@
+{
+  "id": "66dqiWgtKZT9RTzWsKpWjH",
+  "name": "little winters",
+  "followers": 72033,
+  "monthlyListeners": 168388,
+  "topCities": {
+    "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 16545,
+        "region": "JK"
+      },
+      {
+        "city": "Hanoi",
+        "country": "VN",
+        "numberOfListeners": 3649,
+        "region": "HN"
+      },
+      {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 3646,
+        "region": "14"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 3365,
+        "region": "JB"
+      },
+      {
+        "city": "Ho Chi Minh City",
+        "country": "VN",
+        "numberOfListeners": 3358,
+        "region": "SG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

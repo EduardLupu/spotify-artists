@@ -1,0 +1,41 @@
+{
+  "id": "3uL4UpqShC4p2x1dJutoRW",
+  "name": "Ghostemane",
+  "followers": 3589032,
+  "monthlyListeners": 4939037,
+  "topCities": {
+    "items": [
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 58122,
+        "region": "AZ"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 56786,
+        "region": "IL"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 55504,
+        "region": "TX"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 55034,
+        "region": "CMX"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 52723,
+        "region": "CO"
+      }
+    ]
+  },
+  "worldRank": 0
+}

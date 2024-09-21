@@ -1,0 +1,41 @@
+{
+  "id": "6piIAIurGAryW5h1rqQC16",
+  "name": "Passion",
+  "followers": 452278,
+  "monthlyListeners": 2258994,
+  "topCities": {
+    "items": [
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 44360,
+        "region": "TX"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 36553,
+        "region": "GA"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 34122,
+        "region": "NC"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 30904,
+        "region": ""
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 30461,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

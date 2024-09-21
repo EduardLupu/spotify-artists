@@ -1,0 +1,41 @@
+{
+  "id": "776Uo845nYHJpNaStv1Ds4",
+  "name": "Jimi Hendrix",
+  "followers": 6831846,
+  "monthlyListeners": 8100502,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 130195,
+        "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 105407,
+        "region": "NSW"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 101304,
+        "region": "SP"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 91327,
+        "region": "VIC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 89478,
+        "region": "RM"
+      }
+    ]
+  },
+  "worldRank": 0
+}

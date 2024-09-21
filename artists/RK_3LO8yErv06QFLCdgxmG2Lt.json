@@ -1,0 +1,41 @@
+{
+  "id": "3LO8yErv06QFLCdgxmG2Lt",
+  "name": "RK",
+  "followers": 8442,
+  "monthlyListeners": 17660,
+  "topCities": {
+    "items": [
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 2600,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 2181,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 1672,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 806,
+        "region": "ENG"
+      },
+      {
+        "city": "Leeds",
+        "country": "GB",
+        "numberOfListeners": 535,
+        "region": "ENG"
+      }
+    ]
+  },
+  "worldRank": 0
+}

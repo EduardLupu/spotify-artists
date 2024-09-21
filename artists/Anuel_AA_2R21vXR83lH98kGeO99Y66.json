@@ -1,0 +1,41 @@
+{
+  "id": "2R21vXR83lH98kGeO99Y66",
+  "name": "Anuel AA",
+  "followers": 37781446,
+  "monthlyListeners": 33128852,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1903468,
+        "region": "RM"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1450967,
+        "region": "DC"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 1109677,
+        "region": "LMA"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 1088599,
+        "region": "CMX"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1039012,
+        "region": "C"
+      }
+    ]
+  },
+  "worldRank": 126
+}

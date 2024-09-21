@@ -1,0 +1,41 @@
+{
+  "id": "2jp9e4qVPGoS2X2fyNy9id",
+  "name": "Faerybabyy",
+  "followers": 6733,
+  "monthlyListeners": 94756,
+  "topCities": {
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 2656,
+        "region": "BE"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 2653,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 1346,
+        "region": "IL"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 1323,
+        "region": "NY"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 1215,
+        "region": "NY"
+      }
+    ]
+  },
+  "worldRank": 0
+}

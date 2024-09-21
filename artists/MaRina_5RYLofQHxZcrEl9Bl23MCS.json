@@ -1,0 +1,41 @@
+{
+  "id": "5RYLofQHxZcrEl9Bl23MCS",
+  "name": "MaRina",
+  "followers": 16292,
+  "monthlyListeners": 46382,
+  "topCities": {
+    "items": [
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 10971,
+        "region": "14"
+      },
+      {
+        "city": "Krakow",
+        "country": "PL",
+        "numberOfListeners": 3529,
+        "region": "12"
+      },
+      {
+        "city": "Poznan",
+        "country": "PL",
+        "numberOfListeners": 3322,
+        "region": "30"
+      },
+      {
+        "city": "Katowice",
+        "country": "PL",
+        "numberOfListeners": 3018,
+        "region": "24"
+      },
+      {
+        "city": "Wroclaw",
+        "country": "PL",
+        "numberOfListeners": 2915,
+        "region": "02"
+      }
+    ]
+  },
+  "worldRank": 0
+}

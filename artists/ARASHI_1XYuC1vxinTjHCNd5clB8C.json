@@ -1,0 +1,41 @@
+{
+  "id": "1XYuC1vxinTjHCNd5clB8C",
+  "name": "ARASHI",
+  "followers": 2479771,
+  "monthlyListeners": 1282949,
+  "topCities": {
+    "items": [
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 371506,
+        "region": "13"
+      },
+      {
+        "city": "Osaka",
+        "country": "JP",
+        "numberOfListeners": 139287,
+        "region": "27"
+      },
+      {
+        "city": "Roppongi",
+        "country": "JP",
+        "numberOfListeners": 65921,
+        "region": "13"
+      },
+      {
+        "city": "Nagoya",
+        "country": "JP",
+        "numberOfListeners": 49232,
+        "region": "23"
+      },
+      {
+        "city": "Yokohama",
+        "country": "JP",
+        "numberOfListeners": 36772,
+        "region": "14"
+      }
+    ]
+  },
+  "worldRank": 0
+}

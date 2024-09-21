@@ -1,0 +1,41 @@
+{
+  "id": "3o7hOuhIoOTpSIPfIROauz",
+  "name": "Sigma",
+  "followers": 866,
+  "monthlyListeners": 1526,
+  "topCities": {
+    "items": [
+      {
+        "city": "Copenhagen",
+        "country": "DK",
+        "numberOfListeners": 575,
+        "region": "84"
+      },
+      {
+        "city": "Frederiksberg",
+        "country": "DK",
+        "numberOfListeners": 259,
+        "region": "84"
+      },
+      {
+        "city": "Rødovre Municipality",
+        "country": "DK",
+        "numberOfListeners": 82,
+        "region": "84"
+      },
+      {
+        "city": "Aarhus",
+        "country": "DK",
+        "numberOfListeners": 51,
+        "region": "82"
+      },
+      {
+        "city": "Valby",
+        "country": "DK",
+        "numberOfListeners": 43,
+        "region": "84"
+      }
+    ]
+  },
+  "worldRank": 0
+}

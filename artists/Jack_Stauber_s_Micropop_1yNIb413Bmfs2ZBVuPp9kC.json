@@ -1,0 +1,41 @@
+{
+  "id": "1yNIb413Bmfs2ZBVuPp9kC",
+  "name": "Jack Stauber's Micropop",
+  "followers": 1952178,
+  "monthlyListeners": 2686269,
+  "topCities": {
+    "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 34053,
+        "region": "RM"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 27306,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 26837,
+        "region": "IL"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 24483,
+        "region": "SP"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 24420,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

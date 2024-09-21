@@ -1,0 +1,41 @@
+{
+  "id": "5BXxM5HNwESu51puIXBVvv",
+  "name": "CJ",
+  "followers": 1341,
+  "monthlyListeners": 8272,
+  "topCities": {
+    "items": [
+      {
+        "city": "Athens",
+        "country": "GR",
+        "numberOfListeners": 3862,
+        "region": "I"
+      },
+      {
+        "city": "Thessaloniki",
+        "country": "GR",
+        "numberOfListeners": 2202,
+        "region": "B"
+      },
+      {
+        "city": "Pátrai",
+        "country": "GR",
+        "numberOfListeners": 208,
+        "region": "G"
+      },
+      {
+        "city": "Nicosia",
+        "country": "CY",
+        "numberOfListeners": 190,
+        "region": "01"
+      },
+      {
+        "city": "Larissa",
+        "country": "GR",
+        "numberOfListeners": 162,
+        "region": "E"
+      }
+    ]
+  },
+  "worldRank": 0
+}
