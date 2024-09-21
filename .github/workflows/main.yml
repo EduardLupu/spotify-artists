@@ -83,12 +83,15 @@ jobs:
               -H 'spotify-app-version: 896000000' \
               -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36')
 
-            # Extract artist name and stats using jq
-            artist_name=$(echo "$response" | jq -r '.data.artistUnion.profile.name' | tr -c '[:alnum:]_' '_')
+            artist_id = $(echo "$response" | jq -r '.data.artistUnion.profile.id')
+            artist_name = $(echo "$response" | jq -r '.data.artistUnion.profile.name')
+            artist_name_filename=$(echo "$response" | jq -r '.data.artistUnion.profile.name' | tr -c '[:alnum:]_' '_')
             artist_stats=$(echo "$response" | jq -r '.data.artistUnion.stats')
+          
+            artist_json=$(jq -n --arg id "$artist_id" --arg name "$artist_name" --argjson stats "$artist_stats" '{id: $id, name: $name} + $stats')
 
             # Save the stats to a file named after the artist
-            echo "$artist_stats" > "artist/${artist_name}.json"
+            echo "$artist_stats" > "artist/${artist_name_filename}.json"
 
           done < artist_ids.txt
 
