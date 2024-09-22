@@ -2,9 +2,8 @@ name: Get Spotify Artists Data
 
 on:
   schedule:
-    # Run at 10 PM UTC every day
     - cron: '0 22 * * *'
-  workflow_dispatch:  # Allow manual triggering
+  workflow_dispatch:
 
 jobs:
   get-spotify-data:
@@ -12,89 +11,29 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
-          persist-credentials: true
-          fetch-depth: 0  # Fetch all history for accurate change tracking
+          fetch-depth: 0
 
-      - name: Install jq
-        run: sudo apt-get install jq
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
 
-      - name: Fetch Anonymous Bearer Token
-        id: get_token
+      - name: Install dependencies
         run: |
-          # Fetch access from Spotify
-          token_response=$(curl -s 'https://open.spotify.com/get_access_token' \
-            -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
-            -H 'accept-language: en-US,en;q=0.9' \
-            -H 'priority: u=0, i' \
-            -H 'sec-ch-ua: "Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"' \
-            -H 'sec-ch-ua-mobile: ?0' \
-            -H 'sec-ch-ua-platform: "Windows"' \
-            -H 'sec-fetch-dest: document' \
-            -H 'sec-fetch-mode: navigate' \
-            -H 'sec-fetch-site: none' \
-            -H 'sec-fetch-user: ?1' \
-            -H 'upgrade-insecure-requests: 1' \
-            -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36')
-
-          # Extract the access token using jq
-          access_token=$(echo "$token_response" | jq -r '.accessToken')
-
-          # Output the token as a GitHub Actions environment variable
-          echo "ACCESS_TOKEN=$access_token" >> $GITHUB_ENV
+          sudo apt-get install jq
+          pip install aiohttp
 
       - name: Fetch Spotify Artist Data
         run: |
-          mkdir -p artists
-          
-          # Read each artist ID from artist_ids.txt
-          while IFS= read -r artist_id || [[ -n "$artist_id" ]]; do
-            # Define parameters and encode them
-            operationName="queryArtistOverview"
-            variables=$(jq -nc --arg id "spotify:artist:$artist_id" \
-                            '{"uri":$id,"locale":"","includePrerelease":true}')
-            extensions='{"persistedQuery":{"version":1,"sha256Hash":"7c5a08a226e4dc96387c0c0a5ef4bd1d2e2d95c88cbb33dcfa505928591de672"}}'
-
-            # URL encode the parameters
-            variables_encoded=$(python3 -c "import urllib.parse; print(urllib.parse.quote('''$variables'''))")
-            extensions_encoded=$(python3 -c "import urllib.parse; print(urllib.parse.quote('''$extensions'''))")
-
-            # Make the curl request with dynamic artist ID and encoded parameters
-            response=$(curl -s "https://api-partner.spotify.com/pathfinder/v1/query?operationName=$operationName&variables=$variables_encoded&extensions=$extensions_encoded" \
-              -H 'accept: application/json' \
-              -H 'accept-language: en' \
-              -H 'app-platform: WebPlayer' \
-              -H "authorization: Bearer $ACCESS_TOKEN" \
-              -H 'content-type: application/json;charset=UTF-8' \
-              -H 'origin: https://open.spotify.com' \
-              -H 'priority: u=1, i' \
-              -H 'referer: https://open.spotify.com/' \
-              -H 'sec-ch-ua: "Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"' \
-              -H 'sec-ch-ua-mobile: ?0' \
-              -H 'sec-ch-ua-platform: "Windows"' \
-              -H 'sec-fetch-dest: empty' \
-              -H 'sec-fetch-mode: cors' \
-              -H 'sec-fetch-site: same-site' \
-              -H 'spotify-app-version: 896000000' \
-              -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36')
-
-            artist_name=$(echo "$response" | jq -r '.data.artistUnion.profile.name')
-            artist_name_filename=$(echo "$response" | jq -r '.data.artistUnion.profile.name' | sed 's/[#%&{}\\<>*/?$!'"'"'":@+`|= ]/_/g')_${artist_id}
-            artist_stats=$(echo "$response" | jq -r '.data.artistUnion.stats')
-            artist_json=$(jq -n --arg id "$artist_id" --arg name "$artist_name" --argjson stats "$artist_stats" '{id: $id, name: $name} + $stats')
-
-            # Save the stats to a file named after the artist
-            echo "$artist_json" > "artists/${artist_name_filename}.json"
-          
-
-          done < artist_ids.txt
+          python fetch_artists.py
 
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@users.noreply.github.com"
-          git add -A
+          git add spotify_artists_data.json
           timestamp=$(date -u)
           git commit -m "Latest data: ${timestamp}" || exit 0
           git push
