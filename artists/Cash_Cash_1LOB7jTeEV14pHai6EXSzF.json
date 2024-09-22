@@ -1,39 +1,39 @@
 {
   "id": "1LOB7jTeEV14pHai6EXSzF",
   "name": "Cash Cash",
-  "followers": 689109,
-  "monthlyListeners": 3584037,
+  "followers": 689165,
+  "monthlyListeners": 3485818,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 225827,
+        "numberOfListeners": 226674,
         "region": "JK"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 47013,
+        "numberOfListeners": 45604,
         "region": "NY"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 45804,
+        "numberOfListeners": 45380,
         "region": "NSW"
-      },
-      {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 41005,
-        "region": "IL"
       },
       {
         "city": "Bandung",
         "country": "ID",
-        "numberOfListeners": 40548,
+        "numberOfListeners": 40518,
         "region": "JB"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 39101,
+        "region": "IL"
       }
     ]
   },

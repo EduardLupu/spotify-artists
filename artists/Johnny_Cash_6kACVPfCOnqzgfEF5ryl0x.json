@@ -1,38 +1,38 @@
 {
   "id": "6kACVPfCOnqzgfEF5ryl0x",
   "name": "Johnny Cash",
-  "followers": 6412035,
-  "monthlyListeners": 12336391,
+  "followers": 6413417,
+  "monthlyListeners": 12330209,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 180342,
+        "numberOfListeners": 180227,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 170616,
+        "numberOfListeners": 170270,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 158011,
+        "numberOfListeners": 157937,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 155245,
+        "numberOfListeners": 154577,
         "region": "IL"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 134018,
+        "numberOfListeners": 133940,
         "region": "QLD"
       }
     ]

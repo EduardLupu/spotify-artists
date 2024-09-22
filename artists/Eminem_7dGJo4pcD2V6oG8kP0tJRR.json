@@ -1,38 +1,38 @@
 {
   "id": "7dGJo4pcD2V6oG8kP0tJRR",
   "name": "Eminem",
-  "followers": 90250045,
-  "monthlyListeners": 74966103,
+  "followers": 90291637,
+  "monthlyListeners": 74903050,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1208531,
+        "numberOfListeners": 1203619,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 961566,
+        "numberOfListeners": 961711,
         "region": "NSW"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 856522,
+        "numberOfListeners": 854695,
         "region": "SP"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 820789,
+        "numberOfListeners": 819730,
         "region": "VIC"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 675072,
+        "numberOfListeners": 672855,
         "region": "ON"
       }
     ]

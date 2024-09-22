@@ -1,39 +1,39 @@
 {
   "id": "4WD1qcncf2bAnBeF5TqwSn",
   "name": "CICI Zhu",
-  "followers": 15157,
-  "monthlyListeners": 24148,
+  "followers": 15202,
+  "monthlyListeners": 23889,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 375,
+        "numberOfListeners": 374,
         "region": "IDF"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 320,
+        "numberOfListeners": 315,
         "region": "BE"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 301,
+        "numberOfListeners": 289,
         "region": "ENG"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 270,
+        "numberOfListeners": 273,
         "region": "CO"
       },
       {
-        "city": "Istanbul",
-        "country": "TR",
-        "numberOfListeners": 253,
-        "region": "34"
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 248,
+        "region": "WA"
       }
     ]
   },

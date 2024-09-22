@@ -1,38 +1,38 @@
 {
   "id": "1Q6SZxTvaE3HhslV0iXbI6",
   "name": "Herencia de Patrones",
-  "followers": 2553515,
-  "monthlyListeners": 3223232,
+  "followers": 2554106,
+  "monthlyListeners": 3217645,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 215626,
+        "numberOfListeners": 214889,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 168584,
+        "numberOfListeners": 168226,
         "region": "JAL"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 105040,
+        "numberOfListeners": 104326,
         "region": "QUE"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 98693,
+        "numberOfListeners": 100725,
         "region": "CMX"
       },
       {
         "city": "Zapopan",
         "country": "MX",
-        "numberOfListeners": 97532,
+        "numberOfListeners": 97887,
         "region": "JAL"
       }
     ]

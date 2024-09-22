@@ -1,38 +1,38 @@
 {
   "id": "5coMLgB6HtAg6rf9QVPLPa",
   "name": "Pouya",
-  "followers": 5130,
-  "monthlyListeners": 26352,
+  "followers": 5137,
+  "monthlyListeners": 25684,
   "topCities": {
     "items": [
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 740,
+        "numberOfListeners": 725,
         "region": "ON"
       },
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 721,
+        "numberOfListeners": 722,
         "region": "AB"
-      },
-      {
-        "city": "Los Angeles",
-        "country": "US",
-        "numberOfListeners": 587,
-        "region": "CA"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 572,
+        "numberOfListeners": 571,
         "region": "HE"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 558,
+        "region": "CA"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 425,
+        "numberOfListeners": 416,
         "region": "VIC"
       }
     ]

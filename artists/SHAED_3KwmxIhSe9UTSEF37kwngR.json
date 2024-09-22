@@ -1,38 +1,38 @@
 {
   "id": "3KwmxIhSe9UTSEF37kwngR",
   "name": "SHAED",
-  "followers": 179269,
-  "monthlyListeners": 2952003,
+  "followers": 179305,
+  "monthlyListeners": 2980059,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 34417,
+        "numberOfListeners": 34631,
         "region": "NSW"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 32159,
+        "numberOfListeners": 32802,
         "region": "SP"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 30929,
+        "numberOfListeners": 31373,
         "region": "IDF"
       },
       {
         "city": "Bengaluru",
         "country": "IN",
-        "numberOfListeners": 29598,
+        "numberOfListeners": 29798,
         "region": "KA"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 27276,
+        "numberOfListeners": 27537,
         "region": "VIC"
       }
     ]

@@ -1,26 +1,26 @@
 {
   "id": "7fRd6n7FhjhaUUKYiUHmXf",
   "name": "Frenchy and the Punk",
-  "followers": 8407,
-  "monthlyListeners": 11205,
+  "followers": 8411,
+  "monthlyListeners": 11189,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 137,
+        "numberOfListeners": 136,
         "region": "IL"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 132,
+        "numberOfListeners": 130,
         "region": "WA"
       },
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 120,
+        "numberOfListeners": 118,
         "region": "14"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 101,
+        "numberOfListeners": 102,
         "region": "ENG"
       }
     ]

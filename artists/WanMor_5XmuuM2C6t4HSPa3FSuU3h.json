@@ -1,38 +1,38 @@
 {
   "id": "5XmuuM2C6t4HSPa3FSuU3h",
   "name": "WanMor",
-  "followers": 19493,
-  "monthlyListeners": 898273,
+  "followers": 19525,
+  "monthlyListeners": 898777,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 19395,
+        "numberOfListeners": 19355,
         "region": "IL"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 15451,
+        "numberOfListeners": 15481,
         "region": "PA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 15024,
+        "numberOfListeners": 15098,
         "region": "NY"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 13308,
+        "numberOfListeners": 13385,
         "region": "GA"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 13157,
+        "numberOfListeners": 13160,
         "region": "CA"
       }
     ]

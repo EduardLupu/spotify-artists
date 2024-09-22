@@ -1,38 +1,38 @@
 {
   "id": "2Mc7D3VM4X3vMJVSyLqBTJ",
   "name": "Willow",
-  "followers": 4447,
-  "monthlyListeners": 3572,
+  "followers": 4448,
+  "monthlyListeners": 3593,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 230,
+        "numberOfListeners": 240,
         "region": "ENG"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 110,
+        "numberOfListeners": 112,
         "region": "BE"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 91,
+        "numberOfListeners": 97,
         "region": "NY"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 86,
+        "numberOfListeners": 84,
         "region": "VIC"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 72,
+        "numberOfListeners": 76,
         "region": "NY"
       }
     ]

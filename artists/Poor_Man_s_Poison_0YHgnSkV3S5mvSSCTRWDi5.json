@@ -1,38 +1,38 @@
 {
   "id": "0YHgnSkV3S5mvSSCTRWDi5",
   "name": "Poor Man's Poison",
-  "followers": 483909,
-  "monthlyListeners": 3016512,
+  "followers": 484377,
+  "monthlyListeners": 3006351,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 35169,
+        "numberOfListeners": 34920,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 33225,
+        "numberOfListeners": 33025,
         "region": "ENG"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 30444,
+        "numberOfListeners": 30409,
         "region": "WA"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 29414,
+        "numberOfListeners": 29297,
         "region": "TX"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 28597,
+        "numberOfListeners": 28615,
         "region": "CO"
       }
     ]

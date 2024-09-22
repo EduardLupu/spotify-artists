@@ -1,38 +1,38 @@
 {
   "id": "6KFn3dQkHm34s2HmO1GUHN",
   "name": "Eric Heitmann",
-  "followers": 12286,
-  "monthlyListeners": 123633,
+  "followers": 12293,
+  "monthlyListeners": 122592,
   "topCities": {
     "items": [
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 2120,
+        "numberOfListeners": 2077,
         "region": "34"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 1399,
+        "numberOfListeners": 1403,
         "region": "SP"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 1288,
+        "numberOfListeners": 1287,
         "region": "IDF"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1188,
+        "numberOfListeners": 1177,
         "region": "ENG"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1123,
+        "numberOfListeners": 1094,
         "region": "RM"
       }
     ]

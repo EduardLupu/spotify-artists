@@ -1,26 +1,26 @@
 {
   "id": "4wf75IjMXOQtliNjqy40Lq",
   "name": "Modéstia Parte",
-  "followers": 234658,
-  "monthlyListeners": 163008,
+  "followers": 234651,
+  "monthlyListeners": 162912,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 20969,
+        "numberOfListeners": 20918,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 16816,
+        "numberOfListeners": 16804,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 6363,
+        "numberOfListeners": 6388,
         "region": "MG"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Porto Alegre",
         "country": "BR",
-        "numberOfListeners": 5067,
+        "numberOfListeners": 5034,
         "region": "RS"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "00XhexlJEXQstHimpZN910",
   "name": "Brytiago",
-  "followers": 6875487,
-  "monthlyListeners": 11482967,
+  "followers": 6877707,
+  "monthlyListeners": 11500183,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 786970,
+        "numberOfListeners": 781775,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 484344,
+        "numberOfListeners": 484458,
         "region": "DC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 412353,
+        "numberOfListeners": 411905,
         "region": "CMX"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 399462,
+        "numberOfListeners": 400478,
         "region": "LMA"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 385837,
+        "numberOfListeners": 386931,
         "region": "C"
       }
     ]

@@ -2,25 +2,25 @@
   "id": "24K3MJ131xjKnqDf87M3Qm",
   "name": "Robert Shaw",
   "followers": 3741,
-  "monthlyListeners": 43981,
+  "monthlyListeners": 43990,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 563,
+        "numberOfListeners": 560,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 505,
+        "numberOfListeners": 506,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 433,
+        "numberOfListeners": 434,
         "region": "IL"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 406,
+        "numberOfListeners": 398,
         "region": "NSW"
       }
     ]

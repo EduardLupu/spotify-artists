@@ -1,41 +1,41 @@
 {
   "id": "2DlGxzQSjYe5N6G9nkYghR",
   "name": "Jennifer Lopez",
-  "followers": 13243157,
-  "monthlyListeners": 25984558,
+  "followers": 13244917,
+  "monthlyListeners": 25963910,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 389351,
+        "numberOfListeners": 387410,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 308281,
+        "numberOfListeners": 308594,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 306388,
+        "numberOfListeners": 305465,
         "region": "ENG"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 286614,
+        "numberOfListeners": 285485,
         "region": "CMX"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 276583,
+        "numberOfListeners": 276536,
         "region": "SP"
       }
     ]
   },
-  "worldRank": 206
+  "worldRank": 204
 }

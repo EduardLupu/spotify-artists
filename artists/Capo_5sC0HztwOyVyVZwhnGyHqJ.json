@@ -1,38 +1,38 @@
 {
   "id": "5sC0HztwOyVyVZwhnGyHqJ",
   "name": "Capo",
-  "followers": 16077,
-  "monthlyListeners": 55405,
+  "followers": 16082,
+  "monthlyListeners": 55301,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2421,
+        "numberOfListeners": 2403,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1061,
+        "numberOfListeners": 1038,
         "region": "CA"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 957,
+        "numberOfListeners": 951,
         "region": "TX"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 795,
+        "numberOfListeners": 791,
         "region": "TX"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 787,
+        "numberOfListeners": 775,
         "region": "GA"
       }
     ]

@@ -2,19 +2,19 @@
   "id": "5jeeMR3il0IfyLAGfInVPf",
   "name": "Max",
   "followers": 43,
-  "monthlyListeners": 2106,
+  "monthlyListeners": 2107,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 385,
+        "numberOfListeners": 380,
         "region": "SP"
       },
       {
         "city": "Budapest",
         "country": "HU",
-        "numberOfListeners": 154,
+        "numberOfListeners": 155,
         "region": "BU"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Porto Alegre",
         "country": "BR",
-        "numberOfListeners": 66,
+        "numberOfListeners": 69,
         "region": "RS"
       }
     ]

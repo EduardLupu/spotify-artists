@@ -2,37 +2,37 @@
   "id": "5BYgFFpGVMzMfwE5sjC42a",
   "name": "Ikon",
   "followers": 4662,
-  "monthlyListeners": 5504,
+  "monthlyListeners": 5493,
   "topCities": {
     "items": [
       {
         "city": "Athens",
         "country": "GR",
-        "numberOfListeners": 418,
+        "numberOfListeners": 416,
         "region": "I"
       },
       {
         "city": "Thessaloniki",
         "country": "GR",
-        "numberOfListeners": 97,
+        "numberOfListeners": 96,
         "region": "B"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 88,
+        "numberOfListeners": 87,
         "region": "NSW"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 86,
+        "numberOfListeners": 83,
         "region": "MD"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 76,
+        "numberOfListeners": 72,
         "region": "VIC"
       }
     ]

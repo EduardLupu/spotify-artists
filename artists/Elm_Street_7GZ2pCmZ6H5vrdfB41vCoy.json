@@ -1,38 +1,38 @@
 {
   "id": "7GZ2pCmZ6H5vrdfB41vCoy",
   "name": "Elm Street",
-  "followers": 8634,
-  "monthlyListeners": 8393,
+  "followers": 8635,
+  "monthlyListeners": 8423,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 506,
+        "numberOfListeners": 508,
         "region": "SP"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 314,
+        "numberOfListeners": 311,
         "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 279,
+        "numberOfListeners": 278,
         "region": "NSW"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 197,
+        "numberOfListeners": 201,
         "region": "RJ"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 185,
+        "numberOfListeners": 184,
         "region": "QLD"
       }
     ]

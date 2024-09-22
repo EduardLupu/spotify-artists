@@ -2,37 +2,37 @@
   "id": "2mflSlnegn3rBmzsh08OcN",
   "name": "The Boswell Sisters",
   "followers": 21879,
-  "monthlyListeners": 30212,
+  "monthlyListeners": 30441,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 445,
+        "numberOfListeners": 446,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 351,
+        "numberOfListeners": 348,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 320,
+        "numberOfListeners": 325,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 285,
+        "numberOfListeners": 286,
         "region": "ENG"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 271,
+        "numberOfListeners": 273,
         "region": "WA"
       }
     ]

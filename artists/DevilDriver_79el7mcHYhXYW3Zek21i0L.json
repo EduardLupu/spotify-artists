@@ -1,38 +1,38 @@
 {
   "id": "79el7mcHYhXYW3Zek21i0L",
   "name": "DevilDriver",
-  "followers": 504044,
-  "monthlyListeners": 390069,
+  "followers": 504131,
+  "monthlyListeners": 388805,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 5268,
+        "numberOfListeners": 5239,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 5158,
+        "numberOfListeners": 5119,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 5094,
+        "numberOfListeners": 5051,
         "region": "IL"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 5072,
+        "numberOfListeners": 5018,
         "region": "QLD"
       },
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 4648,
+        "numberOfListeners": 4609,
         "region": "18"
       }
     ]

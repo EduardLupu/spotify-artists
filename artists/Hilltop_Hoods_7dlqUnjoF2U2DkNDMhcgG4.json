@@ -1,38 +1,38 @@
 {
   "id": "7dlqUnjoF2U2DkNDMhcgG4",
   "name": "Hilltop Hoods",
-  "followers": 896275,
-  "monthlyListeners": 1997899,
+  "followers": 896397,
+  "monthlyListeners": 1999951,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 295503,
+        "numberOfListeners": 295981,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 252266,
+        "numberOfListeners": 252196,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 241445,
+        "numberOfListeners": 241320,
         "region": "QLD"
       },
       {
         "city": "Perth",
         "country": "AU",
-        "numberOfListeners": 147156,
+        "numberOfListeners": 147713,
         "region": "WA"
       },
       {
         "city": "Adelaide",
         "country": "AU",
-        "numberOfListeners": 77925,
+        "numberOfListeners": 77926,
         "region": "SA"
       }
     ]

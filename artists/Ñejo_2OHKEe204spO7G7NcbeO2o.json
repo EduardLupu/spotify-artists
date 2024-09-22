@@ -1,38 +1,38 @@
 {
   "id": "2OHKEe204spO7G7NcbeO2o",
   "name": "Ñejo",
-  "followers": 4386553,
-  "monthlyListeners": 7895938,
+  "followers": 4387926,
+  "monthlyListeners": 7904106,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 757006,
+        "numberOfListeners": 757135,
         "region": "DC"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 589939,
+        "numberOfListeners": 585643,
         "region": "RM"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 429622,
+        "numberOfListeners": 430146,
         "region": "ANT"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 305858,
+        "numberOfListeners": 306238,
         "region": "LMA"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 270614,
+        "numberOfListeners": 270352,
         "region": "CMX"
       }
     ]

@@ -1,26 +1,26 @@
 {
   "id": "4PA9flzme8b2Dmb9NRgsb4",
   "name": "Isis Montemayor",
-  "followers": 4259,
-  "monthlyListeners": 14360,
+  "followers": 4265,
+  "monthlyListeners": 14371,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 813,
+        "numberOfListeners": 807,
         "region": "CMX"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 532,
+        "numberOfListeners": 540,
         "region": "DC"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 528,
+        "numberOfListeners": 527,
         "region": "RM"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 383,
+        "numberOfListeners": 388,
         "region": "JAL"
       }
     ]

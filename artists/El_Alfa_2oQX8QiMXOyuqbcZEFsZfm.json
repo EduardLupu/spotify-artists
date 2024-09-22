@@ -1,38 +1,38 @@
 {
   "id": "2oQX8QiMXOyuqbcZEFsZfm",
   "name": "El Alfa",
-  "followers": 3637028,
-  "monthlyListeners": 22243640,
+  "followers": 3639231,
+  "monthlyListeners": 22184962,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 793081,
+        "numberOfListeners": 788704,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 499822,
+        "numberOfListeners": 497022,
         "region": "CMX"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 493424,
+        "numberOfListeners": 493335,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 441941,
+        "numberOfListeners": 440454,
         "region": "LMA"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 392947,
+        "numberOfListeners": 394414,
         "region": "MD"
       }
     ]

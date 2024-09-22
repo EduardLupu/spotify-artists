@@ -1,39 +1,39 @@
 {
   "id": "3GBBxBdoolb0B5YizZq9bF",
   "name": "Eno",
-  "followers": 681430,
-  "monthlyListeners": 1887204,
+  "followers": 681620,
+  "monthlyListeners": 1877942,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 164295,
+        "numberOfListeners": 163466,
         "region": "BE"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 150814,
+        "numberOfListeners": 149846,
         "region": "HE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 143040,
+        "numberOfListeners": 148119,
         "region": "HH"
-      },
-      {
-        "city": "Munich",
-        "country": "DE",
-        "numberOfListeners": 111656,
-        "region": "BY"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 111365,
+        "numberOfListeners": 113421,
         "region": "BW"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 111414,
+        "region": "BY"
       }
     ]
   },

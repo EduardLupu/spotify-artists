@@ -1,38 +1,38 @@
 {
   "id": "15iVAtD3s3FsQR4w1v6M0P",
   "name": "Chief Keef",
-  "followers": 5144731,
-  "monthlyListeners": 12169353,
+  "followers": 5147404,
+  "monthlyListeners": 12160491,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 282054,
+        "numberOfListeners": 281369,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 194535,
+        "numberOfListeners": 194079,
         "region": "CA"
-      },
-      {
-        "city": "Dallas",
-        "country": "US",
-        "numberOfListeners": 176571,
-        "region": "TX"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 175716,
+        "numberOfListeners": 176887,
         "region": "NY"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 176419,
+        "region": "TX"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 168497,
+        "numberOfListeners": 168644,
         "region": "ON"
       }
     ]

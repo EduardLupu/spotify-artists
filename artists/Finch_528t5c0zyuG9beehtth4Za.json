@@ -1,38 +1,38 @@
 {
   "id": "528t5c0zyuG9beehtth4Za",
   "name": "Finch",
-  "followers": 203268,
-  "monthlyListeners": 347213,
+  "followers": 203311,
+  "monthlyListeners": 346130,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 7673,
+        "numberOfListeners": 7634,
         "region": "JK"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 6057,
+        "numberOfListeners": 6045,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 5419,
+        "numberOfListeners": 5412,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 5384,
+        "numberOfListeners": 5326,
         "region": "ENG"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 4986,
+        "numberOfListeners": 4956,
         "region": "PA"
       }
     ]

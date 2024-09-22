@@ -1,38 +1,38 @@
 {
   "id": "1anyVhU62p31KFi8MEzkbf",
   "name": "Chance the Rapper",
-  "followers": 6019256,
-  "monthlyListeners": 10078949,
+  "followers": 6019357,
+  "monthlyListeners": 10053135,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 195322,
+        "numberOfListeners": 195219,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 181897,
+        "numberOfListeners": 180749,
         "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 160597,
+        "numberOfListeners": 160151,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 153258,
+        "numberOfListeners": 152251,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 147367,
+        "numberOfListeners": 147274,
         "region": "NY"
       }
     ]

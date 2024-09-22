@@ -1,41 +1,41 @@
 {
   "id": "2h93pZq0e7k5yf4dywlkpM",
   "name": "Frank Ocean",
-  "followers": 15415929,
-  "monthlyListeners": 36658574,
+  "followers": 15431053,
+  "monthlyListeners": 36589308,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 744262,
+        "numberOfListeners": 742000,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 630976,
+        "numberOfListeners": 629417,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 571632,
+        "numberOfListeners": 571544,
         "region": "NSW"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 516406,
+        "numberOfListeners": 517773,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 502221,
+        "numberOfListeners": 500260,
         "region": "IL"
       }
     ]
   },
-  "worldRank": 100
+  "worldRank": 101
 }

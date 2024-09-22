@@ -1,41 +1,41 @@
 {
   "id": "3yY2gUcIsjMr8hjo51PoJ8",
   "name": "The Smiths",
-  "followers": 6300969,
-  "monthlyListeners": 17504606,
+  "followers": 6306103,
+  "monthlyListeners": 17514285,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 420448,
+        "numberOfListeners": 422577,
         "region": "JK"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 408343,
+        "numberOfListeners": 408093,
         "region": "ENG"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 306830,
+        "numberOfListeners": 305629,
         "region": "RM"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 273888,
+        "numberOfListeners": 273671,
         "region": "CA"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 232508,
+        "numberOfListeners": 232485,
         "region": "SP"
       }
     ]
   },
-  "worldRank": 457
+  "worldRank": 456
 }

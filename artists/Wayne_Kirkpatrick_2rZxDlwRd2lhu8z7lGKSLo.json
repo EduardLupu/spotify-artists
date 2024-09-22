@@ -2,38 +2,38 @@
   "id": "2rZxDlwRd2lhu8z7lGKSLo",
   "name": "Wayne Kirkpatrick",
   "followers": 692,
-  "monthlyListeners": 212281,
+  "monthlyListeners": 212550,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 5869,
+        "numberOfListeners": 5824,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 3791,
+        "numberOfListeners": 3824,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 3308,
+        "numberOfListeners": 3296,
         "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 2988,
+        "numberOfListeners": 2998,
         "region": "VIC"
       },
       {
-        "city": "Philadelphia",
+        "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 2556,
-        "region": "PA"
+        "numberOfListeners": 2566,
+        "region": "CA"
       }
     ]
   },

@@ -2,7 +2,7 @@
   "id": "4psdTDqFOHMJJsGHkqoKwm",
   "name": "MK",
   "followers": 14,
-  "monthlyListeners": 37,
+  "monthlyListeners": 36,
   "topCities": {
     "items": [
       {
@@ -12,28 +12,28 @@
         "region": "BRU"
       },
       {
-        "city": "Warsaw",
-        "country": "PL",
-        "numberOfListeners": 1,
-        "region": "14"
-      },
-      {
-        "city": "Ho Chi Minh City",
-        "country": "VN",
-        "numberOfListeners": 1,
-        "region": "SG"
-      },
-      {
         "city": "Córdoba",
         "country": "AR",
         "numberOfListeners": 1,
         "region": "X"
       },
       {
-        "city": "Limassol",
-        "country": "CY",
+        "city": "Barcelona",
+        "country": "ES",
         "numberOfListeners": 1,
-        "region": "02"
+        "region": "CT"
+      },
+      {
+        "city": "Kolkata",
+        "country": "IN",
+        "numberOfListeners": 1,
+        "region": "WB"
+      },
+      {
+        "city": "Harelbeke",
+        "country": "BE",
+        "numberOfListeners": 1,
+        "region": "VLG"
       }
     ]
   },

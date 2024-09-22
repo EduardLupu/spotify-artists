@@ -1,38 +1,38 @@
 {
   "id": "6sCbFbEjbYepqswM1vWjjs",
   "name": "Zendaya",
-  "followers": 4814924,
-  "monthlyListeners": 13946272,
+  "followers": 4817292,
+  "monthlyListeners": 13827627,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 235400,
+        "numberOfListeners": 232728,
         "region": "JK"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 178616,
-        "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 177874,
+        "numberOfListeners": 176553,
         "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 175790,
+        "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 156625,
+        "numberOfListeners": 155481,
         "region": "SP"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 155824,
+        "numberOfListeners": 154595,
         "region": "VIC"
       }
     ]

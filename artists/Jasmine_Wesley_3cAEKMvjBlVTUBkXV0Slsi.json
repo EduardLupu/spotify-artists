@@ -1,38 +1,38 @@
 {
   "id": "3cAEKMvjBlVTUBkXV0Slsi",
   "name": "Jasmine Wesley",
-  "followers": 5807,
-  "monthlyListeners": 9280,
+  "followers": 5819,
+  "monthlyListeners": 9332,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 198,
+        "numberOfListeners": 197,
         "region": "IDF"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 165,
+        "numberOfListeners": 162,
         "region": "CA"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 157,
+        "numberOfListeners": 160,
         "region": "NH"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 122,
+        "numberOfListeners": 125,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 104,
+        "numberOfListeners": 102,
         "region": "CMX"
       }
     ]

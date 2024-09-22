@@ -1,39 +1,39 @@
 {
   "id": "1GLtl8uqKmnyCWxHmw9tL4",
   "name": "The Kooks",
-  "followers": 2568756,
-  "monthlyListeners": 7770430,
+  "followers": 2569062,
+  "monthlyListeners": 7748202,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 445897,
+        "numberOfListeners": 443032,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 177637,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 177208,
+        "numberOfListeners": 176561,
         "region": "NSW"
-      },
-      {
-        "city": "Manchester",
-        "country": "GB",
-        "numberOfListeners": 176950,
-        "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 154346,
+        "numberOfListeners": 153534,
         "region": "VIC"
       },
       {
-        "city": "Birmingham",
-        "country": "GB",
-        "numberOfListeners": 147219,
-        "region": "ENG"
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 145112,
+        "region": "L"
       }
     ]
   },

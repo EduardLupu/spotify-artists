@@ -1,38 +1,38 @@
 {
   "id": "0701LAQrkY5Il5vt06uNnC",
   "name": "Trouble",
-  "followers": 128707,
-  "monthlyListeners": 202335,
+  "followers": 128716,
+  "monthlyListeners": 202049,
   "topCities": {
     "items": [
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 6932,
+        "numberOfListeners": 6957,
         "region": "GA"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 4201,
+        "numberOfListeners": 4186,
         "region": "TX"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 3922,
+        "numberOfListeners": 3908,
         "region": "NC"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 3353,
+        "numberOfListeners": 3347,
         "region": "TX"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 3314,
+        "numberOfListeners": 3266,
         "region": "IL"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "4kEAjV4pCBOkoowYYQydvO",
   "name": "Club Nouveau",
-  "followers": 182077,
-  "monthlyListeners": 271145,
+  "followers": 182100,
+  "monthlyListeners": 271468,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 9339,
+        "numberOfListeners": 9328,
         "region": "SP"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 9294,
+        "numberOfListeners": 9320,
         "region": "CA"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 4940,
+        "numberOfListeners": 4984,
         "region": "AZ"
       },
       {
         "city": "Sacramento",
         "country": "US",
-        "numberOfListeners": 4294,
+        "numberOfListeners": 4259,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 3531,
+        "numberOfListeners": 3564,
         "region": "NSW"
       }
     ]

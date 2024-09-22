@@ -1,38 +1,38 @@
 {
   "id": "4d3yvTptO48nOYTPBcPFZC",
   "name": "Eve",
-  "followers": 1423942,
-  "monthlyListeners": 6285795,
+  "followers": 1424404,
+  "monthlyListeners": 6248103,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 116488,
+        "numberOfListeners": 115116,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 111546,
+        "numberOfListeners": 111199,
         "region": "NSW"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 110263,
+        "numberOfListeners": 109377,
         "region": "SP"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 91934,
+        "numberOfListeners": 91521,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 76278,
+        "numberOfListeners": 75874,
         "region": "QLD"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "6iVZjzQSsPC4iuI1JUV2Zs",
   "name": "coldoutlay",
-  "followers": 5586,
-  "monthlyListeners": 119327,
+  "followers": 5587,
+  "monthlyListeners": 119267,
   "topCities": {
     "items": [
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 2113,
+        "numberOfListeners": 2118,
         "region": "NY"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 2110,
+        "numberOfListeners": 2117,
         "region": "CA"
-      },
-      {
-        "city": "Atlanta",
-        "country": "US",
-        "numberOfListeners": 1961,
-        "region": "GA"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 1948,
+        "numberOfListeners": 1980,
         "region": "ON"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 1951,
+        "region": "GA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 1905,
+        "numberOfListeners": 1909,
         "region": "IL"
       }
     ]

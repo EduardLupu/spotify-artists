@@ -18,22 +18,22 @@
         "region": "ENG"
       },
       {
-        "city": "Philadelphia",
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 3,
+        "region": "25"
+      },
+      {
+        "city": "New York City",
         "country": "US",
         "numberOfListeners": 3,
-        "region": "PA"
+        "region": "NY"
       },
       {
         "city": "Portland",
         "country": "US",
         "numberOfListeners": 3,
         "region": "OR"
-      },
-      {
-        "city": "Dallas",
-        "country": "US",
-        "numberOfListeners": 3,
-        "region": "TX"
       }
     ]
   },

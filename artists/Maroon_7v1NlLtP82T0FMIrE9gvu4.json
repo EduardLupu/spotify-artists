@@ -1,38 +1,38 @@
 {
   "id": "7v1NlLtP82T0FMIrE9gvu4",
   "name": "Maroon",
-  "followers": 10606,
-  "monthlyListeners": 3740,
+  "followers": 10608,
+  "monthlyListeners": 3745,
   "topCities": {
     "items": [
       {
         "city": "Malang",
         "country": "ID",
-        "numberOfListeners": 200,
+        "numberOfListeners": 198,
         "region": "JI"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 194,
+        "numberOfListeners": 193,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 97,
+        "numberOfListeners": 101,
         "region": "HH"
       },
       {
         "city": "Leipzig",
         "country": "DE",
-        "numberOfListeners": 94,
+        "numberOfListeners": 92,
         "region": "SN"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 92,
+        "numberOfListeners": 91,
         "region": "HE"
       }
     ]

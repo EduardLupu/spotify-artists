@@ -1,38 +1,38 @@
 {
   "id": "3Edve4VIATi0OZngclQlkN",
   "name": "Dopamine",
-  "followers": 6591,
-  "monthlyListeners": 4889888,
+  "followers": 6596,
+  "monthlyListeners": 4871398,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 75292,
+        "numberOfListeners": 75097,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 59545,
+        "numberOfListeners": 59328,
         "region": "VIC"
       },
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 52075,
+        "numberOfListeners": 52078,
         "region": "14"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 51733,
+        "numberOfListeners": 51518,
         "region": "ENG"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 50813,
+        "numberOfListeners": 50605,
         "region": "IDF"
       }
     ]

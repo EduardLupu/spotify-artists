@@ -1,41 +1,41 @@
 {
   "id": "0vR2qb8m9WHeZ5ByCbimq2",
   "name": "Reik",
-  "followers": 8984244,
-  "monthlyListeners": 21807587,
+  "followers": 8986776,
+  "monthlyListeners": 21832227,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1223417,
+        "numberOfListeners": 1219932,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 968855,
+        "numberOfListeners": 964521,
         "region": "RM"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 804727,
+        "numberOfListeners": 806414,
         "region": "LMA"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 773687,
+        "numberOfListeners": 774108,
         "region": "DC"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 574323,
+        "numberOfListeners": 573530,
         "region": "JAL"
       }
     ]
   },
-  "worldRank": 319
+  "worldRank": 311
 }

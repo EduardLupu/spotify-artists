@@ -1,38 +1,38 @@
 {
   "id": "2yJwXpWAQOOl5XFzbCxLs9",
   "name": "Bad Religion",
-  "followers": 1306453,
-  "monthlyListeners": 1399254,
+  "followers": 1306650,
+  "monthlyListeners": 1392202,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 42441,
+        "numberOfListeners": 42201,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 30469,
+        "numberOfListeners": 30077,
         "region": "RM"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 24948,
+        "numberOfListeners": 24894,
         "region": "QC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 22652,
+        "numberOfListeners": 22574,
         "region": "CA"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 15589,
+        "numberOfListeners": 15537,
         "region": "BE"
       }
     ]

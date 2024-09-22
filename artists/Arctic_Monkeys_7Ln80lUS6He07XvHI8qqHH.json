@@ -1,38 +1,38 @@
 {
   "id": "7Ln80lUS6He07XvHI8qqHH",
   "name": "Arctic Monkeys",
-  "followers": 26537611,
-  "monthlyListeners": 53114164,
+  "followers": 26556915,
+  "monthlyListeners": 53059219,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 1559345,
+        "numberOfListeners": 1566783,
         "region": "JK"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 962258,
+        "numberOfListeners": 958267,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 772312,
+        "numberOfListeners": 770114,
         "region": "SP"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 610779,
+        "numberOfListeners": 607412,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 583950,
+        "numberOfListeners": 579777,
         "region": "RM"
       }
     ]

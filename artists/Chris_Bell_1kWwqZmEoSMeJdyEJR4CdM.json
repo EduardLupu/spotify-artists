@@ -1,7 +1,7 @@
 {
   "id": "1kWwqZmEoSMeJdyEJR4CdM",
   "name": "Chris Bell",
-  "followers": 428,
+  "followers": 429,
   "monthlyListeners": 618,
   "topCities": {
     "items": [
@@ -14,26 +14,26 @@
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 13,
+        "numberOfListeners": 12,
         "region": "MD"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 12,
+        "region": "NY"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 11,
+        "region": "VIC"
       },
       {
         "city": "Philadelphia",
         "country": "US",
         "numberOfListeners": 11,
         "region": "PA"
-      },
-      {
-        "city": "Brooklyn",
-        "country": "US",
-        "numberOfListeners": 11,
-        "region": "NY"
-      },
-      {
-        "city": "Melbourne",
-        "country": "AU",
-        "numberOfListeners": 10,
-        "region": "VIC"
       }
     ]
   },

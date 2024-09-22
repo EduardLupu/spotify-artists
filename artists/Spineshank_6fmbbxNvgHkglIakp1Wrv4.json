@@ -1,38 +1,38 @@
 {
   "id": "6fmbbxNvgHkglIakp1Wrv4",
   "name": "Spineshank",
-  "followers": 203619,
-  "monthlyListeners": 225879,
+  "followers": 203659,
+  "monthlyListeners": 225155,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 4124,
+        "numberOfListeners": 4116,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 3511,
+        "numberOfListeners": 3471,
         "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 3422,
+        "numberOfListeners": 3404,
         "region": "NSW"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 2979,
+        "numberOfListeners": 2971,
         "region": "QLD"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2638,
+        "numberOfListeners": 2606,
         "region": "IL"
       }
     ]

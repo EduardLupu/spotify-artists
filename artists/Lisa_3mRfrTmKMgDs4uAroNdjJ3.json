@@ -2,25 +2,25 @@
   "id": "3mRfrTmKMgDs4uAroNdjJ3",
   "name": "Lisa",
   "followers": 6,
-  "monthlyListeners": 739,
+  "monthlyListeners": 676,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 36,
+        "numberOfListeners": 31,
         "region": "BE"
       },
       {
         "city": "Zurich",
         "country": "CH",
-        "numberOfListeners": 32,
+        "numberOfListeners": 27,
         "region": "ZH"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 27,
+        "numberOfListeners": 25,
         "region": "HH"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 17,
+        "numberOfListeners": 18,
         "region": "BY"
       }
     ]

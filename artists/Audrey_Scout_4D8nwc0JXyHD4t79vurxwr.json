@@ -2,15 +2,9 @@
   "id": "4D8nwc0JXyHD4t79vurxwr",
   "name": "Audrey Scout",
   "followers": 101,
-  "monthlyListeners": 48,
+  "monthlyListeners": 45,
   "topCities": {
     "items": [
-      {
-        "city": "Brooklyn",
-        "country": "US",
-        "numberOfListeners": 2,
-        "region": "NY"
-      },
       {
         "city": "Los Angeles",
         "country": "US",
@@ -18,22 +12,28 @@
         "region": "CA"
       },
       {
-        "city": "Sydney",
-        "country": "AU",
+        "city": "Brooklyn",
+        "country": "US",
         "numberOfListeners": 2,
-        "region": "NSW"
+        "region": "NY"
       },
       {
-        "city": "Semarang",
-        "country": "ID",
-        "numberOfListeners": 1,
-        "region": "JT"
+        "city": "Palmdale",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "CA"
       },
       {
-        "city": "Singapore",
-        "country": "SG",
+        "city": "Birmingham",
+        "country": "GB",
         "numberOfListeners": 1,
-        "region": ""
+        "region": "ENG"
+      },
+      {
+        "city": "Fuente de Piedra",
+        "country": "ES",
+        "numberOfListeners": 1,
+        "region": "AN"
       }
     ]
   },

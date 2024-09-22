@@ -1,38 +1,38 @@
 {
   "id": "0y9rTsbpRAIIkDMP3DsNro",
   "name": "Novillos de la Sierra",
-  "followers": 100356,
-  "monthlyListeners": 1312789,
+  "followers": 100613,
+  "monthlyListeners": 1312362,
   "topCities": {
     "items": [
       {
         "city": "Culiacán",
         "country": "MX",
-        "numberOfListeners": 86800,
+        "numberOfListeners": 85493,
         "region": "SIN"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 73888,
+        "numberOfListeners": 73526,
         "region": "CMX"
-      },
-      {
-        "city": "Guadalajara",
-        "country": "MX",
-        "numberOfListeners": 73056,
-        "region": "JAL"
       },
       {
         "city": "Tijuana",
         "country": "MX",
-        "numberOfListeners": 72795,
+        "numberOfListeners": 72772,
         "region": "BCN"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 72712,
+        "region": "JAL"
       },
       {
         "city": "Hermosillo",
         "country": "MX",
-        "numberOfListeners": 59748,
+        "numberOfListeners": 60492,
         "region": "SON"
       }
     ]

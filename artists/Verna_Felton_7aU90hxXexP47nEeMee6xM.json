@@ -1,38 +1,38 @@
 {
   "id": "7aU90hxXexP47nEeMee6xM",
   "name": "Verna Felton",
-  "followers": 7457,
-  "monthlyListeners": 342000,
+  "followers": 7456,
+  "monthlyListeners": 341289,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 5019,
+        "numberOfListeners": 4932,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 4321,
+        "numberOfListeners": 4274,
         "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 4206,
+        "numberOfListeners": 4173,
         "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 3763,
+        "numberOfListeners": 3757,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 3283,
+        "numberOfListeners": 3256,
         "region": "IL"
       }
     ]

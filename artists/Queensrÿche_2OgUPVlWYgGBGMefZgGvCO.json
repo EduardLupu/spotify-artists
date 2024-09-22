@@ -1,38 +1,38 @@
 {
   "id": "2OgUPVlWYgGBGMefZgGvCO",
   "name": "Queensrÿche",
-  "followers": 679706,
-  "monthlyListeners": 938533,
+  "followers": 679832,
+  "monthlyListeners": 939993,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 24987,
+        "numberOfListeners": 25004,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 14582,
+        "numberOfListeners": 14446,
         "region": "RM"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 11466,
+        "numberOfListeners": 11460,
         "region": "IL"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 8917,
+        "numberOfListeners": 8984,
         "region": "WA"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 8699,
+        "numberOfListeners": 8745,
         "region": "AZ"
       }
     ]

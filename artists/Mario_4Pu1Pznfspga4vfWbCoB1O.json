@@ -8,32 +8,32 @@
       {
         "city": "Tallinn",
         "country": "EE",
-        "numberOfListeners": 116,
+        "numberOfListeners": 117,
         "region": "37"
       },
       {
         "city": "Tartu",
         "country": "EE",
-        "numberOfListeners": 21,
+        "numberOfListeners": 22,
         "region": "79"
       },
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 13,
+        "numberOfListeners": 14,
         "region": "18"
-      },
-      {
-        "city": "Rakvere",
-        "country": "EE",
-        "numberOfListeners": 3,
-        "region": "60"
       },
       {
         "city": "Põlva",
         "country": "EE",
         "numberOfListeners": 3,
         "region": "64"
+      },
+      {
+        "city": "Oulu",
+        "country": "FI",
+        "numberOfListeners": 2,
+        "region": "14"
       }
     ]
   },

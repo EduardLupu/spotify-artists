@@ -1,38 +1,38 @@
 {
   "id": "789ipt8BmfCVZhDo44gfz9",
   "name": "JOHN BALAYA",
-  "followers": 3923,
-  "monthlyListeners": 84200,
+  "followers": 3926,
+  "monthlyListeners": 83800,
   "topCities": {
     "items": [
       {
         "city": "Calgary",
         "country": "CA",
-        "numberOfListeners": 2815,
+        "numberOfListeners": 2804,
         "region": "AB"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 2386,
+        "numberOfListeners": 2369,
         "region": "QLD"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 2107,
+        "numberOfListeners": 2117,
         "region": "NSW"
       },
       {
         "city": "Vancouver",
         "country": "CA",
-        "numberOfListeners": 2055,
+        "numberOfListeners": 2052,
         "region": "BC"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 1616,
+        "numberOfListeners": 1599,
         "region": "VIC"
       }
     ]

@@ -24,16 +24,16 @@
         "region": "SCT"
       },
       {
+        "city": "Auckland",
+        "country": "NZ",
+        "numberOfListeners": 2,
+        "region": "AUK"
+      },
+      {
         "city": "Vancouver",
         "country": "CA",
         "numberOfListeners": 2,
         "region": "BC"
-      },
-      {
-        "city": "Morrisburg",
-        "country": "CA",
-        "numberOfListeners": 2,
-        "region": "ON"
       }
     ]
   },

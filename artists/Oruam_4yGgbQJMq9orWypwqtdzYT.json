@@ -1,39 +1,39 @@
 {
   "id": "4yGgbQJMq9orWypwqtdzYT",
   "name": "Oruam",
-  "followers": 3644549,
-  "monthlyListeners": 7672767,
+  "followers": 3647631,
+  "monthlyListeners": 7647195,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 1318460,
+        "numberOfListeners": 1310595,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 730647,
+        "numberOfListeners": 727586,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 395695,
+        "numberOfListeners": 394560,
         "region": "MG"
-      },
-      {
-        "city": "Campinas",
-        "country": "BR",
-        "numberOfListeners": 295570,
-        "region": "SP"
       },
       {
         "city": "Porto Alegre",
         "country": "BR",
-        "numberOfListeners": 294546,
+        "numberOfListeners": 294402,
         "region": "RS"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 294210,
+        "region": "SP"
       }
     ]
   },

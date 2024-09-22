@@ -1,39 +1,39 @@
 {
   "id": "0NIPkIjTV8mB795yEIiPYL",
   "name": "Wallows",
-  "followers": 2816358,
-  "monthlyListeners": 9996223,
+  "followers": 2817084,
+  "monthlyListeners": 10004173,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 164196,
+        "numberOfListeners": 164326,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 143380,
+        "numberOfListeners": 142923,
         "region": "IL"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 135277,
+        "numberOfListeners": 135989,
         "region": "JK"
-      },
-      {
-        "city": "New York City",
-        "country": "US",
-        "numberOfListeners": 130613,
-        "region": "NY"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 130338,
+        "numberOfListeners": 130452,
         "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 130414,
+        "region": "NY"
       }
     ]
   },

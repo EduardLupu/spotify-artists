@@ -1,38 +1,38 @@
 {
   "id": "5t28BP42x2axFnqOOMg3CM",
   "name": "Five Finger Death Punch",
-  "followers": 6491802,
-  "monthlyListeners": 7070065,
+  "followers": 6493250,
+  "monthlyListeners": 7034627,
   "topCities": {
     "items": [
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 105410,
+        "numberOfListeners": 105205,
         "region": "18"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 104392,
+        "numberOfListeners": 103161,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 85683,
+        "numberOfListeners": 85076,
         "region": "TX"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 81210,
+        "numberOfListeners": 80796,
         "region": "QC"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 79975,
+        "numberOfListeners": 79312,
         "region": "CO"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "3Mgrzo9AgM10tswhHNwFlq",
   "name": "M",
-  "followers": 6602,
-  "monthlyListeners": 4677,
+  "followers": 6605,
+  "monthlyListeners": 4629,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 409,
+        "numberOfListeners": 400,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 137,
+        "numberOfListeners": 140,
         "region": "BRU"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 85,
+        "numberOfListeners": 84,
         "region": "ARA"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 65,
+        "numberOfListeners": 61,
         "region": "HDF"
       },
       {
         "city": "Nantes",
         "country": "FR",
-        "numberOfListeners": 55,
+        "numberOfListeners": 56,
         "region": "PDL"
       }
     ]

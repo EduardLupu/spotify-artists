@@ -2,7 +2,7 @@
   "id": "3IO9egHOK3BfgEY40PyefN",
   "name": "Moonwatch3r",
   "followers": 85,
-  "monthlyListeners": 175,
+  "monthlyListeners": 173,
   "topCities": {
     "items": [
       {
@@ -12,10 +12,16 @@
         "region": "18"
       },
       {
-        "city": "Sydney",
-        "country": "AU",
+        "city": "Buenos Aires",
+        "country": "AR",
         "numberOfListeners": 3,
-        "region": "NSW"
+        "region": "B"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 3,
+        "region": "HH"
       },
       {
         "city": "Melbourne",
@@ -24,16 +30,10 @@
         "region": "VIC"
       },
       {
-        "city": "Los Angeles",
-        "country": "US",
+        "city": "Sydney",
+        "country": "AU",
         "numberOfListeners": 3,
-        "region": "CA"
-      },
-      {
-        "city": "Bogotá",
-        "country": "CO",
-        "numberOfListeners": 3,
-        "region": "DC"
+        "region": "NSW"
       }
     ]
   },

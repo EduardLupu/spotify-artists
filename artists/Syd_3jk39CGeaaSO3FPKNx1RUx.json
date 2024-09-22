@@ -1,38 +1,38 @@
 {
   "id": "3jk39CGeaaSO3FPKNx1RUx",
   "name": "Syd",
-  "followers": 594429,
-  "monthlyListeners": 1935532,
+  "followers": 594484,
+  "monthlyListeners": 1943804,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 27059,
+        "numberOfListeners": 27182,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 21336,
+        "numberOfListeners": 21373,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 20162,
+        "numberOfListeners": 20235,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 19013,
+        "numberOfListeners": 19119,
         "region": "NSW"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 17886,
+        "numberOfListeners": 18041,
         "region": "NY"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "6lE1ly8K8H7u8k2ej2plvv",
   "name": "Stryper",
-  "followers": 167336,
-  "monthlyListeners": 264347,
+  "followers": 167424,
+  "monthlyListeners": 265225,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 4644,
+        "numberOfListeners": 4624,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 4544,
+        "numberOfListeners": 4507,
         "region": "RM"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 3071,
+        "numberOfListeners": 3064,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 3053,
+        "numberOfListeners": 3046,
         "region": "TX"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 2595,
+        "numberOfListeners": 2597,
         "region": "JK"
       }
     ]

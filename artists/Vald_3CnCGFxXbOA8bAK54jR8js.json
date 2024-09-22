@@ -1,38 +1,38 @@
 {
   "id": "3CnCGFxXbOA8bAK54jR8js",
   "name": "Vald",
-  "followers": 1285170,
-  "monthlyListeners": 1086149,
+  "followers": 1285223,
+  "monthlyListeners": 1086665,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 217257,
+        "numberOfListeners": 218014,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 51642,
+        "numberOfListeners": 51758,
         "region": "BRU"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 50033,
+        "numberOfListeners": 50066,
         "region": "ARA"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 40698,
+        "numberOfListeners": 41109,
         "region": "HDF"
       },
       {
         "city": "Nantes",
         "country": "FR",
-        "numberOfListeners": 30621,
+        "numberOfListeners": 30745,
         "region": "PDL"
       }
     ]

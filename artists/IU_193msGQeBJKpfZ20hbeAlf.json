@@ -2,13 +2,13 @@
   "id": "193msGQeBJKpfZ20hbeAlf",
   "name": "IU",
   "followers": 27,
-  "monthlyListeners": 359,
+  "monthlyListeners": 364,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 61,
+        "numberOfListeners": 63,
         "region": "SP"
       },
       {
@@ -24,16 +24,16 @@
         "region": "SP"
       },
       {
+        "city": "Brasília",
+        "country": "BR",
+        "numberOfListeners": 9,
+        "region": "DF"
+      },
+      {
         "city": "Recife",
         "country": "BR",
         "numberOfListeners": 8,
         "region": "PE"
-      },
-      {
-        "city": "Salvador",
-        "country": "BR",
-        "numberOfListeners": 8,
-        "region": "BA"
       }
     ]
   },

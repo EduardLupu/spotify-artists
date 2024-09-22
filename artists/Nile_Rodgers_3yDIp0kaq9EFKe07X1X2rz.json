@@ -1,41 +1,41 @@
 {
   "id": "3yDIp0kaq9EFKe07X1X2rz",
   "name": "Nile Rodgers",
-  "followers": 146948,
-  "monthlyListeners": 19332715,
+  "followers": 147192,
+  "monthlyListeners": 19211599,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 278191,
+        "numberOfListeners": 276044,
         "region": "IDF"
       },
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 247885,
+        "numberOfListeners": 246317,
         "region": "AB"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 219554,
+        "numberOfListeners": 217236,
         "region": "RM"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 212970,
+        "numberOfListeners": 211502,
         "region": "NH"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 199565,
+        "numberOfListeners": 197871,
         "region": "CMX"
       }
     ]
   },
-  "worldRank": 378
+  "worldRank": 384
 }

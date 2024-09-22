@@ -2,19 +2,19 @@
   "id": "38LRlLsgspTuKZKnbLXojT",
   "name": "Jojo",
   "followers": 113,
-  "monthlyListeners": 3274,
+  "monthlyListeners": 3359,
   "topCities": {
     "items": [
       {
         "city": "Kuala Lumpur",
         "country": "MY",
-        "numberOfListeners": 862,
+        "numberOfListeners": 869,
         "region": "14"
       },
       {
         "city": "Kota Kinabalu",
         "country": "MY",
-        "numberOfListeners": 510,
+        "numberOfListeners": 502,
         "region": "12"
       },
       {
@@ -24,16 +24,16 @@
         "region": "10"
       },
       {
-        "city": "Kuching",
-        "country": "MY",
-        "numberOfListeners": 85,
-        "region": "13"
-      },
-      {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 83,
+        "numberOfListeners": 86,
         "region": "BE"
+      },
+      {
+        "city": "Kuching",
+        "country": "MY",
+        "numberOfListeners": 84,
+        "region": "13"
       }
     ]
   },

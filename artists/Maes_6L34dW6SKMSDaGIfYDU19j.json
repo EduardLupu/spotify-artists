@@ -1,38 +1,38 @@
 {
   "id": "6L34dW6SKMSDaGIfYDU19j",
   "name": "Maes",
-  "followers": 2954838,
-  "monthlyListeners": 3648652,
+  "followers": 2956680,
+  "monthlyListeners": 3654640,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 612414,
+        "numberOfListeners": 613801,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 148484,
+        "numberOfListeners": 148983,
         "region": "BRU"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 142224,
+        "numberOfListeners": 142223,
         "region": "ARA"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 113861,
+        "numberOfListeners": 114688,
         "region": "HDF"
       },
       {
         "city": "Marseille",
         "country": "FR",
-        "numberOfListeners": 109656,
+        "numberOfListeners": 108871,
         "region": "PAC"
       }
     ]

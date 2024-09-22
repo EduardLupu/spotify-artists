@@ -1,38 +1,38 @@
 {
   "id": "6NyPX5jymkvSPaJhCh1crb",
   "name": "Yeruza",
-  "followers": 199196,
-  "monthlyListeners": 461887,
+  "followers": 199299,
+  "monthlyListeners": 461365,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 32966,
+        "numberOfListeners": 32718,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 22138,
+        "numberOfListeners": 22073,
         "region": "DC"
       },
       {
         "city": "San Juan",
         "country": "US",
-        "numberOfListeners": 20864,
+        "numberOfListeners": 20726,
         "region": "PR"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 20112,
+        "numberOfListeners": 20079,
         "region": "ANT"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 13163,
+        "numberOfListeners": 13207,
         "region": "MD"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "27azwwkxutWL1BWMkgNIh0",
   "name": "Vulgo FK",
-  "followers": 1124113,
-  "monthlyListeners": 8157247,
+  "followers": 1125240,
+  "monthlyListeners": 8153386,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 1589014,
+        "numberOfListeners": 1584104,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 687011,
+        "numberOfListeners": 686175,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 423597,
+        "numberOfListeners": 423484,
         "region": "MG"
       },
       {
         "city": "Campinas",
         "country": "BR",
-        "numberOfListeners": 354759,
+        "numberOfListeners": 354406,
         "region": "SP"
       },
       {
         "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 310940,
+        "numberOfListeners": 310844,
         "region": "PR"
       }
     ]

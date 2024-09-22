@@ -1,26 +1,26 @@
 {
   "id": "5qOfTfMzTj2dvvpWKzIFk6",
   "name": "The Bad Plus",
-  "followers": 98133,
-  "monthlyListeners": 93673,
+  "followers": 98148,
+  "monthlyListeners": 92254,
   "topCities": {
     "items": [
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 1276,
+        "numberOfListeners": 1266,
         "region": "NY"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1073,
+        "numberOfListeners": 1061,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 1032,
+        "numberOfListeners": 1015,
         "region": "IL"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 1001,
+        "numberOfListeners": 976,
         "region": "NY"
       }
     ]

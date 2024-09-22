@@ -6,16 +6,16 @@
   "topCities": {
     "items": [
       {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 14,
+        "region": ""
+      },
+      {
         "city": "Taipei",
         "country": "TW",
         "numberOfListeners": 14,
         "region": "TPE"
-      },
-      {
-        "city": "Singapore",
-        "country": "SG",
-        "numberOfListeners": 13,
-        "region": ""
       },
       {
         "city": "Kuala Lumpur",
@@ -30,10 +30,10 @@
         "region": "TAO"
       },
       {
-        "city": "Taichung",
-        "country": "TW",
+        "city": "Sydney",
+        "country": "AU",
         "numberOfListeners": 6,
-        "region": "TXG"
+        "region": "NSW"
       }
     ]
   },

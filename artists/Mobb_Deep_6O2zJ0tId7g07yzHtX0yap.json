@@ -1,38 +1,38 @@
 {
   "id": "6O2zJ0tId7g07yzHtX0yap",
   "name": "Mobb Deep",
-  "followers": 2161488,
-  "monthlyListeners": 5482241,
+  "followers": 2162222,
+  "monthlyListeners": 5468439,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 110962,
+        "numberOfListeners": 110464,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 84766,
+        "numberOfListeners": 84668,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 75643,
+        "numberOfListeners": 75436,
         "region": "VIC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 64737,
+        "numberOfListeners": 64319,
         "region": "CA"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 62877,
+        "numberOfListeners": 63293,
         "region": "NH"
       }
     ]

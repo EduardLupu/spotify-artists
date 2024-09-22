@@ -1,39 +1,39 @@
 {
   "id": "0rasA5Z5h1ITtHelCpfu9R",
   "name": "Paul Kalkbrenner",
-  "followers": 1247059,
-  "monthlyListeners": 3039091,
+  "followers": 1247315,
+  "monthlyListeners": 3020212,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 145809,
+        "numberOfListeners": 145398,
         "region": "BE"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 86457,
+        "numberOfListeners": 86445,
         "region": "BRU"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 77928,
+        "numberOfListeners": 77340,
         "region": "HE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 72858,
+        "numberOfListeners": 72933,
         "region": "BY"
       },
       {
-        "city": "Milan",
-        "country": "IT",
-        "numberOfListeners": 71114,
-        "region": "25"
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 71101,
+        "region": "IDF"
       }
     ]
   },

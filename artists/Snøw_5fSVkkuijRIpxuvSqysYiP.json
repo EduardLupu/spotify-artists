@@ -1,20 +1,20 @@
 {
   "id": "5fSVkkuijRIpxuvSqysYiP",
   "name": "Snøw",
-  "followers": 155165,
-  "monthlyListeners": 728054,
+  "followers": 155197,
+  "monthlyListeners": 728930,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 7250,
+        "numberOfListeners": 7258,
         "region": "NSW"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 6351,
+        "numberOfListeners": 6352,
         "region": "JK"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 5391,
+        "numberOfListeners": 5379,
         "region": "LMA"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 5274,
+        "numberOfListeners": 5281,
         "region": "QLD"
       }
     ]

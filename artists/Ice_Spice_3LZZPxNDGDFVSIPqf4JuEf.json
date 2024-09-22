@@ -1,41 +1,41 @@
 {
   "id": "3LZZPxNDGDFVSIPqf4JuEf",
   "name": "Ice Spice",
-  "followers": 4084812,
-  "monthlyListeners": 17242125,
+  "followers": 4087590,
+  "monthlyListeners": 17185357,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 275128,
+        "numberOfListeners": 274278,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 263428,
+        "numberOfListeners": 261324,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 237388,
+        "numberOfListeners": 236331,
         "region": "VIC"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 188819,
+        "numberOfListeners": 188949,
         "region": "NY"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 172555,
+        "numberOfListeners": 172074,
         "region": "QLD"
       }
     ]
   },
-  "worldRank": 467
+  "worldRank": 469
 }

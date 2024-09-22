@@ -1,38 +1,38 @@
 {
   "id": "3sLh7xqgu6RxVYokUj0nEx",
   "name": "Anna",
-  "followers": 633,
-  "monthlyListeners": 27227,
+  "followers": 645,
+  "monthlyListeners": 27380,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 2783,
+        "numberOfListeners": 2762,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 1040,
+        "numberOfListeners": 1143,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 881,
+        "numberOfListeners": 970,
         "region": "MG"
       },
       {
         "city": "Brasília",
         "country": "BR",
-        "numberOfListeners": 667,
+        "numberOfListeners": 783,
         "region": "DF"
       },
       {
         "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 654,
+        "numberOfListeners": 767,
         "region": "PR"
       }
     ]

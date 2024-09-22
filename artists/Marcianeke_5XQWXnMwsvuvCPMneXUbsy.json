@@ -1,38 +1,38 @@
 {
   "id": "5XQWXnMwsvuvCPMneXUbsy",
   "name": "Marcianeke",
-  "followers": 1068840,
-  "monthlyListeners": 2856259,
+  "followers": 1068959,
+  "monthlyListeners": 2860474,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 883085,
+        "numberOfListeners": 880488,
         "region": "RM"
       },
       {
         "city": "Concepción",
         "country": "CL",
-        "numberOfListeners": 123031,
+        "numberOfListeners": 122054,
         "region": "BI"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 100114,
+        "numberOfListeners": 100412,
         "region": "C"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 88001,
+        "numberOfListeners": 88000,
         "region": "CMX"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 69232,
+        "numberOfListeners": 69604,
         "region": "LMA"
       }
     ]

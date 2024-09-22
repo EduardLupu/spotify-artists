@@ -1,38 +1,38 @@
 {
   "id": "0fTHKjepK5HWOrb2rkS5Em",
   "name": "Freddie Hubbard",
-  "followers": 175345,
-  "monthlyListeners": 239252,
+  "followers": 175360,
+  "monthlyListeners": 239405,
   "topCities": {
     "items": [
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 2991,
+        "numberOfListeners": 3015,
         "region": "NY"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 2740,
+        "numberOfListeners": 2748,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 2590,
+        "numberOfListeners": 2592,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 2488,
+        "numberOfListeners": 2464,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 2337,
+        "numberOfListeners": 2309,
         "region": "RM"
       }
     ]

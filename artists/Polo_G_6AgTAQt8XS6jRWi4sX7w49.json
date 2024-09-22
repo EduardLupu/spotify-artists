@@ -1,41 +1,41 @@
 {
   "id": "6AgTAQt8XS6jRWi4sX7w49",
   "name": "Polo G",
-  "followers": 11771684,
-  "monthlyListeners": 19255387,
+  "followers": 11775962,
+  "monthlyListeners": 19214292,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 331956,
+        "numberOfListeners": 330744,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 323873,
+        "numberOfListeners": 322091,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 312711,
+        "numberOfListeners": 312494,
         "region": "NSW"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 274835,
+        "numberOfListeners": 274137,
         "region": "ON"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 253003,
+        "numberOfListeners": 252541,
         "region": "VIC"
       }
     ]
   },
-  "worldRank": 385
+  "worldRank": 383
 }

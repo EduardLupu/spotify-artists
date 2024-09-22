@@ -1,38 +1,38 @@
 {
   "id": "3Y7RZ31TRPVadSFVy1o8os",
   "name": "H.E.R.",
-  "followers": 7832999,
-  "monthlyListeners": 10757829,
+  "followers": 7835861,
+  "monthlyListeners": 10747301,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 173452,
+        "numberOfListeners": 173015,
         "region": "ENG"
-      },
-      {
-        "city": "Los Angeles",
-        "country": "US",
-        "numberOfListeners": 163088,
-        "region": "CA"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 162483,
+        "numberOfListeners": 162843,
         "region": "JK"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 162643,
+        "region": "CA"
       },
       {
         "city": "Johannesburg",
         "country": "ZA",
-        "numberOfListeners": 152488,
+        "numberOfListeners": 152725,
         "region": "GP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 151478,
+        "numberOfListeners": 151326,
         "region": "NSW"
       }
     ]

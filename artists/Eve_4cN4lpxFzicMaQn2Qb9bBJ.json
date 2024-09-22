@@ -2,19 +2,19 @@
   "id": "4cN4lpxFzicMaQn2Qb9bBJ",
   "name": "Eve",
   "followers": 346,
-  "monthlyListeners": 15545,
+  "monthlyListeners": 15471,
   "topCities": {
     "items": [
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 245,
+        "numberOfListeners": 243,
         "region": "13"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 176,
+        "numberOfListeners": 177,
         "region": "SP"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Singapore",
         "country": "SG",
-        "numberOfListeners": 154,
+        "numberOfListeners": 153,
         "region": ""
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 119,
+        "numberOfListeners": 118,
         "region": "MD"
       }
     ]

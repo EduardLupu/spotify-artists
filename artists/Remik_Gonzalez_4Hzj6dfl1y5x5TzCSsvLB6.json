@@ -1,38 +1,38 @@
 {
   "id": "4Hzj6dfl1y5x5TzCSsvLB6",
   "name": "Remik Gonzalez",
-  "followers": 1241309,
-  "monthlyListeners": 1099632,
+  "followers": 1241732,
+  "monthlyListeners": 1096828,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 83709,
+        "numberOfListeners": 83226,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 63430,
+        "numberOfListeners": 63239,
         "region": "JAL"
-      },
-      {
-        "city": "Querétaro City",
-        "country": "MX",
-        "numberOfListeners": 44138,
-        "region": "QUE"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 43777,
+        "numberOfListeners": 44858,
         "region": "CMX"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 43791,
+        "region": "QUE"
       },
       {
         "city": "Tijuana",
         "country": "MX",
-        "numberOfListeners": 42872,
+        "numberOfListeners": 42794,
         "region": "BCN"
       }
     ]

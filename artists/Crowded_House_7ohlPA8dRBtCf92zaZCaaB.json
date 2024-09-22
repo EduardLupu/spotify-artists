@@ -1,38 +1,38 @@
 {
   "id": "7ohlPA8dRBtCf92zaZCaaB",
   "name": "Crowded House",
-  "followers": 861289,
-  "monthlyListeners": 8355138,
+  "followers": 861795,
+  "monthlyListeners": 8365930,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 292884,
+        "numberOfListeners": 293424,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 244569,
+        "numberOfListeners": 244713,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 203196,
+        "numberOfListeners": 203419,
         "region": "QLD"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 190561,
+        "numberOfListeners": 189356,
         "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 152393,
+        "numberOfListeners": 152629,
         "region": "SP"
       }
     ]

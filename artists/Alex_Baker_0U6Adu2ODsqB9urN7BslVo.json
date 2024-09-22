@@ -1,38 +1,38 @@
 {
   "id": "0U6Adu2ODsqB9urN7BslVo",
   "name": "Alex Baker",
-  "followers": 13185,
-  "monthlyListeners": 855808,
+  "followers": 13189,
+  "monthlyListeners": 855311,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 14388,
+        "numberOfListeners": 14410,
         "region": "NSW"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 13688,
+        "numberOfListeners": 13703,
         "region": "IDF"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 11021,
+        "numberOfListeners": 11004,
         "region": "VIC"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 10737,
+        "numberOfListeners": 10752,
         "region": "BE"
       },
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 9401,
+        "numberOfListeners": 9389,
         "region": "14"
       }
     ]

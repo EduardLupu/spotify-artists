@@ -1,39 +1,39 @@
 {
   "id": "1VV61UepOgsPiOjljK6mBY",
   "name": "Brujeria",
-  "followers": 156846,
-  "monthlyListeners": 130981,
+  "followers": 157249,
+  "monthlyListeners": 141991,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 7304,
+        "numberOfListeners": 8136,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 7251,
+        "numberOfListeners": 7621,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 3553,
+        "numberOfListeners": 3831,
         "region": "DC"
-      },
-      {
-        "city": "São Paulo",
-        "country": "BR",
-        "numberOfListeners": 3174,
-        "region": "SP"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 2980,
+        "numberOfListeners": 3523,
         "region": "CMX"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 3310,
+        "region": "SP"
       }
     ]
   },

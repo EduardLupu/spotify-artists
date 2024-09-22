@@ -1,38 +1,38 @@
 {
   "id": "0GlCo4o05HxdzR4Gj7GKyw",
   "name": "Revel Day",
-  "followers": 8890,
-  "monthlyListeners": 90349,
+  "followers": 8899,
+  "monthlyListeners": 91631,
   "topCities": {
     "items": [
       {
         "city": "Bangkok",
         "country": "TH",
-        "numberOfListeners": 1821,
+        "numberOfListeners": 1819,
         "region": "10"
       },
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 1447,
+        "numberOfListeners": 1469,
         "region": "13"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 1073,
+        "numberOfListeners": 1097,
         "region": "SP"
       },
       {
         "city": "Taipei",
         "country": "TW",
-        "numberOfListeners": 932,
+        "numberOfListeners": 929,
         "region": "TPE"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 907,
+        "numberOfListeners": 919,
         "region": "NSW"
       }
     ]

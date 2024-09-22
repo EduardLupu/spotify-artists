@@ -2,19 +2,19 @@
   "id": "2ZXi5gHD72bz9mdRBaVgOT",
   "name": "Bk",
   "followers": 128,
-  "monthlyListeners": 220,
+  "monthlyListeners": 225,
   "topCities": {
     "items": [
       {
         "city": "Ho Chi Minh City",
         "country": "VN",
-        "numberOfListeners": 100,
+        "numberOfListeners": 99,
         "region": "SG"
       },
       {
         "city": "Hanoi",
         "country": "VN",
-        "numberOfListeners": 23,
+        "numberOfListeners": 24,
         "region": "HN"
       },
       {
@@ -24,10 +24,10 @@
         "region": "DN"
       },
       {
-        "city": "Johannesburg",
-        "country": "ZA",
-        "numberOfListeners": 7,
-        "region": "GP"
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 6,
+        "region": "IDF"
       },
       {
         "city": "Biên Hòa",

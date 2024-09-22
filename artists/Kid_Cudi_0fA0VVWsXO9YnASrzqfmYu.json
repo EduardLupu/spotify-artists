@@ -1,41 +1,41 @@
 {
   "id": "0fA0VVWsXO9YnASrzqfmYu",
   "name": "Kid Cudi",
-  "followers": 7202355,
-  "monthlyListeners": 22288212,
+  "followers": 7204225,
+  "monthlyListeners": 22335298,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 334350,
+        "numberOfListeners": 334116,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 324206,
+        "numberOfListeners": 324590,
         "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 318187,
+        "numberOfListeners": 318598,
         "region": "CA"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 279596,
+        "numberOfListeners": 279577,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 276616,
+        "numberOfListeners": 276678,
         "region": "ENG"
       }
     ]
   },
-  "worldRank": 294
+  "worldRank": 292
 }

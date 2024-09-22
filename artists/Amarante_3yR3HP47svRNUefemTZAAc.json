@@ -1,21 +1,27 @@
 {
   "id": "3yR3HP47svRNUefemTZAAc",
   "name": "Amarante",
-  "followers": 18995,
-  "monthlyListeners": 33283,
+  "followers": 18994,
+  "monthlyListeners": 33207,
   "topCities": {
     "items": [
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 360,
+        "numberOfListeners": 356,
         "region": "WA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 308,
+        "numberOfListeners": 303,
         "region": "IL"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 278,
+        "region": "NSW"
       },
       {
         "city": "London",
@@ -24,16 +30,10 @@
         "region": "ENG"
       },
       {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 275,
-        "region": "NSW"
-      },
-      {
-        "city": "Melbourne",
-        "country": "AU",
-        "numberOfListeners": 259,
-        "region": "VIC"
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 260,
+        "region": "CMX"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "5dmOPgOqzAhlpOlGFUouNh",
   "name": "Elisa",
-  "followers": 7361,
-  "monthlyListeners": 10420,
+  "followers": 7363,
+  "monthlyListeners": 10364,
   "topCities": {
     "items": [
       {
         "city": "Lisbon",
         "country": "PT",
-        "numberOfListeners": 2830,
+        "numberOfListeners": 2782,
         "region": "11"
       },
       {
         "city": "Porto",
         "country": "PT",
-        "numberOfListeners": 1189,
+        "numberOfListeners": 1203,
         "region": "13"
       },
       {
         "city": "Funchal",
         "country": "PT",
-        "numberOfListeners": 379,
+        "numberOfListeners": 382,
         "region": "30"
       },
       {
         "city": "Braga",
         "country": "PT",
-        "numberOfListeners": 209,
+        "numberOfListeners": 210,
         "region": "03"
       },
       {
         "city": "Amadora",
         "country": "PT",
-        "numberOfListeners": 197,
+        "numberOfListeners": 198,
         "region": "11"
       }
     ]

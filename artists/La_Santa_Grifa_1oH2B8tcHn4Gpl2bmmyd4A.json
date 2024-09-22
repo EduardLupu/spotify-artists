@@ -1,38 +1,38 @@
 {
   "id": "1oH2B8tcHn4Gpl2bmmyd4A",
   "name": "La Santa Grifa",
-  "followers": 6362261,
-  "monthlyListeners": 5587877,
+  "followers": 6368867,
+  "monthlyListeners": 5576835,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 480572,
+        "numberOfListeners": 478853,
         "region": "CMX"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 279589,
-        "region": "CMX"
-      },
-      {
-        "city": "Iztapalapa",
-        "country": "MX",
-        "numberOfListeners": 251604,
+        "numberOfListeners": 285373,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 247385,
+        "numberOfListeners": 247087,
         "region": "JAL"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 244094,
+        "region": "CMX"
       },
       {
         "city": "Puebla City",
         "country": "MX",
-        "numberOfListeners": 225926,
+        "numberOfListeners": 223757,
         "region": "PUE"
       }
     ]

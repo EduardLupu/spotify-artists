@@ -1,14 +1,14 @@
 {
   "id": "0y8Ht0AmX44zPR84N7EmQ7",
   "name": "Outbreakband",
-  "followers": 46970,
-  "monthlyListeners": 124305,
+  "followers": 46983,
+  "monthlyListeners": 124397,
   "topCities": {
     "items": [
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 11416,
+        "numberOfListeners": 11609,
         "region": "BW"
       },
       {
@@ -20,19 +20,19 @@
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 8075,
+        "numberOfListeners": 8030,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 7312,
+        "numberOfListeners": 7521,
         "region": "HH"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 5500,
+        "numberOfListeners": 5522,
         "region": "BY"
       }
     ]

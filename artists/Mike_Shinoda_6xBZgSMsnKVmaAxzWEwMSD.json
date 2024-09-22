@@ -1,38 +1,38 @@
 {
   "id": "6xBZgSMsnKVmaAxzWEwMSD",
   "name": "Mike Shinoda",
-  "followers": 573298,
-  "monthlyListeners": 1012356,
+  "followers": 573442,
+  "monthlyListeners": 1015733,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 11808,
+        "numberOfListeners": 11879,
         "region": "SP"
       },
       {
         "city": "Prague",
         "country": "CZ",
-        "numberOfListeners": 11205,
+        "numberOfListeners": 11233,
         "region": "10"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 10135,
+        "numberOfListeners": 10128,
         "region": "ENG"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 9985,
+        "numberOfListeners": 10057,
         "region": "BE"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 9094,
+        "numberOfListeners": 9049,
         "region": "IL"
       }
     ]

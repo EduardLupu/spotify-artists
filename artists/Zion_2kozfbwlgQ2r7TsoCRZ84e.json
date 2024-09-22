@@ -2,13 +2,13 @@
   "id": "2kozfbwlgQ2r7TsoCRZ84e",
   "name": "Zion",
   "followers": 191,
-  "monthlyListeners": 96,
+  "monthlyListeners": 99,
   "topCities": {
     "items": [
       {
         "city": "Lagos",
         "country": "NG",
-        "numberOfListeners": 8,
+        "numberOfListeners": 9,
         "region": "LA"
       },
       {
@@ -18,13 +18,13 @@
         "region": "RI"
       },
       {
-        "city": "Birmingham",
+        "city": "London",
         "country": "GB",
         "numberOfListeners": 4,
         "region": "ENG"
       },
       {
-        "city": "London",
+        "city": "Birmingham",
         "country": "GB",
         "numberOfListeners": 4,
         "region": "ENG"

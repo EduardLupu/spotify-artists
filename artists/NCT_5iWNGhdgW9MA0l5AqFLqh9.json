@@ -1,38 +1,38 @@
 {
   "id": "5iWNGhdgW9MA0l5AqFLqh9",
   "name": "NCT",
-  "followers": 16561,
-  "monthlyListeners": 136995,
+  "followers": 16564,
+  "monthlyListeners": 136526,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 4074,
+        "numberOfListeners": 4015,
         "region": "ENG"
       },
       {
         "city": "Prague",
         "country": "CZ",
-        "numberOfListeners": 3108,
+        "numberOfListeners": 3096,
         "region": "10"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 2348,
+        "numberOfListeners": 2379,
         "region": "NH"
       },
       {
         "city": "Perth",
         "country": "AU",
-        "numberOfListeners": 1856,
+        "numberOfListeners": 1871,
         "region": "WA"
       },
       {
         "city": "Vienna",
         "country": "AT",
-        "numberOfListeners": 1729,
+        "numberOfListeners": 1723,
         "region": "9"
       }
     ]

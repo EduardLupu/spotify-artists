@@ -2,13 +2,13 @@
   "id": "7xNiMQPoMI3bsPp6xuwU6x",
   "name": "Gerome Ragni",
   "followers": 707,
-  "monthlyListeners": 42017,
+  "monthlyListeners": 41944,
   "topCities": {
     "items": [
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 1450,
+        "numberOfListeners": 1469,
         "region": "NY"
       },
       {
@@ -20,19 +20,19 @@
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 756,
+        "numberOfListeners": 757,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 699,
+        "numberOfListeners": 700,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 635,
+        "numberOfListeners": 643,
         "region": "CA"
       }
     ]

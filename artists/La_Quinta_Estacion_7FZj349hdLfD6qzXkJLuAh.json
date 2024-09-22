@@ -1,38 +1,38 @@
 {
   "id": "7FZj349hdLfD6qzXkJLuAh",
   "name": "La Quinta Estacion",
-  "followers": 3067850,
-  "monthlyListeners": 8725699,
+  "followers": 3069445,
+  "monthlyListeners": 8717105,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 517956,
+        "numberOfListeners": 516198,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 381680,
+        "numberOfListeners": 379743,
         "region": "RM"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 284116,
+        "numberOfListeners": 284295,
         "region": "LMA"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 281329,
+        "numberOfListeners": 281107,
         "region": "DC"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 254258,
+        "numberOfListeners": 253965,
         "region": "JAL"
       }
     ]

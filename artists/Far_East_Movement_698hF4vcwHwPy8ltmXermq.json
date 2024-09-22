@@ -1,38 +1,38 @@
 {
   "id": "698hF4vcwHwPy8ltmXermq",
   "name": "Far East Movement",
-  "followers": 1088066,
-  "monthlyListeners": 7036091,
+  "followers": 1088231,
+  "monthlyListeners": 7021026,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 121358,
+        "numberOfListeners": 121292,
         "region": "NSW"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 116453,
+        "numberOfListeners": 116754,
         "region": "JK"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 102224,
+        "numberOfListeners": 102174,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 82424,
+        "numberOfListeners": 82306,
         "region": "QLD"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 76999,
+        "numberOfListeners": 76677,
         "region": "ENG"
       }
     ]

@@ -2,27 +2,9 @@
   "id": "5NHuZXkG2iIbPz5ljjZeMI",
   "name": "Badshah",
   "followers": 6,
-  "monthlyListeners": 10,
+  "monthlyListeners": 11,
   "topCities": {
     "items": [
-      {
-        "city": "Mumbai",
-        "country": "IN",
-        "numberOfListeners": 1,
-        "region": "MH"
-      },
-      {
-        "city": "Lucknow",
-        "country": "IN",
-        "numberOfListeners": 1,
-        "region": "UP"
-      },
-      {
-        "city": "Ahmedabad",
-        "country": "IN",
-        "numberOfListeners": 1,
-        "region": "GJ"
-      },
       {
         "city": "Sunnyvale",
         "country": "US",
@@ -34,6 +16,24 @@
         "country": "US",
         "numberOfListeners": 1,
         "region": "TX"
+      },
+      {
+        "city": "Concord",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "NC"
+      },
+      {
+        "city": "Norfolk",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "VA"
+      },
+      {
+        "city": "Burnsville",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "MN"
       }
     ]
   },

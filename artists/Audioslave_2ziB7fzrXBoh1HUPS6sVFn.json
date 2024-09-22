@@ -1,38 +1,38 @@
 {
   "id": "2ziB7fzrXBoh1HUPS6sVFn",
   "name": "Audioslave",
-  "followers": 4593234,
-  "monthlyListeners": 7955691,
+  "followers": 4594727,
+  "monthlyListeners": 7921698,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 274504,
+        "numberOfListeners": 272952,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 217776,
+        "numberOfListeners": 214986,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 174216,
+        "numberOfListeners": 173170,
         "region": "CMX"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 118453,
+        "numberOfListeners": 117936,
         "region": "DC"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 101342,
+        "numberOfListeners": 100967,
         "region": "RJ"
       }
     ]

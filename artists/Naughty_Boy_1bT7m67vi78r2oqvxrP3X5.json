@@ -1,38 +1,38 @@
 {
   "id": "1bT7m67vi78r2oqvxrP3X5",
   "name": "Naughty Boy",
-  "followers": 342110,
-  "monthlyListeners": 5471262,
+  "followers": 342185,
+  "monthlyListeners": 5477430,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 115455,
+        "numberOfListeners": 115214,
         "region": "ENG"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 78322,
+        "numberOfListeners": 78574,
         "region": "JK"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 77603,
+        "numberOfListeners": 78061,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 65483,
+        "numberOfListeners": 65771,
         "region": "VIC"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 54716,
+        "numberOfListeners": 55357,
         "region": "NH"
       }
     ]

@@ -2,7 +2,7 @@
   "id": "0gWJSWebBuqclJOobUY5GJ",
   "name": "Bones",
   "followers": 11,
-  "monthlyListeners": 129,
+  "monthlyListeners": 126,
   "topCities": {
     "items": [
       {
@@ -10,12 +10,6 @@
         "country": "US",
         "numberOfListeners": 3,
         "region": "CO"
-      },
-      {
-        "city": "Melbourne",
-        "country": "AU",
-        "numberOfListeners": 3,
-        "region": "VIC"
       },
       {
         "city": "Warsaw",
@@ -26,14 +20,20 @@
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 2,
+        "numberOfListeners": 3,
         "region": "HE"
       },
       {
-        "city": "Stuttgart",
-        "country": "DE",
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 3,
+        "region": "VIC"
+      },
+      {
+        "city": "Venustiano Carranza",
+        "country": "MX",
         "numberOfListeners": 2,
-        "region": "BW"
+        "region": "CMX"
       }
     ]
   },

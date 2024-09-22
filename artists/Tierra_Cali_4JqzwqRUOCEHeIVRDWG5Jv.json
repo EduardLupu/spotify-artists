@@ -1,38 +1,38 @@
 {
   "id": "4JqzwqRUOCEHeIVRDWG5Jv",
   "name": "Tierra Cali",
-  "followers": 1051338,
-  "monthlyListeners": 1959491,
+  "followers": 1051647,
+  "monthlyListeners": 1950567,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 132364,
+        "numberOfListeners": 130976,
         "region": "CMX"
       },
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 121458,
+        "numberOfListeners": 116631,
         "region": "GU"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 66822,
+        "numberOfListeners": 66259,
         "region": "QUE"
       },
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 60594,
+        "numberOfListeners": 66137,
         "region": "01"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 58147,
+        "numberOfListeners": 57825,
         "region": "JAL"
       }
     ]

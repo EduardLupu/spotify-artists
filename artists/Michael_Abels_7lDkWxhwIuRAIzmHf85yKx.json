@@ -1,38 +1,38 @@
 {
   "id": "7lDkWxhwIuRAIzmHf85yKx",
   "name": "Michael Abels",
-  "followers": 11253,
-  "monthlyListeners": 159824,
+  "followers": 11259,
+  "monthlyListeners": 159715,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 2581,
+        "numberOfListeners": 2567,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 2440,
+        "numberOfListeners": 2453,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 1751,
+        "numberOfListeners": 1747,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 1706,
+        "numberOfListeners": 1699,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 1591,
+        "numberOfListeners": 1599,
         "region": "NY"
       }
     ]

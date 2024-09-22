@@ -2,13 +2,13 @@
   "id": "0K2WIX8cdlV9jpIvse7vxs",
   "name": "De La Bass",
   "followers": 2140,
-  "monthlyListeners": 4891,
+  "monthlyListeners": 4868,
   "topCities": {
     "items": [
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 81,
+        "numberOfListeners": 82,
         "region": "HH"
       },
       {
@@ -20,19 +20,19 @@
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 68,
+        "numberOfListeners": 67,
         "region": "BY"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 64,
+        "numberOfListeners": 61,
         "region": "HE"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 57,
+        "numberOfListeners": 58,
         "region": "IDF"
       }
     ]

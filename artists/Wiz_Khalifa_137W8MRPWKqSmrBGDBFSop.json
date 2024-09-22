@@ -1,41 +1,41 @@
 {
   "id": "137W8MRPWKqSmrBGDBFSop",
   "name": "Wiz Khalifa",
-  "followers": 11205594,
-  "monthlyListeners": 31862560,
+  "followers": 11207176,
+  "monthlyListeners": 31850542,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 683669,
+        "numberOfListeners": 690758,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 376002,
+        "numberOfListeners": 377256,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 375054,
+        "numberOfListeners": 376233,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 300553,
+        "numberOfListeners": 300838,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 284369,
+        "numberOfListeners": 283294,
         "region": "ENG"
       }
     ]
   },
-  "worldRank": 139
+  "worldRank": 138
 }

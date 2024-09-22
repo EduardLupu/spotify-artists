@@ -1,38 +1,38 @@
 {
   "id": "2DnqqkzzDKm3vAoyHtn8So",
   "name": "Uncle Kracker",
-  "followers": 723728,
-  "monthlyListeners": 4485242,
+  "followers": 723924,
+  "monthlyListeners": 4441492,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 89349,
+        "numberOfListeners": 89053,
         "region": "NSW"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 80955,
+        "numberOfListeners": 80663,
         "region": "QLD"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 73557,
+        "numberOfListeners": 72400,
         "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 64185,
+        "numberOfListeners": 63908,
         "region": "VIC"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 59051,
+        "numberOfListeners": 58600,
         "region": "NC"
       }
     ]

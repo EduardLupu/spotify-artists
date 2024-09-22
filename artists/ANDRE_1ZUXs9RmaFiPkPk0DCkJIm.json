@@ -2,13 +2,13 @@
   "id": "1ZUXs9RmaFiPkPk0DCkJIm",
   "name": "ANDRE",
   "followers": 260,
-  "monthlyListeners": 2970,
+  "monthlyListeners": 2944,
   "topCities": {
     "items": [
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 443,
+        "numberOfListeners": 433,
         "region": "C"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 93,
+        "numberOfListeners": 88,
         "region": "LMA"
       },
       {
         "city": "Córdoba",
         "country": "AR",
-        "numberOfListeners": 79,
+        "numberOfListeners": 78,
         "region": "X"
       }
     ]

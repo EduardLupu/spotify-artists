@@ -1,38 +1,38 @@
 {
   "id": "3fMbdgg4jU18AjLCKBhRSm",
   "name": "Michael Jackson",
-  "followers": 32492124,
-  "monthlyListeners": 44352964,
+  "followers": 32504986,
+  "monthlyListeners": 44314966,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 732835,
+        "numberOfListeners": 730562,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 638349,
+        "numberOfListeners": 636405,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 620929,
+        "numberOfListeners": 620254,
         "region": "SP"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 616472,
+        "numberOfListeners": 613590,
         "region": "CMX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 502120,
+        "numberOfListeners": 502873,
         "region": "NSW"
       }
     ]

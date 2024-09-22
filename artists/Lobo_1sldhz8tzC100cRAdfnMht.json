@@ -1,38 +1,38 @@
 {
   "id": "1sldhz8tzC100cRAdfnMht",
   "name": "Lobo",
-  "followers": 524107,
-  "monthlyListeners": 2629234,
+  "followers": 524249,
+  "monthlyListeners": 2648607,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 76183,
+        "numberOfListeners": 76783,
         "region": "JK"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 52641,
+        "numberOfListeners": 52801,
         "region": "RM"
       },
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 51147,
+        "numberOfListeners": 51527,
         "region": "00"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 41207,
+        "numberOfListeners": 41296,
         "region": "CMX"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 34743,
+        "numberOfListeners": 35014,
         "region": "SP"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "4GepMkTgrIZECoCC55vqjW",
   "name": "Marama",
-  "followers": 1277496,
-  "monthlyListeners": 3287833,
+  "followers": 1277836,
+  "monthlyListeners": 3285329,
   "topCities": {
     "items": [
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 637779,
+        "numberOfListeners": 638559,
         "region": "C"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 321827,
+        "numberOfListeners": 320820,
         "region": "RM"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 272545,
+        "numberOfListeners": 274042,
         "region": "B"
       },
       {
         "city": "Montevideo",
         "country": "UY",
-        "numberOfListeners": 157447,
+        "numberOfListeners": 157438,
         "region": "MO"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 142866,
+        "numberOfListeners": 142361,
         "region": "LMA"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "1dABGukgZ8XKKOdd2rVSHM",
   "name": "Lofi Fruits Music",
-  "followers": 952914,
-  "monthlyListeners": 1079325,
+  "followers": 952915,
+  "monthlyListeners": 1079831,
   "topCities": {
     "items": [
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 11682,
+        "numberOfListeners": 11712,
         "region": "34"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 11623,
+        "numberOfListeners": 11589,
         "region": "SP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 11058,
+        "numberOfListeners": 11021,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 10713,
+        "numberOfListeners": 10751,
         "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 9507,
+        "numberOfListeners": 9516,
         "region": "CA"
       }
     ]

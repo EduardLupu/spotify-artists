@@ -2,13 +2,13 @@
   "id": "5Zv548UCPStJIETfwfN0Yt",
   "name": "Shake",
   "followers": 65,
-  "monthlyListeners": 771,
+  "monthlyListeners": 770,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 24,
+        "numberOfListeners": 25,
         "region": "BE"
       },
       {
@@ -24,16 +24,16 @@
         "region": "NSW"
       },
       {
-        "city": "Melbourne",
-        "country": "AU",
-        "numberOfListeners": 14,
-        "region": "VIC"
-      },
-      {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 14,
+        "numberOfListeners": 15,
         "region": "ENG"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 13,
+        "region": "IDF"
       }
     ]
   },

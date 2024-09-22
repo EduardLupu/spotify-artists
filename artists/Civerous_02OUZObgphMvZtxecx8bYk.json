@@ -1,39 +1,39 @@
 {
   "id": "02OUZObgphMvZtxecx8bYk",
   "name": "Civerous",
-  "followers": 6831,
-  "monthlyListeners": 6393,
+  "followers": 6835,
+  "monthlyListeners": 6374,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 108,
+        "numberOfListeners": 107,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 83,
+        "numberOfListeners": 84,
         "region": "CA"
-      },
-      {
-        "city": "Helsinki",
-        "country": "FI",
-        "numberOfListeners": 80,
-        "region": "18"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 77,
+        "numberOfListeners": 79,
         "region": "VIC"
       },
       {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 75,
-        "region": "NSW"
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 79,
+        "region": "18"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 78,
+        "region": "NY"
       }
     ]
   },

@@ -1,39 +1,39 @@
 {
   "id": "3Obq2ZetikLxqjtx97doZ9",
   "name": "Aurora",
-  "followers": 7460,
-  "monthlyListeners": 8593,
+  "followers": 7463,
+  "monthlyListeners": 8609,
   "topCities": {
     "items": [
       {
         "city": "Budapest",
         "country": "HU",
-        "numberOfListeners": 5555,
+        "numberOfListeners": 5565,
         "region": "BU"
       },
       {
         "city": "Győr",
         "country": "HU",
-        "numberOfListeners": 147,
+        "numberOfListeners": 151,
         "region": "GS"
       },
       {
         "city": "Székesfehérvár",
         "country": "HU",
-        "numberOfListeners": 144,
+        "numberOfListeners": 145,
         "region": "FE"
       },
       {
         "city": "Bratislava",
         "country": "SK",
-        "numberOfListeners": 143,
+        "numberOfListeners": 142,
         "region": "BL"
       },
       {
-        "city": "Debrecen",
+        "city": "Pécs",
         "country": "HU",
-        "numberOfListeners": 111,
-        "region": "HB"
+        "numberOfListeners": 115,
+        "region": "BA"
       }
     ]
   },

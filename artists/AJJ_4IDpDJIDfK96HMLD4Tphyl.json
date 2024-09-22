@@ -1,39 +1,39 @@
 {
   "id": "4IDpDJIDfK96HMLD4Tphyl",
   "name": "AJJ",
-  "followers": 256181,
-  "monthlyListeners": 534629,
+  "followers": 256218,
+  "monthlyListeners": 533359,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 9993,
+        "numberOfListeners": 9935,
         "region": "IL"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 8007,
+        "numberOfListeners": 7989,
         "region": "WA"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 6966,
+        "numberOfListeners": 6971,
         "region": "PA"
-      },
-      {
-        "city": "Los Angeles",
-        "country": "US",
-        "numberOfListeners": 6899,
-        "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 6834,
+        "numberOfListeners": 6892,
         "region": "NY"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 6884,
+        "region": "CA"
       }
     ]
   },

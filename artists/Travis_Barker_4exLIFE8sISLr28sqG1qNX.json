@@ -1,38 +1,38 @@
 {
   "id": "4exLIFE8sISLr28sqG1qNX",
   "name": "Travis Barker",
-  "followers": 465229,
-  "monthlyListeners": 5970782,
+  "followers": 465358,
+  "monthlyListeners": 5973532,
   "topCities": {
     "items": [
       {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 81365,
-        "region": "IL"
-      },
-      {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 81152,
+        "numberOfListeners": 81294,
         "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 81118,
+        "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 76824,
+        "numberOfListeners": 76758,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 73501,
+        "numberOfListeners": 73209,
         "region": "ENG"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 65753,
+        "numberOfListeners": 65692,
         "region": "QLD"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "1QPdp5duV6lV4XINCzjwQ2",
   "name": "Dinos",
-  "followers": 662078,
-  "monthlyListeners": 2516590,
+  "followers": 662353,
+  "monthlyListeners": 2535151,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 438728,
+        "numberOfListeners": 443435,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 109540,
+        "numberOfListeners": 110506,
         "region": "BRU"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 93613,
+        "numberOfListeners": 94407,
         "region": "ARA"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 78351,
+        "numberOfListeners": 79653,
         "region": "HDF"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 68674,
+        "numberOfListeners": 69551,
         "region": "QC"
       }
     ]

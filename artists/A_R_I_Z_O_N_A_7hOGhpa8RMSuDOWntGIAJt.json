@@ -1,38 +1,38 @@
 {
   "id": "7hOGhpa8RMSuDOWntGIAJt",
   "name": "A R I Z O N A",
-  "followers": 423328,
-  "monthlyListeners": 1394313,
+  "followers": 423351,
+  "monthlyListeners": 1399964,
   "topCities": {
     "items": [
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 26666,
+        "numberOfListeners": 26841,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 22611,
+        "numberOfListeners": 22558,
         "region": "IL"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 18269,
+        "numberOfListeners": 18304,
         "region": "CO"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 17965,
+        "numberOfListeners": 17973,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 16756,
+        "numberOfListeners": 16871,
         "region": "NSW"
       }
     ]

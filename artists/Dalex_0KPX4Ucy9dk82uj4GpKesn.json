@@ -1,38 +1,38 @@
 {
   "id": "0KPX4Ucy9dk82uj4GpKesn",
   "name": "Dalex",
-  "followers": 4926270,
-  "monthlyListeners": 13172249,
+  "followers": 4927113,
+  "monthlyListeners": 13133931,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 678507,
+        "numberOfListeners": 672985,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 651297,
+        "numberOfListeners": 649918,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 516091,
+        "numberOfListeners": 514235,
         "region": "LMA"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 506380,
+        "numberOfListeners": 506399,
         "region": "C"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 482922,
+        "numberOfListeners": 480400,
         "region": "CMX"
       }
     ]

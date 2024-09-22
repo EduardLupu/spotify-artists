@@ -1,38 +1,38 @@
 {
   "id": "5u0QamnXCuX8MNukIIkkee",
   "name": "Nupe",
-  "followers": 2528,
-  "monthlyListeners": 21769,
+  "followers": 2530,
+  "monthlyListeners": 21506,
   "topCities": {
     "items": [
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 14740,
+        "numberOfListeners": 14600,
         "region": "18"
       },
       {
         "city": "Tampere",
         "country": "FI",
-        "numberOfListeners": 2568,
+        "numberOfListeners": 2532,
         "region": "11"
       },
       {
         "city": "Oulu",
         "country": "FI",
-        "numberOfListeners": 1915,
+        "numberOfListeners": 1873,
         "region": "14"
       },
       {
         "city": "Vantaa",
         "country": "FI",
-        "numberOfListeners": 1480,
+        "numberOfListeners": 1450,
         "region": "18"
       },
       {
         "city": "Espoo",
         "country": "FI",
-        "numberOfListeners": 1091,
+        "numberOfListeners": 1092,
         "region": "18"
       }
     ]

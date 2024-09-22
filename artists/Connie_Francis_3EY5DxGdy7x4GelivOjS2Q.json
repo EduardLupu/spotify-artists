@@ -1,39 +1,39 @@
 {
   "id": "3EY5DxGdy7x4GelivOjS2Q",
   "name": "Connie Francis",
-  "followers": 450820,
-  "monthlyListeners": 1340116,
+  "followers": 450938,
+  "monthlyListeners": 1346622,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 22785,
+        "numberOfListeners": 22832,
         "region": "BE"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 14886,
+        "numberOfListeners": 14920,
         "region": "RM"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 14598,
+        "numberOfListeners": 14675,
         "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 14420,
+        "numberOfListeners": 14487,
         "region": "NSW"
       },
       {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 14104,
-        "region": "ENG"
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 14358,
+        "region": "HH"
       }
     ]
   },

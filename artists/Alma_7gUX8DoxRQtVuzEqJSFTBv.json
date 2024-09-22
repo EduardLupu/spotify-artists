@@ -2,7 +2,7 @@
   "id": "7gUX8DoxRQtVuzEqJSFTBv",
   "name": "Alma",
   "followers": 10,
-  "monthlyListeners": 37,
+  "monthlyListeners": 36,
   "topCities": {
     "items": [
       {
@@ -14,7 +14,7 @@
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 3,
+        "numberOfListeners": 2,
         "region": "IDF"
       },
       {
@@ -24,16 +24,16 @@
         "region": "PDL"
       },
       {
-        "city": "Port-au-Prince",
-        "country": "HT",
+        "city": "Montreal",
+        "country": "CA",
         "numberOfListeners": 1,
-        "region": "OU"
+        "region": "QC"
       },
       {
-        "city": "Roussillon",
-        "country": "FR",
+        "city": "Greater Sudbury",
+        "country": "CA",
         "numberOfListeners": 1,
-        "region": "ARA"
+        "region": "ON"
       }
     ]
   },

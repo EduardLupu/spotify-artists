@@ -1,20 +1,20 @@
 {
   "id": "4L5WSH7rauC7Z6zGYWUfkC",
   "name": "ive",
-  "followers": 5133,
-  "monthlyListeners": 3641,
+  "followers": 5136,
+  "monthlyListeners": 3648,
   "topCities": {
     "items": [
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 398,
+        "numberOfListeners": 404,
         "region": "13"
       },
       {
         "city": "Osaka",
         "country": "JP",
-        "numberOfListeners": 143,
+        "numberOfListeners": 146,
         "region": "27"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Yokohama",
         "country": "JP",
-        "numberOfListeners": 58,
+        "numberOfListeners": 60,
         "region": "14"
       },
       {
         "city": "Nagoya",
         "country": "JP",
-        "numberOfListeners": 56,
+        "numberOfListeners": 55,
         "region": "23"
       }
     ]

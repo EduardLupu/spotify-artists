@@ -1,38 +1,38 @@
 {
   "id": "3fzRb5i8Wn7ao2KPDxEiTR",
   "name": "David Solomon",
-  "followers": 24777,
-  "monthlyListeners": 232880,
+  "followers": 24778,
+  "monthlyListeners": 232601,
   "topCities": {
     "items": [
       {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 3766,
-        "region": "NSW"
-      },
-      {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 3764,
+        "numberOfListeners": 3805,
         "region": "NY"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 3753,
+        "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 3064,
+        "numberOfListeners": 3061,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 2846,
+        "numberOfListeners": 2836,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2674,
+        "numberOfListeners": 2669,
         "region": "IL"
       }
     ]

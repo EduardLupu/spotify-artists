@@ -2,14 +2,20 @@
   "id": "2OKhgZcRr3jld3W7crDNbO",
   "name": "The Backpack Kid",
   "followers": 7261,
-  "monthlyListeners": 3802,
+  "monthlyListeners": 3808,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 42,
+        "numberOfListeners": 45,
         "region": "NSW"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 38,
+        "region": "TX"
       },
       {
         "city": "Los Angeles",
@@ -18,22 +24,16 @@
         "region": "CA"
       },
       {
-        "city": "Dallas",
-        "country": "US",
-        "numberOfListeners": 37,
-        "region": "TX"
-      },
-      {
         "city": "Melbourne",
         "country": "AU",
         "numberOfListeners": 37,
         "region": "VIC"
       },
       {
-        "city": "Houston",
+        "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 33,
-        "region": "TX"
+        "numberOfListeners": 32,
+        "region": "NC"
       }
     ]
   },

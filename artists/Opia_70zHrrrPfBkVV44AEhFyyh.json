@@ -1,21 +1,15 @@
 {
   "id": "70zHrrrPfBkVV44AEhFyyh",
   "name": "Opia",
-  "followers": 31126,
-  "monthlyListeners": 201481,
+  "followers": 31129,
+  "monthlyListeners": 200941,
   "topCities": {
     "items": [
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 6047,
+        "numberOfListeners": 6053,
         "region": "CO"
-      },
-      {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 3967,
-        "region": "IL"
       },
       {
         "city": "Seattle",
@@ -24,15 +18,21 @@
         "region": "WA"
       },
       {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 3917,
+        "region": "IL"
+      },
+      {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 3224,
+        "numberOfListeners": 3258,
         "region": "NY"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 3044,
+        "numberOfListeners": 3018,
         "region": "CA"
       }
     ]

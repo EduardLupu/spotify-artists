@@ -1,38 +1,38 @@
 {
   "id": "2PeR3T5bsrS6lJ7VpfYXJk",
   "name": "buffalo_farm",
-  "followers": 21650,
-  "monthlyListeners": 218997,
+  "followers": 21677,
+  "monthlyListeners": 216408,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 3524,
+        "numberOfListeners": 3474,
         "region": "IL"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 3384,
+        "numberOfListeners": 3353,
         "region": "CO"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 3377,
+        "numberOfListeners": 3339,
         "region": "WA"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 3312,
+        "numberOfListeners": 3264,
         "region": "TX"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 2782,
+        "numberOfListeners": 2763,
         "region": "AZ"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "1NrkyGnaWUYV1hLP74pp6X",
   "name": "Malevolent Creation",
-  "followers": 117499,
-  "monthlyListeners": 34114,
+  "followers": 117571,
+  "monthlyListeners": 34049,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 981,
+        "numberOfListeners": 971,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 539,
+        "numberOfListeners": 540,
         "region": "DC"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 402,
+        "numberOfListeners": 398,
         "region": "SP"
       },
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 360,
+        "numberOfListeners": 365,
         "region": "14"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 358,
+        "numberOfListeners": 362,
         "region": "CMX"
       }
     ]

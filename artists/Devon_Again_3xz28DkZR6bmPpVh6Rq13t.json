@@ -1,39 +1,39 @@
 {
   "id": "3xz28DkZR6bmPpVh6Rq13t",
   "name": "Devon Again",
-  "followers": 38281,
-  "monthlyListeners": 269304,
+  "followers": 38348,
+  "monthlyListeners": 268880,
   "topCities": {
     "items": [
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 7340,
+        "numberOfListeners": 7286,
         "region": "NY"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 7004,
+        "numberOfListeners": 6930,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 6758,
+        "numberOfListeners": 6699,
         "region": "IL"
-      },
-      {
-        "city": "Seattle",
-        "country": "US",
-        "numberOfListeners": 5002,
-        "region": "WA"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 5001,
+        "numberOfListeners": 4992,
         "region": "NY"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 4897,
+        "region": "WA"
       }
     ]
   },

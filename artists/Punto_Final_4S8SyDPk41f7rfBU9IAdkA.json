@@ -1,38 +1,38 @@
 {
   "id": "4S8SyDPk41f7rfBU9IAdkA",
   "name": "Punto Final",
-  "followers": 4832,
-  "monthlyListeners": 35564,
+  "followers": 4837,
+  "monthlyListeners": 35547,
   "topCities": {
     "items": [
       {
         "city": "Mazatlán",
         "country": "MX",
-        "numberOfListeners": 2387,
+        "numberOfListeners": 2407,
         "region": "SIN"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 2256,
+        "numberOfListeners": 2252,
         "region": "CMX"
-      },
-      {
-        "city": "Culiacán",
-        "country": "MX",
-        "numberOfListeners": 2162,
-        "region": "SIN"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 2107,
+        "numberOfListeners": 2111,
         "region": "JAL"
+      },
+      {
+        "city": "Culiacán",
+        "country": "MX",
+        "numberOfListeners": 2110,
+        "region": "SIN"
       },
       {
         "city": "Hermosillo",
         "country": "MX",
-        "numberOfListeners": 1252,
+        "numberOfListeners": 1267,
         "region": "SON"
       }
     ]

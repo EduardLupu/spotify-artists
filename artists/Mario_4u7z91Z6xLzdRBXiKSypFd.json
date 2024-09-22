@@ -2,19 +2,19 @@
   "id": "4u7z91Z6xLzdRBXiKSypFd",
   "name": "Mario",
   "followers": 132,
-  "monthlyListeners": 240,
+  "monthlyListeners": 235,
   "topCities": {
     "items": [
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 32,
+        "numberOfListeners": 30,
         "region": "25"
       },
       {
         "city": "Rome",
         "country": "IT",
-        "numberOfListeners": 29,
+        "numberOfListeners": 27,
         "region": "62"
       },
       {
@@ -24,16 +24,16 @@
         "region": "21"
       },
       {
-        "city": "Naples",
-        "country": "IT",
-        "numberOfListeners": 7,
-        "region": "72"
-      },
-      {
         "city": "Florence",
         "country": "IT",
         "numberOfListeners": 6,
         "region": "52"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 6,
+        "region": "72"
       }
     ]
   },

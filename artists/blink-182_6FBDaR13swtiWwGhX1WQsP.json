@@ -1,41 +1,41 @@
 {
   "id": "6FBDaR13swtiWwGhX1WQsP",
   "name": "blink-182",
-  "followers": 8487164,
-  "monthlyListeners": 22009524,
+  "followers": 8489884,
+  "monthlyListeners": 21838354,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 404495,
+        "numberOfListeners": 398578,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 364706,
+        "numberOfListeners": 362450,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 331969,
+        "numberOfListeners": 329734,
         "region": "VIC"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 312081,
+        "numberOfListeners": 313787,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 282435,
+        "numberOfListeners": 281059,
         "region": "SP"
       }
     ]
   },
-  "worldRank": 304
+  "worldRank": 310
 }

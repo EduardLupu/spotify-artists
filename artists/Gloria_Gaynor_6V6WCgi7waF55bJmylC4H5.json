@@ -1,38 +1,38 @@
 {
   "id": "6V6WCgi7waF55bJmylC4H5",
   "name": "Gloria Gaynor",
-  "followers": 1065941,
-  "monthlyListeners": 6560798,
+  "followers": 1067041,
+  "monthlyListeners": 6574407,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 123098,
+        "numberOfListeners": 122993,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 107099,
+        "numberOfListeners": 106670,
         "region": "RM"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 64285,
+        "numberOfListeners": 64581,
         "region": "IDF"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 63439,
+        "numberOfListeners": 63920,
         "region": "SP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 61076,
+        "numberOfListeners": 61132,
         "region": "ENG"
       }
     ]

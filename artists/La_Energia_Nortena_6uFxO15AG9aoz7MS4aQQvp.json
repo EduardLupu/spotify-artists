@@ -1,38 +1,38 @@
 {
   "id": "6uFxO15AG9aoz7MS4aQQvp",
   "name": "La Energia Nortena",
-  "followers": 268165,
-  "monthlyListeners": 1081401,
+  "followers": 268401,
+  "monthlyListeners": 1091363,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 61166,
+        "numberOfListeners": 61629,
         "region": "CMX"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 60677,
+        "numberOfListeners": 60271,
         "region": "QUE"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 43256,
+        "numberOfListeners": 43312,
         "region": "TX"
       },
       {
         "city": "Monterrey",
         "country": "MX",
-        "numberOfListeners": 33417,
+        "numberOfListeners": 33753,
         "region": "NLE"
       },
       {
         "city": "San Luis Potosí City",
         "country": "MX",
-        "numberOfListeners": 29474,
+        "numberOfListeners": 29223,
         "region": "SLP"
       }
     ]

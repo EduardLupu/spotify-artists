@@ -1,41 +1,41 @@
 {
   "id": "7t0rwkOPGlDPEhaOcVtOt9",
   "name": "The Cranberries",
-  "followers": 4498661,
-  "monthlyListeners": 26265535,
+  "followers": 4501457,
+  "monthlyListeners": 26316678,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 468914,
+        "numberOfListeners": 471044,
         "region": "ENG"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 397798,
+        "numberOfListeners": 400578,
         "region": "JK"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 360603,
+        "numberOfListeners": 362073,
         "region": "NSW"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 356247,
+        "numberOfListeners": 353836,
         "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 337348,
+        "numberOfListeners": 337039,
         "region": "SP"
       }
     ]
   },
-  "worldRank": 200
+  "worldRank": 199
 }

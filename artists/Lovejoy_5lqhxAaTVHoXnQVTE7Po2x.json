@@ -1,14 +1,20 @@
 {
   "id": "5lqhxAaTVHoXnQVTE7Po2x",
   "name": "Lovejoy",
-  "followers": 182,
-  "monthlyListeners": 361,
+  "followers": 183,
+  "monthlyListeners": 354,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
         "numberOfListeners": 18,
+        "region": "ENG"
+      },
+      {
+        "city": "Manchester",
+        "country": "GB",
+        "numberOfListeners": 6,
         "region": "ENG"
       },
       {
@@ -22,12 +28,6 @@
         "country": "SE",
         "numberOfListeners": 5,
         "region": "AB"
-      },
-      {
-        "city": "Melbourne",
-        "country": "AU",
-        "numberOfListeners": 5,
-        "region": "VIC"
       },
       {
         "city": "Sydney",

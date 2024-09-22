@@ -1,38 +1,38 @@
 {
   "id": "34EP7KEpOjXcM2TCat1ISk",
   "name": "Wu-Tang Clan",
-  "followers": 3245452,
-  "monthlyListeners": 5552458,
+  "followers": 3246778,
+  "monthlyListeners": 5540299,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 100620,
+        "numberOfListeners": 100245,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 85293,
+        "numberOfListeners": 85036,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 80151,
+        "numberOfListeners": 80072,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 74326,
+        "numberOfListeners": 74041,
         "region": "VIC"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 63289,
+        "numberOfListeners": 63398,
         "region": "NY"
       }
     ]

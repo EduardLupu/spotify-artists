@@ -1,38 +1,38 @@
 {
   "id": "3Wb38LDP3N4tkobValgE9D",
   "name": "Juanka",
-  "followers": 876069,
-  "monthlyListeners": 2137481,
+  "followers": 876054,
+  "monthlyListeners": 2127645,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 374726,
+        "numberOfListeners": 372096,
         "region": "RM"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 69531,
+        "numberOfListeners": 69244,
         "region": "C"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 64093,
+        "numberOfListeners": 63840,
         "region": "DC"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 63442,
+        "numberOfListeners": 63619,
         "region": "MD"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 62934,
+        "numberOfListeners": 62664,
         "region": "CMX"
       }
     ]

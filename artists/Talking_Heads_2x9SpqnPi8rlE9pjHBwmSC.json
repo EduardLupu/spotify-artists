@@ -1,39 +1,39 @@
 {
   "id": "2x9SpqnPi8rlE9pjHBwmSC",
   "name": "Talking Heads",
-  "followers": 2528681,
-  "monthlyListeners": 10064426,
+  "followers": 2529675,
+  "monthlyListeners": 10053125,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 190070,
+        "numberOfListeners": 188960,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 158281,
+        "numberOfListeners": 158347,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 141139,
+        "numberOfListeners": 141200,
         "region": "VIC"
-      },
-      {
-        "city": "Santiago",
-        "country": "CL",
-        "numberOfListeners": 130824,
-        "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 130693,
+        "numberOfListeners": 131113,
         "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 130259,
+        "region": "RM"
       }
     ]
   },

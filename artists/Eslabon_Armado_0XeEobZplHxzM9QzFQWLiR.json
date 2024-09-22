@@ -1,41 +1,41 @@
 {
   "id": "0XeEobZplHxzM9QzFQWLiR",
   "name": "Eslabon Armado",
-  "followers": 5807271,
-  "monthlyListeners": 16698687,
+  "followers": 5808940,
+  "monthlyListeners": 16685534,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 902605,
+        "numberOfListeners": 899719,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 529006,
+        "numberOfListeners": 528196,
         "region": "JAL"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 396946,
+        "numberOfListeners": 404942,
         "region": "CMX"
       },
       {
         "city": "Puebla City",
         "country": "MX",
-        "numberOfListeners": 381302,
+        "numberOfListeners": 377262,
         "region": "PUE"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 359809,
+        "numberOfListeners": 357502,
         "region": "QUE"
       }
     ]
   },
-  "worldRank": 485
+  "worldRank": 483
 }

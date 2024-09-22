@@ -1,38 +1,38 @@
 {
   "id": "2Kx7MNY7cI1ENniW7vT30N",
   "name": "Norah Jones",
-  "followers": 3188459,
-  "monthlyListeners": 9108709,
+  "followers": 3189066,
+  "monthlyListeners": 9076302,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 137576,
+        "numberOfListeners": 136508,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 116297,
+        "numberOfListeners": 115819,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 115948,
+        "numberOfListeners": 115447,
         "region": "SP"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 111386,
+        "numberOfListeners": 110584,
         "region": "VIC"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 100332,
+        "numberOfListeners": 100089,
         "region": "NH"
       }
     ]

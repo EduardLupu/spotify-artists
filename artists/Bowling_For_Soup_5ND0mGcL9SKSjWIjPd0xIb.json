@@ -1,38 +1,38 @@
 {
   "id": "5ND0mGcL9SKSjWIjPd0xIb",
   "name": "Bowling For Soup",
-  "followers": 1160898,
-  "monthlyListeners": 3835711,
+  "followers": 1161194,
+  "monthlyListeners": 3810080,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 84271,
+        "numberOfListeners": 83385,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 63303,
+        "numberOfListeners": 62725,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 56412,
+        "numberOfListeners": 55679,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 55713,
+        "numberOfListeners": 55104,
         "region": "VIC"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 49885,
+        "numberOfListeners": 49576,
         "region": "PA"
       }
     ]

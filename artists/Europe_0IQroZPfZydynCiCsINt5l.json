@@ -2,37 +2,37 @@
   "id": "0IQroZPfZydynCiCsINt5l",
   "name": "Europe",
   "followers": 2076,
-  "monthlyListeners": 61518,
+  "monthlyListeners": 61582,
   "topCities": {
     "items": [
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 7214,
+        "numberOfListeners": 7228,
         "region": "00"
       },
       {
         "city": "Manila",
         "country": "PH",
-        "numberOfListeners": 3103,
+        "numberOfListeners": 3110,
         "region": "00"
       },
       {
         "city": "Caloocan City",
         "country": "PH",
-        "numberOfListeners": 2733,
+        "numberOfListeners": 2752,
         "region": "00"
       },
       {
         "city": "San Juan",
         "country": "PH",
-        "numberOfListeners": 2459,
+        "numberOfListeners": 2474,
         "region": "00"
       },
       {
         "city": "Cebu City",
         "country": "PH",
-        "numberOfListeners": 2133,
+        "numberOfListeners": 2139,
         "region": "07"
       }
     ]

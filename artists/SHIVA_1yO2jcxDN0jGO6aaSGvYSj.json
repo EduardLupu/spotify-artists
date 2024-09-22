@@ -1,39 +1,39 @@
 {
   "id": "1yO2jcxDN0jGO6aaSGvYSj",
   "name": "SHIVA",
-  "followers": 4324,
-  "monthlyListeners": 5358,
+  "followers": 4351,
+  "monthlyListeners": 8031,
   "topCities": {
     "items": [
       {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 77,
-        "region": "NSW"
-      },
-      {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 66,
+        "numberOfListeners": 94,
         "region": "VIC"
       },
       {
-        "city": "Brisbane",
+        "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 62,
-        "region": "QLD"
+        "numberOfListeners": 90,
+        "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 59,
+        "numberOfListeners": 84,
         "region": "IL"
       },
       {
-        "city": "Phoenix",
-        "country": "US",
-        "numberOfListeners": 51,
-        "region": "AZ"
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 84,
+        "region": "18"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 80,
+        "region": "QLD"
       }
     ]
   },

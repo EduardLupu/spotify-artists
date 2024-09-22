@@ -1,38 +1,38 @@
 {
   "id": "5fsDcuclIe8ZiBD5P787K1",
   "name": "Stevie Ray Vaughan",
-  "followers": 2497303,
-  "monthlyListeners": 2753570,
+  "followers": 2497628,
+  "monthlyListeners": 2750217,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 35958,
+        "numberOfListeners": 35915,
         "region": "SP"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 35133,
+        "numberOfListeners": 34860,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 30810,
+        "numberOfListeners": 30784,
         "region": "TX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 27807,
+        "numberOfListeners": 27802,
         "region": "NSW"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 27220,
+        "numberOfListeners": 27038,
         "region": "ON"
       }
     ]

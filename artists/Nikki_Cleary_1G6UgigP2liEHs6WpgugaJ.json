@@ -1,38 +1,38 @@
 {
   "id": "1G6UgigP2liEHs6WpgugaJ",
   "name": "Nikki Cleary",
-  "followers": 28514,
-  "monthlyListeners": 11784,
+  "followers": 28513,
+  "monthlyListeners": 11711,
   "topCities": {
     "items": [
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 232,
+        "numberOfListeners": 234,
         "region": "NY"
-      },
-      {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 186,
-        "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 185,
+        "numberOfListeners": 192,
         "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 179,
+        "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 171,
+        "numberOfListeners": 167,
         "region": "NSW"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 157,
+        "numberOfListeners": 159,
         "region": "NY"
       }
     ]

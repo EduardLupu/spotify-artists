@@ -1,38 +1,38 @@
 {
   "id": "6nDLku5uL3ou60kvCGZorh",
   "name": "Bloodhound Gang",
-  "followers": 996883,
-  "monthlyListeners": 3679204,
+  "followers": 997193,
+  "monthlyListeners": 3666916,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 83365,
+        "numberOfListeners": 82971,
         "region": "BE"
-      },
-      {
-        "city": "Frankfurt am Main",
-        "country": "DE",
-        "numberOfListeners": 60676,
-        "region": "HE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 60345,
+        "numberOfListeners": 60515,
         "region": "BY"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 60386,
+        "region": "HE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 56615,
+        "numberOfListeners": 58125,
         "region": "HH"
       },
       {
         "city": "Vienna",
         "country": "AT",
-        "numberOfListeners": 56028,
+        "numberOfListeners": 55660,
         "region": "9"
       }
     ]

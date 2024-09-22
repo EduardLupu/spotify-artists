@@ -1,26 +1,26 @@
 {
   "id": "4ibVPIhgS0jDlOLCVFjKtB",
   "name": "lfy",
-  "followers": 4353,
-  "monthlyListeners": 32905,
+  "followers": 4367,
+  "monthlyListeners": 32963,
   "topCities": {
     "items": [
       {
         "city": "Kyiv",
         "country": "UA",
-        "numberOfListeners": 2023,
+        "numberOfListeners": 2027,
         "region": "30"
       },
       {
         "city": "Minsk",
         "country": "BY",
-        "numberOfListeners": 1707,
+        "numberOfListeners": 1706,
         "region": "HM"
       },
       {
         "city": "Dnipro",
         "country": "UA",
-        "numberOfListeners": 975,
+        "numberOfListeners": 972,
         "region": "12"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Almaty",
         "country": "KZ",
-        "numberOfListeners": 539,
+        "numberOfListeners": 543,
         "region": "75"
       }
     ]

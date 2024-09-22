@@ -1,38 +1,38 @@
 {
   "id": "1ntQKIMIgESKpKoNXVBvQg",
   "name": "Kaaris",
-  "followers": 1903547,
-  "monthlyListeners": 2805813,
+  "followers": 1904376,
+  "monthlyListeners": 2798561,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 465569,
+        "numberOfListeners": 466251,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 120056,
+        "numberOfListeners": 120275,
         "region": "BRU"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 98999,
+        "numberOfListeners": 99119,
         "region": "ARA"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 84589,
+        "numberOfListeners": 85214,
         "region": "HDF"
       },
       {
         "city": "Marseille",
         "country": "FR",
-        "numberOfListeners": 72967,
+        "numberOfListeners": 72312,
         "region": "PAC"
       }
     ]

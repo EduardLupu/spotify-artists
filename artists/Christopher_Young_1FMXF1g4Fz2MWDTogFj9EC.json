@@ -1,38 +1,38 @@
 {
   "id": "1FMXF1g4Fz2MWDTogFj9EC",
   "name": "Christopher Young",
-  "followers": 15379,
-  "monthlyListeners": 90424,
+  "followers": 15386,
+  "monthlyListeners": 90198,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1047,
+        "numberOfListeners": 1048,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1033,
+        "numberOfListeners": 1025,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 926,
+        "numberOfListeners": 929,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 809,
+        "numberOfListeners": 808,
         "region": "NY"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 768,
+        "numberOfListeners": 765,
         "region": "NSW"
       }
     ]

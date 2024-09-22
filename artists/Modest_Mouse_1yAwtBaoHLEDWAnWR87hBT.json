@@ -1,38 +1,38 @@
 {
   "id": "1yAwtBaoHLEDWAnWR87hBT",
   "name": "Modest Mouse",
-  "followers": 1486184,
-  "monthlyListeners": 3659612,
+  "followers": 1486433,
+  "monthlyListeners": 3647420,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 78762,
+        "numberOfListeners": 78136,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 77589,
+        "numberOfListeners": 77239,
         "region": "CA"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 63888,
+        "numberOfListeners": 63742,
         "region": "WA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 63541,
+        "numberOfListeners": 63527,
         "region": "NY"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 62303,
+        "numberOfListeners": 62188,
         "region": "CO"
       }
     ]

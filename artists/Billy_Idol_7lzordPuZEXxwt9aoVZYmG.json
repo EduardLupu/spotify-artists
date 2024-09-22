@@ -1,38 +1,38 @@
 {
   "id": "7lzordPuZEXxwt9aoVZYmG",
   "name": "Billy Idol",
-  "followers": 2058060,
-  "monthlyListeners": 11694953,
+  "followers": 2059105,
+  "monthlyListeners": 11650311,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 224251,
+        "numberOfListeners": 223416,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 204588,
+        "numberOfListeners": 202859,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 150023,
+        "numberOfListeners": 149342,
         "region": "CMX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 140543,
+        "numberOfListeners": 139824,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 134687,
+        "numberOfListeners": 134197,
         "region": "ENG"
       }
     ]

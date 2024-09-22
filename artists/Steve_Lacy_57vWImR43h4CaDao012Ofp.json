@@ -1,38 +1,38 @@
 {
   "id": "57vWImR43h4CaDao012Ofp",
   "name": "Steve Lacy",
-  "followers": 5065108,
-  "monthlyListeners": 30243772,
+  "followers": 5069401,
+  "monthlyListeners": 30104688,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 491163,
+        "numberOfListeners": 488864,
         "region": "CA"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 398562,
-        "region": "ENG"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 395863,
+        "numberOfListeners": 396222,
         "region": "JK"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 396210,
+        "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 365589,
+        "numberOfListeners": 362619,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 336830,
+        "numberOfListeners": 335385,
         "region": "NSW"
       }
     ]

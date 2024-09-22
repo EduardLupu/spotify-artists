@@ -1,41 +1,41 @@
 {
   "id": "4MCBfE4596Uoi2O4DtmEMz",
   "name": "Juice WRLD",
-  "followers": 35346567,
-  "monthlyListeners": 28827658,
+  "followers": 35360673,
+  "monthlyListeners": 28848217,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 413800,
+        "numberOfListeners": 413180,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 372212,
+        "numberOfListeners": 371833,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 340577,
+        "numberOfListeners": 341176,
         "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 303222,
+        "numberOfListeners": 303483,
         "region": "CA"
       },
       {
-        "city": "Dallas",
+        "city": "New York City",
         "country": "US",
-        "numberOfListeners": 301604,
-        "region": "TX"
+        "numberOfListeners": 302613,
+        "region": "NY"
       }
     ]
   },
-  "worldRank": 173
+  "worldRank": 172
 }

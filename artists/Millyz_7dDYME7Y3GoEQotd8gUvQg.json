@@ -1,38 +1,38 @@
 {
   "id": "7dDYME7Y3GoEQotd8gUvQg",
   "name": "Millyz",
-  "followers": 79266,
-  "monthlyListeners": 419406,
+  "followers": 79325,
+  "monthlyListeners": 424809,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 10464,
+        "numberOfListeners": 10490,
         "region": "ENG"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 8858,
+        "numberOfListeners": 8928,
         "region": "PA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 7503,
+        "numberOfListeners": 7672,
         "region": "NY"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 7395,
+        "numberOfListeners": 7511,
         "region": "ON"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 7327,
+        "numberOfListeners": 7176,
         "region": "TX"
       }
     ]

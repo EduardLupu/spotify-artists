@@ -1,38 +1,38 @@
 {
   "id": "2Lxa3SFNEW0alfRvtdXOul",
   "name": "Ariel Camacho y Los Plebes Del Rancho",
-  "followers": 4193170,
-  "monthlyListeners": 5441208,
+  "followers": 4195080,
+  "monthlyListeners": 5448738,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 428664,
+        "numberOfListeners": 428684,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 279920,
+        "numberOfListeners": 280157,
         "region": "JAL"
-      },
-      {
-        "city": "Puebla City",
-        "country": "MX",
-        "numberOfListeners": 181653,
-        "region": "PUE"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 180928,
+        "numberOfListeners": 186149,
         "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 179891,
+        "region": "PUE"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 175636,
+        "numberOfListeners": 175052,
         "region": "QUE"
       }
     ]

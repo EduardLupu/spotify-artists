@@ -1,38 +1,38 @@
 {
   "id": "5nLYd9ST4Cnwy6NHaCxbj8",
   "name": "CeeLo Green",
-  "followers": 637410,
-  "monthlyListeners": 4869525,
+  "followers": 637604,
+  "monthlyListeners": 4857844,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 96027,
+        "numberOfListeners": 95532,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 83270,
+        "numberOfListeners": 83402,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 68854,
+        "numberOfListeners": 68749,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 59890,
+        "numberOfListeners": 59789,
         "region": "QLD"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 56237,
+        "numberOfListeners": 55851,
         "region": "IL"
       }
     ]

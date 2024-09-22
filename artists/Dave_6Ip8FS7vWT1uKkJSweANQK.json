@@ -1,38 +1,38 @@
 {
   "id": "6Ip8FS7vWT1uKkJSweANQK",
   "name": "Dave",
-  "followers": 5356457,
-  "monthlyListeners": 15397344,
+  "followers": 5360369,
+  "monthlyListeners": 15360306,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 840368,
+        "numberOfListeners": 838310,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 332147,
+        "numberOfListeners": 331635,
         "region": "NSW"
       },
       {
         "city": "Lagos",
         "country": "NG",
-        "numberOfListeners": 288528,
+        "numberOfListeners": 292373,
         "region": "LA"
       },
       {
         "city": "Southwark",
         "country": "GB",
-        "numberOfListeners": 286156,
+        "numberOfListeners": 289717,
         "region": "ENG"
       },
       {
-        "city": "Birmingham",
+        "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 268796,
+        "numberOfListeners": 269439,
         "region": "ENG"
       }
     ]

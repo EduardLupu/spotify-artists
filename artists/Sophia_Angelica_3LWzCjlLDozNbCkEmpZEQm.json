@@ -2,25 +2,25 @@
   "id": "3LWzCjlLDozNbCkEmpZEQm",
   "name": "Sophia Angelica",
   "followers": 231,
-  "monthlyListeners": 22144,
+  "monthlyListeners": 22044,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 2907,
+        "numberOfListeners": 2855,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 1046,
+        "numberOfListeners": 1061,
         "region": "DC"
       },
       {
         "city": "Panama City",
         "country": "PA",
-        "numberOfListeners": 597,
+        "numberOfListeners": 603,
         "region": "8"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 433,
+        "numberOfListeners": 436,
         "region": "C"
       }
     ]

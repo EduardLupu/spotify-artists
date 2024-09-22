@@ -1,39 +1,39 @@
 {
   "id": "11sAWrpIkFUPQlXoQqpeBV",
   "name": "Bill & Gloria Gaither",
-  "followers": 85294,
-  "monthlyListeners": 190240,
+  "followers": 85326,
+  "monthlyListeners": 190471,
   "topCities": {
     "items": [
       {
         "city": "Johannesburg",
         "country": "ZA",
-        "numberOfListeners": 3812,
+        "numberOfListeners": 3830,
         "region": "GP"
       },
       {
         "city": "Cape Town",
         "country": "ZA",
-        "numberOfListeners": 3389,
+        "numberOfListeners": 3403,
         "region": "WC"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 3107,
+        "numberOfListeners": 3146,
         "region": "NC"
-      },
-      {
-        "city": "Lagos",
-        "country": "NG",
-        "numberOfListeners": 2533,
-        "region": "LA"
       },
       {
         "city": "Nairobi",
         "country": "KE",
-        "numberOfListeners": 2532,
+        "numberOfListeners": 2550,
         "region": "30"
+      },
+      {
+        "city": "Atlanta",
+        "country": "US",
+        "numberOfListeners": 2538,
+        "region": "GA"
       }
     ]
   },

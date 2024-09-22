@@ -2,13 +2,13 @@
   "id": "60HhR3u0vPB6e7zR74vvht",
   "name": "SunTonic",
   "followers": 173,
-  "monthlyListeners": 787,
+  "monthlyListeners": 788,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 10,
+        "numberOfListeners": 11,
         "region": "NSW"
       },
       {
@@ -24,16 +24,16 @@
         "region": "TX"
       },
       {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 8,
+        "region": "ENG"
+      },
+      {
         "city": "Brisbane",
         "country": "AU",
         "numberOfListeners": 7,
         "region": "QLD"
-      },
-      {
-        "city": "Lagos",
-        "country": "NG",
-        "numberOfListeners": 7,
-        "region": "LA"
       }
     ]
   },

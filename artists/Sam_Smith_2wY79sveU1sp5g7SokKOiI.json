@@ -1,38 +1,38 @@
 {
   "id": "2wY79sveU1sp5g7SokKOiI",
   "name": "Sam Smith",
-  "followers": 24216107,
-  "monthlyListeners": 52770012,
+  "followers": 24224122,
+  "monthlyListeners": 52668141,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 1163224,
+        "numberOfListeners": 1169360,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 766213,
+        "numberOfListeners": 765009,
         "region": "SP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 695505,
+        "numberOfListeners": 693176,
         "region": "ENG"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 658413,
+        "numberOfListeners": 656332,
         "region": "CMX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 646138,
+        "numberOfListeners": 646302,
         "region": "NSW"
       }
     ]

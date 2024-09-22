@@ -1,38 +1,38 @@
 {
   "id": "6HhnhnxLsowYuuejvku0Bz",
   "name": "Lartiste",
-  "followers": 2026705,
-  "monthlyListeners": 2597299,
+  "followers": 2026948,
+  "monthlyListeners": 2589187,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 260381,
+        "numberOfListeners": 260372,
         "region": "IDF"
       },
       {
         "city": "Casablanca",
         "country": "MA",
-        "numberOfListeners": 100497,
+        "numberOfListeners": 99429,
         "region": "06"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 90460,
+        "numberOfListeners": 90624,
         "region": "BRU"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 59135,
+        "numberOfListeners": 59053,
         "region": "ARA"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 45051,
+        "numberOfListeners": 45058,
         "region": "QC"
       }
     ]

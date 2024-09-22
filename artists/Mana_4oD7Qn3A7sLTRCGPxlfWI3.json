@@ -1,8 +1,8 @@
 {
   "id": "4oD7Qn3A7sLTRCGPxlfWI3",
   "name": "Mana",
-  "followers": 3221,
-  "monthlyListeners": 424,
+  "followers": 3220,
+  "monthlyListeners": 408,
   "topCities": {
     "items": [
       {
@@ -14,14 +14,8 @@
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 17,
+        "numberOfListeners": 16,
         "region": "QC"
-      },
-      {
-        "city": "Lyon",
-        "country": "FR",
-        "numberOfListeners": 12,
-        "region": "ARA"
       },
       {
         "city": "Brussels",
@@ -30,9 +24,15 @@
         "region": "BRU"
       },
       {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 11,
+        "region": "ARA"
+      },
+      {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 9,
+        "numberOfListeners": 10,
         "region": "HDF"
       }
     ]

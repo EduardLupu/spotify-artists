@@ -1,39 +1,39 @@
 {
   "id": "6OjtkJDlAZzlzAydEn78cK",
   "name": "Bktherula",
-  "followers": 266692,
-  "monthlyListeners": 739995,
+  "followers": 266997,
+  "monthlyListeners": 749623,
   "topCities": {
     "items": [
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 16470,
+        "numberOfListeners": 16657,
         "region": "GA"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 16292,
+        "numberOfListeners": 16378,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 16253,
+        "numberOfListeners": 16352,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 15257,
+        "numberOfListeners": 15598,
         "region": "NY"
       },
       {
-        "city": "Dallas",
+        "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 12727,
-        "region": "TX"
+        "numberOfListeners": 12834,
+        "region": "NY"
       }
     ]
   },

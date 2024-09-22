@@ -2,7 +2,7 @@
   "id": "3QqmP9nFXC8JGUCBRITUm1",
   "name": "D'Mott",
   "followers": 41,
-  "monthlyListeners": 240,
+  "monthlyListeners": 242,
   "topCities": {
     "items": [
       {
@@ -14,14 +14,14 @@
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 7,
+        "numberOfListeners": 6,
         "region": "IL"
       },
       {
-        "city": "Charlotte",
-        "country": "US",
+        "city": "Tokyo",
+        "country": "JP",
         "numberOfListeners": 4,
-        "region": "NC"
+        "region": "13"
       },
       {
         "city": "Atlanta",
@@ -30,10 +30,10 @@
         "region": "GA"
       },
       {
-        "city": "Tokyo",
-        "country": "JP",
+        "city": "Charlotte",
+        "country": "US",
         "numberOfListeners": 4,
-        "region": "13"
+        "region": "NC"
       }
     ]
   },

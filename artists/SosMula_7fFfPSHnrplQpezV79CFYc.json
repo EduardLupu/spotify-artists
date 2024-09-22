@@ -1,38 +1,38 @@
 {
   "id": "7fFfPSHnrplQpezV79CFYc",
   "name": "SosMula",
-  "followers": 150956,
-  "monthlyListeners": 864444,
+  "followers": 150997,
+  "monthlyListeners": 864905,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 15385,
+        "numberOfListeners": 15321,
         "region": "IL"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 13062,
+        "numberOfListeners": 13076,
         "region": "AZ"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 12462,
+        "numberOfListeners": 12510,
         "region": "CO"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 11736,
+        "numberOfListeners": 11699,
         "region": "TX"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 11093,
+        "numberOfListeners": 11107,
         "region": "CA"
       }
     ]

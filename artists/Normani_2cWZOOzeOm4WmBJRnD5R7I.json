@@ -1,39 +1,39 @@
 {
   "id": "2cWZOOzeOm4WmBJRnD5R7I",
   "name": "Normani",
-  "followers": 2759208,
-  "monthlyListeners": 11282531,
+  "followers": 2759797,
+  "monthlyListeners": 11305484,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 173441,
+        "numberOfListeners": 173724,
         "region": "NSW"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 157840,
+        "numberOfListeners": 158081,
         "region": "SP"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 141089,
+        "numberOfListeners": 141097,
         "region": "VIC"
-      },
-      {
-        "city": "Santiago",
-        "country": "CL",
-        "numberOfListeners": 135190,
-        "region": "RM"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 134331,
+        "numberOfListeners": 135150,
         "region": "JK"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 134692,
+        "region": "RM"
       }
     ]
   },

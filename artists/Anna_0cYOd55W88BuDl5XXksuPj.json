@@ -1,39 +1,39 @@
 {
   "id": "0cYOd55W88BuDl5XXksuPj",
   "name": "Anna",
-  "followers": 563,
-  "monthlyListeners": 2576,
+  "followers": 565,
+  "monthlyListeners": 2554,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 159,
+        "numberOfListeners": 160,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 143,
+        "numberOfListeners": 144,
         "region": "HH"
       },
       {
         "city": "Vienna",
         "country": "AT",
-        "numberOfListeners": 85,
+        "numberOfListeners": 83,
         "region": "9"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 77,
+        "numberOfListeners": 75,
         "region": "BY"
       },
       {
-        "city": "Cologne",
+        "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 75,
-        "region": "NW"
+        "numberOfListeners": 73,
+        "region": "BW"
       }
     ]
   },

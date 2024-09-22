@@ -1,38 +1,38 @@
 {
   "id": "0AuW7OCyKfFrsMbtHrYgIV",
   "name": "House Of Pain",
-  "followers": 676214,
-  "monthlyListeners": 5624869,
+  "followers": 676555,
+  "monthlyListeners": 5578778,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 101122,
+        "numberOfListeners": 100661,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 88973,
+        "numberOfListeners": 88479,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 86491,
+        "numberOfListeners": 85456,
         "region": "ENG"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 75997,
+        "numberOfListeners": 75643,
         "region": "QLD"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 69082,
+        "numberOfListeners": 67664,
         "region": "RM"
       }
     ]

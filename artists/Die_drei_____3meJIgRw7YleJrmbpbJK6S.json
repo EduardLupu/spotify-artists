@@ -1,38 +1,38 @@
 {
   "id": "3meJIgRw7YleJrmbpbJK6S",
   "name": "Die drei ???",
-  "followers": 1079296,
-  "monthlyListeners": 941546,
+  "followers": 1079590,
+  "monthlyListeners": 941244,
   "topCities": {
     "items": [
       {
-        "city": "Berlin",
-        "country": "DE",
-        "numberOfListeners": 127295,
-        "region": "BE"
-      },
-      {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 126440,
+        "numberOfListeners": 128475,
         "region": "HH"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 126773,
+        "region": "BE"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 87017,
+        "numberOfListeners": 86325,
         "region": "HE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 75027,
+        "numberOfListeners": 75112,
         "region": "BY"
       },
       {
         "city": "Cologne",
         "country": "DE",
-        "numberOfListeners": 73865,
+        "numberOfListeners": 73270,
         "region": "NW"
       }
     ]

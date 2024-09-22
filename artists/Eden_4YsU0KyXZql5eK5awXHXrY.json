@@ -1,8 +1,8 @@
 {
   "id": "4YsU0KyXZql5eK5awXHXrY",
   "name": "Eden",
-  "followers": 45185,
-  "monthlyListeners": 31484,
+  "followers": 45233,
+  "monthlyListeners": 31505,
   "topCities": {
     "items": [
       {
@@ -14,25 +14,25 @@
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 2464,
+        "numberOfListeners": 2461,
         "region": "IDF"
       },
       {
         "city": "Kinshasa",
         "country": "CD",
-        "numberOfListeners": 1510,
+        "numberOfListeners": 1513,
         "region": "KN"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 1275,
+        "numberOfListeners": 1258,
         "region": "QC"
       },
       {
         "city": "Luanda",
         "country": "AO",
-        "numberOfListeners": 1045,
+        "numberOfListeners": 1057,
         "region": "LUA"
       }
     ]

@@ -2,37 +2,37 @@
   "id": "0yCwm7IY2ypxgGogCqpp5W",
   "name": "MANA",
   "followers": 722,
-  "monthlyListeners": 2235,
+  "monthlyListeners": 2236,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 353,
+        "numberOfListeners": 343,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 165,
+        "numberOfListeners": 161,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 109,
+        "numberOfListeners": 111,
         "region": "MG"
       },
       {
         "city": "Brasília",
         "country": "BR",
-        "numberOfListeners": 90,
+        "numberOfListeners": 95,
         "region": "DF"
       },
       {
         "city": "Salvador",
         "country": "BR",
-        "numberOfListeners": 80,
+        "numberOfListeners": 79,
         "region": "BA"
       }
     ]

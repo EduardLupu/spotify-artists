@@ -2,7 +2,7 @@
   "id": "3SWZWOASA5Z2Qi0vSpFkjz",
   "name": "Max",
   "followers": 24,
-  "monthlyListeners": 70,
+  "monthlyListeners": 72,
   "topCities": {
     "items": [
       {
@@ -18,12 +18,6 @@
         "region": "NSW"
       },
       {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 2,
-        "region": "ENG"
-      },
-      {
         "city": "Madrid",
         "country": "ES",
         "numberOfListeners": 2,
@@ -34,6 +28,12 @@
         "country": "CA",
         "numberOfListeners": 2,
         "region": "BC"
+      },
+      {
+        "city": "St Louis",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "MO"
       }
     ]
   },

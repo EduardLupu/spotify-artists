@@ -1,38 +1,38 @@
 {
   "id": "11kBu957KTYoAltZHDm8gW",
   "name": "Buena Vista Social Club",
-  "followers": 1295360,
-  "monthlyListeners": 2792061,
+  "followers": 1295785,
+  "monthlyListeners": 2786628,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 62224,
+        "numberOfListeners": 62197,
         "region": "IDF"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 59808,
+        "numberOfListeners": 59793,
         "region": "NH"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 58807,
+        "numberOfListeners": 59003,
         "region": "DC"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 57082,
+        "numberOfListeners": 57341,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 40165,
+        "numberOfListeners": 40065,
         "region": "CMX"
       }
     ]

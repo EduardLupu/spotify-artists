@@ -2,25 +2,25 @@
   "id": "074gCZH4v3cYkrBKmf5c2P",
   "name": "Noya",
   "followers": 4946,
-  "monthlyListeners": 2577,
+  "monthlyListeners": 2580,
   "topCities": {
     "items": [
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 50,
+        "numberOfListeners": 47,
         "region": "CO"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 46,
+        "numberOfListeners": 47,
         "region": "WA"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 35,
+        "numberOfListeners": 33,
         "region": "CA"
       },
       {
@@ -30,10 +30,10 @@
         "region": "TX"
       },
       {
-        "city": "Phoenix",
+        "city": "Chicago",
         "country": "US",
         "numberOfListeners": 27,
-        "region": "AZ"
+        "region": "IL"
       }
     ]
   },

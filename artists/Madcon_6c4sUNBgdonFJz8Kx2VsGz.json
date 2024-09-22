@@ -1,39 +1,39 @@
 {
   "id": "6c4sUNBgdonFJz8Kx2VsGz",
   "name": "Madcon",
-  "followers": 436335,
-  "monthlyListeners": 5507286,
+  "followers": 436409,
+  "monthlyListeners": 5472734,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 105676,
+        "numberOfListeners": 105674,
         "region": "IDF"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 88389,
+        "numberOfListeners": 88000,
         "region": "BE"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 70859,
+        "numberOfListeners": 70304,
         "region": "ENG"
-      },
-      {
-        "city": "Warsaw",
-        "country": "PL",
-        "numberOfListeners": 68149,
-        "region": "14"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 67864,
+        "numberOfListeners": 68032,
         "region": "NH"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 67100,
+        "region": "14"
       }
     ]
   },

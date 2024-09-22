@@ -1,38 +1,38 @@
 {
   "id": "1bs7HoMkSyQwcobCpE9KpN",
   "name": "The Mamas & The Papas",
-  "followers": 1856159,
-  "monthlyListeners": 13578783,
+  "followers": 1856765,
+  "monthlyListeners": 13677414,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 182765,
+        "numberOfListeners": 183877,
         "region": "ENG"
-      },
-      {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 147940,
-        "region": "NSW"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 146575,
+        "numberOfListeners": 148999,
         "region": "IDF"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 148855,
+        "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 131214,
+        "numberOfListeners": 131866,
         "region": "VIC"
       },
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 128724,
+        "numberOfListeners": 130074,
         "region": "34"
       }
     ]

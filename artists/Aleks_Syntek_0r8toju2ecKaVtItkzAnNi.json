@@ -1,38 +1,38 @@
 {
   "id": "0r8toju2ecKaVtItkzAnNi",
   "name": "Aleks Syntek",
-  "followers": 1564439,
-  "monthlyListeners": 4733791,
+  "followers": 1564841,
+  "monthlyListeners": 4720541,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 415551,
+        "numberOfListeners": 413529,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 160180,
+        "numberOfListeners": 159666,
         "region": "JAL"
-      },
-      {
-        "city": "Puebla City",
-        "country": "MX",
-        "numberOfListeners": 154735,
-        "region": "PUE"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 152966,
+        "numberOfListeners": 154877,
         "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 152837,
+        "region": "PUE"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 137051,
+        "numberOfListeners": 136025,
         "region": "QUE"
       }
     ]

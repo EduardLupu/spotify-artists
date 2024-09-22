@@ -1,38 +1,38 @@
 {
   "id": "2auC28zjQyVTsiZKNgPRGs",
   "name": "RM",
-  "followers": 17082206,
-  "monthlyListeners": 3111806,
+  "followers": 17082347,
+  "monthlyListeners": 3107924,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 88052,
+        "numberOfListeners": 88062,
         "region": "JK"
       },
       {
         "city": "Bangkok",
         "country": "TH",
-        "numberOfListeners": 63695,
+        "numberOfListeners": 63519,
         "region": "10"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 48116,
+        "numberOfListeners": 47983,
         "region": "SP"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 44294,
+        "numberOfListeners": 44239,
         "region": "CMX"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 38381,
+        "numberOfListeners": 38384,
         "region": "LMA"
       }
     ]

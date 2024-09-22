@@ -1,38 +1,38 @@
 {
   "id": "06nsZ3qSOYZ2hPVIMcr1IN",
   "name": "J.J. Cale",
-  "followers": 799433,
-  "monthlyListeners": 2703846,
+  "followers": 799625,
+  "monthlyListeners": 2719126,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 51263,
+        "numberOfListeners": 51740,
         "region": "NH"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 49922,
+        "numberOfListeners": 50018,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 47716,
+        "numberOfListeners": 47836,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 40184,
+        "numberOfListeners": 40407,
         "region": "VIC"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 35638,
+        "numberOfListeners": 35937,
         "region": "IDF"
       }
     ]

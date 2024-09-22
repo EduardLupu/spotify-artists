@@ -1,41 +1,41 @@
 {
   "id": "4Ga1P7PMIsmqEZqhYZQgDo",
   "name": "Lil Tecca",
-  "followers": 7794702,
-  "monthlyListeners": 19733624,
+  "followers": 7804720,
+  "monthlyListeners": 19918875,
   "topCities": {
     "items": [
       {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 275746,
-        "region": "ENG"
-      },
-      {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 275160,
+        "numberOfListeners": 278453,
         "region": "IL"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 277801,
+        "region": "ENG"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 250011,
+        "numberOfListeners": 252922,
         "region": "ON"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 244444,
+        "numberOfListeners": 251017,
         "region": "NY"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 237548,
+        "numberOfListeners": 241242,
         "region": "CA"
       }
     ]
   },
-  "worldRank": 370
+  "worldRank": 362
 }

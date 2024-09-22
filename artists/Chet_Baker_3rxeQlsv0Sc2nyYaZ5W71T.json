@@ -1,38 +1,38 @@
 {
   "id": "3rxeQlsv0Sc2nyYaZ5W71T",
   "name": "Chet Baker",
-  "followers": 1181621,
-  "monthlyListeners": 3233227,
+  "followers": 1182052,
+  "monthlyListeners": 3243143,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 39039,
+        "numberOfListeners": 39198,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 36991,
+        "numberOfListeners": 37350,
         "region": "NY"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 36893,
+        "numberOfListeners": 37117,
         "region": "ENG"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 34366,
+        "numberOfListeners": 34320,
         "region": "RM"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 33955,
+        "numberOfListeners": 34237,
         "region": "IDF"
       }
     ]

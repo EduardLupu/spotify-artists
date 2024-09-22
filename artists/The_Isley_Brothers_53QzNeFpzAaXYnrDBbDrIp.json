@@ -1,38 +1,38 @@
 {
   "id": "53QzNeFpzAaXYnrDBbDrIp",
   "name": "The Isley Brothers",
-  "followers": 1866443,
-  "monthlyListeners": 3872415,
+  "followers": 1867040,
+  "monthlyListeners": 3871211,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 79650,
+        "numberOfListeners": 79471,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 76704,
+        "numberOfListeners": 76710,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 53380,
+        "numberOfListeners": 53224,
         "region": "IL"
       },
       {
         "city": "Johannesburg",
         "country": "ZA",
-        "numberOfListeners": 40436,
+        "numberOfListeners": 40583,
         "region": "GP"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 38662,
+        "numberOfListeners": 38838,
         "region": "NY"
       }
     ]

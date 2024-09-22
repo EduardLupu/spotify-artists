@@ -1,38 +1,38 @@
 {
   "id": "1LeVJ5GPeYDOVUjxx1y7Rp",
   "name": "Unknown Mortal Orchestra",
-  "followers": 866840,
-  "monthlyListeners": 1753629,
+  "followers": 866936,
+  "monthlyListeners": 1755980,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 34771,
+        "numberOfListeners": 34843,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 34515,
+        "numberOfListeners": 34480,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 33372,
+        "numberOfListeners": 33360,
         "region": "VIC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 32994,
+        "numberOfListeners": 32911,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 25179,
+        "numberOfListeners": 25284,
         "region": "NY"
       }
     ]

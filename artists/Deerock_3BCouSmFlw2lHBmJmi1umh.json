@@ -1,38 +1,38 @@
 {
   "id": "3BCouSmFlw2lHBmJmi1umh",
   "name": "Deerock",
-  "followers": 9124,
-  "monthlyListeners": 226237,
+  "followers": 9125,
+  "monthlyListeners": 226757,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 4015,
+        "numberOfListeners": 4029,
         "region": "SP"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 3192,
+        "numberOfListeners": 3211,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2537,
+        "numberOfListeners": 2517,
         "region": "IL"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 1878,
+        "numberOfListeners": 1867,
         "region": "NY"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 1817,
+        "numberOfListeners": 1805,
         "region": "ON"
       }
     ]

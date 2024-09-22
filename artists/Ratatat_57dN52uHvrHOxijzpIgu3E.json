@@ -1,38 +1,38 @@
 {
   "id": "57dN52uHvrHOxijzpIgu3E",
   "name": "Ratatat",
-  "followers": 595034,
-  "monthlyListeners": 517372,
+  "followers": 595080,
+  "monthlyListeners": 517729,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 11578,
+        "numberOfListeners": 11651,
         "region": "IDF"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 7986,
+        "numberOfListeners": 7973,
         "region": "CA"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 7916,
+        "numberOfListeners": 7900,
         "region": "WA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 7531,
+        "numberOfListeners": 7501,
         "region": "NY"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 7493,
+        "numberOfListeners": 7476,
         "region": "CO"
       }
     ]

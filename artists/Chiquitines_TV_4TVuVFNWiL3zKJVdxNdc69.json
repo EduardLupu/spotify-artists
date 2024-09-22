@@ -1,38 +1,38 @@
 {
   "id": "4TVuVFNWiL3zKJVdxNdc69",
   "name": "Chiquitines TV",
-  "followers": 56891,
-  "monthlyListeners": 325687,
+  "followers": 56898,
+  "monthlyListeners": 325863,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 17511,
+        "numberOfListeners": 17576,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 15696,
+        "numberOfListeners": 15527,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 10579,
+        "numberOfListeners": 10594,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 9170,
+        "numberOfListeners": 9160,
         "region": "LMA"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 9081,
+        "numberOfListeners": 9112,
         "region": "JAL"
       }
     ]

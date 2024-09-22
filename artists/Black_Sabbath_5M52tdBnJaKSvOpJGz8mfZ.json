@@ -1,38 +1,38 @@
 {
   "id": "5M52tdBnJaKSvOpJGz8mfZ",
   "name": "Black Sabbath",
-  "followers": 8126035,
-  "monthlyListeners": 15626994,
+  "followers": 8129257,
+  "monthlyListeners": 15550349,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 276360,
+        "numberOfListeners": 275839,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 251442,
+        "numberOfListeners": 249096,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 234191,
+        "numberOfListeners": 233103,
         "region": "CMX"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 160483,
+        "numberOfListeners": 159946,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 150319,
+        "numberOfListeners": 148263,
         "region": "IL"
       }
     ]

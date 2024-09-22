@@ -2,7 +2,7 @@
   "id": "2yH4oyZxXeHYhG03IKhGTA",
   "name": "LEONARDO",
   "followers": 53,
-  "monthlyListeners": 88,
+  "monthlyListeners": 94,
   "topCities": {
     "items": [
       {
@@ -12,7 +12,7 @@
         "region": "25"
       },
       {
-        "city": "Verona",
+        "city": "Venice",
         "country": "IT",
         "numberOfListeners": 4,
         "region": "34"
@@ -24,16 +24,16 @@
         "region": "72"
       },
       {
+        "city": "Verona",
+        "country": "IT",
+        "numberOfListeners": 4,
+        "region": "34"
+      },
+      {
         "city": "Cascina",
         "country": "IT",
         "numberOfListeners": 3,
         "region": "52"
-      },
-      {
-        "city": "Venice",
-        "country": "IT",
-        "numberOfListeners": 3,
-        "region": "34"
       }
     ]
   },

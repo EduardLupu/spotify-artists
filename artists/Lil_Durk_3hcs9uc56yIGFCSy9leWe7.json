@@ -1,41 +1,41 @@
 {
   "id": "3hcs9uc56yIGFCSy9leWe7",
   "name": "Lil Durk",
-  "followers": 7974702,
-  "monthlyListeners": 21175891,
+  "followers": 7978797,
+  "monthlyListeners": 21172994,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 419509,
+        "numberOfListeners": 418136,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 348997,
+        "numberOfListeners": 348296,
         "region": "ENG"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 334726,
+        "numberOfListeners": 334195,
         "region": "ON"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 310361,
+        "numberOfListeners": 310441,
         "region": "NSW"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 295552,
+        "numberOfListeners": 296532,
         "region": "NY"
       }
     ]
   },
-  "worldRank": 334
+  "worldRank": 331
 }

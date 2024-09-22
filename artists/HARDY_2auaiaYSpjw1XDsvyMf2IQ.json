@@ -2,37 +2,37 @@
   "id": "2auaiaYSpjw1XDsvyMf2IQ",
   "name": "HARDY",
   "followers": 409,
-  "monthlyListeners": 7734,
+  "monthlyListeners": 8918,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 1537,
+        "numberOfListeners": 1608,
         "region": "BE"
       },
       {
         "city": "Leipzig",
         "country": "DE",
-        "numberOfListeners": 525,
+        "numberOfListeners": 545,
         "region": "SN"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 401,
+        "numberOfListeners": 489,
         "region": "HH"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 241,
+        "numberOfListeners": 271,
         "region": "HE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 198,
+        "numberOfListeners": 249,
         "region": "BY"
       }
     ]

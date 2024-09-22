@@ -12,16 +12,16 @@
         "region": "HE"
       },
       {
-        "city": "Utrecht",
-        "country": "NL",
-        "numberOfListeners": 1,
-        "region": "UT"
-      },
-      {
         "city": "Rotterdam",
         "country": "NL",
         "numberOfListeners": 1,
         "region": "ZH"
+      },
+      {
+        "city": "Utrecht",
+        "country": "NL",
+        "numberOfListeners": 1,
+        "region": "UT"
       }
     ]
   },

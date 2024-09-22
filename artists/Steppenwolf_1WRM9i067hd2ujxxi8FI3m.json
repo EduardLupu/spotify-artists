@@ -1,38 +1,38 @@
 {
   "id": "1WRM9i067hd2ujxxi8FI3m",
   "name": "Steppenwolf",
-  "followers": 1627887,
-  "monthlyListeners": 4922834,
+  "followers": 1628479,
+  "monthlyListeners": 4887559,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 86244,
+        "numberOfListeners": 85395,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 66994,
+        "numberOfListeners": 66503,
         "region": "NSW"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 66796,
+        "numberOfListeners": 65919,
         "region": "RM"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 58455,
+        "numberOfListeners": 58082,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 51887,
+        "numberOfListeners": 51527,
         "region": "QLD"
       }
     ]

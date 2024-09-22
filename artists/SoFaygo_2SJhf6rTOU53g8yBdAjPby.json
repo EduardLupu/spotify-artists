@@ -1,38 +1,38 @@
 {
   "id": "2SJhf6rTOU53g8yBdAjPby",
   "name": "SoFaygo",
-  "followers": 803120,
-  "monthlyListeners": 2023455,
+  "followers": 803323,
+  "monthlyListeners": 2017973,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 31780,
+        "numberOfListeners": 31525,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 27148,
+        "numberOfListeners": 27098,
         "region": "CA"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 26325,
+        "numberOfListeners": 26290,
         "region": "GA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 25602,
+        "numberOfListeners": 25771,
         "region": "NY"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 25246,
+        "numberOfListeners": 25299,
         "region": "ON"
       }
     ]

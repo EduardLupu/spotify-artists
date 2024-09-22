@@ -1,38 +1,38 @@
 {
   "id": "4qIVPF0s71ZYW3qzhu5GkF",
   "name": "Kina",
-  "followers": 841559,
-  "monthlyListeners": 6387974,
+  "followers": 841798,
+  "monthlyListeners": 6438353,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 101602,
+        "numberOfListeners": 102863,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 65641,
+        "numberOfListeners": 66021,
         "region": "SP"
-      },
-      {
-        "city": "Bengaluru",
-        "country": "IN",
-        "numberOfListeners": 57591,
-        "region": "KA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 57448,
+        "numberOfListeners": 57998,
         "region": "NSW"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 57745,
+        "region": "KA"
       },
       {
         "city": "Lagos",
         "country": "NG",
-        "numberOfListeners": 56241,
+        "numberOfListeners": 57025,
         "region": "LA"
       }
     ]

@@ -1,39 +1,39 @@
 {
   "id": "5bES419H93yPwH6fzmrlDa",
   "name": "Lilo Bermudez",
-  "followers": 3005,
-  "monthlyListeners": 72370,
+  "followers": 3007,
+  "monthlyListeners": 70371,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 4247,
+        "numberOfListeners": 4099,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 3561,
+        "numberOfListeners": 3478,
         "region": "JAL"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 2476,
+        "numberOfListeners": 2389,
         "region": "QUE"
-      },
-      {
-        "city": "Tijuana",
-        "country": "MX",
-        "numberOfListeners": 1948,
-        "region": "BCN"
       },
       {
         "city": "Monterrey",
         "country": "MX",
-        "numberOfListeners": 1938,
+        "numberOfListeners": 1919,
         "region": "NLE"
+      },
+      {
+        "city": "Tijuana",
+        "country": "MX",
+        "numberOfListeners": 1903,
+        "region": "BCN"
       }
     ]
   },

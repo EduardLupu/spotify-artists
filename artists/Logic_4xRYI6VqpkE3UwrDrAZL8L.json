@@ -1,38 +1,38 @@
 {
   "id": "4xRYI6VqpkE3UwrDrAZL8L",
   "name": "Logic",
-  "followers": 6090654,
-  "monthlyListeners": 9081926,
+  "followers": 6090820,
+  "monthlyListeners": 9071543,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 134775,
+        "numberOfListeners": 134639,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 134603,
+        "numberOfListeners": 133662,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 120015,
+        "numberOfListeners": 119516,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 118880,
+        "numberOfListeners": 118429,
         "region": "CA"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 112758,
+        "numberOfListeners": 112562,
         "region": "VIC"
       }
     ]

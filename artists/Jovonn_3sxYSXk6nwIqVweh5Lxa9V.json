@@ -1,38 +1,38 @@
 {
   "id": "3sxYSXk6nwIqVweh5Lxa9V",
   "name": "Jovonn",
-  "followers": 12560,
-  "monthlyListeners": 38683,
+  "followers": 12562,
+  "monthlyListeners": 38674,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1182,
+        "numberOfListeners": 1198,
         "region": "ENG"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 1142,
+        "numberOfListeners": 1150,
         "region": "NH"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 775,
+        "numberOfListeners": 773,
         "region": "BE"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 659,
+        "numberOfListeners": 661,
         "region": "IDF"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 618,
+        "numberOfListeners": 624,
         "region": "NSW"
       }
     ]

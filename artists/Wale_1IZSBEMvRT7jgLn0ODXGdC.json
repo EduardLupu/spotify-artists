@@ -2,7 +2,7 @@
   "id": "1IZSBEMvRT7jgLn0ODXGdC",
   "name": "Wale",
   "followers": 283,
-  "monthlyListeners": 271,
+  "monthlyListeners": 269,
   "topCities": {
     "items": [
       {
@@ -14,7 +14,7 @@
       {
         "city": "Campo Grande",
         "country": "BR",
-        "numberOfListeners": 9,
+        "numberOfListeners": 8,
         "region": "MS"
       },
       {
@@ -30,10 +30,10 @@
         "region": "RS"
       },
       {
-        "city": "Düsseldorf",
-        "country": "DE",
+        "city": "Rio de Janeiro",
+        "country": "BR",
         "numberOfListeners": 5,
-        "region": "NW"
+        "region": "RJ"
       }
     ]
   },

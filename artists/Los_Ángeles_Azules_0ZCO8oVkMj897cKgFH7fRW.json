@@ -1,41 +1,41 @@
 {
   "id": "0ZCO8oVkMj897cKgFH7fRW",
   "name": "Los Ángeles Azules",
-  "followers": 7710568,
-  "monthlyListeners": 18742373,
+  "followers": 7713711,
+  "monthlyListeners": 18747106,
   "topCities": {
     "items": [
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 1346312,
+        "numberOfListeners": 1345692,
         "region": "C"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1061566,
+        "numberOfListeners": 1057529,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1046385,
+        "numberOfListeners": 1050389,
         "region": "RM"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 593285,
+        "numberOfListeners": 595036,
         "region": "B"
       },
       {
-        "city": "Puebla City",
+        "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 432605,
-        "region": "PUE"
+        "numberOfListeners": 434821,
+        "region": "CMX"
       }
     ]
   },
-  "worldRank": 405
+  "worldRank": 406
 }

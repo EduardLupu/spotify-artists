@@ -1,38 +1,38 @@
 {
   "id": "3DtnSKmpjFGUzZcccWfG43",
   "name": "Monster Rally",
-  "followers": 82492,
-  "monthlyListeners": 1018545,
+  "followers": 82517,
+  "monthlyListeners": 1020020,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 20046,
+        "numberOfListeners": 20022,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 18826,
+        "numberOfListeners": 18780,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 16092,
+        "numberOfListeners": 16166,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 15331,
+        "numberOfListeners": 15329,
         "region": "VIC"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 13666,
+        "numberOfListeners": 13815,
         "region": "NY"
       }
     ]

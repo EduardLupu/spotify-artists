@@ -1,38 +1,38 @@
 {
   "id": "3cR4rhS2hBWqI7rJEBacvN",
   "name": "Leslie Odom Jr.",
-  "followers": 280964,
-  "monthlyListeners": 3788985,
+  "followers": 281083,
+  "monthlyListeners": 3799836,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 103316,
+        "numberOfListeners": 103132,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 63553,
+        "numberOfListeners": 63591,
         "region": "NSW"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 62884,
+        "numberOfListeners": 63258,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 62004,
+        "numberOfListeners": 61924,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 52323,
+        "numberOfListeners": 52861,
         "region": "CA"
       }
     ]

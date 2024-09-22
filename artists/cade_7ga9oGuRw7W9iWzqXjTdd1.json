@@ -1,20 +1,20 @@
 {
   "id": "7ga9oGuRw7W9iWzqXjTdd1",
   "name": "cade",
-  "followers": 283,
-  "monthlyListeners": 1614,
+  "followers": 284,
+  "monthlyListeners": 1595,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 46,
+        "numberOfListeners": 47,
         "region": "CA"
       },
       {
         "city": "Detroit",
         "country": "US",
-        "numberOfListeners": 43,
+        "numberOfListeners": 46,
         "region": "MI"
       },
       {
@@ -24,16 +24,16 @@
         "region": "IL"
       },
       {
-        "city": "Seattle",
-        "country": "US",
-        "numberOfListeners": 29,
-        "region": "WA"
-      },
-      {
         "city": "Brooklyn",
         "country": "US",
         "numberOfListeners": 28,
         "region": "NY"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 28,
+        "region": "WA"
       }
     ]
   },

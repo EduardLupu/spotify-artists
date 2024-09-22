@@ -2,7 +2,7 @@
   "id": "5isbjtfTgLM7CVfR6cca4c",
   "name": "Sub Urban",
   "followers": 1212,
-  "monthlyListeners": 92,
+  "monthlyListeners": 91,
   "topCities": {
     "items": [
       {
@@ -18,22 +18,22 @@
         "region": "ZH"
       },
       {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 2,
+        "region": "34"
+      },
+      {
         "city": "Maputo",
         "country": "MZ",
         "numberOfListeners": 2,
         "region": "MPM"
       },
       {
-        "city": "Portland",
-        "country": "US",
+        "city": "Mexico City",
+        "country": "MX",
         "numberOfListeners": 2,
-        "region": "OR"
-      },
-      {
-        "city": "Los Angeles",
-        "country": "US",
-        "numberOfListeners": 2,
-        "region": "CA"
+        "region": "CMX"
       }
     ]
   },

@@ -1,33 +1,33 @@
 {
   "id": "7ftXsxiqLBGwOQzlRKXFhZ",
   "name": "BTL Banks",
-  "followers": 3952,
-  "monthlyListeners": 13122,
+  "followers": 3960,
+  "monthlyListeners": 13027,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 241,
+        "numberOfListeners": 245,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 236,
+        "numberOfListeners": 235,
         "region": "TX"
-      },
-      {
-        "city": "Denver",
-        "country": "US",
-        "numberOfListeners": 222,
-        "region": "CO"
       },
       {
         "city": "Charlotte",
         "country": "US",
         "numberOfListeners": 221,
         "region": "NC"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 218,
+        "region": "CO"
       },
       {
         "city": "Phoenix",

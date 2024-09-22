@@ -12,28 +12,28 @@
         "region": "12"
       },
       {
-        "city": "Bures-sur-Yvette",
-        "country": "FR",
-        "numberOfListeners": 1,
-        "region": "IDF"
-      },
-      {
-        "city": "Élancourt",
-        "country": "FR",
-        "numberOfListeners": 1,
-        "region": "IDF"
-      },
-      {
-        "city": "Sézanne",
-        "country": "FR",
-        "numberOfListeners": 1,
-        "region": "GES"
-      },
-      {
-        "city": "Toyoake",
+        "city": "Tokyo",
         "country": "JP",
+        "numberOfListeners": 2,
+        "region": "13"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
         "numberOfListeners": 1,
-        "region": "23"
+        "region": "TX"
+      },
+      {
+        "city": "Austin",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "TX"
+      },
+      {
+        "city": "Columbus",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "OH"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "6cv6xlvIj86g1lUPFkIy2e",
   "name": "Koopsta Knicca",
-  "followers": 76889,
-  "monthlyListeners": 80531,
+  "followers": 76891,
+  "monthlyListeners": 80267,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1895,
+        "numberOfListeners": 1889,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 1736,
+        "numberOfListeners": 1741,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 1702,
+        "numberOfListeners": 1695,
         "region": "TX"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 1545,
+        "numberOfListeners": 1521,
         "region": "TX"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 1305,
+        "numberOfListeners": 1310,
         "region": "AZ"
       }
     ]

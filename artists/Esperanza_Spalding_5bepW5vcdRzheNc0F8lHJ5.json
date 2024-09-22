@@ -1,38 +1,38 @@
 {
   "id": "5bepW5vcdRzheNc0F8lHJ5",
   "name": "Esperanza Spalding",
-  "followers": 393947,
-  "monthlyListeners": 424242,
+  "followers": 394062,
+  "monthlyListeners": 431273,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 21136,
+        "numberOfListeners": 20596,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 10425,
+        "numberOfListeners": 10224,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 7246,
+        "numberOfListeners": 7056,
         "region": "MG"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 5840,
+        "numberOfListeners": 6367,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 5355,
+        "numberOfListeners": 5511,
         "region": "NY"
       }
     ]

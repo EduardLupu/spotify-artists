@@ -1,38 +1,38 @@
 {
   "id": "5wam12nGWDBIrLDV78TNSF",
   "name": "Artie Shaw",
-  "followers": 108427,
-  "monthlyListeners": 322283,
+  "followers": 108461,
+  "monthlyListeners": 322517,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 4230,
+        "numberOfListeners": 4239,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 3885,
+        "numberOfListeners": 3908,
         "region": "NY"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 3274,
-        "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 3246,
+        "numberOfListeners": 3262,
         "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 3244,
+        "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 3113,
+        "numberOfListeners": 3127,
         "region": "VIC"
       }
     ]

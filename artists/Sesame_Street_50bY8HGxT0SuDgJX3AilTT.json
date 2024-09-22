@@ -1,38 +1,38 @@
 {
   "id": "50bY8HGxT0SuDgJX3AilTT",
   "name": "Sesame Street",
-  "followers": 127092,
-  "monthlyListeners": 946689,
+  "followers": 127118,
+  "monthlyListeners": 945290,
   "topCities": {
     "items": [
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 18126,
+        "numberOfListeners": 18152,
         "region": "NY"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 16970,
+        "numberOfListeners": 16921,
         "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 16785,
+        "numberOfListeners": 16794,
         "region": "CA"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 16325,
+        "numberOfListeners": 16324,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 16203,
+        "numberOfListeners": 16168,
         "region": "IL"
       }
     ]

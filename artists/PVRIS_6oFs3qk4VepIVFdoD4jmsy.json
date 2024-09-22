@@ -1,38 +1,38 @@
 {
   "id": "6oFs3qk4VepIVFdoD4jmsy",
   "name": "PVRIS",
-  "followers": 687507,
-  "monthlyListeners": 2033080,
+  "followers": 687585,
+  "monthlyListeners": 2031080,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 35636,
+        "numberOfListeners": 35556,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 24430,
+        "numberOfListeners": 24313,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 23385,
+        "numberOfListeners": 23175,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 21324,
+        "numberOfListeners": 21158,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 17842,
+        "numberOfListeners": 17799,
         "region": "CA"
       }
     ]

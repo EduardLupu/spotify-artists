@@ -1,38 +1,38 @@
 {
   "id": "66CXWjxzNUsdJxJ2JdwvnR",
   "name": "Ariana Grande",
-  "followers": 99822502,
-  "monthlyListeners": 77804002,
+  "followers": 99854552,
+  "monthlyListeners": 77810958,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 3377146,
+        "numberOfListeners": 3397020,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 990170,
+        "numberOfListeners": 990147,
         "region": "SP"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 964571,
-        "region": "ENG"
       },
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 961827,
+        "numberOfListeners": 968667,
         "region": "00"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 962497,
+        "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 863290,
+        "numberOfListeners": 863344,
         "region": "NSW"
       }
     ]

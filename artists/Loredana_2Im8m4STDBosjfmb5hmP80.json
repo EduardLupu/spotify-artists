@@ -1,38 +1,38 @@
 {
   "id": "2Im8m4STDBosjfmb5hmP80",
   "name": "Loredana",
-  "followers": 1092852,
-  "monthlyListeners": 1338849,
+  "followers": 1092907,
+  "monthlyListeners": 1345647,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 90881,
+        "numberOfListeners": 91075,
         "region": "BE"
-      },
-      {
-        "city": "Frankfurt am Main",
-        "country": "DE",
-        "numberOfListeners": 74022,
-        "region": "HE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 73670,
+        "numberOfListeners": 76624,
         "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 74228,
+        "region": "HE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 64301,
+        "numberOfListeners": 64954,
         "region": "BY"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 61538,
+        "numberOfListeners": 63007,
         "region": "BW"
       }
     ]

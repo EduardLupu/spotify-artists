@@ -1,38 +1,38 @@
 {
   "id": "1L9i6qZYIGQedgM9QLSyzb",
   "name": "Klingande",
-  "followers": 502275,
-  "monthlyListeners": 3012135,
+  "followers": 502290,
+  "monthlyListeners": 3007917,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 81703,
+        "numberOfListeners": 81450,
         "region": "IDF"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 54219,
+        "numberOfListeners": 54696,
         "region": "NH"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 51826,
+        "numberOfListeners": 52070,
         "region": "BRU"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 51508,
+        "numberOfListeners": 51832,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 43563,
+        "numberOfListeners": 43760,
         "region": "VIC"
       }
     ]

@@ -1,41 +1,41 @@
 {
   "id": "5ndkK3dpZLKtBklKjxNQwT",
   "name": "B.o.B",
-  "followers": 2073628,
-  "monthlyListeners": 18285829,
+  "followers": 2074209,
+  "monthlyListeners": 18313639,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 733602,
+        "numberOfListeners": 748100,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 287682,
+        "numberOfListeners": 288815,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 213020,
+        "numberOfListeners": 213232,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 175680,
+        "numberOfListeners": 175599,
         "region": "VIC"
       },
       {
         "city": "Kuala Lumpur",
         "country": "MY",
-        "numberOfListeners": 173357,
+        "numberOfListeners": 174772,
         "region": "14"
       }
     ]
   },
-  "worldRank": 420
+  "worldRank": 418
 }

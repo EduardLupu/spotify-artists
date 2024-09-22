@@ -2,20 +2,20 @@
   "id": "3VMYma0bKQQsPAr5gHdHk0",
   "name": "Mario",
   "followers": 47,
-  "monthlyListeners": 142,
+  "monthlyListeners": 146,
   "topCities": {
     "items": [
       {
-        "city": "Antananarivo",
-        "country": "MG",
-        "numberOfListeners": 13,
-        "region": ""
-      },
-      {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 11,
+        "numberOfListeners": 12,
         "region": "IDF"
+      },
+      {
+        "city": "Antananarivo",
+        "country": "MG",
+        "numberOfListeners": 12,
+        "region": ""
       },
       {
         "city": "Montreal",
@@ -24,16 +24,16 @@
         "region": "QC"
       },
       {
-        "city": "Rome",
-        "country": "IT",
-        "numberOfListeners": 2,
-        "region": "62"
+        "city": "Port Louis",
+        "country": "MU",
+        "numberOfListeners": 3,
+        "region": "PL"
       },
       {
-        "city": "Lausanne",
-        "country": "CH",
+        "city": "Rennes",
+        "country": "FR",
         "numberOfListeners": 2,
-        "region": "VD"
+        "region": "BRE"
       }
     ]
   },

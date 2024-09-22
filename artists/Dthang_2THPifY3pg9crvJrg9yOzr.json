@@ -1,38 +1,38 @@
 {
   "id": "2THPifY3pg9crvJrg9yOzr",
   "name": "Dthang",
-  "followers": 300421,
-  "monthlyListeners": 613071,
+  "followers": 300618,
+  "monthlyListeners": 609328,
   "topCities": {
     "items": [
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 20283,
+        "numberOfListeners": 20264,
         "region": "NY"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 17871,
+        "numberOfListeners": 17948,
         "region": "NY"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 13636,
+        "numberOfListeners": 13678,
         "region": "ON"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 10118,
+        "numberOfListeners": 10046,
         "region": "PA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 9806,
+        "numberOfListeners": 9762,
         "region": "ENG"
       }
     ]

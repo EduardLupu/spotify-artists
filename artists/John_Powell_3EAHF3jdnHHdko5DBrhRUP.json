@@ -1,38 +1,38 @@
 {
   "id": "3EAHF3jdnHHdko5DBrhRUP",
   "name": "John Powell",
-  "followers": 247681,
-  "monthlyListeners": 3368658,
+  "followers": 247772,
+  "monthlyListeners": 3393342,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 43629,
+        "numberOfListeners": 43790,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 40415,
+        "numberOfListeners": 40490,
         "region": "NSW"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 33083,
+        "numberOfListeners": 33448,
         "region": "IDF"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 33040,
+        "numberOfListeners": 33090,
         "region": "VIC"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 25397,
+        "numberOfListeners": 25401,
         "region": "RM"
       }
     ]

@@ -2,7 +2,7 @@
   "id": "56o9U5W3H0bDipQ4Cj3n4H",
   "name": "Finch",
   "followers": 52,
-  "monthlyListeners": 36,
+  "monthlyListeners": 34,
   "topCities": {
     "items": [
       {
@@ -12,28 +12,28 @@
         "region": "ZH"
       },
       {
-        "city": "Annecy",
-        "country": "FR",
+        "city": "Toronto",
+        "country": "CA",
         "numberOfListeners": 1,
-        "region": "ARA"
+        "region": "ON"
       },
       {
-        "city": "Melbourne",
-        "country": "AU",
+        "city": "North Charleston",
+        "country": "US",
         "numberOfListeners": 1,
-        "region": "VIC"
+        "region": "SC"
       },
       {
-        "city": "Clyde",
-        "country": "AU",
+        "city": "Riverside",
+        "country": "US",
         "numberOfListeners": 1,
-        "region": "VIC"
+        "region": "CA"
       },
       {
-        "city": "Brisbane",
-        "country": "AU",
+        "city": "Round Rock",
+        "country": "US",
         "numberOfListeners": 1,
-        "region": "QLD"
+        "region": "TX"
       }
     ]
   },

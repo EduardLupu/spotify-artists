@@ -1,38 +1,38 @@
 {
   "id": "1A92IAcd7A6npCA33oGM5i",
   "name": "The Proclaimers",
-  "followers": 335976,
-  "monthlyListeners": 6182525,
+  "followers": 336129,
+  "monthlyListeners": 6193335,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 122142,
+        "numberOfListeners": 121972,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 120804,
+        "numberOfListeners": 121693,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 105469,
+        "numberOfListeners": 106102,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 93625,
+        "numberOfListeners": 94249,
         "region": "QLD"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 66580,
+        "numberOfListeners": 67007,
         "region": "L"
       }
     ]

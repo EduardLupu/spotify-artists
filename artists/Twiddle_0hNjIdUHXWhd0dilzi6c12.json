@@ -1,38 +1,38 @@
 {
   "id": "0hNjIdUHXWhd0dilzi6c12",
   "name": "Twiddle",
-  "followers": 115091,
-  "monthlyListeners": 234385,
+  "followers": 115119,
+  "monthlyListeners": 234492,
   "topCities": {
     "items": [
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 8259,
+        "numberOfListeners": 8289,
         "region": "CO"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 6253,
+        "numberOfListeners": 6260,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 5669,
+        "numberOfListeners": 5603,
         "region": "IL"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 5293,
+        "numberOfListeners": 5312,
         "region": "NC"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 5000,
+        "numberOfListeners": 5020,
         "region": "PA"
       }
     ]

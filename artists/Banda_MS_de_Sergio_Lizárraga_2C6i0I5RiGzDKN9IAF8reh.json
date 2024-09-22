@@ -1,41 +1,41 @@
 {
   "id": "2C6i0I5RiGzDKN9IAF8reh",
   "name": "Banda MS de Sergio Lizárraga",
-  "followers": 17685124,
-  "monthlyListeners": 18350595,
+  "followers": 17689724,
+  "monthlyListeners": 18344195,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1822879,
+        "numberOfListeners": 1817920,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 994032,
+        "numberOfListeners": 993533,
         "region": "JAL"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 797238,
-        "region": "CMX"
-      },
-      {
-        "city": "Iztapalapa",
-        "country": "MX",
-        "numberOfListeners": 744597,
+        "numberOfListeners": 813267,
         "region": "CMX"
       },
       {
         "city": "Puebla City",
         "country": "MX",
-        "numberOfListeners": 734733,
+        "numberOfListeners": 727888,
         "region": "PUE"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 723393,
+        "region": "CMX"
       }
     ]
   },
-  "worldRank": 418
+  "worldRank": 416
 }

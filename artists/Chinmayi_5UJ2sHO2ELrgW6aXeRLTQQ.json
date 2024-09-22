@@ -1,41 +1,41 @@
 {
   "id": "5UJ2sHO2ELrgW6aXeRLTQQ",
   "name": "Chinmayi",
-  "followers": 3138852,
-  "monthlyListeners": 18189248,
+  "followers": 3143198,
+  "monthlyListeners": 18226723,
   "topCities": {
     "items": [
       {
         "city": "Chennai",
         "country": "IN",
-        "numberOfListeners": 2158216,
+        "numberOfListeners": 2156170,
         "region": "TN"
       },
       {
         "city": "Hyderabad",
         "country": "IN",
-        "numberOfListeners": 2004302,
+        "numberOfListeners": 2004396,
         "region": "TS"
       },
       {
         "city": "Mumbai",
         "country": "IN",
-        "numberOfListeners": 1352580,
+        "numberOfListeners": 1351850,
         "region": "MH"
       },
       {
         "city": "Bengaluru",
         "country": "IN",
-        "numberOfListeners": 1309988,
+        "numberOfListeners": 1312693,
         "region": "KA"
       },
       {
         "city": "Kochi",
         "country": "IN",
-        "numberOfListeners": 1120465,
+        "numberOfListeners": 1118412,
         "region": "KL"
       }
     ]
   },
-  "worldRank": 422
+  "worldRank": 419
 }

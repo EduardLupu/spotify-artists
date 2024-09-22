@@ -1,38 +1,38 @@
 {
   "id": "4a7E7K63Sc944CmiOgcxd8",
   "name": "Solid HarmoniE",
-  "followers": 6636,
-  "monthlyListeners": 34146,
+  "followers": 6643,
+  "monthlyListeners": 34181,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 4141,
+        "numberOfListeners": 4189,
         "region": "NH"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 2934,
+        "numberOfListeners": 2941,
         "region": "ZH"
       },
       {
         "city": "Utrecht",
         "country": "NL",
-        "numberOfListeners": 1634,
+        "numberOfListeners": 1613,
         "region": "UT"
       },
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 582,
+        "numberOfListeners": 592,
         "region": "AB"
       },
       {
         "city": "Amersfoort",
         "country": "NL",
-        "numberOfListeners": 537,
+        "numberOfListeners": 527,
         "region": "UT"
       }
     ]

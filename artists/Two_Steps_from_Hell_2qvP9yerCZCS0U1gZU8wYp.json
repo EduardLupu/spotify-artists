@@ -1,39 +1,39 @@
 {
   "id": "2qvP9yerCZCS0U1gZU8wYp",
   "name": "Two Steps from Hell",
-  "followers": 826542,
-  "monthlyListeners": 1989444,
+  "followers": 826692,
+  "monthlyListeners": 1986906,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 34436,
+        "numberOfListeners": 34433,
         "region": "IDF"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 28262,
+        "numberOfListeners": 28230,
         "region": "BE"
       },
       {
         "city": "Prague",
         "country": "CZ",
-        "numberOfListeners": 28094,
+        "numberOfListeners": 28059,
         "region": "10"
-      },
-      {
-        "city": "Frankfurt am Main",
-        "country": "DE",
-        "numberOfListeners": 21817,
-        "region": "HE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 21715,
+        "numberOfListeners": 21777,
         "region": "BY"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 21755,
+        "region": "HE"
       }
     ]
   },

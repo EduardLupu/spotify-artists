@@ -2,25 +2,25 @@
   "id": "5mCyKKJpgZfjRFuXPsoFm5",
   "name": "Dean",
   "followers": 671,
-  "monthlyListeners": 3224,
+  "monthlyListeners": 3181,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 51,
+        "numberOfListeners": 52,
         "region": "ENG"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 43,
+        "numberOfListeners": 42,
         "region": "NC"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 43,
+        "numberOfListeners": 41,
         "region": "L"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 32,
+        "numberOfListeners": 31,
         "region": "VIC"
       }
     ]

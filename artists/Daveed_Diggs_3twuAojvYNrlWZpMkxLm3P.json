@@ -1,38 +1,38 @@
 {
   "id": "3twuAojvYNrlWZpMkxLm3P",
   "name": "Daveed Diggs",
-  "followers": 122739,
-  "monthlyListeners": 4540955,
+  "followers": 122849,
+  "monthlyListeners": 4537844,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 92204,
+        "numberOfListeners": 91760,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 84572,
+        "numberOfListeners": 84479,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 67067,
+        "numberOfListeners": 67057,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 64892,
+        "numberOfListeners": 64707,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 61728,
+        "numberOfListeners": 62081,
         "region": "CA"
       }
     ]

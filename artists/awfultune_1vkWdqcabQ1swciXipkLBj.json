@@ -1,38 +1,38 @@
 {
   "id": "1vkWdqcabQ1swciXipkLBj",
   "name": "awfultune",
-  "followers": 371480,
-  "monthlyListeners": 1598583,
+  "followers": 371513,
+  "monthlyListeners": 1601306,
   "topCities": {
     "items": [
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 16299,
+        "numberOfListeners": 16439,
         "region": "14"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 12931,
+        "region": "10"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 12849,
+        "numberOfListeners": 12861,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 12808,
+        "numberOfListeners": 12859,
         "region": "CA"
-      },
-      {
-        "city": "Prague",
-        "country": "CZ",
-        "numberOfListeners": 12759,
-        "region": "10"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 12721,
+        "numberOfListeners": 12734,
         "region": "NSW"
       }
     ]

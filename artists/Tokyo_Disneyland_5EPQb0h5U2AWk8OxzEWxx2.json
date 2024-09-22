@@ -1,38 +1,38 @@
 {
   "id": "5EPQb0h5U2AWk8OxzEWxx2",
   "name": "Tokyo Disneyland",
-  "followers": 110036,
-  "monthlyListeners": 234020,
+  "followers": 110098,
+  "monthlyListeners": 234596,
   "topCities": {
     "items": [
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 74010,
+        "numberOfListeners": 74538,
         "region": "13"
       },
       {
         "city": "Osaka",
         "country": "JP",
-        "numberOfListeners": 18313,
+        "numberOfListeners": 18325,
         "region": "27"
       },
       {
         "city": "Roppongi",
         "country": "JP",
-        "numberOfListeners": 11163,
+        "numberOfListeners": 11172,
         "region": "13"
       },
       {
         "city": "Yokohama",
         "country": "JP",
-        "numberOfListeners": 8598,
+        "numberOfListeners": 8610,
         "region": "14"
       },
       {
         "city": "Nagoya",
         "country": "JP",
-        "numberOfListeners": 8206,
+        "numberOfListeners": 8225,
         "region": "23"
       }
     ]

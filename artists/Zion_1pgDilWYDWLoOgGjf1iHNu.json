@@ -1,38 +1,38 @@
 {
   "id": "1pgDilWYDWLoOgGjf1iHNu",
   "name": "Zion",
-  "followers": 4194645,
-  "monthlyListeners": 13084607,
+  "followers": 4195952,
+  "monthlyListeners": 13097788,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 946076,
+        "numberOfListeners": 942528,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 792413,
+        "numberOfListeners": 792572,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 485684,
+        "numberOfListeners": 486668,
         "region": "LMA"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 439468,
+        "numberOfListeners": 439949,
         "region": "ANT"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 403391,
+        "numberOfListeners": 402316,
         "region": "CMX"
       }
     ]

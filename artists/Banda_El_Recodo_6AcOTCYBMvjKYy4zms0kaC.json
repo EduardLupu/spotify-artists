@@ -1,38 +1,38 @@
 {
   "id": "6AcOTCYBMvjKYy4zms0kaC",
   "name": "Banda El Recodo",
-  "followers": 3913747,
-  "monthlyListeners": 8409490,
+  "followers": 3915505,
+  "monthlyListeners": 8408852,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 825431,
+        "numberOfListeners": 822647,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 514685,
+        "numberOfListeners": 514546,
         "region": "JAL"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 338558,
+        "numberOfListeners": 336564,
         "region": "QUE"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 329782,
+        "numberOfListeners": 336362,
         "region": "CMX"
       },
       {
         "city": "Zapopan",
         "country": "MX",
-        "numberOfListeners": 326324,
+        "numberOfListeners": 328252,
         "region": "JAL"
       }
     ]

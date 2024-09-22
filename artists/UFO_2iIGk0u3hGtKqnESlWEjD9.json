@@ -1,38 +1,38 @@
 {
   "id": "2iIGk0u3hGtKqnESlWEjD9",
   "name": "UFO",
-  "followers": 2011,
-  "monthlyListeners": 34835,
+  "followers": 2012,
+  "monthlyListeners": 34354,
   "topCities": {
     "items": [
       {
         "city": "Budapest",
         "country": "HU",
-        "numberOfListeners": 20608,
+        "numberOfListeners": 20314,
         "region": "BU"
       },
       {
         "city": "Bratislava",
         "country": "SK",
-        "numberOfListeners": 717,
+        "numberOfListeners": 700,
         "region": "BL"
       },
       {
         "city": "Győr",
         "country": "HU",
-        "numberOfListeners": 480,
+        "numberOfListeners": 467,
         "region": "GS"
       },
       {
         "city": "Debrecen",
         "country": "HU",
-        "numberOfListeners": 435,
+        "numberOfListeners": 436,
         "region": "HB"
       },
       {
         "city": "Szeged",
         "country": "HU",
-        "numberOfListeners": 405,
+        "numberOfListeners": 403,
         "region": "CS"
       }
     ]

@@ -2,13 +2,13 @@
   "id": "4w2h5rvX9iXZFjMsLRQOYE",
   "name": "Noriel",
   "followers": 1287,
-  "monthlyListeners": 1786,
+  "monthlyListeners": 1770,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 178,
+        "numberOfListeners": 175,
         "region": "DC"
       },
       {
@@ -18,16 +18,16 @@
         "region": "LMA"
       },
       {
-        "city": "Guatemala City",
-        "country": "GT",
-        "numberOfListeners": 66,
-        "region": "GU"
-      },
-      {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 65,
+        "numberOfListeners": 64,
         "region": "RM"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 64,
+        "region": "GU"
       },
       {
         "city": "Medellín",

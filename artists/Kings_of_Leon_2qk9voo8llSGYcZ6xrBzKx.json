@@ -1,41 +1,41 @@
 {
   "id": "2qk9voo8llSGYcZ6xrBzKx",
   "name": "Kings of Leon",
-  "followers": 5454250,
-  "monthlyListeners": 23866171,
+  "followers": 5455344,
+  "monthlyListeners": 23830326,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 582961,
+        "numberOfListeners": 580592,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 462221,
+        "numberOfListeners": 463349,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 402065,
+        "numberOfListeners": 402470,
         "region": "VIC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 358157,
+        "numberOfListeners": 356927,
         "region": "CMX"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 340285,
+        "numberOfListeners": 339357,
         "region": "SP"
       }
     ]
   },
-  "worldRank": 249
+  "worldRank": 248
 }

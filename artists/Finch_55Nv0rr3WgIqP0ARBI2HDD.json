@@ -2,37 +2,37 @@
   "id": "55Nv0rr3WgIqP0ARBI2HDD",
   "name": "Finch",
   "followers": 213,
-  "monthlyListeners": 1923,
+  "monthlyListeners": 1900,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 152,
+        "numberOfListeners": 150,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 109,
+        "numberOfListeners": 111,
         "region": "HH"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 88,
+        "numberOfListeners": 87,
         "region": "BY"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 76,
+        "numberOfListeners": 74,
         "region": "HE"
       },
       {
         "city": "Vienna",
         "country": "AT",
-        "numberOfListeners": 58,
+        "numberOfListeners": 60,
         "region": "9"
       }
     ]

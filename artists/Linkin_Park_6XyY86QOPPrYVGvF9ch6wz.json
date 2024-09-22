@@ -1,41 +1,41 @@
 {
   "id": "6XyY86QOPPrYVGvF9ch6wz",
   "name": "Linkin Park",
-  "followers": 26726794,
-  "monthlyListeners": 53916813,
+  "followers": 26748524,
+  "monthlyListeners": 54441631,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 1024440,
+        "numberOfListeners": 1033852,
         "region": "SP"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 856923,
+        "numberOfListeners": 869538,
         "region": "JK"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 743514,
+        "numberOfListeners": 750448,
         "region": "ENG"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 602766,
+        "numberOfListeners": 602715,
         "region": "RM"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 557851,
+        "numberOfListeners": 569096,
         "region": "BE"
       }
     ]
   },
-  "worldRank": 38
+  "worldRank": 37
 }

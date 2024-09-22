@@ -1,38 +1,38 @@
 {
   "id": "1LZEQNv7sE11VDY3SdxQeN",
   "name": "Bee Gees",
-  "followers": 8127789,
-  "monthlyListeners": 26166174,
+  "followers": 8131507,
+  "monthlyListeners": 26137725,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 451801,
+        "numberOfListeners": 451146,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 432608,
+        "numberOfListeners": 430652,
         "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 339140,
+        "numberOfListeners": 339189,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 303281,
+        "numberOfListeners": 303451,
         "region": "NSW"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 292664,
+        "numberOfListeners": 291672,
         "region": "JK"
       }
     ]

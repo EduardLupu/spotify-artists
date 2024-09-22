@@ -1,39 +1,39 @@
 {
   "id": "4gwpcMTbLWtBUlOijbVpuu",
   "name": "Capital Cities",
-  "followers": 922860,
-  "monthlyListeners": 10808875,
+  "followers": 923100,
+  "monthlyListeners": 10663289,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 247738,
+        "numberOfListeners": 245395,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 176982,
+        "numberOfListeners": 173485,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 150873,
+        "numberOfListeners": 149112,
         "region": "DC"
-      },
-      {
-        "city": "São Paulo",
-        "country": "BR",
-        "numberOfListeners": 120977,
-        "region": "SP"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 120565,
+        "numberOfListeners": 118892,
         "region": "LMA"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 118768,
+        "region": "SP"
       }
     ]
   },

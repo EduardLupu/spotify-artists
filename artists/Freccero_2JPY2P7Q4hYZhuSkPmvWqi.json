@@ -1,38 +1,38 @@
 {
   "id": "2JPY2P7Q4hYZhuSkPmvWqi",
   "name": "Freccero",
-  "followers": 1799,
-  "monthlyListeners": 23546,
+  "followers": 1800,
+  "monthlyListeners": 23441,
   "topCities": {
     "items": [
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 537,
+        "numberOfListeners": 541,
         "region": "AB"
-      },
-      {
-        "city": "Berlin",
-        "country": "DE",
-        "numberOfListeners": 299,
-        "region": "BE"
       },
       {
         "city": "Oslo",
         "country": "NO",
-        "numberOfListeners": 291,
+        "numberOfListeners": 301,
         "region": "03"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 295,
+        "region": "BE"
       },
       {
         "city": "Gothenburg",
         "country": "SE",
-        "numberOfListeners": 229,
+        "numberOfListeners": 223,
         "region": "O"
       },
       {
         "city": "Cairo",
         "country": "EG",
-        "numberOfListeners": 225,
+        "numberOfListeners": 219,
         "region": "C"
       }
     ]

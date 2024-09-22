@@ -1,41 +1,41 @@
 {
   "id": "5fMUXHkw8R8eOP2RNVYEZX",
   "name": "Diplo",
-  "followers": 2669658,
-  "monthlyListeners": 33562489,
+  "followers": 2670297,
+  "monthlyListeners": 33448744,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 500603,
+        "numberOfListeners": 500550,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 457846,
+        "numberOfListeners": 455234,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 388039,
+        "numberOfListeners": 387361,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 374442,
+        "numberOfListeners": 371386,
         "region": "IL"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 346847,
+        "numberOfListeners": 346256,
         "region": "QLD"
       }
     ]
   },
-  "worldRank": 122
+  "worldRank": 123
 }

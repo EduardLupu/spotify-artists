@@ -1,38 +1,38 @@
 {
   "id": "4DWX7u8BV0vZIQSpJQQDWU",
   "name": "Alter Bridge",
-  "followers": 1146485,
-  "monthlyListeners": 1683801,
+  "followers": 1146705,
+  "monthlyListeners": 1680806,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 38866,
+        "numberOfListeners": 38971,
         "region": "JK"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 30439,
+        "numberOfListeners": 30322,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 28271,
+        "numberOfListeners": 28179,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 22009,
+        "numberOfListeners": 21752,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 16529,
+        "numberOfListeners": 16535,
         "region": "NSW"
       }
     ]

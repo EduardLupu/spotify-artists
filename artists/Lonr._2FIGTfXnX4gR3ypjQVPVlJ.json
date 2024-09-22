@@ -1,38 +1,38 @@
 {
   "id": "2FIGTfXnX4gR3ypjQVPVlJ",
   "name": "Lonr.",
-  "followers": 37587,
-  "monthlyListeners": 175785,
+  "followers": 37591,
+  "monthlyListeners": 175443,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2786,
+        "numberOfListeners": 2775,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 2515,
+        "numberOfListeners": 2529,
         "region": "CA"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 2177,
+        "numberOfListeners": 2176,
         "region": "GA"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 1941,
+        "numberOfListeners": 1940,
         "region": "TX"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 1931,
+        "numberOfListeners": 1928,
         "region": "NY"
       }
     ]

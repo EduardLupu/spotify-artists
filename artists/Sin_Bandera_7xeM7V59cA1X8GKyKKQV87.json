@@ -1,38 +1,38 @@
 {
   "id": "7xeM7V59cA1X8GKyKKQV87",
   "name": "Sin Bandera",
-  "followers": 6189617,
-  "monthlyListeners": 10750246,
+  "followers": 6191883,
+  "monthlyListeners": 10770751,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 664808,
+        "numberOfListeners": 663598,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 525458,
+        "numberOfListeners": 521674,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 412275,
+        "numberOfListeners": 413509,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 378985,
+        "numberOfListeners": 379802,
         "region": "LMA"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 318553,
+        "numberOfListeners": 318758,
         "region": "JAL"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "4RuHLdmbr1G9BD5aN63Go3",
   "name": "VoicePlay",
-  "followers": 167582,
-  "monthlyListeners": 245776,
+  "followers": 167648,
+  "monthlyListeners": 245824,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2626,
+        "numberOfListeners": 2617,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 2439,
+        "numberOfListeners": 2436,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 2340,
+        "numberOfListeners": 2339,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 2271,
+        "numberOfListeners": 2258,
         "region": "VIC"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 2212,
+        "numberOfListeners": 2221,
         "region": "TX"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "5IiWXFMbz2luGGkdzSBNhJ",
   "name": "Eiffel",
-  "followers": 44862,
-  "monthlyListeners": 34055,
+  "followers": 44871,
+  "monthlyListeners": 33930,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 4833,
+        "numberOfListeners": 4832,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 1772,
+        "numberOfListeners": 1788,
         "region": "BRU"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 1126,
+        "numberOfListeners": 1131,
         "region": "ARA"
       },
       {
         "city": "Nantes",
         "country": "FR",
-        "numberOfListeners": 807,
+        "numberOfListeners": 809,
         "region": "PDL"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 643,
+        "numberOfListeners": 641,
         "region": "HDF"
       }
     ]

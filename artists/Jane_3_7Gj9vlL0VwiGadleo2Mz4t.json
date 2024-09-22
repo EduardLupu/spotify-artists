@@ -2,7 +2,7 @@
   "id": "7Gj9vlL0VwiGadleo2Mz4t",
   "name": "Jane 3",
   "followers": 235,
-  "monthlyListeners": 596,
+  "monthlyListeners": 598,
   "topCities": {
     "items": [
       {
@@ -24,10 +24,10 @@
         "region": "62"
       },
       {
-        "city": "New York City",
-        "country": "US",
+        "city": "Paris",
+        "country": "FR",
         "numberOfListeners": 3,
-        "region": "NY"
+        "region": "IDF"
       },
       {
         "city": "Cheyenne",

@@ -1,38 +1,38 @@
 {
   "id": "33ScadVnbm2X8kkUqOkC6Z",
   "name": "Don Omar",
-  "followers": 12519049,
-  "monthlyListeners": 36238875,
+  "followers": 12527181,
+  "monthlyListeners": 36231763,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1465541,
+        "numberOfListeners": 1463538,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 1305039,
+        "numberOfListeners": 1305891,
         "region": "DC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1136428,
+        "numberOfListeners": 1134249,
         "region": "CMX"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 775148,
+        "numberOfListeners": 775767,
         "region": "LMA"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 678634,
+        "numberOfListeners": 679563,
         "region": "ANT"
       }
     ]

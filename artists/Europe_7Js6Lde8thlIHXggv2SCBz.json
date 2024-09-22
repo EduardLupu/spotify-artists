@@ -1,38 +1,38 @@
 {
   "id": "7Js6Lde8thlIHXggv2SCBz",
   "name": "Europe",
-  "followers": 1625699,
-  "monthlyListeners": 6714539,
+  "followers": 1626732,
+  "monthlyListeners": 6697044,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 178482,
+        "numberOfListeners": 177139,
         "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 123819,
+        "numberOfListeners": 123629,
         "region": "SP"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 78071,
+        "numberOfListeners": 77702,
         "region": "CMX"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 75200,
+        "numberOfListeners": 75269,
         "region": "JK"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 70686,
+        "numberOfListeners": 70610,
         "region": "DC"
       }
     ]

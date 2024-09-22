@@ -1,39 +1,39 @@
 {
   "id": "4luZExkmgn39Kj5XsYWria",
   "name": "Jagwar Twin",
-  "followers": 246092,
-  "monthlyListeners": 3238415,
+  "followers": 246293,
+  "monthlyListeners": 3211554,
   "topCities": {
     "items": [
       {
         "city": "Prague",
         "country": "CZ",
-        "numberOfListeners": 29928,
+        "numberOfListeners": 29712,
         "region": "10"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 27155,
+        "numberOfListeners": 26875,
         "region": "NSW"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 24922,
+        "numberOfListeners": 24681,
         "region": "SP"
       },
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 23956,
+        "numberOfListeners": 23764,
         "region": "14"
       },
       {
-        "city": "Melbourne",
-        "country": "AU",
-        "numberOfListeners": 23688,
-        "region": "VIC"
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 23473,
+        "region": "ENG"
       }
     ]
   },

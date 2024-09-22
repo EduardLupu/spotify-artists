@@ -1,38 +1,38 @@
 {
   "id": "4gR74hM0I8WbQKZ8iZiJgj",
   "name": "Fart Man",
-  "followers": 4754,
-  "monthlyListeners": 93950,
+  "followers": 4767,
+  "monthlyListeners": 92868,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 2287,
+        "numberOfListeners": 2233,
         "region": "IDF"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 1942,
+        "numberOfListeners": 1926,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 1774,
+        "numberOfListeners": 1789,
         "region": "VIC"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 1323,
+        "numberOfListeners": 1302,
         "region": "QC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 1146,
+        "numberOfListeners": 1130,
         "region": "QLD"
       }
     ]

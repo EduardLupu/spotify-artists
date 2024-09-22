@@ -2,7 +2,7 @@
   "id": "3SoBj1HAmrPHlbXtWzhzQa",
   "name": "Snow",
   "followers": 35,
-  "monthlyListeners": 113,
+  "monthlyListeners": 114,
   "topCities": {
     "items": [
       {
@@ -14,26 +14,26 @@
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 3,
+        "numberOfListeners": 4,
         "region": "BE"
       },
       {
-        "city": "Madrid",
-        "country": "ES",
+        "city": "Toronto",
+        "country": "CA",
         "numberOfListeners": 2,
-        "region": "MD"
-      },
-      {
-        "city": "São Carlos",
-        "country": "BR",
-        "numberOfListeners": 2,
-        "region": "SP"
+        "region": "ON"
       },
       {
         "city": "Melbourne",
         "country": "AU",
         "numberOfListeners": 2,
         "region": "VIC"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 2,
+        "region": "MD"
       }
     ]
   },

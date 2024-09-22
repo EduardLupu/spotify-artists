@@ -1,38 +1,38 @@
 {
   "id": "3aiNFfqqHURbyhzN5tOdp9",
   "name": "BLANCO",
-  "followers": 11771,
-  "monthlyListeners": 71865,
+  "followers": 11794,
+  "monthlyListeners": 70244,
   "topCities": {
     "items": [
       {
         "city": "Bucharest",
         "country": "RO",
-        "numberOfListeners": 20220,
+        "numberOfListeners": 19703,
         "region": "B"
       },
       {
         "city": "Cluj-Napoca",
         "country": "RO",
-        "numberOfListeners": 5603,
+        "numberOfListeners": 5475,
         "region": "CJ"
       },
       {
         "city": "Timișoara",
         "country": "RO",
-        "numberOfListeners": 4767,
+        "numberOfListeners": 4735,
         "region": "TM"
       },
       {
         "city": "Iasi",
         "country": "RO",
-        "numberOfListeners": 4234,
+        "numberOfListeners": 4132,
         "region": "IS"
       },
       {
         "city": "Ploieşti",
         "country": "RO",
-        "numberOfListeners": 3491,
+        "numberOfListeners": 3488,
         "region": "PH"
       }
     ]

@@ -2,38 +2,38 @@
   "id": "6eGMw9QibBHQv8EspCYoYv",
   "name": "Cream",
   "followers": 808,
-  "monthlyListeners": 9842,
+  "monthlyListeners": 9816,
   "topCities": {
     "items": [
       {
         "city": "Bangkok",
         "country": "TH",
-        "numberOfListeners": 4235,
+        "numberOfListeners": 4243,
         "region": "10"
       },
       {
         "city": "Chiang Mai",
         "country": "TH",
-        "numberOfListeners": 283,
+        "numberOfListeners": 276,
         "region": "50"
       },
       {
         "city": "Phuket",
         "country": "TH",
-        "numberOfListeners": 143,
+        "numberOfListeners": 141,
         "region": "83"
       },
       {
         "city": "Nakhon Ratchasima",
         "country": "TH",
-        "numberOfListeners": 108,
+        "numberOfListeners": 110,
         "region": "30"
       },
       {
-        "city": "Hat Yai",
+        "city": "Khon Kaen",
         "country": "TH",
         "numberOfListeners": 105,
-        "region": "90"
+        "region": "40"
       }
     ]
   },

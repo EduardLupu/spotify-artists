@@ -1,38 +1,38 @@
 {
   "id": "0eVyjRhzZKke2KFYTcDkeu",
   "name": "The Alchemist",
-  "followers": 722710,
-  "monthlyListeners": 6745734,
+  "followers": 723575,
+  "monthlyListeners": 6718663,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 160148,
+        "numberOfListeners": 160059,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 118155,
+        "numberOfListeners": 117368,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 110231,
+        "numberOfListeners": 109715,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 103709,
+        "numberOfListeners": 104282,
         "region": "NY"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 79373,
+        "numberOfListeners": 78860,
         "region": "NY"
       }
     ]

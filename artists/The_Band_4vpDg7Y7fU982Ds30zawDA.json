@@ -1,38 +1,38 @@
 {
   "id": "4vpDg7Y7fU982Ds30zawDA",
   "name": "The Band",
-  "followers": 1128204,
-  "monthlyListeners": 3247737,
+  "followers": 1128581,
+  "monthlyListeners": 3253131,
   "topCities": {
     "items": [
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 55851,
+        "numberOfListeners": 56044,
         "region": "NY"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 55435,
+        "numberOfListeners": 55187,
         "region": "ON"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 50787,
+        "numberOfListeners": 50551,
         "region": "IL"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 42282,
+        "numberOfListeners": 42295,
         "region": "CO"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 40575,
+        "numberOfListeners": 40559,
         "region": "PA"
       }
     ]

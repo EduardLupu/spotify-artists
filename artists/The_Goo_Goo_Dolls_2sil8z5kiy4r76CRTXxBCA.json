@@ -1,41 +1,41 @@
 {
   "id": "2sil8z5kiy4r76CRTXxBCA",
   "name": "The Goo Goo Dolls",
-  "followers": 2896280,
-  "monthlyListeners": 24650486,
+  "followers": 2898107,
+  "monthlyListeners": 24693682,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 810366,
+        "numberOfListeners": 816224,
         "region": "JK"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 378524,
+        "numberOfListeners": 379639,
         "region": "NSW"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 331587,
+        "numberOfListeners": 332399,
         "region": "SP"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 329920,
+        "numberOfListeners": 330531,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 326953,
+        "numberOfListeners": 327246,
         "region": "ENG"
       }
     ]
   },
-  "worldRank": 234
+  "worldRank": 231
 }

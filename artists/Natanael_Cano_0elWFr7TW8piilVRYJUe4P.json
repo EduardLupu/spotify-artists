@@ -1,41 +1,41 @@
 {
   "id": "0elWFr7TW8piilVRYJUe4P",
   "name": "Natanael Cano",
-  "followers": 15170375,
-  "monthlyListeners": 23692238,
+  "followers": 15192281,
+  "monthlyListeners": 23709902,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 2418977,
+        "numberOfListeners": 2412736,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 1342525,
+        "numberOfListeners": 1341948,
         "region": "JAL"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 1253613,
+        "numberOfListeners": 1276629,
         "region": "CMX"
       },
       {
         "city": "Iztapalapa",
         "country": "MX",
-        "numberOfListeners": 1231627,
+        "numberOfListeners": 1200843,
         "region": "CMX"
       },
       {
         "city": "Cuauhtémoc",
         "country": "MX",
-        "numberOfListeners": 1023342,
+        "numberOfListeners": 1030736,
         "region": "CMX"
       }
     ]
   },
-  "worldRank": 255
+  "worldRank": 254
 }

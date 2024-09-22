@@ -1,38 +1,38 @@
 {
   "id": "4Z8W4fKeB5YxbusRsdQVPb",
   "name": "Radiohead",
-  "followers": 10509233,
-  "monthlyListeners": 29788696,
+  "followers": 10515976,
+  "monthlyListeners": 29808641,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 680281,
+        "numberOfListeners": 683938,
         "region": "JK"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 514621,
+        "numberOfListeners": 511942,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 477471,
+        "numberOfListeners": 477307,
         "region": "ENG"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 433605,
+        "numberOfListeners": 432126,
         "region": "CMX"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 332918,
+        "numberOfListeners": 332827,
         "region": "SP"
       }
     ]

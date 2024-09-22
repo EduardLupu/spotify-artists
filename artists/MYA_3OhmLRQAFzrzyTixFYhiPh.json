@@ -2,25 +2,25 @@
   "id": "3OhmLRQAFzrzyTixFYhiPh",
   "name": "MYA",
   "followers": 52,
-  "monthlyListeners": 1090,
+  "monthlyListeners": 1162,
   "topCities": {
     "items": [
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 121,
+        "numberOfListeners": 127,
         "region": "25"
       },
       {
         "city": "Naples",
         "country": "IT",
-        "numberOfListeners": 97,
+        "numberOfListeners": 106,
         "region": "72"
       },
       {
         "city": "Rome",
         "country": "IT",
-        "numberOfListeners": 93,
+        "numberOfListeners": 101,
         "region": "62"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Turin",
         "country": "IT",
-        "numberOfListeners": 34,
+        "numberOfListeners": 36,
         "region": "21"
       }
     ]

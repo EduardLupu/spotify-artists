@@ -1,39 +1,39 @@
 {
   "id": "2rhFzFmezpnW82MNqEKVry",
   "name": "Ski Mask The Slump God",
-  "followers": 5917566,
-  "monthlyListeners": 7911532,
+  "followers": 5918131,
+  "monthlyListeners": 7872634,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 139495,
+        "numberOfListeners": 138540,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 105170,
+        "numberOfListeners": 104535,
         "region": "CA"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 104967,
+        "numberOfListeners": 104435,
         "region": "TX"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 90513,
+        "numberOfListeners": 90308,
         "region": "AZ"
       },
       {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 90230,
-        "region": "NSW"
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 90129,
+        "region": "NY"
       }
     ]
   },

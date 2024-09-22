@@ -1,41 +1,41 @@
 {
   "id": "2QsynagSdAqZj3U9HgDzjD",
   "name": "Bob Marley & The Wailers",
-  "followers": 12657906,
-  "monthlyListeners": 25316048,
+  "followers": 12661361,
+  "monthlyListeners": 25265369,
   "topCities": {
     "items": [
       {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 443712,
-        "region": "ENG"
-      },
-      {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 442602,
+        "numberOfListeners": 442270,
         "region": "SP"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 441104,
+        "region": "ENG"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 334128,
+        "numberOfListeners": 333666,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 297027,
+        "numberOfListeners": 297219,
         "region": "NSW"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 295234,
+        "numberOfListeners": 296141,
         "region": "NH"
       }
     ]
   },
-  "worldRank": 220
+  "worldRank": 219
 }

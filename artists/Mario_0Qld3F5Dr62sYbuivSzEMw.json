@@ -1,38 +1,38 @@
 {
   "id": "0Qld3F5Dr62sYbuivSzEMw",
   "name": "Mario",
-  "followers": 80598,
-  "monthlyListeners": 126228,
+  "followers": 80682,
+  "monthlyListeners": 126213,
   "topCities": {
     "items": [
       {
         "city": "Budapest",
         "country": "HU",
-        "numberOfListeners": 80190,
+        "numberOfListeners": 80321,
         "region": "BU"
       },
       {
         "city": "Bratislava",
         "country": "SK",
-        "numberOfListeners": 3016,
+        "numberOfListeners": 3008,
         "region": "BL"
       },
       {
         "city": "Debrecen",
         "country": "HU",
-        "numberOfListeners": 2513,
+        "numberOfListeners": 2509,
         "region": "HB"
       },
       {
         "city": "Miskolc",
         "country": "HU",
-        "numberOfListeners": 2255,
+        "numberOfListeners": 2270,
         "region": "BZ"
       },
       {
         "city": "Győr",
         "country": "HU",
-        "numberOfListeners": 2113,
+        "numberOfListeners": 2145,
         "region": "GS"
       }
     ]

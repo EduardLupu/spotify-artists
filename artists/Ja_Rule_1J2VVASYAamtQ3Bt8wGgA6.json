@@ -1,38 +1,38 @@
 {
   "id": "1J2VVASYAamtQ3Bt8wGgA6",
   "name": "Ja Rule",
-  "followers": 1921014,
-  "monthlyListeners": 6933829,
+  "followers": 1921648,
+  "monthlyListeners": 6933555,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 299327,
+        "numberOfListeners": 298576,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 148356,
+        "numberOfListeners": 148620,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 138586,
+        "numberOfListeners": 138083,
         "region": "ENG"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 132598,
+        "numberOfListeners": 132060,
         "region": "RJ"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 100965,
+        "numberOfListeners": 101027,
         "region": "VIC"
       }
     ]

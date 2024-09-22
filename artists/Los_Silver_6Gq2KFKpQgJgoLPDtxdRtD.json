@@ -1,39 +1,39 @@
 {
   "id": "6Gq2KFKpQgJgoLPDtxdRtD",
   "name": "Los Silver",
-  "followers": 7673,
-  "monthlyListeners": 136192,
+  "followers": 7678,
+  "monthlyListeners": 139657,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 8007,
+        "numberOfListeners": 8235,
         "region": "CMX"
       },
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 7684,
+        "numberOfListeners": 7683,
         "region": "GU"
       },
       {
         "city": "Ciudad Juárez",
         "country": "MX",
-        "numberOfListeners": 7321,
+        "numberOfListeners": 7345,
         "region": "CHH"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 4364,
+        "numberOfListeners": 4454,
         "region": "JAL"
       },
       {
-        "city": "Puebla City",
-        "country": "MX",
-        "numberOfListeners": 4044,
-        "region": "PUE"
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 4160,
+        "region": "01"
       }
     ]
   },

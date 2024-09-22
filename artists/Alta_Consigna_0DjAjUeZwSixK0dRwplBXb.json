@@ -1,38 +1,38 @@
 {
   "id": "0DjAjUeZwSixK0dRwplBXb",
   "name": "Alta Consigna",
-  "followers": 2732175,
-  "monthlyListeners": 2840258,
+  "followers": 2732616,
+  "monthlyListeners": 2845916,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 214394,
+        "numberOfListeners": 213756,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 196495,
+        "numberOfListeners": 196595,
         "region": "JAL"
       },
       {
         "city": "Tijuana",
         "country": "MX",
-        "numberOfListeners": 125484,
+        "numberOfListeners": 125813,
         "region": "BCN"
       },
       {
         "city": "Zapopan",
         "country": "MX",
-        "numberOfListeners": 121351,
+        "numberOfListeners": 122007,
         "region": "JAL"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 105017,
+        "numberOfListeners": 104499,
         "region": "QUE"
       }
     ]

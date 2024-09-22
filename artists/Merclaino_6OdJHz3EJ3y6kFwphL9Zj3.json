@@ -2,15 +2,9 @@
   "id": "6OdJHz3EJ3y6kFwphL9Zj3",
   "name": "Merclaino",
   "followers": 25,
-  "monthlyListeners": 35,
+  "monthlyListeners": 36,
   "topCities": {
     "items": [
-      {
-        "city": "Los Angeles",
-        "country": "US",
-        "numberOfListeners": 3,
-        "region": "CA"
-      },
       {
         "city": "Brisbane",
         "country": "AU",
@@ -18,10 +12,10 @@
         "region": "QLD"
       },
       {
-        "city": "Chicago",
+        "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 2,
-        "region": "IL"
+        "numberOfListeners": 3,
+        "region": "CA"
       },
       {
         "city": "Melbourne",
@@ -30,10 +24,16 @@
         "region": "VIC"
       },
       {
-        "city": "Curitiba",
-        "country": "BR",
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "IL"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
         "numberOfListeners": 1,
-        "region": "PR"
+        "region": "NH"
       }
     ]
   },

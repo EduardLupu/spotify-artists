@@ -1,26 +1,26 @@
 {
   "id": "5wd2VuNxYv2rZ3z6qY0Wvx",
   "name": "Bïa",
-  "followers": 13157,
-  "monthlyListeners": 175682,
+  "followers": 13161,
+  "monthlyListeners": 174808,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 4408,
+        "numberOfListeners": 4399,
         "region": "IDF"
       },
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 4105,
+        "numberOfListeners": 4099,
         "region": "34"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 3086,
+        "numberOfListeners": 3064,
         "region": "NH"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Lisbon",
         "country": "PT",
-        "numberOfListeners": 2684,
+        "numberOfListeners": 2649,
         "region": "11"
       }
     ]

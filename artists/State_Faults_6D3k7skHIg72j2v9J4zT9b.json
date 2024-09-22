@@ -1,38 +1,38 @@
 {
   "id": "6D3k7skHIg72j2v9J4zT9b",
   "name": "State Faults",
-  "followers": 19611,
-  "monthlyListeners": 34024,
+  "followers": 19624,
+  "monthlyListeners": 33817,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 598,
+        "numberOfListeners": 587,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 565,
+        "numberOfListeners": 561,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 457,
+        "numberOfListeners": 458,
         "region": "NY"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 429,
+        "numberOfListeners": 421,
         "region": "PA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 413,
+        "numberOfListeners": 409,
         "region": "ENG"
       }
     ]

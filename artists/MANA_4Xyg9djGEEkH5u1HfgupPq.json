@@ -1,39 +1,39 @@
 {
   "id": "4Xyg9djGEEkH5u1HfgupPq",
   "name": "MANA",
-  "followers": 257,
-  "monthlyListeners": 3492,
+  "followers": 258,
+  "monthlyListeners": 3624,
   "topCities": {
     "items": [
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 205,
+        "numberOfListeners": 211,
         "region": "18"
       },
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 71,
+        "numberOfListeners": 72,
         "region": "AB"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 47,
+        "region": "BY"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 45,
+        "numberOfListeners": 46,
         "region": "HE"
       },
       {
         "city": "Gothenburg",
         "country": "SE",
-        "numberOfListeners": 44,
+        "numberOfListeners": 45,
         "region": "O"
-      },
-      {
-        "city": "Munich",
-        "country": "DE",
-        "numberOfListeners": 44,
-        "region": "BY"
       }
     ]
   },

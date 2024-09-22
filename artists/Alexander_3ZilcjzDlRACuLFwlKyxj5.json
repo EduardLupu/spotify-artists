@@ -2,37 +2,37 @@
   "id": "3ZilcjzDlRACuLFwlKyxj5",
   "name": "Alexander",
   "followers": 103,
-  "monthlyListeners": 601,
+  "monthlyListeners": 600,
   "topCities": {
     "items": [
       {
         "city": "Copenhagen",
         "country": "DK",
-        "numberOfListeners": 107,
+        "numberOfListeners": 108,
         "region": "84"
       },
       {
         "city": "Frederiksberg",
         "country": "DK",
-        "numberOfListeners": 51,
+        "numberOfListeners": 50,
         "region": "84"
       },
       {
         "city": "Aalborg",
         "country": "DK",
-        "numberOfListeners": 13,
+        "numberOfListeners": 12,
         "region": "81"
       },
       {
         "city": "Aarhus",
         "country": "DK",
-        "numberOfListeners": 11,
+        "numberOfListeners": 10,
         "region": "82"
       },
       {
-        "city": "Rødovre Municipality",
+        "city": "Brønshøj",
         "country": "DK",
-        "numberOfListeners": 10,
+        "numberOfListeners": 9,
         "region": "84"
       }
     ]

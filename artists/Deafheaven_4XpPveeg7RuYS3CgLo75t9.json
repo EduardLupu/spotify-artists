@@ -1,38 +1,38 @@
 {
   "id": "4XpPveeg7RuYS3CgLo75t9",
   "name": "Deafheaven",
-  "followers": 245184,
-  "monthlyListeners": 143875,
+  "followers": 245226,
+  "monthlyListeners": 143546,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 2270,
+        "numberOfListeners": 2249,
         "region": "CA"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 2174,
+        "numberOfListeners": 2165,
         "region": "JK"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2053,
+        "numberOfListeners": 2037,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 2006,
+        "numberOfListeners": 1980,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 1841,
+        "numberOfListeners": 1843,
         "region": "NY"
       }
     ]

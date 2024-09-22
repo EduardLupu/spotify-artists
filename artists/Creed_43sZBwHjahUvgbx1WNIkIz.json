@@ -1,38 +1,38 @@
 {
   "id": "43sZBwHjahUvgbx1WNIkIz",
   "name": "Creed",
-  "followers": 3490770,
-  "monthlyListeners": 10632374,
+  "followers": 3492851,
+  "monthlyListeners": 10641969,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 281388,
+        "numberOfListeners": 281920,
         "region": "SP"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 156646,
+        "numberOfListeners": 156001,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 142972,
+        "numberOfListeners": 143111,
         "region": "NSW"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 134125,
+        "numberOfListeners": 135531,
         "region": "JK"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 131025,
+        "numberOfListeners": 131219,
         "region": "TX"
       }
     ]

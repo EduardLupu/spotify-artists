@@ -1,41 +1,41 @@
 {
   "id": "6tzRZ39aZlNqlUzQlkuhDV",
   "name": "Pabllo Vittar",
-  "followers": 4282649,
-  "monthlyListeners": 21129518,
+  "followers": 4283218,
+  "monthlyListeners": 20954532,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 812358,
+        "numberOfListeners": 809248,
         "region": "SP"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 372523,
+        "numberOfListeners": 371499,
         "region": "JK"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 351563,
+        "numberOfListeners": 351545,
         "region": "RJ"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 343804,
+        "numberOfListeners": 345571,
         "region": "IDF"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 214391,
+        "numberOfListeners": 214288,
         "region": "MG"
       }
     ]
   },
-  "worldRank": 336
+  "worldRank": 337
 }

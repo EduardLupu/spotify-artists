@@ -1,38 +1,38 @@
 {
   "id": "2dNnJIEECfh07bv1jwmfTL",
   "name": "Emma Volard",
-  "followers": 1944,
-  "monthlyListeners": 3787,
+  "followers": 1949,
+  "monthlyListeners": 3686,
   "topCities": {
     "items": [
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 376,
+        "numberOfListeners": 378,
         "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 202,
+        "numberOfListeners": 198,
         "region": "NSW"
       },
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 180,
+        "numberOfListeners": 190,
         "region": "13"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 78,
+        "numberOfListeners": 79,
         "region": "QLD"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 62,
+        "numberOfListeners": 57,
         "region": "RM"
       }
     ]

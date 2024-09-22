@@ -1,14 +1,14 @@
 {
   "id": "5KvSxVTQGfLPgoE75mYwHb",
   "name": "Nelly",
-  "followers": 28,
-  "monthlyListeners": 366,
+  "followers": 29,
+  "monthlyListeners": 363,
   "topCities": {
     "items": [
       {
         "city": "Cotonou",
         "country": "BJ",
-        "numberOfListeners": 143,
+        "numberOfListeners": 142,
         "region": "LI"
       },
       {
@@ -26,14 +26,14 @@
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 13,
+        "numberOfListeners": 12,
         "region": "QC"
       },
       {
-        "city": "Frankfurt am Main",
-        "country": "DE",
-        "numberOfListeners": 6,
-        "region": "HE"
+        "city": "Rennes",
+        "country": "FR",
+        "numberOfListeners": 5,
+        "region": "BRE"
       }
     ]
   },

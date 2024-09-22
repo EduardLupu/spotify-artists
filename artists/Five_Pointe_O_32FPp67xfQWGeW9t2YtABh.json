@@ -1,38 +1,38 @@
 {
   "id": "32FPp67xfQWGeW9t2YtABh",
   "name": "Five Pointe O",
-  "followers": 23311,
-  "monthlyListeners": 32742,
+  "followers": 23323,
+  "monthlyListeners": 33267,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 690,
+        "numberOfListeners": 689,
         "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 547,
+        "numberOfListeners": 568,
         "region": "SP"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 409,
+        "numberOfListeners": 404,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 341,
+        "numberOfListeners": 349,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 336,
+        "numberOfListeners": 347,
         "region": "VIC"
       }
     ]

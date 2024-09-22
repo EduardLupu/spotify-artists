@@ -1,38 +1,38 @@
 {
   "id": "4gzpq5DPGxSnKTe4SA8HAU",
   "name": "Coldplay",
-  "followers": 53364619,
-  "monthlyListeners": 87657766,
+  "followers": 53398367,
+  "monthlyListeners": 87336970,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 2584385,
+        "numberOfListeners": 2599237,
         "region": "JK"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1296079,
+        "numberOfListeners": 1286560,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 1260659,
+        "numberOfListeners": 1257736,
         "region": "SP"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1035570,
+        "numberOfListeners": 1029517,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 986015,
+        "numberOfListeners": 981221,
         "region": "RM"
       }
     ]

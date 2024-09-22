@@ -1,38 +1,38 @@
 {
   "id": "5UloVKzUNJcjORzhhTWWiJ",
   "name": "The Karaoke Channel",
-  "followers": 26559,
-  "monthlyListeners": 82792,
+  "followers": 26562,
+  "monthlyListeners": 82751,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1182,
+        "numberOfListeners": 1173,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 948,
+        "numberOfListeners": 947,
         "region": "NSW"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 945,
+        "numberOfListeners": 939,
         "region": "SP"
       },
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 782,
+        "numberOfListeners": 794,
         "region": "25"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 766,
+        "numberOfListeners": 764,
         "region": "VIC"
       }
     ]

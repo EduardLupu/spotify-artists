@@ -1,38 +1,38 @@
 {
   "id": "2cnMpRsOVqtPMfq7YiFE6K",
   "name": "Van Halen",
-  "followers": 6181271,
-  "monthlyListeners": 11702257,
+  "followers": 6183364,
+  "monthlyListeners": 11676930,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 195672,
+        "numberOfListeners": 195405,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 160396,
+        "numberOfListeners": 159001,
         "region": "RM"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 133427,
+        "numberOfListeners": 132426,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 121552,
+        "numberOfListeners": 121551,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 113298,
+        "numberOfListeners": 113228,
         "region": "VIC"
       }
     ]

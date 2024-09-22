@@ -1,38 +1,38 @@
 {
   "id": "4kVFTOhE7ZpxPBVGcbT45h",
   "name": "Aitana",
-  "followers": 25,
-  "monthlyListeners": 18209,
+  "followers": 28,
+  "monthlyListeners": 20709,
   "topCities": {
     "items": [
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 2766,
+        "numberOfListeners": 2862,
         "region": "MD"
       },
       {
         "city": "Barcelona",
         "country": "ES",
-        "numberOfListeners": 1359,
+        "numberOfListeners": 1402,
         "region": "CT"
       },
       {
         "city": "Valencia",
         "country": "ES",
-        "numberOfListeners": 512,
+        "numberOfListeners": 533,
         "region": "VC"
       },
       {
         "city": "Seville",
         "country": "ES",
-        "numberOfListeners": 348,
+        "numberOfListeners": 370,
         "region": "AN"
       },
       {
         "city": "Málaga",
         "country": "ES",
-        "numberOfListeners": 286,
+        "numberOfListeners": 304,
         "region": "AN"
       }
     ]

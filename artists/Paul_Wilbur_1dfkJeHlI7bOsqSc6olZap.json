@@ -1,38 +1,38 @@
 {
   "id": "1dfkJeHlI7bOsqSc6olZap",
   "name": "Paul Wilbur",
-  "followers": 171191,
-  "monthlyListeners": 344021,
+  "followers": 171251,
+  "monthlyListeners": 343217,
   "topCities": {
     "items": [
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 9604,
+        "numberOfListeners": 9204,
         "region": "GU"
       },
       {
         "city": "Lagos",
         "country": "NG",
-        "numberOfListeners": 8445,
+        "numberOfListeners": 8482,
         "region": "LA"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 7701,
+        "numberOfListeners": 7647,
         "region": "RM"
       },
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 7183,
+        "numberOfListeners": 7237,
         "region": "00"
       },
       {
         "city": "Davao City",
         "country": "PH",
-        "numberOfListeners": 5350,
+        "numberOfListeners": 5351,
         "region": "11"
       }
     ]

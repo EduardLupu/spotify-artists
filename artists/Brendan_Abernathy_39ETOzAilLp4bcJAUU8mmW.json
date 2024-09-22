@@ -1,38 +1,38 @@
 {
   "id": "39ETOzAilLp4bcJAUU8mmW",
   "name": "Brendan Abernathy",
-  "followers": 7906,
-  "monthlyListeners": 17019,
+  "followers": 7909,
+  "monthlyListeners": 16781,
   "topCities": {
     "items": [
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 392,
+        "numberOfListeners": 387,
         "region": "WA"
       },
       {
         "city": "Portland",
         "country": "US",
-        "numberOfListeners": 378,
+        "numberOfListeners": 369,
         "region": "OR"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 348,
+        "numberOfListeners": 344,
         "region": "CO"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 285,
+        "numberOfListeners": 280,
         "region": "NC"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 283,
+        "numberOfListeners": 279,
         "region": "GA"
       }
     ]

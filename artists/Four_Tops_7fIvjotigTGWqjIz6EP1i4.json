@@ -1,39 +1,39 @@
 {
   "id": "7fIvjotigTGWqjIz6EP1i4",
   "name": "Four Tops",
-  "followers": 1145179,
-  "monthlyListeners": 5551539,
+  "followers": 1145547,
+  "monthlyListeners": 5495367,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 120978,
+        "numberOfListeners": 119623,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 85262,
+        "numberOfListeners": 84214,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 72366,
+        "numberOfListeners": 71449,
         "region": "VIC"
-      },
-      {
-        "city": "Brisbane",
-        "country": "AU",
-        "numberOfListeners": 60817,
-        "region": "QLD"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 60576,
+        "numberOfListeners": 60133,
         "region": "CA"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 60023,
+        "region": "QLD"
       }
     ]
   },

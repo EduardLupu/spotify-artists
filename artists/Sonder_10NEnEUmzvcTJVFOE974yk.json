@@ -2,13 +2,13 @@
   "id": "10NEnEUmzvcTJVFOE974yk",
   "name": "Sonder",
   "followers": 76,
-  "monthlyListeners": 43,
+  "monthlyListeners": 45,
   "topCities": {
     "items": [
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 35,
+        "numberOfListeners": 36,
         "region": "LMA"
       },
       {
@@ -18,22 +18,22 @@
         "region": "CUS"
       },
       {
-        "city": "Dallas",
-        "country": "US",
+        "city": "Arequipa",
+        "country": "PE",
         "numberOfListeners": 1,
-        "region": "TX"
+        "region": "ARE"
       },
       {
-        "city": "Tacoma",
-        "country": "US",
+        "city": "Marbella",
+        "country": "ES",
         "numberOfListeners": 1,
-        "region": "WA"
+        "region": "AN"
       },
       {
-        "city": "Bogotá",
-        "country": "CO",
+        "city": "Madrid",
+        "country": "ES",
         "numberOfListeners": 1,
-        "region": "DC"
+        "region": "MD"
       }
     ]
   },

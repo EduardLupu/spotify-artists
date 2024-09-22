@@ -1,38 +1,38 @@
 {
   "id": "0A97olVepqtH6CCUoSaGEl",
   "name": "Evildead",
-  "followers": 41776,
-  "monthlyListeners": 13390,
+  "followers": 41783,
+  "monthlyListeners": 13253,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 420,
+        "numberOfListeners": 408,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 362,
+        "numberOfListeners": 361,
         "region": "DC"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 238,
+        "numberOfListeners": 237,
         "region": "SP"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 211,
+        "numberOfListeners": 206,
         "region": "CA"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 149,
+        "numberOfListeners": 144,
         "region": "CMX"
       }
     ]

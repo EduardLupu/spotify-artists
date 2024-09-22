@@ -1,38 +1,38 @@
 {
   "id": "0HlRzJcjY69mM3nW2Xvrzi",
   "name": "N8NOFACE",
-  "followers": 32371,
-  "monthlyListeners": 63288,
+  "followers": 32381,
+  "monthlyListeners": 62812,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 3014,
+        "numberOfListeners": 2995,
         "region": "CA"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 1232,
+        "numberOfListeners": 1215,
         "region": "AZ"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 1083,
+        "numberOfListeners": 1085,
         "region": "IL"
       },
       {
         "city": "Portland",
         "country": "US",
-        "numberOfListeners": 977,
+        "numberOfListeners": 940,
         "region": "OR"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 914,
+        "numberOfListeners": 899,
         "region": "WA"
       }
     ]

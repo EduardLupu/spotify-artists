@@ -1,38 +1,38 @@
 {
   "id": "7wCjDgV6nqBsHguQXPAaIM",
   "name": "Waylon Jennings",
-  "followers": 1498009,
-  "monthlyListeners": 5064431,
+  "followers": 1498449,
+  "monthlyListeners": 5065057,
   "topCities": {
     "items": [
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 82548,
+        "numberOfListeners": 82522,
         "region": "TX"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 78223,
+        "numberOfListeners": 77816,
         "region": "IL"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 73214,
+        "numberOfListeners": 73223,
         "region": "CO"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 67995,
+        "numberOfListeners": 68084,
         "region": "NC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 67066,
+        "numberOfListeners": 67044,
         "region": "NSW"
       }
     ]

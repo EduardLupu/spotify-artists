@@ -1,38 +1,38 @@
 {
   "id": "1n2pb9Tsfe4SwAjmUac6YT",
   "name": "Jake Owen",
-  "followers": 1916511,
-  "monthlyListeners": 5879862,
+  "followers": 1916893,
+  "monthlyListeners": 5832187,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 122640,
+        "numberOfListeners": 121238,
         "region": "IL"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 98850,
+        "numberOfListeners": 98136,
         "region": "NC"
-      },
-      {
-        "city": "Toronto",
-        "country": "CA",
-        "numberOfListeners": 88599,
-        "region": "ON"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 88291,
+        "numberOfListeners": 88156,
         "region": "NSW"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 87388,
+        "region": "ON"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 87418,
+        "numberOfListeners": 86619,
         "region": "TX"
       }
     ]

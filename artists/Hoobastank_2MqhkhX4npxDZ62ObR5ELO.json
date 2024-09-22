@@ -1,38 +1,38 @@
 {
   "id": "2MqhkhX4npxDZ62ObR5ELO",
   "name": "Hoobastank",
-  "followers": 2538537,
-  "monthlyListeners": 9562394,
+  "followers": 2539175,
+  "monthlyListeners": 9524902,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 324277,
+        "numberOfListeners": 325765,
         "region": "JK"
-      },
-      {
-        "city": "Santiago",
-        "country": "CL",
-        "numberOfListeners": 168503,
-        "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 168294,
+        "numberOfListeners": 167057,
         "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 166144,
+        "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 149090,
+        "numberOfListeners": 148061,
         "region": "SP"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 118062,
+        "numberOfListeners": 117709,
         "region": "LMA"
       }
     ]

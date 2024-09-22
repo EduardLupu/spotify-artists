@@ -1,41 +1,41 @@
 {
   "id": "3nFkdlSjzX9mRTtwJOzDYB",
   "name": "JAY-Z",
-  "followers": 9419798,
-  "monthlyListeners": 35845265,
+  "followers": 9422518,
+  "monthlyListeners": 35812918,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 685428,
+        "numberOfListeners": 684174,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 513484,
+        "numberOfListeners": 513637,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 438765,
+        "numberOfListeners": 438605,
         "region": "VIC"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 410824,
+        "numberOfListeners": 411849,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 404170,
+        "numberOfListeners": 401923,
         "region": "IL"
       }
     ]
   },
-  "worldRank": 106
+  "worldRank": 107
 }

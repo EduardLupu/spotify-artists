@@ -1,41 +1,41 @@
 {
   "id": "2HPaUgqeutzr3jx5a9WyDV",
   "name": "PARTYNEXTDOOR",
-  "followers": 7093401,
-  "monthlyListeners": 17691124,
+  "followers": 7099513,
+  "monthlyListeners": 17707886,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 422646,
+        "numberOfListeners": 422794,
         "region": "ENG"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 305407,
+        "numberOfListeners": 305411,
         "region": "ON"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 294309,
+        "numberOfListeners": 294139,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 258260,
+        "numberOfListeners": 260205,
         "region": "NY"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 255340,
+        "numberOfListeners": 255354,
         "region": "NSW"
       }
     ]
   },
-  "worldRank": 445
+  "worldRank": 443
 }

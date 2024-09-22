@@ -1,38 +1,38 @@
 {
   "id": "3jc496ljiyrS3ECrD7QiqL",
   "name": "Gipsy Kings",
-  "followers": 937076,
-  "monthlyListeners": 5872478,
+  "followers": 937503,
+  "monthlyListeners": 5853411,
   "topCities": {
     "items": [
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 183825,
+        "numberOfListeners": 183958,
         "region": "MD"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 147644,
+        "numberOfListeners": 147191,
         "region": "RM"
       },
       {
         "city": "Barcelona",
         "country": "ES",
-        "numberOfListeners": 120576,
+        "numberOfListeners": 119974,
         "region": "CT"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 91022,
+        "numberOfListeners": 90394,
         "region": "CMX"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 79138,
+        "numberOfListeners": 78812,
         "region": "IDF"
       }
     ]

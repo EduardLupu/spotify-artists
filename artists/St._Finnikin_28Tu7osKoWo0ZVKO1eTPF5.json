@@ -1,39 +1,39 @@
 {
   "id": "28Tu7osKoWo0ZVKO1eTPF5",
   "name": "St. Finnikin",
-  "followers": 45783,
-  "monthlyListeners": 62735,
+  "followers": 45812,
+  "monthlyListeners": 62378,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 994,
+        "numberOfListeners": 989,
         "region": "NSW"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 950,
+        "numberOfListeners": 941,
         "region": "CO"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 872,
+        "numberOfListeners": 864,
         "region": "CA"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 808,
+        "numberOfListeners": 800,
         "region": "WA"
       },
       {
-        "city": "Melbourne",
+        "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 728,
-        "region": "VIC"
+        "numberOfListeners": 722,
+        "region": "QLD"
       }
     ]
   },

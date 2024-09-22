@@ -1,38 +1,38 @@
 {
   "id": "6Q3K7PUZAHsakbAYei9fTi",
   "name": "Tomáš Botló",
-  "followers": 9030,
-  "monthlyListeners": 20700,
+  "followers": 9032,
+  "monthlyListeners": 20690,
   "topCities": {
     "items": [
       {
         "city": "Bratislava",
         "country": "SK",
-        "numberOfListeners": 8158,
+        "numberOfListeners": 8188,
         "region": "BL"
       },
       {
         "city": "Prague",
         "country": "CZ",
-        "numberOfListeners": 5026,
+        "numberOfListeners": 5013,
         "region": "10"
       },
       {
         "city": "Košice",
         "country": "SK",
-        "numberOfListeners": 548,
+        "numberOfListeners": 542,
         "region": "KI"
       },
       {
         "city": "Brno",
         "country": "CZ",
-        "numberOfListeners": 410,
+        "numberOfListeners": 411,
         "region": "64"
       },
       {
         "city": "Ostrava",
         "country": "CZ",
-        "numberOfListeners": 265,
+        "numberOfListeners": 260,
         "region": "80"
       }
     ]

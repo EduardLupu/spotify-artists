@@ -1,38 +1,38 @@
 {
   "id": "46G3SVc0bvgrmNOOTM5KV5",
   "name": "Thunderstorm Artis",
-  "followers": 33455,
-  "monthlyListeners": 173610,
+  "followers": 33466,
+  "monthlyListeners": 172228,
   "topCities": {
     "items": [
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 2249,
+        "numberOfListeners": 2241,
         "region": "AB"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 2173,
+        "numberOfListeners": 2155,
         "region": "QC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 1862,
+        "numberOfListeners": 1840,
         "region": "NSW"
       },
       {
         "city": "Oslo",
         "country": "NO",
-        "numberOfListeners": 1815,
+        "numberOfListeners": 1809,
         "region": "03"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1610,
+        "numberOfListeners": 1604,
         "region": "ENG"
       }
     ]

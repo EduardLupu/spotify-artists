@@ -1,38 +1,38 @@
 {
   "id": "53U1IJqr6Hhmn53UcbgF7D",
   "name": "Gary Portnoy",
-  "followers": 3091,
-  "monthlyListeners": 94066,
+  "followers": 3095,
+  "monthlyListeners": 93854,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 1316,
+        "numberOfListeners": 1326,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1298,
+        "numberOfListeners": 1288,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 1291,
+        "numberOfListeners": 1276,
         "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 1222,
+        "numberOfListeners": 1227,
         "region": "VIC"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 1130,
+        "numberOfListeners": 1122,
         "region": "NY"
       }
     ]

@@ -1,26 +1,26 @@
 {
   "id": "5rHkxoIKYyoCRpwLYEFcTz",
   "name": "Intense",
-  "followers": 489,
-  "monthlyListeners": 28761,
+  "followers": 491,
+  "monthlyListeners": 28807,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 590,
+        "numberOfListeners": 593,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 366,
+        "numberOfListeners": 365,
         "region": "CA"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 343,
+        "numberOfListeners": 341,
         "region": "VIC"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 321,
+        "numberOfListeners": 314,
         "region": "IL"
       }
     ]

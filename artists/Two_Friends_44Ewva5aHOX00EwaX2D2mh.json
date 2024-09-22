@@ -1,38 +1,38 @@
 {
   "id": "44Ewva5aHOX00EwaX2D2mh",
   "name": "Two Friends",
-  "followers": 226632,
-  "monthlyListeners": 1824081,
+  "followers": 226811,
+  "monthlyListeners": 1816698,
   "topCities": {
     "items": [
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 41017,
+        "numberOfListeners": 40957,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 35018,
+        "numberOfListeners": 34824,
         "region": "IL"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 27515,
+        "numberOfListeners": 27179,
         "region": "NY"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 26512,
+        "numberOfListeners": 26337,
         "region": "ON"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 23318,
+        "numberOfListeners": 23281,
         "region": "NSW"
       }
     ]

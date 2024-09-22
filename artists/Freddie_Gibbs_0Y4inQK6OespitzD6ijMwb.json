@@ -1,38 +1,38 @@
 {
   "id": "0Y4inQK6OespitzD6ijMwb",
   "name": "Freddie Gibbs",
-  "followers": 1303590,
-  "monthlyListeners": 3027149,
+  "followers": 1303845,
+  "monthlyListeners": 3026503,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 67525,
+        "numberOfListeners": 67514,
         "region": "CA"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 55046,
+        "numberOfListeners": 55254,
         "region": "SP"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 52765,
+        "numberOfListeners": 52877,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 51824,
+        "numberOfListeners": 51827,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 47513,
+        "numberOfListeners": 47682,
         "region": "NY"
       }
     ]

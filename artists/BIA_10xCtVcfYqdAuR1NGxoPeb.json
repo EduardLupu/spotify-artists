@@ -1,14 +1,14 @@
 {
   "id": "10xCtVcfYqdAuR1NGxoPeb",
   "name": "BIA",
-  "followers": 2573,
-  "monthlyListeners": 894,
+  "followers": 2572,
+  "monthlyListeners": 893,
   "topCities": {
     "items": [
       {
         "city": "Bucharest",
         "country": "RO",
-        "numberOfListeners": 77,
+        "numberOfListeners": 76,
         "region": "B"
       },
       {
@@ -20,20 +20,20 @@
       {
         "city": "Iasi",
         "country": "RO",
-        "numberOfListeners": 21,
+        "numberOfListeners": 20,
         "region": "IS"
       },
       {
         "city": "Timișoara",
         "country": "RO",
-        "numberOfListeners": 18,
+        "numberOfListeners": 17,
         "region": "TM"
       },
       {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 15,
-        "region": "ENG"
+        "city": "Chisinau",
+        "country": "MD",
+        "numberOfListeners": 16,
+        "region": "CU"
       }
     ]
   },

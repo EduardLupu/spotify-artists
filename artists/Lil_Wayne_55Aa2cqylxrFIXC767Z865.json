@@ -1,41 +1,41 @@
 {
   "id": "55Aa2cqylxrFIXC767Z865",
   "name": "Lil Wayne",
-  "followers": 15215876,
-  "monthlyListeners": 36893715,
+  "followers": 15223124,
+  "monthlyListeners": 36809719,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 573521,
+        "numberOfListeners": 569861,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 516847,
+        "numberOfListeners": 514625,
         "region": "CA"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 473982,
+        "numberOfListeners": 472946,
         "region": "TX"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 471799,
+        "numberOfListeners": 470496,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 459015,
+        "numberOfListeners": 459507,
         "region": "NY"
       }
     ]
   },
-  "worldRank": 95
+  "worldRank": 97
 }

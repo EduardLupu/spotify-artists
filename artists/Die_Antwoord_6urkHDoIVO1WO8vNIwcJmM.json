@@ -1,38 +1,38 @@
 {
   "id": "6urkHDoIVO1WO8vNIwcJmM",
   "name": "Die Antwoord",
-  "followers": 1749990,
-  "monthlyListeners": 1597862,
+  "followers": 1750261,
+  "monthlyListeners": 1591315,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 33203,
+        "numberOfListeners": 33063,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 32342,
+        "numberOfListeners": 32010,
         "region": "RM"
       },
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 22767,
+        "numberOfListeners": 22708,
         "region": "14"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 17493,
+        "numberOfListeners": 17459,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 16689,
+        "numberOfListeners": 16597,
         "region": "ENG"
       }
     ]

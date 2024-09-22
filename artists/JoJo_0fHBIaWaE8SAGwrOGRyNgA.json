@@ -2,37 +2,37 @@
   "id": "0fHBIaWaE8SAGwrOGRyNgA",
   "name": "JoJo",
   "followers": 384,
-  "monthlyListeners": 1329,
+  "monthlyListeners": 1335,
   "topCities": {
     "items": [
       {
-        "city": "Amsterdam",
-        "country": "NL",
-        "numberOfListeners": 391,
-        "region": "NH"
-      },
-      {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 390,
+        "numberOfListeners": 394,
         "region": "ZH"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 394,
+        "region": "NH"
       },
       {
         "city": "Utrecht",
         "country": "NL",
-        "numberOfListeners": 105,
+        "numberOfListeners": 108,
         "region": "UT"
       },
       {
         "city": "Tilburg",
         "country": "NL",
-        "numberOfListeners": 73,
+        "numberOfListeners": 76,
         "region": "NB"
       },
       {
         "city": "The Hague",
         "country": "NL",
-        "numberOfListeners": 44,
+        "numberOfListeners": 47,
         "region": "ZH"
       }
     ]

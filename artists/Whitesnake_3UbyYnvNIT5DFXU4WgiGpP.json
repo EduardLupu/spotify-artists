@@ -1,38 +1,38 @@
 {
   "id": "3UbyYnvNIT5DFXU4WgiGpP",
   "name": "Whitesnake",
-  "followers": 3020620,
-  "monthlyListeners": 4959224,
+  "followers": 3021510,
+  "monthlyListeners": 4956848,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 127603,
+        "numberOfListeners": 127688,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 122229,
+        "numberOfListeners": 121210,
         "region": "RM"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 60745,
+        "numberOfListeners": 60633,
         "region": "C"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 55244,
+        "numberOfListeners": 55326,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 54746,
+        "numberOfListeners": 54468,
         "region": "ENG"
       }
     ]

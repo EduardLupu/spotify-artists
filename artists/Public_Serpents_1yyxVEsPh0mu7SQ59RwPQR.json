@@ -1,21 +1,15 @@
 {
   "id": "1yyxVEsPh0mu7SQ59RwPQR",
   "name": "Public Serpents",
-  "followers": 5097,
-  "monthlyListeners": 4152,
+  "followers": 5100,
+  "monthlyListeners": 3878,
   "topCities": {
     "items": [
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 101,
+        "numberOfListeners": 99,
         "region": "QC"
-      },
-      {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 72,
-        "region": "IL"
       },
       {
         "city": "Los Angeles",
@@ -24,16 +18,22 @@
         "region": "CA"
       },
       {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 70,
+        "region": "IL"
+      },
+      {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 61,
+        "numberOfListeners": 57,
         "region": "PA"
       },
       {
-        "city": "Berlin",
-        "country": "DE",
-        "numberOfListeners": 57,
-        "region": "BE"
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 54,
+        "region": "AZ"
       }
     ]
   },

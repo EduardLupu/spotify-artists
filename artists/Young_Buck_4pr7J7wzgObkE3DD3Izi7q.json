@@ -1,38 +1,38 @@
 {
   "id": "4pr7J7wzgObkE3DD3Izi7q",
   "name": "Young Buck",
-  "followers": 1033567,
-  "monthlyListeners": 792747,
+  "followers": 1033690,
+  "monthlyListeners": 787584,
   "topCities": {
     "items": [
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 12295,
+        "numberOfListeners": 12141,
         "region": "TX"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 12147,
+        "numberOfListeners": 11991,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 11862,
+        "numberOfListeners": 11753,
         "region": "CA"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 11077,
+        "numberOfListeners": 10940,
         "region": "TX"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 9666,
+        "numberOfListeners": 9612,
         "region": "AZ"
       }
     ]

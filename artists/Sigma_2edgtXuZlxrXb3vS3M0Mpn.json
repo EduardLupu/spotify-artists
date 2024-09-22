@@ -2,13 +2,13 @@
   "id": "2edgtXuZlxrXb3vS3M0Mpn",
   "name": "Sigma",
   "followers": 134,
-  "monthlyListeners": 338,
+  "monthlyListeners": 348,
   "topCities": {
     "items": [
       {
         "city": "Taipei",
         "country": "TW",
-        "numberOfListeners": 68,
+        "numberOfListeners": 69,
         "region": "TPE"
       },
       {
@@ -18,21 +18,21 @@
         "region": "NWT"
       },
       {
-        "city": "Taichung",
-        "country": "TW",
-        "numberOfListeners": 22,
-        "region": "TXG"
-      },
-      {
         "city": "Kaohsiung",
         "country": "TW",
         "numberOfListeners": 21,
         "region": "KHH"
       },
       {
+        "city": "Taichung",
+        "country": "TW",
+        "numberOfListeners": 21,
+        "region": "TXG"
+      },
+      {
         "city": "Taoyuan District",
         "country": "TW",
-        "numberOfListeners": 16,
+        "numberOfListeners": 17,
         "region": "TAO"
       }
     ]

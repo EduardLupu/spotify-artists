@@ -1,39 +1,39 @@
 {
   "id": "63GIj2yhFvX1Bzphb9JgVb",
   "name": "Fenix Flexin",
-  "followers": 136662,
-  "monthlyListeners": 3585808,
+  "followers": 136743,
+  "monthlyListeners": 3541528,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 144475,
+        "numberOfListeners": 143120,
         "region": "CA"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 74827,
+        "numberOfListeners": 74465,
         "region": "AZ"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 68043,
+        "numberOfListeners": 67007,
         "region": "IL"
       },
       {
         "city": "Sacramento",
         "country": "US",
-        "numberOfListeners": 65534,
+        "numberOfListeners": 64490,
         "region": "CA"
       },
       {
-        "city": "Dallas",
+        "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 59133,
-        "region": "TX"
+        "numberOfListeners": 58413,
+        "region": "WA"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "2Fg4p216PH5hvVZWbWCguK",
   "name": "The Crabb Family",
-  "followers": 59016,
-  "monthlyListeners": 37426,
+  "followers": 59026,
+  "monthlyListeners": 37348,
   "topCities": {
     "items": [
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 1610,
+        "numberOfListeners": 1607,
         "region": "NC"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 1133,
+        "numberOfListeners": 1137,
         "region": "GA"
       },
       {
         "city": "Nashville",
         "country": "US",
-        "numberOfListeners": 752,
+        "numberOfListeners": 767,
         "region": "TN"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 679,
+        "numberOfListeners": 678,
         "region": "TX"
       },
       {
         "city": "Indianapolis",
         "country": "US",
-        "numberOfListeners": 592,
+        "numberOfListeners": 588,
         "region": "IN"
       }
     ]

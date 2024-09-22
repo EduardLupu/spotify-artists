@@ -2,13 +2,13 @@
   "id": "7qU9WHZrFToSaQq9pCDbmM",
   "name": "OMI",
   "followers": 429,
-  "monthlyListeners": 181,
+  "monthlyListeners": 180,
   "topCities": {
     "items": [
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 26,
+        "numberOfListeners": 25,
         "region": "13"
       },
       {
@@ -18,16 +18,16 @@
         "region": "23"
       },
       {
-        "city": "Kobe",
-        "country": "JP",
-        "numberOfListeners": 4,
-        "region": "28"
-      },
-      {
         "city": "Osaka",
         "country": "JP",
         "numberOfListeners": 4,
         "region": "27"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 3,
+        "region": ""
       },
       {
         "city": "Yokohama",

@@ -18,16 +18,16 @@
         "region": "ON"
       },
       {
-        "city": "South Burlington",
-        "country": "US",
-        "numberOfListeners": 1,
-        "region": "VT"
-      },
-      {
         "city": "Riverside",
         "country": "US",
         "numberOfListeners": 1,
         "region": "CA"
+      },
+      {
+        "city": "South Burlington",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "VT"
       },
       {
         "city": "Hamilton",

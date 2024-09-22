@@ -1,38 +1,38 @@
 {
   "id": "05qMOtzCy90GhGIvelpvaF",
   "name": "Guiller",
-  "followers": 39077,
-  "monthlyListeners": 86070,
+  "followers": 39096,
+  "monthlyListeners": 86134,
   "topCities": {
     "items": [
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 40339,
+        "numberOfListeners": 40222,
         "region": "LMA"
       },
       {
         "city": "Trujillo",
         "country": "PE",
-        "numberOfListeners": 5181,
+        "numberOfListeners": 5159,
         "region": "LAL"
       },
       {
         "city": "Arequipa",
         "country": "PE",
-        "numberOfListeners": 4954,
+        "numberOfListeners": 5012,
         "region": "ARE"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 3409,
+        "numberOfListeners": 3402,
         "region": "RM"
       },
       {
         "city": "Chiclayo",
         "country": "PE",
-        "numberOfListeners": 1974,
+        "numberOfListeners": 1967,
         "region": "LAM"
       }
     ]

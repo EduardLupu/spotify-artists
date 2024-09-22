@@ -1,38 +1,38 @@
 {
   "id": "4Y6VI2Mfdhvb1RImggzOiY",
   "name": "Los Aldeanos",
-  "followers": 233097,
-  "monthlyListeners": 130167,
+  "followers": 233134,
+  "monthlyListeners": 129986,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 23413,
+        "numberOfListeners": 23364,
         "region": "DC"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 13404,
+        "numberOfListeners": 13407,
         "region": "ANT"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 7921,
+        "numberOfListeners": 7835,
         "region": "RM"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 4526,
+        "numberOfListeners": 4519,
         "region": "LMA"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 4345,
+        "numberOfListeners": 4318,
         "region": "CMX"
       }
     ]

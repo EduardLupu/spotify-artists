@@ -1,38 +1,38 @@
 {
   "id": "6ELAHXutcbgmM3v0Bg2nei",
   "name": "Los Legendarios",
-  "followers": 331209,
-  "monthlyListeners": 386233,
+  "followers": 331392,
+  "monthlyListeners": 386751,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 181449,
+        "numberOfListeners": 181711,
         "region": "DC"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 87030,
+        "numberOfListeners": 87340,
         "region": "ANT"
       },
       {
         "city": "Santiago de Cali",
         "country": "CO",
-        "numberOfListeners": 31927,
+        "numberOfListeners": 31918,
         "region": "VAC"
       },
       {
         "city": "Barranquilla",
         "country": "CO",
-        "numberOfListeners": 11925,
+        "numberOfListeners": 11969,
         "region": "ATL"
       },
       {
         "city": "Pereira",
         "country": "CO",
-        "numberOfListeners": 5449,
+        "numberOfListeners": 5532,
         "region": "RIS"
       }
     ]

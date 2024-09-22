@@ -1,38 +1,38 @@
 {
   "id": "7Bve7xtrpHJaFvwn4XIJV1",
   "name": "Jesslee",
-  "followers": 7802,
-  "monthlyListeners": 52413,
+  "followers": 7812,
+  "monthlyListeners": 52405,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 1054,
+        "numberOfListeners": 1048,
         "region": "NSW"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 1024,
+        "numberOfListeners": 1010,
         "region": "QLD"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 734,
+        "numberOfListeners": 742,
         "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 664,
+        "numberOfListeners": 661,
         "region": "VIC"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 661,
+        "numberOfListeners": 658,
         "region": "WA"
       }
     ]

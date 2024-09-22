@@ -1,38 +1,38 @@
 {
   "id": "3K8cGxW088HVyhFSGWJJcX",
   "name": "Mree",
-  "followers": 59864,
-  "monthlyListeners": 168225,
+  "followers": 59875,
+  "monthlyListeners": 168360,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 3002,
+        "numberOfListeners": 3013,
         "region": "JK"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 1748,
+        "numberOfListeners": 1756,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 1663,
+        "numberOfListeners": 1666,
         "region": "VIC"
       },
       {
         "city": "Singapore",
         "country": "SG",
-        "numberOfListeners": 1500,
+        "numberOfListeners": 1483,
         "region": ""
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1489,
+        "numberOfListeners": 1470,
         "region": "ENG"
       }
     ]

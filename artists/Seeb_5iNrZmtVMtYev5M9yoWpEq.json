@@ -1,38 +1,38 @@
 {
   "id": "5iNrZmtVMtYev5M9yoWpEq",
   "name": "Seeb",
-  "followers": 362464,
-  "monthlyListeners": 10609418,
+  "followers": 362478,
+  "monthlyListeners": 10495754,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 134630,
+        "numberOfListeners": 133894,
         "region": "NSW"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 133881,
+        "numberOfListeners": 132185,
         "region": "CMX"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 112652,
+        "numberOfListeners": 110911,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 110689,
+        "numberOfListeners": 108657,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 110604,
+        "numberOfListeners": 108537,
         "region": "RM"
       }
     ]

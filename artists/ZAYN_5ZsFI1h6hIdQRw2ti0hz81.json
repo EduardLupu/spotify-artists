@@ -1,41 +1,41 @@
 {
   "id": "5ZsFI1h6hIdQRw2ti0hz81",
   "name": "ZAYN",
-  "followers": 23199136,
-  "monthlyListeners": 26316008,
+  "followers": 23201915,
+  "monthlyListeners": 26406312,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 748769,
+        "numberOfListeners": 752992,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 358251,
+        "numberOfListeners": 360074,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 285172,
+        "numberOfListeners": 285892,
         "region": "NSW"
       },
       {
         "city": "Kuala Lumpur",
         "country": "MY",
-        "numberOfListeners": 256542,
+        "numberOfListeners": 257390,
         "region": "14"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 250151,
+        "numberOfListeners": 251036,
         "region": "ENG"
       }
     ]
   },
-  "worldRank": 198
+  "worldRank": 196
 }

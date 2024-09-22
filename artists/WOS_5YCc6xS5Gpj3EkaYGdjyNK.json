@@ -1,38 +1,38 @@
 {
   "id": "5YCc6xS5Gpj3EkaYGdjyNK",
   "name": "WOS",
-  "followers": 4482501,
-  "monthlyListeners": 4236604,
+  "followers": 4483309,
+  "monthlyListeners": 4235071,
   "topCities": {
     "items": [
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 545334,
+        "numberOfListeners": 544655,
         "region": "C"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 261775,
+        "numberOfListeners": 262149,
         "region": "B"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 171762,
+        "numberOfListeners": 170421,
         "region": "RM"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 137302,
+        "numberOfListeners": 137447,
         "region": "LMA"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 129153,
+        "numberOfListeners": 128907,
         "region": "CMX"
       }
     ]

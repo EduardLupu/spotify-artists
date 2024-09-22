@@ -1,38 +1,38 @@
 {
   "id": "41ESHLayJ5sDKjAOv6cMhe",
   "name": "Ana Gabriel",
-  "followers": 4503269,
-  "monthlyListeners": 9652750,
+  "followers": 4507034,
+  "monthlyListeners": 9657546,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 651727,
+        "numberOfListeners": 649624,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 447607,
+        "numberOfListeners": 447048,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 373503,
+        "numberOfListeners": 373815,
         "region": "DC"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 346233,
+        "numberOfListeners": 346050,
         "region": "JAL"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 274582,
+        "numberOfListeners": 278184,
         "region": "CMX"
       }
     ]

@@ -1,26 +1,26 @@
 {
   "id": "34rxpBkWcggm9Tbq0cPJIz",
   "name": "Nacho",
-  "followers": 304,
-  "monthlyListeners": 14240,
+  "followers": 305,
+  "monthlyListeners": 14333,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 2225,
+        "numberOfListeners": 2267,
         "region": "IDF"
       },
       {
         "city": "Bordeaux",
         "country": "FR",
-        "numberOfListeners": 303,
+        "numberOfListeners": 305,
         "region": "NAQ"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 277,
+        "numberOfListeners": 283,
         "region": "HDF"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 256,
+        "numberOfListeners": 254,
         "region": "ARA"
       }
     ]

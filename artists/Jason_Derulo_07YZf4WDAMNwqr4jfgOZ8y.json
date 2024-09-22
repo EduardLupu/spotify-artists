@@ -1,41 +1,41 @@
 {
   "id": "07YZf4WDAMNwqr4jfgOZ8y",
   "name": "Jason Derulo",
-  "followers": 12180007,
-  "monthlyListeners": 31114635,
+  "followers": 12181867,
+  "monthlyListeners": 31014207,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 439133,
+        "numberOfListeners": 439082,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 436975,
+        "numberOfListeners": 434422,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 364196,
+        "numberOfListeners": 363521,
         "region": "VIC"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 320665,
+        "numberOfListeners": 321061,
         "region": "JK"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 293332,
+        "numberOfListeners": 292954,
         "region": "QLD"
       }
     ]
   },
-  "worldRank": 143
+  "worldRank": 145
 }

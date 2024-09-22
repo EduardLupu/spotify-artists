@@ -1,38 +1,38 @@
 {
   "id": "0t5qZrvVCo9YIUT87SQrTn",
   "name": "OJ Da Juiceman",
-  "followers": 363633,
-  "monthlyListeners": 120079,
+  "followers": 363641,
+  "monthlyListeners": 119883,
   "topCities": {
     "items": [
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 4602,
+        "numberOfListeners": 4607,
         "region": "GA"
-      },
-      {
-        "city": "Dallas",
-        "country": "US",
-        "numberOfListeners": 3734,
-        "region": "TX"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 3715,
+        "numberOfListeners": 3729,
         "region": "NC"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 3722,
+        "region": "TX"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 3386,
+        "numberOfListeners": 3336,
         "region": "IL"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 2339,
+        "numberOfListeners": 2343,
         "region": "TX"
       }
     ]

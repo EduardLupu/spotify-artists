@@ -1,38 +1,38 @@
 {
   "id": "3hOdow4ZPmrby7Q1wfPLEy",
   "name": "Aries",
-  "followers": 345413,
-  "monthlyListeners": 672338,
+  "followers": 345396,
+  "monthlyListeners": 671073,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 11050,
+        "numberOfListeners": 10970,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 9490,
+        "numberOfListeners": 9484,
         "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 9445,
+        "numberOfListeners": 9383,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 9256,
+        "numberOfListeners": 9205,
         "region": "NY"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 8764,
+        "numberOfListeners": 8747,
         "region": "ENG"
       }
     ]

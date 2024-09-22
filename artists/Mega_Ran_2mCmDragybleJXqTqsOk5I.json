@@ -1,38 +1,38 @@
 {
   "id": "2mCmDragybleJXqTqsOk5I",
   "name": "Mega Ran",
-  "followers": 34395,
-  "monthlyListeners": 95756,
+  "followers": 34411,
+  "monthlyListeners": 95914,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 1252,
+        "numberOfListeners": 1251,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 989,
+        "numberOfListeners": 985,
         "region": "CA"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 973,
+        "numberOfListeners": 972,
         "region": "WA"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 907,
+        "numberOfListeners": 887,
         "region": "PA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 865,
+        "numberOfListeners": 870,
         "region": "NSW"
       }
     ]

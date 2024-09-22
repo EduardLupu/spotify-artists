@@ -1,38 +1,38 @@
 {
   "id": "0ONHkAv9pCAFxb0zJwDNTy",
   "name": "Pusha T",
-  "followers": 2961300,
-  "monthlyListeners": 4990019,
+  "followers": 2961489,
+  "monthlyListeners": 5001628,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 75941,
+        "numberOfListeners": 75655,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 69889,
+        "numberOfListeners": 69979,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 68552,
+        "numberOfListeners": 68531,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 67798,
+        "numberOfListeners": 68329,
         "region": "NY"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 65024,
+        "numberOfListeners": 65017,
         "region": "ON"
       }
     ]

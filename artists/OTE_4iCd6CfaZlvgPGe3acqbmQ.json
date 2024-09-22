@@ -1,38 +1,38 @@
 {
   "id": "4iCd6CfaZlvgPGe3acqbmQ",
   "name": "OTE",
-  "followers": 5161,
-  "monthlyListeners": 82336,
+  "followers": 5162,
+  "monthlyListeners": 82233,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 923,
+        "numberOfListeners": 913,
         "region": "ENG"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 879,
+        "numberOfListeners": 880,
         "region": "BE"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 861,
+        "numberOfListeners": 879,
         "region": "IDF"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 777,
+        "numberOfListeners": 789,
         "region": "NSW"
       },
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 772,
+        "numberOfListeners": 769,
         "region": "14"
       }
     ]

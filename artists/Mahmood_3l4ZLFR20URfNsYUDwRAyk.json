@@ -1,0 +1,41 @@
+{
+  "id": "3l4ZLFR20URfNsYUDwRAyk",
+  "name": "Mahmood",
+  "followers": 129,
+  "monthlyListeners": 906,
+  "topCities": {
+    "items": [
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 84,
+        "region": "MH"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 67,
+        "region": "DL"
+      },
+      {
+        "city": "Delhi",
+        "country": "IN",
+        "numberOfListeners": 60,
+        "region": "DL"
+      },
+      {
+        "city": "Pune",
+        "country": "IN",
+        "numberOfListeners": 53,
+        "region": "MH"
+      },
+      {
+        "city": "Jaipur",
+        "country": "IN",
+        "numberOfListeners": 40,
+        "region": "RJ"
+      }
+    ]
+  },
+  "worldRank": 0
+}

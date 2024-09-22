@@ -1,38 +1,38 @@
 {
   "id": "3MyFDtqB80WZvbtCZRsekM",
   "name": "Bakermat",
-  "followers": 444227,
-  "monthlyListeners": 11673098,
+  "followers": 444388,
+  "monthlyListeners": 11602331,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 254274,
+        "numberOfListeners": 252253,
         "region": "IDF"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 196877,
+        "numberOfListeners": 197496,
         "region": "NH"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 177611,
+        "numberOfListeners": 176063,
         "region": "ENG"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 164890,
+        "numberOfListeners": 163531,
         "region": "BE"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 149009,
+        "numberOfListeners": 148943,
         "region": "NSW"
       }
     ]

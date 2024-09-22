@@ -1,39 +1,39 @@
 {
   "id": "57ylwQTnFnIhJh4nu4rxCs",
   "name": "In Flames",
-  "followers": 1202982,
-  "monthlyListeners": 2173810,
+  "followers": 1203311,
+  "monthlyListeners": 2206460,
   "topCities": {
     "items": [
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 73156,
+        "numberOfListeners": 74346,
         "region": "18"
       },
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 61219,
+        "numberOfListeners": 62783,
         "region": "AB"
       },
       {
         "city": "Gothenburg",
         "country": "SE",
-        "numberOfListeners": 30936,
+        "numberOfListeners": 31820,
         "region": "O"
-      },
-      {
-        "city": "Santiago",
-        "country": "CL",
-        "numberOfListeners": 25057,
-        "region": "RM"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 24977,
+        "numberOfListeners": 25398,
         "region": "BE"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 24960,
+        "region": "03"
       }
     ]
   },

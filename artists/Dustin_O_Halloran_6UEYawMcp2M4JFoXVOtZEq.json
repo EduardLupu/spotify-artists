@@ -1,38 +1,38 @@
 {
   "id": "6UEYawMcp2M4JFoXVOtZEq",
   "name": "Dustin O'Halloran",
-  "followers": 178629,
-  "monthlyListeners": 754940,
+  "followers": 178658,
+  "monthlyListeners": 754733,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 12048,
+        "numberOfListeners": 12063,
         "region": "ENG"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 9826,
+        "numberOfListeners": 9891,
         "region": "IDF"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 9351,
+        "numberOfListeners": 9421,
         "region": "NH"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 9244,
+        "numberOfListeners": 9225,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 8651,
+        "numberOfListeners": 8611,
         "region": "VIC"
       }
     ]

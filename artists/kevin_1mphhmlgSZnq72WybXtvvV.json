@@ -2,13 +2,13 @@
   "id": "1mphhmlgSZnq72WybXtvvV",
   "name": "kevin",
   "followers": 68,
-  "monthlyListeners": 711,
+  "monthlyListeners": 702,
   "topCities": {
     "items": [
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 13,
+        "numberOfListeners": 14,
         "region": "GA"
       },
       {
@@ -30,10 +30,10 @@
         "region": "NY"
       },
       {
-        "city": "Toronto",
-        "country": "CA",
+        "city": "Melbourne",
+        "country": "AU",
         "numberOfListeners": 10,
-        "region": "ON"
+        "region": "VIC"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "4WnAHZz1pgl8hus8hidIRV",
   "name": "MHD",
-  "followers": 2438854,
-  "monthlyListeners": 3322938,
+  "followers": 2439575,
+  "monthlyListeners": 3324652,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 366990,
+        "numberOfListeners": 368131,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 113307,
+        "numberOfListeners": 113871,
         "region": "BRU"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 87572,
+        "numberOfListeners": 88427,
         "region": "NH"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 69795,
+        "numberOfListeners": 69784,
         "region": "ZH"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 68227,
+        "numberOfListeners": 68069,
         "region": "ARA"
       }
     ]

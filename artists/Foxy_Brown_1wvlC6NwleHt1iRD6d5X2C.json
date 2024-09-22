@@ -1,38 +1,38 @@
 {
   "id": "1wvlC6NwleHt1iRD6d5X2C",
   "name": "Foxy Brown",
-  "followers": 711463,
-  "monthlyListeners": 836486,
+  "followers": 711581,
+  "monthlyListeners": 842248,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 23666,
+        "numberOfListeners": 23869,
         "region": "ENG"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 13895,
+        "numberOfListeners": 13917,
         "region": "NY"
       },
       {
         "city": "Johannesburg",
         "country": "ZA",
-        "numberOfListeners": 12828,
+        "numberOfListeners": 12959,
         "region": "GP"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 12056,
+        "numberOfListeners": 12180,
         "region": "NY"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 12013,
+        "numberOfListeners": 12115,
         "region": "ON"
       }
     ]

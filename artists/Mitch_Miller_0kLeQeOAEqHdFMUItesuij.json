@@ -1,20 +1,20 @@
 {
   "id": "0kLeQeOAEqHdFMUItesuij",
   "name": "Mitch Miller",
-  "followers": 7485,
-  "monthlyListeners": 47867,
+  "followers": 7488,
+  "monthlyListeners": 47594,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 904,
+        "numberOfListeners": 890,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 849,
+        "numberOfListeners": 839,
         "region": "NSW"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 538,
+        "numberOfListeners": 529,
         "region": "QLD"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 509,
+        "numberOfListeners": 511,
         "region": "NH"
       }
     ]

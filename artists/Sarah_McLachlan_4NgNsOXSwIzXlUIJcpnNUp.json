@@ -1,38 +1,38 @@
 {
   "id": "4NgNsOXSwIzXlUIJcpnNUp",
   "name": "Sarah McLachlan",
-  "followers": 896779,
-  "monthlyListeners": 2469471,
+  "followers": 896955,
+  "monthlyListeners": 2467249,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 47484,
+        "numberOfListeners": 47631,
         "region": "JK"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 43300,
+        "numberOfListeners": 43241,
         "region": "NSW"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 38371,
+        "numberOfListeners": 38266,
         "region": "ON"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 37944,
+        "numberOfListeners": 37843,
         "region": "VIC"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 36070,
+        "numberOfListeners": 36190,
         "region": "QC"
       }
     ]

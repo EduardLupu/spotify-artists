@@ -1,39 +1,39 @@
 {
   "id": "7gU9VyFRN3JWPJ5oHOil60",
   "name": "Tayc",
-  "followers": 2890665,
-  "monthlyListeners": 7263248,
+  "followers": 2893788,
+  "monthlyListeners": 7235349,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 691870,
+        "numberOfListeners": 692513,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 189459,
+        "numberOfListeners": 190123,
         "region": "BRU"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 131347,
+        "numberOfListeners": 130905,
         "region": "ARA"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 117943,
+        "numberOfListeners": 118605,
         "region": "NH"
       },
       {
-        "city": "Mumbai",
-        "country": "IN",
-        "numberOfListeners": 111080,
-        "region": "MH"
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 110867,
+        "region": "QC"
       }
     ]
   },

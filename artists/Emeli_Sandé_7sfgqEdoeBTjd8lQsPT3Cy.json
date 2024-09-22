@@ -1,38 +1,38 @@
 {
   "id": "7sfgqEdoeBTjd8lQsPT3Cy",
   "name": "Emeli Sandé",
-  "followers": 2165547,
-  "monthlyListeners": 2596109,
+  "followers": 2165635,
+  "monthlyListeners": 2602359,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 92340,
+        "numberOfListeners": 92281,
         "region": "ENG"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 50890,
+        "numberOfListeners": 51439,
         "region": "NH"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 39153,
+        "numberOfListeners": 39159,
         "region": "NSW"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 38309,
+        "numberOfListeners": 38559,
         "region": "L"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 36717,
+        "numberOfListeners": 36819,
         "region": "ZH"
       }
     ]

@@ -1,41 +1,41 @@
 {
   "id": "6vXTefBL93Dj5IqAWq6OTv",
   "name": "French Montana",
-  "followers": 5512588,
-  "monthlyListeners": 23921992,
+  "followers": 5513686,
+  "monthlyListeners": 23808672,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 359005,
+        "numberOfListeners": 356465,
         "region": "ENG"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 324542,
+        "numberOfListeners": 324199,
         "region": "JK"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 300359,
+        "numberOfListeners": 299493,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 237788,
+        "numberOfListeners": 236870,
         "region": "VIC"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 233789,
+        "numberOfListeners": 232791,
         "region": "ON"
       }
     ]
   },
-  "worldRank": 246
+  "worldRank": 250
 }

@@ -1,38 +1,38 @@
 {
   "id": "4AcHt3JxKy59IX7JNNlZn4",
   "name": "Fitz and The Tantrums",
-  "followers": 936524,
-  "monthlyListeners": 10023231,
+  "followers": 936851,
+  "monthlyListeners": 9989199,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 130215,
+        "numberOfListeners": 128826,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 114650,
+        "numberOfListeners": 114569,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 105910,
+        "numberOfListeners": 106100,
         "region": "NSW"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 95036,
+        "numberOfListeners": 94870,
         "region": "NY"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 92916,
+        "numberOfListeners": 92332,
         "region": "ENG"
       }
     ]

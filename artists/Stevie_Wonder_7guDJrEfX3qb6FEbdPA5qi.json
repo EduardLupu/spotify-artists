@@ -1,41 +1,41 @@
 {
   "id": "7guDJrEfX3qb6FEbdPA5qi",
   "name": "Stevie Wonder",
-  "followers": 6579462,
-  "monthlyListeners": 18586495,
+  "followers": 6581186,
+  "monthlyListeners": 18549532,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 338742,
+        "numberOfListeners": 337586,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 247731,
+        "numberOfListeners": 247734,
         "region": "NSW"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 227089,
+        "numberOfListeners": 225866,
         "region": "RM"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 205051,
+        "numberOfListeners": 204929,
         "region": "VIC"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 183518,
+        "numberOfListeners": 183158,
         "region": "SP"
       }
     ]
   },
-  "worldRank": 410
+  "worldRank": 411
 }

@@ -1,38 +1,38 @@
 {
   "id": "3qBKjEOanahMxlRojwCzhI",
   "name": "Zacari",
-  "followers": 107996,
-  "monthlyListeners": 534243,
+  "followers": 108052,
+  "monthlyListeners": 533138,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 14787,
+        "numberOfListeners": 14700,
         "region": "CA"
       },
       {
         "city": "Johannesburg",
         "country": "ZA",
-        "numberOfListeners": 8382,
+        "numberOfListeners": 8345,
         "region": "GP"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 8169,
+        "numberOfListeners": 8137,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 7374,
+        "numberOfListeners": 7364,
         "region": "NY"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 6584,
+        "numberOfListeners": 6581,
         "region": "NSW"
       }
     ]

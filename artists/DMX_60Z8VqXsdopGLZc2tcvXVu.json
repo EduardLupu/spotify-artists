@@ -2,19 +2,19 @@
   "id": "60Z8VqXsdopGLZc2tcvXVu",
   "name": "DMX",
   "followers": 319,
-  "monthlyListeners": 166,
+  "monthlyListeners": 170,
   "topCities": {
     "items": [
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 24,
+        "numberOfListeners": 23,
         "region": "13"
       },
       {
         "city": "Osaka",
         "country": "JP",
-        "numberOfListeners": 7,
+        "numberOfListeners": 6,
         "region": "27"
       },
       {
@@ -26,14 +26,14 @@
       {
         "city": "Nakano",
         "country": "JP",
-        "numberOfListeners": 4,
+        "numberOfListeners": 5,
         "region": "13"
       },
       {
-        "city": "Shinjuku",
+        "city": "Takamatsu",
         "country": "JP",
         "numberOfListeners": 3,
-        "region": "13"
+        "region": "37"
       }
     ]
   },

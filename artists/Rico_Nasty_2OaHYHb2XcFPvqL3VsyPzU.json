@@ -1,38 +1,38 @@
 {
   "id": "2OaHYHb2XcFPvqL3VsyPzU",
   "name": "Rico Nasty",
-  "followers": 1117391,
-  "monthlyListeners": 2436839,
+  "followers": 1117461,
+  "monthlyListeners": 2434237,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 42768,
+        "numberOfListeners": 42647,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 41513,
+        "numberOfListeners": 41522,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 33161,
+        "numberOfListeners": 33343,
         "region": "NY"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 30760,
+        "numberOfListeners": 30665,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 29331,
+        "numberOfListeners": 29252,
         "region": "VIC"
       }
     ]

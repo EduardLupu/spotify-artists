@@ -1,39 +1,39 @@
 {
   "id": "6hyMWrxGBsOx6sWcVj1DqP",
   "name": "Sebastian Ingrosso",
-  "followers": 970257,
-  "monthlyListeners": 3403772,
+  "followers": 970308,
+  "monthlyListeners": 3392935,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 53230,
+        "numberOfListeners": 52867,
         "region": "CMX"
       },
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 46392,
+        "numberOfListeners": 46427,
         "region": "AB"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 42795,
+        "numberOfListeners": 42936,
         "region": "NH"
-      },
-      {
-        "city": "Santiago",
-        "country": "CL",
-        "numberOfListeners": 41728,
-        "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 41631,
+        "numberOfListeners": 41616,
         "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 41284,
+        "region": "RM"
       }
     ]
   },

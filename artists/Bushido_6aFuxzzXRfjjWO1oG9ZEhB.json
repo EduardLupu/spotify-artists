@@ -1,38 +1,38 @@
 {
   "id": "6aFuxzzXRfjjWO1oG9ZEhB",
   "name": "Bushido",
-  "followers": 11865,
-  "monthlyListeners": 44075,
+  "followers": 11870,
+  "monthlyListeners": 43976,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 6949,
+        "numberOfListeners": 6883,
         "region": "CMX"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 2694,
+        "numberOfListeners": 2731,
         "region": "CMX"
       },
       {
         "city": "Iztapalapa",
         "country": "MX",
-        "numberOfListeners": 2454,
+        "numberOfListeners": 2421,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 2391,
+        "numberOfListeners": 2387,
         "region": "JAL"
       },
       {
         "city": "Puebla City",
         "country": "MX",
-        "numberOfListeners": 2034,
+        "numberOfListeners": 2020,
         "region": "PUE"
       }
     ]

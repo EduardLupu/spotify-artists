@@ -1,41 +1,41 @@
 {
   "id": "5eAWCfyUhZtHHtBdNk56l1",
   "name": "System Of A Down",
-  "followers": 11286890,
-  "monthlyListeners": 23836636,
+  "followers": 11294360,
+  "monthlyListeners": 23818829,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 550910,
+        "numberOfListeners": 551571,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 480980,
+        "numberOfListeners": 476732,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 349433,
+        "numberOfListeners": 348577,
         "region": "CMX"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 289198,
+        "numberOfListeners": 290756,
         "region": "JK"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 284322,
+        "numberOfListeners": 284516,
         "region": "DC"
       }
     ]
   },
-  "worldRank": 250
+  "worldRank": 249
 }

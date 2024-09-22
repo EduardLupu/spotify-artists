@@ -1,38 +1,38 @@
 {
   "id": "2Mhi3jfuRSdbVZPdjqsnnN",
   "name": "Dr. Hook",
-  "followers": 626826,
-  "monthlyListeners": 2400870,
+  "followers": 627029,
+  "monthlyListeners": 2386594,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 60898,
+        "numberOfListeners": 60632,
         "region": "NSW"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 57803,
+        "numberOfListeners": 57483,
         "region": "QLD"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 47675,
+        "numberOfListeners": 47377,
         "region": "VIC"
       },
       {
         "city": "Auckland",
         "country": "NZ",
-        "numberOfListeners": 45849,
+        "numberOfListeners": 45868,
         "region": "AUK"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 34243,
+        "numberOfListeners": 34082,
         "region": "ENG"
       }
     ]

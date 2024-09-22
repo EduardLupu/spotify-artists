@@ -1,38 +1,38 @@
 {
   "id": "0i7QGwXxQFdGqibrBDT9HN",
   "name": "Siglo XX",
-  "followers": 14616,
-  "monthlyListeners": 67185,
+  "followers": 14635,
+  "monthlyListeners": 66949,
   "topCities": {
     "items": [
       {
         "city": "Puebla City",
         "country": "MX",
-        "numberOfListeners": 6934,
+        "numberOfListeners": 6802,
         "region": "PUE"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 5938,
+        "numberOfListeners": 5899,
         "region": "CMX"
       },
       {
         "city": "Acapulco de Juárez",
         "country": "MX",
-        "numberOfListeners": 4768,
+        "numberOfListeners": 4800,
         "region": "GRO"
       },
       {
         "city": "Tijuana",
         "country": "MX",
-        "numberOfListeners": 2420,
+        "numberOfListeners": 2419,
         "region": "BCN"
       },
       {
         "city": "Oaxaca City",
         "country": "MX",
-        "numberOfListeners": 2284,
+        "numberOfListeners": 2286,
         "region": "OAX"
       }
     ]

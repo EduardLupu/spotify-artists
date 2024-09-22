@@ -2,37 +2,37 @@
   "id": "15V8YiEz8nR00hnFO4aISp",
   "name": "eno",
   "followers": 303,
-  "monthlyListeners": 16288,
+  "monthlyListeners": 15776,
   "topCities": {
     "items": [
       {
         "city": "Johannesburg",
         "country": "ZA",
-        "numberOfListeners": 266,
+        "numberOfListeners": 257,
         "region": "GP"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 209,
+        "numberOfListeners": 201,
         "region": "PA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 190,
+        "numberOfListeners": 183,
         "region": "ENG"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 181,
+        "numberOfListeners": 176,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 171,
+        "numberOfListeners": 165,
         "region": "IL"
       }
     ]

@@ -1,39 +1,39 @@
 {
   "id": "6vyaBinA0tnzsoiX4GEboa",
   "name": "Sam Truth",
-  "followers": 17749,
-  "monthlyListeners": 39897,
+  "followers": 17751,
+  "monthlyListeners": 39797,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 817,
+        "numberOfListeners": 812,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 802,
+        "numberOfListeners": 804,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 585,
+        "numberOfListeners": 583,
         "region": "NY"
-      },
-      {
-        "city": "Seattle",
-        "country": "US",
-        "numberOfListeners": 503,
-        "region": "WA"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 498,
+        "numberOfListeners": 497,
         "region": "PA"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 494,
+        "region": "WA"
       }
     ]
   },

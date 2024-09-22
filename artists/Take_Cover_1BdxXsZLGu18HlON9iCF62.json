@@ -1,39 +1,39 @@
 {
   "id": "1BdxXsZLGu18HlON9iCF62",
   "name": "Take Cover",
-  "followers": 2071,
-  "monthlyListeners": 3100,
+  "followers": 2069,
+  "monthlyListeners": 3042,
   "topCities": {
     "items": [
       {
         "city": "Minneapolis",
         "country": "US",
-        "numberOfListeners": 128,
+        "numberOfListeners": 114,
         "region": "MN"
       },
       {
         "city": "Saint Paul",
         "country": "US",
-        "numberOfListeners": 58,
+        "numberOfListeners": 51,
         "region": "MN"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 49,
+        "numberOfListeners": 48,
         "region": "IL"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 34,
+        "numberOfListeners": 32,
         "region": "PA"
       },
       {
-        "city": "Denver",
-        "country": "US",
-        "numberOfListeners": 32,
-        "region": "CO"
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 30,
+        "region": "NSW"
       }
     ]
   },

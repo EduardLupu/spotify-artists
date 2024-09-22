@@ -1,38 +1,38 @@
 {
   "id": "3tQzzidoPfVifoURnDfgmD",
   "name": "t-low",
-  "followers": 439639,
-  "monthlyListeners": 2264925,
+  "followers": 439672,
+  "monthlyListeners": 2253722,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 219507,
+        "numberOfListeners": 218238,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 165818,
+        "numberOfListeners": 169444,
         "region": "HH"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 142358,
+        "numberOfListeners": 140954,
         "region": "HE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 136240,
+        "numberOfListeners": 136230,
         "region": "BY"
       },
       {
         "city": "Vienna",
         "country": "AT",
-        "numberOfListeners": 114357,
+        "numberOfListeners": 113596,
         "region": "9"
       }
     ]

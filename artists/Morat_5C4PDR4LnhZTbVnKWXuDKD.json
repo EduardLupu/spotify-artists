@@ -1,38 +1,38 @@
 {
   "id": "5C4PDR4LnhZTbVnKWXuDKD",
   "name": "Morat",
-  "followers": 11921735,
-  "monthlyListeners": 14697804,
+  "followers": 11927394,
+  "monthlyListeners": 14701019,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 808142,
+        "numberOfListeners": 808064,
         "region": "DC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 733807,
+        "numberOfListeners": 731469,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 659629,
+        "numberOfListeners": 656825,
         "region": "RM"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 578180,
+        "numberOfListeners": 578873,
         "region": "LMA"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 466827,
+        "numberOfListeners": 469605,
         "region": "MD"
       }
     ]

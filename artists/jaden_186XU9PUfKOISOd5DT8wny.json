@@ -2,38 +2,38 @@
   "id": "186XU9PUfKOISOd5DT8wny",
   "name": "jaden",
   "followers": 900,
-  "monthlyListeners": 2133,
+  "monthlyListeners": 2119,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 38,
+        "numberOfListeners": 35,
         "region": "IL"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 29,
+        "numberOfListeners": 28,
         "region": "AZ"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 25,
+        "numberOfListeners": 27,
         "region": "ENG"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 23,
+        "region": "QLD"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 23,
-        "region": "TX"
-      },
-      {
-        "city": "Philadelphia",
-        "country": "US",
         "numberOfListeners": 22,
-        "region": "PA"
+        "region": "TX"
       }
     ]
   },

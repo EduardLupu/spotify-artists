@@ -1,41 +1,41 @@
 {
   "id": "6AMd49uBDJfhf30Ak2QR5s",
   "name": "Coi Leray",
-  "followers": 835053,
-  "monthlyListeners": 17963697,
+  "followers": 835292,
+  "monthlyListeners": 17885445,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 224962,
+        "numberOfListeners": 224466,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 197418,
+        "numberOfListeners": 195839,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 186564,
+        "numberOfListeners": 185959,
         "region": "VIC"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 182810,
+        "numberOfListeners": 182138,
         "region": "IDF"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 167970,
+        "numberOfListeners": 166966,
         "region": "SP"
       }
     ]
   },
-  "worldRank": 430
+  "worldRank": 432
 }

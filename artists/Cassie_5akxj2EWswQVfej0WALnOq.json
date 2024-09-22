@@ -2,7 +2,7 @@
   "id": "5akxj2EWswQVfej0WALnOq",
   "name": "Cassie",
   "followers": 202,
-  "monthlyListeners": 460,
+  "monthlyListeners": 463,
   "topCities": {
     "items": [
       {
@@ -24,16 +24,16 @@
         "region": "OR"
       },
       {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 6,
+        "region": "NY"
+      },
+      {
         "city": "Paris",
         "country": "FR",
         "numberOfListeners": 5,
         "region": "IDF"
-      },
-      {
-        "city": "Prague",
-        "country": "CZ",
-        "numberOfListeners": 5,
-        "region": "10"
       }
     ]
   },

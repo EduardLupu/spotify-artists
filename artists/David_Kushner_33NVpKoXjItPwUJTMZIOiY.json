@@ -1,41 +1,41 @@
 {
   "id": "33NVpKoXjItPwUJTMZIOiY",
   "name": "David Kushner",
-  "followers": 2371116,
-  "monthlyListeners": 19268547,
+  "followers": 2372449,
+  "monthlyListeners": 19166953,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 300655,
+        "numberOfListeners": 300355,
         "region": "JK"
       },
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 228859,
+        "numberOfListeners": 227113,
         "region": "14"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 222895,
+        "numberOfListeners": 221306,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 204086,
+        "numberOfListeners": 202471,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 187490,
+        "numberOfListeners": 186028,
         "region": "VIC"
       }
     ]
   },
-  "worldRank": 383
+  "worldRank": 387
 }

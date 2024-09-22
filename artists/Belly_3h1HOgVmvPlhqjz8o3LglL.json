@@ -1,38 +1,38 @@
 {
   "id": "3h1HOgVmvPlhqjz8o3LglL",
   "name": "Belly",
-  "followers": 48855,
-  "monthlyListeners": 111813,
+  "followers": 48872,
+  "monthlyListeners": 111521,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2346,
+        "numberOfListeners": 2339,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 2081,
+        "numberOfListeners": 2078,
         "region": "NY"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1930,
+        "numberOfListeners": 1904,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1719,
+        "numberOfListeners": 1731,
         "region": "CA"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 1539,
+        "numberOfListeners": 1555,
         "region": "VIC"
       }
     ]

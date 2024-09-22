@@ -1,38 +1,38 @@
 {
   "id": "2Ert04ciURX7qZMBEO5Qjo",
   "name": "bavarianproduction",
-  "followers": 907,
-  "monthlyListeners": 7672,
+  "followers": 908,
+  "monthlyListeners": 7675,
   "topCities": {
     "items": [
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 869,
+        "numberOfListeners": 875,
         "region": "BY"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 507,
+        "numberOfListeners": 510,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 402,
+        "numberOfListeners": 416,
         "region": "HH"
       },
       {
         "city": "Vienna",
         "country": "AT",
-        "numberOfListeners": 389,
+        "numberOfListeners": 398,
         "region": "9"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 314,
+        "numberOfListeners": 313,
         "region": "HE"
       }
     ]

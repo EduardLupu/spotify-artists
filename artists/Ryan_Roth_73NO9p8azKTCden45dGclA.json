@@ -1,10 +1,16 @@
 {
   "id": "73NO9p8azKTCden45dGclA",
   "name": "Ryan Roth",
-  "followers": 1972,
-  "monthlyListeners": 24914,
+  "followers": 1973,
+  "monthlyListeners": 24920,
   "topCities": {
     "items": [
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 277,
+        "region": "NSW"
+      },
       {
         "city": "London",
         "country": "GB",
@@ -12,27 +18,21 @@
         "region": "ENG"
       },
       {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 273,
-        "region": "NSW"
-      },
-      {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 269,
+        "numberOfListeners": 267,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 267,
+        "numberOfListeners": 262,
         "region": "IL"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 250,
+        "numberOfListeners": 253,
         "region": "WA"
       }
     ]

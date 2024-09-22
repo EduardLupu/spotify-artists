@@ -1,26 +1,26 @@
 {
   "id": "0HOOEubA7zC2e5UXtKHNyG",
   "name": "Talking Points",
-  "followers": 2716,
-  "monthlyListeners": 17876,
+  "followers": 2718,
+  "monthlyListeners": 17723,
   "topCities": {
     "items": [
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 413,
+        "numberOfListeners": 405,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 352,
+        "numberOfListeners": 345,
         "region": "IL"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 333,
+        "numberOfListeners": 322,
         "region": "NY"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 276,
+        "numberOfListeners": 275,
         "region": "WA"
       }
     ]

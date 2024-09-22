@@ -1,38 +1,38 @@
 {
   "id": "1WXbiUMl1AT9Inb619xPUg",
   "name": "BIN",
-  "followers": 2098649,
-  "monthlyListeners": 4109758,
+  "followers": 2099126,
+  "monthlyListeners": 4107695,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 630353,
+        "numberOfListeners": 628432,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 464896,
+        "numberOfListeners": 463635,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 200062,
+        "numberOfListeners": 199924,
         "region": "MG"
       },
       {
         "city": "Porto Alegre",
         "country": "BR",
-        "numberOfListeners": 135310,
+        "numberOfListeners": 135140,
         "region": "RS"
       },
       {
         "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 132335,
+        "numberOfListeners": 132279,
         "region": "PR"
       }
     ]

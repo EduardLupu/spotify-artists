@@ -1,38 +1,38 @@
 {
   "id": "2nRbxpnBMMbtMBWH5QdqH2",
   "name": "Louis Jordan",
-  "followers": 52543,
-  "monthlyListeners": 259109,
+  "followers": 52559,
+  "monthlyListeners": 258532,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 3138,
+        "numberOfListeners": 3136,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2727,
+        "numberOfListeners": 2733,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 2723,
+        "numberOfListeners": 2721,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 2500,
+        "numberOfListeners": 2473,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 2442,
+        "numberOfListeners": 2429,
         "region": "VIC"
       }
     ]

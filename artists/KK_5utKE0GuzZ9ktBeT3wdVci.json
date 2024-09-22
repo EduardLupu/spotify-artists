@@ -2,13 +2,13 @@
   "id": "5utKE0GuzZ9ktBeT3wdVci",
   "name": "KK",
   "followers": 32,
-  "monthlyListeners": 1126,
+  "monthlyListeners": 1128,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 19,
+        "numberOfListeners": 20,
         "region": "NSW"
       },
       {
@@ -20,19 +20,19 @@
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 13,
+        "numberOfListeners": 12,
         "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 12,
+        "numberOfListeners": 11,
         "region": "VIC"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 10,
+        "numberOfListeners": 11,
         "region": "IDF"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "0LKAV3zJ8a8AIGnyc5OvfB",
   "name": "SDM",
-  "followers": 1219517,
-  "monthlyListeners": 4913470,
+  "followers": 1222224,
+  "monthlyListeners": 4935599,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 934536,
+        "numberOfListeners": 942895,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 221537,
+        "numberOfListeners": 223395,
         "region": "BRU"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 194778,
+        "numberOfListeners": 195330,
         "region": "ARA"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 168116,
+        "numberOfListeners": 169986,
         "region": "HDF"
       },
       {
         "city": "Marseille",
         "country": "FR",
-        "numberOfListeners": 151125,
+        "numberOfListeners": 150351,
         "region": "PAC"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "2AqMgLvl1EKuvpjFQIIX0U",
   "name": "Matt Corman",
-  "followers": 31765,
-  "monthlyListeners": 792838,
+  "followers": 31788,
+  "monthlyListeners": 790572,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 13990,
+        "numberOfListeners": 13991,
         "region": "NSW"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 12526,
+        "numberOfListeners": 12475,
         "region": "QLD"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 10680,
+        "numberOfListeners": 10664,
         "region": "VIC"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 9058,
+        "numberOfListeners": 9048,
         "region": "QC"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 9054,
+        "numberOfListeners": 8998,
         "region": "ON"
       }
     ]

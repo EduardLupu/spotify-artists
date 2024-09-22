@@ -2,37 +2,37 @@
   "id": "5fge7yVuAOJTlwL1kL8njo",
   "name": "Vi Två",
   "followers": 121,
-  "monthlyListeners": 1506,
+  "monthlyListeners": 1526,
   "topCities": {
     "items": [
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 491,
+        "numberOfListeners": 495,
         "region": "AB"
       },
       {
         "city": "Gothenburg",
         "country": "SE",
-        "numberOfListeners": 160,
+        "numberOfListeners": 162,
         "region": "O"
       },
       {
         "city": "Malmo",
         "country": "SE",
-        "numberOfListeners": 103,
+        "numberOfListeners": 105,
         "region": "M"
       },
       {
         "city": "Uppsala",
         "country": "SE",
-        "numberOfListeners": 83,
+        "numberOfListeners": 84,
         "region": "C"
       },
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 82,
+        "numberOfListeners": 83,
         "region": "18"
       }
     ]

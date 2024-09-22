@@ -1,38 +1,38 @@
 {
   "id": "0PFtn5NtBbbUNbU9EAmIWF",
   "name": "TOTO",
-  "followers": 3039132,
-  "monthlyListeners": 29947882,
+  "followers": 3041222,
+  "monthlyListeners": 29872433,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 655594,
+        "numberOfListeners": 652117,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 419970,
+        "numberOfListeners": 416742,
         "region": "CMX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 372501,
+        "numberOfListeners": 372887,
         "region": "NSW"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 350084,
+        "numberOfListeners": 349300,
         "region": "SP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 330039,
+        "numberOfListeners": 329032,
         "region": "ENG"
       }
     ]

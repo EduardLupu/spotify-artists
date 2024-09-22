@@ -2,20 +2,14 @@
   "id": "1X5vD2UTatpahQUM0mbHSR",
   "name": "Mata",
   "followers": 847,
-  "monthlyListeners": 1824,
+  "monthlyListeners": 1829,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 125,
+        "numberOfListeners": 128,
         "region": "IDF"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 54,
-        "region": "ENG"
       },
       {
         "city": "Brooklyn",
@@ -24,15 +18,21 @@
         "region": "NY"
       },
       {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 53,
+        "region": "ENG"
+      },
+      {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 41,
+        "numberOfListeners": 42,
         "region": "ON"
       },
       {
         "city": "Castries",
         "country": "LC",
-        "numberOfListeners": 32,
+        "numberOfListeners": 31,
         "region": "02"
       }
     ]

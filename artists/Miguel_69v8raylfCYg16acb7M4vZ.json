@@ -2,37 +2,37 @@
   "id": "69v8raylfCYg16acb7M4vZ",
   "name": "Miguel",
   "followers": 524,
-  "monthlyListeners": 13741,
+  "monthlyListeners": 13722,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 2466,
+        "numberOfListeners": 2444,
         "region": "DC"
       },
       {
         "city": "Barranquilla",
         "country": "CO",
-        "numberOfListeners": 1861,
+        "numberOfListeners": 1857,
         "region": "ATL"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 1282,
+        "numberOfListeners": 1271,
         "region": "ANT"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 900,
+        "numberOfListeners": 908,
         "region": "CMX"
       },
       {
         "city": "Santiago de Cali",
         "country": "CO",
-        "numberOfListeners": 688,
+        "numberOfListeners": 703,
         "region": "VAC"
       }
     ]

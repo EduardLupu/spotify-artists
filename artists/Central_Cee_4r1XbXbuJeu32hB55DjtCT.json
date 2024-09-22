@@ -2,37 +2,37 @@
   "id": "4r1XbXbuJeu32hB55DjtCT",
   "name": "Central Cee",
   "followers": 91,
-  "monthlyListeners": 6889,
+  "monthlyListeners": 6484,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 333,
+        "numberOfListeners": 312,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 155,
+        "numberOfListeners": 146,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 143,
+        "numberOfListeners": 133,
         "region": "VIC"
       },
       {
         "city": "Lagos",
         "country": "NG",
-        "numberOfListeners": 113,
+        "numberOfListeners": 105,
         "region": "LA"
       },
       {
-        "city": "Birmingham",
+        "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 97,
+        "numberOfListeners": 89,
         "region": "ENG"
       }
     ]

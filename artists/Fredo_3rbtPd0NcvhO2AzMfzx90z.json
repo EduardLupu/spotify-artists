@@ -1,39 +1,39 @@
 {
   "id": "3rbtPd0NcvhO2AzMfzx90z",
   "name": "Fredo",
-  "followers": 894293,
-  "monthlyListeners": 3734066,
+  "followers": 894502,
+  "monthlyListeners": 3774910,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 308105,
+        "numberOfListeners": 307474,
         "region": "ENG"
       },
       {
         "city": "Ludhiana",
         "country": "IN",
-        "numberOfListeners": 239547,
+        "numberOfListeners": 245092,
         "region": "PB"
       },
       {
         "city": "Chandigarh",
         "country": "IN",
-        "numberOfListeners": 164677,
+        "numberOfListeners": 169010,
         "region": "CH"
-      },
-      {
-        "city": "Birmingham",
-        "country": "GB",
-        "numberOfListeners": 112574,
-        "region": "ENG"
       },
       {
         "city": "Delhi",
         "country": "IN",
-        "numberOfListeners": 109135,
+        "numberOfListeners": 113853,
         "region": "DL"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 111441,
+        "region": "ENG"
       }
     ]
   },

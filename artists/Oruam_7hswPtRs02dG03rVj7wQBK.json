@@ -1,38 +1,38 @@
 {
   "id": "7hswPtRs02dG03rVj7wQBK",
   "name": "Oruam",
-  "followers": 1400,
-  "monthlyListeners": 99951,
+  "followers": 1401,
+  "monthlyListeners": 99213,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 3886,
+        "numberOfListeners": 3858,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 2592,
+        "numberOfListeners": 2600,
         "region": "HH"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 2252,
+        "numberOfListeners": 2230,
         "region": "BY"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 1960,
+        "numberOfListeners": 1943,
         "region": "HE"
       },
       {
         "city": "Vienna",
         "country": "AT",
-        "numberOfListeners": 1876,
+        "numberOfListeners": 1862,
         "region": "9"
       }
     ]

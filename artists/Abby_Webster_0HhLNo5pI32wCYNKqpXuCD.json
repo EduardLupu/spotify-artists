@@ -1,38 +1,38 @@
 {
   "id": "0HhLNo5pI32wCYNKqpXuCD",
   "name": "Abby Webster",
-  "followers": 8317,
-  "monthlyListeners": 76734,
+  "followers": 8326,
+  "monthlyListeners": 75704,
   "topCities": {
     "items": [
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 2262,
+        "numberOfListeners": 2223,
         "region": "CO"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 2083,
+        "numberOfListeners": 2049,
         "region": "WA"
       },
       {
         "city": "Portland",
         "country": "US",
-        "numberOfListeners": 1589,
+        "numberOfListeners": 1568,
         "region": "OR"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 1293,
+        "numberOfListeners": 1280,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 957,
+        "numberOfListeners": 955,
         "region": "NY"
       }
     ]

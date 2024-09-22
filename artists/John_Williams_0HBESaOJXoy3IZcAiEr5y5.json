@@ -2,13 +2,13 @@
   "id": "0HBESaOJXoy3IZcAiEr5y5",
   "name": "John Williams",
   "followers": 276,
-  "monthlyListeners": 392,
+  "monthlyListeners": 394,
   "topCities": {
     "items": [
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 47,
+        "numberOfListeners": 49,
         "region": "L"
       },
       {
@@ -30,10 +30,10 @@
         "region": "AB"
       },
       {
-        "city": "Galway",
-        "country": "IE",
+        "city": "Seattle",
+        "country": "US",
         "numberOfListeners": 4,
-        "region": "C"
+        "region": "WA"
       }
     ]
   },

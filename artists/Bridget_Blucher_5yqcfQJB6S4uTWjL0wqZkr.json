@@ -2,19 +2,19 @@
   "id": "5yqcfQJB6S4uTWjL0wqZkr",
   "name": "Bridget Blucher",
   "followers": 3821,
-  "monthlyListeners": 5010,
+  "monthlyListeners": 5011,
   "topCities": {
     "items": [
       {
         "city": "Kingston",
         "country": "JM",
-        "numberOfListeners": 321,
+        "numberOfListeners": 317,
         "region": "01"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 252,
+        "numberOfListeners": 250,
         "region": "ON"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 107,
+        "numberOfListeners": 103,
         "region": "NY"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "4FC5Mp0ZuiVF8b68cqJdim",
   "name": "Robi",
-  "followers": 11363,
-  "monthlyListeners": 75151,
+  "followers": 11373,
+  "monthlyListeners": 75092,
   "topCities": {
     "items": [
       {
         "city": "Bucharest",
         "country": "RO",
-        "numberOfListeners": 21829,
+        "numberOfListeners": 21791,
         "region": "B"
       },
       {
         "city": "Cluj-Napoca",
         "country": "RO",
-        "numberOfListeners": 6328,
+        "numberOfListeners": 6411,
         "region": "CJ"
       },
       {
         "city": "Timișoara",
         "country": "RO",
-        "numberOfListeners": 5178,
+        "numberOfListeners": 5229,
         "region": "TM"
       },
       {
         "city": "Iasi",
         "country": "RO",
-        "numberOfListeners": 4147,
+        "numberOfListeners": 4139,
         "region": "IS"
       },
       {
         "city": "Ploieşti",
         "country": "RO",
-        "numberOfListeners": 3920,
+        "numberOfListeners": 4020,
         "region": "PH"
       }
     ]

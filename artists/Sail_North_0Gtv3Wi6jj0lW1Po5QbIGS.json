@@ -1,38 +1,38 @@
 {
   "id": "0Gtv3Wi6jj0lW1Po5QbIGS",
   "name": "Sail North",
-  "followers": 119765,
-  "monthlyListeners": 830863,
+  "followers": 120186,
+  "monthlyListeners": 834129,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 10553,
+        "numberOfListeners": 10607,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 9073,
+        "numberOfListeners": 9143,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 8812,
+        "numberOfListeners": 8798,
         "region": "IL"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 8393,
+        "numberOfListeners": 8462,
         "region": "WA"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 8022,
+        "numberOfListeners": 8027,
         "region": "VIC"
       }
     ]

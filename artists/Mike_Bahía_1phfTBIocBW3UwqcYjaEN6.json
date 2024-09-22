@@ -1,38 +1,38 @@
 {
   "id": "1phfTBIocBW3UwqcYjaEN6",
   "name": "Mike Bahía",
-  "followers": 3172770,
-  "monthlyListeners": 4055814,
+  "followers": 3172883,
+  "monthlyListeners": 4057442,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 456525,
+        "numberOfListeners": 457142,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 381703,
+        "numberOfListeners": 381324,
         "region": "LMA"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 199643,
+        "numberOfListeners": 197597,
         "region": "RM"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 173041,
+        "numberOfListeners": 173421,
         "region": "ANT"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 109574,
+        "numberOfListeners": 109139,
         "region": "CMX"
       }
     ]

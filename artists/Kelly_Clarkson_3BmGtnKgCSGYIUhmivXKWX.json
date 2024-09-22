@@ -1,41 +1,41 @@
 {
   "id": "3BmGtnKgCSGYIUhmivXKWX",
   "name": "Kelly Clarkson",
-  "followers": 10559965,
-  "monthlyListeners": 17829125,
+  "followers": 10561770,
+  "monthlyListeners": 17779990,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 300078,
+        "numberOfListeners": 299816,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 299849,
+        "numberOfListeners": 297791,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 267895,
+        "numberOfListeners": 267522,
         "region": "VIC"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 199378,
+        "numberOfListeners": 199590,
         "region": "JK"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 198057,
+        "numberOfListeners": 197629,
         "region": "QLD"
       }
     ]
   },
-  "worldRank": 437
+  "worldRank": 439
 }

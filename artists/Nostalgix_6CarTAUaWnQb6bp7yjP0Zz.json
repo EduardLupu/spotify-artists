@@ -1,38 +1,38 @@
 {
   "id": "6CarTAUaWnQb6bp7yjP0Zz",
   "name": "Nostalgix",
-  "followers": 25915,
-  "monthlyListeners": 308566,
+  "followers": 25925,
+  "monthlyListeners": 290176,
   "topCities": {
     "items": [
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 7296,
+        "numberOfListeners": 6674,
         "region": "ON"
       },
       {
         "city": "Calgary",
         "country": "CA",
-        "numberOfListeners": 6632,
+        "numberOfListeners": 6182,
         "region": "AB"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 5957,
+        "numberOfListeners": 5510,
         "region": "QC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 5628,
+        "numberOfListeners": 5309,
         "region": "CA"
       },
       {
         "city": "Vancouver",
         "country": "CA",
-        "numberOfListeners": 5196,
+        "numberOfListeners": 4848,
         "region": "BC"
       }
     ]

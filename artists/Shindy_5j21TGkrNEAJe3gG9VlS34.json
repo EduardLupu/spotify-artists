@@ -1,38 +1,38 @@
 {
   "id": "5j21TGkrNEAJe3gG9VlS34",
   "name": "Shindy",
-  "followers": 853540,
-  "monthlyListeners": 1552351,
+  "followers": 853558,
+  "monthlyListeners": 1554331,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 155225,
+        "numberOfListeners": 155392,
         "region": "BE"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 126360,
+        "numberOfListeners": 126472,
         "region": "HE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 115874,
+        "numberOfListeners": 119847,
         "region": "HH"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 112547,
+        "numberOfListeners": 113177,
         "region": "BY"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 103179,
+        "numberOfListeners": 105313,
         "region": "BW"
       }
     ]

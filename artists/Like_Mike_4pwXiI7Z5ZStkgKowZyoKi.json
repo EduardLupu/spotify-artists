@@ -1,38 +1,38 @@
 {
   "id": "4pwXiI7Z5ZStkgKowZyoKi",
   "name": "Like Mike",
-  "followers": 190171,
-  "monthlyListeners": 12030868,
+  "followers": 190243,
+  "monthlyListeners": 11940660,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 196161,
+        "numberOfListeners": 196212,
         "region": "NH"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 178304,
+        "numberOfListeners": 177486,
         "region": "BRU"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 177064,
+        "numberOfListeners": 175489,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 152828,
+        "numberOfListeners": 155939,
         "region": "HH"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 144855,
+        "numberOfListeners": 143919,
         "region": "ZH"
       }
     ]

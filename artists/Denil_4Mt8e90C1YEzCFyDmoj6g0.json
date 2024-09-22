@@ -1,38 +1,38 @@
 {
   "id": "4Mt8e90C1YEzCFyDmoj6g0",
   "name": "Denil",
-  "followers": 7185,
-  "monthlyListeners": 45734,
+  "followers": 7193,
+  "monthlyListeners": 45937,
   "topCities": {
     "items": [
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 4365,
+        "numberOfListeners": 4351,
         "region": "LMA"
       },
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 2036,
+        "numberOfListeners": 1948,
         "region": "GU"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 1521,
+        "numberOfListeners": 1510,
         "region": "DC"
       },
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 1331,
+        "numberOfListeners": 1434,
         "region": "01"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1167,
+        "numberOfListeners": 1173,
         "region": "CMX"
       }
     ]

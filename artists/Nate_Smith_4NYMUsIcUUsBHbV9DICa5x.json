@@ -1,38 +1,38 @@
 {
   "id": "4NYMUsIcUUsBHbV9DICa5x",
   "name": "Nate Smith",
-  "followers": 393923,
-  "monthlyListeners": 10591378,
+  "followers": 394400,
+  "monthlyListeners": 10537866,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 200670,
+        "numberOfListeners": 200605,
         "region": "NSW"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 180270,
+        "numberOfListeners": 179330,
         "region": "QC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 169176,
+        "numberOfListeners": 168942,
         "region": "QLD"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 165718,
+        "numberOfListeners": 163868,
         "region": "ON"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 157370,
+        "numberOfListeners": 155776,
         "region": "IL"
       }
     ]

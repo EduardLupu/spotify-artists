@@ -1,38 +1,38 @@
 {
   "id": "5jAMCwdNHWr7JThxtMuEyy",
   "name": "NOTD",
-  "followers": 309524,
-  "monthlyListeners": 3018236,
+  "followers": 309601,
+  "monthlyListeners": 3051263,
   "topCities": {
     "items": [
       {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 55962,
-        "region": "NSW"
-      },
-      {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 52144,
+        "numberOfListeners": 57114,
         "region": "AB"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 56019,
+        "region": "NSW"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 48175,
+        "numberOfListeners": 48582,
         "region": "NY"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 43996,
+        "numberOfListeners": 44002,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 36557,
+        "numberOfListeners": 36622,
         "region": "IL"
       }
     ]

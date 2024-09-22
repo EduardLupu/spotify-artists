@@ -1,38 +1,38 @@
 {
   "id": "6Tyzp9KzpiZ04DABQoedps",
   "name": "Little Dragon",
-  "followers": 693727,
-  "monthlyListeners": 1264822,
+  "followers": 693804,
+  "monthlyListeners": 1262390,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 38815,
+        "numberOfListeners": 38748,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 28159,
+        "numberOfListeners": 28160,
         "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 27289,
+        "numberOfListeners": 27238,
         "region": "CA"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 27147,
+        "numberOfListeners": 27059,
         "region": "VIC"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 18609,
+        "numberOfListeners": 18673,
         "region": "NY"
       }
     ]

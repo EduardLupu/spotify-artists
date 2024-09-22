@@ -1,38 +1,38 @@
 {
   "id": "3rfgbfpPSfXY40lzRK7Syt",
   "name": "Barry White",
-  "followers": 1943797,
-  "monthlyListeners": 4740939,
+  "followers": 1944877,
+  "monthlyListeners": 4731692,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 98085,
+        "numberOfListeners": 97792,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 91088,
+        "numberOfListeners": 90650,
         "region": "CMX"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 69690,
+        "numberOfListeners": 69925,
         "region": "NH"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 68162,
+        "numberOfListeners": 67947,
         "region": "IDF"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 67239,
+        "numberOfListeners": 67123,
         "region": "ENG"
       }
     ]

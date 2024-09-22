@@ -1,38 +1,38 @@
 {
   "id": "62DmErcU7dqZbJaDqwsqzR",
   "name": "Popcaan",
-  "followers": 1138129,
-  "monthlyListeners": 3307006,
+  "followers": 1138676,
+  "monthlyListeners": 3315119,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 219710,
+        "numberOfListeners": 218691,
         "region": "ENG"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 106100,
+        "numberOfListeners": 106323,
         "region": "ON"
-      },
-      {
-        "city": "Nairobi",
-        "country": "KE",
-        "numberOfListeners": 77441,
-        "region": "30"
       },
       {
         "city": "Lagos",
         "country": "NG",
-        "numberOfListeners": 72885,
+        "numberOfListeners": 78928,
         "region": "LA"
+      },
+      {
+        "city": "Nairobi",
+        "country": "KE",
+        "numberOfListeners": 77418,
+        "region": "30"
       },
       {
         "city": "Birmingham",
         "country": "GB",
-        "numberOfListeners": 72733,
+        "numberOfListeners": 72017,
         "region": "ENG"
       }
     ]

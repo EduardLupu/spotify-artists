@@ -8,8 +8,20 @@
       {
         "city": "Luxembourg",
         "country": "LU",
-        "numberOfListeners": 13,
+        "numberOfListeners": 14,
         "region": "LU"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 2,
+        "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "ARA"
       },
       {
         "city": "Onard",
@@ -22,18 +34,6 @@
         "country": "FR",
         "numberOfListeners": 1,
         "region": "ARA"
-      },
-      {
-        "city": "Lyon",
-        "country": "FR",
-        "numberOfListeners": 1,
-        "region": "ARA"
-      },
-      {
-        "city": "Rabat",
-        "country": "MA",
-        "numberOfListeners": 1,
-        "region": "04"
       }
     ]
   },

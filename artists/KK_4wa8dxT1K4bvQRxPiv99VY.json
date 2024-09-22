@@ -1,38 +1,38 @@
 {
   "id": "4wa8dxT1K4bvQRxPiv99VY",
   "name": "KK",
-  "followers": 5177,
-  "monthlyListeners": 68067,
+  "followers": 5183,
+  "monthlyListeners": 68036,
   "topCities": {
     "items": [
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 9988,
+        "numberOfListeners": 9961,
         "region": "13"
       },
       {
         "city": "Osaka",
         "country": "JP",
-        "numberOfListeners": 2834,
+        "numberOfListeners": 2822,
         "region": "27"
-      },
-      {
-        "city": "Nagoya",
-        "country": "JP",
-        "numberOfListeners": 1247,
-        "region": "23"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 1247,
+        "numberOfListeners": 1246,
         "region": "JK"
+      },
+      {
+        "city": "Nagoya",
+        "country": "JP",
+        "numberOfListeners": 1241,
+        "region": "23"
       },
       {
         "city": "Yokohama",
         "country": "JP",
-        "numberOfListeners": 1243,
+        "numberOfListeners": 1233,
         "region": "14"
       }
     ]

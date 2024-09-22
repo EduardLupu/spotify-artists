@@ -1,26 +1,26 @@
 {
   "id": "3GeZ2hxlimcfZ7v3qxf5UT",
   "name": "Coca Vango",
-  "followers": 14860,
-  "monthlyListeners": 25588,
+  "followers": 14862,
+  "monthlyListeners": 25490,
   "topCities": {
     "items": [
       {
         "city": "Auckland",
         "country": "NZ",
-        "numberOfListeners": 801,
+        "numberOfListeners": 805,
         "region": "AUK"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 678,
+        "numberOfListeners": 674,
         "region": "NSW"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 584,
+        "numberOfListeners": 581,
         "region": "GA"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 433,
+        "numberOfListeners": 428,
         "region": "NC"
       }
     ]

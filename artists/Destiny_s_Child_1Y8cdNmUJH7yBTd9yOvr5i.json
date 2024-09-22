@@ -1,38 +1,38 @@
 {
   "id": "1Y8cdNmUJH7yBTd9yOvr5i",
   "name": "Destiny's Child",
-  "followers": 7365355,
-  "monthlyListeners": 14965292,
+  "followers": 7368069,
+  "monthlyListeners": 15026875,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 309617,
+        "numberOfListeners": 311600,
         "region": "SP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 282709,
+        "numberOfListeners": 283259,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 262481,
+        "numberOfListeners": 264061,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 217134,
+        "numberOfListeners": 218028,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 167253,
+        "numberOfListeners": 168016,
         "region": "QLD"
       }
     ]

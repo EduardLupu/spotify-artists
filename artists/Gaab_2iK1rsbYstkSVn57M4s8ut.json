@@ -1,38 +1,38 @@
 {
   "id": "2iK1rsbYstkSVn57M4s8ut",
   "name": "Gaab",
-  "followers": 1648523,
-  "monthlyListeners": 5263299,
+  "followers": 1648754,
+  "monthlyListeners": 5254893,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 1033963,
+        "numberOfListeners": 1030390,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 344315,
+        "numberOfListeners": 342509,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 239827,
+        "numberOfListeners": 239938,
         "region": "MG"
       },
       {
         "city": "Campinas",
         "country": "BR",
-        "numberOfListeners": 219822,
+        "numberOfListeners": 219324,
         "region": "SP"
       },
       {
         "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 205634,
+        "numberOfListeners": 205590,
         "region": "PR"
       }
     ]

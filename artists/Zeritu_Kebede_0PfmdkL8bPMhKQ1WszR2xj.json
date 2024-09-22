@@ -1,39 +1,39 @@
 {
   "id": "0PfmdkL8bPMhKQ1WszR2xj",
   "name": "Zeritu Kebede",
-  "followers": 2178,
-  "monthlyListeners": 8072,
+  "followers": 2181,
+  "monthlyListeners": 8073,
   "topCities": {
     "items": [
       {
         "city": "Addis Ababa",
         "country": "ET",
-        "numberOfListeners": 4098,
+        "numberOfListeners": 4090,
         "region": "AA"
       },
       {
         "city": "Tel Aviv",
         "country": "IL",
-        "numberOfListeners": 285,
+        "numberOfListeners": 289,
         "region": "TA"
       },
       {
         "city": "Nazrēt",
         "country": "ET",
-        "numberOfListeners": 181,
+        "numberOfListeners": 177,
         "region": "OR"
       },
       {
         "city": "Washington",
         "country": "US",
-        "numberOfListeners": 161,
+        "numberOfListeners": 159,
         "region": "DC"
       },
       {
-        "city": "Awasa",
-        "country": "ET",
-        "numberOfListeners": 152,
-        "region": "SI"
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 154,
+        "region": "ON"
       }
     ]
   },

@@ -1,33 +1,33 @@
 {
   "id": "3AsXnrk5Mh3HwETANQnt8M",
   "name": "WHITE",
-  "followers": 3054,
-  "monthlyListeners": 914,
+  "followers": 3055,
+  "monthlyListeners": 920,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 34,
+        "numberOfListeners": 33,
         "region": "ENG"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 25,
+        "numberOfListeners": 27,
         "region": "NH"
-      },
-      {
-        "city": "Glasgow",
-        "country": "GB",
-        "numberOfListeners": 24,
-        "region": "SCT"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 24,
+        "numberOfListeners": 25,
         "region": "L"
+      },
+      {
+        "city": "Glasgow",
+        "country": "GB",
+        "numberOfListeners": 22,
+        "region": "SCT"
       },
       {
         "city": "Mexico City",

@@ -1,38 +1,38 @@
 {
   "id": "7nU4hB040gTmHm45YYMvqc",
   "name": "Hannah Montana",
-  "followers": 4766354,
-  "monthlyListeners": 3410679,
+  "followers": 4766279,
+  "monthlyListeners": 3394513,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 46201,
+        "numberOfListeners": 45977,
         "region": "ENG"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 42116,
+        "numberOfListeners": 41502,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 38168,
+        "numberOfListeners": 38170,
         "region": "NSW"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 36169,
+        "numberOfListeners": 35802,
         "region": "SP"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 35340,
+        "numberOfListeners": 35212,
         "region": "VIC"
       }
     ]

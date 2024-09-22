@@ -1,38 +1,38 @@
 {
   "id": "2eYnE8VRWT1zdUH6VPZfKO",
   "name": "Javier Martinez",
-  "followers": 9412,
-  "monthlyListeners": 31374,
+  "followers": 9424,
+  "monthlyListeners": 31380,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 10201,
+        "numberOfListeners": 10190,
         "region": "DC"
       },
       {
         "city": "Bucaramanga",
         "country": "CO",
-        "numberOfListeners": 8470,
+        "numberOfListeners": 8483,
         "region": "SAN"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 3395,
+        "numberOfListeners": 3397,
         "region": "ANT"
       },
       {
         "city": "Barranquilla",
         "country": "CO",
-        "numberOfListeners": 1886,
+        "numberOfListeners": 1889,
         "region": "ATL"
       },
       {
         "city": "Santiago de Cali",
         "country": "CO",
-        "numberOfListeners": 693,
+        "numberOfListeners": 697,
         "region": "VAC"
       }
     ]

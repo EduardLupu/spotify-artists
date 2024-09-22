@@ -1,39 +1,39 @@
 {
   "id": "5Gczy2Me3LRBiQG5L1egQc",
   "name": "Los Roland's",
-  "followers": 12674,
-  "monthlyListeners": 77754,
+  "followers": 12678,
+  "monthlyListeners": 78099,
   "topCities": {
     "items": [
       {
         "city": "Tegucigalpa",
         "country": "HN",
-        "numberOfListeners": 10755,
+        "numberOfListeners": 10740,
         "region": "FM"
       },
       {
         "city": "San Pedro Sula",
         "country": "HN",
-        "numberOfListeners": 9906,
+        "numberOfListeners": 10000,
         "region": "CR"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 2383,
+        "numberOfListeners": 2394,
         "region": "TX"
-      },
-      {
-        "city": "Guatemala City",
-        "country": "GT",
-        "numberOfListeners": 2194,
-        "region": "GU"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 2184,
+        "numberOfListeners": 2174,
         "region": "CA"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 2107,
+        "region": "GU"
       }
     ]
   },

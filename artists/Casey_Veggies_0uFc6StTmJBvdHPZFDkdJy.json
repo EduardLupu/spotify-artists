@@ -1,14 +1,14 @@
 {
   "id": "0uFc6StTmJBvdHPZFDkdJy",
   "name": "Casey Veggies",
-  "followers": 323256,
-  "monthlyListeners": 340971,
+  "followers": 323261,
+  "monthlyListeners": 340012,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 7851,
+        "numberOfListeners": 7830,
         "region": "CA"
       },
       {
@@ -20,19 +20,19 @@
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 5621,
+        "numberOfListeners": 5571,
         "region": "IL"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 4826,
+        "numberOfListeners": 4809,
         "region": "AZ"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 4309,
+        "numberOfListeners": 4281,
         "region": "QLD"
       }
     ]

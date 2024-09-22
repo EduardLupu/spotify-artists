@@ -1,39 +1,39 @@
 {
   "id": "7FAnawAJI7lHt4s1Ohde8w",
   "name": "Future",
-  "followers": 2035,
-  "monthlyListeners": 2609,
+  "followers": 2034,
+  "monthlyListeners": 2656,
   "topCities": {
     "items": [
       {
-        "city": "Houston",
-        "country": "US",
-        "numberOfListeners": 44,
-        "region": "TX"
-      },
-      {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 41,
+        "numberOfListeners": 43,
         "region": "IL"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 41,
+        "region": "TX"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 39,
+        "numberOfListeners": 40,
         "region": "ON"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 35,
+        "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
         "numberOfListeners": 34,
         "region": "VIC"
-      },
-      {
-        "city": "Atlanta",
-        "country": "US",
-        "numberOfListeners": 32,
-        "region": "GA"
       }
     ]
   },

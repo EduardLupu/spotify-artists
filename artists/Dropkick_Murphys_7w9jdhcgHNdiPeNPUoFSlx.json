@@ -1,38 +1,38 @@
 {
   "id": "7w9jdhcgHNdiPeNPUoFSlx",
   "name": "Dropkick Murphys",
-  "followers": 1254197,
-  "monthlyListeners": 2764404,
+  "followers": 1254454,
+  "monthlyListeners": 2768461,
   "topCities": {
     "items": [
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 36566,
+        "numberOfListeners": 36689,
         "region": "QC"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 31652,
-        "region": "ENG"
       },
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 31261,
+        "numberOfListeners": 31733,
         "region": "AB"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 31602,
+        "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 29844,
+        "numberOfListeners": 29873,
         "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 29545,
+        "numberOfListeners": 29629,
         "region": "NSW"
       }
     ]

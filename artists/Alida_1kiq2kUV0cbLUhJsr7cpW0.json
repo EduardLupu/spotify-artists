@@ -1,38 +1,38 @@
 {
   "id": "1kiq2kUV0cbLUhJsr7cpW0",
   "name": "Alida",
-  "followers": 23714,
-  "monthlyListeners": 2193680,
+  "followers": 23726,
+  "monthlyListeners": 2193177,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 36247,
+        "numberOfListeners": 36309,
         "region": "BE"
       },
       {
         "city": "Prague",
         "country": "CZ",
-        "numberOfListeners": 33433,
+        "numberOfListeners": 33535,
         "region": "10"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 28605,
+        "numberOfListeners": 28858,
         "region": "NH"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 28030,
+        "numberOfListeners": 28849,
         "region": "HH"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 26730,
+        "numberOfListeners": 26667,
         "region": "HE"
       }
     ]

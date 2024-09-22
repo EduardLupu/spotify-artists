@@ -1,38 +1,38 @@
 {
   "id": "1ZOITEwKW2JCm6HDS96hwF",
   "name": "The Crystal Casino Band",
-  "followers": 36839,
-  "monthlyListeners": 125836,
+  "followers": 36846,
+  "monthlyListeners": 125802,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 1801,
+        "numberOfListeners": 1787,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1480,
+        "numberOfListeners": 1478,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 1460,
+        "numberOfListeners": 1461,
         "region": "NY"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1372,
+        "numberOfListeners": 1380,
         "region": "CA"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 1309,
+        "numberOfListeners": 1314,
         "region": "WA"
       }
     ]

@@ -1,14 +1,14 @@
 {
   "id": "5wcXTMooUetMp8uUNqC03W",
   "name": "Jeremy Shada",
-  "followers": 90914,
-  "monthlyListeners": 89283,
+  "followers": 90927,
+  "monthlyListeners": 89281,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 1084,
+        "numberOfListeners": 1071,
         "region": "NSW"
       },
       {
@@ -20,19 +20,19 @@
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 958,
+        "numberOfListeners": 944,
         "region": "SP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 833,
+        "numberOfListeners": 830,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 740,
+        "numberOfListeners": 744,
         "region": "IL"
       }
     ]

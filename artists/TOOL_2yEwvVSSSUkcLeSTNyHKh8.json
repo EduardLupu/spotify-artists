@@ -1,38 +1,38 @@
 {
   "id": "2yEwvVSSSUkcLeSTNyHKh8",
   "name": "TOOL",
-  "followers": 3865332,
-  "monthlyListeners": 4361929,
+  "followers": 3867023,
+  "monthlyListeners": 4360777,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 94315,
+        "numberOfListeners": 94183,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 67776,
+        "numberOfListeners": 67718,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 64528,
+        "numberOfListeners": 64390,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 63567,
+        "numberOfListeners": 63333,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 56354,
+        "numberOfListeners": 56228,
         "region": "TX"
       }
     ]

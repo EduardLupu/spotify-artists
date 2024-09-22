@@ -1,38 +1,38 @@
 {
   "id": "3fZk3Gm5dN5v5yfYMQ04Bx",
   "name": "Dímelo Flow",
-  "followers": 474367,
-  "monthlyListeners": 7841885,
+  "followers": 475057,
+  "monthlyListeners": 7802767,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 412546,
+        "numberOfListeners": 407884,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 364571,
+        "numberOfListeners": 363305,
         "region": "DC"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 318116,
+        "numberOfListeners": 317756,
         "region": "C"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 300001,
+        "numberOfListeners": 298012,
         "region": "LMA"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 229406,
+        "numberOfListeners": 228050,
         "region": "CMX"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "0LnhY2fzptb0QEs5Q5gM7S",
   "name": "Laylow",
-  "followers": 795803,
-  "monthlyListeners": 2179717,
+  "followers": 796677,
+  "monthlyListeners": 2248314,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 406590,
+        "numberOfListeners": 421552,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 97753,
+        "numberOfListeners": 101429,
         "region": "BRU"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 90811,
+        "numberOfListeners": 93918,
         "region": "ARA"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 75786,
+        "numberOfListeners": 79085,
         "region": "HDF"
       },
       {
         "city": "Marseille",
         "country": "FR",
-        "numberOfListeners": 62448,
+        "numberOfListeners": 64205,
         "region": "PAC"
       }
     ]

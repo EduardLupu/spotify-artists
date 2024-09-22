@@ -1,38 +1,38 @@
 {
   "id": "1nIUhcKHnK6iyumRyoV68C",
   "name": "Ennio Morricone",
-  "followers": 1199216,
-  "monthlyListeners": 3491277,
+  "followers": 1199613,
+  "monthlyListeners": 3498338,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 52141,
+        "numberOfListeners": 52202,
         "region": "IDF"
       },
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 46493,
+        "numberOfListeners": 46855,
         "region": "25"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 43644,
+        "numberOfListeners": 43796,
         "region": "ENG"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 42435,
+        "numberOfListeners": 42272,
         "region": "RM"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 41913,
+        "numberOfListeners": 42261,
         "region": "MD"
       }
     ]

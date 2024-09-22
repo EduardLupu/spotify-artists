@@ -1,39 +1,39 @@
 {
   "id": "72Pr391YLd9gwOs6bdk6pE",
   "name": "Apache",
-  "followers": 143,
-  "monthlyListeners": 170,
+  "followers": 144,
+  "monthlyListeners": 190,
   "topCities": {
     "items": [
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 43,
+        "numberOfListeners": 54,
         "region": "25"
       },
       {
         "city": "Rome",
         "country": "IT",
-        "numberOfListeners": 9,
+        "numberOfListeners": 10,
         "region": "62"
       },
       {
         "city": "Turin",
         "country": "IT",
-        "numberOfListeners": 4,
+        "numberOfListeners": 7,
         "region": "21"
-      },
-      {
-        "city": "Bari",
-        "country": "IT",
-        "numberOfListeners": 4,
-        "region": "75"
       },
       {
         "city": "Monza",
         "country": "IT",
-        "numberOfListeners": 4,
+        "numberOfListeners": 5,
         "region": "25"
+      },
+      {
+        "city": "Florence",
+        "country": "IT",
+        "numberOfListeners": 4,
+        "region": "52"
       }
     ]
   },

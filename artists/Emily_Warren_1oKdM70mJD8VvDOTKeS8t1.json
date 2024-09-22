@@ -1,38 +1,38 @@
 {
   "id": "1oKdM70mJD8VvDOTKeS8t1",
   "name": "Emily Warren",
-  "followers": 59186,
-  "monthlyListeners": 1039055,
+  "followers": 59200,
+  "monthlyListeners": 1032953,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 39511,
+        "numberOfListeners": 39338,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 31629,
+        "numberOfListeners": 31489,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 28074,
+        "numberOfListeners": 28004,
         "region": "QLD"
       },
       {
         "city": "Perth",
         "country": "AU",
-        "numberOfListeners": 16603,
+        "numberOfListeners": 16599,
         "region": "WA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 13298,
+        "numberOfListeners": 13263,
         "region": "NY"
       }
     ]

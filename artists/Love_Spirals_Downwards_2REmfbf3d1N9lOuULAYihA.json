@@ -1,38 +1,38 @@
 {
   "id": "2REmfbf3d1N9lOuULAYihA",
   "name": "Love Spirals Downwards",
-  "followers": 25914,
-  "monthlyListeners": 52687,
+  "followers": 25929,
+  "monthlyListeners": 52782,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1446,
+        "numberOfListeners": 1435,
         "region": "CA"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 1162,
+        "numberOfListeners": 1148,
         "region": "NY"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 1040,
+        "numberOfListeners": 1046,
         "region": "VIC"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 1013,
+        "numberOfListeners": 1020,
         "region": "NY"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 930,
+        "numberOfListeners": 950,
         "region": "ENG"
       }
     ]

@@ -1,14 +1,14 @@
 {
   "id": "7LXPA3qA1GDUhGYY1OfurU",
   "name": "Decimation",
-  "followers": 2528,
-  "monthlyListeners": 126,
+  "followers": 2529,
+  "monthlyListeners": 129,
   "topCities": {
     "items": [
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 13,
+        "numberOfListeners": 14,
         "region": "34"
       },
       {
@@ -24,16 +24,16 @@
         "region": "35"
       },
       {
-        "city": "Berlin",
-        "country": "DE",
-        "numberOfListeners": 2,
-        "region": "BE"
-      },
-      {
         "city": "Warsaw",
         "country": "PL",
         "numberOfListeners": 2,
         "region": "14"
+      },
+      {
+        "city": "Edmonton",
+        "country": "CA",
+        "numberOfListeners": 2,
+        "region": "AB"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "08Ld63UgKrJ0nZnCkzHtzc",
   "name": "Project Pat",
-  "followers": 865561,
-  "monthlyListeners": 2632528,
+  "followers": 865834,
+  "monthlyListeners": 2621859,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 56189,
+        "numberOfListeners": 55781,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 53932,
+        "numberOfListeners": 53581,
         "region": "TX"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 50826,
+        "numberOfListeners": 50575,
         "region": "CA"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 45017,
+        "numberOfListeners": 44814,
         "region": "TX"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 40781,
+        "numberOfListeners": 40643,
         "region": "GA"
       }
     ]

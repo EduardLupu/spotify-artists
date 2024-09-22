@@ -1,38 +1,38 @@
 {
   "id": "3vAaWhdBR38Q02ohXqaNHT",
   "name": "The All-American Rejects",
-  "followers": 2677800,
-  "monthlyListeners": 7853807,
+  "followers": 2678527,
+  "monthlyListeners": 7862085,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 131398,
+        "numberOfListeners": 131174,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 108573,
+        "numberOfListeners": 108590,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 105784,
+        "numberOfListeners": 105353,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 103247,
+        "numberOfListeners": 103280,
         "region": "VIC"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 97645,
+        "numberOfListeners": 97814,
         "region": "PA"
       }
     ]

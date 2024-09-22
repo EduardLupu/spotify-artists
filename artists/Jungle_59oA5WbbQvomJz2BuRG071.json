@@ -1,38 +1,38 @@
 {
   "id": "59oA5WbbQvomJz2BuRG071",
   "name": "Jungle",
-  "followers": 1495336,
-  "monthlyListeners": 13170497,
+  "followers": 1496511,
+  "monthlyListeners": 13174120,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 436527,
+        "numberOfListeners": 436123,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 249320,
+        "numberOfListeners": 250435,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 210999,
+        "numberOfListeners": 211640,
         "region": "VIC"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 189635,
+        "numberOfListeners": 190825,
         "region": "NH"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 184520,
+        "numberOfListeners": 184875,
         "region": "CA"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "4RSyJzf7ef6Iu2rnLdabNq",
   "name": "Willy William",
-  "followers": 250324,
-  "monthlyListeners": 8171772,
+  "followers": 250486,
+  "monthlyListeners": 8165241,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 113469,
+        "numberOfListeners": 113414,
         "region": "IDF"
       },
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 98375,
+        "numberOfListeners": 98245,
         "region": "34"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 89579,
+        "numberOfListeners": 90049,
         "region": "NH"
       },
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 80095,
+        "numberOfListeners": 80266,
         "region": "25"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 77028,
+        "numberOfListeners": 76997,
         "region": "QC"
       }
     ]

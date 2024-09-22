@@ -1,38 +1,38 @@
 {
   "id": "1CMml5seBEaxQzlmaGxMPx",
   "name": "The Buttertones",
-  "followers": 153095,
-  "monthlyListeners": 574989,
+  "followers": 153144,
+  "monthlyListeners": 577103,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 20977,
+        "numberOfListeners": 21021,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 9924,
+        "numberOfListeners": 9883,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 7842,
+        "numberOfListeners": 7888,
         "region": "NY"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 7453,
+        "numberOfListeners": 7460,
         "region": "AZ"
       },
       {
         "city": "San Diego",
         "country": "US",
-        "numberOfListeners": 6243,
+        "numberOfListeners": 6348,
         "region": "CA"
       }
     ]

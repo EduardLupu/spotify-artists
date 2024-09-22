@@ -1,39 +1,39 @@
 {
   "id": "5DZZ6l0y3YgzotE100iJSO",
   "name": "Sparkbird",
-  "followers": 26018,
-  "monthlyListeners": 150940,
+  "followers": 26062,
+  "monthlyListeners": 150483,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2126,
+        "numberOfListeners": 2111,
         "region": "IL"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 1882,
+        "numberOfListeners": 1878,
         "region": "WA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1523,
+        "numberOfListeners": 1524,
         "region": "ENG"
-      },
-      {
-        "city": "Los Angeles",
-        "country": "US",
-        "numberOfListeners": 1470,
-        "region": "CA"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 1464,
+        "numberOfListeners": 1465,
         "region": "TX"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 1451,
+        "region": "CA"
       }
     ]
   },

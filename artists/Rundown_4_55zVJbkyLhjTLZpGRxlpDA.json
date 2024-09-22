@@ -1,38 +1,38 @@
 {
   "id": "55zVJbkyLhjTLZpGRxlpDA",
   "name": "Rundown 4",
-  "followers": 5647,
-  "monthlyListeners": 23005,
+  "followers": 5658,
+  "monthlyListeners": 23139,
   "topCities": {
     "items": [
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 4279,
+        "numberOfListeners": 4288,
         "region": "TX"
       },
       {
         "city": "Fort Worth",
         "country": "US",
-        "numberOfListeners": 1099,
+        "numberOfListeners": 1104,
         "region": "TX"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 892,
+        "numberOfListeners": 886,
         "region": "TX"
       },
       {
         "city": "Arlington",
         "country": "US",
-        "numberOfListeners": 568,
+        "numberOfListeners": 573,
         "region": "TX"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 518,
+        "numberOfListeners": 522,
         "region": "IL"
       }
     ]

@@ -1,41 +1,41 @@
 {
   "id": "21451j1KhjAiaYKflxBjr1",
   "name": "Zion & Lennox",
-  "followers": 7684288,
-  "monthlyListeners": 17532965,
+  "followers": 7685993,
+  "monthlyListeners": 17511534,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 884195,
+        "numberOfListeners": 880833,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 712775,
+        "numberOfListeners": 713211,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 498299,
+        "numberOfListeners": 498802,
         "region": "LMA"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 455235,
+        "numberOfListeners": 453739,
         "region": "CMX"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 355888,
+        "numberOfListeners": 356053,
         "region": "ANT"
       }
     ]
   },
-  "worldRank": 454
+  "worldRank": 457
 }

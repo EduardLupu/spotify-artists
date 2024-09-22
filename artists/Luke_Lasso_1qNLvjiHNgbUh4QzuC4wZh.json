@@ -1,8 +1,8 @@
 {
   "id": "1qNLvjiHNgbUh4QzuC4wZh",
   "name": "Luke Lasso",
-  "followers": 206,
-  "monthlyListeners": 12343,
+  "followers": 207,
+  "monthlyListeners": 12385,
   "topCities": {
     "items": [
       {
@@ -14,26 +14,26 @@
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 172,
+        "numberOfListeners": 177,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 166,
+        "numberOfListeners": 165,
         "region": "IL"
-      },
-      {
-        "city": "Denver",
-        "country": "US",
-        "numberOfListeners": 140,
-        "region": "CO"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 136,
+        "numberOfListeners": 137,
         "region": "WA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 135,
+        "region": "CO"
       }
     ]
   },

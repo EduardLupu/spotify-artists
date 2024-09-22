@@ -1,41 +1,41 @@
 {
   "id": "5JZ7CnR6gTvEMKX4g70Amv",
   "name": "Lauv",
-  "followers": 6295090,
-  "monthlyListeners": 17025142,
+  "followers": 6296374,
+  "monthlyListeners": 17047240,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 880447,
+        "numberOfListeners": 884096,
         "region": "JK"
       },
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 335004,
+        "numberOfListeners": 337775,
         "region": "00"
       },
       {
         "city": "Bangkok",
         "country": "TH",
-        "numberOfListeners": 262280,
+        "numberOfListeners": 263465,
         "region": "10"
       },
       {
         "city": "Kuala Lumpur",
         "country": "MY",
-        "numberOfListeners": 256617,
+        "numberOfListeners": 257337,
         "region": "14"
       },
       {
         "city": "Singapore",
         "country": "SG",
-        "numberOfListeners": 252209,
+        "numberOfListeners": 253855,
         "region": ""
       }
     ]
   },
-  "worldRank": 474
+  "worldRank": 471
 }

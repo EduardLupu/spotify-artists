@@ -1,41 +1,41 @@
 {
   "id": "5lwmRuXgjX8xIwlnauTZIP",
   "name": "Romeo Santos",
-  "followers": 22414041,
-  "monthlyListeners": 29703836,
+  "followers": 22425877,
+  "monthlyListeners": 29760812,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1462012,
+        "numberOfListeners": 1458871,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 1232367,
+        "numberOfListeners": 1235642,
         "region": "DC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1188569,
+        "numberOfListeners": 1185049,
         "region": "CMX"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 908547,
+        "numberOfListeners": 909466,
         "region": "LMA"
       },
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 637193,
+        "numberOfListeners": 620871,
         "region": "GU"
       }
     ]
   },
-  "worldRank": 165
+  "worldRank": 163
 }

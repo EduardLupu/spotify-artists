@@ -1,38 +1,38 @@
 {
   "id": "1FhamVtJlNqaekPnwxQpbk",
   "name": "Fearless Motivation",
-  "followers": 418665,
-  "monthlyListeners": 878109,
+  "followers": 418744,
+  "monthlyListeners": 878041,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 12369,
+        "numberOfListeners": 12307,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 11995,
+        "numberOfListeners": 11956,
         "region": "NSW"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 11214,
+        "numberOfListeners": 11304,
         "region": "QC"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 9818,
+        "numberOfListeners": 9846,
         "region": "BE"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 9767,
+        "numberOfListeners": 9837,
         "region": "NH"
       }
     ]

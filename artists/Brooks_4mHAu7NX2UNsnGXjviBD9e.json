@@ -1,38 +1,38 @@
 {
   "id": "4mHAu7NX2UNsnGXjviBD9e",
   "name": "Brooks",
-  "followers": 321519,
-  "monthlyListeners": 1951036,
+  "followers": 321499,
+  "monthlyListeners": 1963386,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 21961,
+        "numberOfListeners": 22161,
         "region": "NSW"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 21118,
+        "numberOfListeners": 21375,
         "region": "NH"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 20430,
+        "numberOfListeners": 20599,
         "region": "JK"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 20388,
+        "numberOfListeners": 20282,
         "region": "RM"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 19194,
+        "numberOfListeners": 19349,
         "region": "QC"
       }
     ]

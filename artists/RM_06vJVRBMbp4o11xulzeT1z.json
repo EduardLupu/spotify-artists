@@ -1,38 +1,38 @@
 {
   "id": "06vJVRBMbp4o11xulzeT1z",
   "name": "RM",
-  "followers": 25642,
-  "monthlyListeners": 164915,
+  "followers": 25671,
+  "monthlyListeners": 164353,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 28309,
+        "numberOfListeners": 28099,
         "region": "ENG"
       },
       {
         "city": "Birmingham",
         "country": "GB",
-        "numberOfListeners": 21204,
+        "numberOfListeners": 20997,
         "region": "ENG"
       },
       {
         "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 18512,
+        "numberOfListeners": 18486,
         "region": "ENG"
       },
       {
         "city": "Southwark",
         "country": "GB",
-        "numberOfListeners": 9023,
+        "numberOfListeners": 9120,
         "region": "ENG"
       },
       {
         "city": "Leeds",
         "country": "GB",
-        "numberOfListeners": 7371,
+        "numberOfListeners": 7460,
         "region": "ENG"
       }
     ]

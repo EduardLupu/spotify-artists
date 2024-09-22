@@ -1,39 +1,39 @@
 {
   "id": "1hzfo8twXdOegF3xireCYs",
   "name": "Milky Chance",
-  "followers": 1968014,
-  "monthlyListeners": 14812935,
+  "followers": 1968410,
+  "monthlyListeners": 14769279,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 250017,
+        "numberOfListeners": 250443,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 204715,
+        "numberOfListeners": 204558,
         "region": "VIC"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 187598,
+        "region": "QLD"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 188254,
+        "numberOfListeners": 187151,
         "region": "ENG"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 187794,
+        "numberOfListeners": 186739,
         "region": "BE"
-      },
-      {
-        "city": "Brisbane",
-        "country": "AU",
-        "numberOfListeners": 187331,
-        "region": "QLD"
       }
     ]
   },

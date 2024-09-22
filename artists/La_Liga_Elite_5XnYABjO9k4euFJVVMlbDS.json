@@ -1,38 +1,38 @@
 {
   "id": "5XnYABjO9k4euFJVVMlbDS",
   "name": "La Liga Elite",
-  "followers": 9143,
-  "monthlyListeners": 62767,
+  "followers": 9162,
+  "monthlyListeners": 62170,
   "topCities": {
     "items": [
       {
         "city": "San Juan",
         "country": "US",
-        "numberOfListeners": 8090,
+        "numberOfListeners": 7987,
         "region": "PR"
       },
       {
         "city": "San José",
         "country": "CR",
-        "numberOfListeners": 3338,
+        "numberOfListeners": 3268,
         "region": "SJ"
       },
       {
         "city": "Bayamón",
         "country": "US",
-        "numberOfListeners": 2776,
+        "numberOfListeners": 2758,
         "region": "PR"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 2237,
+        "numberOfListeners": 2190,
         "region": "RM"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 2015,
+        "numberOfListeners": 2004,
         "region": "ANT"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "7bXgB6jMjp9ATFy66eO08Z",
   "name": "Chris Brown",
-  "followers": 23325200,
-  "monthlyListeners": 49231676,
+  "followers": 23337675,
+  "monthlyListeners": 49177092,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 854158,
+        "numberOfListeners": 852598,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 756395,
+        "numberOfListeners": 755819,
         "region": "SP"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 679259,
+        "numberOfListeners": 679800,
         "region": "JK"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 654480,
+        "numberOfListeners": 655078,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 514086,
+        "numberOfListeners": 514150,
         "region": "VIC"
       }
     ]

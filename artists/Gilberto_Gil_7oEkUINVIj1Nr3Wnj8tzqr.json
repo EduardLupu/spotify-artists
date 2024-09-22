@@ -1,39 +1,39 @@
 {
   "id": "7oEkUINVIj1Nr3Wnj8tzqr",
   "name": "Gilberto Gil",
-  "followers": 1334522,
-  "monthlyListeners": 4833357,
+  "followers": 1335244,
+  "monthlyListeners": 4932283,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 802706,
+        "numberOfListeners": 819528,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 287377,
+        "numberOfListeners": 290809,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 242284,
+        "numberOfListeners": 248249,
         "region": "MG"
       },
       {
         "city": "Campinas",
         "country": "BR",
-        "numberOfListeners": 171919,
+        "numberOfListeners": 176782,
         "region": "SP"
       },
       {
-        "city": "Brasília",
+        "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 154016,
-        "region": "DF"
+        "numberOfListeners": 158524,
+        "region": "PR"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "2tmWjaROlvLpahIZcvPLwi",
   "name": "Jez Dior",
-  "followers": 84831,
-  "monthlyListeners": 195639,
+  "followers": 84830,
+  "monthlyListeners": 195254,
   "topCities": {
     "items": [
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 3225,
+        "numberOfListeners": 3240,
         "region": "CO"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2834,
+        "numberOfListeners": 2803,
         "region": "IL"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 2449,
+        "numberOfListeners": 2427,
         "region": "WA"
       },
       {
         "city": "Minneapolis",
         "country": "US",
-        "numberOfListeners": 2380,
+        "numberOfListeners": 2366,
         "region": "MN"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 2204,
+        "numberOfListeners": 2195,
         "region": "AZ"
       }
     ]

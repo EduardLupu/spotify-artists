@@ -1,38 +1,38 @@
 {
   "id": "1qh1aHXy7LRcb7eyriuJTS",
   "name": "Rehab",
-  "followers": 337557,
-  "monthlyListeners": 988455,
+  "followers": 337635,
+  "monthlyListeners": 990637,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 19462,
+        "numberOfListeners": 19364,
         "region": "IL"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 18821,
+        "numberOfListeners": 18917,
         "region": "NC"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 17496,
+        "numberOfListeners": 17552,
         "region": "TX"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 17259,
+        "numberOfListeners": 17317,
         "region": "CO"
       },
       {
         "city": "Minneapolis",
         "country": "US",
-        "numberOfListeners": 17076,
+        "numberOfListeners": 17030,
         "region": "MN"
       }
     ]

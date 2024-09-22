@@ -1,38 +1,38 @@
 {
   "id": "0SCbttzoZTnLFebDYmAWCm",
   "name": "Glee Cast",
-  "followers": 1514084,
-  "monthlyListeners": 3732378,
+  "followers": 1514168,
+  "monthlyListeners": 3731218,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 67294,
+        "numberOfListeners": 67357,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 58015,
+        "numberOfListeners": 57934,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 57513,
+        "numberOfListeners": 57450,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 54442,
+        "numberOfListeners": 54453,
         "region": "VIC"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 50945,
+        "numberOfListeners": 50844,
         "region": "JK"
       }
     ]

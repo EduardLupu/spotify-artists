@@ -1,38 +1,38 @@
 {
   "id": "6sHCvZe1PHrOAuYlwTLNH4",
   "name": "Gus Dapperton",
-  "followers": 498710,
-  "monthlyListeners": 1044744,
+  "followers": 498730,
+  "monthlyListeners": 1039761,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 20704,
+        "numberOfListeners": 20602,
         "region": "CA"
-      },
-      {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 16785,
-        "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 16741,
+        "numberOfListeners": 16736,
         "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 16595,
+        "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 14344,
+        "numberOfListeners": 14260,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 13275,
+        "numberOfListeners": 13165,
         "region": "ENG"
       }
     ]

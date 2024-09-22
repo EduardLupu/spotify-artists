@@ -1,15 +1,21 @@
 {
   "id": "7N3HcnSB8NJl6WtJ94HEwW",
   "name": "ANNA",
-  "followers": 183,
-  "monthlyListeners": 418,
+  "followers": 185,
+  "monthlyListeners": 480,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 46,
+        "numberOfListeners": 52,
         "region": "IDF"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 9,
+        "region": "QC"
       },
       {
         "city": "Tours",
@@ -18,21 +24,15 @@
         "region": "CVL"
       },
       {
-        "city": "Montreal",
-        "country": "CA",
-        "numberOfListeners": 8,
-        "region": "QC"
-      },
-      {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 6,
+        "numberOfListeners": 8,
         "region": "BRU"
       },
       {
         "city": "Nantes",
         "country": "FR",
-        "numberOfListeners": 6,
+        "numberOfListeners": 7,
         "region": "PDL"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "7JVShmAauuaq861DoM5rP6",
   "name": "Dead Rabbitts",
-  "followers": 40696,
-  "monthlyListeners": 201183,
+  "followers": 40713,
+  "monthlyListeners": 187857,
   "topCities": {
     "items": [
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 2767,
+        "numberOfListeners": 2634,
         "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 2568,
+        "numberOfListeners": 2438,
         "region": "NSW"
-      },
-      {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 2335,
-        "region": "IL"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 2306,
+        "numberOfListeners": 2210,
         "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 2164,
+        "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1776,
+        "numberOfListeners": 1644,
         "region": "ENG"
       }
     ]

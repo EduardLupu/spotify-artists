@@ -1,39 +1,39 @@
 {
   "id": "4x7kxyIgzgtrHYDQ8SCzo2",
   "name": "Marcos Witt",
-  "followers": 1995544,
-  "monthlyListeners": 2049600,
+  "followers": 1996259,
+  "monthlyListeners": 2051840,
   "topCities": {
     "items": [
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 123376,
+        "numberOfListeners": 119662,
         "region": "GU"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 108711,
+        "numberOfListeners": 108797,
         "region": "DC"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 72304,
+        "region": "01"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 72767,
+        "numberOfListeners": 72177,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 66775,
+        "numberOfListeners": 66571,
         "region": "CMX"
-      },
-      {
-        "city": "Guatemala City",
-        "country": "GT",
-        "numberOfListeners": 66577,
-        "region": "01"
       }
     ]
   },

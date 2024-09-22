@@ -1,38 +1,38 @@
 {
   "id": "2cCUtGK9sDU2EoElnk0GNB",
   "name": "The National",
-  "followers": 1630248,
-  "monthlyListeners": 4220471,
+  "followers": 1630521,
+  "monthlyListeners": 4221591,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 82024,
+        "numberOfListeners": 81706,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 57838,
+        "numberOfListeners": 57782,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 56539,
+        "numberOfListeners": 56468,
         "region": "VIC"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 50854,
+        "numberOfListeners": 51129,
         "region": "NY"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 48651,
+        "numberOfListeners": 48654,
         "region": "JK"
       }
     ]

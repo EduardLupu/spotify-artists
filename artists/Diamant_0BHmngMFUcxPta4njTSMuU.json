@@ -1,38 +1,38 @@
 {
   "id": "0BHmngMFUcxPta4njTSMuU",
   "name": "Diamant",
-  "followers": 20133,
-  "monthlyListeners": 65816,
+  "followers": 20135,
+  "monthlyListeners": 66513,
   "topCities": {
     "items": [
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 4959,
+        "numberOfListeners": 5032,
         "region": "BY"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 4462,
+        "numberOfListeners": 4657,
         "region": "HH"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 4372,
+        "numberOfListeners": 4421,
         "region": "BE"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 3994,
+        "numberOfListeners": 4069,
         "region": "HE"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 3642,
+        "numberOfListeners": 3763,
         "region": "BW"
       }
     ]

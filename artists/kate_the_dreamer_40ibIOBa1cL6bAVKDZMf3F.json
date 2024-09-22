@@ -1,39 +1,39 @@
 {
   "id": "40ibIOBa1cL6bAVKDZMf3F",
   "name": "kate the dreamer",
-  "followers": 7886,
-  "monthlyListeners": 33909,
+  "followers": 7884,
+  "monthlyListeners": 33794,
   "topCities": {
     "items": [
       {
-        "city": "New York City",
-        "country": "US",
-        "numberOfListeners": 453,
-        "region": "NY"
-      },
-      {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 441,
+        "numberOfListeners": 449,
         "region": "WA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 448,
+        "region": "NY"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 415,
+        "numberOfListeners": 413,
         "region": "CA"
-      },
-      {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 404,
-        "region": "IL"
       },
       {
         "city": "Denver",
         "country": "US",
         "numberOfListeners": 401,
         "region": "CO"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 396,
+        "region": "IL"
       }
     ]
   },

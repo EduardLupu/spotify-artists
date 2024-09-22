@@ -14,20 +14,20 @@
       {
         "city": "Antananarivo",
         "country": "MG",
-        "numberOfListeners": 7,
+        "numberOfListeners": 6,
         "region": ""
+      },
+      {
+        "city": "Port Louis",
+        "country": "MU",
+        "numberOfListeners": 5,
+        "region": "PL"
       },
       {
         "city": "Toulouse",
         "country": "FR",
         "numberOfListeners": 5,
         "region": "OCC"
-      },
-      {
-        "city": "Port Louis",
-        "country": "MU",
-        "numberOfListeners": 4,
-        "region": "PL"
       },
       {
         "city": "Montreal",

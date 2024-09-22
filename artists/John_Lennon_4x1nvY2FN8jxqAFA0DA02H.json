@@ -1,38 +1,38 @@
 {
   "id": "4x1nvY2FN8jxqAFA0DA02H",
   "name": "John Lennon",
-  "followers": 6144856,
-  "monthlyListeners": 10771324,
+  "followers": 6146504,
+  "monthlyListeners": 10827363,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 185850,
+        "numberOfListeners": 185475,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 181942,
+        "numberOfListeners": 181911,
         "region": "CMX"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 142377,
+        "numberOfListeners": 144084,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 133798,
+        "numberOfListeners": 134376,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 110792,
+        "numberOfListeners": 111348,
         "region": "NSW"
       }
     ]

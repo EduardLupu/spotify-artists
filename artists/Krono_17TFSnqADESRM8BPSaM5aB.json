@@ -1,38 +1,38 @@
 {
   "id": "17TFSnqADESRM8BPSaM5aB",
   "name": "Krono",
-  "followers": 37539,
-  "monthlyListeners": 7494199,
+  "followers": 37578,
+  "monthlyListeners": 7478830,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 103895,
+        "numberOfListeners": 103118,
         "region": "CMX"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 102093,
+        "numberOfListeners": 101705,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 86208,
+        "numberOfListeners": 85483,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 73304,
+        "numberOfListeners": 73403,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 73064,
+        "numberOfListeners": 72544,
         "region": "ENG"
       }
     ]

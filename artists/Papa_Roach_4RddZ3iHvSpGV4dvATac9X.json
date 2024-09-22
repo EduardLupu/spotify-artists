@@ -1,38 +1,38 @@
 {
   "id": "4RddZ3iHvSpGV4dvATac9X",
   "name": "Papa Roach",
-  "followers": 5327986,
-  "monthlyListeners": 13540269,
+  "followers": 5329787,
+  "monthlyListeners": 13486561,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 166687,
+        "numberOfListeners": 165979,
         "region": "ENG"
-      },
-      {
-        "city": "Santiago",
-        "country": "CL",
-        "numberOfListeners": 151975,
-        "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 150221,
+        "numberOfListeners": 149609,
         "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 149268,
+        "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 141926,
+        "numberOfListeners": 141091,
         "region": "SP"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 139818,
+        "numberOfListeners": 138750,
         "region": "IL"
       }
     ]

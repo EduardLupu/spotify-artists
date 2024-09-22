@@ -1,8 +1,8 @@
 {
   "id": "4N6mK6pFifTiAIGvf8DLLn",
   "name": "V",
-  "followers": 901,
-  "monthlyListeners": 4413,
+  "followers": 903,
+  "monthlyListeners": 4361,
   "topCities": {
     "items": [
       {
@@ -14,25 +14,25 @@
       {
         "city": "Taipei",
         "country": "TW",
-        "numberOfListeners": 71,
+        "numberOfListeners": 72,
         "region": "TPE"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 60,
+        "numberOfListeners": 61,
         "region": "CMX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 56,
+        "numberOfListeners": 54,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 54,
+        "numberOfListeners": 51,
         "region": "VIC"
       }
     ]

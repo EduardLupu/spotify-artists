@@ -1,38 +1,38 @@
 {
   "id": "5tHiL8SKSaZGMBUPIiSmX4",
   "name": "KITSCHKRIEG",
-  "followers": 208567,
-  "monthlyListeners": 2088750,
+  "followers": 208587,
+  "monthlyListeners": 2076217,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 174734,
+        "numberOfListeners": 174344,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 131284,
+        "numberOfListeners": 134746,
         "region": "HH"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 118348,
+        "numberOfListeners": 117614,
         "region": "HE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 107974,
+        "numberOfListeners": 108167,
         "region": "BY"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 90755,
+        "numberOfListeners": 92018,
         "region": "BW"
       }
     ]

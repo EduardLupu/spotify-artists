@@ -1,38 +1,38 @@
 {
   "id": "7dvG18F378r7HRxmiHn3ti",
   "name": "Valiant",
-  "followers": 231791,
-  "monthlyListeners": 596105,
+  "followers": 232096,
+  "monthlyListeners": 594190,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 69897,
+        "numberOfListeners": 69373,
         "region": "ENG"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 33113,
+        "numberOfListeners": 33077,
         "region": "ON"
       },
       {
         "city": "Kingston",
         "country": "JM",
-        "numberOfListeners": 28740,
+        "numberOfListeners": 28966,
         "region": "01"
       },
       {
         "city": "Southwark",
         "country": "GB",
-        "numberOfListeners": 24030,
+        "numberOfListeners": 23971,
         "region": "ENG"
       },
       {
         "city": "Birmingham",
         "country": "GB",
-        "numberOfListeners": 19849,
+        "numberOfListeners": 19675,
         "region": "ENG"
       }
     ]

@@ -1,20 +1,20 @@
 {
   "id": "3s7mu0cVl7jhG6EZE6WNP6",
   "name": "Dominick Fulco",
-  "followers": 8797,
-  "monthlyListeners": 17440,
+  "followers": 8801,
+  "monthlyListeners": 17544,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 264,
+        "numberOfListeners": 262,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 237,
+        "numberOfListeners": 234,
         "region": "NY"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 209,
+        "numberOfListeners": 213,
         "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 183,
+        "numberOfListeners": 182,
         "region": "VIC"
       }
     ]

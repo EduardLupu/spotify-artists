@@ -1,38 +1,38 @@
 {
   "id": "2GL5OJQQ0qp2rtth8iy6Kf",
   "name": "Rohne",
-  "followers": 9789,
-  "monthlyListeners": 153431,
+  "followers": 9793,
+  "monthlyListeners": 152262,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 2963,
+        "numberOfListeners": 2926,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 2454,
+        "numberOfListeners": 2430,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 2394,
+        "numberOfListeners": 2368,
         "region": "VIC"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 2192,
+        "numberOfListeners": 2181,
         "region": "BE"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 1709,
+        "numberOfListeners": 1715,
         "region": "NH"
       }
     ]

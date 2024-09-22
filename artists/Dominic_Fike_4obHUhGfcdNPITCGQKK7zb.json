@@ -2,37 +2,37 @@
   "id": "4obHUhGfcdNPITCGQKK7zb",
   "name": "Dominic Fike",
   "followers": 77,
-  "monthlyListeners": 55407,
+  "monthlyListeners": 54908,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 1493,
+        "numberOfListeners": 1486,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 1302,
+        "numberOfListeners": 1290,
         "region": "VIC"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 923,
-        "region": "ENG"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 920,
+        "numberOfListeners": 918,
         "region": "QLD"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 901,
+        "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 812,
+        "numberOfListeners": 813,
         "region": "NY"
       }
     ]

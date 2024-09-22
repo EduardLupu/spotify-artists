@@ -1,20 +1,20 @@
 {
   "id": "7cce47QG2IibkXS6YdTtR3",
   "name": "KISS",
-  "followers": 941,
-  "monthlyListeners": 16945,
+  "followers": 943,
+  "monthlyListeners": 16981,
   "topCities": {
     "items": [
       {
         "city": "Singapore",
         "country": "SG",
-        "numberOfListeners": 877,
+        "numberOfListeners": 886,
         "region": ""
       },
       {
         "city": "Kuala Lumpur",
         "country": "MY",
-        "numberOfListeners": 832,
+        "numberOfListeners": 826,
         "region": "14"
       },
       {
@@ -26,14 +26,14 @@
       {
         "city": "Taipei",
         "country": "TW",
-        "numberOfListeners": 513,
+        "numberOfListeners": 517,
         "region": "TPE"
       },
       {
-        "city": "Lima",
-        "country": "PE",
+        "city": "São Paulo",
+        "country": "BR",
         "numberOfListeners": 382,
-        "region": "LMA"
+        "region": "SP"
       }
     ]
   },

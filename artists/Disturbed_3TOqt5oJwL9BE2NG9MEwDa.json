@@ -1,38 +1,38 @@
 {
   "id": "3TOqt5oJwL9BE2NG9MEwDa",
   "name": "Disturbed",
-  "followers": 6866892,
-  "monthlyListeners": 22243982,
+  "followers": 6868706,
+  "monthlyListeners": 22248764,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 393295,
+        "numberOfListeners": 397642,
         "region": "NH"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 379111,
+        "numberOfListeners": 378868,
         "region": "IDF"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 294624,
+        "numberOfListeners": 295569,
         "region": "ZH"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 244569,
+        "numberOfListeners": 245771,
         "region": "BRU"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 233886,
+        "numberOfListeners": 233534,
         "region": "ENG"
       }
     ]

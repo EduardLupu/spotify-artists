@@ -1,39 +1,39 @@
 {
   "id": "0pgvlX0BkfmeirXTDiNmya",
   "name": "Los Inquietos Del Norte",
-  "followers": 1665303,
-  "monthlyListeners": 3987026,
+  "followers": 1665782,
+  "monthlyListeners": 3985862,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 292889,
+        "numberOfListeners": 291261,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 161092,
+        "numberOfListeners": 160750,
         "region": "JAL"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 156769,
+        "numberOfListeners": 155684,
         "region": "QUE"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 127756,
+        "region": "CMX"
       },
       {
         "city": "Puebla City",
         "country": "MX",
-        "numberOfListeners": 127084,
+        "numberOfListeners": 125602,
         "region": "PUE"
-      },
-      {
-        "city": "Iztapalapa",
-        "country": "MX",
-        "numberOfListeners": 125464,
-        "region": "CMX"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "6jJ0s89eD6GaHleKKya26X",
   "name": "Katy Perry",
-  "followers": 34396461,
-  "monthlyListeners": 58061968,
+  "followers": 34414861,
+  "monthlyListeners": 58332241,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 1743274,
+        "numberOfListeners": 1754722,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 722640,
+        "numberOfListeners": 731603,
         "region": "SP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 718971,
+        "numberOfListeners": 719993,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 667772,
+        "numberOfListeners": 672210,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 570604,
+        "numberOfListeners": 573939,
         "region": "VIC"
       }
     ]

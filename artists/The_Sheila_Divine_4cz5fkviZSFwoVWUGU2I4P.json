@@ -1,26 +1,26 @@
 {
   "id": "4cz5fkviZSFwoVWUGU2I4P",
   "name": "The Sheila Divine",
-  "followers": 4308,
-  "monthlyListeners": 13194,
+  "followers": 4311,
+  "monthlyListeners": 13134,
   "topCities": {
     "items": [
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 2059,
+        "numberOfListeners": 2075,
         "region": "BRU"
       },
       {
         "city": "Antwerp",
         "country": "BE",
-        "numberOfListeners": 496,
+        "numberOfListeners": 503,
         "region": "VLG"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 277,
+        "numberOfListeners": 270,
         "region": "NH"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Boston",
         "country": "US",
-        "numberOfListeners": 159,
+        "numberOfListeners": 158,
         "region": "MA"
       }
     ]

@@ -1,39 +1,39 @@
 {
   "id": "0Ek89uaJyo6NfWK22awFvI",
   "name": "VanJess",
-  "followers": 168722,
-  "monthlyListeners": 412959,
+  "followers": 168736,
+  "monthlyListeners": 413434,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 9554,
+        "numberOfListeners": 9551,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 8344,
+        "numberOfListeners": 8251,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 7104,
+        "numberOfListeners": 7099,
         "region": "NSW"
-      },
-      {
-        "city": "New York City",
-        "country": "US",
-        "numberOfListeners": 6867,
-        "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 6769,
+        "numberOfListeners": 6980,
         "region": "IL"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 6909,
+        "region": "NY"
       }
     ]
   },

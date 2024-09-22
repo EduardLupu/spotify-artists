@@ -1,39 +1,39 @@
 {
   "id": "3ApUX1o6oSz321MMECyIYd",
   "name": "Quinn XCII",
-  "followers": 788764,
-  "monthlyListeners": 3614182,
+  "followers": 788887,
+  "monthlyListeners": 3552809,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 76943,
+        "numberOfListeners": 76216,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 74233,
+        "numberOfListeners": 74155,
         "region": "NY"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 62619,
+        "numberOfListeners": 62311,
         "region": "CO"
-      },
-      {
-        "city": "Los Angeles",
-        "country": "US",
-        "numberOfListeners": 49413,
-        "region": "CA"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 48997,
+        "numberOfListeners": 49051,
         "region": "PA"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 49037,
+        "region": "CA"
       }
     ]
   },

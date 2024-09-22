@@ -1,38 +1,38 @@
 {
   "id": "6ss7NRk9Y2P9n8q1yH2HXA",
   "name": "Godfather of Harlem",
-  "followers": 30404,
-  "monthlyListeners": 151652,
+  "followers": 30419,
+  "monthlyListeners": 151966,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 2124,
+        "numberOfListeners": 2123,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 2015,
+        "numberOfListeners": 2021,
         "region": "NSW"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 1957,
+        "numberOfListeners": 1967,
         "region": "ON"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 1830,
+        "numberOfListeners": 1843,
         "region": "NY"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 1759,
+        "numberOfListeners": 1747,
         "region": "PA"
       }
     ]

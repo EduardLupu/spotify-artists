@@ -1,38 +1,38 @@
 {
   "id": "0EmeFodog0BfCgMzAIvKQp",
   "name": "Shakira",
-  "followers": 34528096,
-  "monthlyListeners": 62358286,
+  "followers": 34544253,
+  "monthlyListeners": 62352791,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1845535,
+        "numberOfListeners": 1839941,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1668262,
+        "numberOfListeners": 1666666,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 1207880,
+        "numberOfListeners": 1208899,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 1041768,
+        "numberOfListeners": 1042798,
         "region": "LMA"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 925105,
+        "numberOfListeners": 928877,
         "region": "C"
       }
     ]

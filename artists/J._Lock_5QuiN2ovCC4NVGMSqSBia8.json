@@ -1,8 +1,8 @@
 {
   "id": "5QuiN2ovCC4NVGMSqSBia8",
   "name": "J. Lock",
-  "followers": 5328,
-  "monthlyListeners": 2638,
+  "followers": 5329,
+  "monthlyListeners": 2667,
   "topCities": {
     "items": [
       {
@@ -14,25 +14,25 @@
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 81,
+        "numberOfListeners": 77,
         "region": "GA"
-      },
-      {
-        "city": "Charlotte",
-        "country": "US",
-        "numberOfListeners": 59,
-        "region": "NC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 57,
+        "numberOfListeners": 58,
         "region": "IL"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 58,
+        "region": "NC"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 49,
+        "numberOfListeners": 50,
         "region": "TX"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "7BHbzzFLMa0yISBYkuiPxQ",
   "name": "JuJu",
-  "followers": 5384,
-  "monthlyListeners": 215132,
+  "followers": 5395,
+  "monthlyListeners": 217471,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 3072,
+        "numberOfListeners": 3111,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 2359,
+        "numberOfListeners": 2383,
         "region": "SP"
       },
       {
         "city": "Ho Chi Minh City",
         "country": "VN",
-        "numberOfListeners": 2293,
+        "numberOfListeners": 2298,
         "region": "SG"
       },
       {
         "city": "Bangkok",
         "country": "TH",
-        "numberOfListeners": 2276,
+        "numberOfListeners": 2282,
         "region": "10"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 2259,
+        "numberOfListeners": 2282,
         "region": "CA"
       }
     ]

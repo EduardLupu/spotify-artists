@@ -1,41 +1,41 @@
 {
   "id": "1dKdetem2xEmjgvyymzytS",
   "name": "Grupo Firme",
-  "followers": 13409659,
-  "monthlyListeners": 18990210,
+  "followers": 13417594,
+  "monthlyListeners": 18911785,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1718889,
+        "numberOfListeners": 1710091,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 913721,
+        "numberOfListeners": 911909,
         "region": "JAL"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 742007,
+        "numberOfListeners": 753757,
         "region": "CMX"
       },
       {
         "city": "Iztapalapa",
         "country": "MX",
-        "numberOfListeners": 714373,
+        "numberOfListeners": 691596,
         "region": "CMX"
       },
       {
         "city": "Puebla City",
         "country": "MX",
-        "numberOfListeners": 688042,
+        "numberOfListeners": 680261,
         "region": "PUE"
       }
     ]
   },
-  "worldRank": 396
+  "worldRank": 398
 }

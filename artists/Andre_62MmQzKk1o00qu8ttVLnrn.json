@@ -1,8 +1,8 @@
 {
   "id": "62MmQzKk1o00qu8ttVLnrn",
   "name": "Andre",
-  "followers": 332,
-  "monthlyListeners": 639,
+  "followers": 333,
+  "monthlyListeners": 642,
   "topCities": {
     "items": [
       {
@@ -12,28 +12,28 @@
         "region": "30"
       },
       {
-        "city": "Kampala",
-        "country": "UG",
-        "numberOfListeners": 14,
-        "region": "C"
-      },
-      {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 14,
+        "numberOfListeners": 15,
         "region": "00"
       },
       {
-        "city": "General Trias",
-        "country": "PH",
+        "city": "Toronto",
+        "country": "CA",
         "numberOfListeners": 13,
-        "region": "40"
+        "region": "ON"
       },
       {
         "city": "Manila",
         "country": "PH",
         "numberOfListeners": 13,
         "region": "00"
+      },
+      {
+        "city": "Kampala",
+        "country": "UG",
+        "numberOfListeners": 12,
+        "region": "C"
       }
     ]
   },

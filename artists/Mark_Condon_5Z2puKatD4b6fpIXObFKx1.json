@@ -1,20 +1,20 @@
 {
   "id": "5Z2puKatD4b6fpIXObFKx1",
   "name": "Mark Condon",
-  "followers": 5425,
-  "monthlyListeners": 9040,
+  "followers": 5427,
+  "monthlyListeners": 9017,
   "topCities": {
     "items": [
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 189,
+        "numberOfListeners": 188,
         "region": "TX"
       },
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 144,
+        "numberOfListeners": 143,
         "region": "00"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 99,
+        "numberOfListeners": 95,
         "region": "IL"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 96,
+        "numberOfListeners": 95,
         "region": "NC"
       }
     ]

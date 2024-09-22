@@ -12,28 +12,28 @@
         "region": "ENG"
       },
       {
-        "city": "Melbourne",
-        "country": "AU",
+        "city": "Silver Spring",
+        "country": "US",
         "numberOfListeners": 1,
-        "region": "VIC"
+        "region": "MD"
       },
       {
-        "city": "Bordeaux",
-        "country": "FR",
+        "city": "Bristol",
+        "country": "US",
         "numberOfListeners": 1,
-        "region": "NAQ"
+        "region": "CT"
       },
       {
-        "city": "Kassel",
-        "country": "DE",
+        "city": "Buenos Aires",
+        "country": "AR",
         "numberOfListeners": 1,
-        "region": "HE"
+        "region": "C"
       },
       {
-        "city": "Hanover",
-        "country": "DE",
+        "city": "Del Viso",
+        "country": "AR",
         "numberOfListeners": 1,
-        "region": "NI"
+        "region": "B"
       }
     ]
   },

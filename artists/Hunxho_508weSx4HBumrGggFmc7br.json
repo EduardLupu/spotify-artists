@@ -1,39 +1,39 @@
 {
   "id": "508weSx4HBumrGggFmc7br",
   "name": "Hunxho",
-  "followers": 291961,
-  "monthlyListeners": 2088186,
+  "followers": 292563,
+  "monthlyListeners": 2084295,
   "topCities": {
     "items": [
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 57549,
+        "numberOfListeners": 57469,
         "region": "GA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 42819,
+        "numberOfListeners": 42539,
         "region": "IL"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 40280,
+        "numberOfListeners": 40171,
         "region": "NC"
-      },
-      {
-        "city": "Dallas",
-        "country": "US",
-        "numberOfListeners": 39613,
-        "region": "TX"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 39493,
+        "numberOfListeners": 39480,
         "region": "ENG"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 39428,
+        "region": "TX"
       }
     ]
   },

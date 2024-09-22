@@ -1,38 +1,38 @@
 {
   "id": "5GcWBUX00IPuWVGMIRK1sS",
   "name": "Residente",
-  "followers": 1434385,
-  "monthlyListeners": 3397011,
+  "followers": 1435220,
+  "monthlyListeners": 3415396,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 170263,
+        "numberOfListeners": 170550,
         "region": "CMX"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 154999,
+        "numberOfListeners": 155824,
         "region": "DC"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 154994,
+        "numberOfListeners": 154370,
         "region": "RM"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 93471,
+        "numberOfListeners": 93862,
         "region": "C"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 87494,
+        "numberOfListeners": 87750,
         "region": "JAL"
       }
     ]

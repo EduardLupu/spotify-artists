@@ -1,38 +1,38 @@
 {
   "id": "1HGMG8RHvcu1mfdM9MeTek",
   "name": "Sadhana Sargam",
-  "followers": 1323208,
-  "monthlyListeners": 11060430,
+  "followers": 1323864,
+  "monthlyListeners": 11058950,
   "topCities": {
     "items": [
       {
         "city": "Chennai",
         "country": "IN",
-        "numberOfListeners": 1489443,
+        "numberOfListeners": 1489775,
         "region": "TN"
-      },
-      {
-        "city": "Mumbai",
-        "country": "IN",
-        "numberOfListeners": 824005,
-        "region": "MH"
       },
       {
         "city": "Hyderabad",
         "country": "IN",
-        "numberOfListeners": 823604,
+        "numberOfListeners": 823684,
         "region": "TS"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 821042,
+        "region": "MH"
       },
       {
         "city": "Bengaluru",
         "country": "IN",
-        "numberOfListeners": 699260,
+        "numberOfListeners": 699794,
         "region": "KA"
       },
       {
         "city": "Pune",
         "country": "IN",
-        "numberOfListeners": 697874,
+        "numberOfListeners": 699410,
         "region": "MH"
       }
     ]

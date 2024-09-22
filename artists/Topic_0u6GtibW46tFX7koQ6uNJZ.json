@@ -1,41 +1,41 @@
 {
   "id": "0u6GtibW46tFX7koQ6uNJZ",
   "name": "Topic",
-  "followers": 261290,
-  "monthlyListeners": 19324983,
+  "followers": 261449,
+  "monthlyListeners": 19342325,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 405579,
+        "numberOfListeners": 410908,
         "region": "NH"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 294012,
+        "numberOfListeners": 294127,
         "region": "BE"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 291578,
+        "numberOfListeners": 293609,
         "region": "ZH"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 272850,
+        "numberOfListeners": 272428,
         "region": "ENG"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 255705,
+        "numberOfListeners": 255272,
         "region": "HE"
       }
     ]
   },
-  "worldRank": 379
+  "worldRank": 378
 }

@@ -1,38 +1,38 @@
 {
   "id": "3NH8t45zOTqzlZgBvZRjvB",
   "name": "PNL",
-  "followers": 8685272,
-  "monthlyListeners": 4244822,
+  "followers": 8689539,
+  "monthlyListeners": 4248956,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 516055,
+        "numberOfListeners": 517732,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 144109,
+        "numberOfListeners": 144735,
         "region": "BRU"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 118812,
+        "numberOfListeners": 118802,
         "region": "ARA"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 100346,
+        "numberOfListeners": 101196,
         "region": "HDF"
       },
       {
         "city": "Marseille",
         "country": "FR",
-        "numberOfListeners": 84852,
+        "numberOfListeners": 84157,
         "region": "PAC"
       }
     ]

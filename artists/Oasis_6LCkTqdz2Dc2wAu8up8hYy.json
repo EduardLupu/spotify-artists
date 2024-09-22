@@ -6,12 +6,6 @@
   "topCities": {
     "items": [
       {
-        "city": "Tokyo",
-        "country": "JP",
-        "numberOfListeners": 5,
-        "region": "13"
-      },
-      {
         "city": "Berlin",
         "country": "DE",
         "numberOfListeners": 5,
@@ -24,16 +18,22 @@
         "region": "MG"
       },
       {
-        "city": "Osaka",
+        "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 2,
-        "region": "27"
+        "numberOfListeners": 4,
+        "region": "13"
       },
       {
-        "city": "Brooklyn",
-        "country": "US",
+        "city": "São Paulo",
+        "country": "BR",
         "numberOfListeners": 2,
-        "region": "NY"
+        "region": "SP"
+      },
+      {
+        "city": "Aracaju",
+        "country": "BR",
+        "numberOfListeners": 2,
+        "region": "SE"
       }
     ]
   },

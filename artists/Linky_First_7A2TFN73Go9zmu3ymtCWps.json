@@ -1,38 +1,38 @@
 {
   "id": "7A2TFN73Go9zmu3ymtCWps",
   "name": "Linky First",
-  "followers": 5522,
-  "monthlyListeners": 62027,
+  "followers": 5526,
+  "monthlyListeners": 61179,
   "topCities": {
     "items": [
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 5610,
+        "numberOfListeners": 5557,
         "region": "ON"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 4863,
+        "numberOfListeners": 4831,
         "region": "NY"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 3263,
+        "numberOfListeners": 3161,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 2598,
+        "numberOfListeners": 2599,
         "region": "NY"
       },
       {
         "city": "Queens",
         "country": "US",
-        "numberOfListeners": 1408,
+        "numberOfListeners": 1382,
         "region": "NY"
       }
     ]

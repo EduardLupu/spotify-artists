@@ -12,16 +12,16 @@
         "region": ""
       },
       {
-        "city": "New Delhi",
-        "country": "IN",
+        "city": "Kitchener",
+        "country": "CA",
         "numberOfListeners": 3,
-        "region": "DL"
+        "region": "ON"
       },
       {
-        "city": "Delhi",
-        "country": "IN",
+        "city": "Oslo",
+        "country": "NO",
         "numberOfListeners": 3,
-        "region": "DL"
+        "region": "03"
       },
       {
         "city": "Kuala Lumpur",
@@ -30,10 +30,10 @@
         "region": "14"
       },
       {
-        "city": "Melbourne",
-        "country": "AU",
+        "city": "Delhi",
+        "country": "IN",
         "numberOfListeners": 3,
-        "region": "VIC"
+        "region": "DL"
       }
     ]
   },

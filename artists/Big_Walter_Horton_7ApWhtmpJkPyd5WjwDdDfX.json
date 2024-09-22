@@ -1,38 +1,38 @@
 {
   "id": "7ApWhtmpJkPyd5WjwDdDfX",
   "name": "Big Walter Horton",
-  "followers": 32821,
-  "monthlyListeners": 169828,
+  "followers": 32835,
+  "monthlyListeners": 170100,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 3037,
+        "numberOfListeners": 3031,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 2177,
+        "numberOfListeners": 2185,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 2009,
+        "numberOfListeners": 2012,
         "region": "VIC"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1810,
+        "numberOfListeners": 1787,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1592,
+        "numberOfListeners": 1576,
         "region": "ENG"
       }
     ]

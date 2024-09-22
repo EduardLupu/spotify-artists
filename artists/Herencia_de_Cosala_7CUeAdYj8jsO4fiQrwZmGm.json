@@ -1,38 +1,38 @@
 {
   "id": "7CUeAdYj8jsO4fiQrwZmGm",
   "name": "Herencia de Cosala",
-  "followers": 25950,
-  "monthlyListeners": 111038,
+  "followers": 25966,
+  "monthlyListeners": 111767,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 5253,
+        "numberOfListeners": 5239,
         "region": "CA"
       },
       {
         "city": "Tijuana",
         "country": "MX",
-        "numberOfListeners": 4166,
+        "numberOfListeners": 4229,
         "region": "BCN"
       },
       {
         "city": "Culiacán",
         "country": "MX",
-        "numberOfListeners": 3813,
+        "numberOfListeners": 3795,
         "region": "SIN"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 3349,
+        "numberOfListeners": 3342,
         "region": "CMX"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 3135,
+        "numberOfListeners": 3155,
         "region": "AZ"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "521qvhdobR0GzhvU6TFw76",
   "name": "Tritonal",
-  "followers": 231486,
-  "monthlyListeners": 1084617,
+  "followers": 231501,
+  "monthlyListeners": 1085515,
   "topCities": {
     "items": [
       {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 16268,
-        "region": "ENG"
-      },
-      {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 16101,
+        "numberOfListeners": 16183,
         "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 16058,
+        "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 15189,
+        "numberOfListeners": 15299,
         "region": "NY"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 14672,
+        "numberOfListeners": 14674,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 12887,
+        "numberOfListeners": 12878,
         "region": "IL"
       }
     ]

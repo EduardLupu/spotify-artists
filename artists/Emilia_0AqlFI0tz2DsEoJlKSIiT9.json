@@ -1,41 +1,41 @@
 {
   "id": "0AqlFI0tz2DsEoJlKSIiT9",
   "name": "Emilia",
-  "followers": 3513854,
-  "monthlyListeners": 17765946,
+  "followers": 3518929,
+  "monthlyListeners": 17782960,
   "topCities": {
     "items": [
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 1938757,
+        "numberOfListeners": 1941122,
         "region": "C"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1181212,
+        "numberOfListeners": 1179058,
         "region": "RM"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 941641,
+        "numberOfListeners": 945619,
         "region": "B"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 670560,
+        "numberOfListeners": 668195,
         "region": "LMA"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 660592,
+        "numberOfListeners": 665916,
         "region": "MD"
       }
     ]
   },
-  "worldRank": 442
+  "worldRank": 438
 }

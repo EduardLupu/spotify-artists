@@ -1,38 +1,38 @@
 {
   "id": "6kaefrHSdAvxhhCVDFTCEL",
   "name": "Dulce María",
-  "followers": 737544,
-  "monthlyListeners": 4628972,
+  "followers": 737594,
+  "monthlyListeners": 4612572,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 311441,
+        "numberOfListeners": 309868,
         "region": "CMX"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 141432,
+        "numberOfListeners": 141386,
         "region": "LMA"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 137837,
+        "numberOfListeners": 135781,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 129355,
+        "numberOfListeners": 128720,
         "region": "DC"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 123192,
+        "numberOfListeners": 122771,
         "region": "JAL"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "5r9uIJCoquVtEkCkvcn8Ez",
   "name": "Get Scared",
-  "followers": 712574,
-  "monthlyListeners": 1303842,
+  "followers": 712797,
+  "monthlyListeners": 1302855,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 18692,
+        "numberOfListeners": 18655,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 16850,
+        "numberOfListeners": 16815,
         "region": "TX"
-      },
-      {
-        "city": "Phoenix",
-        "country": "US",
-        "numberOfListeners": 14353,
-        "region": "AZ"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 14351,
+        "numberOfListeners": 14341,
         "region": "CA"
+      },
+      {
+        "city": "Phoenix",
+        "country": "US",
+        "numberOfListeners": 14332,
+        "region": "AZ"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 13775,
+        "numberOfListeners": 13773,
         "region": "TX"
       }
     ]

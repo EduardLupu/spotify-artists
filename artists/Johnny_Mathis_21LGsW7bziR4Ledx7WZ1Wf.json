@@ -1,38 +1,38 @@
 {
   "id": "21LGsW7bziR4Ledx7WZ1Wf",
   "name": "Johnny Mathis",
-  "followers": 422713,
-  "monthlyListeners": 950731,
+  "followers": 422782,
+  "monthlyListeners": 954971,
   "topCities": {
     "items": [
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 12525,
+        "numberOfListeners": 12616,
         "region": "00"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 9911,
+        "numberOfListeners": 9918,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 9843,
+        "numberOfListeners": 9894,
         "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 9337,
+        "numberOfListeners": 9359,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 8722,
+        "numberOfListeners": 8776,
         "region": "ENG"
       }
     ]

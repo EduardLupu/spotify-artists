@@ -1,38 +1,38 @@
 {
   "id": "5luyt0SUvGkDMY4ILP6Qhl",
   "name": "Descemer Bueno",
-  "followers": 57442,
-  "monthlyListeners": 3206050,
+  "followers": 57520,
+  "monthlyListeners": 3187055,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 59415,
+        "numberOfListeners": 58682,
         "region": "RM"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 49822,
+        "numberOfListeners": 49483,
         "region": "LMA"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 48026,
+        "numberOfListeners": 47646,
         "region": "DC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 42607,
+        "numberOfListeners": 42211,
         "region": "CMX"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 40314,
+        "numberOfListeners": 40201,
         "region": "MD"
       }
     ]

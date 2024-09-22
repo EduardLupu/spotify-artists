@@ -1,39 +1,39 @@
 {
   "id": "56Qz2XwGj7FxnNKrfkWjnb",
   "name": "FAST BOY",
-  "followers": 41695,
-  "monthlyListeners": 9057411,
+  "followers": 41788,
+  "monthlyListeners": 8954569,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 161726,
+        "numberOfListeners": 153854,
         "region": "BE"
       },
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 133572,
+        "numberOfListeners": 132983,
         "region": "14"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 128854,
+        "numberOfListeners": 129497,
         "region": "NH"
-      },
-      {
-        "city": "Frankfurt am Main",
-        "country": "DE",
-        "numberOfListeners": 127337,
-        "region": "HE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 126895,
+        "numberOfListeners": 124225,
         "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 120968,
+        "region": "HE"
       }
     ]
   },

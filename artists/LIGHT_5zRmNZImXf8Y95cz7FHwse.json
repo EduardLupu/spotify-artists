@@ -1,8 +1,8 @@
 {
   "id": "5zRmNZImXf8Y95cz7FHwse",
   "name": "LIGHT",
-  "followers": 75,
-  "monthlyListeners": 28,
+  "followers": 76,
+  "monthlyListeners": 26,
   "topCities": {
     "items": [
       {
@@ -10,12 +10,6 @@
         "country": "SA",
         "numberOfListeners": 2,
         "region": "04"
-      },
-      {
-        "city": "Riyadh",
-        "country": "SA",
-        "numberOfListeners": 2,
-        "region": "01"
       },
       {
         "city": "Jeddah",
@@ -34,6 +28,12 @@
         "country": "US",
         "numberOfListeners": 2,
         "region": "NV"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 1,
+        "region": "HE"
       }
     ]
   },

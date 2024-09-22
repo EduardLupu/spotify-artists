@@ -1,38 +1,38 @@
 {
   "id": "5GtMEZEeFFsuHY8ad4kOxv",
   "name": "Seal",
-  "followers": 1889583,
-  "monthlyListeners": 5145071,
+  "followers": 1890180,
+  "monthlyListeners": 5132305,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 126702,
+        "numberOfListeners": 127007,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 83347,
+        "numberOfListeners": 82447,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 82063,
+        "numberOfListeners": 81225,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 74043,
+        "numberOfListeners": 73616,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 64869,
+        "numberOfListeners": 64503,
         "region": "VIC"
       }
     ]

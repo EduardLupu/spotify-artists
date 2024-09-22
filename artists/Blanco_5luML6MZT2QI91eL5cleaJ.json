@@ -6,18 +6,6 @@
   "topCities": {
     "items": [
       {
-        "city": "Leeds",
-        "country": "GB",
-        "numberOfListeners": 1,
-        "region": "ENG"
-      },
-      {
-        "city": "Tsirang",
-        "country": "BT",
-        "numberOfListeners": 1,
-        "region": "21"
-      },
-      {
         "city": "Anchorage",
         "country": "US",
         "numberOfListeners": 1,
@@ -28,6 +16,18 @@
         "country": "US",
         "numberOfListeners": 1,
         "region": "TX"
+      },
+      {
+        "city": "Tsirang",
+        "country": "BT",
+        "numberOfListeners": 1,
+        "region": "21"
+      },
+      {
+        "city": "Leeds",
+        "country": "GB",
+        "numberOfListeners": 1,
+        "region": "ENG"
       },
       {
         "city": "Ottawa",

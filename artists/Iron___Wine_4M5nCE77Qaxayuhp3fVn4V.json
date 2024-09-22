@@ -1,38 +1,38 @@
 {
   "id": "4M5nCE77Qaxayuhp3fVn4V",
   "name": "Iron & Wine",
-  "followers": 1113237,
-  "monthlyListeners": 4419741,
+  "followers": 1113459,
+  "monthlyListeners": 4426737,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 56726,
+        "numberOfListeners": 56659,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 53371,
+        "numberOfListeners": 53599,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 52210,
+        "numberOfListeners": 52195,
         "region": "VIC"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 47114,
+        "numberOfListeners": 47570,
         "region": "NY"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 45552,
+        "numberOfListeners": 45564,
         "region": "WA"
       }
     ]

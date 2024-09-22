@@ -1,38 +1,38 @@
 {
   "id": "5IWCU0V9evBlW4gIeGY4zF",
   "name": "Waxahatchee",
-  "followers": 225798,
-  "monthlyListeners": 731973,
+  "followers": 225922,
+  "monthlyListeners": 729559,
   "topCities": {
     "items": [
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 22630,
+        "numberOfListeners": 22591,
         "region": "NY"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 19924,
+        "numberOfListeners": 19781,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 18160,
+        "numberOfListeners": 18233,
         "region": "IL"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 14633,
+        "numberOfListeners": 14528,
         "region": "WA"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 13765,
+        "numberOfListeners": 13751,
         "region": "PA"
       }
     ]

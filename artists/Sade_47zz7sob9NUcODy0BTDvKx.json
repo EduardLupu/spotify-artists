@@ -1,38 +1,38 @@
 {
   "id": "47zz7sob9NUcODy0BTDvKx",
   "name": "Sade",
-  "followers": 4163578,
-  "monthlyListeners": 15779103,
+  "followers": 4166101,
+  "monthlyListeners": 15726923,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 243099,
+        "numberOfListeners": 241764,
         "region": "ENG"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 233256,
+        "numberOfListeners": 231717,
         "region": "RM"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 198918,
+        "numberOfListeners": 197981,
         "region": "CA"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 190498,
+        "numberOfListeners": 189720,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 180335,
+        "numberOfListeners": 179827,
         "region": "NSW"
       }
     ]

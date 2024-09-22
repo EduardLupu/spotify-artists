@@ -1,38 +1,38 @@
 {
   "id": "7qmLKs4zbzct0zTpLNookw",
   "name": "The Fenians",
-  "followers": 2609,
-  "monthlyListeners": 8086,
+  "followers": 2610,
+  "monthlyListeners": 8099,
   "topCities": {
     "items": [
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 193,
+        "numberOfListeners": 197,
         "region": "L"
       },
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 173,
+        "numberOfListeners": 175,
         "region": "25"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 137,
+        "numberOfListeners": 140,
         "region": "IDF"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 103,
+        "numberOfListeners": 101,
         "region": "IL"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 67,
+        "numberOfListeners": 65,
         "region": "BE"
       }
     ]

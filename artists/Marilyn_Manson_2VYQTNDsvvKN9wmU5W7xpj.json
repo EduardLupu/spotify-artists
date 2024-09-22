@@ -1,38 +1,38 @@
 {
   "id": "2VYQTNDsvvKN9wmU5W7xpj",
   "name": "Marilyn Manson",
-  "followers": 4470785,
-  "monthlyListeners": 7092625,
+  "followers": 4472260,
+  "monthlyListeners": 7053191,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 157363,
+        "numberOfListeners": 156733,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 91776,
+        "numberOfListeners": 90536,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 74478,
+        "numberOfListeners": 74129,
         "region": "DC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 71410,
+        "numberOfListeners": 71053,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 70254,
+        "numberOfListeners": 69680,
         "region": "ENG"
       }
     ]

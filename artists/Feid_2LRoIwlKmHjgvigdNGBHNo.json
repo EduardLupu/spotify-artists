@@ -1,38 +1,38 @@
 {
   "id": "2LRoIwlKmHjgvigdNGBHNo",
   "name": "Feid",
-  "followers": 13770503,
-  "monthlyListeners": 44056718,
+  "followers": 13796257,
+  "monthlyListeners": 44051747,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 2334882,
+        "numberOfListeners": 2341178,
         "region": "DC"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 2067547,
+        "numberOfListeners": 2070483,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1809617,
+        "numberOfListeners": 1805270,
         "region": "CMX"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 1589018,
+        "numberOfListeners": 1589150,
         "region": "LMA"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 1369222,
+        "numberOfListeners": 1369876,
         "region": "C"
       }
     ]

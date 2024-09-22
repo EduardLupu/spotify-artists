@@ -1,39 +1,39 @@
 {
   "id": "5dbaLmK5SHLLg8Z4CcTJpX",
   "name": "Greeicy",
-  "followers": 7589383,
-  "monthlyListeners": 5586448,
+  "followers": 7589739,
+  "monthlyListeners": 5587803,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 563245,
+        "numberOfListeners": 563074,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 374878,
+        "numberOfListeners": 375254,
         "region": "LMA"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 289588,
+        "numberOfListeners": 287503,
         "region": "RM"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 234161,
+        "numberOfListeners": 234243,
         "region": "ANT"
       },
       {
-        "city": "Guayaquil",
-        "country": "EC",
-        "numberOfListeners": 128358,
-        "region": "G"
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 128106,
+        "region": "C"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "62F2QVh92g8SGZeab9EKjC",
   "name": "Indie Elephant",
-  "followers": 2570,
-  "monthlyListeners": 15672,
+  "followers": 2573,
+  "monthlyListeners": 15722,
   "topCities": {
     "items": [
       {
         "city": "Vilnius",
         "country": "LT",
-        "numberOfListeners": 1770,
+        "numberOfListeners": 1775,
         "region": "VL"
       },
       {
         "city": "Kaunas",
         "country": "LT",
-        "numberOfListeners": 391,
+        "numberOfListeners": 393,
         "region": "KU"
       },
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 288,
+        "numberOfListeners": 296,
         "region": "14"
       },
       {
         "city": "Tel Aviv",
         "country": "IL",
-        "numberOfListeners": 225,
+        "numberOfListeners": 224,
         "region": "TA"
       },
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 197,
+        "numberOfListeners": 198,
         "region": "34"
       }
     ]

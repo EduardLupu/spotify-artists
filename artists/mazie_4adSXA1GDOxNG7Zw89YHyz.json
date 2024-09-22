@@ -1,38 +1,38 @@
 {
   "id": "4adSXA1GDOxNG7Zw89YHyz",
   "name": "mazie",
-  "followers": 185106,
-  "monthlyListeners": 1773290,
+  "followers": 185331,
+  "monthlyListeners": 1771458,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 17766,
+        "numberOfListeners": 17725,
         "region": "SP"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 17094,
+        "numberOfListeners": 17188,
         "region": "JK"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 15161,
+        "numberOfListeners": 15135,
         "region": "RM"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 13380,
+        "numberOfListeners": 13374,
         "region": "LMA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 12807,
+        "numberOfListeners": 12806,
         "region": "NSW"
       }
     ]

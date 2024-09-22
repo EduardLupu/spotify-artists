@@ -2,7 +2,7 @@
   "id": "0oGbj35ySuyuMpiMdtyV4E",
   "name": "Claire Chase",
   "followers": 1428,
-  "monthlyListeners": 431,
+  "monthlyListeners": 434,
   "topCities": {
     "items": [
       {
@@ -18,16 +18,16 @@
         "region": "NY"
       },
       {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 9,
+        "region": "CA"
+      },
+      {
         "city": "London",
         "country": "GB",
         "numberOfListeners": 8,
         "region": "ENG"
-      },
-      {
-        "city": "Los Angeles",
-        "country": "US",
-        "numberOfListeners": 8,
-        "region": "CA"
       },
       {
         "city": "Berlin",

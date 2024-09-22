@@ -2,38 +2,38 @@
   "id": "3iTfyg1mtl3iIgR8jbtdUM",
   "name": "Sleeplust",
   "followers": 1633,
-  "monthlyListeners": 2658,
+  "monthlyListeners": 2643,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 107,
+        "numberOfListeners": 106,
         "region": "BE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 76,
+        "numberOfListeners": 75,
         "region": "BY"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 71,
+        "numberOfListeners": 73,
         "region": "HH"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 62,
+        "numberOfListeners": 61,
         "region": "HE"
       },
       {
-        "city": "Cologne",
+        "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 49,
-        "region": "NW"
+        "numberOfListeners": 48,
+        "region": "BW"
       }
     ]
   },

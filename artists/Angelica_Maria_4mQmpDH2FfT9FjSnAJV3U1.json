@@ -1,38 +1,38 @@
 {
   "id": "4mQmpDH2FfT9FjSnAJV3U1",
   "name": "Angelica Maria",
-  "followers": 119509,
-  "monthlyListeners": 411501,
+  "followers": 119559,
+  "monthlyListeners": 411164,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 42179,
+        "numberOfListeners": 42045,
         "region": "CMX"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 19093,
+        "numberOfListeners": 19268,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 17143,
+        "numberOfListeners": 17146,
         "region": "JAL"
       },
       {
         "city": "Iztapalapa",
         "country": "MX",
-        "numberOfListeners": 13673,
+        "numberOfListeners": 13437,
         "region": "CMX"
       },
       {
         "city": "Puebla City",
         "country": "MX",
-        "numberOfListeners": 13148,
+        "numberOfListeners": 13025,
         "region": "PUE"
       }
     ]

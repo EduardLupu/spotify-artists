@@ -1,39 +1,39 @@
 {
   "id": "1kcQtzwpaYQS0c3aiMCqVW",
   "name": "Jufu",
-  "followers": 25530,
-  "monthlyListeners": 36135,
+  "followers": 25532,
+  "monthlyListeners": 36105,
   "topCities": {
     "items": [
       {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 391,
-        "region": "IL"
-      },
-      {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 390,
+        "numberOfListeners": 391,
         "region": "NSW"
       },
       {
-        "city": "Dallas",
+        "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 334,
-        "region": "TX"
-      },
-      {
-        "city": "Melbourne",
-        "country": "AU",
-        "numberOfListeners": 326,
-        "region": "VIC"
+        "numberOfListeners": 387,
+        "region": "IL"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 321,
+        "numberOfListeners": 325,
         "region": "WA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 323,
+        "region": "VIC"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 321,
+        "region": "TX"
       }
     ]
   },

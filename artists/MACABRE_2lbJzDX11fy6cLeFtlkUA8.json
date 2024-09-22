@@ -1,26 +1,26 @@
 {
   "id": "2lbJzDX11fy6cLeFtlkUA8",
   "name": "MACABRE",
-  "followers": 37234,
-  "monthlyListeners": 27218,
+  "followers": 37245,
+  "monthlyListeners": 27436,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 534,
+        "numberOfListeners": 535,
         "region": "RM"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 407,
+        "numberOfListeners": 411,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 365,
+        "numberOfListeners": 364,
         "region": "CA"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 240,
+        "numberOfListeners": 243,
         "region": "AZ"
       }
     ]

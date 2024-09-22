@@ -2,7 +2,7 @@
   "id": "31nq78o8KzJuAV8IOSgtgy",
   "name": "Anwar El Amir",
   "followers": 1006,
-  "monthlyListeners": 622,
+  "monthlyListeners": 619,
   "topCities": {
     "items": [
       {
@@ -14,20 +14,20 @@
       {
         "city": "Cairo",
         "country": "EG",
-        "numberOfListeners": 22,
+        "numberOfListeners": 21,
         "region": "C"
-      },
-      {
-        "city": "Melbourne",
-        "country": "AU",
-        "numberOfListeners": 19,
-        "region": "VIC"
       },
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 18,
+        "numberOfListeners": 19,
         "region": "AB"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 18,
+        "region": "VIC"
       },
       {
         "city": "Berlin",

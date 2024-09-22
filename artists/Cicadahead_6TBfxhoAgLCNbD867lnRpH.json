@@ -1,39 +1,39 @@
 {
   "id": "6TBfxhoAgLCNbD867lnRpH",
   "name": "Cicadahead",
-  "followers": 4726,
-  "monthlyListeners": 7853,
+  "followers": 4734,
+  "monthlyListeners": 7781,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 351,
+        "numberOfListeners": 348,
         "region": "CA"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 162,
+        "numberOfListeners": 159,
         "region": "AZ"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 137,
+        "numberOfListeners": 135,
         "region": "TX"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 131,
+        "numberOfListeners": 127,
         "region": "IL"
       },
       {
-        "city": "San Antonio",
+        "city": "New York City",
         "country": "US",
-        "numberOfListeners": 110,
-        "region": "TX"
+        "numberOfListeners": 108,
+        "region": "NY"
       }
     ]
   },

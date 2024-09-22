@@ -1,38 +1,38 @@
 {
   "id": "196lKsA13K3keVXMDFK66q",
   "name": "The Avett Brothers",
-  "followers": 996930,
-  "monthlyListeners": 2158226,
+  "followers": 997057,
+  "monthlyListeners": 2155418,
   "topCities": {
     "items": [
       {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 40096,
-        "region": "IL"
-      },
-      {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 39977,
+        "numberOfListeners": 39853,
         "region": "CO"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 39846,
+        "region": "IL"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 36984,
+        "numberOfListeners": 37058,
         "region": "NC"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 32720,
+        "numberOfListeners": 32759,
         "region": "NY"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 30251,
+        "numberOfListeners": 30270,
         "region": "WA"
       }
     ]

@@ -2,13 +2,13 @@
   "id": "0AMDbMCXBXnx9EhpRzf0Vl",
   "name": "Armandinho",
   "followers": 235,
-  "monthlyListeners": 359,
+  "monthlyListeners": 358,
   "topCities": {
     "items": [
       {
         "city": "Lisbon",
         "country": "PT",
-        "numberOfListeners": 64,
+        "numberOfListeners": 63,
         "region": "11"
       },
       {
@@ -24,16 +24,16 @@
         "region": "SP"
       },
       {
-        "city": "Madrid",
-        "country": "ES",
-        "numberOfListeners": 5,
-        "region": "MD"
-      },
-      {
         "city": "Montreal",
         "country": "CA",
         "numberOfListeners": 5,
         "region": "QC"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 5,
+        "region": "MD"
       }
     ]
   },

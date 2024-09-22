@@ -1,14 +1,14 @@
 {
   "id": "3pCLetrs5coiCMSTYG1ij6",
   "name": "KK",
-  "followers": 336,
-  "monthlyListeners": 725,
+  "followers": 337,
+  "monthlyListeners": 735,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 98,
+        "numberOfListeners": 103,
         "region": "BE"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Leipzig",
         "country": "DE",
-        "numberOfListeners": 43,
+        "numberOfListeners": 42,
         "region": "SN"
       },
       {
         "city": "Cologne",
         "country": "DE",
-        "numberOfListeners": 32,
+        "numberOfListeners": 30,
         "region": "NW"
       }
     ]

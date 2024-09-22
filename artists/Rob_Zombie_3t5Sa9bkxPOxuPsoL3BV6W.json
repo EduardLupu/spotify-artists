@@ -1,38 +1,38 @@
 {
   "id": "3t5Sa9bkxPOxuPsoL3BV6W",
   "name": "Rob Zombie",
-  "followers": 5998,
-  "monthlyListeners": 155106,
+  "followers": 6369,
+  "monthlyListeners": 155473,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2483,
+        "numberOfListeners": 2475,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1912,
+        "numberOfListeners": 1894,
         "region": "CA"
-      },
-      {
-        "city": "Dallas",
-        "country": "US",
-        "numberOfListeners": 1827,
-        "region": "TX"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 1811,
+        "numberOfListeners": 1818,
         "region": "AZ"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 1816,
+        "region": "TX"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 1708,
+        "numberOfListeners": 1719,
         "region": "PA"
       }
     ]

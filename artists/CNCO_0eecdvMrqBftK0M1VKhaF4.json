@@ -1,38 +1,38 @@
 {
   "id": "0eecdvMrqBftK0M1VKhaF4",
   "name": "CNCO",
-  "followers": 9415132,
-  "monthlyListeners": 6858537,
+  "followers": 9415136,
+  "monthlyListeners": 6904932,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 240204,
+        "numberOfListeners": 240294,
         "region": "RM"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 217050,
+        "numberOfListeners": 218497,
         "region": "LMA"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 162554,
+        "numberOfListeners": 162868,
         "region": "CMX"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 136753,
+        "numberOfListeners": 137484,
         "region": "DC"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 134990,
+        "numberOfListeners": 136632,
         "region": "C"
       }
     ]

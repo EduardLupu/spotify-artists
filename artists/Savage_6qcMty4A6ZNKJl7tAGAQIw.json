@@ -6,6 +6,12 @@
   "topCities": {
     "items": [
       {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 1,
+        "region": "QLD"
+      },
+      {
         "city": "Lagos",
         "country": "NG",
         "numberOfListeners": 1,
@@ -16,12 +22,6 @@
         "country": "US",
         "numberOfListeners": 1,
         "region": "IL"
-      },
-      {
-        "city": "Brisbane",
-        "country": "AU",
-        "numberOfListeners": 1,
-        "region": "QLD"
       },
       {
         "city": "Leeds",

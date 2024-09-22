@@ -1,38 +1,38 @@
 {
   "id": "3U5Oag04Yl2WnvPULOlsMD",
   "name": "Kukon",
-  "followers": 636216,
-  "monthlyListeners": 1294831,
+  "followers": 636453,
+  "monthlyListeners": 1304606,
   "topCities": {
     "items": [
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 406407,
+        "numberOfListeners": 409979,
         "region": "14"
       },
       {
         "city": "Krakow",
         "country": "PL",
-        "numberOfListeners": 135398,
+        "numberOfListeners": 136089,
         "region": "12"
-      },
-      {
-        "city": "Katowice",
-        "country": "PL",
-        "numberOfListeners": 133953,
-        "region": "24"
       },
       {
         "city": "Poznan",
         "country": "PL",
-        "numberOfListeners": 133812,
+        "numberOfListeners": 134314,
         "region": "30"
+      },
+      {
+        "city": "Katowice",
+        "country": "PL",
+        "numberOfListeners": 134286,
+        "region": "24"
       },
       {
         "city": "Wroclaw",
         "country": "PL",
-        "numberOfListeners": 114507,
+        "numberOfListeners": 114188,
         "region": "02"
       }
     ]

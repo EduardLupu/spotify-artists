@@ -1,38 +1,38 @@
 {
   "id": "4td9WXh9BhCVysTFUXcOmr",
   "name": "Nighthawk22",
-  "followers": 9488,
-  "monthlyListeners": 8502,
+  "followers": 9521,
+  "monthlyListeners": 11429,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 117,
+        "numberOfListeners": 157,
         "region": "RM"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 113,
+        "numberOfListeners": 152,
         "region": "JK"
-      },
-      {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 75,
-        "region": "NSW"
       },
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 74,
+        "numberOfListeners": 98,
         "region": "18"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 90,
+        "region": "NSW"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 70,
+        "numberOfListeners": 90,
         "region": "LMA"
       }
     ]

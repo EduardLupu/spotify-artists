@@ -1,38 +1,38 @@
 {
   "id": "31BwPhSmzXgZVQQxjIqGEy",
   "name": "Soca Gold",
-  "followers": 1866,
-  "monthlyListeners": 355315,
+  "followers": 1867,
+  "monthlyListeners": 352986,
   "topCities": {
     "items": [
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 20031,
+        "numberOfListeners": 19882,
         "region": "ON"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 14581,
+        "numberOfListeners": 14511,
         "region": "NY"
       },
       {
         "city": "San José",
         "country": "CR",
-        "numberOfListeners": 13981,
+        "numberOfListeners": 13832,
         "region": "SJ"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 13345,
+        "numberOfListeners": 12973,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 8920,
+        "numberOfListeners": 8891,
         "region": "NY"
       }
     ]

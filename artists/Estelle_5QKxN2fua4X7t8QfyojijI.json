@@ -2,37 +2,37 @@
   "id": "5QKxN2fua4X7t8QfyojijI",
   "name": "Estelle",
   "followers": 710,
-  "monthlyListeners": 111404,
+  "monthlyListeners": 111653,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1269,
+        "numberOfListeners": 1280,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 1248,
+        "numberOfListeners": 1245,
         "region": "IL"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 1212,
-        "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 1204,
+        "numberOfListeners": 1224,
         "region": "NY"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 1215,
+        "region": "ENG"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 1029,
+        "numberOfListeners": 1030,
         "region": "GA"
       }
     ]

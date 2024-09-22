@@ -1,16 +1,10 @@
 {
   "id": "4EU8WPqqBvsipJkWL1XfQ6",
   "name": "Venezonix",
-  "followers": 503,
-  "monthlyListeners": 6456,
+  "followers": 504,
+  "monthlyListeners": 6428,
   "topCities": {
     "items": [
-      {
-        "city": "Tel Aviv",
-        "country": "IL",
-        "numberOfListeners": 112,
-        "region": "TA"
-      },
       {
         "city": "Bogotá",
         "country": "CO",
@@ -18,21 +12,27 @@
         "region": "DC"
       },
       {
+        "city": "Tel Aviv",
+        "country": "IL",
+        "numberOfListeners": 110,
+        "region": "TA"
+      },
+      {
         "city": "Barcelona",
         "country": "ES",
-        "numberOfListeners": 100,
+        "numberOfListeners": 102,
         "region": "CT"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 93,
+        "numberOfListeners": 95,
         "region": "RM"
       },
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 90,
+        "numberOfListeners": 89,
         "region": "14"
       }
     ]

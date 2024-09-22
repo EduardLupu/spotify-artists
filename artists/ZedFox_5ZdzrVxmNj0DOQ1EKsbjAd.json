@@ -1,38 +1,38 @@
 {
   "id": "5ZdzrVxmNj0DOQ1EKsbjAd",
   "name": "ZedFox",
-  "followers": 2255,
-  "monthlyListeners": 57690,
+  "followers": 2265,
+  "monthlyListeners": 56829,
   "topCities": {
     "items": [
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 492,
+        "numberOfListeners": 487,
         "region": "14"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 483,
+        "numberOfListeners": 476,
         "region": "NSW"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 475,
+        "numberOfListeners": 469,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 423,
+        "numberOfListeners": 429,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 422,
+        "numberOfListeners": 409,
         "region": "VIC"
       }
     ]

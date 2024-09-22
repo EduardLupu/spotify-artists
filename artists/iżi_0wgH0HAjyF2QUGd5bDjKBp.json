@@ -2,21 +2,9 @@
   "id": "0wgH0HAjyF2QUGd5bDjKBp",
   "name": "iżi",
   "followers": 75,
-  "monthlyListeners": 1541,
+  "monthlyListeners": 1407,
   "topCities": {
     "items": [
-      {
-        "city": "Los Angeles",
-        "country": "US",
-        "numberOfListeners": 27,
-        "region": "CA"
-      },
-      {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 23,
-        "region": "NSW"
-      },
       {
         "city": "Jakarta",
         "country": "ID",
@@ -24,16 +12,28 @@
         "region": "JK"
       },
       {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 22,
+        "region": "NSW"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 22,
+        "region": "CA"
+      },
+      {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 18,
+        "numberOfListeners": 15,
         "region": "ON"
       },
       {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 16,
-        "region": "ENG"
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 15,
+        "region": "IL"
       }
     ]
   },

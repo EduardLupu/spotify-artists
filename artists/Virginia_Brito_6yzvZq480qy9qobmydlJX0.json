@@ -1,38 +1,38 @@
 {
   "id": "6yzvZq480qy9qobmydlJX0",
   "name": "Virginia Brito",
-  "followers": 43061,
-  "monthlyListeners": 67050,
+  "followers": 43122,
+  "monthlyListeners": 67117,
   "topCities": {
     "items": [
       {
-        "city": "Guatemala City",
-        "country": "GT",
-        "numberOfListeners": 2518,
-        "region": "GU"
-      },
-      {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 2453,
+        "numberOfListeners": 2458,
         "region": "DC"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 2424,
+        "region": "GU"
       },
       {
         "city": "Santo Domingo",
         "country": "DO",
-        "numberOfListeners": 2026,
+        "numberOfListeners": 2051,
         "region": "01"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1879,
+        "numberOfListeners": 1853,
         "region": "RM"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 1717,
+        "numberOfListeners": 1738,
         "region": "ANT"
       }
     ]

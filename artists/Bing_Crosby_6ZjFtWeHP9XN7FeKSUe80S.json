@@ -1,38 +1,38 @@
 {
   "id": "6ZjFtWeHP9XN7FeKSUe80S",
   "name": "Bing Crosby",
-  "followers": 528168,
-  "monthlyListeners": 1537761,
+  "followers": 528253,
+  "monthlyListeners": 1553587,
   "topCities": {
     "items": [
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 23380,
+        "numberOfListeners": 23985,
         "region": "00"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 13683,
+        "numberOfListeners": 13746,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 13549,
+        "numberOfListeners": 13705,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 12804,
+        "numberOfListeners": 12963,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 12278,
+        "numberOfListeners": 12305,
         "region": "NSW"
       }
     ]

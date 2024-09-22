@@ -1,39 +1,39 @@
 {
   "id": "4KoZpKiPeX4jIi7Euwcfuo",
   "name": "Thou",
-  "followers": 86406,
-  "monthlyListeners": 78562,
+  "followers": 86456,
+  "monthlyListeners": 78225,
   "topCities": {
     "items": [
       {
-        "city": "Los Angeles",
-        "country": "US",
-        "numberOfListeners": 1249,
-        "region": "CA"
-      },
-      {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 1241,
+        "numberOfListeners": 1230,
         "region": "WA"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 1221,
+        "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 1228,
+        "numberOfListeners": 1200,
         "region": "IL"
-      },
-      {
-        "city": "Portland",
-        "country": "US",
-        "numberOfListeners": 1111,
-        "region": "OR"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1102,
+        "numberOfListeners": 1107,
         "region": "ENG"
+      },
+      {
+        "city": "Portland",
+        "country": "US",
+        "numberOfListeners": 1105,
+        "region": "OR"
       }
     ]
   },

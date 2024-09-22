@@ -1,38 +1,38 @@
 {
   "id": "3Y3xIwWyq5wnNHPp5gPjOW",
   "name": "Kenny Loggins",
-  "followers": 1116886,
-  "monthlyListeners": 9310723,
+  "followers": 1117356,
+  "monthlyListeners": 9291582,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 135485,
+        "numberOfListeners": 135537,
         "region": "NSW"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 122654,
+        "numberOfListeners": 122413,
         "region": "SP"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 120246,
+        "numberOfListeners": 120235,
         "region": "VIC"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 119768,
+        "numberOfListeners": 118788,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 113132,
+        "numberOfListeners": 112187,
         "region": "ENG"
       }
     ]

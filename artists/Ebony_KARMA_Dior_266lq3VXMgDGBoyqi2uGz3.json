@@ -2,7 +2,7 @@
   "id": "266lq3VXMgDGBoyqi2uGz3",
   "name": "Ebony KARMA Dior",
   "followers": 39229,
-  "monthlyListeners": 756,
+  "monthlyListeners": 759,
   "topCities": {
     "items": [
       {
@@ -14,26 +14,26 @@
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 17,
+        "numberOfListeners": 15,
         "region": "BE"
-      },
-      {
-        "city": "São Paulo",
-        "country": "BR",
-        "numberOfListeners": 13,
-        "region": "SP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 12,
+        "numberOfListeners": 13,
         "region": "ENG"
       },
       {
-        "city": "Frankfurt am Main",
-        "country": "DE",
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 12,
+        "region": "SP"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
         "numberOfListeners": 9,
-        "region": "HE"
+        "region": "BRU"
       }
     ]
   },

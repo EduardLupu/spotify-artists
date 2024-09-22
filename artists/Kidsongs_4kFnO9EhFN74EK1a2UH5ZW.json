@@ -1,39 +1,39 @@
 {
   "id": "4kFnO9EhFN74EK1a2UH5ZW",
   "name": "Kidsongs",
-  "followers": 42731,
-  "monthlyListeners": 164733,
+  "followers": 42733,
+  "monthlyListeners": 164960,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 3681,
+        "numberOfListeners": 3688,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 3351,
+        "numberOfListeners": 3358,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 2263,
+        "numberOfListeners": 2249,
         "region": "QLD"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 2208,
+        "numberOfListeners": 2218,
         "region": "L"
       },
       {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 2168,
-        "region": "ENG"
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 2173,
+        "region": "ON"
       }
     ]
   },

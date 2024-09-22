@@ -1,38 +1,38 @@
 {
   "id": "4oUHIQIBe0LHzYfvXNW4QM",
   "name": "Morgan Wallen",
-  "followers": 10645284,
-  "monthlyListeners": 40005004,
+  "followers": 10654904,
+  "monthlyListeners": 39808221,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 810713,
+        "numberOfListeners": 809549,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 791716,
+        "numberOfListeners": 786393,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 690337,
+        "numberOfListeners": 687520,
         "region": "TX"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 660697,
+        "numberOfListeners": 655814,
         "region": "ENG"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 636048,
+        "numberOfListeners": 630657,
         "region": "ON"
       }
     ]

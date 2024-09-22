@@ -2,31 +2,25 @@
   "id": "4HUqHKKqXQzG8L3qvDlzmH",
   "name": "ANNA",
   "followers": 736,
-  "monthlyListeners": 834,
+  "monthlyListeners": 825,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 99,
+        "numberOfListeners": 97,
         "region": "NH"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 79,
+        "numberOfListeners": 75,
         "region": "ZH"
       },
       {
         "city": "Utrecht",
         "country": "NL",
-        "numberOfListeners": 39,
-        "region": "UT"
-      },
-      {
-        "city": "Amersfoort",
-        "country": "NL",
-        "numberOfListeners": 19,
+        "numberOfListeners": 40,
         "region": "UT"
       },
       {
@@ -34,6 +28,12 @@
         "country": "BE",
         "numberOfListeners": 19,
         "region": "BRU"
+      },
+      {
+        "city": "Amersfoort",
+        "country": "NL",
+        "numberOfListeners": 18,
+        "region": "UT"
       }
     ]
   },

@@ -1,41 +1,41 @@
 {
   "id": "7ltDVBr6mKbRvohxheJ9h1",
   "name": "ROSALÍA",
-  "followers": 8314695,
-  "monthlyListeners": 35693669,
+  "followers": 8316036,
+  "monthlyListeners": 35366210,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 972119,
+        "numberOfListeners": 964510,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 825230,
+        "numberOfListeners": 817678,
         "region": "CMX"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 680667,
+        "numberOfListeners": 675808,
         "region": "MD"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 570182,
+        "numberOfListeners": 567895,
         "region": "DC"
       },
       {
-        "city": "Lima",
-        "country": "PE",
-        "numberOfListeners": 538433,
-        "region": "LMA"
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 538704,
+        "region": "C"
       }
     ]
   },
-  "worldRank": 110
+  "worldRank": 112
 }

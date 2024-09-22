@@ -1,41 +1,41 @@
 {
   "id": "3MdXrJWsbVzdn6fe5JYkSQ",
   "name": "Latto",
-  "followers": 1757812,
-  "monthlyListeners": 17787604,
+  "followers": 1759116,
+  "monthlyListeners": 17705311,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 353520,
+        "numberOfListeners": 354486,
         "region": "JK"
       },
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 298219,
+        "numberOfListeners": 298204,
         "region": "13"
       },
       {
         "city": "Bangkok",
         "country": "TH",
-        "numberOfListeners": 243107,
+        "numberOfListeners": 242156,
         "region": "10"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 184349,
+        "numberOfListeners": 182806,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 176473,
+        "numberOfListeners": 174449,
         "region": "IL"
       }
     ]
   },
-  "worldRank": 441
+  "worldRank": 444
 }

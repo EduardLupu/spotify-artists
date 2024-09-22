@@ -1,20 +1,20 @@
 {
   "id": "37GbbR22KbzWN5Wfb9djSo",
   "name": "Annasofia",
-  "followers": 4897,
-  "monthlyListeners": 22408,
+  "followers": 4899,
+  "monthlyListeners": 22255,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 2697,
+        "numberOfListeners": 2678,
         "region": "DC"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 1084,
+        "numberOfListeners": 1073,
         "region": "ANT"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 820,
+        "numberOfListeners": 826,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 690,
+        "numberOfListeners": 688,
         "region": "RM"
       }
     ]

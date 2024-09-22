@@ -1,38 +1,38 @@
 {
   "id": "6T8S4zSY1ICYEG50Hgs3QJ",
   "name": "Reis Belico",
-  "followers": 166147,
-  "monthlyListeners": 71267,
+  "followers": 166173,
+  "monthlyListeners": 71337,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 6889,
+        "numberOfListeners": 6873,
         "region": "DC"
       },
       {
         "city": "Caracas",
         "country": "VE",
-        "numberOfListeners": 6463,
+        "numberOfListeners": 6486,
         "region": "A"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 4693,
+        "numberOfListeners": 4662,
         "region": "RM"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 3785,
+        "numberOfListeners": 3779,
         "region": "LMA"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 3126,
+        "numberOfListeners": 3137,
         "region": "ANT"
       }
     ]

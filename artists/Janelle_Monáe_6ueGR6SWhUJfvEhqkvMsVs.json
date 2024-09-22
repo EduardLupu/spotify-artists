@@ -1,39 +1,39 @@
 {
   "id": "6ueGR6SWhUJfvEhqkvMsVs",
   "name": "Janelle Monáe",
-  "followers": 1475475,
-  "monthlyListeners": 1878236,
+  "followers": 1475594,
+  "monthlyListeners": 1877631,
   "topCities": {
     "items": [
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 35462,
+        "numberOfListeners": 35648,
         "region": "NY"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 35426,
+        "numberOfListeners": 35368,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 33374,
+        "numberOfListeners": 33242,
         "region": "IL"
-      },
-      {
-        "city": "Brooklyn",
-        "country": "US",
-        "numberOfListeners": 31389,
-        "region": "NY"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 31381,
+        "numberOfListeners": 31446,
         "region": "CA"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 31323,
+        "region": "NY"
       }
     ]
   },

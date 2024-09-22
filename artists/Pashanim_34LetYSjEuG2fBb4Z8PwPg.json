@@ -1,38 +1,38 @@
 {
   "id": "34LetYSjEuG2fBb4Z8PwPg",
   "name": "Pashanim",
-  "followers": 860760,
-  "monthlyListeners": 4315747,
+  "followers": 861748,
+  "monthlyListeners": 4359690,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 527578,
+        "numberOfListeners": 533555,
         "region": "BE"
-      },
-      {
-        "city": "Frankfurt am Main",
-        "country": "DE",
-        "numberOfListeners": 384063,
-        "region": "HE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 371021,
+        "numberOfListeners": 393083,
         "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 388318,
+        "region": "HE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 319439,
+        "numberOfListeners": 324773,
         "region": "BY"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 275153,
+        "numberOfListeners": 285777,
         "region": "BW"
       }
     ]

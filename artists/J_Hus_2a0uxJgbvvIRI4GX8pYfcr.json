@@ -1,38 +1,38 @@
 {
   "id": "2a0uxJgbvvIRI4GX8pYfcr",
   "name": "J Hus",
-  "followers": 1291342,
-  "monthlyListeners": 4155941,
+  "followers": 1291562,
+  "monthlyListeners": 4151424,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 425682,
-        "region": "ENG"
-      },
-      {
-        "city": "Birmingham",
-        "country": "GB",
-        "numberOfListeners": 140969,
+        "numberOfListeners": 424475,
         "region": "ENG"
       },
       {
         "city": "Southwark",
         "country": "GB",
-        "numberOfListeners": 138706,
+        "numberOfListeners": 140104,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 139547,
         "region": "ENG"
       },
       {
         "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 131341,
+        "numberOfListeners": 131918,
         "region": "ENG"
       },
       {
         "city": "Lagos",
         "country": "NG",
-        "numberOfListeners": 123550,
+        "numberOfListeners": 123971,
         "region": "LA"
       }
     ]

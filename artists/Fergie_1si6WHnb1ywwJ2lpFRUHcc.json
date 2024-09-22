@@ -1,39 +1,39 @@
 {
   "id": "1si6WHnb1ywwJ2lpFRUHcc",
   "name": "Fergie",
-  "followers": 4687,
-  "monthlyListeners": 31306,
+  "followers": 4690,
+  "monthlyListeners": 31399,
   "topCities": {
     "items": [
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 742,
+        "numberOfListeners": 739,
         "region": "C"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 446,
+        "numberOfListeners": 433,
         "region": "VIC"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 420,
+        "numberOfListeners": 408,
         "region": "BE"
+      },
+      {
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 406,
+        "region": "B"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 413,
+        "numberOfListeners": 405,
         "region": "ENG"
-      },
-      {
-        "city": "Amsterdam",
-        "country": "NL",
-        "numberOfListeners": 400,
-        "region": "NH"
       }
     ]
   },

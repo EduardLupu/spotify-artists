@@ -1,41 +1,41 @@
 {
   "id": "6U3ybJ9UHNKEdsH7ktGBZ7",
   "name": "JID",
-  "followers": 1864319,
-  "monthlyListeners": 22548920,
+  "followers": 1865288,
+  "monthlyListeners": 22677894,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 257957,
+        "numberOfListeners": 268438,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 242199,
+        "numberOfListeners": 242422,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 224244,
+        "numberOfListeners": 223865,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 214143,
+        "numberOfListeners": 214585,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 209728,
+        "numberOfListeners": 210822,
         "region": "CA"
       }
     ]
   },
-  "worldRank": 286
+  "worldRank": 279
 }

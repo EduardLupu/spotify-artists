@@ -1,41 +1,41 @@
 {
   "id": "5ENS85nZShljwNgg4wFD7D",
   "name": "Gabry Ponte",
-  "followers": 560058,
-  "monthlyListeners": 17989261,
+  "followers": 560388,
+  "monthlyListeners": 17929891,
   "topCities": {
     "items": [
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 290390,
+        "numberOfListeners": 291559,
         "region": "25"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 289584,
+        "numberOfListeners": 290522,
         "region": "NH"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 271152,
+        "numberOfListeners": 270948,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 231741,
+        "numberOfListeners": 238703,
         "region": "HH"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 215544,
+        "numberOfListeners": 215519,
         "region": "IDF"
       }
     ]
   },
-  "worldRank": 428
+  "worldRank": 430
 }

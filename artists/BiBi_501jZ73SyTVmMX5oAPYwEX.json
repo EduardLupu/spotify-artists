@@ -1,38 +1,38 @@
 {
   "id": "501jZ73SyTVmMX5oAPYwEX",
   "name": "BiBi",
-  "followers": 82919,
-  "monthlyListeners": 117379,
+  "followers": 82985,
+  "monthlyListeners": 116070,
   "topCities": {
     "items": [
       {
         "city": "Bucharest",
         "country": "RO",
-        "numberOfListeners": 18668,
+        "numberOfListeners": 18352,
         "region": "B"
       },
       {
         "city": "Cluj-Napoca",
         "country": "RO",
-        "numberOfListeners": 6759,
+        "numberOfListeners": 6714,
         "region": "CJ"
       },
       {
         "city": "Timișoara",
         "country": "RO",
-        "numberOfListeners": 4909,
+        "numberOfListeners": 4936,
         "region": "TM"
       },
       {
         "city": "Iasi",
         "country": "RO",
-        "numberOfListeners": 4282,
+        "numberOfListeners": 4222,
         "region": "IS"
       },
       {
         "city": "Chisinau",
         "country": "MD",
-        "numberOfListeners": 3553,
+        "numberOfListeners": 3505,
         "region": "CU"
       }
     ]

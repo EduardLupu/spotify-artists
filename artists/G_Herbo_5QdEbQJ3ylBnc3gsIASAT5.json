@@ -1,39 +1,39 @@
 {
   "id": "5QdEbQJ3ylBnc3gsIASAT5",
   "name": "G Herbo",
-  "followers": 2174767,
-  "monthlyListeners": 6461291,
+  "followers": 2175280,
+  "monthlyListeners": 6455226,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 180406,
+        "numberOfListeners": 179898,
         "region": "IL"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 90723,
+        "numberOfListeners": 90633,
         "region": "ON"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 89684,
+        "numberOfListeners": 89982,
         "region": "PA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 86820,
+        "region": "NY"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 86883,
+        "numberOfListeners": 86784,
         "region": "TX"
-      },
-      {
-        "city": "Los Angeles",
-        "country": "US",
-        "numberOfListeners": 86567,
-        "region": "CA"
       }
     ]
   },

@@ -2,25 +2,25 @@
   "id": "0hWfOMSs6CSqw6yF0oWWji",
   "name": "Eiffel",
   "followers": 805,
-  "monthlyListeners": 180,
+  "monthlyListeners": 177,
   "topCities": {
     "items": [
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 26,
+        "numberOfListeners": 27,
         "region": "00"
       },
       {
         "city": "Manila",
         "country": "PH",
-        "numberOfListeners": 14,
+        "numberOfListeners": 13,
         "region": "00"
       },
       {
         "city": "Bacoor",
         "country": "PH",
-        "numberOfListeners": 7,
+        "numberOfListeners": 8,
         "region": "40"
       },
       {
@@ -30,10 +30,10 @@
         "region": "00"
       },
       {
-        "city": "Lipa City",
+        "city": "Makati City",
         "country": "PH",
         "numberOfListeners": 5,
-        "region": "40"
+        "region": "00"
       }
     ]
   },

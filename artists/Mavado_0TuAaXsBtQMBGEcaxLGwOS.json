@@ -2,38 +2,38 @@
   "id": "0TuAaXsBtQMBGEcaxLGwOS",
   "name": "Mavado",
   "followers": 80,
-  "monthlyListeners": 10326,
+  "monthlyListeners": 10324,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1157,
+        "numberOfListeners": 1159,
         "region": "ENG"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 447,
+        "numberOfListeners": 455,
         "region": "ON"
       },
       {
         "city": "Birmingham",
         "country": "GB",
-        "numberOfListeners": 370,
-        "region": "ENG"
-      },
-      {
-        "city": "Southwark",
-        "country": "GB",
-        "numberOfListeners": 303,
+        "numberOfListeners": 367,
         "region": "ENG"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 301,
+        "numberOfListeners": 303,
         "region": "NY"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 298,
+        "region": "ENG"
       }
     ]
   },

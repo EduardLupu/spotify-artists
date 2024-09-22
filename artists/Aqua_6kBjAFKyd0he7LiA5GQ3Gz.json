@@ -1,38 +1,38 @@
 {
   "id": "6kBjAFKyd0he7LiA5GQ3Gz",
   "name": "Aqua",
-  "followers": 640775,
-  "monthlyListeners": 9930052,
+  "followers": 641319,
+  "monthlyListeners": 9904176,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 144805,
+        "numberOfListeners": 144946,
         "region": "NSW"
-      },
-      {
-        "city": "Santiago",
-        "country": "CL",
-        "numberOfListeners": 126535,
-        "region": "RM"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 125836,
+        "numberOfListeners": 125809,
         "region": "VIC"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 125773,
+        "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 100698,
+        "numberOfListeners": 99924,
         "region": "ENG"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 99403,
+        "numberOfListeners": 99480,
         "region": "QLD"
       }
     ]

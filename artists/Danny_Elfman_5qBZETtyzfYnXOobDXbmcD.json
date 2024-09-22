@@ -1,39 +1,39 @@
 {
   "id": "5qBZETtyzfYnXOobDXbmcD",
   "name": "Danny Elfman",
-  "followers": 433862,
-  "monthlyListeners": 3716577,
+  "followers": 434184,
+  "monthlyListeners": 3747493,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 41644,
+        "numberOfListeners": 41634,
         "region": "CMX"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 39629,
+        "numberOfListeners": 40308,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 38401,
+        "numberOfListeners": 38453,
         "region": "ENG"
       },
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 34086,
+        "numberOfListeners": 34091,
         "region": "34"
       },
       {
-        "city": "Santiago",
-        "country": "CL",
-        "numberOfListeners": 30247,
-        "region": "RM"
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 30362,
+        "region": "IL"
       }
     ]
   },

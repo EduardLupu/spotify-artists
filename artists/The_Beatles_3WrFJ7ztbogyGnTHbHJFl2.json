@@ -1,41 +1,41 @@
 {
   "id": "3WrFJ7ztbogyGnTHbHJFl2",
   "name": "The Beatles",
-  "followers": 28360824,
-  "monthlyListeners": 36808442,
+  "followers": 28368856,
+  "monthlyListeners": 36888086,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 631829,
+        "numberOfListeners": 632079,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 489416,
+        "numberOfListeners": 490441,
         "region": "SP"
-      },
-      {
-        "city": "Mexico City",
-        "country": "MX",
-        "numberOfListeners": 472349,
-        "region": "CMX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 471280,
+        "numberOfListeners": 472410,
         "region": "NSW"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 471099,
+        "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 468951,
+        "numberOfListeners": 468189,
         "region": "RM"
       }
     ]
   },
-  "worldRank": 97
+  "worldRank": 95
 }

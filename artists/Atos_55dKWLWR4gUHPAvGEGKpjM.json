@@ -2,13 +2,13 @@
   "id": "55dKWLWR4gUHPAvGEGKpjM",
   "name": "Atos",
   "followers": 186,
-  "monthlyListeners": 354,
+  "monthlyListeners": 353,
   "topCities": {
     "items": [
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 93,
+        "numberOfListeners": 92,
         "region": "25"
       },
       {
@@ -18,16 +18,16 @@
         "region": "62"
       },
       {
-        "city": "Venice",
-        "country": "IT",
-        "numberOfListeners": 8,
-        "region": "34"
-      },
-      {
         "city": "Turin",
         "country": "IT",
         "numberOfListeners": 8,
         "region": "21"
+      },
+      {
+        "city": "Venice",
+        "country": "IT",
+        "numberOfListeners": 8,
+        "region": "34"
       },
       {
         "city": "Bologna",

@@ -1,38 +1,38 @@
 {
   "id": "3QZKZBEmr54lAVI5XvmjnM",
   "name": "The Coasters",
-  "followers": 221937,
-  "monthlyListeners": 873174,
+  "followers": 222002,
+  "monthlyListeners": 866039,
   "topCities": {
     "items": [
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 11861,
+        "numberOfListeners": 11768,
         "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 11584,
+        "numberOfListeners": 11551,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 11013,
+        "numberOfListeners": 10873,
         "region": "ENG"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 9125,
+        "numberOfListeners": 9115,
         "region": "IDF"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 9001,
+        "numberOfListeners": 8919,
         "region": "CA"
       }
     ]

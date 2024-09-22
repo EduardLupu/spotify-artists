@@ -1,38 +1,38 @@
 {
   "id": "4OYkihLZO32dDQHd7wUI6z",
   "name": "Monty",
-  "followers": 263,
-  "monthlyListeners": 9004,
+  "followers": 264,
+  "monthlyListeners": 8972,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 1031,
+        "numberOfListeners": 1023,
         "region": "IDF"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 632,
+        "numberOfListeners": 643,
         "region": "ARA"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 227,
+        "numberOfListeners": 225,
         "region": "BRU"
       },
       {
         "city": "Saint-Etienne",
         "country": "FR",
-        "numberOfListeners": 216,
+        "numberOfListeners": 215,
         "region": "ARA"
       },
       {
         "city": "Marseille",
         "country": "FR",
-        "numberOfListeners": 160,
+        "numberOfListeners": 165,
         "region": "PAC"
       }
     ]

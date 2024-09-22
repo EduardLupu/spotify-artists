@@ -1,38 +1,38 @@
 {
   "id": "3SYnDj7btg9gFY7ps8m5d5",
   "name": "RANI",
-  "followers": 23099,
-  "monthlyListeners": 1995811,
+  "followers": 23136,
+  "monthlyListeners": 2003182,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 41757,
+        "numberOfListeners": 41941,
         "region": "NSW"
-      },
-      {
-        "city": "Melbourne",
-        "country": "AU",
-        "numberOfListeners": 31307,
-        "region": "VIC"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 31171,
+        "numberOfListeners": 31507,
         "region": "NH"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 31415,
+        "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 30227,
+        "numberOfListeners": 30070,
         "region": "ENG"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 28847,
+        "numberOfListeners": 28901,
         "region": "QLD"
       }
     ]

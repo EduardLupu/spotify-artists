@@ -1,38 +1,38 @@
 {
   "id": "053q0ukIDRgzwTr4vNSwab",
   "name": "Grimes",
-  "followers": 2420694,
-  "monthlyListeners": 6297430,
+  "followers": 2421312,
+  "monthlyListeners": 6326414,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 100628,
+        "numberOfListeners": 101248,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 94368,
+        "numberOfListeners": 94512,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 74619,
+        "numberOfListeners": 74859,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 73421,
+        "numberOfListeners": 73606,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 73326,
+        "numberOfListeners": 73329,
         "region": "IL"
       }
     ]

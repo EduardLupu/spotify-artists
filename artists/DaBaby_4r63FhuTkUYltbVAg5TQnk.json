@@ -1,41 +1,41 @@
 {
   "id": "4r63FhuTkUYltbVAg5TQnk",
   "name": "DaBaby",
-  "followers": 12205090,
-  "monthlyListeners": 23702751,
+  "followers": 12207151,
+  "monthlyListeners": 23843867,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 292716,
+        "numberOfListeners": 293126,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 290498,
+        "numberOfListeners": 292722,
         "region": "NSW"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 243935,
+        "numberOfListeners": 244714,
         "region": "TX"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 236813,
+        "numberOfListeners": 238605,
         "region": "VIC"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 233980,
+        "numberOfListeners": 234942,
         "region": "ON"
       }
     ]
   },
-  "worldRank": 254
+  "worldRank": 247
 }

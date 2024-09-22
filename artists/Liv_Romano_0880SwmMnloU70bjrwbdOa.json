@@ -1,38 +1,38 @@
 {
   "id": "0880SwmMnloU70bjrwbdOa",
   "name": "Liv Romano",
-  "followers": 11727,
-  "monthlyListeners": 85355,
+  "followers": 11741,
+  "monthlyListeners": 84469,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 1219,
+        "numberOfListeners": 1206,
         "region": "NSW"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 1171,
+        "numberOfListeners": 1164,
         "region": "NY"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 1128,
+        "numberOfListeners": 1123,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 1084,
+        "numberOfListeners": 1053,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 965,
+        "numberOfListeners": 963,
         "region": "ENG"
       }
     ]

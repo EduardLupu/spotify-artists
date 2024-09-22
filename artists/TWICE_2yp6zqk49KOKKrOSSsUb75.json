@@ -1,39 +1,39 @@
 {
   "id": "2yp6zqk49KOKKrOSSsUb75",
   "name": "TWICE",
-  "followers": 186625,
-  "monthlyListeners": 586526,
+  "followers": 186730,
+  "monthlyListeners": 586635,
   "topCities": {
     "items": [
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 34244,
+        "numberOfListeners": 33082,
         "region": "GU"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 29737,
+        "numberOfListeners": 29817,
         "region": "DC"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 23744,
+        "numberOfListeners": 23586,
         "region": "RM"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 19015,
+        "region": "01"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 18137,
+        "numberOfListeners": 18123,
         "region": "CMX"
-      },
-      {
-        "city": "Lima",
-        "country": "PE",
-        "numberOfListeners": 17328,
-        "region": "LMA"
       }
     ]
   },

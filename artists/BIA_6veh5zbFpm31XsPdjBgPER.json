@@ -1,38 +1,38 @@
 {
   "id": "6veh5zbFpm31XsPdjBgPER",
   "name": "BIA",
-  "followers": 595101,
-  "monthlyListeners": 5609841,
+  "followers": 595176,
+  "monthlyListeners": 5608710,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 91433,
+        "numberOfListeners": 91377,
         "region": "BE"
-      },
-      {
-        "city": "Frankfurt am Main",
-        "country": "DE",
-        "numberOfListeners": 69505,
-        "region": "HE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 68342,
+        "numberOfListeners": 70578,
         "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 69357,
+        "region": "HE"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 63574,
+        "numberOfListeners": 63425,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 61644,
+        "numberOfListeners": 61606,
         "region": "NSW"
       }
     ]

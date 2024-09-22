@@ -1,38 +1,38 @@
 {
   "id": "28j8lBWDdDSHSSt5oPlsX2",
   "name": "ZHU",
-  "followers": 923252,
-  "monthlyListeners": 3770163,
+  "followers": 923399,
+  "monthlyListeners": 3758388,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 76805,
+        "numberOfListeners": 76683,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 67460,
+        "numberOfListeners": 67280,
         "region": "VIC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 64741,
+        "numberOfListeners": 64457,
         "region": "CMX"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 62657,
+        "numberOfListeners": 62357,
         "region": "CA"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 53364,
+        "numberOfListeners": 53340,
         "region": "QLD"
       }
     ]

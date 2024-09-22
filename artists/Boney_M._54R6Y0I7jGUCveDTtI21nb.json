@@ -1,38 +1,38 @@
 {
   "id": "54R6Y0I7jGUCveDTtI21nb",
   "name": "Boney M.",
-  "followers": 2061800,
-  "monthlyListeners": 14854529,
+  "followers": 2062425,
+  "monthlyListeners": 14701862,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 214687,
+        "numberOfListeners": 211853,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 209112,
+        "numberOfListeners": 206492,
         "region": "CMX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 174709,
+        "numberOfListeners": 173323,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 169242,
+        "numberOfListeners": 166964,
         "region": "ENG"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 167010,
+        "numberOfListeners": 165471,
         "region": "IDF"
       }
     ]

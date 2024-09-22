@@ -1,38 +1,38 @@
 {
   "id": "3EFae6NKxawpxdiZDQPqp8",
   "name": "Being Dead",
-  "followers": 11528,
-  "monthlyListeners": 48763,
+  "followers": 11541,
+  "monthlyListeners": 47914,
   "topCities": {
     "items": [
       {
         "city": "Austin",
         "country": "US",
-        "numberOfListeners": 1358,
+        "numberOfListeners": 1362,
         "region": "TX"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 1080,
+        "numberOfListeners": 1049,
         "region": "IL"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 1037,
+        "numberOfListeners": 1027,
         "region": "NY"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1031,
+        "numberOfListeners": 1005,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 943,
+        "numberOfListeners": 932,
         "region": "NY"
       }
     ]

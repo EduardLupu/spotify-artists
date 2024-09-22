@@ -1,41 +1,41 @@
 {
   "id": "5he5w2lnU9x7JFhnwcekXX",
   "name": "Skrillex",
-  "followers": 7624243,
-  "monthlyListeners": 19812004,
+  "followers": 7624612,
+  "monthlyListeners": 19789022,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 320691,
+        "numberOfListeners": 319880,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 318701,
+        "numberOfListeners": 318634,
         "region": "NSW"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 287517,
+        "numberOfListeners": 285820,
         "region": "CMX"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 264628,
+        "numberOfListeners": 264483,
         "region": "VIC"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 242877,
+        "numberOfListeners": 240641,
         "region": "RM"
       }
     ]
   },
-  "worldRank": 366
+  "worldRank": 369
 }

@@ -1,38 +1,38 @@
 {
   "id": "14VMX0GwaRJuhi7gaeeGLu",
   "name": "Motive",
-  "followers": 1539,
-  "monthlyListeners": 8957,
+  "followers": 1540,
+  "monthlyListeners": 8950,
   "topCities": {
     "items": [
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 180,
+        "numberOfListeners": 179,
         "region": "ON"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 153,
+        "numberOfListeners": 156,
         "region": "VIC"
       },
       {
         "city": "Vancouver",
         "country": "CA",
-        "numberOfListeners": 149,
+        "numberOfListeners": 151,
         "region": "BC"
       },
       {
         "city": "Calgary",
         "country": "CA",
-        "numberOfListeners": 144,
+        "numberOfListeners": 137,
         "region": "AB"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 123,
+        "numberOfListeners": 125,
         "region": "CO"
       }
     ]

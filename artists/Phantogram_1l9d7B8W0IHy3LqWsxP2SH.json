@@ -1,38 +1,38 @@
 {
   "id": "1l9d7B8W0IHy3LqWsxP2SH",
   "name": "Phantogram",
-  "followers": 852626,
-  "monthlyListeners": 5845753,
+  "followers": 852867,
+  "monthlyListeners": 5802787,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 78640,
+        "numberOfListeners": 77421,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 65021,
+        "numberOfListeners": 64142,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 61370,
+        "numberOfListeners": 61084,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 59591,
+        "numberOfListeners": 59251,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 56153,
+        "numberOfListeners": 55777,
         "region": "NY"
       }
     ]

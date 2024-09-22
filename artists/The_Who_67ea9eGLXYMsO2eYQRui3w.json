@@ -1,38 +1,38 @@
 {
   "id": "67ea9eGLXYMsO2eYQRui3w",
   "name": "The Who",
-  "followers": 5442072,
-  "monthlyListeners": 7116411,
+  "followers": 5443257,
+  "monthlyListeners": 7092749,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 124110,
+        "numberOfListeners": 123696,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 88700,
+        "numberOfListeners": 88470,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 86237,
+        "numberOfListeners": 86154,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 80090,
+        "numberOfListeners": 79554,
         "region": "IL"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 78862,
+        "numberOfListeners": 78409,
         "region": "ON"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "48sKVtcDwCMxPbqCzAQMbP",
   "name": "Blame My Youth",
-  "followers": 29078,
-  "monthlyListeners": 151092,
+  "followers": 29082,
+  "monthlyListeners": 150179,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1618,
+        "numberOfListeners": 1611,
         "region": "ENG"
-      },
-      {
-        "city": "Prague",
-        "country": "CZ",
-        "numberOfListeners": 1534,
-        "region": "10"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1527,
+        "numberOfListeners": 1533,
         "region": "CMX"
+      },
+      {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 1525,
+        "region": "10"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 1427,
+        "numberOfListeners": 1426,
         "region": "IL"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 1261,
+        "numberOfListeners": 1257,
         "region": "SP"
       }
     ]

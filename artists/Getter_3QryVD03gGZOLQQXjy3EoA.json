@@ -1,38 +1,38 @@
 {
   "id": "3QryVD03gGZOLQQXjy3EoA",
   "name": "Getter",
-  "followers": 317734,
-  "monthlyListeners": 573913,
+  "followers": 317755,
+  "monthlyListeners": 574944,
   "topCities": {
     "items": [
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 9634,
+        "numberOfListeners": 9663,
         "region": "CO"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 8767,
+        "numberOfListeners": 8805,
         "region": "AZ"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 8490,
+        "numberOfListeners": 8464,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 8343,
+        "numberOfListeners": 8386,
         "region": "CA"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 7411,
+        "numberOfListeners": 7465,
         "region": "WA"
       }
     ]

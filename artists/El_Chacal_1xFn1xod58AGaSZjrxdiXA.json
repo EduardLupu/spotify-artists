@@ -1,38 +1,38 @@
 {
   "id": "1xFn1xod58AGaSZjrxdiXA",
   "name": "El Chacal",
-  "followers": 206542,
-  "monthlyListeners": 512551,
+  "followers": 206634,
+  "monthlyListeners": 509508,
   "topCities": {
     "items": [
       {
         "city": "Miami",
         "country": "US",
-        "numberOfListeners": 31442,
+        "numberOfListeners": 31438,
         "region": "FL"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 22104,
+        "numberOfListeners": 22108,
         "region": "MD"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 14119,
+        "numberOfListeners": 14028,
         "region": "LMA"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 14019,
+        "numberOfListeners": 13773,
         "region": "RM"
       },
       {
         "city": "Barcelona",
         "country": "ES",
-        "numberOfListeners": 12931,
+        "numberOfListeners": 12862,
         "region": "CT"
       }
     ]

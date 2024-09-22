@@ -1,38 +1,38 @@
 {
   "id": "49e4v89VmlDcFCMyDv9wQ9",
   "name": "Dean Martin",
-  "followers": 1734699,
-  "monthlyListeners": 6994959,
+  "followers": 1735325,
+  "monthlyListeners": 7031401,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 80509,
+        "numberOfListeners": 80896,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 70949,
+        "numberOfListeners": 71067,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 67860,
+        "numberOfListeners": 68085,
         "region": "VIC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 62635,
+        "numberOfListeners": 62947,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 58889,
+        "numberOfListeners": 58926,
         "region": "IL"
       }
     ]

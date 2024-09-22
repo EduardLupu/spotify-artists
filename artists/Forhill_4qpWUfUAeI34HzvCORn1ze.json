@@ -1,38 +1,38 @@
 {
   "id": "4qpWUfUAeI34HzvCORn1ze",
   "name": "Forhill",
-  "followers": 18738,
-  "monthlyListeners": 158189,
+  "followers": 18742,
+  "monthlyListeners": 158396,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1996,
+        "numberOfListeners": 2008,
         "region": "CA"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 1795,
+        "numberOfListeners": 1791,
         "region": "WA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 1769,
+        "numberOfListeners": 1772,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 1498,
+        "numberOfListeners": 1507,
         "region": "NSW"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 1465,
+        "numberOfListeners": 1477,
         "region": "NY"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "58lV9VcRSjABbAbfWS6skp",
   "name": "Bon Jovi",
-  "followers": 13843023,
-  "monthlyListeners": 30135107,
+  "followers": 13849580,
+  "monthlyListeners": 30100011,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 672800,
+        "numberOfListeners": 673439,
         "region": "SP"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 545358,
+        "numberOfListeners": 547931,
         "region": "JK"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 518427,
+        "numberOfListeners": 515547,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 412288,
+        "numberOfListeners": 410792,
         "region": "CMX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 338440,
+        "numberOfListeners": 338505,
         "region": "NSW"
       }
     ]

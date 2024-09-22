@@ -1,41 +1,41 @@
 {
   "id": "2rmkQLzj0k4nZdQehOUByO",
   "name": "Chino Pacas",
-  "followers": 2440432,
-  "monthlyListeners": 17408138,
+  "followers": 2447514,
+  "monthlyListeners": 17411273,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1404079,
+        "numberOfListeners": 1403389,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 851691,
+        "numberOfListeners": 853297,
         "region": "JAL"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 665071,
+        "numberOfListeners": 682970,
         "region": "CMX"
       },
       {
-        "city": "Iztapalapa",
+        "city": "Monterrey",
         "country": "MX",
-        "numberOfListeners": 618604,
-        "region": "CMX"
+        "numberOfListeners": 611841,
+        "region": "NLE"
       },
       {
         "city": "Puebla City",
         "country": "MX",
-        "numberOfListeners": 608903,
+        "numberOfListeners": 604046,
         "region": "PUE"
       }
     ]
   },
-  "worldRank": 459
+  "worldRank": 461
 }

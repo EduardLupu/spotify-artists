@@ -1,38 +1,38 @@
 {
   "id": "10gzBoINW3cLJfZUka8Zoe",
   "name": "Above & Beyond",
-  "followers": 809938,
-  "monthlyListeners": 2075095,
+  "followers": 810091,
+  "monthlyListeners": 2074546,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 40086,
+        "numberOfListeners": 40203,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 36657,
+        "numberOfListeners": 36833,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 36270,
+        "numberOfListeners": 36282,
         "region": "VIC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 30686,
+        "numberOfListeners": 30724,
         "region": "CA"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 29780,
+        "numberOfListeners": 29670,
         "region": "CMX"
       }
     ]

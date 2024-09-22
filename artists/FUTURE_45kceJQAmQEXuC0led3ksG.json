@@ -6,34 +6,34 @@
   "topCities": {
     "items": [
       {
-        "city": "Bogotá",
-        "country": "CO",
+        "city": "Santiago",
+        "country": "CL",
         "numberOfListeners": 1,
-        "region": "DC"
-      },
-      {
-        "city": "Krakow",
-        "country": "PL",
-        "numberOfListeners": 1,
-        "region": "12"
-      },
-      {
-        "city": "Paris",
-        "country": "FR",
-        "numberOfListeners": 1,
-        "region": "IDF"
-      },
-      {
-        "city": "Guadalajara",
-        "country": "MX",
-        "numberOfListeners": 1,
-        "region": "JAL"
+        "region": "RM"
       },
       {
         "city": "Champaign",
         "country": "US",
         "numberOfListeners": 1,
         "region": "IL"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 1,
+        "region": "NH"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 1,
+        "region": "DC"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "IDF"
       }
     ]
   },

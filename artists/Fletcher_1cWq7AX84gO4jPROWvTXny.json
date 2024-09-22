@@ -2,13 +2,13 @@
   "id": "1cWq7AX84gO4jPROWvTXny",
   "name": "Fletcher",
   "followers": 170,
-  "monthlyListeners": 187,
+  "monthlyListeners": 189,
   "topCities": {
     "items": [
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 61,
+        "numberOfListeners": 65,
         "region": "WA"
       },
       {
@@ -18,10 +18,10 @@
         "region": "NJ"
       },
       {
-        "city": "Melbourne",
-        "country": "AU",
+        "city": "Camp Swift",
+        "country": "US",
         "numberOfListeners": 4,
-        "region": "VIC"
+        "region": "TX"
       },
       {
         "city": "Johannesburg",
@@ -30,10 +30,10 @@
         "region": "GP"
       },
       {
-        "city": "Camp Swift",
-        "country": "US",
+        "city": "Melbourne",
+        "country": "AU",
         "numberOfListeners": 4,
-        "region": "TX"
+        "region": "VIC"
       }
     ]
   },

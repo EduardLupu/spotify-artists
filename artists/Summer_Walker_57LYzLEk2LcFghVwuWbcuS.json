@@ -1,41 +1,41 @@
 {
   "id": "57LYzLEk2LcFghVwuWbcuS",
   "name": "Summer Walker",
-  "followers": 6793662,
-  "monthlyListeners": 21982684,
+  "followers": 6797662,
+  "monthlyListeners": 21957445,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 422481,
+        "numberOfListeners": 422143,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 340011,
+        "numberOfListeners": 339170,
         "region": "CA"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 321145,
+        "numberOfListeners": 321411,
         "region": "JK"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 317471,
+        "numberOfListeners": 317307,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 257977,
+        "numberOfListeners": 256867,
         "region": "IL"
       }
     ]
   },
-  "worldRank": 306
+  "worldRank": 304
 }

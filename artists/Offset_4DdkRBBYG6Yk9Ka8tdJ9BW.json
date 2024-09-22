@@ -1,41 +1,41 @@
 {
   "id": "4DdkRBBYG6Yk9Ka8tdJ9BW",
   "name": "Offset",
-  "followers": 4337770,
-  "monthlyListeners": 23181974,
+  "followers": 4342270,
+  "monthlyListeners": 23099594,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 305452,
+        "numberOfListeners": 303449,
         "region": "IL"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 293569,
-        "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 293364,
+        "numberOfListeners": 291919,
         "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 291448,
+        "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 285142,
+        "numberOfListeners": 284067,
         "region": "NSW"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 275495,
+        "numberOfListeners": 274747,
         "region": "ON"
       }
     ]
   },
-  "worldRank": 263
+  "worldRank": 265
 }

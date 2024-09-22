@@ -2,7 +2,7 @@
   "id": "4vOyVYAiymoLJbRVRQiBeH",
   "name": "KINA",
   "followers": 1650,
-  "monthlyListeners": 976,
+  "monthlyListeners": 955,
   "topCities": {
     "items": [
       {
@@ -12,21 +12,21 @@
         "region": "TPE"
       },
       {
-        "city": "Taichung",
-        "country": "TW",
-        "numberOfListeners": 45,
-        "region": "TXG"
-      },
-      {
         "city": "Minsk",
         "country": "BY",
-        "numberOfListeners": 45,
+        "numberOfListeners": 44,
         "region": "HM"
+      },
+      {
+        "city": "Taichung",
+        "country": "TW",
+        "numberOfListeners": 44,
+        "region": "TXG"
       },
       {
         "city": "Riga",
         "country": "LV",
-        "numberOfListeners": 26,
+        "numberOfListeners": 25,
         "region": "RIX"
       },
       {

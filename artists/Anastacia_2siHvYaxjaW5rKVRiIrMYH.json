@@ -1,38 +1,38 @@
 {
   "id": "2siHvYaxjaW5rKVRiIrMYH",
   "name": "Anastacia",
-  "followers": 400272,
-  "monthlyListeners": 3092386,
+  "followers": 400395,
+  "monthlyListeners": 3081391,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 74367,
+        "numberOfListeners": 73890,
         "region": "ENG"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 56754,
+        "numberOfListeners": 56726,
         "region": "BE"
-      },
-      {
-        "city": "Melbourne",
-        "country": "AU",
-        "numberOfListeners": 46307,
-        "region": "VIC"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 46250,
+        "numberOfListeners": 46455,
         "region": "NH"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 46311,
+        "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 46099,
+        "numberOfListeners": 46154,
         "region": "NSW"
       }
     ]

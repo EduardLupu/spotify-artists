@@ -1,38 +1,38 @@
 {
   "id": "6tw6EpC9RgmSRZiZg0n22t",
   "name": "Legião Urbana",
-  "followers": 6415555,
-  "monthlyListeners": 5042749,
+  "followers": 6418303,
+  "monthlyListeners": 5036392,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 893382,
+        "numberOfListeners": 893121,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 380816,
+        "numberOfListeners": 380077,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 293913,
+        "numberOfListeners": 294443,
         "region": "MG"
       },
       {
         "city": "Campinas",
         "country": "BR",
-        "numberOfListeners": 212009,
+        "numberOfListeners": 212396,
         "region": "SP"
       },
       {
         "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 204398,
+        "numberOfListeners": 204848,
         "region": "PR"
       }
     ]

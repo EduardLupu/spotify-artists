@@ -1,26 +1,26 @@
 {
   "id": "6FoeUxnn8tIu1zSVzuWo2h",
   "name": "juju",
-  "followers": 2724,
-  "monthlyListeners": 3917,
+  "followers": 2727,
+  "monthlyListeners": 3935,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 59,
+        "numberOfListeners": 62,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 55,
+        "numberOfListeners": 56,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 48,
+        "numberOfListeners": 49,
         "region": "IL"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 44,
+        "numberOfListeners": 45,
         "region": "VIC"
       }
     ]

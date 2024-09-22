@@ -1,38 +1,38 @@
 {
   "id": "1HxJeLhIuegM3KgvPn8sTa",
   "name": "Jack Ü",
-  "followers": 1081570,
-  "monthlyListeners": 4054523,
+  "followers": 1081591,
+  "monthlyListeners": 4003281,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 93397,
+        "numberOfListeners": 93047,
         "region": "JK"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 64837,
+        "numberOfListeners": 63913,
         "region": "CMX"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 62179,
+        "numberOfListeners": 61601,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 53671,
+        "numberOfListeners": 53134,
         "region": "NSW"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 52324,
+        "numberOfListeners": 51109,
         "region": "RM"
       }
     ]

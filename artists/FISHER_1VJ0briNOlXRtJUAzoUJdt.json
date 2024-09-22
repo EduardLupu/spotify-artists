@@ -1,41 +1,41 @@
 {
   "id": "1VJ0briNOlXRtJUAzoUJdt",
   "name": "FISHER",
-  "followers": 998858,
-  "monthlyListeners": 18673736,
+  "followers": 999395,
+  "monthlyListeners": 18543188,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 373424,
+        "numberOfListeners": 369881,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 350400,
+        "numberOfListeners": 350110,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 304507,
+        "numberOfListeners": 303702,
         "region": "VIC"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 297593,
+        "numberOfListeners": 297551,
         "region": "NH"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 248904,
+        "numberOfListeners": 246459,
         "region": "RM"
       }
     ]
   },
-  "worldRank": 407
+  "worldRank": 413
 }

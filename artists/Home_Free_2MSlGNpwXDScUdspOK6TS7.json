@@ -1,38 +1,38 @@
 {
   "id": "2MSlGNpwXDScUdspOK6TS7",
   "name": "Home Free",
-  "followers": 401723,
-  "monthlyListeners": 806039,
+  "followers": 401828,
+  "monthlyListeners": 804798,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 8726,
+        "numberOfListeners": 8685,
         "region": "NSW"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 7740,
+        "numberOfListeners": 7724,
         "region": "IDF"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 7348,
+        "numberOfListeners": 7297,
         "region": "IL"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 7193,
+        "numberOfListeners": 7209,
         "region": "QLD"
       },
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 7091,
+        "numberOfListeners": 7071,
         "region": "AB"
       }
     ]

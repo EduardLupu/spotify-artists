@@ -1,38 +1,38 @@
 {
   "id": "0MvSBMGRQJY3mRwIbJsqF1",
   "name": "Royal Philharmonic Orchestra",
-  "followers": 164513,
-  "monthlyListeners": 5156626,
+  "followers": 164610,
+  "monthlyListeners": 5155533,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 78403,
+        "numberOfListeners": 78404,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 55938,
+        "numberOfListeners": 56017,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 49553,
+        "numberOfListeners": 49520,
         "region": "VIC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 48990,
+        "numberOfListeners": 48824,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 48564,
+        "numberOfListeners": 48163,
         "region": "RM"
       }
     ]

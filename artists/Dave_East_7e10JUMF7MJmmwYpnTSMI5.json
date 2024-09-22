@@ -1,38 +1,38 @@
 {
   "id": "7e10JUMF7MJmmwYpnTSMI5",
   "name": "Dave East",
-  "followers": 691552,
-  "monthlyListeners": 824685,
+  "followers": 691657,
+  "monthlyListeners": 826672,
   "topCities": {
     "items": [
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 20338,
+        "numberOfListeners": 20241,
         "region": "NY"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 20094,
+        "numberOfListeners": 20209,
         "region": "NY"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 17531,
+        "numberOfListeners": 17551,
         "region": "ON"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 16694,
+        "numberOfListeners": 16675,
         "region": "PA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 14688,
+        "numberOfListeners": 14684,
         "region": "ENG"
       }
     ]

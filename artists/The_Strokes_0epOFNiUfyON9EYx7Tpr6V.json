@@ -1,41 +1,41 @@
 {
   "id": "0epOFNiUfyON9EYx7Tpr6V",
   "name": "The Strokes",
-  "followers": 5857033,
-  "monthlyListeners": 16442162,
+  "followers": 5859023,
+  "monthlyListeners": 16427495,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 324614,
+        "numberOfListeners": 324016,
         "region": "ENG"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 313983,
+        "numberOfListeners": 312370,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 270012,
+        "numberOfListeners": 267949,
         "region": "RM"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 255626,
+        "numberOfListeners": 255616,
         "region": "CA"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 217492,
+        "numberOfListeners": 216663,
         "region": "SP"
       }
     ]
   },
-  "worldRank": 495
+  "worldRank": 494
 }

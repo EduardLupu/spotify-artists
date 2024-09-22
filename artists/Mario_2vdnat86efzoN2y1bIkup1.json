@@ -8,8 +8,14 @@
       {
         "city": "Sofia",
         "country": "BG",
-        "numberOfListeners": 23,
+        "numberOfListeners": 22,
         "region": "22"
+      },
+      {
+        "city": "Varna",
+        "country": "BG",
+        "numberOfListeners": 3,
+        "region": "03"
       },
       {
         "city": "Ankara",
@@ -18,22 +24,16 @@
         "region": "06"
       },
       {
-        "city": "Varna",
-        "country": "BG",
-        "numberOfListeners": 2,
-        "region": "03"
-      },
-      {
         "city": "Istanbul",
         "country": "TR",
         "numberOfListeners": 1,
         "region": "34"
       },
       {
-        "city": "Munich",
-        "country": "DE",
+        "city": "Cluj-Napoca",
+        "country": "RO",
         "numberOfListeners": 1,
-        "region": "BY"
+        "region": "CJ"
       }
     ]
   },

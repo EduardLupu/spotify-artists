@@ -1,38 +1,38 @@
 {
   "id": "1fBCIkoPOPCDLUxGuWNvyo",
   "name": "Poison",
-  "followers": 3304758,
-  "monthlyListeners": 4286489,
+  "followers": 3305579,
+  "monthlyListeners": 4301500,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 79322,
+        "numberOfListeners": 78832,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 67035,
+        "numberOfListeners": 67378,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 61559,
+        "numberOfListeners": 61735,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 56848,
+        "numberOfListeners": 56685,
         "region": "IL"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 55573,
+        "numberOfListeners": 55858,
         "region": "QLD"
       }
     ]

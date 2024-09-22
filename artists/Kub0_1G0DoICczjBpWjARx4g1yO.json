@@ -2,37 +2,37 @@
   "id": "1G0DoICczjBpWjARx4g1yO",
   "name": "Kub0",
   "followers": 1474,
-  "monthlyListeners": 20806,
+  "monthlyListeners": 20780,
   "topCities": {
     "items": [
       {
         "city": "Bratislava",
         "country": "SK",
-        "numberOfListeners": 267,
+        "numberOfListeners": 269,
         "region": "BL"
-      },
-      {
-        "city": "Warsaw",
-        "country": "PL",
-        "numberOfListeners": 202,
-        "region": "14"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 200,
+        "numberOfListeners": 197,
         "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 197,
+        "numberOfListeners": 196,
         "region": "SP"
+      },
+      {
+        "city": "Warsaw",
+        "country": "PL",
+        "numberOfListeners": 192,
+        "region": "14"
       },
       {
         "city": "Kyiv",
         "country": "UA",
-        "numberOfListeners": 173,
+        "numberOfListeners": 169,
         "region": "30"
       }
     ]

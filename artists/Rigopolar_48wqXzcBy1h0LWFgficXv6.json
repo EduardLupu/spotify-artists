@@ -1,38 +1,38 @@
 {
   "id": "48wqXzcBy1h0LWFgficXv6",
   "name": "Rigopolar",
-  "followers": 6944,
-  "monthlyListeners": 29339,
+  "followers": 6948,
+  "monthlyListeners": 29475,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1026,
+        "numberOfListeners": 1036,
         "region": "CMX"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 749,
+        "numberOfListeners": 743,
         "region": "BE"
-      },
-      {
-        "city": "Vilnius",
-        "country": "LT",
-        "numberOfListeners": 560,
-        "region": "VL"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 551,
+        "numberOfListeners": 556,
         "region": "IDF"
+      },
+      {
+        "city": "Vilnius",
+        "country": "LT",
+        "numberOfListeners": 554,
+        "region": "VL"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 485,
+        "numberOfListeners": 487,
         "region": "JAL"
       }
     ]

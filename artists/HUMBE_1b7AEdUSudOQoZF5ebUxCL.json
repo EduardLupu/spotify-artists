@@ -1,38 +1,38 @@
 {
   "id": "1b7AEdUSudOQoZF5ebUxCL",
   "name": "HUMBE",
-  "followers": 1860663,
-  "monthlyListeners": 7992891,
+  "followers": 1864497,
+  "monthlyListeners": 7981355,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 577340,
+        "numberOfListeners": 574293,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 289734,
+        "numberOfListeners": 289079,
         "region": "JAL"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 247811,
+        "numberOfListeners": 250671,
         "region": "CMX"
       },
       {
         "city": "Puebla City",
         "country": "MX",
-        "numberOfListeners": 231313,
+        "numberOfListeners": 229120,
         "region": "PUE"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 225124,
+        "numberOfListeners": 225226,
         "region": "LMA"
       }
     ]

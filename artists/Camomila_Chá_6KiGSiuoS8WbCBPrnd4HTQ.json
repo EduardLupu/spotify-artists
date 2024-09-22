@@ -1,39 +1,39 @@
 {
   "id": "6KiGSiuoS8WbCBPrnd4HTQ",
   "name": "Camomila Chá",
-  "followers": 8640,
-  "monthlyListeners": 43900,
+  "followers": 8651,
+  "monthlyListeners": 43706,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 8792,
+        "numberOfListeners": 8731,
         "region": "SP"
       },
       {
         "city": "Porto Alegre",
         "country": "BR",
-        "numberOfListeners": 2128,
+        "numberOfListeners": 2109,
         "region": "RS"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 2103,
+        "numberOfListeners": 2089,
         "region": "RJ"
       },
       {
         "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 1832,
+        "numberOfListeners": 1838,
         "region": "PR"
       },
       {
-        "city": "Campinas",
+        "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 1751,
-        "region": "SP"
+        "numberOfListeners": 1737,
+        "region": "MG"
       }
     ]
   },

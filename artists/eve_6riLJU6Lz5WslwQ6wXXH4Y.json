@@ -1,38 +1,38 @@
 {
   "id": "6riLJU6Lz5WslwQ6wXXH4Y",
   "name": "eve",
-  "followers": 373,
-  "monthlyListeners": 3045,
+  "followers": 376,
+  "monthlyListeners": 3093,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 58,
+        "numberOfListeners": 56,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 47,
+        "numberOfListeners": 48,
         "region": "IL"
-      },
-      {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 34,
-        "region": "NSW"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 34,
+        "numberOfListeners": 36,
         "region": "TX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 35,
+        "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 33,
+        "numberOfListeners": 34,
         "region": "VIC"
       }
     ]

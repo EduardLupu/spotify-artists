@@ -1,39 +1,39 @@
 {
   "id": "6V03b3Y36lolYP2orXn8mV",
   "name": "98º",
-  "followers": 517491,
-  "monthlyListeners": 1134147,
+  "followers": 517565,
+  "monthlyListeners": 1128461,
   "topCities": {
     "items": [
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 63817,
+        "numberOfListeners": 64010,
         "region": "00"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 52856,
+        "numberOfListeners": 52844,
         "region": "JK"
       },
       {
         "city": "Manila",
         "country": "PH",
-        "numberOfListeners": 29024,
+        "numberOfListeners": 28987,
         "region": "00"
       },
       {
         "city": "Caloocan City",
         "country": "PH",
-        "numberOfListeners": 23553,
+        "numberOfListeners": 23737,
         "region": "00"
       },
       {
-        "city": "Cebu City",
+        "city": "San Juan",
         "country": "PH",
-        "numberOfListeners": 21564,
-        "region": "07"
+        "numberOfListeners": 21546,
+        "region": "00"
       }
     ]
   },

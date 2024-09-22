@@ -1,38 +1,38 @@
 {
   "id": "6d4jrmreCmsenscuieJERc",
   "name": "The Band CAMINO",
-  "followers": 399630,
-  "monthlyListeners": 1312282,
+  "followers": 399667,
+  "monthlyListeners": 1308837,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 29324,
+        "numberOfListeners": 29140,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 26342,
+        "numberOfListeners": 26359,
         "region": "NY"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 21694,
+        "numberOfListeners": 21585,
         "region": "CO"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 21403,
+        "numberOfListeners": 21437,
         "region": "NC"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 19900,
+        "numberOfListeners": 19894,
         "region": "PA"
       }
     ]

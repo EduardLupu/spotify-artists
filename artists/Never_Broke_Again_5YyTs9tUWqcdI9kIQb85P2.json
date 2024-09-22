@@ -1,38 +1,38 @@
 {
   "id": "5YyTs9tUWqcdI9kIQb85P2",
   "name": "Never Broke Again",
-  "followers": 154873,
-  "monthlyListeners": 446169,
+  "followers": 154932,
+  "monthlyListeners": 445239,
   "topCities": {
     "items": [
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 10546,
+        "numberOfListeners": 10562,
         "region": "TX"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 8794,
+        "numberOfListeners": 8768,
         "region": "TX"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 8755,
+        "numberOfListeners": 8732,
         "region": "NC"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 8437,
+        "numberOfListeners": 8466,
         "region": "GA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 8088,
+        "numberOfListeners": 8067,
         "region": "IL"
       }
     ]

@@ -1,39 +1,39 @@
 {
   "id": "0du5cEVh5yTK9QJze8zA0C",
   "name": "Bruno Mars",
-  "followers": 59159881,
-  "monthlyListeners": 103498725,
+  "followers": 59205851,
+  "monthlyListeners": 103387672,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 5294249,
+        "numberOfListeners": 5386708,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 1606088,
+        "numberOfListeners": 1605906,
         "region": "SP"
       },
       {
         "city": "Bandung",
         "country": "ID",
-        "numberOfListeners": 1167512,
+        "numberOfListeners": 1185426,
         "region": "JB"
       },
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 1138945,
+        "numberOfListeners": 1149689,
         "region": "00"
       },
       {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 1132179,
-        "region": "ENG"
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 1124405,
+        "region": "RM"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "4VsbQvC84B8Z3IsBY1HLQy",
   "name": "La Factoria",
-  "followers": 482683,
-  "monthlyListeners": 7261390,
+  "followers": 483781,
+  "monthlyListeners": 7326812,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 418513,
+        "numberOfListeners": 419510,
         "region": "RM"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 341408,
+        "numberOfListeners": 345038,
         "region": "LMA"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 315057,
+        "numberOfListeners": 317169,
         "region": "CMX"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 265487,
+        "numberOfListeners": 268215,
         "region": "DC"
       },
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 199134,
+        "numberOfListeners": 194901,
         "region": "GU"
       }
     ]

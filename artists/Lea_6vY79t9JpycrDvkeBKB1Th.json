@@ -2,15 +2,9 @@
   "id": "6vY79t9JpycrDvkeBKB1Th",
   "name": "Lea",
   "followers": 4,
-  "monthlyListeners": 46,
+  "monthlyListeners": 44,
   "topCities": {
     "items": [
-      {
-        "city": "Vilnius",
-        "country": "LT",
-        "numberOfListeners": 2,
-        "region": "VL"
-      },
       {
         "city": "Buenos Aires",
         "country": "AR",
@@ -18,22 +12,28 @@
         "region": "C"
       },
       {
-        "city": "Fira",
-        "country": "GR",
-        "numberOfListeners": 1,
-        "region": "L"
+        "city": "Vilnius",
+        "country": "LT",
+        "numberOfListeners": 2,
+        "region": "VL"
       },
       {
-        "city": "Salamanca",
-        "country": "ES",
-        "numberOfListeners": 1,
-        "region": "CL"
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 2,
+        "region": "ARA"
       },
       {
-        "city": "Barcelona",
-        "country": "ES",
+        "city": "San Lazzaro di Savena",
+        "country": "IT",
         "numberOfListeners": 1,
-        "region": "CT"
+        "region": "45"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 1,
+        "region": "AB"
       }
     ]
   },

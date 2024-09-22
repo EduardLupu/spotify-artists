@@ -1,41 +1,41 @@
 {
   "id": "1U1el3k54VvEUzo3ybLPlM",
   "name": "Kali Uchis",
-  "followers": 7862940,
-  "monthlyListeners": 29993194,
+  "followers": 7866453,
+  "monthlyListeners": 29942892,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 610050,
+        "numberOfListeners": 607534,
         "region": "CMX"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 518591,
+        "numberOfListeners": 520931,
         "region": "JK"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 473012,
+        "numberOfListeners": 470941,
         "region": "CA"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 456850,
+        "numberOfListeners": 454065,
         "region": "RM"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 304956,
+        "numberOfListeners": 304785,
         "region": "LMA"
       }
     ]
   },
-  "worldRank": 160
+  "worldRank": 159
 }

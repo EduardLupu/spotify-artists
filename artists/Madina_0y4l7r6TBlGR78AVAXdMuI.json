@@ -1,38 +1,38 @@
 {
   "id": "0y4l7r6TBlGR78AVAXdMuI",
   "name": "Madina",
-  "followers": 26689,
-  "monthlyListeners": 193622,
+  "followers": 26695,
+  "monthlyListeners": 195209,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 48925,
+        "numberOfListeners": 49829,
         "region": "NH"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 41313,
+        "numberOfListeners": 41649,
         "region": "ZH"
       },
       {
         "city": "Utrecht",
         "country": "NL",
-        "numberOfListeners": 15801,
+        "numberOfListeners": 15885,
         "region": "UT"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 9808,
+        "numberOfListeners": 9938,
         "region": "BRU"
       },
       {
         "city": "The Hague",
         "country": "NL",
-        "numberOfListeners": 5713,
+        "numberOfListeners": 5846,
         "region": "ZH"
       }
     ]

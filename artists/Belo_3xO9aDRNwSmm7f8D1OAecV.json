@@ -2,37 +2,37 @@
   "id": "3xO9aDRNwSmm7f8D1OAecV",
   "name": "Belo",
   "followers": 1214,
-  "monthlyListeners": 1017,
+  "monthlyListeners": 1021,
   "topCities": {
     "items": [
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 154,
+        "numberOfListeners": 159,
         "region": "MD"
       },
       {
         "city": "Barcelona",
         "country": "ES",
-        "numberOfListeners": 64,
+        "numberOfListeners": 63,
         "region": "CT"
       },
       {
         "city": "Valencia",
         "country": "ES",
-        "numberOfListeners": 34,
+        "numberOfListeners": 35,
         "region": "VC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 25,
+        "numberOfListeners": 24,
         "region": "CMX"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 25,
+        "numberOfListeners": 24,
         "region": "DC"
       }
     ]

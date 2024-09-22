@@ -1,38 +1,38 @@
 {
   "id": "49qiE8dj4JuNdpYGRPdKbF",
   "name": "Stone Sour",
-  "followers": 2924154,
-  "monthlyListeners": 3847019,
+  "followers": 2924560,
+  "monthlyListeners": 3840960,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 77719,
+        "numberOfListeners": 77728,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 46009,
+        "numberOfListeners": 46079,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 44895,
+        "numberOfListeners": 44777,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 44371,
+        "numberOfListeners": 44355,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 42694,
+        "numberOfListeners": 42710,
         "region": "QLD"
       }
     ]

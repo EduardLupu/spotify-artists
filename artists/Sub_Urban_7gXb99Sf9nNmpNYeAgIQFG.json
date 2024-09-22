@@ -1,38 +1,38 @@
 {
   "id": "7gXb99Sf9nNmpNYeAgIQFG",
   "name": "Sub Urban",
-  "followers": 1731900,
-  "monthlyListeners": 6000120,
+  "followers": 1732626,
+  "monthlyListeners": 6012281,
   "topCities": {
     "items": [
       {
         "city": "Bengaluru",
         "country": "IN",
-        "numberOfListeners": 71454,
+        "numberOfListeners": 71379,
         "region": "KA"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 69837,
+        "numberOfListeners": 69756,
         "region": "SP"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 67312,
+        "numberOfListeners": 67560,
         "region": "JK"
       },
       {
         "city": "Mumbai",
         "country": "IN",
-        "numberOfListeners": 61414,
+        "numberOfListeners": 61192,
         "region": "MH"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 48048,
+        "numberOfListeners": 48110,
         "region": "NSW"
       }
     ]

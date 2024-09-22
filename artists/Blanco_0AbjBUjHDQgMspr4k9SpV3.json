@@ -2,7 +2,7 @@
   "id": "0AbjBUjHDQgMspr4k9SpV3",
   "name": "Blanco",
   "followers": 1475,
-  "monthlyListeners": 46,
+  "monthlyListeners": 45,
   "topCities": {
     "items": [
       {
@@ -14,20 +14,20 @@
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 3,
+        "numberOfListeners": 4,
         "region": "25"
       },
       {
-        "city": "Montpellier",
-        "country": "FR",
+        "city": "Madrid",
+        "country": "ES",
         "numberOfListeners": 1,
-        "region": "OCC"
+        "region": "MD"
       },
       {
-        "city": "Hamburg",
-        "country": "DE",
+        "city": "Petah Tikva",
+        "country": "IL",
         "numberOfListeners": 1,
-        "region": "HH"
+        "region": "M"
       },
       {
         "city": "London",

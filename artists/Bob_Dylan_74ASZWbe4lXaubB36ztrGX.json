@@ -1,38 +1,38 @@
 {
   "id": "74ASZWbe4lXaubB36ztrGX",
   "name": "Bob Dylan",
-  "followers": 6597874,
-  "monthlyListeners": 15822675,
+  "followers": 6599419,
+  "monthlyListeners": 15905248,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 241379,
+        "numberOfListeners": 242270,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 213935,
+        "numberOfListeners": 214578,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 213231,
+        "numberOfListeners": 214249,
         "region": "NSW"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 183662,
+        "numberOfListeners": 184859,
         "region": "IDF"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 183146,
+        "numberOfListeners": 183856,
         "region": "VIC"
       }
     ]

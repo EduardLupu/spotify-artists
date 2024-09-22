@@ -2,7 +2,7 @@
   "id": "6DzYPZAyIYj72p593l0jy7",
   "name": "LP",
   "followers": 129,
-  "monthlyListeners": 231,
+  "monthlyListeners": 235,
   "topCities": {
     "items": [
       {
@@ -12,10 +12,10 @@
         "region": "CA"
       },
       {
-        "city": "Melbourne",
-        "country": "AU",
+        "city": "Los Angeles",
+        "country": "US",
         "numberOfListeners": 5,
-        "region": "VIC"
+        "region": "CA"
       },
       {
         "city": "Sydney",
@@ -24,10 +24,10 @@
         "region": "NSW"
       },
       {
-        "city": "Los Angeles",
-        "country": "US",
+        "city": "Melbourne",
+        "country": "AU",
         "numberOfListeners": 5,
-        "region": "CA"
+        "region": "VIC"
       },
       {
         "city": "Brisbane",

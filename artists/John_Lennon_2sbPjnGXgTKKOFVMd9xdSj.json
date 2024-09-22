@@ -2,7 +2,7 @@
   "id": "2sbPjnGXgTKKOFVMd9xdSj",
   "name": "John Lennon",
   "followers": 28,
-  "monthlyListeners": 733,
+  "monthlyListeners": 719,
   "topCities": {
     "items": [
       {
@@ -20,20 +20,20 @@
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 12,
+        "numberOfListeners": 11,
         "region": "CMX"
-      },
-      {
-        "city": "Melbourne",
-        "country": "AU",
-        "numberOfListeners": 10,
-        "region": "VIC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
         "numberOfListeners": 10,
         "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 10,
+        "region": "VIC"
       }
     ]
   },

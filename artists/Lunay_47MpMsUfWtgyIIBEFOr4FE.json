@@ -1,38 +1,38 @@
 {
   "id": "47MpMsUfWtgyIIBEFOr4FE",
   "name": "Lunay",
-  "followers": 9622668,
-  "monthlyListeners": 10562660,
+  "followers": 9624849,
+  "monthlyListeners": 10527988,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 580805,
+        "numberOfListeners": 575465,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 425015,
+        "numberOfListeners": 423526,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 362304,
+        "numberOfListeners": 361539,
         "region": "LMA"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 276951,
+        "numberOfListeners": 277784,
         "region": "MD"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 267312,
+        "numberOfListeners": 266110,
         "region": "CMX"
       }
     ]

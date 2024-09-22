@@ -1,38 +1,38 @@
 {
   "id": "3dRfiJ2650SZu6GbydcHNb",
   "name": "John Williams",
-  "followers": 1435387,
-  "monthlyListeners": 5664048,
+  "followers": 1435817,
+  "monthlyListeners": 5675803,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 79078,
+        "numberOfListeners": 78932,
         "region": "ENG"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 57031,
+        "numberOfListeners": 57160,
         "region": "IDF"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 52792,
+        "numberOfListeners": 52833,
         "region": "NSW"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 49545,
+        "numberOfListeners": 49580,
         "region": "BE"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 47088,
+        "numberOfListeners": 46990,
         "region": "VIC"
       }
     ]

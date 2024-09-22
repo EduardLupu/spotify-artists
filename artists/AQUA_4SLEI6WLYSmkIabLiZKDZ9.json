@@ -1,20 +1,20 @@
 {
   "id": "4SLEI6WLYSmkIabLiZKDZ9",
   "name": "AQUA",
-  "followers": 837,
-  "monthlyListeners": 2188,
+  "followers": 838,
+  "monthlyListeners": 2123,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 227,
+        "numberOfListeners": 223,
         "region": "BE"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 177,
+        "numberOfListeners": 174,
         "region": "BW"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 102,
+        "numberOfListeners": 98,
         "region": "HE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 97,
+        "numberOfListeners": 98,
         "region": "BY"
       }
     ]

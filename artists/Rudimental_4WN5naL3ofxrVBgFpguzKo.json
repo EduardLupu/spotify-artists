@@ -1,39 +1,39 @@
 {
   "id": "4WN5naL3ofxrVBgFpguzKo",
   "name": "Rudimental",
-  "followers": 1376327,
-  "monthlyListeners": 13197796,
+  "followers": 1376476,
+  "monthlyListeners": 13138836,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 581211,
+        "numberOfListeners": 575961,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 285049,
+        "numberOfListeners": 284963,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 233529,
+        "numberOfListeners": 233107,
         "region": "VIC"
       },
       {
         "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 195022,
+        "numberOfListeners": 195065,
         "region": "ENG"
       },
       {
-        "city": "Birmingham",
-        "country": "GB",
-        "numberOfListeners": 194846,
-        "region": "ENG"
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 192480,
+        "region": "QLD"
       }
     ]
   },

@@ -2,20 +2,14 @@
   "id": "5y5vmzAuQfEEJ9cd62f1u0",
   "name": "Brando",
   "followers": 168,
-  "monthlyListeners": 909,
+  "monthlyListeners": 903,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 18,
+        "numberOfListeners": 17,
         "region": "CA"
-      },
-      {
-        "city": "Paris",
-        "country": "FR",
-        "numberOfListeners": 12,
-        "region": "IDF"
       },
       {
         "city": "Chicago",
@@ -24,16 +18,22 @@
         "region": "IL"
       },
       {
-        "city": "Toronto",
-        "country": "CA",
-        "numberOfListeners": 10,
-        "region": "ON"
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 11,
+        "region": "IDF"
       },
       {
         "city": "Atlanta",
         "country": "US",
         "numberOfListeners": 9,
         "region": "GA"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 9,
+        "region": "L"
       }
     ]
   },

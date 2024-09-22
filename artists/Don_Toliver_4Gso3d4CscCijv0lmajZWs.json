@@ -1,41 +1,41 @@
 {
   "id": "4Gso3d4CscCijv0lmajZWs",
   "name": "Don Toliver",
-  "followers": 4905628,
-  "monthlyListeners": 30968759,
+  "followers": 4912916,
+  "monthlyListeners": 31006459,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 449167,
+        "numberOfListeners": 449717,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 444780,
+        "numberOfListeners": 445399,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 417660,
+        "numberOfListeners": 421414,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 410983,
+        "numberOfListeners": 411674,
         "region": "IL"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 373513,
+        "numberOfListeners": 375203,
         "region": "ON"
       }
     ]
   },
-  "worldRank": 148
+  "worldRank": 147
 }

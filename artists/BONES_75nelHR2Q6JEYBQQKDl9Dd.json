@@ -8,20 +8,14 @@
       {
         "city": "Minsk",
         "country": "BY",
-        "numberOfListeners": 35,
+        "numberOfListeners": 36,
         "region": "HM"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 33,
+        "numberOfListeners": 34,
         "region": "TX"
-      },
-      {
-        "city": "Berlin",
-        "country": "DE",
-        "numberOfListeners": 31,
-        "region": "BE"
       },
       {
         "city": "Sydney",
@@ -30,9 +24,15 @@
         "region": "NSW"
       },
       {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 31,
+        "region": "BE"
+      },
+      {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 28,
+        "numberOfListeners": 30,
         "region": "QLD"
       }
     ]

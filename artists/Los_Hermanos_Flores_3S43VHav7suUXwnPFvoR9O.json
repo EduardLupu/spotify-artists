@@ -1,38 +1,38 @@
 {
   "id": "3S43VHav7suUXwnPFvoR9O",
   "name": "Los Hermanos Flores",
-  "followers": 45059,
-  "monthlyListeners": 155610,
+  "followers": 45074,
+  "monthlyListeners": 156140,
   "topCities": {
     "items": [
       {
         "city": "San Salvador",
         "country": "SV",
-        "numberOfListeners": 45511,
+        "numberOfListeners": 45262,
         "region": "SS"
       },
       {
         "city": "Santa Elena",
         "country": "SV",
-        "numberOfListeners": 12196,
+        "numberOfListeners": 13043,
         "region": "SA"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 6813,
+        "numberOfListeners": 6809,
         "region": "CA"
       },
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 4265,
+        "numberOfListeners": 4119,
         "region": "GU"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 3376,
+        "numberOfListeners": 3402,
         "region": "TX"
       }
     ]

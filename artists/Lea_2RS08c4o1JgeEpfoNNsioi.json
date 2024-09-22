@@ -2,7 +2,7 @@
   "id": "2RS08c4o1JgeEpfoNNsioi",
   "name": "Lea",
   "followers": 87,
-  "monthlyListeners": 21,
+  "monthlyListeners": 23,
   "topCities": {
     "items": [
       {
@@ -24,16 +24,16 @@
         "region": "AB"
       },
       {
-        "city": "São José dos Campos",
-        "country": "BR",
+        "city": "Krimpen aan den IJssel",
+        "country": "NL",
         "numberOfListeners": 1,
-        "region": "SP"
+        "region": "ZH"
       },
       {
-        "city": "North York",
-        "country": "CA",
+        "city": "Zagreb",
+        "country": "HR",
         "numberOfListeners": 1,
-        "region": "ON"
+        "region": "21"
       }
     ]
   },

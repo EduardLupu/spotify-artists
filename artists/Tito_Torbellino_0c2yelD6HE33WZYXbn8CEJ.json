@@ -1,39 +1,39 @@
 {
   "id": "0c2yelD6HE33WZYXbn8CEJ",
   "name": "Tito Torbellino",
-  "followers": 1545349,
-  "monthlyListeners": 3685302,
+  "followers": 1545738,
+  "monthlyListeners": 3677302,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 246550,
+        "numberOfListeners": 245172,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 216751,
+        "numberOfListeners": 216101,
         "region": "JAL"
       },
       {
         "city": "Tijuana",
         "country": "MX",
-        "numberOfListeners": 135594,
+        "numberOfListeners": 135323,
         "region": "BCN"
-      },
-      {
-        "city": "Querétaro City",
-        "country": "MX",
-        "numberOfListeners": 135274,
-        "region": "QUE"
       },
       {
         "city": "Zapopan",
         "country": "MX",
-        "numberOfListeners": 134863,
+        "numberOfListeners": 134837,
         "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 134186,
+        "region": "QUE"
       }
     ]
   },

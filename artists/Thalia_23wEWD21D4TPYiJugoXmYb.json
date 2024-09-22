@@ -1,38 +1,38 @@
 {
   "id": "23wEWD21D4TPYiJugoXmYb",
   "name": "Thalia",
-  "followers": 5009991,
-  "monthlyListeners": 9607194,
+  "followers": 5010645,
+  "monthlyListeners": 9612998,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 493069,
+        "numberOfListeners": 491752,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 473299,
+        "numberOfListeners": 471623,
         "region": "RM"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 287946,
+        "numberOfListeners": 288477,
         "region": "LMA"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 268646,
+        "numberOfListeners": 268941,
         "region": "DC"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 232558,
+        "numberOfListeners": 232430,
         "region": "JAL"
       }
     ]

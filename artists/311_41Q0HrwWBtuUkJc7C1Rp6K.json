@@ -1,38 +1,38 @@
 {
   "id": "41Q0HrwWBtuUkJc7C1Rp6K",
   "name": "311",
-  "followers": 1076982,
-  "monthlyListeners": 3214617,
+  "followers": 1077351,
+  "monthlyListeners": 3203607,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 90765,
+        "numberOfListeners": 90322,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 56679,
+        "numberOfListeners": 56368,
         "region": "IL"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 52878,
+        "numberOfListeners": 52778,
         "region": "AZ"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 49936,
+        "numberOfListeners": 49944,
         "region": "CO"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 45398,
+        "numberOfListeners": 45120,
         "region": "TX"
       }
     ]

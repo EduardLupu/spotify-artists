@@ -1,38 +1,38 @@
 {
   "id": "4mncDFjVLUa3s025Tct3Ry",
   "name": "Claptone",
-  "followers": 541862,
-  "monthlyListeners": 3306889,
+  "followers": 541960,
+  "monthlyListeners": 3287511,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 75268,
+        "numberOfListeners": 74997,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 67828,
+        "numberOfListeners": 67426,
         "region": "RM"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 54690,
+        "numberOfListeners": 54832,
         "region": "C"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 48503,
+        "numberOfListeners": 48544,
         "region": "NH"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 43609,
+        "numberOfListeners": 43145,
         "region": "ENG"
       }
     ]

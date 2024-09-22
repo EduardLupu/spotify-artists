@@ -1,39 +1,39 @@
 {
   "id": "3Me35AWHCGqW4sZ7bWWJt1",
   "name": "Xavi",
-  "followers": 6443429,
-  "monthlyListeners": 15710837,
+  "followers": 6455928,
+  "monthlyListeners": 15700019,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1147317,
+        "numberOfListeners": 1141543,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 648826,
+        "numberOfListeners": 647174,
         "region": "JAL"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 506651,
+        "numberOfListeners": 515657,
         "region": "CMX"
       },
       {
         "city": "Puebla City",
         "country": "MX",
-        "numberOfListeners": 479030,
+        "numberOfListeners": 473165,
         "region": "PUE"
       },
       {
-        "city": "Iztapalapa",
-        "country": "MX",
-        "numberOfListeners": 477353,
-        "region": "CMX"
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 469838,
+        "region": "DC"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "2hiq2iBnUik3mrOfEgRSpB",
   "name": "carolesdaughter",
-  "followers": 223201,
-  "monthlyListeners": 834568,
+  "followers": 223242,
+  "monthlyListeners": 831163,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 9320,
+        "numberOfListeners": 9231,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 7736,
+        "numberOfListeners": 7733,
         "region": "TX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 7691,
+        "numberOfListeners": 7675,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 7586,
+        "numberOfListeners": 7524,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 7468,
+        "numberOfListeners": 7450,
         "region": "VIC"
       }
     ]

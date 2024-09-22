@@ -1,41 +1,41 @@
 {
   "id": "46pWGuE3dSwY3bMMXGBvVS",
   "name": "Rema",
-  "followers": 5307499,
-  "monthlyListeners": 22970119,
+  "followers": 5314803,
+  "monthlyListeners": 22877319,
   "topCities": {
     "items": [
       {
         "city": "Lagos",
         "country": "NG",
-        "numberOfListeners": 856133,
+        "numberOfListeners": 855323,
         "region": "LA"
       },
       {
         "city": "Abuja",
         "country": "NG",
-        "numberOfListeners": 420313,
+        "numberOfListeners": 416624,
         "region": "FC"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 352795,
+        "numberOfListeners": 350874,
         "region": "IDF"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 349123,
+        "numberOfListeners": 347410,
         "region": "ENG"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 340179,
+        "numberOfListeners": 339500,
         "region": "DC"
       }
     ]
   },
-  "worldRank": 269
+  "worldRank": 270
 }

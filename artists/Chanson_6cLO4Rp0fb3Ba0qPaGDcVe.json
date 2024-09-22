@@ -1,38 +1,38 @@
 {
   "id": "6cLO4Rp0fb3Ba0qPaGDcVe",
   "name": "Chanson",
-  "followers": 1001,
-  "monthlyListeners": 5540,
+  "followers": 1004,
+  "monthlyListeners": 5551,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 128,
+        "numberOfListeners": 129,
         "region": "ENG"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 119,
+        "numberOfListeners": 117,
         "region": "IDF"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 78,
+        "numberOfListeners": 75,
         "region": "NH"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 72,
+        "numberOfListeners": 71,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 63,
+        "numberOfListeners": 65,
         "region": "NSW"
       }
     ]

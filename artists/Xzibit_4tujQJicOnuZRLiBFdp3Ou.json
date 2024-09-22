@@ -1,38 +1,38 @@
 {
   "id": "4tujQJicOnuZRLiBFdp3Ou",
   "name": "Xzibit",
-  "followers": 2089264,
-  "monthlyListeners": 1731797,
+  "followers": 2089869,
+  "monthlyListeners": 1729812,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 27315,
+        "numberOfListeners": 27249,
         "region": "NSW"
       },
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 25555,
+        "numberOfListeners": 25521,
         "region": "18"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 24254,
+        "numberOfListeners": 24191,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 21508,
+        "numberOfListeners": 21481,
         "region": "QLD"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 20611,
+        "numberOfListeners": 20451,
         "region": "ENG"
       }
     ]

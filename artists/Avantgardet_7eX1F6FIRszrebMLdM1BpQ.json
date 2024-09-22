@@ -1,38 +1,38 @@
 {
   "id": "7eX1F6FIRszrebMLdM1BpQ",
   "name": "Avantgardet",
-  "followers": 5440,
-  "monthlyListeners": 17195,
+  "followers": 5443,
+  "monthlyListeners": 15765,
   "topCities": {
     "items": [
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 4912,
+        "numberOfListeners": 4545,
         "region": "AB"
       },
       {
         "city": "Gothenburg",
         "country": "SE",
-        "numberOfListeners": 2323,
+        "numberOfListeners": 2182,
         "region": "O"
       },
       {
         "city": "Malmo",
         "country": "SE",
-        "numberOfListeners": 1736,
+        "numberOfListeners": 1624,
         "region": "M"
       },
       {
         "city": "Kalmar",
         "country": "SE",
-        "numberOfListeners": 363,
+        "numberOfListeners": 345,
         "region": "H"
       },
       {
         "city": "Uppsala",
         "country": "SE",
-        "numberOfListeners": 300,
+        "numberOfListeners": 283,
         "region": "C"
       }
     ]

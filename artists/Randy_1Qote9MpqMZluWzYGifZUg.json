@@ -1,38 +1,38 @@
 {
   "id": "1Qote9MpqMZluWzYGifZUg",
   "name": "Randy",
-  "followers": 7856,
-  "monthlyListeners": 11128,
+  "followers": 7857,
+  "monthlyListeners": 11037,
   "topCities": {
     "items": [
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 925,
+        "numberOfListeners": 923,
         "region": "AB"
       },
       {
         "city": "Gothenburg",
         "country": "SE",
-        "numberOfListeners": 472,
+        "numberOfListeners": 484,
         "region": "O"
       },
       {
         "city": "Panama City",
         "country": "PA",
-        "numberOfListeners": 442,
+        "numberOfListeners": 411,
         "region": "8"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 305,
+        "numberOfListeners": 304,
         "region": "QC"
       },
       {
         "city": "Malmo",
         "country": "SE",
-        "numberOfListeners": 269,
+        "numberOfListeners": 276,
         "region": "M"
       }
     ]

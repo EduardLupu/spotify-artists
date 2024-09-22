@@ -1,20 +1,20 @@
 {
   "id": "0VkrHRdt8c84cyTMqCt9Af",
   "name": "Fuego",
-  "followers": 5585,
-  "monthlyListeners": 33811,
+  "followers": 5590,
+  "monthlyListeners": 33530,
   "topCities": {
     "items": [
       {
         "city": "Bucharest",
         "country": "RO",
-        "numberOfListeners": 4746,
+        "numberOfListeners": 4704,
         "region": "B"
       },
       {
         "city": "Chisinau",
         "country": "MD",
-        "numberOfListeners": 2253,
+        "numberOfListeners": 2225,
         "region": "CU"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Iasi",
         "country": "RO",
-        "numberOfListeners": 1094,
+        "numberOfListeners": 1087,
         "region": "IS"
       },
       {
         "city": "Timișoara",
         "country": "RO",
-        "numberOfListeners": 864,
+        "numberOfListeners": 871,
         "region": "TM"
       }
     ]

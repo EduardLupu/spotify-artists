@@ -24,16 +24,16 @@
         "region": "MG"
       },
       {
-        "city": "Goiânia",
-        "country": "BR",
-        "numberOfListeners": 2,
-        "region": "GO"
-      },
-      {
-        "city": "São Luiz Gonzaga",
+        "city": "Coruripe",
         "country": "BR",
         "numberOfListeners": 1,
-        "region": "RS"
+        "region": "AL"
+      },
+      {
+        "city": "Salvador",
+        "country": "BR",
+        "numberOfListeners": 1,
+        "region": "BA"
       }
     ]
   },

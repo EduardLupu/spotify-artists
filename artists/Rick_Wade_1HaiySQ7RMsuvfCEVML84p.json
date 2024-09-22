@@ -1,38 +1,38 @@
 {
   "id": "1HaiySQ7RMsuvfCEVML84p",
   "name": "Rick Wade",
-  "followers": 25457,
-  "monthlyListeners": 104247,
+  "followers": 25461,
+  "monthlyListeners": 104066,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 2974,
+        "numberOfListeners": 2963,
         "region": "ENG"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 2547,
+        "numberOfListeners": 2562,
         "region": "IDF"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 2368,
+        "numberOfListeners": 2359,
         "region": "VIC"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 2327,
+        "numberOfListeners": 2335,
         "region": "NH"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 2257,
+        "numberOfListeners": 2259,
         "region": "NSW"
       }
     ]

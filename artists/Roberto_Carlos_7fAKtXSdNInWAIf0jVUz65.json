@@ -1,39 +1,39 @@
 {
   "id": "7fAKtXSdNInWAIf0jVUz65",
   "name": "Roberto Carlos",
-  "followers": 5943954,
-  "monthlyListeners": 5704605,
+  "followers": 5946890,
+  "monthlyListeners": 5697337,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 293874,
+        "numberOfListeners": 292722,
         "region": "CMX"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 222151,
+        "numberOfListeners": 221676,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 189079,
+        "numberOfListeners": 188812,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 182172,
+        "numberOfListeners": 182268,
         "region": "DC"
       },
       {
-        "city": "Puebla City",
+        "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 122730,
-        "region": "PUE"
+        "numberOfListeners": 122837,
+        "region": "CMX"
       }
     ]
   },

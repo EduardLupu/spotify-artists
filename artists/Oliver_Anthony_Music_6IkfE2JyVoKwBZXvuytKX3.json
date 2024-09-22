@@ -1,38 +1,38 @@
 {
   "id": "6IkfE2JyVoKwBZXvuytKX3",
   "name": "Oliver Anthony Music",
-  "followers": 869971,
-  "monthlyListeners": 3497383,
+  "followers": 870323,
+  "monthlyListeners": 3486541,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 85803,
+        "numberOfListeners": 85962,
         "region": "NSW"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 72368,
+        "numberOfListeners": 72387,
         "region": "QLD"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 64170,
+        "numberOfListeners": 64181,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 57729,
+        "numberOfListeners": 57393,
         "region": "IL"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 54522,
+        "numberOfListeners": 54605,
         "region": "QC"
       }
     ]

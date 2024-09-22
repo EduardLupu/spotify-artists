@@ -1,38 +1,38 @@
 {
   "id": "0UBhX1nXyruGWC1bMeGG1F",
   "name": "Lisa",
-  "followers": 537,
-  "monthlyListeners": 11276,
+  "followers": 539,
+  "monthlyListeners": 11260,
   "topCities": {
     "items": [
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 1556,
+        "numberOfListeners": 1550,
         "region": "25"
       },
       {
         "city": "Rome",
         "country": "IT",
-        "numberOfListeners": 798,
+        "numberOfListeners": 803,
         "region": "62"
       },
       {
         "city": "Naples",
         "country": "IT",
-        "numberOfListeners": 338,
+        "numberOfListeners": 336,
         "region": "72"
       },
       {
         "city": "Turin",
         "country": "IT",
-        "numberOfListeners": 237,
+        "numberOfListeners": 239,
         "region": "21"
       },
       {
         "city": "Florence",
         "country": "IT",
-        "numberOfListeners": 171,
+        "numberOfListeners": 176,
         "region": "52"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "4ApdWjZjftqD77Vh6qDbCr",
   "name": "Pedro The Lion",
-  "followers": 70448,
-  "monthlyListeners": 77367,
+  "followers": 70461,
+  "monthlyListeners": 77160,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 1762,
+        "numberOfListeners": 1763,
         "region": "IL"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 1708,
+        "numberOfListeners": 1721,
         "region": "WA"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1362,
+        "numberOfListeners": 1359,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 1343,
+        "numberOfListeners": 1348,
         "region": "NY"
       },
       {
         "city": "Portland",
         "country": "US",
-        "numberOfListeners": 1303,
+        "numberOfListeners": 1288,
         "region": "OR"
       }
     ]

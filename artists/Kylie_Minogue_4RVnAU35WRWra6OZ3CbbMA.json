@@ -1,38 +1,38 @@
 {
   "id": "4RVnAU35WRWra6OZ3CbbMA",
   "name": "Kylie Minogue",
-  "followers": 2051442,
-  "monthlyListeners": 13819371,
+  "followers": 2052409,
+  "monthlyListeners": 13625521,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 294816,
+        "numberOfListeners": 290829,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 240919,
+        "numberOfListeners": 240001,
         "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 240772,
+        "numberOfListeners": 239640,
         "region": "NSW"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 211419,
+        "numberOfListeners": 207612,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 181273,
+        "numberOfListeners": 176376,
         "region": "RM"
       }
     ]

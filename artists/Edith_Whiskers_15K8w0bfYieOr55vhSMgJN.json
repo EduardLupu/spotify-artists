@@ -1,38 +1,38 @@
 {
   "id": "15K8w0bfYieOr55vhSMgJN",
   "name": "Edith Whiskers",
-  "followers": 159973,
-  "monthlyListeners": 4125899,
+  "followers": 160052,
+  "monthlyListeners": 4126308,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 58762,
+        "numberOfListeners": 58571,
         "region": "SP"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 54062,
+        "numberOfListeners": 54262,
         "region": "JK"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 34266,
+        "numberOfListeners": 34479,
         "region": "IDF"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 34181,
+        "numberOfListeners": 33916,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 32252,
+        "numberOfListeners": 32285,
         "region": "NSW"
       }
     ]

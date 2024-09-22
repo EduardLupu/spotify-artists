@@ -1,39 +1,39 @@
 {
   "id": "49EE6lVLgU8sp7dFgPshgM",
   "name": "La Adictiva",
-  "followers": 6186862,
-  "monthlyListeners": 10848182,
+  "followers": 6190711,
+  "monthlyListeners": 10833112,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1112853,
+        "numberOfListeners": 1106778,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 592464,
+        "numberOfListeners": 591060,
         "region": "JAL"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 481828,
+        "numberOfListeners": 490329,
         "region": "CMX"
       },
       {
         "city": "Puebla City",
         "country": "MX",
-        "numberOfListeners": 468715,
+        "numberOfListeners": 463236,
         "region": "PUE"
       },
       {
-        "city": "Iztapalapa",
+        "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 438041,
-        "region": "CMX"
+        "numberOfListeners": 426173,
+        "region": "QUE"
       }
     ]
   },

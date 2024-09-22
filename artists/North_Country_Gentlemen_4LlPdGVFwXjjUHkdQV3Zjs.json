@@ -1,38 +1,38 @@
 {
   "id": "4LlPdGVFwXjjUHkdQV3Zjs",
   "name": "North Country Gentlemen",
-  "followers": 3545,
-  "monthlyListeners": 12870,
+  "followers": 3547,
+  "monthlyListeners": 12869,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 393,
+        "numberOfListeners": 390,
         "region": "SP"
       },
       {
         "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 182,
+        "numberOfListeners": 184,
         "region": "PR"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 155,
+        "numberOfListeners": 160,
         "region": "MG"
       },
       {
         "city": "Brasília",
         "country": "BR",
-        "numberOfListeners": 133,
+        "numberOfListeners": 134,
         "region": "DF"
       },
       {
         "city": "Campinas",
         "country": "BR",
-        "numberOfListeners": 119,
+        "numberOfListeners": 121,
         "region": "SP"
       }
     ]

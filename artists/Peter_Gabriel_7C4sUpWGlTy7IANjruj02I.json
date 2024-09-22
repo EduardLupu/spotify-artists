@@ -1,38 +1,38 @@
 {
   "id": "7C4sUpWGlTy7IANjruj02I",
   "name": "Peter Gabriel",
-  "followers": 1780912,
-  "monthlyListeners": 4678901,
+  "followers": 1781400,
+  "monthlyListeners": 4666666,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 87783,
+        "numberOfListeners": 87357,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 81724,
+        "numberOfListeners": 81536,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 70749,
+        "numberOfListeners": 70660,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 55749,
+        "numberOfListeners": 55616,
         "region": "QLD"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 52909,
+        "numberOfListeners": 53007,
         "region": "NH"
       }
     ]

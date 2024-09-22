@@ -1,20 +1,20 @@
 {
   "id": "25bKFO0pKCIacrbTkFiPEk",
   "name": "Beta Qene",
-  "followers": 4997,
-  "monthlyListeners": 8782,
+  "followers": 5012,
+  "monthlyListeners": 8762,
   "topCities": {
     "items": [
       {
         "city": "Addis Ababa",
         "country": "ET",
-        "numberOfListeners": 3086,
+        "numberOfListeners": 3093,
         "region": "AA"
       },
       {
         "city": "Washington",
         "country": "US",
-        "numberOfListeners": 241,
+        "numberOfListeners": 239,
         "region": "DC"
       },
       {
@@ -26,14 +26,14 @@
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 190,
+        "numberOfListeners": 186,
         "region": "ENG"
       },
       {
-        "city": "Nazrēt",
-        "country": "ET",
-        "numberOfListeners": 134,
-        "region": "OR"
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 130,
+        "region": "AB"
       }
     ]
   },

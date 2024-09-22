@@ -1,38 +1,38 @@
 {
   "id": "4TKTii6gnOnUXQHyuo9JaD",
   "name": "Sheryl Crow",
-  "followers": 1209198,
-  "monthlyListeners": 6855951,
+  "followers": 1209563,
+  "monthlyListeners": 6849458,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 118540,
+        "numberOfListeners": 118497,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 100602,
+        "numberOfListeners": 100535,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 85620,
+        "numberOfListeners": 85506,
         "region": "QLD"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 80398,
+        "numberOfListeners": 80253,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 78419,
+        "numberOfListeners": 78009,
         "region": "IL"
       }
     ]

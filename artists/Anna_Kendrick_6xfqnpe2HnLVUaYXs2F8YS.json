@@ -1,38 +1,38 @@
 {
   "id": "6xfqnpe2HnLVUaYXs2F8YS",
   "name": "Anna Kendrick",
-  "followers": 366024,
-  "monthlyListeners": 5190662,
+  "followers": 366125,
+  "monthlyListeners": 5165135,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 107257,
+        "numberOfListeners": 106863,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 88204,
+        "numberOfListeners": 88033,
         "region": "VIC"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 71597,
-        "region": "ENG"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 71411,
+        "numberOfListeners": 71186,
         "region": "QLD"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 70869,
+        "region": "ENG"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 57365,
+        "numberOfListeners": 57431,
         "region": "JK"
       }
     ]

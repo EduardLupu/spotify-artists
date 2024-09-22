@@ -1,38 +1,38 @@
 {
   "id": "4FDj6mh458K7m9Txwyj2rt",
   "name": "Harris & Ford",
-  "followers": 209781,
-  "monthlyListeners": 3719836,
+  "followers": 209856,
+  "monthlyListeners": 3700840,
   "topCities": {
     "items": [
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 192023,
+        "numberOfListeners": 196327,
         "region": "HH"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 182650,
+        "numberOfListeners": 181407,
         "region": "BE"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 139539,
+        "numberOfListeners": 138133,
         "region": "HE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 130704,
+        "numberOfListeners": 130499,
         "region": "BY"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 96751,
+        "numberOfListeners": 98300,
         "region": "BW"
       }
     ]

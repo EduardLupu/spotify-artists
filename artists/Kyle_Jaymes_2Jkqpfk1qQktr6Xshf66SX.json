@@ -2,7 +2,7 @@
   "id": "2Jkqpfk1qQktr6Xshf66SX",
   "name": "Kyle Jaymes",
   "followers": 531,
-  "monthlyListeners": 992,
+  "monthlyListeners": 958,
   "topCities": {
     "items": [
       {
@@ -12,28 +12,28 @@
         "region": "WA"
       },
       {
-        "city": "New York City",
-        "country": "US",
-        "numberOfListeners": 61,
-        "region": "NY"
-      },
-      {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 59,
+        "numberOfListeners": 55,
         "region": "CA"
       },
       {
-        "city": "Houston",
+        "city": "New York City",
         "country": "US",
-        "numberOfListeners": 47,
-        "region": "TX"
+        "numberOfListeners": 54,
+        "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 46,
+        "numberOfListeners": 44,
         "region": "IL"
+      },
+      {
+        "city": "Sarver",
+        "country": "US",
+        "numberOfListeners": 44,
+        "region": "PA"
       }
     ]
   },

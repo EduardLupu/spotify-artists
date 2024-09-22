@@ -14,20 +14,20 @@
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 10,
+        "numberOfListeners": 9,
         "region": "ENG"
-      },
-      {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 7,
-        "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
         "numberOfListeners": 7,
         "region": "VIC"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 7,
+        "region": "NSW"
       },
       {
         "city": "Vienna",

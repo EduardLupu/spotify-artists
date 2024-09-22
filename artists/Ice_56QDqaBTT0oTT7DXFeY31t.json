@@ -2,7 +2,7 @@
   "id": "56QDqaBTT0oTT7DXFeY31t",
   "name": "Ice",
   "followers": 39,
-  "monthlyListeners": 210,
+  "monthlyListeners": 209,
   "topCities": {
     "items": [
       {
@@ -18,22 +18,22 @@
         "region": "TX"
       },
       {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 6,
+        "region": "TX"
+      },
+      {
         "city": "Mexico City",
         "country": "MX",
         "numberOfListeners": 6,
         "region": "CMX"
       },
       {
-        "city": "Dallas",
+        "city": "Fort Worth",
         "country": "US",
-        "numberOfListeners": 5,
-        "region": "TX"
-      },
-      {
-        "city": "San Salvador",
-        "country": "SV",
         "numberOfListeners": 4,
-        "region": "SS"
+        "region": "TX"
       }
     ]
   },

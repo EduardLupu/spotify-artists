@@ -1,38 +1,38 @@
 {
   "id": "3Morn5TpdjMah0L9EtAxdH",
   "name": "M",
-  "followers": 6068,
-  "monthlyListeners": 8775,
+  "followers": 6070,
+  "monthlyListeners": 8716,
   "topCities": {
     "items": [
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 4565,
+        "numberOfListeners": 4542,
         "region": "18"
       },
       {
         "city": "Tampere",
         "country": "FI",
-        "numberOfListeners": 670,
+        "numberOfListeners": 668,
         "region": "11"
       },
       {
         "city": "Oulu",
         "country": "FI",
-        "numberOfListeners": 493,
+        "numberOfListeners": 484,
         "region": "14"
-      },
-      {
-        "city": "Vantaa",
-        "country": "FI",
-        "numberOfListeners": 306,
-        "region": "18"
       },
       {
         "city": "Espoo",
         "country": "FI",
-        "numberOfListeners": 290,
+        "numberOfListeners": 299,
+        "region": "18"
+      },
+      {
+        "city": "Vantaa",
+        "country": "FI",
+        "numberOfListeners": 296,
         "region": "18"
       }
     ]

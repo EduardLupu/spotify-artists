@@ -2,38 +2,38 @@
   "id": "0a40HAhphUWC5oANI3Lpgz",
   "name": "The Method Actors",
   "followers": 671,
-  "monthlyListeners": 520,
+  "monthlyListeners": 524,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 18,
+        "numberOfListeners": 19,
         "region": "IL"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 18,
+        "numberOfListeners": 19,
         "region": "NY"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 17,
+        "numberOfListeners": 16,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 16,
+        "numberOfListeners": 15,
         "region": "ENG"
       },
       {
-        "city": "New York City",
+        "city": "Portland",
         "country": "US",
         "numberOfListeners": 12,
-        "region": "NY"
+        "region": "OR"
       }
     ]
   },

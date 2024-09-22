@@ -1,39 +1,39 @@
 {
   "id": "6qI4LTzMRpTxRzMZPvv2C6",
   "name": "Peaches & Herb",
-  "followers": 189937,
-  "monthlyListeners": 813295,
+  "followers": 190026,
+  "monthlyListeners": 811280,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 11713,
+        "numberOfListeners": 11602,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 11277,
+        "numberOfListeners": 11230,
         "region": "NSW"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 10820,
+        "numberOfListeners": 10779,
         "region": "CMX"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 10094,
+        "numberOfListeners": 10083,
         "region": "CA"
       },
       {
-        "city": "Melbourne",
-        "country": "AU",
-        "numberOfListeners": 9870,
-        "region": "VIC"
+        "city": "Quezon City",
+        "country": "PH",
+        "numberOfListeners": 9868,
+        "region": "00"
       }
     ]
   },

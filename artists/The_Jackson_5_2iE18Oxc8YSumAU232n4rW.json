@@ -1,38 +1,38 @@
 {
   "id": "2iE18Oxc8YSumAU232n4rW",
   "name": "The Jackson 5",
-  "followers": 1604580,
-  "monthlyListeners": 7800923,
+  "followers": 1605715,
+  "monthlyListeners": 7718086,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 131667,
+        "numberOfListeners": 130103,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 108476,
+        "numberOfListeners": 107440,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 92151,
+        "numberOfListeners": 91409,
         "region": "VIC"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 90893,
+        "numberOfListeners": 89913,
         "region": "SP"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 72883,
+        "numberOfListeners": 72192,
         "region": "QLD"
       }
     ]

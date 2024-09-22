@@ -6,16 +6,16 @@
   "topCities": {
     "items": [
       {
-        "city": "Oakland",
-        "country": "US",
-        "numberOfListeners": 1,
-        "region": "CA"
-      },
-      {
         "city": "Cologne",
         "country": "DE",
         "numberOfListeners": 1,
         "region": "NW"
+      },
+      {
+        "city": "Oakland",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "CA"
       }
     ]
   },

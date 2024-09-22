@@ -1,38 +1,38 @@
 {
   "id": "0tzC81XDBWtTPfJyUg6O2j",
   "name": "Quinn Christopherson",
-  "followers": 12964,
-  "monthlyListeners": 11069,
+  "followers": 12970,
+  "monthlyListeners": 10997,
   "topCities": {
     "items": [
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 299,
+        "numberOfListeners": 302,
         "region": "WA"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 204,
+        "region": "NY"
       },
       {
         "city": "Portland",
         "country": "US",
-        "numberOfListeners": 209,
+        "numberOfListeners": 203,
         "region": "OR"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 206,
+        "numberOfListeners": 199,
         "region": "IL"
-      },
-      {
-        "city": "New York City",
-        "country": "US",
-        "numberOfListeners": 203,
-        "region": "NY"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 191,
+        "numberOfListeners": 192,
         "region": "CA"
       }
     ]

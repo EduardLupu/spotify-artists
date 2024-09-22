@@ -2,19 +2,13 @@
   "id": "5Fojssd52d0TscSBqNmSzN",
   "name": "Kilo",
   "followers": 69,
-  "monthlyListeners": 50,
+  "monthlyListeners": 49,
   "topCities": {
     "items": [
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 12,
-        "region": "GA"
-      },
-      {
-        "city": "Cumming",
-        "country": "US",
-        "numberOfListeners": 2,
+        "numberOfListeners": 11,
         "region": "GA"
       },
       {
@@ -24,16 +18,22 @@
         "region": "GA"
       },
       {
-        "city": "Monrovia",
+        "city": "Cumming",
         "country": "US",
-        "numberOfListeners": 1,
-        "region": "CA"
+        "numberOfListeners": 2,
+        "region": "GA"
       },
       {
-        "city": "Bluffton",
-        "country": "US",
+        "city": "Melbourne",
+        "country": "AU",
         "numberOfListeners": 1,
-        "region": "SC"
+        "region": "VIC"
+      },
+      {
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 1,
+        "region": "25"
       }
     ]
   },

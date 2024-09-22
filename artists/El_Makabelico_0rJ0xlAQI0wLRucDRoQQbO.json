@@ -1,38 +1,38 @@
 {
   "id": "0rJ0xlAQI0wLRucDRoQQbO",
   "name": "El Makabelico",
-  "followers": 3324587,
-  "monthlyListeners": 2257219,
+  "followers": 3330000,
+  "monthlyListeners": 2253524,
   "topCities": {
     "items": [
       {
-        "city": "Mexico City",
-        "country": "MX",
-        "numberOfListeners": 150934,
-        "region": "CMX"
-      },
-      {
         "city": "Monterrey",
         "country": "MX",
-        "numberOfListeners": 149950,
+        "numberOfListeners": 150922,
         "region": "NLE"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 150133,
+        "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 129043,
+        "numberOfListeners": 128891,
         "region": "JAL"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 109687,
+        "numberOfListeners": 109151,
         "region": "QUE"
       },
       {
         "city": "San Nicolás de los Garza",
         "country": "MX",
-        "numberOfListeners": 88788,
+        "numberOfListeners": 92774,
         "region": "NLE"
       }
     ]

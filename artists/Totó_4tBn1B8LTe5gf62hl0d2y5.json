@@ -1,38 +1,38 @@
 {
   "id": "4tBn1B8LTe5gf62hl0d2y5",
   "name": "Totó",
-  "followers": 6268,
-  "monthlyListeners": 4122,
+  "followers": 6270,
+  "monthlyListeners": 4094,
   "topCities": {
     "items": [
       {
         "city": "Luanda",
         "country": "AO",
-        "numberOfListeners": 1867,
+        "numberOfListeners": 1852,
         "region": "LUA"
       },
       {
         "city": "Maputo",
         "country": "MZ",
-        "numberOfListeners": 1301,
+        "numberOfListeners": 1286,
         "region": "MPM"
       },
       {
         "city": "Chimoio",
         "country": "MZ",
-        "numberOfListeners": 131,
+        "numberOfListeners": 127,
         "region": "B"
       },
       {
         "city": "Lisbon",
         "country": "PT",
-        "numberOfListeners": 115,
+        "numberOfListeners": 110,
         "region": "11"
       },
       {
         "city": "Nampula",
         "country": "MZ",
-        "numberOfListeners": 88,
+        "numberOfListeners": 89,
         "region": "N"
       }
     ]

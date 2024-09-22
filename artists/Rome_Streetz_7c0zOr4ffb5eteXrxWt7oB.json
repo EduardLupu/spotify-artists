@@ -1,38 +1,38 @@
 {
   "id": "7c0zOr4ffb5eteXrxWt7oB",
   "name": "Rome Streetz",
-  "followers": 75281,
-  "monthlyListeners": 423002,
+  "followers": 75469,
+  "monthlyListeners": 483424,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 9124,
+        "numberOfListeners": 10355,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 6351,
+        "numberOfListeners": 7118,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 6319,
+        "numberOfListeners": 7091,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 6272,
+        "numberOfListeners": 6841,
         "region": "ENG"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 5624,
+        "numberOfListeners": 6078,
         "region": "NY"
       }
     ]

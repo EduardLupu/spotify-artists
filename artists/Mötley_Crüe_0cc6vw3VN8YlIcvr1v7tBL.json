@@ -1,39 +1,39 @@
 {
   "id": "0cc6vw3VN8YlIcvr1v7tBL",
   "name": "Mötley Crüe",
-  "followers": 5289648,
-  "monthlyListeners": 8752463,
+  "followers": 5291561,
+  "monthlyListeners": 8676494,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 115869,
+        "numberOfListeners": 114367,
         "region": "IL"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 108258,
+        "numberOfListeners": 107645,
         "region": "QC"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 107009,
+        "numberOfListeners": 105511,
         "region": "RM"
-      },
-      {
-        "city": "Toronto",
-        "country": "CA",
-        "numberOfListeners": 97544,
-        "region": "ON"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 96645,
+        "numberOfListeners": 96510,
         "region": "NSW"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 96503,
+        "region": "ON"
       }
     ]
   },

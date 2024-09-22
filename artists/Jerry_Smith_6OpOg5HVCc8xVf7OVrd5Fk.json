@@ -1,38 +1,38 @@
 {
   "id": "6OpOg5HVCc8xVf7OVrd5Fk",
   "name": "Jerry Smith",
-  "followers": 791727,
-  "monthlyListeners": 1949963,
+  "followers": 791717,
+  "monthlyListeners": 1950574,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 167393,
+        "numberOfListeners": 167276,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 45470,
+        "numberOfListeners": 45396,
         "region": "RJ"
       },
       {
         "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 44963,
+        "numberOfListeners": 44948,
         "region": "PR"
       },
       {
         "city": "Asunción",
         "country": "PY",
-        "numberOfListeners": 44366,
+        "numberOfListeners": 44854,
         "region": "ASU"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 43197,
+        "numberOfListeners": 43415,
         "region": "MG"
       }
     ]

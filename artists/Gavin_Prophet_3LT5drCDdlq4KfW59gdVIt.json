@@ -1,38 +1,38 @@
 {
   "id": "3LT5drCDdlq4KfW59gdVIt",
   "name": "Gavin Prophet",
-  "followers": 4130,
-  "monthlyListeners": 18911,
+  "followers": 4133,
+  "monthlyListeners": 18619,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 380,
+        "numberOfListeners": 381,
         "region": "IL"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 352,
+        "numberOfListeners": 343,
         "region": "WA"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 329,
+        "numberOfListeners": 328,
         "region": "CO"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 276,
+        "numberOfListeners": 275,
         "region": "TX"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 273,
+        "numberOfListeners": 267,
         "region": "PA"
       }
     ]

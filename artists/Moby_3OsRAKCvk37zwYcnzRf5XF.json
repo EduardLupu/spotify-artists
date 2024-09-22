@@ -1,38 +1,38 @@
 {
   "id": "3OsRAKCvk37zwYcnzRf5XF",
   "name": "Moby",
-  "followers": 1897750,
-  "monthlyListeners": 6666304,
+  "followers": 1898421,
+  "monthlyListeners": 6669766,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 141635,
+        "numberOfListeners": 141921,
         "region": "ENG"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 109251,
+        "numberOfListeners": 109981,
         "region": "IDF"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 92858,
+        "numberOfListeners": 92859,
         "region": "NSW"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 90509,
+        "numberOfListeners": 90287,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 85849,
+        "numberOfListeners": 85409,
         "region": "RM"
       }
     ]

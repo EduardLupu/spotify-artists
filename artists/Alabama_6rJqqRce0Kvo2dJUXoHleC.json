@@ -1,39 +1,39 @@
 {
   "id": "6rJqqRce0Kvo2dJUXoHleC",
   "name": "Alabama",
-  "followers": 1446991,
-  "monthlyListeners": 5641345,
+  "followers": 1447585,
+  "monthlyListeners": 5627081,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 104138,
+        "numberOfListeners": 103494,
         "region": "IL"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 100958,
+        "numberOfListeners": 101111,
         "region": "NC"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 96294,
+        "numberOfListeners": 96155,
         "region": "TX"
-      },
-      {
-        "city": "Denver",
-        "country": "US",
-        "numberOfListeners": 78009,
-        "region": "CO"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 77904,
+        "numberOfListeners": 78078,
         "region": "GA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 77887,
+        "region": "CO"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "07XSN3sPlIlB2L2XNcTwJw",
   "name": "KISS",
-  "followers": 9722728,
-  "monthlyListeners": 14282243,
+  "followers": 9726577,
+  "monthlyListeners": 14217460,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 288678,
+        "numberOfListeners": 286540,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 269997,
+        "numberOfListeners": 266829,
         "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 254032,
+        "numberOfListeners": 252589,
         "region": "SP"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 183269,
+        "numberOfListeners": 182472,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 126351,
+        "numberOfListeners": 125708,
         "region": "LMA"
       }
     ]

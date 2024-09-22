@@ -1,39 +1,39 @@
 {
   "id": "3oDbviiivRWhXwIE8hxkVV",
   "name": "The Beach Boys",
-  "followers": 4635747,
-  "monthlyListeners": 12073339,
+  "followers": 4637415,
+  "monthlyListeners": 12038379,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 186053,
+        "numberOfListeners": 185274,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 178256,
+        "numberOfListeners": 178111,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 150991,
+        "numberOfListeners": 150798,
         "region": "VIC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 136718,
+        "numberOfListeners": 136407,
         "region": "CA"
       },
       {
-        "city": "Chicago",
+        "city": "New York City",
         "country": "US",
-        "numberOfListeners": 126252,
-        "region": "IL"
+        "numberOfListeners": 125840,
+        "region": "NY"
       }
     ]
   },

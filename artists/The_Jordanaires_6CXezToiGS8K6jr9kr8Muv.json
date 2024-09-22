@@ -1,38 +1,38 @@
 {
   "id": "6CXezToiGS8K6jr9kr8Muv",
   "name": "The Jordanaires",
-  "followers": 7761,
-  "monthlyListeners": 2035961,
+  "followers": 7767,
+  "monthlyListeners": 2053994,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 28142,
+        "numberOfListeners": 28308,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 24755,
+        "numberOfListeners": 24916,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 24597,
+        "numberOfListeners": 24817,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 22376,
+        "numberOfListeners": 22739,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 20233,
+        "numberOfListeners": 20319,
         "region": "IL"
       }
     ]

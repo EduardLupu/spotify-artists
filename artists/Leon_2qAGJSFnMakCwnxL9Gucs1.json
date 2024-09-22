@@ -2,20 +2,26 @@
   "id": "2qAGJSFnMakCwnxL9Gucs1",
   "name": "Leon",
   "followers": 57,
-  "monthlyListeners": 79,
+  "monthlyListeners": 77,
   "topCities": {
     "items": [
       {
         "city": "Rio Branco",
         "country": "BR",
-        "numberOfListeners": 45,
+        "numberOfListeners": 41,
         "region": "AC"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 7,
+        "numberOfListeners": 6,
         "region": "SP"
+      },
+      {
+        "city": "Porto Velho",
+        "country": "BR",
+        "numberOfListeners": 6,
+        "region": "RO"
       },
       {
         "city": "Manaus",
@@ -24,16 +30,10 @@
         "region": "AM"
       },
       {
-        "city": "Porto Velho",
+        "city": "Cuiabá",
         "country": "BR",
-        "numberOfListeners": 5,
-        "region": "RO"
-      },
-      {
-        "city": "Palhoça",
-        "country": "BR",
-        "numberOfListeners": 3,
-        "region": "SC"
+        "numberOfListeners": 4,
+        "region": "MT"
       }
     ]
   },

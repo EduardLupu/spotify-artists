@@ -1,38 +1,38 @@
 {
   "id": "0ZiLjZE3N4AFbdesZtnygH",
   "name": "StoryofGelo",
-  "followers": 124,
-  "monthlyListeners": 1763,
+  "followers": 125,
+  "monthlyListeners": 1756,
   "topCities": {
     "items": [
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 64,
+        "numberOfListeners": 63,
         "region": "NY"
       },
       {
         "city": "Johannesburg",
         "country": "ZA",
-        "numberOfListeners": 53,
+        "numberOfListeners": 51,
         "region": "GP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 47,
+        "numberOfListeners": 50,
         "region": "ENG"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 47,
+        "numberOfListeners": 49,
         "region": "ON"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 47,
+        "numberOfListeners": 44,
         "region": "NY"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "6c4WWQ2PYJlgnxtkQKqI5s",
   "name": "Haze",
-  "followers": 118922,
-  "monthlyListeners": 448319,
+  "followers": 118987,
+  "monthlyListeners": 446005,
   "topCities": {
     "items": [
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 51864,
+        "numberOfListeners": 51582,
         "region": "MD"
       },
       {
         "city": "Seville",
         "country": "ES",
-        "numberOfListeners": 33976,
+        "numberOfListeners": 33946,
         "region": "AN"
       },
       {
         "city": "Barcelona",
         "country": "ES",
-        "numberOfListeners": 28206,
+        "numberOfListeners": 28036,
         "region": "CT"
       },
       {
         "city": "Málaga",
         "country": "ES",
-        "numberOfListeners": 27098,
+        "numberOfListeners": 26871,
         "region": "AN"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 18589,
+        "numberOfListeners": 18277,
         "region": "RM"
       }
     ]

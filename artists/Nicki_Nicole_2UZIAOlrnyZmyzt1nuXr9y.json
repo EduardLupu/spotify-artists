@@ -1,41 +1,41 @@
 {
   "id": "2UZIAOlrnyZmyzt1nuXr9y",
   "name": "Nicki Nicole",
-  "followers": 7435538,
-  "monthlyListeners": 22708945,
+  "followers": 7443577,
+  "monthlyListeners": 22722989,
   "topCities": {
     "items": [
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 1832072,
+        "numberOfListeners": 1842250,
         "region": "C"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1480662,
+        "numberOfListeners": 1477916,
         "region": "RM"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 873379,
+        "numberOfListeners": 870876,
         "region": "LMA"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 860811,
+        "numberOfListeners": 868762,
         "region": "B"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 794509,
+        "numberOfListeners": 792292,
         "region": "CMX"
       }
     ]
   },
-  "worldRank": 276
+  "worldRank": 275
 }

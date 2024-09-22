@@ -1,41 +1,41 @@
 {
   "id": "3FUY2gzHeIiaesXtOAdB7A",
   "name": "Train",
-  "followers": 4301743,
-  "monthlyListeners": 26302424,
+  "followers": 4302750,
+  "monthlyListeners": 26164426,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 456610,
+        "numberOfListeners": 457056,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 405588,
+        "numberOfListeners": 402461,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 384855,
+        "numberOfListeners": 384471,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 329817,
+        "numberOfListeners": 329608,
         "region": "QLD"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 317880,
+        "numberOfListeners": 318327,
         "region": "JK"
       }
     ]
   },
-  "worldRank": 199
+  "worldRank": 200
 }

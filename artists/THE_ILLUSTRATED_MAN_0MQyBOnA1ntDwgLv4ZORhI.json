@@ -2,20 +2,20 @@
   "id": "0MQyBOnA1ntDwgLv4ZORhI",
   "name": "THE ILLUSTRATED MAN",
   "followers": 125,
-  "monthlyListeners": 1892,
+  "monthlyListeners": 2043,
   "topCities": {
     "items": [
       {
-        "city": "Helsinki",
-        "country": "FI",
-        "numberOfListeners": 157,
-        "region": "18"
-      },
-      {
         "city": "Nairobi",
         "country": "KE",
-        "numberOfListeners": 141,
+        "numberOfListeners": 137,
         "region": "30"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 89,
+        "region": "18"
       },
       {
         "city": "Johannesburg",
@@ -26,7 +26,7 @@
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 23,
+        "numberOfListeners": 28,
         "region": "IDF"
       },
       {

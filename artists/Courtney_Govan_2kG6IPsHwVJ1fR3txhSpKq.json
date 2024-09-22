@@ -1,26 +1,26 @@
 {
   "id": "2kG6IPsHwVJ1fR3txhSpKq",
   "name": "Courtney Govan",
-  "followers": 27331,
-  "monthlyListeners": 14060,
+  "followers": 27333,
+  "monthlyListeners": 13945,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 256,
+        "numberOfListeners": 258,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 214,
+        "numberOfListeners": 215,
         "region": "NY"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 207,
+        "numberOfListeners": 208,
         "region": "VIC"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 192,
+        "numberOfListeners": 190,
         "region": "NSW"
       }
     ]

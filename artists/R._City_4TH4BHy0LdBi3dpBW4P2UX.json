@@ -1,38 +1,38 @@
 {
   "id": "4TH4BHy0LdBi3dpBW4P2UX",
   "name": "R. City",
-  "followers": 166448,
-  "monthlyListeners": 5387548,
+  "followers": 166638,
+  "monthlyListeners": 5362751,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 324179,
+        "numberOfListeners": 324741,
         "region": "JK"
       },
       {
         "city": "Kuala Lumpur",
         "country": "MY",
-        "numberOfListeners": 63628,
+        "numberOfListeners": 63143,
         "region": "14"
       },
       {
         "city": "Bandung",
         "country": "ID",
-        "numberOfListeners": 60116,
+        "numberOfListeners": 59999,
         "region": "JB"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 53920,
+        "numberOfListeners": 53516,
         "region": "DC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 52483,
+        "numberOfListeners": 52382,
         "region": "NSW"
       }
     ]

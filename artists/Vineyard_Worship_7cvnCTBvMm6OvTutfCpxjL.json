@@ -1,38 +1,38 @@
 {
   "id": "7cvnCTBvMm6OvTutfCpxjL",
   "name": "Vineyard Worship",
-  "followers": 54810,
-  "monthlyListeners": 196385,
+  "followers": 54835,
+  "monthlyListeners": 196172,
   "topCities": {
     "items": [
       {
         "city": "Singapore",
         "country": "SG",
-        "numberOfListeners": 4252,
+        "numberOfListeners": 4239,
         "region": ""
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 3589,
+        "numberOfListeners": 3584,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 2311,
+        "numberOfListeners": 2306,
         "region": "NSW"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 2243,
+        "numberOfListeners": 2251,
         "region": "TX"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 1910,
+        "numberOfListeners": 1913,
         "region": "VIC"
       }
     ]

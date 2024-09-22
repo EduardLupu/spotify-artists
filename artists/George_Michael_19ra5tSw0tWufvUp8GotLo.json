@@ -1,41 +1,41 @@
 {
   "id": "19ra5tSw0tWufvUp8GotLo",
   "name": "George Michael",
-  "followers": 4952782,
-  "monthlyListeners": 19831181,
+  "followers": 4954854,
+  "monthlyListeners": 19788971,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 396435,
+        "numberOfListeners": 393950,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 323607,
+        "numberOfListeners": 322433,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 269289,
+        "numberOfListeners": 269504,
         "region": "NSW"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 262360,
+        "numberOfListeners": 261737,
         "region": "SP"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 240645,
+        "numberOfListeners": 238994,
         "region": "CMX"
       }
     ]
   },
-  "worldRank": 365
+  "worldRank": 370
 }

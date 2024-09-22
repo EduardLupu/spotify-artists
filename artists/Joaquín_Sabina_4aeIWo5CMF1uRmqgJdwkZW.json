@@ -1,38 +1,38 @@
 {
   "id": "4aeIWo5CMF1uRmqgJdwkZW",
   "name": "Joaquín Sabina",
-  "followers": 3115181,
-  "monthlyListeners": 3155363,
+  "followers": 3116275,
+  "monthlyListeners": 3152833,
   "topCities": {
     "items": [
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 229183,
+        "numberOfListeners": 229441,
         "region": "MD"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 168744,
+        "numberOfListeners": 169045,
         "region": "C"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 136769,
+        "numberOfListeners": 136215,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 124497,
+        "numberOfListeners": 124381,
         "region": "RM"
       },
       {
         "city": "Barcelona",
         "country": "ES",
-        "numberOfListeners": 118000,
+        "numberOfListeners": 117584,
         "region": "CT"
       }
     ]

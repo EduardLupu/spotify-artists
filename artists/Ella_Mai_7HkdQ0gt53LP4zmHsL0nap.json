@@ -1,38 +1,38 @@
 {
   "id": "7HkdQ0gt53LP4zmHsL0nap",
   "name": "Ella Mai",
-  "followers": 5604254,
-  "monthlyListeners": 6328994,
+  "followers": 5605502,
+  "monthlyListeners": 6330020,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 123605,
+        "numberOfListeners": 123637,
         "region": "ENG"
-      },
-      {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 114160,
-        "region": "NSW"
       },
       {
         "city": "Johannesburg",
         "country": "ZA",
-        "numberOfListeners": 113844,
+        "numberOfListeners": 114245,
         "region": "GP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 114119,
+        "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 98428,
+        "numberOfListeners": 98351,
         "region": "CA"
       },
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 84612,
+        "numberOfListeners": 85275,
         "region": "00"
       }
     ]

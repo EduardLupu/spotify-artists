@@ -2,15 +2,9 @@
   "id": "2cORpS7svnPsZAFT5GsLnS",
   "name": "Zola",
   "followers": 552,
-  "monthlyListeners": 823,
+  "monthlyListeners": 832,
   "topCities": {
     "items": [
-      {
-        "city": "Warsaw",
-        "country": "PL",
-        "numberOfListeners": 15,
-        "region": "14"
-      },
       {
         "city": "Chicago",
         "country": "US",
@@ -18,22 +12,28 @@
         "region": "IL"
       },
       {
-        "city": "Denver",
-        "country": "US",
+        "city": "Warsaw",
+        "country": "PL",
         "numberOfListeners": 13,
-        "region": "CO"
+        "region": "14"
       },
       {
         "city": "Vancouver",
         "country": "CA",
-        "numberOfListeners": 9,
+        "numberOfListeners": 11,
         "region": "BC"
       },
       {
-        "city": "Portland",
+        "city": "Denver",
         "country": "US",
-        "numberOfListeners": 8,
-        "region": "OR"
+        "numberOfListeners": 11,
+        "region": "CO"
+      },
+      {
+        "city": "Calgary",
+        "country": "CA",
+        "numberOfListeners": 9,
+        "region": "AB"
       }
     ]
   },

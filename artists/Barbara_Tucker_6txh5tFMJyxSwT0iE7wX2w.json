@@ -1,38 +1,38 @@
 {
   "id": "6txh5tFMJyxSwT0iE7wX2w",
   "name": "Barbara Tucker",
-  "followers": 30934,
-  "monthlyListeners": 493765,
+  "followers": 30951,
+  "monthlyListeners": 492230,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 16795,
+        "numberOfListeners": 16627,
         "region": "ENG"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 10826,
+        "numberOfListeners": 10926,
         "region": "NH"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 8778,
+        "numberOfListeners": 8820,
         "region": "L"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 7872,
+        "numberOfListeners": 7892,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 7647,
+        "numberOfListeners": 7640,
         "region": "VIC"
       }
     ]

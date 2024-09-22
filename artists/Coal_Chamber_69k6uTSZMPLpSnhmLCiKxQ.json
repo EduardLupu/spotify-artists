@@ -1,38 +1,38 @@
 {
   "id": "69k6uTSZMPLpSnhmLCiKxQ",
   "name": "Coal Chamber",
-  "followers": 589986,
-  "monthlyListeners": 483437,
+  "followers": 590161,
+  "monthlyListeners": 483422,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 9093,
+        "numberOfListeners": 8939,
         "region": "RM"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 6510,
+        "numberOfListeners": 6462,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 6020,
+        "numberOfListeners": 5995,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 5890,
+        "numberOfListeners": 5883,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 5758,
+        "numberOfListeners": 5750,
         "region": "QLD"
       }
     ]

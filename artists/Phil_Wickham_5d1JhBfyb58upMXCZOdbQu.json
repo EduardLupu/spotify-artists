@@ -1,38 +1,38 @@
 {
   "id": "5d1JhBfyb58upMXCZOdbQu",
   "name": "Phil Wickham",
-  "followers": 954219,
-  "monthlyListeners": 2968614,
+  "followers": 954784,
+  "monthlyListeners": 2967478,
   "topCities": {
     "items": [
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 58488,
+        "numberOfListeners": 58390,
         "region": "TX"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 45093,
+        "numberOfListeners": 45169,
         "region": "NC"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 39862,
+        "numberOfListeners": 39918,
         "region": "GA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 39459,
+        "numberOfListeners": 39311,
         "region": "IL"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 36926,
+        "numberOfListeners": 36945,
         "region": "TX"
       }
     ]

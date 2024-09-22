@@ -1,10 +1,16 @@
 {
   "id": "1UVqDXXoWUfge568DEDwgB",
   "name": "Stray Kids",
-  "followers": 3135,
-  "monthlyListeners": 2138,
+  "followers": 3141,
+  "monthlyListeners": 2104,
   "topCities": {
     "items": [
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 21,
+        "region": "SP"
+      },
       {
         "city": "Santiago",
         "country": "CL",
@@ -28,12 +34,6 @@
         "country": "CZ",
         "numberOfListeners": 17,
         "region": "10"
-      },
-      {
-        "city": "Singapore",
-        "country": "SG",
-        "numberOfListeners": 17,
-        "region": ""
       }
     ]
   },

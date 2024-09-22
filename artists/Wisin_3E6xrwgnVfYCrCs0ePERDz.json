@@ -1,38 +1,38 @@
 {
   "id": "3E6xrwgnVfYCrCs0ePERDz",
   "name": "Wisin",
-  "followers": 9204249,
-  "monthlyListeners": 11976951,
+  "followers": 9205637,
+  "monthlyListeners": 11931908,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 736493,
+        "numberOfListeners": 729998,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 545500,
+        "numberOfListeners": 543097,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 413425,
+        "numberOfListeners": 413026,
         "region": "LMA"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 387368,
+        "numberOfListeners": 384755,
         "region": "CMX"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 263201,
+        "numberOfListeners": 263123,
         "region": "C"
       }
     ]

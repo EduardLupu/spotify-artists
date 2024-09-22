@@ -1,38 +1,38 @@
 {
   "id": "2auikkNYqigWStoHWK1Grq",
   "name": "John Martin",
-  "followers": 52329,
-  "monthlyListeners": 9256589,
+  "followers": 52463,
+  "monthlyListeners": 9147571,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 182599,
+        "numberOfListeners": 180479,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 124626,
+        "numberOfListeners": 123297,
         "region": "NSW"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 121900,
+        "numberOfListeners": 120475,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 117041,
+        "numberOfListeners": 115014,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 106825,
+        "numberOfListeners": 105102,
         "region": "ENG"
       }
     ]

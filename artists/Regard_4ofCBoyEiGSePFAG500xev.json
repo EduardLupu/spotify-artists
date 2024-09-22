@@ -1,38 +1,38 @@
 {
   "id": "4ofCBoyEiGSePFAG500xev",
   "name": "Regard",
-  "followers": 259313,
-  "monthlyListeners": 11436985,
+  "followers": 259429,
+  "monthlyListeners": 11339018,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 160497,
+        "numberOfListeners": 159575,
         "region": "NSW"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 150696,
+        "numberOfListeners": 148883,
         "region": "CMX"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 138398,
+        "numberOfListeners": 136780,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 130227,
+        "numberOfListeners": 129296,
         "region": "VIC"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 129558,
+        "numberOfListeners": 127974,
         "region": "SP"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "2uGKgNuq7MnKksXiSO6HjB",
   "name": "KVSH",
-  "followers": 432054,
-  "monthlyListeners": 2584848,
+  "followers": 432108,
+  "monthlyListeners": 2573987,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 250986,
+        "numberOfListeners": 249572,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 98952,
+        "numberOfListeners": 98566,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 92166,
+        "numberOfListeners": 92182,
         "region": "MG"
       },
       {
         "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 76987,
+        "numberOfListeners": 76851,
         "region": "PR"
       },
       {
         "city": "Porto Alegre",
         "country": "BR",
-        "numberOfListeners": 66710,
+        "numberOfListeners": 66884,
         "region": "RS"
       }
     ]

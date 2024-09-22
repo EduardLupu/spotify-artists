@@ -1,38 +1,38 @@
 {
   "id": "7aA592KWirLsnfb5ulGWvU",
   "name": "Danny Brown",
-  "followers": 866516,
-  "monthlyListeners": 1981897,
+  "followers": 866652,
+  "monthlyListeners": 1981453,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 35418,
+        "numberOfListeners": 35339,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 34190,
+        "numberOfListeners": 34162,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 30922,
+        "numberOfListeners": 30908,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 29322,
+        "numberOfListeners": 29457,
         "region": "NY"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 28601,
+        "numberOfListeners": 28565,
         "region": "NSW"
       }
     ]

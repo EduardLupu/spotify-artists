@@ -1,26 +1,26 @@
 {
   "id": "28WBSZjctwV49kKdHfT8nW",
   "name": "Global Underground",
-  "followers": 4971,
-  "monthlyListeners": 56919,
+  "followers": 4975,
+  "monthlyListeners": 56724,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 1356,
+        "numberOfListeners": 1337,
         "region": "BE"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 888,
+        "numberOfListeners": 881,
         "region": "ENG"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 868,
+        "numberOfListeners": 858,
         "region": "NH"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 652,
+        "numberOfListeners": 651,
         "region": "VIC"
       }
     ]

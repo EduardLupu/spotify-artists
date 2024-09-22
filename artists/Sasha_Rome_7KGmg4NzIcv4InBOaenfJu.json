@@ -1,8 +1,8 @@
 {
   "id": "7KGmg4NzIcv4InBOaenfJu",
   "name": "Sasha Rome",
-  "followers": 3261,
-  "monthlyListeners": 10748,
+  "followers": 3262,
+  "monthlyListeners": 10620,
   "topCities": {
     "items": [
       {
@@ -14,26 +14,26 @@
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 196,
+        "numberOfListeners": 193,
         "region": "CA"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 178,
+        "numberOfListeners": 171,
         "region": "CO"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 164,
+        "numberOfListeners": 165,
         "region": "NSW"
       },
       {
-        "city": "Chicago",
+        "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 157,
-        "region": "IL"
+        "numberOfListeners": 148,
+        "region": "WA"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "2y8Jo9CKhJvtfeKOsYzRdT",
   "name": "Rod Stewart",
-  "followers": 4910339,
-  "monthlyListeners": 10683644,
+  "followers": 4912500,
+  "monthlyListeners": 10652959,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 211589,
+        "numberOfListeners": 209991,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 205171,
+        "numberOfListeners": 204043,
         "region": "CMX"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 166747,
+        "numberOfListeners": 166435,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 135515,
+        "numberOfListeners": 135598,
         "region": "NSW"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 124838,
+        "numberOfListeners": 125157,
         "region": "JK"
       }
     ]

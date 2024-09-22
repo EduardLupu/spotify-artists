@@ -1,38 +1,38 @@
 {
   "id": "0GOXTf63jIMlOB5Y587SJp",
   "name": "Los Cachorros de Juan Villarreal",
-  "followers": 209253,
-  "monthlyListeners": 1092618,
+  "followers": 209335,
+  "monthlyListeners": 1084530,
   "topCities": {
     "items": [
       {
         "city": "Monterrey",
         "country": "MX",
-        "numberOfListeners": 60856,
+        "numberOfListeners": 61074,
         "region": "NLE"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 51253,
+        "numberOfListeners": 50482,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 39619,
+        "numberOfListeners": 39299,
         "region": "JAL"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 37646,
+        "numberOfListeners": 36934,
         "region": "QUE"
       },
       {
         "city": "Tijuana",
         "country": "MX",
-        "numberOfListeners": 32789,
+        "numberOfListeners": 32486,
         "region": "BCN"
       }
     ]

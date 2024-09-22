@@ -1,38 +1,38 @@
 {
   "id": "0rXI0q8Cahq6numvPlloaq",
   "name": "Diana Ross & The Supremes",
-  "followers": 82161,
-  "monthlyListeners": 573893,
+  "followers": 82244,
+  "monthlyListeners": 572487,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 11849,
+        "numberOfListeners": 11823,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 7536,
+        "numberOfListeners": 7575,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 7035,
+        "numberOfListeners": 7003,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 6910,
+        "numberOfListeners": 6872,
         "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 6527,
+        "numberOfListeners": 6481,
         "region": "VIC"
       }
     ]

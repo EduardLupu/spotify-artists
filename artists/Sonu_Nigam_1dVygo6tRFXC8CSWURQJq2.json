@@ -1,41 +1,41 @@
 {
   "id": "1dVygo6tRFXC8CSWURQJq2",
   "name": "Sonu Nigam",
-  "followers": 18032734,
-  "monthlyListeners": 18871073,
+  "followers": 18044520,
+  "monthlyListeners": 18856265,
   "topCities": {
     "items": [
       {
         "city": "Mumbai",
         "country": "IN",
-        "numberOfListeners": 1830496,
+        "numberOfListeners": 1823109,
         "region": "MH"
       },
       {
         "city": "Bengaluru",
         "country": "IN",
-        "numberOfListeners": 1661016,
+        "numberOfListeners": 1661142,
         "region": "KA"
       },
       {
         "city": "Pune",
         "country": "IN",
-        "numberOfListeners": 1618770,
+        "numberOfListeners": 1620169,
         "region": "MH"
       },
       {
         "city": "Delhi",
         "country": "IN",
-        "numberOfListeners": 1189089,
+        "numberOfListeners": 1192338,
         "region": "DL"
       },
       {
         "city": "New Delhi",
         "country": "IN",
-        "numberOfListeners": 979984,
+        "numberOfListeners": 977591,
         "region": "DL"
       }
     ]
   },
-  "worldRank": 402
+  "worldRank": 401
 }

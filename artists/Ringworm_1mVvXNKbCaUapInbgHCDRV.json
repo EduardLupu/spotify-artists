@@ -1,38 +1,38 @@
 {
   "id": "1mVvXNKbCaUapInbgHCDRV",
   "name": "Ringworm",
-  "followers": 28415,
-  "monthlyListeners": 18254,
+  "followers": 28422,
+  "monthlyListeners": 18259,
   "topCities": {
     "items": [
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 273,
+        "numberOfListeners": 275,
         "region": "PA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 254,
+        "numberOfListeners": 252,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 240,
+        "numberOfListeners": 246,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 237,
+        "numberOfListeners": 232,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 227,
+        "numberOfListeners": 232,
         "region": "NSW"
       }
     ]

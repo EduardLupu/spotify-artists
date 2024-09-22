@@ -1,38 +1,38 @@
 {
   "id": "6Wr3hh341P84m3EI8qdn9O",
   "name": "Rise Against",
-  "followers": 2736256,
-  "monthlyListeners": 7999079,
+  "followers": 2736814,
+  "monthlyListeners": 8000237,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 107413,
+        "numberOfListeners": 107004,
         "region": "IL"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 103991,
+        "numberOfListeners": 104247,
         "region": "QC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 97230,
+        "numberOfListeners": 97089,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 93771,
+        "numberOfListeners": 93463,
         "region": "VIC"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 92409,
+        "numberOfListeners": 92448,
         "region": "BE"
       }
     ]

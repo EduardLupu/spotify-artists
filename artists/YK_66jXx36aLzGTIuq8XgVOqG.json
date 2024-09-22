@@ -1,38 +1,38 @@
 {
   "id": "66jXx36aLzGTIuq8XgVOqG",
   "name": "YK",
-  "followers": 3146,
-  "monthlyListeners": 2239,
+  "followers": 3148,
+  "monthlyListeners": 2213,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 174,
+        "numberOfListeners": 172,
         "region": "ENG"
       },
       {
         "city": "Cairo",
         "country": "EG",
-        "numberOfListeners": 94,
+        "numberOfListeners": 93,
         "region": "C"
       },
       {
         "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 61,
+        "numberOfListeners": 59,
         "region": "ENG"
       },
       {
         "city": "Birmingham",
         "country": "GB",
-        "numberOfListeners": 60,
+        "numberOfListeners": 59,
         "region": "ENG"
       },
       {
         "city": "Southwark",
         "country": "GB",
-        "numberOfListeners": 51,
+        "numberOfListeners": 50,
         "region": "ENG"
       }
     ]

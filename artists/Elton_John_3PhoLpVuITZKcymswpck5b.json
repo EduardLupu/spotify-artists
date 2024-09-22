@@ -1,41 +1,41 @@
 {
   "id": "3PhoLpVuITZKcymswpck5b",
   "name": "Elton John",
-  "followers": 13779369,
-  "monthlyListeners": 48594024,
+  "followers": 13784391,
+  "monthlyListeners": 48536589,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 788709,
+        "numberOfListeners": 786181,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 708587,
+        "numberOfListeners": 709624,
         "region": "NSW"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 687473,
+        "numberOfListeners": 684172,
         "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 676727,
+        "numberOfListeners": 675603,
         "region": "SP"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 590075,
+        "numberOfListeners": 589978,
         "region": "VIC"
       }
     ]
   },
-  "worldRank": 50
+  "worldRank": 51
 }

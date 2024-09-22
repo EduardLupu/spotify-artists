@@ -2,25 +2,25 @@
   "id": "45ka7cmbu6BE3iXYY7NZD5",
   "name": "Blanco",
   "followers": 197,
-  "monthlyListeners": 1776,
+  "monthlyListeners": 1773,
   "topCities": {
     "items": [
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 58,
+        "numberOfListeners": 57,
         "region": "TX"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 43,
+        "numberOfListeners": 44,
         "region": "AZ"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 39,
+        "numberOfListeners": 40,
         "region": "CA"
       },
       {
@@ -30,10 +30,10 @@
         "region": "TX"
       },
       {
-        "city": "Denver",
+        "city": "San Antonio",
         "country": "US",
-        "numberOfListeners": 34,
-        "region": "CO"
+        "numberOfListeners": 32,
+        "region": "TX"
       }
     ]
   },

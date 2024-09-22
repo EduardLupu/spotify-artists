@@ -1,38 +1,38 @@
 {
   "id": "1wo9h8DP7M0M1orKuGZgWv",
   "name": "Masta Ace",
-  "followers": 208903,
-  "monthlyListeners": 477711,
+  "followers": 208929,
+  "monthlyListeners": 479037,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 8543,
+        "numberOfListeners": 8573,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 6591,
+        "numberOfListeners": 6600,
         "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 6278,
+        "numberOfListeners": 6308,
         "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 6146,
+        "numberOfListeners": 6142,
         "region": "CA"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 5820,
+        "numberOfListeners": 5841,
         "region": "BE"
       }
     ]

@@ -1,41 +1,41 @@
 {
   "id": "5LHRHt1k9lMyONurDHEdrp",
   "name": "Tyga",
-  "followers": 6958802,
-  "monthlyListeners": 21857190,
+  "followers": 6960156,
+  "monthlyListeners": 21804195,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 319008,
+        "numberOfListeners": 318787,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 266400,
+        "numberOfListeners": 265089,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 238524,
+        "numberOfListeners": 237682,
         "region": "CA"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 237124,
+        "numberOfListeners": 236728,
         "region": "VIC"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 209662,
+        "numberOfListeners": 209127,
         "region": "SP"
       }
     ]
   },
-  "worldRank": 314
+  "worldRank": 316
 }

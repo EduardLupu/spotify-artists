@@ -1,38 +1,38 @@
 {
   "id": "6YgPVbrxWFP9dnp8dsqDry",
   "name": "Saiko",
-  "followers": 95941,
-  "monthlyListeners": 133410,
+  "followers": 95964,
+  "monthlyListeners": 133868,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 95563,
+        "numberOfListeners": 95729,
         "region": "RM"
       },
       {
         "city": "Concepción",
         "country": "CL",
-        "numberOfListeners": 8386,
+        "numberOfListeners": 8369,
         "region": "BI"
       },
       {
         "city": "Temuco",
         "country": "CL",
-        "numberOfListeners": 3648,
+        "numberOfListeners": 3701,
         "region": "AR"
       },
       {
         "city": "Antofagasta",
         "country": "CL",
-        "numberOfListeners": 2631,
+        "numberOfListeners": 2638,
         "region": "AN"
       },
       {
         "city": "Viña del Mar",
         "country": "CL",
-        "numberOfListeners": 2182,
+        "numberOfListeners": 2191,
         "region": "VS"
       }
     ]

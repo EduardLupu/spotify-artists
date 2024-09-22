@@ -2,13 +2,13 @@
   "id": "5sPM5iYWpwOLBEcS9Leyrc",
   "name": "The Steve Mendez Project",
   "followers": 440,
-  "monthlyListeners": 1613,
+  "monthlyListeners": 1620,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 130,
+        "numberOfListeners": 131,
         "region": "CMX"
       },
       {
@@ -20,20 +20,20 @@
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 61,
+        "numberOfListeners": 62,
         "region": "CMX"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 58,
+        "numberOfListeners": 59,
         "region": "DC"
       },
       {
-        "city": "Iztapalapa",
-        "country": "MX",
-        "numberOfListeners": 54,
-        "region": "CMX"
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 51,
+        "region": "RM"
       }
     ]
   },

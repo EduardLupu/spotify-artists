@@ -1,38 +1,38 @@
 {
   "id": "1eYhYunlNJlDoQhtYBvPsi",
   "name": "Ray Charles",
-  "followers": 2354258,
-  "monthlyListeners": 11151601,
+  "followers": 2355128,
+  "monthlyListeners": 11183737,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 148828,
+        "numberOfListeners": 148729,
         "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 145045,
+        "numberOfListeners": 145627,
         "region": "SP"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 126450,
+        "numberOfListeners": 127405,
         "region": "IDF"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 109321,
+        "numberOfListeners": 109798,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 105969,
+        "numberOfListeners": 106535,
         "region": "NSW"
       }
     ]

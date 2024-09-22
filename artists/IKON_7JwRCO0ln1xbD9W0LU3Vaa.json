@@ -2,20 +2,20 @@
   "id": "7JwRCO0ln1xbD9W0LU3Vaa",
   "name": "IKON",
   "followers": 514,
-  "monthlyListeners": 5949,
+  "monthlyListeners": 5878,
   "topCities": {
     "items": [
       {
-        "city": "Frankfurt am Main",
-        "country": "DE",
-        "numberOfListeners": 204,
-        "region": "HE"
-      },
-      {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 196,
+        "numberOfListeners": 201,
         "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 194,
+        "region": "HE"
       },
       {
         "city": "Stuttgart",
@@ -26,7 +26,7 @@
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 184,
+        "numberOfListeners": 177,
         "region": "BE"
       },
       {

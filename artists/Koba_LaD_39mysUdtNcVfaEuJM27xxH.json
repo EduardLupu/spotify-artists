@@ -8,14 +8,14 @@
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 7,
+        "numberOfListeners": 8,
         "region": "IDF"
       },
       {
-        "city": "Lyon",
+        "city": "Le Mans",
         "country": "FR",
         "numberOfListeners": 2,
-        "region": "ARA"
+        "region": "PDL"
       },
       {
         "city": "Toulouse",
@@ -24,10 +24,10 @@
         "region": "OCC"
       },
       {
-        "city": "Le Mans",
+        "city": "Lyon",
         "country": "FR",
         "numberOfListeners": 2,
-        "region": "PDL"
+        "region": "ARA"
       },
       {
         "city": "Lens",

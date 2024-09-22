@@ -1,39 +1,39 @@
 {
   "id": "3XNtgte5IaLHpbX9H5sVVH",
   "name": "Beck",
-  "followers": 282,
-  "monthlyListeners": 7097,
+  "followers": 284,
+  "monthlyListeners": 7081,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 111,
+        "numberOfListeners": 112,
         "region": "CMX"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 106,
+        "numberOfListeners": 107,
         "region": "CA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 93,
+        "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 92,
+        "numberOfListeners": 91,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 90,
+        "numberOfListeners": 87,
         "region": "NY"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 90,
-        "region": "ENG"
       }
     ]
   },

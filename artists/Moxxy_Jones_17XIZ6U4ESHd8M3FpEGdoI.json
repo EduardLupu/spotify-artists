@@ -1,39 +1,39 @@
 {
   "id": "17XIZ6U4ESHd8M3FpEGdoI",
   "name": "Moxxy Jones",
-  "followers": 1157,
-  "monthlyListeners": 4492,
+  "followers": 1158,
+  "monthlyListeners": 4446,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 237,
+        "numberOfListeners": 234,
         "region": "SP"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 105,
+        "numberOfListeners": 106,
         "region": "CMX"
       },
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 97,
+        "numberOfListeners": 96,
         "region": "14"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 93,
+        "numberOfListeners": 91,
         "region": "MD"
       },
       {
-        "city": "Porto Alegre",
+        "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 62,
-        "region": "RS"
+        "numberOfListeners": 64,
+        "region": "PR"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "0OBdtDABr8MVcGot3doYRn",
   "name": "Tears for the Dying",
-  "followers": 12876,
-  "monthlyListeners": 53274,
+  "followers": 12893,
+  "monthlyListeners": 53823,
   "topCities": {
     "items": [
       {
-        "city": "Los Angeles",
-        "country": "US",
-        "numberOfListeners": 914,
-        "region": "CA"
-      },
-      {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 912,
+        "numberOfListeners": 927,
         "region": "14"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 926,
+        "region": "CA"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 816,
+        "numberOfListeners": 835,
         "region": "SP"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 540,
+        "numberOfListeners": 545,
         "region": "IL"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 535,
+        "numberOfListeners": 536,
         "region": "RM"
       }
     ]

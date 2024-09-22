@@ -1,14 +1,14 @@
 {
   "id": "4EjxTntGBvpuJhxKKrOrwh",
   "name": "LX",
-  "followers": 154,
-  "monthlyListeners": 835,
+  "followers": 155,
+  "monthlyListeners": 871,
   "topCities": {
     "items": [
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 79,
+        "numberOfListeners": 80,
         "region": "18"
       },
       {
@@ -18,10 +18,10 @@
         "region": "RM"
       },
       {
-        "city": "Amsterdam",
-        "country": "NL",
-        "numberOfListeners": 18,
-        "region": "NH"
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 19,
+        "region": "CMX"
       },
       {
         "city": "São Paulo",
@@ -30,10 +30,10 @@
         "region": "SP"
       },
       {
-        "city": "Mexico City",
-        "country": "MX",
-        "numberOfListeners": 17,
-        "region": "CMX"
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 18,
+        "region": "NH"
       }
     ]
   },

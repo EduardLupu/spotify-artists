@@ -6,34 +6,34 @@
   "topCities": {
     "items": [
       {
-        "city": "Copenhagen",
-        "country": "DK",
+        "city": "Västerås",
+        "country": "SE",
         "numberOfListeners": 1,
-        "region": "84"
+        "region": "U"
       },
       {
-        "city": "Frederiksberg",
-        "country": "DK",
+        "city": "Malmo",
+        "country": "SE",
         "numberOfListeners": 1,
-        "region": "84"
+        "region": "M"
       },
       {
-        "city": "Tilst",
-        "country": "DK",
+        "city": "Gothenburg",
+        "country": "SE",
         "numberOfListeners": 1,
-        "region": "82"
-      },
-      {
-        "city": "Aarhus",
-        "country": "DK",
-        "numberOfListeners": 1,
-        "region": "82"
+        "region": "O"
       },
       {
         "city": "Trelleborg",
         "country": "SE",
         "numberOfListeners": 1,
         "region": "M"
+      },
+      {
+        "city": "Stockholm",
+        "country": "SE",
+        "numberOfListeners": 1,
+        "region": "AB"
       }
     ]
   },

@@ -2,19 +2,19 @@
   "id": "14TYA16u3JaszjSQTLxtsS",
   "name": "MYA",
   "followers": 547,
-  "monthlyListeners": 676,
+  "monthlyListeners": 677,
   "topCities": {
     "items": [
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 81,
+        "numberOfListeners": 83,
         "region": "HH"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 73,
+        "numberOfListeners": 68,
         "region": "BE"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Cologne",
         "country": "DE",
-        "numberOfListeners": 27,
+        "numberOfListeners": 26,
         "region": "NW"
       }
     ]

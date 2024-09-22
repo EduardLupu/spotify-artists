@@ -1,41 +1,41 @@
 {
   "id": "2hlmm7s2ICUX0LVIhVFlZQ",
   "name": "Gunna",
-  "followers": 7979048,
-  "monthlyListeners": 39258711,
+  "followers": 7985697,
+  "monthlyListeners": 39038181,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 726420,
+        "numberOfListeners": 722139,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 531290,
+        "numberOfListeners": 527769,
         "region": "IL"
-      },
-      {
-        "city": "Toronto",
-        "country": "CA",
-        "numberOfListeners": 525734,
-        "region": "ON"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 524622,
+        "numberOfListeners": 524301,
         "region": "NY"
+      },
+      {
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 523644,
+        "region": "ON"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 521990,
+        "numberOfListeners": 518783,
         "region": "CA"
       }
     ]
   },
-  "worldRank": 83
+  "worldRank": 86
 }

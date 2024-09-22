@@ -2,37 +2,37 @@
   "id": "2i7oYx3jb0r7sQtKovIfNz",
   "name": "Jack Johnson",
   "followers": 1241,
-  "monthlyListeners": 138199,
+  "monthlyListeners": 137937,
   "topCities": {
     "items": [
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 6121,
+        "numberOfListeners": 6159,
         "region": "QC"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 3038,
+        "numberOfListeners": 3031,
         "region": "ON"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 2544,
+        "numberOfListeners": 2512,
         "region": "CO"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2197,
+        "numberOfListeners": 2204,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 2046,
+        "numberOfListeners": 2047,
         "region": "NY"
       }
     ]

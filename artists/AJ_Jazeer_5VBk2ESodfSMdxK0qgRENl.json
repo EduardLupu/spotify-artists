@@ -6,16 +6,22 @@
   "topCities": {
     "items": [
       {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 6,
+        "region": "CA"
+      },
+      {
         "city": "Charlotte",
         "country": "US",
         "numberOfListeners": 6,
         "region": "NC"
       },
       {
-        "city": "Los Angeles",
+        "city": "Dallas",
         "country": "US",
         "numberOfListeners": 6,
-        "region": "CA"
+        "region": "TX"
       },
       {
         "city": "Denver",
@@ -28,12 +34,6 @@
         "country": "US",
         "numberOfListeners": 5,
         "region": "GA"
-      },
-      {
-        "city": "Riverside",
-        "country": "US",
-        "numberOfListeners": 4,
-        "region": "CA"
       }
     ]
   },

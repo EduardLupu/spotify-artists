@@ -1,41 +1,41 @@
 {
   "id": "0xRXCcSX89eobfrshSVdyu",
   "name": "MEDUZA",
-  "followers": 810259,
-  "monthlyListeners": 18133879,
+  "followers": 810759,
+  "monthlyListeners": 18064483,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 325687,
+        "numberOfListeners": 323651,
         "region": "SP"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 247223,
-        "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 246717,
+        "numberOfListeners": 246463,
         "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 245169,
+        "region": "ENG"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 239222,
+        "numberOfListeners": 239187,
         "region": "NH"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 209919,
+        "numberOfListeners": 209320,
         "region": "VIC"
       }
     ]
   },
-  "worldRank": 424
+  "worldRank": 425
 }

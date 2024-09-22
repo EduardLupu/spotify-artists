@@ -2,19 +2,19 @@
   "id": "2ZG5yBKNYfjxENBRthPoOG",
   "name": "ZÖE",
   "followers": 578,
-  "monthlyListeners": 631,
+  "monthlyListeners": 622,
   "topCities": {
     "items": [
       {
         "city": "Reykjavik",
         "country": "IS",
-        "numberOfListeners": 209,
+        "numberOfListeners": 205,
         "region": "1"
       },
       {
         "city": "Kopavogur",
         "country": "IS",
-        "numberOfListeners": 16,
+        "numberOfListeners": 19,
         "region": "1"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Copenhagen",
         "country": "DK",
-        "numberOfListeners": 12,
+        "numberOfListeners": 11,
         "region": "84"
       },
       {
         "city": "Hafnarfjordur",
         "country": "IS",
-        "numberOfListeners": 9,
+        "numberOfListeners": 10,
         "region": "1"
       }
     ]

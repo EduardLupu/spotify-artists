@@ -8,31 +8,31 @@
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 103,
+        "numberOfListeners": 101,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 91,
+        "numberOfListeners": 90,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 88,
+        "numberOfListeners": 85,
         "region": "ENG"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 81,
+        "numberOfListeners": 80,
         "region": "QLD"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 71,
+        "numberOfListeners": 75,
         "region": "QC"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "35BkVhqEOG2cTuTQ4GiVbB",
   "name": "Watoto",
-  "followers": 18626,
-  "monthlyListeners": 17346,
+  "followers": 18651,
+  "monthlyListeners": 17354,
   "topCities": {
     "items": [
       {
         "city": "Kampala",
         "country": "UG",
-        "numberOfListeners": 1736,
+        "numberOfListeners": 1732,
         "region": "C"
       },
       {
         "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 586,
+        "numberOfListeners": 607,
         "region": "PR"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 558,
+        "numberOfListeners": 556,
         "region": "SP"
       },
       {
         "city": "Porto Alegre",
         "country": "BR",
-        "numberOfListeners": 382,
+        "numberOfListeners": 384,
         "region": "RS"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 367,
+        "numberOfListeners": 372,
         "region": "NSW"
       }
     ]

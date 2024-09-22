@@ -1,39 +1,39 @@
 {
   "id": "21k39bIiVAame9O5MWRS4m",
   "name": "Emilee Moore",
-  "followers": 32014,
-  "monthlyListeners": 83253,
+  "followers": 32015,
+  "monthlyListeners": 83173,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 1254,
+        "numberOfListeners": 1253,
         "region": "NSW"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 1188,
+        "numberOfListeners": 1193,
         "region": "JK"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 1065,
+        "numberOfListeners": 1056,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 804,
+        "numberOfListeners": 803,
         "region": "ENG"
       },
       {
-        "city": "Brisbane",
-        "country": "AU",
-        "numberOfListeners": 789,
-        "region": "QLD"
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 791,
+        "region": ""
       }
     ]
   },

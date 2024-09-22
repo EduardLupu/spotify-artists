@@ -1,38 +1,38 @@
 {
   "id": "5FxsPS1K61fHEVB3FNZw6Y",
   "name": "Blanco",
-  "followers": 154821,
-  "monthlyListeners": 2541724,
+  "followers": 155057,
+  "monthlyListeners": 2536352,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 194863,
+        "numberOfListeners": 194511,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 61679,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 61319,
+        "numberOfListeners": 61238,
         "region": "NSW"
-      },
-      {
-        "city": "Southwark",
-        "country": "GB",
-        "numberOfListeners": 60969,
-        "region": "ENG"
       },
       {
         "city": "Birmingham",
         "country": "GB",
-        "numberOfListeners": 54272,
+        "numberOfListeners": 53714,
         "region": "ENG"
       },
       {
         "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 50360,
+        "numberOfListeners": 50691,
         "region": "ENG"
       }
     ]

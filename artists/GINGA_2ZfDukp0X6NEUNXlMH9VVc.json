@@ -6,16 +6,22 @@
   "topCities": {
     "items": [
       {
-        "city": "Loganville",
-        "country": "US",
+        "city": "Melbourne",
+        "country": "AU",
         "numberOfListeners": 1,
-        "region": "GA"
+        "region": "VIC"
       },
       {
-        "city": "Saint Paul",
+        "city": "Sacramento",
         "country": "US",
         "numberOfListeners": 1,
-        "region": "MN"
+        "region": "CA"
+      },
+      {
+        "city": "Williamsburg",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "KY"
       },
       {
         "city": "Reno",
@@ -24,16 +30,10 @@
         "region": "NV"
       },
       {
-        "city": "Charlotte",
+        "city": "Saint Paul",
         "country": "US",
         "numberOfListeners": 1,
-        "region": "NC"
-      },
-      {
-        "city": "Sacramento",
-        "country": "US",
-        "numberOfListeners": 1,
-        "region": "CA"
+        "region": "MN"
       }
     ]
   },

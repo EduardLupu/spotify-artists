@@ -1,38 +1,38 @@
 {
   "id": "2IvkS5MXK0vPGnwyJsrEyV",
   "name": "Eric Church",
-  "followers": 3897596,
-  "monthlyListeners": 8950468,
+  "followers": 3898336,
+  "monthlyListeners": 8915340,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 198578,
+        "numberOfListeners": 196954,
         "region": "IL"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 176061,
+        "numberOfListeners": 175979,
         "region": "NC"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 153966,
+        "numberOfListeners": 153401,
         "region": "TX"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 140374,
+        "numberOfListeners": 138906,
         "region": "ON"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 134583,
+        "numberOfListeners": 134307,
         "region": "CO"
       }
     ]

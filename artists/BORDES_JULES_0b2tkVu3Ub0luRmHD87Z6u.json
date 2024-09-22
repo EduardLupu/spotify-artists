@@ -2,13 +2,13 @@
   "id": "0b2tkVu3Ub0luRmHD87Z6u",
   "name": "BORDES JULES",
   "followers": 89,
-  "monthlyListeners": 154,
+  "monthlyListeners": 157,
   "topCities": {
     "items": [
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 27,
+        "numberOfListeners": 29,
         "region": "QC"
       },
       {
@@ -20,20 +20,20 @@
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 5,
+        "numberOfListeners": 6,
         "region": "RM"
-      },
-      {
-        "city": "Brooklyn",
-        "country": "US",
-        "numberOfListeners": 4,
-        "region": "NY"
       },
       {
         "city": "Philadelphia",
         "country": "US",
         "numberOfListeners": 4,
         "region": "PA"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 4,
+        "region": "NY"
       }
     ]
   },

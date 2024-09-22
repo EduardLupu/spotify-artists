@@ -1,39 +1,39 @@
 {
   "id": "6om12Ev5ppgoMy3OYSoech",
   "name": "Halestorm",
-  "followers": 1484979,
-  "monthlyListeners": 3111243,
+  "followers": 1485407,
+  "monthlyListeners": 3109844,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 65442,
+        "numberOfListeners": 65354,
         "region": "JK"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 41518,
+        "numberOfListeners": 41400,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 39807,
+        "numberOfListeners": 39588,
         "region": "IL"
-      },
-      {
-        "city": "Denver",
-        "country": "US",
-        "numberOfListeners": 30262,
-        "region": "CO"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 30247,
+        "numberOfListeners": 30443,
         "region": "PA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 30316,
+        "region": "CO"
       }
     ]
   },

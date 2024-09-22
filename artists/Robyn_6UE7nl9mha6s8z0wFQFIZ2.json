@@ -1,38 +1,38 @@
 {
   "id": "6UE7nl9mha6s8z0wFQFIZ2",
   "name": "Robyn",
-  "followers": 842084,
-  "monthlyListeners": 4225409,
+  "followers": 842242,
+  "monthlyListeners": 4274044,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 133029,
+        "numberOfListeners": 135628,
         "region": "ENG"
       },
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 112648,
+        "numberOfListeners": 116659,
         "region": "AB"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 76583,
+        "numberOfListeners": 77471,
         "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 72556,
+        "numberOfListeners": 73268,
         "region": "NSW"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 62992,
+        "numberOfListeners": 64194,
         "region": "NY"
       }
     ]

@@ -1,41 +1,41 @@
 {
   "id": "50co4Is1HCEo8bhOyUWKpn",
   "name": "Young Thug",
-  "followers": 10409711,
-  "monthlyListeners": 30393397,
+  "followers": 10416364,
+  "monthlyListeners": 30259219,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 462570,
+        "numberOfListeners": 459072,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 438838,
+        "numberOfListeners": 435087,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 433645,
+        "numberOfListeners": 429989,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 416264,
+        "numberOfListeners": 415135,
         "region": "NY"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 411869,
+        "numberOfListeners": 409975,
         "region": "ON"
       }
     ]
   },
-  "worldRank": 154
+  "worldRank": 155
 }

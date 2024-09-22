@@ -2,7 +2,7 @@
   "id": "0kKGPz7yvhq0IkkzlSyGNB",
   "name": "Bahamas",
   "followers": 432,
-  "monthlyListeners": 4536,
+  "monthlyListeners": 4555,
   "topCities": {
     "items": [
       {
@@ -14,25 +14,25 @@
       {
         "city": "Krakow",
         "country": "PL",
-        "numberOfListeners": 317,
+        "numberOfListeners": 324,
         "region": "12"
       },
       {
         "city": "Poznan",
         "country": "PL",
-        "numberOfListeners": 255,
+        "numberOfListeners": 254,
         "region": "30"
       },
       {
         "city": "Wroclaw",
         "country": "PL",
-        "numberOfListeners": 225,
+        "numberOfListeners": 228,
         "region": "02"
       },
       {
         "city": "Katowice",
         "country": "PL",
-        "numberOfListeners": 207,
+        "numberOfListeners": 206,
         "region": "24"
       }
     ]

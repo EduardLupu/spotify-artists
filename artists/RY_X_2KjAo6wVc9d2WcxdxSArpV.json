@@ -1,38 +1,38 @@
 {
   "id": "2KjAo6wVc9d2WcxdxSArpV",
   "name": "RY X",
-  "followers": 550042,
-  "monthlyListeners": 3625388,
+  "followers": 550364,
+  "monthlyListeners": 3667841,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 60117,
+        "numberOfListeners": 60600,
         "region": "BE"
-      },
-      {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 56050,
-        "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 55959,
+        "numberOfListeners": 56875,
         "region": "ENG"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 56755,
+        "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 49309,
+        "numberOfListeners": 49944,
         "region": "VIC"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 48542,
+        "numberOfListeners": 49489,
         "region": "IDF"
       }
     ]

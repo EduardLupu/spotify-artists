@@ -1,26 +1,26 @@
 {
   "id": "1R486Y8DuEKEH01hypvW1B",
   "name": "David Phelps",
-  "followers": 81343,
-  "monthlyListeners": 90250,
+  "followers": 81355,
+  "monthlyListeners": 90311,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 1762,
+        "numberOfListeners": 1781,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 1216,
+        "numberOfListeners": 1205,
         "region": "SP"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 1210,
+        "numberOfListeners": 1205,
         "region": "NC"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 974,
+        "numberOfListeners": 972,
         "region": "GA"
       }
     ]

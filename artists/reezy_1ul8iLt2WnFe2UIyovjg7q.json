@@ -1,38 +1,38 @@
 {
   "id": "1ul8iLt2WnFe2UIyovjg7q",
   "name": "reezy",
-  "followers": 570347,
-  "monthlyListeners": 2779848,
+  "followers": 570717,
+  "monthlyListeners": 2810573,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 312331,
+        "numberOfListeners": 317309,
         "region": "BE"
-      },
-      {
-        "city": "Frankfurt am Main",
-        "country": "DE",
-        "numberOfListeners": 268382,
-        "region": "HE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 257014,
+        "numberOfListeners": 272987,
         "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 272772,
+        "region": "HE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 213471,
+        "numberOfListeners": 218135,
         "region": "BY"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 189929,
+        "numberOfListeners": 198295,
         "region": "BW"
       }
     ]

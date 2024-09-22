@@ -1,38 +1,38 @@
 {
   "id": "3vUMXQ9kPnZAQkMkZZ7Hfh",
   "name": "Tiakola",
-  "followers": 2279520,
-  "monthlyListeners": 6267865,
+  "followers": 2284749,
+  "monthlyListeners": 6322337,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 1068613,
+        "numberOfListeners": 1084244,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 253310,
+        "numberOfListeners": 256393,
         "region": "BRU"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 215831,
+        "numberOfListeners": 217585,
         "region": "ARA"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 185355,
+        "numberOfListeners": 188360,
         "region": "HDF"
       },
       {
         "city": "Marseille",
         "country": "FR",
-        "numberOfListeners": 163681,
+        "numberOfListeners": 163522,
         "region": "PAC"
       }
     ]

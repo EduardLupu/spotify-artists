@@ -1,38 +1,38 @@
 {
   "id": "1nJvji2KIlWSseXRSlNYsC",
   "name": "The Velvet Underground",
-  "followers": 1982361,
-  "monthlyListeners": 3568652,
+  "followers": 1982825,
+  "monthlyListeners": 3582239,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 80960,
+        "numberOfListeners": 81521,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 52600,
+        "numberOfListeners": 52838,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 51469,
+        "numberOfListeners": 52005,
         "region": "NY"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 45484,
+        "numberOfListeners": 45654,
         "region": "VIC"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 44083,
+        "numberOfListeners": 44313,
         "region": "IDF"
       }
     ]

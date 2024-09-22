@@ -2,25 +2,25 @@
   "id": "26HBq6EeiEPfTkfHm24j1l",
   "name": "Dopamine",
   "followers": 1136,
-  "monthlyListeners": 894,
+  "monthlyListeners": 890,
   "topCities": {
     "items": [
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 174,
+        "numberOfListeners": 173,
         "region": "QLD"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 83,
+        "numberOfListeners": 84,
         "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 75,
+        "numberOfListeners": 76,
         "region": "NSW"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Perth",
         "country": "AU",
-        "numberOfListeners": 18,
+        "numberOfListeners": 17,
         "region": "WA"
       }
     ]

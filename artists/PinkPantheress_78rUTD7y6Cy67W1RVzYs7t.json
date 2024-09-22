@@ -1,41 +1,41 @@
 {
   "id": "78rUTD7y6Cy67W1RVzYs7t",
   "name": "PinkPantheress",
-  "followers": 3626241,
-  "monthlyListeners": 18215716,
+  "followers": 3628547,
+  "monthlyListeners": 18109963,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 303464,
+        "numberOfListeners": 301507,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 302734,
+        "numberOfListeners": 300773,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 257232,
+        "numberOfListeners": 256208,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 235888,
+        "numberOfListeners": 234917,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 217403,
+        "numberOfListeners": 216282,
         "region": "IL"
       }
     ]
   },
-  "worldRank": 421
+  "worldRank": 423
 }

@@ -1,38 +1,38 @@
 {
   "id": "0rjms710nwQTdrQheXHJfz",
   "name": "Standly",
-  "followers": 1051668,
-  "monthlyListeners": 6677881,
+  "followers": 1051958,
+  "monthlyListeners": 6687151,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1146716,
+        "numberOfListeners": 1143206,
         "region": "RM"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 342267,
+        "numberOfListeners": 342764,
         "region": "C"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 288117,
+        "numberOfListeners": 289165,
         "region": "LMA"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 241121,
+        "numberOfListeners": 241182,
         "region": "CMX"
       },
       {
         "city": "Concepción",
         "country": "CL",
-        "numberOfListeners": 163688,
+        "numberOfListeners": 162370,
         "region": "BI"
       }
     ]

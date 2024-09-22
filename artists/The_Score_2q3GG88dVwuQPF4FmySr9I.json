@@ -1,38 +1,38 @@
 {
   "id": "2q3GG88dVwuQPF4FmySr9I",
   "name": "The Score",
-  "followers": 1467329,
-  "monthlyListeners": 4648659,
+  "followers": 1467641,
+  "monthlyListeners": 4651189,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 49851,
+        "numberOfListeners": 49717,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 47900,
+        "numberOfListeners": 47968,
         "region": "NSW"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 46827,
+        "numberOfListeners": 46763,
         "region": "SP"
       },
       {
         "city": "Prague",
         "country": "CZ",
-        "numberOfListeners": 44174,
+        "numberOfListeners": 44213,
         "region": "10"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 40530,
+        "numberOfListeners": 40501,
         "region": "VIC"
       }
     ]

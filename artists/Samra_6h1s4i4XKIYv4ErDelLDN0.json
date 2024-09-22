@@ -1,38 +1,38 @@
 {
   "id": "6h1s4i4XKIYv4ErDelLDN0",
   "name": "Samra",
-  "followers": 1313734,
-  "monthlyListeners": 2962322,
+  "followers": 1313953,
+  "monthlyListeners": 2956135,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 324583,
+        "numberOfListeners": 323471,
         "region": "BE"
-      },
-      {
-        "city": "Frankfurt am Main",
-        "country": "DE",
-        "numberOfListeners": 253974,
-        "region": "HE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 247547,
+        "numberOfListeners": 255118,
         "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 252429,
+        "region": "HE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 204334,
+        "numberOfListeners": 204290,
         "region": "BY"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 188227,
+        "numberOfListeners": 191137,
         "region": "BW"
       }
     ]

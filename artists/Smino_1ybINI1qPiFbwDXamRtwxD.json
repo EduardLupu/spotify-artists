@@ -1,39 +1,39 @@
 {
   "id": "1ybINI1qPiFbwDXamRtwxD",
   "name": "Smino",
-  "followers": 966237,
-  "monthlyListeners": 3208052,
+  "followers": 966479,
+  "monthlyListeners": 3210592,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 81004,
+        "numberOfListeners": 80967,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 65765,
+        "numberOfListeners": 65575,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 57955,
-        "region": "NY"
-      },
-      {
-        "city": "Brooklyn",
-        "country": "US",
-        "numberOfListeners": 47451,
+        "numberOfListeners": 58175,
         "region": "NY"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 47092,
+        "numberOfListeners": 47205,
         "region": "ENG"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 47157,
+        "region": "NY"
       }
     ]
   },

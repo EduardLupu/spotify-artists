@@ -1,38 +1,38 @@
 {
   "id": "0X380XXQSNBYuleKzav5UO",
   "name": "Nine Inch Nails",
-  "followers": 2693004,
-  "monthlyListeners": 4173938,
+  "followers": 2693960,
+  "monthlyListeners": 4180276,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 65100,
+        "numberOfListeners": 64990,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 56816,
+        "numberOfListeners": 56789,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 55067,
+        "numberOfListeners": 55049,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 50915,
+        "numberOfListeners": 50867,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 49725,
+        "numberOfListeners": 49633,
         "region": "VIC"
       }
     ]

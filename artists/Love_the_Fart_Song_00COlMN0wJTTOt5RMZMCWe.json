@@ -2,14 +2,14 @@
   "id": "00COlMN0wJTTOt5RMZMCWe",
   "name": "Love the Fart Song",
   "followers": 22,
-  "monthlyListeners": 196,
+  "monthlyListeners": 197,
   "topCities": {
     "items": [
       {
-        "city": "Madrid",
-        "country": "ES",
-        "numberOfListeners": 6,
-        "region": "MD"
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 7,
+        "region": "VIC"
       },
       {
         "city": "Sydney",
@@ -18,22 +18,22 @@
         "region": "NSW"
       },
       {
-        "city": "Melbourne",
+        "city": "Brisbane",
         "country": "AU",
         "numberOfListeners": 6,
-        "region": "VIC"
+        "region": "QLD"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 6,
+        "region": "MD"
       },
       {
         "city": "Dublin",
         "country": "IE",
         "numberOfListeners": 5,
         "region": "L"
-      },
-      {
-        "city": "Perth",
-        "country": "AU",
-        "numberOfListeners": 5,
-        "region": "WA"
       }
     ]
   },

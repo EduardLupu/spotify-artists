@@ -1,38 +1,38 @@
 {
   "id": "2PBvv7vrSx0SVp3Fz0loqL",
   "name": "Alan Doyle",
-  "followers": 23990,
-  "monthlyListeners": 214895,
+  "followers": 23995,
+  "monthlyListeners": 214672,
   "topCities": {
     "items": [
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 7600,
+        "numberOfListeners": 7511,
         "region": "ON"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 7479,
+        "numberOfListeners": 7471,
         "region": "QC"
       },
       {
         "city": "Calgary",
         "country": "CA",
-        "numberOfListeners": 5370,
+        "numberOfListeners": 5337,
         "region": "AB"
       },
       {
         "city": "Halifax",
         "country": "CA",
-        "numberOfListeners": 3024,
+        "numberOfListeners": 3014,
         "region": "NS"
       },
       {
         "city": "Edmonton",
         "country": "CA",
-        "numberOfListeners": 2865,
+        "numberOfListeners": 2846,
         "region": "AB"
       }
     ]

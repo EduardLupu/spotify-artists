@@ -1,38 +1,38 @@
 {
   "id": "30uiS1n3uIGXJEYFR1GVDy",
   "name": "The Brian Jonestown Massacre",
-  "followers": 370766,
-  "monthlyListeners": 725885,
+  "followers": 370859,
+  "monthlyListeners": 725864,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 19851,
+        "numberOfListeners": 19909,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 16676,
+        "numberOfListeners": 16619,
         "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 16062,
+        "numberOfListeners": 16054,
         "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 11333,
+        "numberOfListeners": 11309,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 9273,
+        "numberOfListeners": 9302,
         "region": "NY"
       }
     ]

@@ -1,20 +1,20 @@
 {
   "id": "0SbGI4sb8dAKFZnK7RFyhz",
   "name": "Obituary",
-  "followers": 506121,
-  "monthlyListeners": 262567,
+  "followers": 506308,
+  "monthlyListeners": 262705,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 5030,
+        "numberOfListeners": 4966,
         "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 3633,
+        "numberOfListeners": 3630,
         "region": "SP"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 2880,
+        "numberOfListeners": 2865,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2477,
+        "numberOfListeners": 2463,
         "region": "IL"
       }
     ]

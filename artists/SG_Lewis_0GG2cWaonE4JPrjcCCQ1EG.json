@@ -1,38 +1,38 @@
 {
   "id": "0GG2cWaonE4JPrjcCCQ1EG",
   "name": "SG Lewis",
-  "followers": 360426,
-  "monthlyListeners": 4758651,
+  "followers": 360496,
+  "monthlyListeners": 4753241,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 114101,
+        "numberOfListeners": 113213,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 89128,
+        "numberOfListeners": 88801,
         "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 85249,
+        "numberOfListeners": 84980,
         "region": "CA"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 81701,
+        "numberOfListeners": 81340,
         "region": "VIC"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 79942,
+        "numberOfListeners": 79921,
         "region": "NY"
       }
     ]

@@ -2,38 +2,38 @@
   "id": "4sf3RuCPLlavd2EGv8JNEr",
   "name": "LOCS",
   "followers": 2120,
-  "monthlyListeners": 12540,
+  "monthlyListeners": 12574,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 182,
+        "numberOfListeners": 185,
         "region": "IL"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 176,
+        "numberOfListeners": 177,
         "region": "CO"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 158,
+        "numberOfListeners": 157,
         "region": "WA"
-      },
-      {
-        "city": "Melbourne",
-        "country": "AU",
-        "numberOfListeners": 142,
-        "region": "VIC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 140,
+        "numberOfListeners": 144,
         "region": "CA"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 143,
+        "region": "VIC"
       }
     ]
   },

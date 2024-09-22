@@ -1,8 +1,8 @@
 {
   "id": "1BEsuwAkTQMG50TeHB5qny",
   "name": "Steve Lacy",
-  "followers": 11563,
-  "monthlyListeners": 7969,
+  "followers": 11564,
+  "monthlyListeners": 7974,
   "topCities": {
     "items": [
       {
@@ -14,26 +14,26 @@
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 115,
+        "numberOfListeners": 113,
         "region": "NY"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 97,
+        "numberOfListeners": 98,
         "region": "CA"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 85,
+        "region": "IDF"
       },
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 88,
+        "numberOfListeners": 84,
         "region": "13"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 83,
-        "region": "ENG"
       }
     ]
   },

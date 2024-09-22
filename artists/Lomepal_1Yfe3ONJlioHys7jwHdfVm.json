@@ -1,38 +1,38 @@
 {
   "id": "1Yfe3ONJlioHys7jwHdfVm",
   "name": "Lomepal",
-  "followers": 2057610,
-  "monthlyListeners": 1558217,
+  "followers": 2057627,
+  "monthlyListeners": 1558774,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 275750,
+        "numberOfListeners": 276932,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 84796,
+        "numberOfListeners": 84973,
         "region": "BRU"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 65608,
+        "numberOfListeners": 65767,
         "region": "ARA"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 49345,
+        "numberOfListeners": 49875,
         "region": "HDF"
       },
       {
         "city": "Bordeaux",
         "country": "FR",
-        "numberOfListeners": 41445,
+        "numberOfListeners": 40985,
         "region": "NAQ"
       }
     ]

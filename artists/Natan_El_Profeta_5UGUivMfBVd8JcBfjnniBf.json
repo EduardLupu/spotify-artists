@@ -1,39 +1,39 @@
 {
   "id": "5UGUivMfBVd8JcBfjnniBf",
   "name": "Natan El Profeta",
-  "followers": 192799,
-  "monthlyListeners": 162163,
+  "followers": 192837,
+  "monthlyListeners": 162118,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 9009,
+        "numberOfListeners": 8986,
         "region": "DC"
       },
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 8889,
+        "numberOfListeners": 8566,
         "region": "GU"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 8143,
+        "numberOfListeners": 8090,
         "region": "RM"
       },
       {
         "city": "Santo Domingo",
         "country": "DO",
-        "numberOfListeners": 6643,
+        "numberOfListeners": 6665,
         "region": "01"
       },
       {
-        "city": "Santo Domingo Este",
-        "country": "DO",
-        "numberOfListeners": 4543,
-        "region": "32"
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 4689,
+        "region": "01"
       }
     ]
   },

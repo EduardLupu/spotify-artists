@@ -1,26 +1,26 @@
 {
   "id": "1hP7FHieMakh44E1edH89w",
   "name": "Sia",
-  "followers": 1263,
-  "monthlyListeners": 5912,
+  "followers": 1264,
+  "monthlyListeners": 6106,
   "topCities": {
     "items": [
       {
         "city": "Lagos",
         "country": "NG",
-        "numberOfListeners": 924,
+        "numberOfListeners": 981,
         "region": "LA"
       },
       {
         "city": "Port Harcourt",
         "country": "NG",
-        "numberOfListeners": 362,
+        "numberOfListeners": 393,
         "region": "RI"
       },
       {
         "city": "Abuja",
         "country": "NG",
-        "numberOfListeners": 333,
+        "numberOfListeners": 350,
         "region": "FC"
       },
       {
@@ -30,10 +30,10 @@
         "region": "SP"
       },
       {
-        "city": "Accra",
-        "country": "GH",
-        "numberOfListeners": 118,
-        "region": "AA"
+        "city": "Ibadan",
+        "country": "NG",
+        "numberOfListeners": 126,
+        "region": "OY"
       }
     ]
   },

@@ -1,41 +1,41 @@
 {
   "id": "2IMZYfNi21MGqxopj9fWx8",
   "name": "Rels B",
-  "followers": 7996423,
-  "monthlyListeners": 22111377,
+  "followers": 8003595,
+  "monthlyListeners": 22047691,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1289300,
+        "numberOfListeners": 1283550,
         "region": "CMX"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 832668,
+        "numberOfListeners": 833242,
         "region": "DC"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 791185,
+        "numberOfListeners": 792060,
         "region": "MD"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 750621,
+        "numberOfListeners": 745634,
         "region": "RM"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 667010,
+        "numberOfListeners": 666293,
         "region": "C"
       }
     ]
   },
-  "worldRank": 301
+  "worldRank": 300
 }

@@ -1,41 +1,41 @@
 {
   "id": "7o95ZoZt5ZYn31e9z1Hc0a",
   "name": "Natasha Bedingfield",
-  "followers": 1819596,
-  "monthlyListeners": 25482745,
+  "followers": 1819928,
+  "monthlyListeners": 25287633,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 533693,
+        "numberOfListeners": 526569,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 400558,
+        "numberOfListeners": 399066,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 343065,
+        "numberOfListeners": 341037,
         "region": "VIC"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 311038,
+        "numberOfListeners": 310390,
         "region": "NH"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 257531,
+        "numberOfListeners": 256170,
         "region": "QLD"
       }
     ]
   },
-  "worldRank": 213
+  "worldRank": 218
 }

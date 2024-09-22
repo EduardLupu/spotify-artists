@@ -1,38 +1,38 @@
 {
   "id": "6J7rw7NELJUCThPbAfyLIE",
   "name": "The Civil Wars",
-  "followers": 794158,
-  "monthlyListeners": 1158021,
+  "followers": 794276,
+  "monthlyListeners": 1160099,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 13005,
+        "numberOfListeners": 12986,
         "region": "IL"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 12197,
+        "numberOfListeners": 12218,
         "region": "WA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 12140,
+        "numberOfListeners": 12109,
         "region": "NSW"
       },
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 11694,
+        "numberOfListeners": 11758,
         "region": "34"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 11150,
+        "numberOfListeners": 11219,
         "region": "CO"
       }
     ]

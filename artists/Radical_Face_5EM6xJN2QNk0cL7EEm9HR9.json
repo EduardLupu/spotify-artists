@@ -1,38 +1,38 @@
 {
   "id": "5EM6xJN2QNk0cL7EEm9HR9",
   "name": "Radical Face",
-  "followers": 389915,
-  "monthlyListeners": 2225870,
+  "followers": 389986,
+  "monthlyListeners": 2225887,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 30580,
+        "numberOfListeners": 30483,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 26283,
+        "numberOfListeners": 26307,
         "region": "NSW"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 23519,
+        "numberOfListeners": 23512,
         "region": "BE"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 23204,
+        "numberOfListeners": 23211,
         "region": "VIC"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 20717,
+        "numberOfListeners": 20760,
         "region": "IDF"
       }
     ]

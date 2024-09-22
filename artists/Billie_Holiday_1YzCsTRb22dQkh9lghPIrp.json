@@ -1,38 +1,38 @@
 {
   "id": "1YzCsTRb22dQkh9lghPIrp",
   "name": "Billie Holiday",
-  "followers": 1941210,
-  "monthlyListeners": 3906793,
+  "followers": 1941669,
+  "monthlyListeners": 3919739,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 46233,
+        "numberOfListeners": 46347,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 44105,
+        "numberOfListeners": 44276,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 42237,
+        "numberOfListeners": 42703,
         "region": "NY"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 40767,
+        "numberOfListeners": 40820,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 37892,
+        "numberOfListeners": 37931,
         "region": "NSW"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "5nki7yRhxgM509M5ADlN1p",
   "name": "Oliver Heldens",
-  "followers": 1037644,
-  "monthlyListeners": 9356629,
+  "followers": 1037776,
+  "monthlyListeners": 9357469,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 195143,
+        "numberOfListeners": 193994,
         "region": "ENG"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 163888,
+        "numberOfListeners": 165257,
         "region": "NH"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 133378,
+        "numberOfListeners": 133735,
         "region": "NSW"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 115269,
+        "numberOfListeners": 115189,
         "region": "ZH"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 112737,
+        "numberOfListeners": 112950,
         "region": "VIC"
       }
     ]

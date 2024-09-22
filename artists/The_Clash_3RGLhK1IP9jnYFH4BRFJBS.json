@@ -1,38 +1,38 @@
 {
   "id": "3RGLhK1IP9jnYFH4BRFJBS",
   "name": "The Clash",
-  "followers": 2821874,
-  "monthlyListeners": 15021267,
+  "followers": 2823070,
+  "monthlyListeners": 14958448,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 296600,
+        "numberOfListeners": 295216,
         "region": "ENG"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 249186,
+        "numberOfListeners": 246607,
         "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 243614,
+        "numberOfListeners": 242144,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 199885,
+        "numberOfListeners": 199641,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 180824,
+        "numberOfListeners": 180385,
         "region": "VIC"
       }
     ]

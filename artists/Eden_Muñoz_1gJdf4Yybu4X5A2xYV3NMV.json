@@ -1,39 +1,39 @@
 {
   "id": "1gJdf4Yybu4X5A2xYV3NMV",
   "name": "Eden Muñoz",
-  "followers": 2024193,
-  "monthlyListeners": 12571854,
+  "followers": 2027194,
+  "monthlyListeners": 12525825,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1100156,
+        "numberOfListeners": 1092582,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 695301,
+        "numberOfListeners": 692679,
         "region": "JAL"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 510436,
+        "numberOfListeners": 506094,
         "region": "QUE"
       },
       {
         "city": "Puebla City",
         "country": "MX",
-        "numberOfListeners": 465824,
+        "numberOfListeners": 459705,
         "region": "PUE"
       },
       {
-        "city": "Zapopan",
+        "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 441857,
-        "region": "JAL"
+        "numberOfListeners": 444100,
+        "region": "CMX"
       }
     ]
   },

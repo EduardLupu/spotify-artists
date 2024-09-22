@@ -1,8 +1,8 @@
 {
   "id": "7d2zrxNfFzWB6Pe56SHrLi",
   "name": "King",
-  "followers": 85,
-  "monthlyListeners": 145,
+  "followers": 86,
+  "monthlyListeners": 148,
   "topCities": {
     "items": [
       {
@@ -18,10 +18,10 @@
         "region": "13"
       },
       {
-        "city": "Frankfurt am Main",
-        "country": "DE",
-        "numberOfListeners": 2,
-        "region": "HE"
+        "city": "Kansas City",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "KS"
       },
       {
         "city": "Bogotá",
@@ -30,10 +30,10 @@
         "region": "DC"
       },
       {
-        "city": "Perth",
-        "country": "AU",
+        "city": "Frankfurt am Main",
+        "country": "DE",
         "numberOfListeners": 2,
-        "region": "WA"
+        "region": "HE"
       }
     ]
   },

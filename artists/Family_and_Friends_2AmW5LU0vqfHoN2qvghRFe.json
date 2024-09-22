@@ -1,38 +1,38 @@
 {
   "id": "2AmW5LU0vqfHoN2qvghRFe",
   "name": "Family and Friends",
-  "followers": 24499,
-  "monthlyListeners": 113174,
+  "followers": 24507,
+  "monthlyListeners": 113181,
   "topCities": {
     "items": [
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 1849,
+        "numberOfListeners": 1845,
         "region": "CO"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 1465,
+        "numberOfListeners": 1467,
         "region": "WA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 1427,
+        "numberOfListeners": 1421,
         "region": "IL"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 1252,
+        "numberOfListeners": 1257,
         "region": "ON"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 1228,
+        "numberOfListeners": 1250,
         "region": "NSW"
       }
     ]

@@ -1,41 +1,41 @@
 {
   "id": "0UWZUmn7sybxMCqrw9tGa7",
   "name": "Juanes",
-  "followers": 4875499,
-  "monthlyListeners": 17526164,
+  "followers": 4877555,
+  "monthlyListeners": 17502696,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 827758,
+        "numberOfListeners": 824141,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 765055,
+        "numberOfListeners": 762314,
         "region": "CMX"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 743638,
+        "numberOfListeners": 743551,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 616324,
+        "numberOfListeners": 615764,
         "region": "LMA"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 347047,
+        "numberOfListeners": 346785,
         "region": "JAL"
       }
     ]
   },
-  "worldRank": 455
+  "worldRank": 458
 }

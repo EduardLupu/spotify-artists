@@ -1,38 +1,38 @@
 {
   "id": "2OYDcH3MLWeNjj7gQVUbEF",
   "name": "Chris Cohen",
-  "followers": 25947,
-  "monthlyListeners": 51260,
+  "followers": 25952,
+  "monthlyListeners": 51644,
   "topCities": {
     "items": [
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 1326,
+        "numberOfListeners": 1330,
         "region": "NY"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1310,
+        "numberOfListeners": 1323,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1026,
+        "numberOfListeners": 1034,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 982,
+        "numberOfListeners": 1003,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 966,
+        "numberOfListeners": 987,
         "region": "NY"
       }
     ]

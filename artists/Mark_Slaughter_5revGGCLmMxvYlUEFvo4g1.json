@@ -1,8 +1,8 @@
 {
   "id": "5revGGCLmMxvYlUEFvo4g1",
   "name": "Mark Slaughter",
-  "followers": 8069,
-  "monthlyListeners": 5343,
+  "followers": 8072,
+  "monthlyListeners": 5296,
   "topCities": {
     "items": [
       {
@@ -26,14 +26,14 @@
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 52,
+        "numberOfListeners": 50,
         "region": "NSW"
       },
       {
-        "city": "Minneapolis",
-        "country": "US",
-        "numberOfListeners": 49,
-        "region": "MN"
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 45,
+        "region": "ON"
       }
     ]
   },

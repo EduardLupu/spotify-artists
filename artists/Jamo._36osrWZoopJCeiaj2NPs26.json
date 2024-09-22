@@ -1,8 +1,8 @@
 {
   "id": "36osrWZoopJCeiaj2NPs26",
   "name": "Jamo.",
-  "followers": 2347,
-  "monthlyListeners": 5644,
+  "followers": 2348,
+  "monthlyListeners": 5629,
   "topCities": {
     "items": [
       {
@@ -14,25 +14,25 @@
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 144,
+        "numberOfListeners": 141,
         "region": "CO"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 110,
+        "numberOfListeners": 109,
         "region": "IL"
       },
       {
         "city": "Portland",
         "country": "US",
-        "numberOfListeners": 102,
+        "numberOfListeners": 99,
         "region": "OR"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 97,
+        "numberOfListeners": 94,
         "region": "WA"
       }
     ]

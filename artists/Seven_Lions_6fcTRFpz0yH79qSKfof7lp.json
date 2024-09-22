@@ -1,38 +1,38 @@
 {
   "id": "6fcTRFpz0yH79qSKfof7lp",
   "name": "Seven Lions",
-  "followers": 499058,
-  "monthlyListeners": 2222042,
+  "followers": 499143,
+  "monthlyListeners": 2182815,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 60900,
+        "numberOfListeners": 60039,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 44344,
+        "numberOfListeners": 43349,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 39497,
+        "numberOfListeners": 39034,
         "region": "NY"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 36664,
+        "numberOfListeners": 35967,
         "region": "CO"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 35918,
+        "numberOfListeners": 35316,
         "region": "WA"
       }
     ]

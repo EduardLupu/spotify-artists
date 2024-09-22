@@ -1,41 +1,41 @@
 {
   "id": "1G9G7WwrXka3Z1r7aIDjI7",
   "name": "Outkast",
-  "followers": 2810909,
-  "monthlyListeners": 24673084,
+  "followers": 2812718,
+  "monthlyListeners": 24549980,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 401870,
+        "numberOfListeners": 398692,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 395970,
+        "numberOfListeners": 395134,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 334433,
+        "numberOfListeners": 333399,
         "region": "VIC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 304919,
+        "numberOfListeners": 303190,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 281013,
+        "numberOfListeners": 278443,
         "region": "IL"
       }
     ]
   },
-  "worldRank": 233
+  "worldRank": 236
 }

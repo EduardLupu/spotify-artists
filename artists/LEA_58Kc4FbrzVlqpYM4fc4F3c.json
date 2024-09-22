@@ -2,19 +2,19 @@
   "id": "58Kc4FbrzVlqpYM4fc4F3c",
   "name": "LEA",
   "followers": 157,
-  "monthlyListeners": 780,
+  "monthlyListeners": 768,
   "topCities": {
     "items": [
       {
         "city": "Oslo",
         "country": "NO",
-        "numberOfListeners": 345,
+        "numberOfListeners": 338,
         "region": "03"
       },
       {
         "city": "Bergen",
         "country": "NO",
-        "numberOfListeners": 41,
+        "numberOfListeners": 40,
         "region": "46"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Arendal",
         "country": "NO",
-        "numberOfListeners": 25,
+        "numberOfListeners": 24,
         "region": "42"
       }
     ]

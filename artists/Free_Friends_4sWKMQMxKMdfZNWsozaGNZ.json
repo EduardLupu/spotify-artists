@@ -1,39 +1,39 @@
 {
   "id": "4sWKMQMxKMdfZNWsozaGNZ",
   "name": "Free Friends",
-  "followers": 1121,
-  "monthlyListeners": 20095,
+  "followers": 1123,
+  "monthlyListeners": 21360,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 344,
+        "numberOfListeners": 380,
         "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 275,
+        "numberOfListeners": 284,
         "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 268,
+        "numberOfListeners": 270,
         "region": "NSW"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 225,
+        "numberOfListeners": 239,
         "region": "NY"
       },
       {
-        "city": "Toronto",
-        "country": "CA",
-        "numberOfListeners": 209,
-        "region": "ON"
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 227,
+        "region": "CO"
       }
     ]
   },

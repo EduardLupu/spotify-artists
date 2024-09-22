@@ -1,38 +1,38 @@
 {
   "id": "6DPYiyq5kWVQS4RGwxzPC7",
   "name": "Dr. Dre",
-  "followers": 12311873,
-  "monthlyListeners": 23414302,
+  "followers": 12319831,
+  "monthlyListeners": 23349700,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 354484,
+        "numberOfListeners": 352850,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 350822,
+        "numberOfListeners": 349177,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 318239,
+        "numberOfListeners": 317394,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 263677,
+        "numberOfListeners": 262817,
         "region": "VIC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 259813,
+        "numberOfListeners": 258776,
         "region": "CA"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "6v8FB84lnmJs434UJf2Mrm",
   "name": "Neil Young",
-  "followers": 3019171,
-  "monthlyListeners": 8611139,
+  "followers": 3020149,
+  "monthlyListeners": 8474393,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 168496,
+        "numberOfListeners": 166228,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 138539,
+        "numberOfListeners": 136439,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 128823,
+        "numberOfListeners": 126220,
         "region": "ENG"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 112851,
+        "numberOfListeners": 111148,
         "region": "ON"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 109629,
+        "numberOfListeners": 107924,
         "region": "QLD"
       }
     ]

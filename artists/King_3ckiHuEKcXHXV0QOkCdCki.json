@@ -1,38 +1,38 @@
 {
   "id": "3ckiHuEKcXHXV0QOkCdCki",
   "name": "King",
-  "followers": 9073,
-  "monthlyListeners": 148832,
+  "followers": 9083,
+  "monthlyListeners": 148386,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 6886,
+        "numberOfListeners": 6876,
         "region": "NH"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 6154,
+        "numberOfListeners": 6124,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 5634,
+        "numberOfListeners": 5590,
         "region": "ENG"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 4489,
+        "numberOfListeners": 4469,
         "region": "ZH"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 2541,
+        "numberOfListeners": 2550,
         "region": "BRU"
       }
     ]

@@ -2,32 +2,32 @@
   "id": "2QtFAOLn3BRsKCtuF6Bo2J",
   "name": "dennis",
   "followers": 2926,
-  "monthlyListeners": 282,
+  "monthlyListeners": 275,
   "topCities": {
     "items": [
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 30,
+        "numberOfListeners": 29,
         "region": "AB"
       },
       {
         "city": "Gothenburg",
         "country": "SE",
-        "numberOfListeners": 23,
+        "numberOfListeners": 22,
         "region": "O"
-      },
-      {
-        "city": "Malmo",
-        "country": "SE",
-        "numberOfListeners": 9,
-        "region": "M"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
         "numberOfListeners": 8,
         "region": "NH"
+      },
+      {
+        "city": "Malmo",
+        "country": "SE",
+        "numberOfListeners": 8,
+        "region": "M"
       },
       {
         "city": "Rotterdam",

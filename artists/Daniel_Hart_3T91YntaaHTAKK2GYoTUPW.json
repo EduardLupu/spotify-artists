@@ -1,38 +1,38 @@
 {
   "id": "3T91YntaaHTAKK2GYoTUPW",
   "name": "Daniel Hart",
-  "followers": 13254,
-  "monthlyListeners": 132687,
+  "followers": 13261,
+  "monthlyListeners": 132527,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 2199,
+        "numberOfListeners": 2189,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1402,
+        "numberOfListeners": 1415,
         "region": "CA"
-      },
-      {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 1400,
-        "region": "NSW"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 1384,
+        "numberOfListeners": 1395,
         "region": "NY"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 1394,
+        "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 1384,
+        "numberOfListeners": 1375,
         "region": "VIC"
       }
     ]

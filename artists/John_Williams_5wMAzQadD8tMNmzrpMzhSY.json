@@ -2,7 +2,7 @@
   "id": "5wMAzQadD8tMNmzrpMzhSY",
   "name": "John Williams",
   "followers": 22,
-  "monthlyListeners": 367,
+  "monthlyListeners": 365,
   "topCities": {
     "items": [
       {
@@ -14,7 +14,7 @@
       {
         "city": "Portland",
         "country": "US",
-        "numberOfListeners": 7,
+        "numberOfListeners": 6,
         "region": "OR"
       },
       {
@@ -24,16 +24,16 @@
         "region": "WA"
       },
       {
-        "city": "Chicago",
+        "city": "Phoenix",
         "country": "US",
         "numberOfListeners": 4,
-        "region": "IL"
+        "region": "AZ"
       },
       {
-        "city": "Salt Lake City",
-        "country": "US",
+        "city": "Stockholm",
+        "country": "SE",
         "numberOfListeners": 4,
-        "region": "UT"
+        "region": "AB"
       }
     ]
   },

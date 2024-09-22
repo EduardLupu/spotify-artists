@@ -1,38 +1,38 @@
 {
   "id": "0Ye4nfYAA91T1X56gnlXAA",
   "name": "Mako",
-  "followers": 118066,
-  "monthlyListeners": 2745764,
+  "followers": 118084,
+  "monthlyListeners": 2746093,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 52605,
+        "numberOfListeners": 52752,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 30504,
+        "numberOfListeners": 30535,
         "region": "SP"
       },
       {
         "city": "Bengaluru",
         "country": "IN",
-        "numberOfListeners": 21967,
+        "numberOfListeners": 21975,
         "region": "KA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 21349,
+        "numberOfListeners": 21269,
         "region": "NSW"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 20512,
+        "numberOfListeners": 20692,
         "region": "IDF"
       }
     ]

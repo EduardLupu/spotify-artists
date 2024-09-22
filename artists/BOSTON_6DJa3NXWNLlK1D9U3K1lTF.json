@@ -1,38 +1,38 @@
 {
   "id": "6DJa3NXWNLlK1D9U3K1lTF",
   "name": "BOSTON",
-  "followers": 542,
-  "monthlyListeners": 2125,
+  "followers": 543,
+  "monthlyListeners": 2118,
   "topCities": {
     "items": [
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 589,
+        "numberOfListeners": 591,
         "region": "14"
       },
       {
         "city": "Krakow",
         "country": "PL",
-        "numberOfListeners": 186,
+        "numberOfListeners": 188,
         "region": "12"
-      },
-      {
-        "city": "Katowice",
-        "country": "PL",
-        "numberOfListeners": 138,
-        "region": "24"
       },
       {
         "city": "Wroclaw",
         "country": "PL",
-        "numberOfListeners": 134,
+        "numberOfListeners": 133,
         "region": "02"
+      },
+      {
+        "city": "Katowice",
+        "country": "PL",
+        "numberOfListeners": 130,
+        "region": "24"
       },
       {
         "city": "Poznan",
         "country": "PL",
-        "numberOfListeners": 104,
+        "numberOfListeners": 102,
         "region": "30"
       }
     ]

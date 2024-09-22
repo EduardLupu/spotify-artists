@@ -1,38 +1,38 @@
 {
   "id": "2Waw2sSbqvAwK8NwACNjVo",
   "name": "Bo Burnham",
-  "followers": 1953872,
-  "monthlyListeners": 4026796,
+  "followers": 1954296,
+  "monthlyListeners": 4024193,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 55054,
+        "numberOfListeners": 54783,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 43336,
+        "numberOfListeners": 43142,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 39717,
+        "numberOfListeners": 39691,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 37850,
+        "numberOfListeners": 37787,
         "region": "VIC"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 31812,
+        "numberOfListeners": 31814,
         "region": "WA"
       }
     ]

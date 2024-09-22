@@ -14,14 +14,8 @@
       {
         "city": "Poznan",
         "country": "PL",
-        "numberOfListeners": 7,
+        "numberOfListeners": 8,
         "region": "30"
-      },
-      {
-        "city": "Wroclaw",
-        "country": "PL",
-        "numberOfListeners": 6,
-        "region": "02"
       },
       {
         "city": "Lodz",
@@ -34,6 +28,12 @@
         "country": "PL",
         "numberOfListeners": 5,
         "region": "12"
+      },
+      {
+        "city": "Wroclaw",
+        "country": "PL",
+        "numberOfListeners": 5,
+        "region": "02"
       }
     ]
   },

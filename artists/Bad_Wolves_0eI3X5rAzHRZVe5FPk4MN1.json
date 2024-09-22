@@ -1,38 +1,38 @@
 {
   "id": "0eI3X5rAzHRZVe5FPk4MN1",
   "name": "Bad Wolves",
-  "followers": 747612,
-  "monthlyListeners": 4645045,
+  "followers": 747996,
+  "monthlyListeners": 4638186,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 54115,
+        "numberOfListeners": 53858,
         "region": "IL"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 53738,
+        "numberOfListeners": 53830,
         "region": "QC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 50424,
+        "numberOfListeners": 50393,
         "region": "NSW"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 47870,
+        "numberOfListeners": 47756,
         "region": "QLD"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 45779,
+        "numberOfListeners": 45664,
         "region": "VIC"
       }
     ]

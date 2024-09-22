@@ -1,38 +1,38 @@
 {
   "id": "0Wi2fADbhwXlPUWxBmzo99",
   "name": "Szpaku",
-  "followers": 846878,
-  "monthlyListeners": 1702124,
+  "followers": 847174,
+  "monthlyListeners": 1700903,
   "topCities": {
     "items": [
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 535383,
+        "numberOfListeners": 534785,
         "region": "14"
       },
       {
         "city": "Poznan",
         "country": "PL",
-        "numberOfListeners": 185394,
+        "numberOfListeners": 184258,
         "region": "30"
-      },
-      {
-        "city": "Krakow",
-        "country": "PL",
-        "numberOfListeners": 182094,
-        "region": "12"
       },
       {
         "city": "Katowice",
         "country": "PL",
-        "numberOfListeners": 181942,
+        "numberOfListeners": 181198,
         "region": "24"
+      },
+      {
+        "city": "Krakow",
+        "country": "PL",
+        "numberOfListeners": 181066,
+        "region": "12"
       },
       {
         "city": "Wroclaw",
         "country": "PL",
-        "numberOfListeners": 153503,
+        "numberOfListeners": 151560,
         "region": "02"
       }
     ]

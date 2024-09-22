@@ -1,38 +1,38 @@
 {
   "id": "6PXS4YHDkKvl1wkIl4V8DL",
   "name": "Fetty Wap",
-  "followers": 4693098,
-  "monthlyListeners": 9226466,
+  "followers": 4694071,
+  "monthlyListeners": 9198631,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 153615,
+        "numberOfListeners": 153610,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 141013,
+        "numberOfListeners": 140055,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 130647,
+        "numberOfListeners": 129834,
         "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 110894,
+        "numberOfListeners": 110807,
         "region": "VIC"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 106952,
+        "numberOfListeners": 106584,
         "region": "ON"
       }
     ]

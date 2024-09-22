@@ -1,39 +1,39 @@
 {
   "id": "6fqAnsJdhftWSyDd3huQIi",
   "name": "AIDAN",
-  "followers": 4722,
-  "monthlyListeners": 22097,
+  "followers": 4725,
+  "monthlyListeners": 22022,
   "topCities": {
     "items": [
       {
         "city": "Msida",
         "country": "MT",
-        "numberOfListeners": 3407,
+        "numberOfListeners": 3429,
         "region": "34"
       },
       {
         "city": "Birkirkara",
         "country": "MT",
-        "numberOfListeners": 1788,
+        "numberOfListeners": 1741,
         "region": "04"
       },
       {
         "city": "San Ġwann",
         "country": "MT",
-        "numberOfListeners": 1269,
+        "numberOfListeners": 1267,
         "region": "49"
+      },
+      {
+        "city": "Gżira",
+        "country": "MT",
+        "numberOfListeners": 804,
+        "region": "12"
       },
       {
         "city": "Qormi",
         "country": "MT",
-        "numberOfListeners": 791,
+        "numberOfListeners": 660,
         "region": "43"
-      },
-      {
-        "city": "Sliema",
-        "country": "MT",
-        "numberOfListeners": 736,
-        "region": "56"
       }
     ]
   },

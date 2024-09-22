@@ -1,41 +1,41 @@
 {
   "id": "6KImCVD70vtIoJWnq6nGn3",
   "name": "Harry Styles",
-  "followers": 32877951,
-  "monthlyListeners": 47937400,
+  "followers": 32880397,
+  "monthlyListeners": 47739643,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 1024573,
+        "numberOfListeners": 1025472,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 663293,
+        "numberOfListeners": 659939,
         "region": "SP"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 625530,
+        "numberOfListeners": 620881,
         "region": "CMX"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 616258,
+        "numberOfListeners": 610804,
         "region": "ENG"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 571866,
+        "numberOfListeners": 567579,
         "region": "RM"
       }
     ]
   },
-  "worldRank": 53
+  "worldRank": 54
 }

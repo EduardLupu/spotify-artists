@@ -1,38 +1,38 @@
 {
   "id": "6Q1MY4obJuNwWppolBqmWf",
   "name": "Marieke Liebe",
-  "followers": 2388,
-  "monthlyListeners": 9514,
+  "followers": 2389,
+  "monthlyListeners": 9366,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 163,
+        "numberOfListeners": 162,
         "region": "IL"
-      },
-      {
-        "city": "Brooklyn",
-        "country": "US",
-        "numberOfListeners": 163,
-        "region": "NY"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 160,
+        "numberOfListeners": 159,
         "region": "ENG"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 156,
+        "region": "NY"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 146,
+        "numberOfListeners": 142,
         "region": "NY"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 141,
+        "numberOfListeners": 139,
         "region": "ON"
       }
     ]

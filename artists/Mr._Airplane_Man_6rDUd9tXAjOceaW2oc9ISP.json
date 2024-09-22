@@ -1,38 +1,38 @@
 {
   "id": "6rDUd9tXAjOceaW2oc9ISP",
   "name": "Mr. Airplane Man",
-  "followers": 16869,
-  "monthlyListeners": 19214,
+  "followers": 16871,
+  "monthlyListeners": 19209,
   "topCities": {
     "items": [
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 304,
+        "numberOfListeners": 303,
         "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 273,
+        "numberOfListeners": 270,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 266,
+        "numberOfListeners": 269,
         "region": "ENG"
       },
       {
         "city": "Portland",
         "country": "US",
-        "numberOfListeners": 262,
+        "numberOfListeners": 265,
         "region": "OR"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 242,
+        "numberOfListeners": 238,
         "region": "CA"
       }
     ]

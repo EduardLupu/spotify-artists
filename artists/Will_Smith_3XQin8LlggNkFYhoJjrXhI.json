@@ -12,22 +12,22 @@
         "region": "ENG"
       },
       {
+        "city": "New Taipei City",
+        "country": "TW",
+        "numberOfListeners": 1,
+        "region": "NWT"
+      },
+      {
         "city": "Johannesburg",
         "country": "ZA",
         "numberOfListeners": 1,
         "region": "GP"
       },
       {
-        "city": "San Antonio",
-        "country": "US",
+        "city": "Dublin",
+        "country": "IE",
         "numberOfListeners": 1,
-        "region": "TX"
-      },
-      {
-        "city": "Grand Rapids",
-        "country": "US",
-        "numberOfListeners": 1,
-        "region": "MI"
+        "region": "L"
       },
       {
         "city": "Chicago",

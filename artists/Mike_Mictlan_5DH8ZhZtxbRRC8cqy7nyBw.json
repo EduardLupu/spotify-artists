@@ -1,38 +1,38 @@
 {
   "id": "5DH8ZhZtxbRRC8cqy7nyBw",
   "name": "Mike Mictlan",
-  "followers": 7046,
-  "monthlyListeners": 7101,
+  "followers": 7047,
+  "monthlyListeners": 7022,
   "topCities": {
     "items": [
       {
         "city": "Minneapolis",
         "country": "US",
-        "numberOfListeners": 369,
+        "numberOfListeners": 357,
         "region": "MN"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 228,
+        "numberOfListeners": 222,
         "region": "CO"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 154,
+        "numberOfListeners": 152,
         "region": "WA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 142,
+        "numberOfListeners": 144,
         "region": "IL"
       },
       {
         "city": "Saint Paul",
         "country": "US",
-        "numberOfListeners": 137,
+        "numberOfListeners": 138,
         "region": "MN"
       }
     ]

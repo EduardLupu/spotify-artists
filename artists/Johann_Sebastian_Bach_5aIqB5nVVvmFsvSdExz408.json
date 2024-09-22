@@ -1,38 +1,38 @@
 {
   "id": "5aIqB5nVVvmFsvSdExz408",
   "name": "Johann Sebastian Bach",
-  "followers": 4436406,
-  "monthlyListeners": 7792485,
+  "followers": 4437350,
+  "monthlyListeners": 7806325,
   "topCities": {
     "items": [
       {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 91131,
-        "region": "ENG"
-      },
-      {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 90995,
+        "numberOfListeners": 91524,
         "region": "IDF"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 91480,
+        "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 88195,
+        "numberOfListeners": 88018,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 74177,
+        "numberOfListeners": 73534,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 72101,
+        "numberOfListeners": 71945,
         "region": "CMX"
       }
     ]

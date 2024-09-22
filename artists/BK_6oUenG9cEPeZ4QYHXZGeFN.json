@@ -1,38 +1,38 @@
 {
   "id": "6oUenG9cEPeZ4QYHXZGeFN",
   "name": "BK",
-  "followers": 17539,
-  "monthlyListeners": 65939,
+  "followers": 17553,
+  "monthlyListeners": 66275,
   "topCities": {
     "items": [
       {
         "city": "Taipei",
         "country": "TW",
-        "numberOfListeners": 22896,
+        "numberOfListeners": 23007,
         "region": "TPE"
       },
       {
         "city": "Taichung",
         "country": "TW",
-        "numberOfListeners": 11373,
+        "numberOfListeners": 11423,
         "region": "TXG"
       },
       {
         "city": "New Taipei City",
         "country": "TW",
-        "numberOfListeners": 10583,
+        "numberOfListeners": 10569,
         "region": "NWT"
       },
       {
         "city": "Kaohsiung",
         "country": "TW",
-        "numberOfListeners": 7709,
+        "numberOfListeners": 7752,
         "region": "KHH"
       },
       {
         "city": "Taoyuan District",
         "country": "TW",
-        "numberOfListeners": 5031,
+        "numberOfListeners": 5038,
         "region": "TAO"
       }
     ]

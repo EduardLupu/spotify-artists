@@ -1,39 +1,39 @@
 {
   "id": "3GBPw9NK25X1Wt2OUvOwY3",
   "name": "Jack Johnson",
-  "followers": 3874736,
-  "monthlyListeners": 13918171,
+  "followers": 3875561,
+  "monthlyListeners": 13931446,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 273375,
+        "numberOfListeners": 274079,
         "region": "NSW"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 248285,
+        "numberOfListeners": 248192,
         "region": "SP"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 201307,
+        "numberOfListeners": 201584,
         "region": "VIC"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 196365,
-        "region": "ENG"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 195780,
+        "numberOfListeners": 195946,
         "region": "QLD"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 195786,
+        "region": "ENG"
       }
     ]
   },

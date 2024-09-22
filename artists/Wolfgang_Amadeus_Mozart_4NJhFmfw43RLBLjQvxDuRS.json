@@ -1,38 +1,38 @@
 {
   "id": "4NJhFmfw43RLBLjQvxDuRS",
   "name": "Wolfgang Amadeus Mozart",
-  "followers": 5485527,
-  "monthlyListeners": 6919546,
+  "followers": 5486876,
+  "monthlyListeners": 6933596,
   "topCities": {
     "items": [
       {
-        "city": "Mexico City",
-        "country": "MX",
-        "numberOfListeners": 80462,
-        "region": "CMX"
-      },
-      {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 80368,
+        "numberOfListeners": 80974,
         "region": "IDF"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 80321,
+        "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 80337,
+        "numberOfListeners": 79778,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 77014,
+        "numberOfListeners": 77323,
         "region": "ENG"
       },
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 70925,
+        "numberOfListeners": 71310,
         "region": "34"
       }
     ]

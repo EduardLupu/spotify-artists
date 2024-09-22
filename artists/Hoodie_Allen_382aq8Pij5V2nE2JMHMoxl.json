@@ -1,38 +1,38 @@
 {
   "id": "382aq8Pij5V2nE2JMHMoxl",
   "name": "Hoodie Allen",
-  "followers": 693507,
-  "monthlyListeners": 2645436,
+  "followers": 693552,
+  "monthlyListeners": 2634611,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 41926,
+        "numberOfListeners": 41558,
         "region": "IL"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 34576,
+        "numberOfListeners": 34467,
         "region": "CO"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 33324,
+        "numberOfListeners": 33144,
         "region": "NSW"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 32796,
+        "numberOfListeners": 32699,
         "region": "ON"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 31729,
+        "numberOfListeners": 31583,
         "region": "WA"
       }
     ]

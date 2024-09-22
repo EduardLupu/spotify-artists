@@ -1,38 +1,38 @@
 {
   "id": "3QTDHixorJelOLxoxcjqGx",
   "name": "SiR",
-  "followers": 1065566,
-  "monthlyListeners": 4370614,
+  "followers": 1065878,
+  "monthlyListeners": 4358476,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 111136,
+        "numberOfListeners": 110577,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 85528,
+        "numberOfListeners": 85163,
         "region": "ENG"
       },
       {
         "city": "Johannesburg",
         "country": "ZA",
-        "numberOfListeners": 76033,
+        "numberOfListeners": 75977,
         "region": "GP"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 69342,
+        "numberOfListeners": 69250,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 66720,
+        "numberOfListeners": 66761,
         "region": "NY"
       }
     ]

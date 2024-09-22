@@ -1,38 +1,38 @@
 {
   "id": "6QtGlUje9TIkLrgPZrESuk",
   "name": "Steve Miller Band",
-  "followers": 3071179,
-  "monthlyListeners": 7982295,
+  "followers": 3071993,
+  "monthlyListeners": 7961718,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 129751,
+        "numberOfListeners": 129025,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 118839,
+        "numberOfListeners": 118572,
         "region": "NSW"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 108550,
+        "numberOfListeners": 107775,
         "region": "ON"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 97991,
+        "numberOfListeners": 97693,
         "region": "QLD"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 95081,
+        "numberOfListeners": 94805,
         "region": "VIC"
       }
     ]

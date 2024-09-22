@@ -1,38 +1,38 @@
 {
   "id": "39T6qqI0jDtSWWioX8eGJz",
   "name": "The Doobie Brothers",
-  "followers": 2568786,
-  "monthlyListeners": 9784686,
+  "followers": 2569588,
+  "monthlyListeners": 9810252,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 167914,
+        "numberOfListeners": 169179,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 130674,
+        "numberOfListeners": 130140,
         "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 128011,
+        "numberOfListeners": 128993,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 124079,
+        "numberOfListeners": 124771,
         "region": "QLD"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 120472,
+        "numberOfListeners": 120885,
         "region": "NY"
       }
     ]

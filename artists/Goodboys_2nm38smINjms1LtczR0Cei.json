@@ -1,38 +1,38 @@
 {
   "id": "2nm38smINjms1LtczR0Cei",
   "name": "Goodboys",
-  "followers": 73113,
-  "monthlyListeners": 8775936,
+  "followers": 73168,
+  "monthlyListeners": 8720622,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 261400,
+        "numberOfListeners": 259449,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 114066,
+        "numberOfListeners": 113552,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 110851,
+        "numberOfListeners": 109178,
         "region": "ENG"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 95816,
+        "numberOfListeners": 95179,
         "region": "RJ"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 93678,
+        "numberOfListeners": 93185,
         "region": "VIC"
       }
     ]

@@ -6,16 +6,16 @@
   "topCities": {
     "items": [
       {
-        "city": "North Ridgeville",
-        "country": "US",
-        "numberOfListeners": 1,
-        "region": "OH"
-      },
-      {
         "city": "Fort Collins",
         "country": "US",
         "numberOfListeners": 1,
         "region": "CO"
+      },
+      {
+        "city": "North Ridgeville",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "OH"
       }
     ]
   },

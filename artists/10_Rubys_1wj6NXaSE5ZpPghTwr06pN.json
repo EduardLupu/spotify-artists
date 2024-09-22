@@ -2,13 +2,13 @@
   "id": "1wj6NXaSE5ZpPghTwr06pN",
   "name": "10 Rubys",
   "followers": 777,
-  "monthlyListeners": 1640,
+  "monthlyListeners": 1636,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 33,
+        "numberOfListeners": 32,
         "region": "ENG"
       },
       {
@@ -18,10 +18,10 @@
         "region": "QC"
       },
       {
-        "city": "Los Angeles",
-        "country": "US",
-        "numberOfListeners": 16,
-        "region": "CA"
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 15,
+        "region": "ON"
       },
       {
         "city": "Seattle",
@@ -30,10 +30,10 @@
         "region": "WA"
       },
       {
-        "city": "Toronto",
-        "country": "CA",
-        "numberOfListeners": 14,
-        "region": "ON"
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 15,
+        "region": "CA"
       }
     ]
   },

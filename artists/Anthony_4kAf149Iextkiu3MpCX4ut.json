@@ -1,38 +1,38 @@
 {
   "id": "4kAf149Iextkiu3MpCX4ut",
   "name": "Anthony",
-  "followers": 184358,
-  "monthlyListeners": 455206,
+  "followers": 184459,
+  "monthlyListeners": 458901,
   "topCities": {
     "items": [
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 62600,
+        "numberOfListeners": 63527,
         "region": "25"
       },
       {
         "city": "Naples",
         "country": "IT",
-        "numberOfListeners": 58675,
+        "numberOfListeners": 59007,
         "region": "72"
       },
       {
         "city": "Rome",
         "country": "IT",
-        "numberOfListeners": 51146,
+        "numberOfListeners": 51874,
         "region": "62"
-      },
-      {
-        "city": "Palermo",
-        "country": "IT",
-        "numberOfListeners": 13539,
-        "region": "82"
       },
       {
         "city": "Catania",
         "country": "IT",
-        "numberOfListeners": 13174,
+        "numberOfListeners": 13346,
+        "region": "82"
+      },
+      {
+        "city": "Palermo",
+        "country": "IT",
+        "numberOfListeners": 13286,
         "region": "82"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "4J13m9IZh03PEhoxAxRhXO",
   "name": "Gerardo Ortiz",
-  "followers": 7901144,
-  "monthlyListeners": 8179218,
+  "followers": 7902880,
+  "monthlyListeners": 8158162,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 814278,
+        "numberOfListeners": 809925,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 513331,
+        "numberOfListeners": 511878,
         "region": "JAL"
-      },
-      {
-        "city": "Querétaro City",
-        "country": "MX",
-        "numberOfListeners": 355545,
-        "region": "QUE"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 350397,
+        "numberOfListeners": 356866,
         "region": "CMX"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 352644,
+        "region": "QUE"
       },
       {
         "city": "Iztapalapa",
         "country": "MX",
-        "numberOfListeners": 334427,
+        "numberOfListeners": 323023,
         "region": "CMX"
       }
     ]

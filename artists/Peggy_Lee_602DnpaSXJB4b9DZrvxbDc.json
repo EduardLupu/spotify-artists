@@ -1,38 +1,38 @@
 {
   "id": "602DnpaSXJB4b9DZrvxbDc",
   "name": "Peggy Lee",
-  "followers": 457276,
-  "monthlyListeners": 2396250,
+  "followers": 457421,
+  "monthlyListeners": 2386458,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 27225,
+        "numberOfListeners": 27192,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 25639,
+        "numberOfListeners": 25459,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 24071,
+        "numberOfListeners": 23908,
         "region": "VIC"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 23022,
+        "numberOfListeners": 22998,
         "region": "IDF"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 21304,
+        "numberOfListeners": 21258,
         "region": "CA"
       }
     ]

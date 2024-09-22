@@ -2,37 +2,37 @@
   "id": "6OWFyzmgqhmbKTf2YbPWca",
   "name": "Deejay Limbo",
   "followers": 647,
-  "monthlyListeners": 2623,
+  "monthlyListeners": 2641,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 224,
+        "numberOfListeners": 219,
         "region": "DC"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 66,
+        "numberOfListeners": 67,
         "region": "NH"
-      },
-      {
-        "city": "Guatemala City",
-        "country": "GT",
-        "numberOfListeners": 51,
-        "region": "GU"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 44,
+        "numberOfListeners": 50,
         "region": "ZH"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 47,
+        "region": "GU"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 43,
+        "numberOfListeners": 42,
         "region": "ANT"
       }
     ]

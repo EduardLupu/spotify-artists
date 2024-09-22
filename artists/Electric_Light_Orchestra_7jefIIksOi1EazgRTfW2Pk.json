@@ -1,38 +1,38 @@
 {
   "id": "7jefIIksOi1EazgRTfW2Pk",
   "name": "Electric Light Orchestra",
-  "followers": 4107894,
-  "monthlyListeners": 14469872,
+  "followers": 4109063,
+  "monthlyListeners": 14445215,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 245180,
+        "numberOfListeners": 244233,
         "region": "ENG"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 222140,
+        "numberOfListeners": 221276,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 220368,
+        "numberOfListeners": 220554,
         "region": "NSW"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 205597,
+        "numberOfListeners": 204704,
         "region": "CMX"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 197756,
+        "numberOfListeners": 197558,
         "region": "VIC"
       }
     ]

@@ -2,37 +2,37 @@
   "id": "66ku7Yu6a7oYi30BxS1Gze",
   "name": "MËRO",
   "followers": 1045,
-  "monthlyListeners": 21953,
+  "monthlyListeners": 20163,
   "topCities": {
     "items": [
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 5188,
+        "numberOfListeners": 4725,
         "region": "L"
       },
       {
         "city": "Glasgow",
         "country": "GB",
-        "numberOfListeners": 1269,
+        "numberOfListeners": 1159,
         "region": "SCT"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1230,
+        "numberOfListeners": 1127,
         "region": "ENG"
       },
       {
         "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 769,
+        "numberOfListeners": 711,
         "region": "ENG"
       },
       {
         "city": "Edinburgh",
         "country": "GB",
-        "numberOfListeners": 703,
+        "numberOfListeners": 691,
         "region": "SCT"
       }
     ]

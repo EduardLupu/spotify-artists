@@ -1,38 +1,38 @@
 {
   "id": "0TImkz4nPqjegtVSMZnMRq",
   "name": "TLC",
-  "followers": 4079424,
-  "monthlyListeners": 15027414,
+  "followers": 4080848,
+  "monthlyListeners": 15049464,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 320584,
+        "numberOfListeners": 321357,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 300367,
+        "numberOfListeners": 299461,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 255192,
+        "numberOfListeners": 255662,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 211303,
+        "numberOfListeners": 211507,
         "region": "QLD"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 160997,
+        "numberOfListeners": 161559,
         "region": "CA"
       }
     ]

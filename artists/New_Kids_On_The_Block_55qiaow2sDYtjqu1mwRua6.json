@@ -1,38 +1,38 @@
 {
   "id": "55qiaow2sDYtjqu1mwRua6",
   "name": "New Kids On The Block",
-  "followers": 827399,
-  "monthlyListeners": 1601946,
+  "followers": 827601,
+  "monthlyListeners": 1594179,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 52222,
+        "numberOfListeners": 51523,
         "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 32548,
+        "numberOfListeners": 32450,
         "region": "SP"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 23145,
+        "numberOfListeners": 23079,
         "region": "LMA"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 22980,
+        "numberOfListeners": 22972,
         "region": "JK"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 17861,
+        "numberOfListeners": 17803,
         "region": "NSW"
       }
     ]

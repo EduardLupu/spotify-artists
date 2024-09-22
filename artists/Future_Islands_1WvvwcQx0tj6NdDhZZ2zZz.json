@@ -1,38 +1,38 @@
 {
   "id": "1WvvwcQx0tj6NdDhZZ2zZz",
   "name": "Future Islands",
-  "followers": 620501,
-  "monthlyListeners": 2537532,
+  "followers": 620626,
+  "monthlyListeners": 2536285,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 48726,
+        "numberOfListeners": 48635,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 32794,
+        "numberOfListeners": 32813,
         "region": "CA"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 31468,
+        "numberOfListeners": 31426,
         "region": "CMX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 30751,
+        "numberOfListeners": 30761,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 29392,
+        "numberOfListeners": 29390,
         "region": "VIC"
       }
     ]

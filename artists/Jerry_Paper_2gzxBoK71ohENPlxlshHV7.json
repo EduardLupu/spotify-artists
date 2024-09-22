@@ -1,38 +1,38 @@
 {
   "id": "2gzxBoK71ohENPlxlshHV7",
   "name": "Jerry Paper",
-  "followers": 61978,
-  "monthlyListeners": 67573,
+  "followers": 61983,
+  "monthlyListeners": 67214,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 2224,
+        "numberOfListeners": 2200,
         "region": "CA"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 1341,
+        "numberOfListeners": 1335,
         "region": "NY"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 1273,
+        "numberOfListeners": 1284,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 1189,
+        "numberOfListeners": 1186,
         "region": "IL"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 998,
+        "numberOfListeners": 992,
         "region": "WA"
       }
     ]

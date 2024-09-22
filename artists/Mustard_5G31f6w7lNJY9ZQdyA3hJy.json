@@ -2,38 +2,38 @@
   "id": "5G31f6w7lNJY9ZQdyA3hJy",
   "name": "Mustard",
   "followers": 4,
-  "monthlyListeners": 20,
+  "monthlyListeners": 19,
   "topCities": {
     "items": [
       {
-        "city": "Lima",
-        "country": "PE",
+        "city": "Mannheim",
+        "country": "DE",
         "numberOfListeners": 1,
-        "region": "LMA"
+        "region": "BW"
       },
       {
-        "city": "Mexico City",
-        "country": "MX",
+        "city": "Münster",
+        "country": "DE",
         "numberOfListeners": 1,
-        "region": "CMX"
+        "region": "NW"
       },
       {
-        "city": "Gustavo Adolfo Madero",
-        "country": "MX",
+        "city": "Hanover",
+        "country": "DE",
         "numberOfListeners": 1,
-        "region": "CMX"
+        "region": "NI"
       },
       {
-        "city": "Aubenas",
-        "country": "FR",
+        "city": "Albuquerque",
+        "country": "US",
         "numberOfListeners": 1,
-        "region": "ARA"
+        "region": "NM"
       },
       {
-        "city": "Rennes",
-        "country": "FR",
+        "city": "Salt Lake City",
+        "country": "US",
         "numberOfListeners": 1,
-        "region": "BRE"
+        "region": "UT"
       }
     ]
   },

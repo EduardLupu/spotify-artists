@@ -1,39 +1,39 @@
 {
   "id": "5ZZNKEW4uDTbl50KmgeXgy",
   "name": "Blanco",
-  "followers": 6585,
-  "monthlyListeners": 50298,
+  "followers": 6583,
+  "monthlyListeners": 50280,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 549,
+        "numberOfListeners": 543,
         "region": "SP"
       },
       {
         "city": "Guwahati",
         "country": "IN",
-        "numberOfListeners": 500,
+        "numberOfListeners": 494,
         "region": "AS"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 428,
+        "numberOfListeners": 424,
         "region": "ENG"
+      },
+      {
+        "city": "Bangkok",
+        "country": "TH",
+        "numberOfListeners": 404,
+        "region": "10"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 410,
+        "numberOfListeners": 403,
         "region": "NSW"
-      },
-      {
-        "city": "Toronto",
-        "country": "CA",
-        "numberOfListeners": 405,
-        "region": "ON"
       }
     ]
   },

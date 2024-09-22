@@ -1,38 +1,38 @@
 {
   "id": "5VadK1havLhK1OpKYsXv9y",
   "name": "D-Block Europe",
-  "followers": 1556488,
-  "monthlyListeners": 13159177,
+  "followers": 1557177,
+  "monthlyListeners": 13055841,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 660553,
+        "numberOfListeners": 656628,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 304387,
+        "numberOfListeners": 303136,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 272180,
+        "numberOfListeners": 270838,
         "region": "VIC"
-      },
-      {
-        "city": "Birmingham",
-        "country": "GB",
-        "numberOfListeners": 230621,
-        "region": "ENG"
       },
       {
         "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 230615,
+        "numberOfListeners": 231092,
+        "region": "ENG"
+      },
+      {
+        "city": "Southwark",
+        "country": "GB",
+        "numberOfListeners": 230876,
         "region": "ENG"
       }
     ]

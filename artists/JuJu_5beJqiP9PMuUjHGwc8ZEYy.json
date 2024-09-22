@@ -1,8 +1,8 @@
 {
   "id": "5beJqiP9PMuUjHGwc8ZEYy",
   "name": "JuJu",
-  "followers": 329,
-  "monthlyListeners": 269,
+  "followers": 330,
+  "monthlyListeners": 267,
   "topCities": {
     "items": [
       {
@@ -24,16 +24,16 @@
         "region": "PA"
       },
       {
-        "city": "Vancouver",
-        "country": "US",
+        "city": "Montreal",
+        "country": "CA",
         "numberOfListeners": 4,
-        "region": "WA"
+        "region": "QC"
       },
       {
-        "city": "Sacramento",
-        "country": "US",
+        "city": "Toronto",
+        "country": "CA",
         "numberOfListeners": 4,
-        "region": "CA"
+        "region": "ON"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "6O4EGCCb6DoIiR6B1QCQgp",
   "name": "Toro y Moi",
-  "followers": 777084,
-  "monthlyListeners": 3400079,
+  "followers": 777241,
+  "monthlyListeners": 3398621,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 101826,
+        "numberOfListeners": 101728,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 86523,
+        "numberOfListeners": 86413,
         "region": "VIC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 79500,
+        "numberOfListeners": 79568,
         "region": "CA"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 67517,
+        "numberOfListeners": 67482,
         "region": "QLD"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 59452,
+        "numberOfListeners": 59538,
         "region": "NY"
       }
     ]

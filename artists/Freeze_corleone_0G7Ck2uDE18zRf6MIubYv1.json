@@ -2,7 +2,7 @@
   "id": "0G7Ck2uDE18zRf6MIubYv1",
   "name": "Freeze corleone",
   "followers": 19,
-  "monthlyListeners": 26,
+  "monthlyListeners": 24,
   "topCities": {
     "items": [
       {
@@ -10,6 +10,18 @@
         "country": "FR",
         "numberOfListeners": 2,
         "region": "PAC"
+      },
+      {
+        "city": "Casablanca",
+        "country": "MA",
+        "numberOfListeners": 1,
+        "region": "06"
+      },
+      {
+        "city": "Chester",
+        "country": "GB",
+        "numberOfListeners": 1,
+        "region": "ENG"
       },
       {
         "city": "Brussels",
@@ -22,18 +34,6 @@
         "country": "LU",
         "numberOfListeners": 1,
         "region": "LU"
-      },
-      {
-        "city": "Le Vaudreuil",
-        "country": "FR",
-        "numberOfListeners": 1,
-        "region": "NOR"
-      },
-      {
-        "city": "Annecy",
-        "country": "FR",
-        "numberOfListeners": 1,
-        "region": "ARA"
       }
     ]
   },

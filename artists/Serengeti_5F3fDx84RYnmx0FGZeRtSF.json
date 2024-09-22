@@ -1,38 +1,38 @@
 {
   "id": "5F3fDx84RYnmx0FGZeRtSF",
   "name": "Serengeti",
-  "followers": 26875,
-  "monthlyListeners": 120171,
+  "followers": 26880,
+  "monthlyListeners": 120565,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 3109,
+        "numberOfListeners": 3103,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 2051,
+        "numberOfListeners": 2040,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1850,
+        "numberOfListeners": 1868,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 1733,
+        "numberOfListeners": 1740,
         "region": "NY"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 1666,
+        "numberOfListeners": 1682,
         "region": "WA"
       }
     ]

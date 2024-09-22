@@ -1,38 +1,38 @@
 {
   "id": "6VxCmtR7S3yz4vnzsJqhSV",
   "name": "Sheppard",
-  "followers": 306992,
-  "monthlyListeners": 3452086,
+  "followers": 307094,
+  "monthlyListeners": 3434559,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 130058,
+        "numberOfListeners": 130828,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 112194,
+        "numberOfListeners": 112826,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 94857,
+        "numberOfListeners": 95596,
         "region": "QLD"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 50883,
+        "numberOfListeners": 50941,
         "region": "NH"
       },
       {
         "city": "Perth",
         "country": "AU",
-        "numberOfListeners": 50144,
+        "numberOfListeners": 50608,
         "region": "WA"
       }
     ]

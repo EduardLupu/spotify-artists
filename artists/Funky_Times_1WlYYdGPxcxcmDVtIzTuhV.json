@@ -1,38 +1,38 @@
 {
   "id": "1WlYYdGPxcxcmDVtIzTuhV",
   "name": "Funky Times",
-  "followers": 27955,
-  "monthlyListeners": 199647,
+  "followers": 27991,
+  "monthlyListeners": 198105,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2301,
+        "numberOfListeners": 2260,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 2244,
+        "numberOfListeners": 2225,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 2171,
+        "numberOfListeners": 2166,
         "region": "NY"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 2042,
+        "numberOfListeners": 2044,
         "region": "IDF"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 1988,
+        "numberOfListeners": 1975,
         "region": "NSW"
       }
     ]

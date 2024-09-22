@@ -1,14 +1,14 @@
 {
   "id": "6A7IFfQDgrrJ7ZOkMf1gdC",
   "name": "Muluken Mellesse",
-  "followers": 11951,
-  "monthlyListeners": 7821,
+  "followers": 11961,
+  "monthlyListeners": 7828,
   "topCities": {
     "items": [
       {
         "city": "Addis Ababa",
         "country": "ET",
-        "numberOfListeners": 3588,
+        "numberOfListeners": 3605,
         "region": "AA"
       },
       {
@@ -24,16 +24,16 @@
         "region": "ON"
       },
       {
-        "city": "Nazrēt",
-        "country": "ET",
-        "numberOfListeners": 167,
-        "region": "OR"
-      },
-      {
         "city": "Awasa",
         "country": "ET",
-        "numberOfListeners": 163,
+        "numberOfListeners": 165,
         "region": "SI"
+      },
+      {
+        "city": "Nazrēt",
+        "country": "ET",
+        "numberOfListeners": 159,
+        "region": "OR"
       }
     ]
   },

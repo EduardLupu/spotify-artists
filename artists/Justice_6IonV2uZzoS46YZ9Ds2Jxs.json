@@ -2,19 +2,19 @@
   "id": "6IonV2uZzoS46YZ9Ds2Jxs",
   "name": "Justice",
   "followers": 2738,
-  "monthlyListeners": 2931,
+  "monthlyListeners": 2981,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 205,
+        "numberOfListeners": 208,
         "region": "ENG"
       },
       {
         "city": "Birmingham",
         "country": "GB",
-        "numberOfListeners": 68,
+        "numberOfListeners": 71,
         "region": "ENG"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 48,
+        "numberOfListeners": 49,
         "region": "NSW"
       },
       {
         "city": "Southwark",
         "country": "GB",
-        "numberOfListeners": 46,
+        "numberOfListeners": 41,
         "region": "ENG"
       }
     ]

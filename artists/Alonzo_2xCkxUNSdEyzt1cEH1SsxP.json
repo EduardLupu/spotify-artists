@@ -2,13 +2,13 @@
   "id": "2xCkxUNSdEyzt1cEH1SsxP",
   "name": "Alonzo",
   "followers": 733,
-  "monthlyListeners": 536,
+  "monthlyListeners": 533,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 69,
+        "numberOfListeners": 68,
         "region": "IDF"
       },
       {
@@ -20,19 +20,19 @@
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 20,
+        "numberOfListeners": 19,
         "region": "ARA"
       },
       {
         "city": "Toulouse",
         "country": "FR",
-        "numberOfListeners": 16,
+        "numberOfListeners": 15,
         "region": "OCC"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 12,
+        "numberOfListeners": 11,
         "region": "HDF"
       }
     ]

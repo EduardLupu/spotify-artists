@@ -1,38 +1,38 @@
 {
   "id": "3v3VSKylQE69ztn5TUVlFE",
   "name": "Nile",
-  "followers": 248144,
-  "monthlyListeners": 214060,
+  "followers": 248232,
+  "monthlyListeners": 208339,
   "topCities": {
     "items": [
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 3788,
+        "numberOfListeners": 3647,
         "region": "18"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 3625,
+        "numberOfListeners": 3519,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 2535,
+        "numberOfListeners": 2410,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 2310,
+        "numberOfListeners": 2262,
         "region": "VIC"
       },
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 2209,
+        "numberOfListeners": 2134,
         "region": "AB"
       }
     ]

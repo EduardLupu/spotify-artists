@@ -1,38 +1,38 @@
 {
   "id": "5n9bMYfz9qss2VOW89EVs2",
   "name": "Bomba Estéreo",
-  "followers": 1072826,
-  "monthlyListeners": 11843046,
+  "followers": 1073024,
+  "monthlyListeners": 11851370,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 486867,
+        "numberOfListeners": 484690,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 452887,
+        "numberOfListeners": 451150,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 386877,
+        "numberOfListeners": 386759,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 268428,
+        "numberOfListeners": 268432,
         "region": "LMA"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 210110,
+        "numberOfListeners": 209578,
         "region": "JAL"
       }
     ]

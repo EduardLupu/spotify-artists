@@ -2,13 +2,13 @@
   "id": "1usoYvuHKkbsgXJhiGAl0Q",
   "name": "Anna",
   "followers": 482,
-  "monthlyListeners": 1159,
+  "monthlyListeners": 1164,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 66,
+        "numberOfListeners": 64,
         "region": "BE"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 24,
+        "numberOfListeners": 25,
         "region": "HH"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 23,
+        "numberOfListeners": 22,
         "region": "BW"
       }
     ]

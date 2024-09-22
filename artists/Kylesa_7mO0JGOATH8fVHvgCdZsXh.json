@@ -1,38 +1,38 @@
 {
   "id": "7mO0JGOATH8fVHvgCdZsXh",
   "name": "Kylesa",
-  "followers": 94815,
-  "monthlyListeners": 44240,
+  "followers": 94836,
+  "monthlyListeners": 44122,
   "topCities": {
     "items": [
       {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 503,
-        "region": "IL"
-      },
-      {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 496,
+        "numberOfListeners": 504,
         "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 496,
+        "region": "IL"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 458,
+        "numberOfListeners": 459,
         "region": "BE"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 457,
+        "numberOfListeners": 447,
         "region": "WA"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 410,
+        "numberOfListeners": 412,
         "region": "VIC"
       }
     ]

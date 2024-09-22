@@ -1,38 +1,38 @@
 {
   "id": "3EiLUeyEcA6fbRPSHkG5kb",
   "name": "De La Ghetto",
-  "followers": 7320632,
-  "monthlyListeners": 18931730,
+  "followers": 7321851,
+  "monthlyListeners": 18909617,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1310670,
+        "numberOfListeners": 1304521,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 893749,
+        "numberOfListeners": 893674,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 633699,
+        "numberOfListeners": 633996,
         "region": "LMA"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 618055,
+        "numberOfListeners": 616979,
         "region": "C"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 598536,
+        "numberOfListeners": 595660,
         "region": "CMX"
       }
     ]

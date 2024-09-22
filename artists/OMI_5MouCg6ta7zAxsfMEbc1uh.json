@@ -1,39 +1,39 @@
 {
   "id": "5MouCg6ta7zAxsfMEbc1uh",
   "name": "OMI",
-  "followers": 629456,
-  "monthlyListeners": 10986422,
+  "followers": 629677,
+  "monthlyListeners": 10899826,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 474597,
+        "numberOfListeners": 473416,
         "region": "JK"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 132830,
+        "numberOfListeners": 132888,
         "region": "NSW"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 124624,
+        "numberOfListeners": 123437,
         "region": "SP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 121728,
+        "numberOfListeners": 120226,
         "region": "ENG"
       },
       {
-        "city": "Bogotá",
-        "country": "CO",
-        "numberOfListeners": 105235,
-        "region": "DC"
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 105040,
+        "region": "VIC"
       }
     ]
   },

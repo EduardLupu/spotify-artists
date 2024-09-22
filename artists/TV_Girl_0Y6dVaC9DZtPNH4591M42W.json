@@ -1,41 +1,41 @@
 {
   "id": "0Y6dVaC9DZtPNH4591M42W",
   "name": "TV Girl",
-  "followers": 7836306,
-  "monthlyListeners": 21813443,
+  "followers": 7848834,
+  "monthlyListeners": 21757918,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 336127,
+        "numberOfListeners": 334909,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 298317,
+        "numberOfListeners": 297128,
         "region": "ENG"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 293088,
+        "numberOfListeners": 294070,
         "region": "JK"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 260016,
+        "numberOfListeners": 258906,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 230244,
+        "numberOfListeners": 231114,
         "region": "NY"
       }
     ]
   },
-  "worldRank": 318
+  "worldRank": 317
 }

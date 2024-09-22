@@ -1,38 +1,38 @@
 {
   "id": "1EvLQTftUdMMQbOSeMOLn1",
   "name": "Grupo Selectivo",
-  "followers": 122050,
-  "monthlyListeners": 1225708,
+  "followers": 122288,
+  "monthlyListeners": 1217628,
   "topCities": {
     "items": [
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 95665,
+        "numberOfListeners": 95071,
         "region": "JAL"
       },
       {
         "city": "Tijuana",
         "country": "MX",
-        "numberOfListeners": 83637,
+        "numberOfListeners": 83232,
         "region": "BCN"
       },
       {
         "city": "Culiacán",
         "country": "MX",
-        "numberOfListeners": 82865,
+        "numberOfListeners": 81387,
         "region": "SIN"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 71940,
+        "numberOfListeners": 71234,
         "region": "CMX"
       },
       {
         "city": "Zapopan",
         "country": "MX",
-        "numberOfListeners": 65271,
+        "numberOfListeners": 64753,
         "region": "JAL"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "5wPoxI5si3eJsYYwyXV4Wi",
   "name": "N.E.R.D",
-  "followers": 852984,
-  "monthlyListeners": 1924456,
+  "followers": 853059,
+  "monthlyListeners": 1922828,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 43246,
+        "numberOfListeners": 43161,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 37614,
+        "numberOfListeners": 37572,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 34468,
+        "numberOfListeners": 34377,
         "region": "VIC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 33330,
+        "numberOfListeners": 33207,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 25891,
+        "numberOfListeners": 25962,
         "region": "NY"
       }
     ]

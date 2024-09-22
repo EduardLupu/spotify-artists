@@ -1,38 +1,38 @@
 {
   "id": "1wASklF2AQfIVhSBWnUHwz",
   "name": "Divine",
-  "followers": 34465,
-  "monthlyListeners": 192621,
+  "followers": 34483,
+  "monthlyListeners": 192083,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 30030,
+        "numberOfListeners": 29808,
         "region": "CMX"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 12230,
+        "numberOfListeners": 12349,
         "region": "CMX"
       },
       {
         "city": "Iztapalapa",
         "country": "MX",
-        "numberOfListeners": 11003,
+        "numberOfListeners": 10715,
         "region": "CMX"
       },
       {
         "city": "Cuauhtémoc",
         "country": "MX",
-        "numberOfListeners": 8001,
+        "numberOfListeners": 8047,
         "region": "CMX"
       },
       {
         "city": "Venustiano Carranza",
         "country": "MX",
-        "numberOfListeners": 6069,
+        "numberOfListeners": 6000,
         "region": "CMX"
       }
     ]

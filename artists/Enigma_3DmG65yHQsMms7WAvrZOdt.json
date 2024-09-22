@@ -1,38 +1,38 @@
 {
   "id": "3DmG65yHQsMms7WAvrZOdt",
   "name": "Enigma",
-  "followers": 943786,
-  "monthlyListeners": 2415702,
+  "followers": 944212,
+  "monthlyListeners": 2407832,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 39262,
+        "numberOfListeners": 39202,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 35711,
+        "numberOfListeners": 35425,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 30658,
+        "numberOfListeners": 30502,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 27946,
+        "numberOfListeners": 27817,
         "region": "SP"
       },
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 22520,
+        "numberOfListeners": 22388,
         "region": "14"
       }
     ]

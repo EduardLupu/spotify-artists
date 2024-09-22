@@ -1,38 +1,38 @@
 {
   "id": "3pyrfwmUGt2MIRbhMY8iar",
   "name": "Rei",
-  "followers": 881,
-  "monthlyListeners": 1117,
+  "followers": 882,
+  "monthlyListeners": 1120,
   "topCities": {
     "items": [
       {
         "city": "Seoul",
         "country": "KR",
-        "numberOfListeners": 157,
-        "region": "11"
-      },
-      {
-        "city": "Seocho-gu",
-        "country": "KR",
-        "numberOfListeners": 64,
+        "numberOfListeners": 159,
         "region": "11"
       },
       {
         "city": "Gangnam-gu",
         "country": "KR",
-        "numberOfListeners": 64,
+        "numberOfListeners": 65,
+        "region": "11"
+      },
+      {
+        "city": "Seocho-gu",
+        "country": "KR",
+        "numberOfListeners": 63,
         "region": "11"
       },
       {
         "city": "Dongjak-gu",
         "country": "KR",
-        "numberOfListeners": 35,
+        "numberOfListeners": 34,
         "region": "11"
       },
       {
         "city": "Mapo-gu",
         "country": "KR",
-        "numberOfListeners": 31,
+        "numberOfListeners": 33,
         "region": "11"
       }
     ]

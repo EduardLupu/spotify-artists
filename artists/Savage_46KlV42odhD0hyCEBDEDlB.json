@@ -2,37 +2,37 @@
   "id": "46KlV42odhD0hyCEBDEDlB",
   "name": "Savage",
   "followers": 177,
-  "monthlyListeners": 9637,
+  "monthlyListeners": 9559,
   "topCities": {
     "items": [
       {
         "city": "Nairobi",
         "country": "KE",
-        "numberOfListeners": 805,
+        "numberOfListeners": 810,
         "region": "30"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 512,
+        "numberOfListeners": 507,
         "region": "RM"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 418,
-        "region": "ENG"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 413,
+        "numberOfListeners": 417,
         "region": "DC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 411,
+        "region": "ENG"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 311,
+        "numberOfListeners": 313,
         "region": "ON"
       }
     ]

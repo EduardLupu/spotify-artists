@@ -1,41 +1,41 @@
 {
   "id": "4qU7IJSReZnsLy5907Mtau",
   "name": "Richy Mitch & The Coal Miners",
-  "followers": 213167,
-  "monthlyListeners": 19791496,
+  "followers": 213570,
+  "monthlyListeners": 19849115,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 274100,
+        "numberOfListeners": 274323,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 267892,
+        "numberOfListeners": 268366,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 234902,
+        "numberOfListeners": 235026,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 192953,
+        "numberOfListeners": 193056,
         "region": "IL"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 181637,
+        "numberOfListeners": 182572,
         "region": "L"
       }
     ]
   },
-  "worldRank": 367
+  "worldRank": 365
 }

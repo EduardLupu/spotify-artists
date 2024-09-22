@@ -1,39 +1,39 @@
 {
   "id": "5edcHuf8pWH3I00WTorajM",
   "name": "Kidd G",
-  "followers": 333075,
-  "monthlyListeners": 995094,
+  "followers": 333316,
+  "monthlyListeners": 991000,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 21896,
+        "numberOfListeners": 21763,
         "region": "IL"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 21034,
+        "numberOfListeners": 20959,
         "region": "NC"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 17074,
+        "numberOfListeners": 17075,
         "region": "GA"
       },
       {
         "city": "Minneapolis",
         "country": "US",
-        "numberOfListeners": 16315,
+        "numberOfListeners": 16110,
         "region": "MN"
       },
       {
-        "city": "Dallas",
+        "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 15234,
-        "region": "TX"
+        "numberOfListeners": 15197,
+        "region": "PA"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "69lxxQvsfAIoQbB20bEPFC",
   "name": "Philip Glass",
-  "followers": 644544,
-  "monthlyListeners": 1535423,
+  "followers": 644669,
+  "monthlyListeners": 1539440,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 26246,
+        "numberOfListeners": 26337,
         "region": "ENG"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 22581,
+        "numberOfListeners": 22790,
         "region": "IDF"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 17406,
+        "numberOfListeners": 17572,
         "region": "NY"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 17096,
+        "numberOfListeners": 17085,
         "region": "NSW"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 16793,
+        "numberOfListeners": 16867,
         "region": "NH"
       }
     ]

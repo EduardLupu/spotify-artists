@@ -1,39 +1,39 @@
 {
   "id": "0EeQBlQJFiAfJeVN2vT9s0",
   "name": "Nipsey Hussle",
-  "followers": 3480255,
-  "monthlyListeners": 3717061,
+  "followers": 3480674,
+  "monthlyListeners": 3730131,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 120252,
+        "numberOfListeners": 120091,
         "region": "CA"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 57187,
+        "numberOfListeners": 57166,
         "region": "TX"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 56243,
+        "numberOfListeners": 56371,
         "region": "AZ"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 54668,
+        "numberOfListeners": 54619,
         "region": "IL"
       },
       {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 52088,
-        "region": "ENG"
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 52034,
+        "region": "ON"
       }
     ]
   },

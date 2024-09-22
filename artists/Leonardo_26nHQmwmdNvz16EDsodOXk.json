@@ -2,13 +2,13 @@
   "id": "26nHQmwmdNvz16EDsodOXk",
   "name": "Leonardo",
   "followers": 38,
-  "monthlyListeners": 53,
+  "monthlyListeners": 54,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 5,
+        "numberOfListeners": 6,
         "region": "JK"
       },
       {
@@ -24,16 +24,16 @@
         "region": "JT"
       },
       {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "numberOfListeners": 2,
+        "region": "14"
+      },
+      {
         "city": "Singapore",
         "country": "SG",
         "numberOfListeners": 2,
         "region": ""
-      },
-      {
-        "city": "Bratislava",
-        "country": "SK",
-        "numberOfListeners": 2,
-        "region": "BL"
       }
     ]
   },

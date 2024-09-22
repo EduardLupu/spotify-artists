@@ -1,38 +1,38 @@
 {
   "id": "5Y8eJDj37KhaEeqbVO7Ag1",
   "name": "PRETTYMUCH",
-  "followers": 1268790,
-  "monthlyListeners": 1367570,
+  "followers": 1268771,
+  "monthlyListeners": 1363058,
   "topCities": {
     "items": [
       {
         "city": "Bangkok",
         "country": "TH",
-        "numberOfListeners": 39684,
+        "numberOfListeners": 38742,
         "region": "10"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 35085,
+        "numberOfListeners": 35119,
         "region": "JK"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 18650,
+        "numberOfListeners": 18633,
         "region": "NSW"
       },
       {
         "city": "Singapore",
         "country": "SG",
-        "numberOfListeners": 17942,
+        "numberOfListeners": 17862,
         "region": ""
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 15795,
+        "numberOfListeners": 15788,
         "region": "VIC"
       }
     ]

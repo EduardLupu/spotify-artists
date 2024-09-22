@@ -2,13 +2,13 @@
   "id": "1M1hB5aMzFroYwpcV3gjeU",
   "name": "Kilo",
   "followers": 19,
-  "monthlyListeners": 82,
+  "monthlyListeners": 80,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 9,
+        "numberOfListeners": 10,
         "region": "CA"
       },
       {
@@ -18,19 +18,19 @@
         "region": "CA"
       },
       {
-        "city": "Moreno Valley",
-        "country": "US",
-        "numberOfListeners": 4,
-        "region": "CA"
-      },
-      {
-        "city": "Corona",
+        "city": "Santa Ana",
         "country": "US",
         "numberOfListeners": 3,
         "region": "CA"
       },
       {
-        "city": "Santa Ana",
+        "city": "Riverside",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "CA"
+      },
+      {
+        "city": "Corona",
         "country": "US",
         "numberOfListeners": 3,
         "region": "CA"

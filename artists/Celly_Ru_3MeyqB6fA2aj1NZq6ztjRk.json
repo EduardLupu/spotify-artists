@@ -1,38 +1,38 @@
 {
   "id": "3MeyqB6fA2aj1NZq6ztjRk",
   "name": "Celly Ru",
-  "followers": 39379,
-  "monthlyListeners": 76722,
+  "followers": 39399,
+  "monthlyListeners": 76256,
   "topCities": {
     "items": [
       {
         "city": "Sacramento",
         "country": "US",
-        "numberOfListeners": 5592,
+        "numberOfListeners": 5516,
         "region": "CA"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 4661,
+        "numberOfListeners": 4602,
         "region": "CA"
       },
       {
         "city": "San Francisco",
         "country": "US",
-        "numberOfListeners": 3430,
+        "numberOfListeners": 3401,
         "region": "CA"
       },
       {
         "city": "San Jose",
         "country": "US",
-        "numberOfListeners": 2527,
+        "numberOfListeners": 2538,
         "region": "CA"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 2392,
+        "numberOfListeners": 2405,
         "region": "WA"
       }
     ]

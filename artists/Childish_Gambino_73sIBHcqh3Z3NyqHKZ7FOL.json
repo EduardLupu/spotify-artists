@@ -1,38 +1,38 @@
 {
   "id": "73sIBHcqh3Z3NyqHKZ7FOL",
   "name": "Childish Gambino",
-  "followers": 13305919,
-  "monthlyListeners": 26015603,
+  "followers": 13310222,
+  "monthlyListeners": 25926319,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 475809,
+        "numberOfListeners": 472678,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 464658,
+        "numberOfListeners": 462597,
         "region": "CA"
-      },
-      {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 389850,
-        "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 389702,
+        "numberOfListeners": 389033,
         "region": "NSW"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 387638,
+        "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 370769,
+        "numberOfListeners": 370689,
         "region": "NY"
       }
     ]

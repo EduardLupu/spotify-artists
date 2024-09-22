@@ -1,39 +1,39 @@
 {
   "id": "4NoYgW8CrKww9d3EGwcupS",
   "name": "Oakwite",
-  "followers": 3462,
-  "monthlyListeners": 28159,
+  "followers": 3463,
+  "monthlyListeners": 28075,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1140,
+        "numberOfListeners": 1124,
         "region": "ENG"
       },
       {
         "city": "Prague",
         "country": "CZ",
-        "numberOfListeners": 773,
+        "numberOfListeners": 780,
         "region": "10"
       },
       {
         "city": "Auckland",
         "country": "NZ",
-        "numberOfListeners": 462,
+        "numberOfListeners": 467,
         "region": "AUK"
-      },
-      {
-        "city": "Vienna",
-        "country": "AT",
-        "numberOfListeners": 397,
-        "region": "9"
       },
       {
         "city": "Perth",
         "country": "AU",
-        "numberOfListeners": 396,
+        "numberOfListeners": 395,
         "region": "WA"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 394,
+        "region": "9"
       }
     ]
   },

@@ -2,37 +2,37 @@
   "id": "5t7cAYs7nLUCQkzCAw7Zwa",
   "name": "Fuego",
   "followers": 3161,
-  "monthlyListeners": 12328,
+  "monthlyListeners": 12348,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1087,
+        "numberOfListeners": 1079,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 768,
+        "numberOfListeners": 781,
         "region": "DC"
       },
       {
         "city": "Barcelona",
         "country": "ES",
-        "numberOfListeners": 713,
+        "numberOfListeners": 718,
         "region": "CT"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 671,
+        "numberOfListeners": 685,
         "region": "MD"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 372,
+        "numberOfListeners": 378,
         "region": "ANT"
       }
     ]

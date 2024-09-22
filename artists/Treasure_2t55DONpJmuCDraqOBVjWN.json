@@ -2,38 +2,38 @@
   "id": "2t55DONpJmuCDraqOBVjWN",
   "name": "Treasure",
   "followers": 672,
-  "monthlyListeners": 1394,
+  "monthlyListeners": 1402,
   "topCities": {
     "items": [
       {
         "city": "Minneapolis",
         "country": "US",
-        "numberOfListeners": 184,
+        "numberOfListeners": 190,
         "region": "MN"
       },
       {
         "city": "Sacramento",
         "country": "US",
-        "numberOfListeners": 140,
+        "numberOfListeners": 134,
         "region": "CA"
       },
       {
         "city": "Saint Paul",
         "country": "US",
-        "numberOfListeners": 104,
+        "numberOfListeners": 101,
         "region": "MN"
       },
       {
         "city": "Milwaukee",
         "country": "US",
-        "numberOfListeners": 54,
+        "numberOfListeners": 52,
         "region": "WI"
       },
       {
-        "city": "Bangkok",
-        "country": "TH",
-        "numberOfListeners": 40,
-        "region": "10"
+        "city": "Fresno",
+        "country": "US",
+        "numberOfListeners": 39,
+        "region": "CA"
       }
     ]
   },

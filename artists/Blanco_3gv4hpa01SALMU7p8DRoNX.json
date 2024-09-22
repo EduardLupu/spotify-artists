@@ -1,26 +1,26 @@
 {
   "id": "3gv4hpa01SALMU7p8DRoNX",
   "name": "Blanco",
-  "followers": 531,
-  "monthlyListeners": 7356,
+  "followers": 533,
+  "monthlyListeners": 7307,
   "topCities": {
     "items": [
       {
-        "city": "Bern",
-        "country": "CH",
-        "numberOfListeners": 1861,
-        "region": "BE"
-      },
-      {
         "city": "Zurich",
         "country": "CH",
-        "numberOfListeners": 1852,
+        "numberOfListeners": 1839,
         "region": "ZH"
+      },
+      {
+        "city": "Bern",
+        "country": "CH",
+        "numberOfListeners": 1819,
+        "region": "BE"
       },
       {
         "city": "Lausanne",
         "country": "CH",
-        "numberOfListeners": 925,
+        "numberOfListeners": 910,
         "region": "VD"
       },
       {

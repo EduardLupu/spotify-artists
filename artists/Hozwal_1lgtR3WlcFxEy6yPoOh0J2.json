@@ -1,38 +1,38 @@
 {
   "id": "1lgtR3WlcFxEy6yPoOh0J2",
   "name": "Hozwal",
-  "followers": 181966,
-  "monthlyListeners": 1103598,
+  "followers": 181992,
+  "monthlyListeners": 1076010,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 82771,
+        "numberOfListeners": 75086,
         "region": "DC"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 66625,
+        "numberOfListeners": 65378,
         "region": "RM"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 47947,
+        "numberOfListeners": 44374,
         "region": "ANT"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 29507,
+        "numberOfListeners": 29038,
         "region": "CMX"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 26336,
+        "numberOfListeners": 25828,
         "region": "LMA"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "0ntNwPE7MYnKrTh59tU2BA",
   "name": "shinigami",
-  "followers": 131557,
-  "monthlyListeners": 124150,
+  "followers": 131565,
+  "monthlyListeners": 124007,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 1680,
+        "numberOfListeners": 1668,
         "region": "IL"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 1425,
+        "numberOfListeners": 1422,
         "region": "AZ"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 1386,
+        "numberOfListeners": 1379,
         "region": "TX"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1314,
+        "numberOfListeners": 1312,
         "region": "CA"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 1268,
+        "numberOfListeners": 1275,
         "region": "CO"
       }
     ]

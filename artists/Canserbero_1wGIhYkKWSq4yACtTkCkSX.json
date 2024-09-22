@@ -1,38 +1,38 @@
 {
   "id": "1wGIhYkKWSq4yACtTkCkSX",
   "name": "Canserbero",
-  "followers": 12440537,
-  "monthlyListeners": 7062492,
+  "followers": 12452878,
+  "monthlyListeners": 7085611,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 536750,
+        "numberOfListeners": 537186,
         "region": "DC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 391365,
+        "numberOfListeners": 391228,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 358317,
+        "numberOfListeners": 356163,
         "region": "RM"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 251330,
+        "numberOfListeners": 251584,
         "region": "ANT"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 235342,
+        "numberOfListeners": 236286,
         "region": "LMA"
       }
     ]

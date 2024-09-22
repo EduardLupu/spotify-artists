@@ -1,38 +1,38 @@
 {
   "id": "3EA9hVIzKfFiQI0Kikz2wo",
   "name": "Andrea Bocelli",
-  "followers": 2848712,
-  "monthlyListeners": 10217290,
+  "followers": 2849875,
+  "monthlyListeners": 10305514,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 326694,
+        "numberOfListeners": 329785,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 240217,
+        "numberOfListeners": 242922,
         "region": "CMX"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 227002,
+        "numberOfListeners": 230546,
         "region": "DC"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 151195,
+        "numberOfListeners": 154087,
         "region": "MD"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 148934,
+        "numberOfListeners": 151236,
         "region": "LMA"
       }
     ]

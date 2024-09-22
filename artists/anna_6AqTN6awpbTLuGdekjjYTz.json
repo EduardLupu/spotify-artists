@@ -2,7 +2,7 @@
   "id": "6AqTN6awpbTLuGdekjjYTz",
   "name": "anna",
   "followers": 16,
-  "monthlyListeners": 86,
+  "monthlyListeners": 81,
   "topCities": {
     "items": [
       {
@@ -24,16 +24,16 @@
         "region": "SN"
       },
       {
-        "city": "Munich",
-        "country": "DE",
-        "numberOfListeners": 2,
-        "region": "BY"
-      },
-      {
         "city": "Leipzig",
         "country": "DE",
         "numberOfListeners": 2,
         "region": "SN"
+      },
+      {
+        "city": "Cologne",
+        "country": "DE",
+        "numberOfListeners": 2,
+        "region": "NW"
       }
     ]
   },

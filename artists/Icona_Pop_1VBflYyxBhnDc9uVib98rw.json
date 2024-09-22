@@ -1,38 +1,38 @@
 {
   "id": "1VBflYyxBhnDc9uVib98rw",
   "name": "Icona Pop",
-  "followers": 712116,
-  "monthlyListeners": 10503857,
+  "followers": 712352,
+  "monthlyListeners": 10453473,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 156962,
+        "numberOfListeners": 156792,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 139837,
+        "numberOfListeners": 139644,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 123079,
+        "numberOfListeners": 122082,
         "region": "ENG"
       },
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 118727,
+        "numberOfListeners": 118753,
         "region": "AB"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 105021,
+        "numberOfListeners": 104868,
         "region": "QLD"
       }
     ]

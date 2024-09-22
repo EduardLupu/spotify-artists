@@ -1,38 +1,38 @@
 {
   "id": "02GmR27EYUG8oYH3oHpOCO",
   "name": "CJ",
-  "followers": 2704,
-  "monthlyListeners": 53100,
+  "followers": 2718,
+  "monthlyListeners": 53300,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 6949,
+        "numberOfListeners": 6946,
         "region": "ENG"
       },
       {
         "city": "Birmingham",
         "country": "GB",
-        "numberOfListeners": 5585,
+        "numberOfListeners": 5544,
         "region": "ENG"
       },
       {
         "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 4254,
+        "numberOfListeners": 4284,
         "region": "ENG"
       },
       {
         "city": "Southwark",
         "country": "GB",
-        "numberOfListeners": 1859,
+        "numberOfListeners": 1871,
         "region": "ENG"
       },
       {
         "city": "Leeds",
         "country": "GB",
-        "numberOfListeners": 1574,
+        "numberOfListeners": 1619,
         "region": "ENG"
       }
     ]

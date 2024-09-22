@@ -1,38 +1,38 @@
 {
   "id": "13bDjug9N0pyv3ZUINjkDV",
   "name": "Bausa",
-  "followers": 1086167,
-  "monthlyListeners": 5868783,
+  "followers": 1086286,
+  "monthlyListeners": 5829031,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 603149,
+        "numberOfListeners": 597809,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 475947,
+        "numberOfListeners": 486807,
         "region": "HH"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 452374,
+        "numberOfListeners": 446410,
         "region": "HE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 391072,
+        "numberOfListeners": 389413,
         "region": "BY"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 341364,
+        "numberOfListeners": 344622,
         "region": "BW"
       }
     ]

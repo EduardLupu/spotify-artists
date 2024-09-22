@@ -1,38 +1,38 @@
 {
   "id": "4tdlXdW4Agcp0EGX9otdDK",
   "name": "Mata",
-  "followers": 17239,
-  "monthlyListeners": 27387,
+  "followers": 17251,
+  "monthlyListeners": 27220,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 5545,
+        "numberOfListeners": 5535,
         "region": "IDF"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 557,
+        "numberOfListeners": 550,
         "region": "ARA"
       },
       {
         "city": "Toulouse",
         "country": "FR",
-        "numberOfListeners": 526,
+        "numberOfListeners": 519,
         "region": "OCC"
       },
       {
         "city": "Bordeaux",
         "country": "FR",
-        "numberOfListeners": 497,
+        "numberOfListeners": 491,
         "region": "NAQ"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 345,
+        "numberOfListeners": 347,
         "region": "HDF"
       }
     ]

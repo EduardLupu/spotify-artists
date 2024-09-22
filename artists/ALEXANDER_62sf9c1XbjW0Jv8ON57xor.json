@@ -2,38 +2,38 @@
   "id": "62sf9c1XbjW0Jv8ON57xor",
   "name": "ALEXANDER",
   "followers": 349,
-  "monthlyListeners": 5704,
+  "monthlyListeners": 5706,
   "topCities": {
     "items": [
       {
         "city": "Taipei",
         "country": "TW",
-        "numberOfListeners": 77,
+        "numberOfListeners": 79,
         "region": "TPE"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 53,
+        "numberOfListeners": 52,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 51,
+        "numberOfListeners": 52,
         "region": "NSW"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 49,
-        "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 49,
+        "numberOfListeners": 50,
         "region": "NY"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 46,
+        "region": "ENG"
       }
     ]
   },

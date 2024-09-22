@@ -18,22 +18,22 @@
         "region": "IL"
       },
       {
-        "city": "Dublin",
-        "country": "IE",
+        "city": "Gothenburg",
+        "country": "SE",
         "numberOfListeners": 2,
-        "region": "L"
+        "region": "O"
       },
       {
-        "city": "Poughkeepsie",
-        "country": "US",
+        "city": "Adelaide",
+        "country": "AU",
         "numberOfListeners": 2,
-        "region": "NY"
+        "region": "SA"
       },
       {
-        "city": "New York City",
+        "city": "Oakland",
         "country": "US",
         "numberOfListeners": 2,
-        "region": "NY"
+        "region": "CA"
       }
     ]
   },

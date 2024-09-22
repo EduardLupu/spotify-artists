@@ -2,38 +2,38 @@
   "id": "1AN3yLqQaezGk3IChpSw7z",
   "name": "Equipo Reservado",
   "followers": 588,
-  "monthlyListeners": 612,
+  "monthlyListeners": 608,
   "topCities": {
     "items": [
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 270,
+        "numberOfListeners": 267,
         "region": "AZ"
       },
       {
         "city": "Mesa",
         "country": "US",
-        "numberOfListeners": 49,
+        "numberOfListeners": 47,
         "region": "AZ"
       },
       {
         "city": "Albuquerque",
         "country": "US",
-        "numberOfListeners": 31,
+        "numberOfListeners": 33,
         "region": "NM"
       },
       {
-        "city": "Las Vegas",
-        "country": "US",
-        "numberOfListeners": 18,
-        "region": "NV"
-      },
-      {
-        "city": "Los Angeles",
+        "city": "Tempe",
         "country": "US",
         "numberOfListeners": 17,
-        "region": "CA"
+        "region": "AZ"
+      },
+      {
+        "city": "Gilbert",
+        "country": "US",
+        "numberOfListeners": 17,
+        "region": "AZ"
       }
     ]
   },

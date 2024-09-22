@@ -1,26 +1,26 @@
 {
   "id": "4ELZUuHRIUrAkko2cjpWB1",
   "name": "Pyrex",
-  "followers": 21248,
-  "monthlyListeners": 51932,
+  "followers": 21256,
+  "monthlyListeners": 51985,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 933,
+        "numberOfListeners": 937,
         "region": "BE"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 780,
+        "numberOfListeners": 774,
         "region": "ON"
       },
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 747,
+        "numberOfListeners": 752,
         "region": "25"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 618,
+        "numberOfListeners": 622,
         "region": "CA"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "3iOvXCl6edW5Um0fXEBRXy",
   "name": "The xx",
-  "followers": 3782769,
-  "monthlyListeners": 5889376,
+  "followers": 3783059,
+  "monthlyListeners": 5875154,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 134998,
+        "numberOfListeners": 134169,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 99430,
+        "numberOfListeners": 99192,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 89700,
+        "numberOfListeners": 89309,
         "region": "VIC"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 78620,
+        "numberOfListeners": 78857,
         "region": "IDF"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 66297,
+        "numberOfListeners": 65774,
         "region": "CMX"
       }
     ]

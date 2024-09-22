@@ -2,38 +2,38 @@
   "id": "5yLiSpA4wPJNf7kYBIZegG",
   "name": "Philmon Lee",
   "followers": 5551,
-  "monthlyListeners": 14110,
+  "monthlyListeners": 14063,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 156,
+        "numberOfListeners": 154,
         "region": "NSW"
-      },
-      {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 145,
-        "region": "IL"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 142,
+        "numberOfListeners": 146,
         "region": "WA"
       },
       {
-        "city": "Montreal",
-        "country": "CA",
-        "numberOfListeners": 124,
-        "region": "QC"
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 144,
+        "region": "IL"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 123,
+        "numberOfListeners": 124,
         "region": "CO"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 122,
+        "region": "QC"
       }
     ]
   },

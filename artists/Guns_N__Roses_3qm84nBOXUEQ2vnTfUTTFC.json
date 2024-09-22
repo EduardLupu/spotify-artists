@@ -1,38 +1,38 @@
 {
   "id": "3qm84nBOXUEQ2vnTfUTTFC",
   "name": "Guns N' Roses",
-  "followers": 31747337,
-  "monthlyListeners": 30608713,
+  "followers": 31757213,
+  "monthlyListeners": 30588858,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 691983,
+        "numberOfListeners": 693020,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 622743,
+        "numberOfListeners": 619785,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 504342,
+        "numberOfListeners": 503939,
         "region": "CMX"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 450963,
+        "numberOfListeners": 453462,
         "region": "JK"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 359941,
+        "numberOfListeners": 360201,
         "region": "DC"
       }
     ]

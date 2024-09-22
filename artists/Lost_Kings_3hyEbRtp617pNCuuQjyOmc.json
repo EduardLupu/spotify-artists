@@ -1,39 +1,39 @@
 {
   "id": "3hyEbRtp617pNCuuQjyOmc",
   "name": "Lost Kings",
-  "followers": 391571,
-  "monthlyListeners": 978089,
+  "followers": 391568,
+  "monthlyListeners": 976758,
   "topCities": {
     "items": [
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 19025,
+        "numberOfListeners": 19084,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 17539,
+        "numberOfListeners": 17492,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 14426,
+        "numberOfListeners": 14361,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 12934,
+        "numberOfListeners": 12947,
         "region": "NSW"
       },
       {
-        "city": "Brooklyn",
+        "city": "Denver",
         "country": "US",
-        "numberOfListeners": 12256,
-        "region": "NY"
+        "numberOfListeners": 12229,
+        "region": "CO"
       }
     ]
   },

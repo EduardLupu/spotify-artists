@@ -1,38 +1,38 @@
 {
   "id": "39NR3AUhpbbqKM33vWn2fp",
   "name": "Brothers Osborne",
-  "followers": 1260496,
-  "monthlyListeners": 2457744,
+  "followers": 1260543,
+  "monthlyListeners": 2435196,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 48237,
+        "numberOfListeners": 47722,
         "region": "IL"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 39658,
+        "numberOfListeners": 38984,
         "region": "ON"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 37367,
+        "numberOfListeners": 37169,
         "region": "CO"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 37179,
+        "numberOfListeners": 37034,
         "region": "NC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 36440,
+        "numberOfListeners": 36114,
         "region": "NSW"
       }
     ]

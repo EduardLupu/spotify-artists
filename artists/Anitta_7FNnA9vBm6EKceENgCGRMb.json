@@ -1,41 +1,41 @@
 {
   "id": "7FNnA9vBm6EKceENgCGRMb",
   "name": "Anitta",
-  "followers": 12659151,
-  "monthlyListeners": 33240472,
+  "followers": 12662102,
+  "monthlyListeners": 33211912,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 1477252,
+        "numberOfListeners": 1476514,
         "region": "SP"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 957444,
+        "numberOfListeners": 959461,
         "region": "C"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 825924,
+        "numberOfListeners": 820298,
         "region": "RM"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 763737,
+        "numberOfListeners": 764995,
         "region": "RJ"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 671056,
+        "numberOfListeners": 667371,
         "region": "CMX"
       }
     ]
   },
-  "worldRank": 125
+  "worldRank": 126
 }

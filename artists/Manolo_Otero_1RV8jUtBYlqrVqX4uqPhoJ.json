@@ -1,38 +1,38 @@
 {
   "id": "1RV8jUtBYlqrVqX4uqPhoJ",
   "name": "Manolo Otero",
-  "followers": 126256,
-  "monthlyListeners": 121611,
+  "followers": 126304,
+  "monthlyListeners": 121363,
   "topCities": {
     "items": [
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 11230,
+        "numberOfListeners": 11211,
         "region": "LMA"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 9863,
+        "numberOfListeners": 9804,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 7870,
+        "numberOfListeners": 7877,
         "region": "DC"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 5508,
+        "numberOfListeners": 5540,
         "region": "ANT"
       },
       {
         "city": "La Paz",
         "country": "BO",
-        "numberOfListeners": 4222,
+        "numberOfListeners": 4206,
         "region": "L"
       }
     ]

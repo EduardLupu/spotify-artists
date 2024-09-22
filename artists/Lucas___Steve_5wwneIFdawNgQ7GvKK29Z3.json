@@ -1,38 +1,38 @@
 {
   "id": "5wwneIFdawNgQ7GvKK29Z3",
   "name": "Lucas & Steve",
-  "followers": 431392,
-  "monthlyListeners": 2838923,
+  "followers": 431383,
+  "monthlyListeners": 2852152,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 110057,
+        "numberOfListeners": 112950,
         "region": "NH"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 82633,
+        "numberOfListeners": 83830,
         "region": "ZH"
       },
       {
         "city": "Utrecht",
         "country": "NL",
-        "numberOfListeners": 41582,
+        "numberOfListeners": 42066,
         "region": "UT"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 31341,
+        "numberOfListeners": 31484,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 29975,
+        "numberOfListeners": 30973,
         "region": "HH"
       }
     ]

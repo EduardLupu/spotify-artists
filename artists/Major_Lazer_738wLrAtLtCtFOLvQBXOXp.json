@@ -1,38 +1,38 @@
 {
   "id": "738wLrAtLtCtFOLvQBXOXp",
   "name": "Major Lazer",
-  "followers": 6185210,
-  "monthlyListeners": 27842262,
+  "followers": 6185828,
+  "monthlyListeners": 27720288,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 439569,
+        "numberOfListeners": 438166,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 363495,
+        "numberOfListeners": 360663,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 360122,
+        "numberOfListeners": 357471,
         "region": "ENG"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 312213,
+        "numberOfListeners": 310927,
         "region": "IDF"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 300996,
+        "numberOfListeners": 301570,
         "region": "JK"
       }
     ]

@@ -1,20 +1,20 @@
 {
   "id": "07NzVZ0BHZ0QOOw7nGvCgo",
   "name": "Big Joe Williams",
-  "followers": 39840,
-  "monthlyListeners": 44173,
+  "followers": 39848,
+  "monthlyListeners": 44294,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 643,
+        "numberOfListeners": 639,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 640,
+        "numberOfListeners": 638,
         "region": "VIC"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 527,
+        "numberOfListeners": 523,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 513,
+        "numberOfListeners": 509,
         "region": "SP"
       }
     ]

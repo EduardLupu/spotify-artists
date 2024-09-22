@@ -2,19 +2,19 @@
   "id": "6TMzy5tzME3zb1C1VahK52",
   "name": "Dario Mitraglia",
   "followers": 14,
-  "monthlyListeners": 272,
+  "monthlyListeners": 269,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 69,
+        "numberOfListeners": 65,
         "region": "NH"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 44,
+        "numberOfListeners": 45,
         "region": "ZH"
       },
       {
@@ -26,14 +26,14 @@
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 12,
+        "numberOfListeners": 11,
         "region": "BRU"
       },
       {
-        "city": "The Hague",
+        "city": "Amersfoort",
         "country": "NL",
         "numberOfListeners": 10,
-        "region": "ZH"
+        "region": "UT"
       }
     ]
   },

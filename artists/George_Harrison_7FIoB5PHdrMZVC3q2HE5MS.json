@@ -1,38 +1,38 @@
 {
   "id": "7FIoB5PHdrMZVC3q2HE5MS",
   "name": "George Harrison",
-  "followers": 2730433,
-  "monthlyListeners": 8656303,
+  "followers": 2731485,
+  "monthlyListeners": 8669214,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 139374,
+        "numberOfListeners": 139197,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 134382,
+        "numberOfListeners": 134875,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 133134,
+        "numberOfListeners": 133774,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 116459,
+        "numberOfListeners": 116845,
         "region": "VIC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 91808,
+        "numberOfListeners": 91378,
         "region": "CMX"
       }
     ]

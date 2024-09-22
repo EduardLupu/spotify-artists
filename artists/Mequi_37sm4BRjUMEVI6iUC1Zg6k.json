@@ -1,38 +1,38 @@
 {
   "id": "37sm4BRjUMEVI6iUC1Zg6k",
   "name": "Mequi",
-  "followers": 841,
-  "monthlyListeners": 21369,
+  "followers": 842,
+  "monthlyListeners": 20318,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 2792,
+        "numberOfListeners": 2674,
         "region": "RM"
-      },
-      {
-        "city": "Bogotá",
-        "country": "CO",
-        "numberOfListeners": 567,
-        "region": "DC"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 567,
+        "numberOfListeners": 556,
         "region": "C"
+      },
+      {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 542,
+        "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 435,
+        "numberOfListeners": 394,
         "region": "LMA"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 315,
+        "numberOfListeners": 303,
         "region": "B"
       }
     ]

@@ -2,7 +2,7 @@
   "id": "5N7frbDeoBEznM6cM3zs69",
   "name": "Aidan",
   "followers": 79,
-  "monthlyListeners": 395,
+  "monthlyListeners": 394,
   "topCities": {
     "items": [
       {
@@ -14,13 +14,13 @@
       {
         "city": "Bratislava",
         "country": "SK",
-        "numberOfListeners": 46,
+        "numberOfListeners": 43,
         "region": "BL"
       },
       {
         "city": "Brno",
         "country": "CZ",
-        "numberOfListeners": 26,
+        "numberOfListeners": 29,
         "region": "64"
       },
       {
@@ -30,10 +30,10 @@
         "region": "80"
       },
       {
-        "city": "Olomouc",
+        "city": "České Budějovice",
         "country": "CZ",
         "numberOfListeners": 5,
-        "region": "71"
+        "region": "31"
       }
     ]
   },

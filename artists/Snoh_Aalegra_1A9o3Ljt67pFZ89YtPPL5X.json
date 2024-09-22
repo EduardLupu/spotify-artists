@@ -1,38 +1,38 @@
 {
   "id": "1A9o3Ljt67pFZ89YtPPL5X",
   "name": "Snoh Aalegra",
-  "followers": 1248127,
-  "monthlyListeners": 4979923,
+  "followers": 1248508,
+  "monthlyListeners": 4958545,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 131689,
+        "numberOfListeners": 131267,
         "region": "ENG"
       },
       {
         "city": "Johannesburg",
         "country": "ZA",
-        "numberOfListeners": 81507,
+        "numberOfListeners": 81700,
         "region": "GP"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 80474,
+        "numberOfListeners": 80242,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 75309,
+        "numberOfListeners": 75105,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 61557,
+        "numberOfListeners": 61341,
         "region": "VIC"
       }
     ]

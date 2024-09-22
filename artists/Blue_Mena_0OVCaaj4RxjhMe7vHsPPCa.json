@@ -1,14 +1,20 @@
 {
   "id": "0OVCaaj4RxjhMe7vHsPPCa",
   "name": "Blue Mena",
-  "followers": 1880,
-  "monthlyListeners": 12448,
+  "followers": 1879,
+  "monthlyListeners": 12347,
   "topCities": {
     "items": [
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 334,
+        "numberOfListeners": 327,
+        "region": "NY"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 291,
         "region": "NY"
       },
       {
@@ -16,12 +22,6 @@
         "country": "US",
         "numberOfListeners": 291,
         "region": "CA"
-      },
-      {
-        "city": "New York City",
-        "country": "US",
-        "numberOfListeners": 290,
-        "region": "NY"
       },
       {
         "city": "London",
@@ -32,7 +32,7 @@
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 209,
+        "numberOfListeners": 207,
         "region": "IL"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "2RVvqRBon9NgaGXKfywDSs",
   "name": "Maisie Peters",
-  "followers": 652598,
-  "monthlyListeners": 2170048,
+  "followers": 653162,
+  "monthlyListeners": 2162582,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 83887,
+        "numberOfListeners": 83001,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 44239,
+        "numberOfListeners": 44104,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 41418,
+        "numberOfListeners": 41236,
         "region": "VIC"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 31265,
+        "numberOfListeners": 31378,
         "region": "NY"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 28539,
+        "numberOfListeners": 28415,
         "region": "QLD"
       }
     ]

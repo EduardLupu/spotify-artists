@@ -1,14 +1,14 @@
 {
   "id": "4slQb6hVBChkb09qmn3DaD",
   "name": "Andre",
-  "followers": 2293,
-  "monthlyListeners": 14717,
+  "followers": 2297,
+  "monthlyListeners": 14526,
   "topCities": {
     "items": [
       {
         "city": "Bucharest",
         "country": "RO",
-        "numberOfListeners": 3031,
+        "numberOfListeners": 2968,
         "region": "B"
       },
       {
@@ -20,19 +20,19 @@
       {
         "city": "Timișoara",
         "country": "RO",
-        "numberOfListeners": 536,
+        "numberOfListeners": 538,
         "region": "TM"
       },
       {
         "city": "Iasi",
         "country": "RO",
-        "numberOfListeners": 479,
+        "numberOfListeners": 470,
         "region": "IS"
       },
       {
         "city": "Brasov",
         "country": "RO",
-        "numberOfListeners": 465,
+        "numberOfListeners": 453,
         "region": "BV"
       }
     ]

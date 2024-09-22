@@ -2,36 +2,36 @@
   "id": "4l3wKfGzkfCBnBWOLUQw0w",
   "name": "LEON",
   "followers": 47,
-  "monthlyListeners": 32,
+  "monthlyListeners": 29,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 3,
+        "numberOfListeners": 2,
         "region": "ENG"
       },
       {
-        "city": "Munich",
-        "country": "DE",
-        "numberOfListeners": 2,
-        "region": "BY"
-      },
-      {
-        "city": "Belo Horizonte",
-        "country": "BR",
+        "city": "Neuquén",
+        "country": "AR",
         "numberOfListeners": 1,
-        "region": "MG"
+        "region": "Q"
       },
       {
-        "city": "Varna",
-        "country": "BG",
+        "city": "Quilmes",
+        "country": "AR",
         "numberOfListeners": 1,
-        "region": "03"
+        "region": "B"
       },
       {
-        "city": "Serres",
-        "country": "GR",
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 1,
+        "region": "B"
+      },
+      {
+        "city": "Lomas de Zamora",
+        "country": "AR",
         "numberOfListeners": 1,
         "region": "B"
       }

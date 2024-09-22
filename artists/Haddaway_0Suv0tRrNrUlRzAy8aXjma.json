@@ -1,38 +1,38 @@
 {
   "id": "0Suv0tRrNrUlRzAy8aXjma",
   "name": "Haddaway",
-  "followers": 389292,
-  "monthlyListeners": 10507647,
+  "followers": 389543,
+  "monthlyListeners": 10446521,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 273526,
+        "numberOfListeners": 270621,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 157799,
+        "numberOfListeners": 156557,
         "region": "CMX"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 151587,
+        "numberOfListeners": 150605,
         "region": "SP"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 151168,
+        "numberOfListeners": 150542,
         "region": "LMA"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 97259,
+        "numberOfListeners": 96538,
         "region": "DC"
       }
     ]

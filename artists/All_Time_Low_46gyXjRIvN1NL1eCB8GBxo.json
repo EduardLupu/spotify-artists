@@ -1,38 +1,38 @@
 {
   "id": "46gyXjRIvN1NL1eCB8GBxo",
   "name": "All Time Low",
-  "followers": 3051505,
-  "monthlyListeners": 7970396,
+  "followers": 3051991,
+  "monthlyListeners": 8051380,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 136853,
+        "numberOfListeners": 136863,
         "region": "ENG"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 120566,
+        "numberOfListeners": 121007,
         "region": "JK"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 113804,
+        "numberOfListeners": 114546,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 104381,
+        "numberOfListeners": 104919,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 98326,
+        "numberOfListeners": 98643,
         "region": "VIC"
       }
     ]

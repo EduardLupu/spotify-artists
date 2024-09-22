@@ -1,38 +1,38 @@
 {
   "id": "47TMF0JlFsz01KilGzc5Ly",
   "name": "Kalan.FrFr",
-  "followers": 123165,
-  "monthlyListeners": 782522,
+  "followers": 123206,
+  "monthlyListeners": 780655,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 75218,
+        "numberOfListeners": 74918,
         "region": "CA"
       },
       {
         "city": "Sacramento",
         "country": "US",
-        "numberOfListeners": 24319,
+        "numberOfListeners": 24029,
         "region": "CA"
       },
       {
         "city": "San Diego",
         "country": "US",
-        "numberOfListeners": 21852,
+        "numberOfListeners": 22099,
         "region": "CA"
       },
       {
         "city": "Riverside",
         "country": "US",
-        "numberOfListeners": 21843,
+        "numberOfListeners": 21715,
         "region": "CA"
       },
       {
         "city": "San Francisco",
         "country": "US",
-        "numberOfListeners": 21411,
+        "numberOfListeners": 21400,
         "region": "CA"
       }
     ]

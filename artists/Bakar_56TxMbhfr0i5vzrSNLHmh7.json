@@ -1,14 +1,14 @@
 {
   "id": "56TxMbhfr0i5vzrSNLHmh7",
   "name": "Bakar",
-  "followers": 6419,
-  "monthlyListeners": 18094,
+  "followers": 6421,
+  "monthlyListeners": 18090,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 2973,
+        "numberOfListeners": 2994,
         "region": "IDF"
       },
       {
@@ -20,19 +20,19 @@
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 555,
+        "numberOfListeners": 562,
         "region": "ARA"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 456,
+        "numberOfListeners": 455,
         "region": "HDF"
       },
       {
         "city": "Nantes",
         "country": "FR",
-        "numberOfListeners": 364,
+        "numberOfListeners": 362,
         "region": "PDL"
       }
     ]

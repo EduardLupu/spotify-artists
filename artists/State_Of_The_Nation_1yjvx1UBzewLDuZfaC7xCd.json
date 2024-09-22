@@ -18,22 +18,22 @@
         "region": "BE"
       },
       {
-        "city": "Durango",
+        "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 3,
-        "region": "CO"
-      },
-      {
-        "city": "Jacksonville",
-        "country": "US",
-        "numberOfListeners": 3,
-        "region": "FL"
+        "numberOfListeners": 4,
+        "region": "CA"
       },
       {
         "city": "Seattle",
         "country": "US",
         "numberOfListeners": 3,
         "region": "WA"
+      },
+      {
+        "city": "Jacksonville",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "FL"
       }
     ]
   },

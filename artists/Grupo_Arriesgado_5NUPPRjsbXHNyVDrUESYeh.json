@@ -1,39 +1,39 @@
 {
   "id": "5NUPPRjsbXHNyVDrUESYeh",
   "name": "Grupo Arriesgado",
-  "followers": 1165055,
-  "monthlyListeners": 3856669,
+  "followers": 1165485,
+  "monthlyListeners": 3860553,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 258496,
+        "numberOfListeners": 257604,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 217909,
+        "numberOfListeners": 217703,
         "region": "JAL"
       },
       {
         "city": "Tijuana",
         "country": "MX",
-        "numberOfListeners": 155307,
+        "numberOfListeners": 155411,
         "region": "BCN"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 146575,
+        "numberOfListeners": 145541,
         "region": "QUE"
       },
       {
-        "city": "Zapopan",
+        "city": "Monterrey",
         "country": "MX",
-        "numberOfListeners": 138002,
-        "region": "JAL"
+        "numberOfListeners": 139123,
+        "region": "NLE"
       }
     ]
   },

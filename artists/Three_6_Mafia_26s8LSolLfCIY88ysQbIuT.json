@@ -1,38 +1,38 @@
 {
   "id": "26s8LSolLfCIY88ysQbIuT",
   "name": "Three 6 Mafia",
-  "followers": 1352731,
-  "monthlyListeners": 3424947,
+  "followers": 1353062,
+  "monthlyListeners": 3417034,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 79072,
+        "numberOfListeners": 78605,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 74258,
+        "numberOfListeners": 74119,
+        "region": "TX"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 60873,
         "region": "TX"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 61070,
+        "numberOfListeners": 60764,
         "region": "CA"
-      },
-      {
-        "city": "Houston",
-        "country": "US",
-        "numberOfListeners": 61051,
-        "region": "TX"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 52983,
+        "numberOfListeners": 53078,
         "region": "AZ"
       }
     ]

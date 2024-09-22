@@ -1,41 +1,41 @@
 {
   "id": "3MZsBdqDrRTJihTHQrO6Dq",
   "name": "Joji",
-  "followers": 9776562,
-  "monthlyListeners": 20326982,
+  "followers": 9778987,
+  "monthlyListeners": 20376489,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 885824,
+        "numberOfListeners": 895318,
         "region": "JK"
       },
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 251014,
+        "numberOfListeners": 254647,
         "region": "00"
       },
       {
         "city": "Kuala Lumpur",
         "country": "MY",
-        "numberOfListeners": 230793,
+        "numberOfListeners": 232428,
         "region": "14"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 208733,
+        "numberOfListeners": 208694,
         "region": "CA"
       },
       {
         "city": "Bandung",
         "country": "ID",
-        "numberOfListeners": 205609,
+        "numberOfListeners": 207286,
         "region": "JB"
       }
     ]
   },
-  "worldRank": 346
+  "worldRank": 345
 }

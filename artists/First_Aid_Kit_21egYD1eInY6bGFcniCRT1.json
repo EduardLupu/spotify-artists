@@ -1,39 +1,39 @@
 {
   "id": "21egYD1eInY6bGFcniCRT1",
   "name": "First Aid Kit",
-  "followers": 1212840,
-  "monthlyListeners": 2653444,
+  "followers": 1212993,
+  "monthlyListeners": 2642524,
   "topCities": {
     "items": [
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 96467,
+        "numberOfListeners": 96564,
         "region": "AB"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 59775,
+        "numberOfListeners": 59345,
         "region": "ENG"
       },
       {
         "city": "Gothenburg",
         "country": "SE",
-        "numberOfListeners": 40171,
+        "numberOfListeners": 40209,
         "region": "O"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 35493,
+        "numberOfListeners": 35407,
         "region": "NSW"
       },
       {
-        "city": "Oslo",
-        "country": "NO",
-        "numberOfListeners": 34905,
-        "region": "03"
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 34889,
+        "region": "NH"
       }
     ]
   },

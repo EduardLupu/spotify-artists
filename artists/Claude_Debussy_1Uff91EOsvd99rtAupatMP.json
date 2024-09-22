@@ -1,38 +1,38 @@
 {
   "id": "1Uff91EOsvd99rtAupatMP",
   "name": "Claude Debussy",
-  "followers": 1558579,
-  "monthlyListeners": 5418781,
+  "followers": 1558868,
+  "monthlyListeners": 5431811,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 68494,
+        "numberOfListeners": 68597,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 54706,
+        "numberOfListeners": 54672,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 52662,
+        "numberOfListeners": 52661,
         "region": "NSW"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 50365,
+        "numberOfListeners": 50740,
         "region": "NY"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 50218,
+        "numberOfListeners": 50614,
         "region": "IDF"
       }
     ]

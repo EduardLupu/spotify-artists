@@ -1,39 +1,39 @@
 {
   "id": "5c4d0pm4eI0no80Sd56d1b",
   "name": "Rigoberto Amaya",
-  "followers": 25114,
-  "monthlyListeners": 21342,
+  "followers": 25118,
+  "monthlyListeners": 21138,
   "topCities": {
     "items": [
       {
         "city": "San José",
         "country": "CR",
-        "numberOfListeners": 1693,
+        "numberOfListeners": 1674,
         "region": "SJ"
       },
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 1334,
+        "numberOfListeners": 1282,
         "region": "GU"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 917,
+        "numberOfListeners": 900,
         "region": "DC"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 564,
+        "region": "01"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 562,
-        "region": "LMA"
-      },
-      {
-        "city": "Managua",
-        "country": "NI",
         "numberOfListeners": 556,
-        "region": "MN"
+        "region": "LMA"
       }
     ]
   },

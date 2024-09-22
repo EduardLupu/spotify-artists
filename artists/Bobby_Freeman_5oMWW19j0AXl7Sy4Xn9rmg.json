@@ -1,38 +1,38 @@
 {
   "id": "5oMWW19j0AXl7Sy4Xn9rmg",
   "name": "Bobby Freeman",
-  "followers": 14754,
-  "monthlyListeners": 68491,
+  "followers": 14759,
+  "monthlyListeners": 68017,
   "topCities": {
     "items": [
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 972,
+        "numberOfListeners": 982,
         "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 941,
+        "numberOfListeners": 944,
         "region": "NSW"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 780,
+        "numberOfListeners": 783,
         "region": "QLD"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 739,
+        "numberOfListeners": 717,
         "region": "CA"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 722,
+        "numberOfListeners": 715,
         "region": "ON"
       }
     ]

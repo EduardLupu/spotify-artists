@@ -1,38 +1,38 @@
 {
   "id": "4sj6D0zlMOl25nprDJBiU9",
   "name": "Andy Williams",
-  "followers": 542866,
-  "monthlyListeners": 2144894,
+  "followers": 542983,
+  "monthlyListeners": 2164093,
   "topCities": {
     "items": [
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 41465,
+        "numberOfListeners": 42257,
         "region": "00"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 35147,
+        "numberOfListeners": 35417,
         "region": "JK"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 28303,
+        "numberOfListeners": 28408,
         "region": "ENG"
       },
       {
         "city": "Manila",
         "country": "PH",
-        "numberOfListeners": 20813,
+        "numberOfListeners": 21206,
         "region": "00"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 19953,
+        "numberOfListeners": 19977,
         "region": "NSW"
       }
     ]

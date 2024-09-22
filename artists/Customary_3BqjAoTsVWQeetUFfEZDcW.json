@@ -2,7 +2,7 @@
   "id": "3BqjAoTsVWQeetUFfEZDcW",
   "name": "Customary",
   "followers": 543,
-  "monthlyListeners": 411,
+  "monthlyListeners": 410,
   "topCities": {
     "items": [
       {
@@ -12,13 +12,13 @@
         "region": "OR"
       },
       {
-        "city": "Houston",
+        "city": "Dallas",
         "country": "US",
         "numberOfListeners": 7,
         "region": "TX"
       },
       {
-        "city": "Dallas",
+        "city": "Houston",
         "country": "US",
         "numberOfListeners": 7,
         "region": "TX"
@@ -26,14 +26,14 @@
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 7,
+        "numberOfListeners": 6,
         "region": "WA"
       },
       {
-        "city": "Toronto",
-        "country": "CA",
+        "city": "Las Vegas",
+        "country": "US",
         "numberOfListeners": 6,
-        "region": "ON"
+        "region": "NV"
       }
     ]
   },

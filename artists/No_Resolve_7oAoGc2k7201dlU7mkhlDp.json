@@ -1,38 +1,38 @@
 {
   "id": "7oAoGc2k7201dlU7mkhlDp",
   "name": "No Resolve",
-  "followers": 323847,
-  "monthlyListeners": 1004218,
+  "followers": 323937,
+  "monthlyListeners": 1008699,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 12435,
+        "numberOfListeners": 12411,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 12097,
+        "numberOfListeners": 12144,
         "region": "NSW"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 11590,
+        "numberOfListeners": 11606,
         "region": "QLD"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 11343,
+        "numberOfListeners": 11333,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 10574,
+        "numberOfListeners": 10602,
         "region": "VIC"
       }
     ]

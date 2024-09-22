@@ -1,38 +1,38 @@
 {
   "id": "70LmgRdYKHG2E9owGNTDbB",
   "name": "Heavy C",
-  "followers": 90887,
-  "monthlyListeners": 23083,
+  "followers": 90906,
+  "monthlyListeners": 23061,
   "topCities": {
     "items": [
       {
         "city": "Luanda",
         "country": "AO",
-        "numberOfListeners": 11893,
+        "numberOfListeners": 11908,
         "region": "LUA"
       },
       {
         "city": "Lisbon",
         "country": "PT",
-        "numberOfListeners": 1968,
+        "numberOfListeners": 1954,
         "region": "11"
       },
       {
         "city": "Maputo",
         "country": "MZ",
-        "numberOfListeners": 1870,
+        "numberOfListeners": 1881,
         "region": "MPM"
       },
       {
         "city": "Porto",
         "country": "PT",
-        "numberOfListeners": 511,
+        "numberOfListeners": 528,
         "region": "13"
       },
       {
         "city": "Johannesburg",
         "country": "ZA",
-        "numberOfListeners": 216,
+        "numberOfListeners": 210,
         "region": "GP"
       }
     ]

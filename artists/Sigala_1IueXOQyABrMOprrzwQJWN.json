@@ -1,38 +1,38 @@
 {
   "id": "1IueXOQyABrMOprrzwQJWN",
   "name": "Sigala",
-  "followers": 1564848,
-  "monthlyListeners": 8248759,
+  "followers": 1564944,
+  "monthlyListeners": 8236597,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 236572,
+        "numberOfListeners": 234824,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 135799,
+        "numberOfListeners": 136070,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 106908,
+        "numberOfListeners": 107066,
         "region": "VIC"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 97183,
+        "numberOfListeners": 97122,
         "region": "L"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 96533,
+        "numberOfListeners": 97071,
         "region": "NH"
       }
     ]

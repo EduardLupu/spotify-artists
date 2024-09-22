@@ -1,20 +1,20 @@
 {
   "id": "0lHUdnVoTK5UPpOu4bE4g5",
   "name": "Luche",
-  "followers": 535,
+  "followers": 536,
   "monthlyListeners": 1228,
   "topCities": {
     "items": [
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 116,
+        "numberOfListeners": 114,
         "region": "BRU"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 86,
+        "numberOfListeners": 87,
         "region": "IDF"
       },
       {
@@ -24,16 +24,16 @@
         "region": "ARA"
       },
       {
-        "city": "Nantes",
-        "country": "FR",
-        "numberOfListeners": 28,
-        "region": "PDL"
-      },
-      {
         "city": "Toulouse",
         "country": "FR",
-        "numberOfListeners": 27,
+        "numberOfListeners": 31,
         "region": "OCC"
+      },
+      {
+        "city": "Nantes",
+        "country": "FR",
+        "numberOfListeners": 27,
+        "region": "PDL"
       }
     ]
   },

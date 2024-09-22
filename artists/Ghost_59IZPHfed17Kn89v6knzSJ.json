@@ -1,38 +1,38 @@
 {
   "id": "59IZPHfed17Kn89v6knzSJ",
   "name": "Ghost",
-  "followers": 4425,
-  "monthlyListeners": 2738,
+  "followers": 4428,
+  "monthlyListeners": 2766,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 52,
+        "numberOfListeners": 51,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 49,
+        "numberOfListeners": 51,
         "region": "ENG"
       },
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 49,
+        "numberOfListeners": 48,
         "region": "13"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 44,
+        "numberOfListeners": 42,
         "region": "NY"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 40,
+        "numberOfListeners": 42,
         "region": "VIC"
       }
     ]

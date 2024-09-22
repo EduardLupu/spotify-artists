@@ -1,38 +1,38 @@
 {
   "id": "3KcV1kKG7Y0Gq7xPAGVjkZ",
   "name": "Drexciya",
-  "followers": 56368,
-  "monthlyListeners": 43313,
+  "followers": 56382,
+  "monthlyListeners": 43292,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1264,
+        "numberOfListeners": 1261,
         "region": "ENG"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 1248,
+        "numberOfListeners": 1250,
         "region": "BE"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 837,
+        "numberOfListeners": 834,
         "region": "NH"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 759,
+        "numberOfListeners": 772,
         "region": "IDF"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 716,
+        "numberOfListeners": 721,
         "region": "VIC"
       }
     ]

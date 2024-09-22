@@ -1,38 +1,38 @@
 {
   "id": "2OFpmma3V9yxT5XXgytGns",
   "name": "Lone Justice",
-  "followers": 11189,
-  "monthlyListeners": 24481,
+  "followers": 11195,
+  "monthlyListeners": 24398,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 398,
+        "numberOfListeners": 394,
         "region": "CA"
-      },
-      {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 375,
-        "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 369,
+        "numberOfListeners": 366,
         "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 363,
+        "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 358,
+        "numberOfListeners": 353,
         "region": "ENG"
       },
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 306,
+        "numberOfListeners": 307,
         "region": "AB"
       }
     ]

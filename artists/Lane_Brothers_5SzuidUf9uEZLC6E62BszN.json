@@ -1,39 +1,39 @@
 {
   "id": "5SzuidUf9uEZLC6E62BszN",
   "name": "Lane Brothers",
-  "followers": 588,
-  "monthlyListeners": 9066,
+  "followers": 589,
+  "monthlyListeners": 9165,
   "topCities": {
     "items": [
       {
         "city": "Bangkok",
         "country": "TH",
-        "numberOfListeners": 386,
+        "numberOfListeners": 384,
         "region": "10"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 262,
+        "numberOfListeners": 252,
         "region": "JK"
       },
       {
         "city": "Taipei",
         "country": "TW",
-        "numberOfListeners": 170,
+        "numberOfListeners": 169,
         "region": "TPE"
       },
       {
         "city": "Singapore",
         "country": "SG",
-        "numberOfListeners": 149,
+        "numberOfListeners": 148,
         "region": ""
       },
       {
-        "city": "Melbourne",
-        "country": "AU",
+        "city": "Tokyo",
+        "country": "JP",
         "numberOfListeners": 114,
-        "region": "VIC"
+        "region": "13"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "7ydulAijh9CshP34VMrzuy",
   "name": "Amesty",
-  "followers": 1048,
-  "monthlyListeners": 30076,
+  "followers": 1050,
+  "monthlyListeners": 30158,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 1996,
+        "numberOfListeners": 2020,
         "region": "DC"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1489,
+        "numberOfListeners": 1476,
         "region": "RM"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 1171,
+        "numberOfListeners": 1170,
         "region": "LMA"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 997,
+        "numberOfListeners": 1000,
         "region": "CMX"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 741,
+        "numberOfListeners": 738,
         "region": "ANT"
       }
     ]

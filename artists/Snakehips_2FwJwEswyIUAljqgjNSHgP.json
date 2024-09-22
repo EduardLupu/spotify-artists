@@ -1,38 +1,38 @@
 {
   "id": "2FwJwEswyIUAljqgjNSHgP",
   "name": "Snakehips",
-  "followers": 360202,
-  "monthlyListeners": 4273337,
+  "followers": 360243,
+  "monthlyListeners": 4189909,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 130516,
+        "numberOfListeners": 129473,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 103548,
+        "numberOfListeners": 102551,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 85156,
+        "numberOfListeners": 84617,
         "region": "QLD"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 83553,
+        "numberOfListeners": 81687,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 63457,
+        "numberOfListeners": 62176,
         "region": "CA"
       }
     ]

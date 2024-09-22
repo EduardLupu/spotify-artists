@@ -1,39 +1,39 @@
 {
   "id": "0HzDn36ZNGZBYOGWp96Eeh",
   "name": "Nuvolascura",
-  "followers": 13198,
-  "monthlyListeners": 33189,
+  "followers": 13201,
+  "monthlyListeners": 32969,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1319,
+        "numberOfListeners": 1303,
         "region": "CA"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 574,
+        "numberOfListeners": 560,
         "region": "AZ"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 553,
+        "numberOfListeners": 548,
         "region": "IL"
-      },
-      {
-        "city": "Houston",
-        "country": "US",
-        "numberOfListeners": 488,
-        "region": "TX"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 487,
+        "numberOfListeners": 486,
         "region": "NY"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 485,
+        "region": "TX"
       }
     ]
   },

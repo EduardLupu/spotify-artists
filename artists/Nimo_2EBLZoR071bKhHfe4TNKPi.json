@@ -2,37 +2,37 @@
   "id": "2EBLZoR071bKhHfe4TNKPi",
   "name": "Nimo",
   "followers": 6510,
-  "monthlyListeners": 15828,
+  "monthlyListeners": 15806,
   "topCities": {
     "items": [
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 5452,
+        "numberOfListeners": 5443,
         "region": "AB"
       },
       {
         "city": "Gothenburg",
         "country": "SE",
-        "numberOfListeners": 1615,
+        "numberOfListeners": 1634,
         "region": "O"
       },
       {
         "city": "Malmo",
         "country": "SE",
-        "numberOfListeners": 1071,
+        "numberOfListeners": 1078,
         "region": "M"
       },
       {
         "city": "Uppsala",
         "country": "SE",
-        "numberOfListeners": 287,
+        "numberOfListeners": 283,
         "region": "C"
       },
       {
         "city": "Umeå",
         "country": "SE",
-        "numberOfListeners": 253,
+        "numberOfListeners": 250,
         "region": "AC"
       }
     ]

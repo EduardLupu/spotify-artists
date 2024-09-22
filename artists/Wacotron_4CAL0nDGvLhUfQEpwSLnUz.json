@@ -1,38 +1,38 @@
 {
   "id": "4CAL0nDGvLhUfQEpwSLnUz",
   "name": "Wacotron",
-  "followers": 74020,
-  "monthlyListeners": 1005039,
+  "followers": 74079,
+  "monthlyListeners": 1001850,
   "topCities": {
     "items": [
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 30637,
+        "numberOfListeners": 30493,
         "region": "TX"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 22507,
+        "numberOfListeners": 22270,
         "region": "IL"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 21682,
+        "numberOfListeners": 21561,
         "region": "TX"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 20884,
+        "numberOfListeners": 20859,
         "region": "NC"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 18663,
+        "numberOfListeners": 18543,
         "region": "GA"
       }
     ]

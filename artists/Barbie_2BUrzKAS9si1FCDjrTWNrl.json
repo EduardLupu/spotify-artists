@@ -1,38 +1,38 @@
 {
   "id": "2BUrzKAS9si1FCDjrTWNrl",
   "name": "Barbie",
-  "followers": 247910,
-  "monthlyListeners": 737528,
+  "followers": 248028,
+  "monthlyListeners": 735329,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 17661,
+        "numberOfListeners": 17679,
         "region": "JK"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 16069,
+        "numberOfListeners": 15980,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 11735,
+        "numberOfListeners": 11906,
         "region": "HH"
       },
       {
         "city": "Bangkok",
         "country": "TH",
-        "numberOfListeners": 11257,
+        "numberOfListeners": 11278,
         "region": "10"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 10544,
+        "numberOfListeners": 10513,
         "region": "NSW"
       }
     ]

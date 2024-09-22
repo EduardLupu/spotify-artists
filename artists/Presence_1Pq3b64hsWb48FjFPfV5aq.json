@@ -1,38 +1,38 @@
 {
   "id": "1Pq3b64hsWb48FjFPfV5aq",
   "name": "Presence",
-  "followers": 83265,
-  "monthlyListeners": 270330,
+  "followers": 83287,
+  "monthlyListeners": 270177,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 3944,
+        "numberOfListeners": 3946,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 3385,
+        "numberOfListeners": 3367,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 3020,
+        "numberOfListeners": 3006,
         "region": "QLD"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2913,
+        "numberOfListeners": 2906,
         "region": "IL"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 2497,
+        "numberOfListeners": 2505,
         "region": "CO"
       }
     ]

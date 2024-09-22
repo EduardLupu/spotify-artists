@@ -1,38 +1,38 @@
 {
   "id": "3wQ87Cx3N17p9LuaqgWpEE",
   "name": "Sal Houdini",
-  "followers": 30909,
-  "monthlyListeners": 86396,
+  "followers": 30910,
+  "monthlyListeners": 86294,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 4085,
+        "numberOfListeners": 4071,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 3189,
+        "numberOfListeners": 3174,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 2901,
+        "numberOfListeners": 2879,
         "region": "ENG"
       },
       {
         "city": "Dubai",
         "country": "AE",
-        "numberOfListeners": 2265,
+        "numberOfListeners": 2269,
         "region": "DU"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 2200,
+        "numberOfListeners": 2188,
         "region": "ON"
       }
     ]

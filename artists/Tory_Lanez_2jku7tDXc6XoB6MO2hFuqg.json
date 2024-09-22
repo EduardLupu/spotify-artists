@@ -1,41 +1,41 @@
 {
   "id": "2jku7tDXc6XoB6MO2hFuqg",
   "name": "Tory Lanez",
-  "followers": 7009064,
-  "monthlyListeners": 22655731,
+  "followers": 7012036,
+  "monthlyListeners": 22645473,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 462778,
+        "numberOfListeners": 462102,
         "region": "ENG"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 373734,
+        "numberOfListeners": 374163,
         "region": "ON"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 357559,
+        "numberOfListeners": 357550,
         "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 314337,
+        "numberOfListeners": 313488,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 310862,
+        "numberOfListeners": 312140,
         "region": "NY"
       }
     ]
   },
-  "worldRank": 282
+  "worldRank": 280
 }

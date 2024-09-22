@@ -2,7 +2,7 @@
   "id": "5PNtr5pexaytQ0Kak06pAE",
   "name": "JoJo",
   "followers": 7,
-  "monthlyListeners": 62,
+  "monthlyListeners": 64,
   "topCities": {
     "items": [
       {
@@ -10,12 +10,6 @@
         "country": "DK",
         "numberOfListeners": 2,
         "region": "84"
-      },
-      {
-        "city": "Berlin",
-        "country": "DE",
-        "numberOfListeners": 2,
-        "region": "BE"
       },
       {
         "city": "Denver",
@@ -30,10 +24,16 @@
         "region": "ENG"
       },
       {
-        "city": "Hong Kong",
-        "country": "HK",
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 2,
+        "region": "VIC"
+      },
+      {
+        "city": "Frederiksberg",
+        "country": "DK",
         "numberOfListeners": 1,
-        "region": ""
+        "region": "84"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "1VF2jmv5aWGszBtIVPt2fT",
   "name": "Shoby",
-  "followers": 12548,
-  "monthlyListeners": 1077454,
+  "followers": 12550,
+  "monthlyListeners": 1074006,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 18219,
+        "numberOfListeners": 18161,
         "region": "SP"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 17497,
+        "numberOfListeners": 17349,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 10666,
+        "numberOfListeners": 10585,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 10425,
+        "numberOfListeners": 10460,
         "region": "NSW"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 10177,
+        "numberOfListeners": 10210,
         "region": "NH"
       }
     ]

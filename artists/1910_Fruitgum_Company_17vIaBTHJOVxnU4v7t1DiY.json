@@ -1,38 +1,38 @@
 {
   "id": "17vIaBTHJOVxnU4v7t1DiY",
   "name": "1910 Fruitgum Company",
-  "followers": 38349,
-  "monthlyListeners": 48153,
+  "followers": 38355,
+  "monthlyListeners": 47935,
   "topCities": {
     "items": [
       {
         "city": "Bangkok",
         "country": "TH",
-        "numberOfListeners": 1221,
+        "numberOfListeners": 1228,
         "region": "10"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 1034,
+        "numberOfListeners": 1036,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 954,
+        "numberOfListeners": 949,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 893,
+        "numberOfListeners": 887,
         "region": "QLD"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 880,
+        "numberOfListeners": 874,
         "region": "CMX"
       }
     ]

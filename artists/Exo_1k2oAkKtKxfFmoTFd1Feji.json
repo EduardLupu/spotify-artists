@@ -1,26 +1,26 @@
 {
   "id": "1k2oAkKtKxfFmoTFd1Feji",
   "name": "Exo",
-  "followers": 15447,
-  "monthlyListeners": 33534,
+  "followers": 15460,
+  "monthlyListeners": 33511,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 3172,
+        "numberOfListeners": 3176,
         "region": "IDF"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 1810,
+        "numberOfListeners": 1818,
         "region": "QC"
       },
       {
         "city": "Abidjan",
         "country": "CI",
-        "numberOfListeners": 1625,
+        "numberOfListeners": 1630,
         "region": "AB"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 1230,
+        "numberOfListeners": 1227,
         "region": "BRU"
       }
     ]

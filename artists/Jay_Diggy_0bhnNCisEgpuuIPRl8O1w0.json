@@ -2,38 +2,38 @@
   "id": "0bhnNCisEgpuuIPRl8O1w0",
   "name": "Jay Diggy",
   "followers": 2631,
-  "monthlyListeners": 8645,
+  "monthlyListeners": 8641,
   "topCities": {
     "items": [
       {
         "city": "New Orleans",
         "country": "US",
-        "numberOfListeners": 542,
+        "numberOfListeners": 531,
         "region": "LA"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 490,
-        "region": "TX"
-      },
-      {
-        "city": "Dallas",
-        "country": "US",
-        "numberOfListeners": 259,
+        "numberOfListeners": 489,
         "region": "TX"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 257,
+        "numberOfListeners": 259,
         "region": "GA"
       },
       {
-        "city": "Baton Rouge",
+        "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 187,
-        "region": "LA"
+        "numberOfListeners": 258,
+        "region": "TX"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 188,
+        "region": "PA"
       }
     ]
   },

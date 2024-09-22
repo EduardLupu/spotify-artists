@@ -24,16 +24,16 @@
         "region": "SA"
       },
       {
-        "city": "Bacolod City",
-        "country": "PH",
+        "city": "London",
+        "country": "GB",
         "numberOfListeners": 1,
-        "region": "06"
+        "region": "ENG"
       },
       {
-        "city": "Iloilo City",
-        "country": "PH",
+        "city": "Hamburg",
+        "country": "DE",
         "numberOfListeners": 1,
-        "region": "06"
+        "region": "HH"
       }
     ]
   },

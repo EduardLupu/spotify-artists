@@ -2,13 +2,13 @@
   "id": "5GfraSJ3cZKQqoxYoUGM09",
   "name": "DIVINE",
   "followers": 159,
-  "monthlyListeners": 74,
+  "monthlyListeners": 73,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 22,
+        "numberOfListeners": 20,
         "region": "JK"
       },
       {
@@ -30,10 +30,10 @@
         "region": "SN"
       },
       {
-        "city": "Birmingham",
-        "country": "GB",
+        "city": "Santiago",
+        "country": "CL",
         "numberOfListeners": 2,
-        "region": "ENG"
+        "region": "RM"
       }
     ]
   },

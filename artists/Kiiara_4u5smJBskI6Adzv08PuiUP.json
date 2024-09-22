@@ -1,39 +1,39 @@
 {
   "id": "4u5smJBskI6Adzv08PuiUP",
   "name": "Kiiara",
-  "followers": 924751,
-  "monthlyListeners": 3923738,
+  "followers": 924770,
+  "monthlyListeners": 3960831,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 59423,
+        "numberOfListeners": 59542,
         "region": "NSW"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 54836,
+        "numberOfListeners": 55954,
         "region": "JK"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 50291,
+        "numberOfListeners": 50407,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 43854,
+        "numberOfListeners": 43910,
         "region": "QLD"
       },
       {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 38722,
-        "region": "ENG"
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 39132,
+        "region": "SP"
       }
     ]
   },

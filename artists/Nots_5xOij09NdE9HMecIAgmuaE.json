@@ -1,39 +1,39 @@
 {
   "id": "5xOij09NdE9HMecIAgmuaE",
   "name": "Nots",
-  "followers": 9702,
-  "monthlyListeners": 2522,
+  "followers": 9704,
+  "monthlyListeners": 2516,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 83,
+        "numberOfListeners": 78,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 52,
+        "numberOfListeners": 51,
         "region": "IL"
-      },
-      {
-        "city": "Brooklyn",
-        "country": "US",
-        "numberOfListeners": 44,
-        "region": "NY"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 42,
+        "numberOfListeners": 43,
         "region": "WA"
       },
       {
-        "city": "Austin",
+        "city": "Brooklyn",
         "country": "US",
+        "numberOfListeners": 41,
+        "region": "NY"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
         "numberOfListeners": 39,
-        "region": "TX"
+        "region": "BE"
       }
     ]
   },

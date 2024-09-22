@@ -2,19 +2,19 @@
   "id": "0MGolfd00KLbZklj7w4Xfy",
   "name": "Kevin",
   "followers": 150,
-  "monthlyListeners": 974,
+  "monthlyListeners": 977,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 112,
+        "numberOfListeners": 114,
         "region": "SP"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 107,
+        "numberOfListeners": 112,
         "region": "BRU"
       },
       {
@@ -26,14 +26,14 @@
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 46,
+        "numberOfListeners": 45,
         "region": "RJ"
       },
       {
-        "city": "Belo Horizonte",
+        "city": "Salvador",
         "country": "BR",
-        "numberOfListeners": 26,
-        "region": "MG"
+        "numberOfListeners": 24,
+        "region": "BA"
       }
     ]
   },

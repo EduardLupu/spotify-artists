@@ -1,38 +1,38 @@
 {
   "id": "1GbrJTB56Xs4XQGlmVbaCf",
   "name": "Savage",
-  "followers": 51828,
-  "monthlyListeners": 3835284,
+  "followers": 51861,
+  "monthlyListeners": 3812277,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 120178,
+        "numberOfListeners": 120247,
         "region": "NSW"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 100637,
+        "numberOfListeners": 100430,
         "region": "QLD"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 91173,
+        "numberOfListeners": 90936,
         "region": "VIC"
       },
       {
         "city": "Auckland",
         "country": "NZ",
-        "numberOfListeners": 66241,
+        "numberOfListeners": 66382,
         "region": "AUK"
       },
       {
         "city": "Perth",
         "country": "AU",
-        "numberOfListeners": 48548,
+        "numberOfListeners": 48712,
         "region": "WA"
       }
     ]

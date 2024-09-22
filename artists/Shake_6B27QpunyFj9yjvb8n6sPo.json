@@ -1,38 +1,38 @@
 {
   "id": "6B27QpunyFj9yjvb8n6sPo",
   "name": "Shake",
-  "followers": 857,
-  "monthlyListeners": 5494,
+  "followers": 858,
+  "monthlyListeners": 5492,
   "topCities": {
     "items": [
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 1188,
+        "numberOfListeners": 1193,
         "region": "AB"
       },
       {
         "city": "Gothenburg",
         "country": "SE",
-        "numberOfListeners": 606,
+        "numberOfListeners": 612,
         "region": "O"
       },
       {
         "city": "Malmo",
         "country": "SE",
-        "numberOfListeners": 383,
+        "numberOfListeners": 390,
         "region": "M"
       },
       {
         "city": "Umeå",
         "country": "SE",
-        "numberOfListeners": 246,
+        "numberOfListeners": 234,
         "region": "AC"
       },
       {
         "city": "Sundsvall",
         "country": "SE",
-        "numberOfListeners": 109,
+        "numberOfListeners": 111,
         "region": "Y"
       }
     ]

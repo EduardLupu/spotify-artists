@@ -1,39 +1,39 @@
 {
   "id": "3qAPxVwIQRBuz5ImPUxpZT",
   "name": "Heroes Del Silencio",
-  "followers": 2678458,
-  "monthlyListeners": 4589796,
+  "followers": 2679229,
+  "monthlyListeners": 4601002,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 405693,
+        "numberOfListeners": 405671,
         "region": "CMX"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 189148,
+        "numberOfListeners": 189803,
         "region": "DC"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 166175,
+        "numberOfListeners": 169690,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 164460,
+        "numberOfListeners": 164725,
         "region": "RM"
       },
       {
-        "city": "Iztapalapa",
+        "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 150063,
-        "region": "CMX"
+        "numberOfListeners": 148206,
+        "region": "JAL"
       }
     ]
   },

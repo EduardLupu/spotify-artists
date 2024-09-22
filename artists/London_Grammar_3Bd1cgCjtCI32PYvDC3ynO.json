@@ -1,38 +1,38 @@
 {
   "id": "3Bd1cgCjtCI32PYvDC3ynO",
   "name": "London Grammar",
-  "followers": 1564301,
-  "monthlyListeners": 3480830,
+  "followers": 1564731,
+  "monthlyListeners": 3488461,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 141341,
+        "numberOfListeners": 141602,
         "region": "ENG"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 92430,
+        "numberOfListeners": 92864,
         "region": "IDF"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 75122,
+        "numberOfListeners": 75217,
         "region": "NSW"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 71959,
+        "numberOfListeners": 72402,
         "region": "BRU"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 67669,
+        "numberOfListeners": 67686,
         "region": "VIC"
       }
     ]

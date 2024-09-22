@@ -1,26 +1,26 @@
 {
   "id": "5snI6175hjbf6Du8Z2E5Mk",
   "name": "Gallo Rojo",
-  "followers": 3199,
-  "monthlyListeners": 6552,
+  "followers": 3200,
+  "monthlyListeners": 6421,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1166,
+        "numberOfListeners": 1157,
         "region": "CMX"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 477,
+        "numberOfListeners": 463,
         "region": "CMX"
       },
       {
         "city": "Iztapalapa",
         "country": "MX",
-        "numberOfListeners": 476,
+        "numberOfListeners": 462,
         "region": "CMX"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Venustiano Carranza",
         "country": "MX",
-        "numberOfListeners": 240,
+        "numberOfListeners": 237,
         "region": "CMX"
       }
     ]

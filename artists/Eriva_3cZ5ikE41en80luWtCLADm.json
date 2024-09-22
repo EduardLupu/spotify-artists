@@ -2,19 +2,19 @@
   "id": "3cZ5ikE41en80luWtCLADm",
   "name": "Eriva",
   "followers": 342,
-  "monthlyListeners": 7722,
+  "monthlyListeners": 7691,
   "topCities": {
     "items": [
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 145,
+        "numberOfListeners": 144,
         "region": "14"
       },
       {
         "city": "Kyiv",
         "country": "UA",
-        "numberOfListeners": 136,
+        "numberOfListeners": 134,
         "region": "30"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 118,
+        "numberOfListeners": 110,
         "region": "34"
       },
       {
         "city": "Vilnius",
         "country": "LT",
-        "numberOfListeners": 77,
+        "numberOfListeners": 76,
         "region": "VL"
       }
     ]

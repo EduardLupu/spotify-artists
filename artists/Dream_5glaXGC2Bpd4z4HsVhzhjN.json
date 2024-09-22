@@ -1,38 +1,38 @@
 {
   "id": "5glaXGC2Bpd4z4HsVhzhjN",
   "name": "Dream",
-  "followers": 38399,
-  "monthlyListeners": 167145,
+  "followers": 38426,
+  "monthlyListeners": 162380,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 3868,
+        "numberOfListeners": 3710,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 3738,
+        "numberOfListeners": 3647,
         "region": "NY"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 3669,
+        "numberOfListeners": 3549,
         "region": "CA"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 2722,
+        "numberOfListeners": 2650,
         "region": "NY"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 2660,
+        "numberOfListeners": 2589,
         "region": "PA"
       }
     ]

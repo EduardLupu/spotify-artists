@@ -1,38 +1,38 @@
 {
   "id": "0Nc79lkTxXLSIIHDB8mqJC",
   "name": "Tiny Tim",
-  "followers": 119750,
-  "monthlyListeners": 372481,
+  "followers": 119845,
+  "monthlyListeners": 371644,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 3344,
+        "numberOfListeners": 3370,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 3250,
+        "numberOfListeners": 3239,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 3208,
+        "numberOfListeners": 3195,
         "region": "IL"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 2970,
+        "numberOfListeners": 2978,
         "region": "JK"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 2842,
+        "numberOfListeners": 2815,
         "region": "CMX"
       }
     ]

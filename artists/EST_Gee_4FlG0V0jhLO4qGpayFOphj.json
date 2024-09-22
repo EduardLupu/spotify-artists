@@ -1,38 +1,38 @@
 {
   "id": "4FlG0V0jhLO4qGpayFOphj",
   "name": "EST Gee",
-  "followers": 608317,
-  "monthlyListeners": 3274713,
+  "followers": 608586,
+  "monthlyListeners": 3266342,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 78940,
+        "numberOfListeners": 78574,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 59544,
+        "numberOfListeners": 59200,
         "region": "TX"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 57973,
+        "numberOfListeners": 57896,
         "region": "GA"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 55499,
+        "numberOfListeners": 55350,
         "region": "NC"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 53537,
+        "numberOfListeners": 53501,
         "region": "ON"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "3JsMj0DEzyWc0VDlHuy9Bx",
   "name": "Supertramp",
-  "followers": 3549085,
-  "monthlyListeners": 9845325,
+  "followers": 3550536,
+  "monthlyListeners": 9851523,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 178545,
+        "numberOfListeners": 179123,
         "region": "IDF"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 141185,
+        "numberOfListeners": 141504,
         "region": "NSW"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 137103,
+        "numberOfListeners": 138149,
         "region": "NH"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 136968,
+        "numberOfListeners": 136729,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 129785,
+        "numberOfListeners": 129809,
         "region": "ENG"
       }
     ]

@@ -1,41 +1,41 @@
 {
   "id": "44NX2ffIYHr6D4n7RaZF7A",
   "name": "Van Morrison",
-  "followers": 3262415,
-  "monthlyListeners": 19034461,
+  "followers": 3263606,
+  "monthlyListeners": 18991314,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 401514,
+        "numberOfListeners": 401779,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 362740,
+        "numberOfListeners": 360795,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 323238,
+        "numberOfListeners": 322715,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 283485,
+        "numberOfListeners": 283270,
         "region": "QLD"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 218182,
+        "numberOfListeners": 216874,
         "region": "IL"
       }
     ]
   },
-  "worldRank": 394
+  "worldRank": 395
 }

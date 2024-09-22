@@ -1,38 +1,38 @@
 {
   "id": "3EyV2iDrukGWcfAnIeOzxN",
   "name": "Leon",
-  "followers": 5926,
-  "monthlyListeners": 18905,
+  "followers": 5930,
+  "monthlyListeners": 18903,
   "topCities": {
     "items": [
       {
         "city": "Vienna",
         "country": "AT",
-        "numberOfListeners": 1879,
+        "numberOfListeners": 1857,
         "region": "9"
       },
       {
         "city": "Belgrade",
         "country": "RS",
-        "numberOfListeners": 1613,
+        "numberOfListeners": 1598,
         "region": "00"
       },
       {
         "city": "Zagreb",
         "country": "HR",
-        "numberOfListeners": 1525,
+        "numberOfListeners": 1533,
         "region": "21"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 667,
+        "numberOfListeners": 679,
         "region": "BY"
       },
       {
         "city": "Sarajevo",
         "country": "BA",
-        "numberOfListeners": 557,
+        "numberOfListeners": 555,
         "region": "BIH"
       }
     ]

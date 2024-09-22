@@ -1,38 +1,38 @@
 {
   "id": "5uq0Z8ElRQOlg2Yavs3lVd",
   "name": "LEON",
-  "followers": 12220,
-  "monthlyListeners": 36257,
+  "followers": 12223,
+  "monthlyListeners": 36228,
   "topCities": {
     "items": [
       {
         "city": "Seoul",
         "country": "KR",
-        "numberOfListeners": 2235,
+        "numberOfListeners": 2247,
         "region": "11"
       },
       {
         "city": "Gangnam-gu",
         "country": "KR",
-        "numberOfListeners": 1303,
+        "numberOfListeners": 1293,
         "region": "11"
       },
       {
         "city": "Bangkok",
         "country": "TH",
-        "numberOfListeners": 1296,
+        "numberOfListeners": 1283,
         "region": "10"
       },
       {
         "city": "Taipei",
         "country": "TW",
-        "numberOfListeners": 987,
+        "numberOfListeners": 999,
         "region": "TPE"
       },
       {
         "city": "Seocho-gu",
         "country": "KR",
-        "numberOfListeners": 913,
+        "numberOfListeners": 894,
         "region": "11"
       }
     ]

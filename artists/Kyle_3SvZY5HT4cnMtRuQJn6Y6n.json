@@ -6,10 +6,16 @@
   "topCities": {
     "items": [
       {
-        "city": "Shreveport",
+        "city": "Vancouver",
+        "country": "CA",
+        "numberOfListeners": 1,
+        "region": "BC"
+      },
+      {
+        "city": "Tucson",
         "country": "US",
         "numberOfListeners": 1,
-        "region": "LA"
+        "region": "AZ"
       },
       {
         "city": "Macomb",
@@ -18,22 +24,16 @@
         "region": "IL"
       },
       {
-        "city": "Chapel Hill",
+        "city": "Latham",
         "country": "US",
         "numberOfListeners": 1,
-        "region": "NC"
+        "region": "NY"
       },
       {
-        "city": "Urbana",
+        "city": "Chicago",
         "country": "US",
         "numberOfListeners": 1,
         "region": "IL"
-      },
-      {
-        "city": "Tucson",
-        "country": "US",
-        "numberOfListeners": 1,
-        "region": "AZ"
       }
     ]
   },

@@ -1,41 +1,41 @@
 {
   "id": "7EQ0qTo7fWT7DPxmxtSYEc",
   "name": "Bastille",
-  "followers": 5558507,
-  "monthlyListeners": 21924509,
+  "followers": 5559095,
+  "monthlyListeners": 21910074,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 464927,
+        "numberOfListeners": 466288,
         "region": "JK"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 334893,
+        "numberOfListeners": 334175,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 298526,
+        "numberOfListeners": 298183,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 265636,
+        "numberOfListeners": 265747,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 220522,
+        "numberOfListeners": 220350,
         "region": "VIC"
       }
     ]
   },
-  "worldRank": 311
+  "worldRank": 308
 }

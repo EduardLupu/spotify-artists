@@ -1,41 +1,41 @@
 {
   "id": "3aQeKQSyrW4qWr35idm0cy",
   "name": "T-Pain",
-  "followers": 5002699,
-  "monthlyListeners": 16629491,
+  "followers": 5004691,
+  "monthlyListeners": 16626731,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 302658,
+        "numberOfListeners": 302668,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 264294,
+        "numberOfListeners": 263358,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 261934,
+        "numberOfListeners": 261480,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 236076,
+        "numberOfListeners": 234941,
         "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 209745,
+        "numberOfListeners": 209568,
         "region": "VIC"
       }
     ]
   },
-  "worldRank": 486
+  "worldRank": 484
 }

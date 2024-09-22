@@ -1,38 +1,38 @@
 {
   "id": "6biWAmrHyiMkX49LkycGqQ",
   "name": "Thin Lizzy",
-  "followers": 1278517,
-  "monthlyListeners": 3631180,
+  "followers": 1278835,
+  "monthlyListeners": 3619060,
   "topCities": {
     "items": [
       {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 78960,
-        "region": "ENG"
-      },
-      {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 78794,
+        "numberOfListeners": 78568,
         "region": "L"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 78406,
+        "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 61083,
+        "numberOfListeners": 60990,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 53613,
+        "numberOfListeners": 53427,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 45530,
+        "numberOfListeners": 45348,
         "region": "QLD"
       }
     ]

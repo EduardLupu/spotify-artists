@@ -2,13 +2,13 @@
   "id": "0CkGP5VMLTeeV9ObbfeGrE",
   "name": "Alex G",
   "followers": 473,
-  "monthlyListeners": 1180,
+  "monthlyListeners": 1169,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 36,
+        "numberOfListeners": 37,
         "region": "NSW"
       },
       {
@@ -24,16 +24,16 @@
         "region": "25"
       },
       {
-        "city": "Saronno",
-        "country": "IT",
-        "numberOfListeners": 27,
-        "region": "25"
-      },
-      {
         "city": "São Paulo",
         "country": "BR",
         "numberOfListeners": 27,
         "region": "SP"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 23,
+        "region": "QLD"
       }
     ]
   },

@@ -6,10 +6,10 @@
   "topCities": {
     "items": [
       {
-        "city": "Calgary",
-        "country": "CA",
+        "city": "Orlando",
+        "country": "US",
         "numberOfListeners": 1,
-        "region": "AB"
+        "region": "FL"
       },
       {
         "city": "Kolkata",
@@ -18,10 +18,10 @@
         "region": "WB"
       },
       {
-        "city": "Orlando",
-        "country": "US",
+        "city": "Calgary",
+        "country": "CA",
         "numberOfListeners": 1,
-        "region": "FL"
+        "region": "AB"
       }
     ]
   },

@@ -2,20 +2,20 @@
   "id": "1ZgVO2zJfVbMZike5NUzq3",
   "name": "Marku Leone",
   "followers": 445,
-  "monthlyListeners": 1056,
+  "monthlyListeners": 1038,
   "topCities": {
     "items": [
       {
         "city": "Miami",
         "country": "US",
-        "numberOfListeners": 28,
+        "numberOfListeners": 25,
         "region": "FL"
       },
       {
-        "city": "Brooklyn",
+        "city": "Los Angeles",
         "country": "US",
         "numberOfListeners": 17,
-        "region": "NY"
+        "region": "CA"
       },
       {
         "city": "Dallas",
@@ -24,16 +24,16 @@
         "region": "TX"
       },
       {
-        "city": "Los Angeles",
+        "city": "Brooklyn",
         "country": "US",
         "numberOfListeners": 15,
-        "region": "CA"
+        "region": "NY"
       },
       {
-        "city": "Toronto",
-        "country": "CA",
+        "city": "Chicago",
+        "country": "US",
         "numberOfListeners": 13,
-        "region": "ON"
+        "region": "IL"
       }
     ]
   },

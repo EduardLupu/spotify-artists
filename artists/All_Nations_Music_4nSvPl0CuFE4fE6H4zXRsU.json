@@ -1,38 +1,38 @@
 {
   "id": "4nSvPl0CuFE4fE6H4zXRsU",
   "name": "All Nations Music",
-  "followers": 19792,
-  "monthlyListeners": 152444,
+  "followers": 19828,
+  "monthlyListeners": 152021,
   "topCities": {
     "items": [
       {
         "city": "Lagos",
         "country": "NG",
-        "numberOfListeners": 18412,
+        "numberOfListeners": 18315,
         "region": "LA"
       },
       {
         "city": "Johannesburg",
         "country": "ZA",
-        "numberOfListeners": 8060,
+        "numberOfListeners": 8055,
         "region": "GP"
       },
       {
         "city": "Abuja",
         "country": "NG",
-        "numberOfListeners": 7612,
+        "numberOfListeners": 7578,
         "region": "FC"
       },
       {
         "city": "Port Harcourt",
         "country": "NG",
-        "numberOfListeners": 4746,
+        "numberOfListeners": 4755,
         "region": "RI"
       },
       {
         "city": "Cape Town",
         "country": "ZA",
-        "numberOfListeners": 4264,
+        "numberOfListeners": 4227,
         "region": "WC"
       }
     ]

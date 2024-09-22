@@ -1,38 +1,38 @@
 {
   "id": "1CFCsEqKrCyvAFKOATQHiW",
   "name": "Lecrae",
-  "followers": 1280673,
-  "monthlyListeners": 3142450,
+  "followers": 1281190,
+  "monthlyListeners": 3158937,
   "topCities": {
     "items": [
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 57517,
+        "numberOfListeners": 57900,
         "region": "TX"
-      },
-      {
-        "city": "Lagos",
-        "country": "NG",
-        "numberOfListeners": 44816,
-        "region": "LA"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 44616,
+        "numberOfListeners": 44907,
         "region": "NC"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 44694,
+        "region": "LA"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 42446,
+        "numberOfListeners": 42808,
         "region": "GA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 42315,
+        "numberOfListeners": 42528,
         "region": "IL"
       }
     ]

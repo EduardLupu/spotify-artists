@@ -1,38 +1,38 @@
 {
   "id": "4SqTiwOEdYrNayaGMkc7ia",
   "name": "LÉON",
-  "followers": 374159,
-  "monthlyListeners": 1241726,
+  "followers": 374205,
+  "monthlyListeners": 1239398,
   "topCities": {
     "items": [
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 34558,
+        "numberOfListeners": 34613,
         "region": "AB"
       },
       {
         "city": "Oslo",
         "country": "NO",
-        "numberOfListeners": 29880,
+        "numberOfListeners": 29824,
         "region": "03"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 20620,
+        "numberOfListeners": 20653,
         "region": "NY"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 18088,
+        "numberOfListeners": 18042,
         "region": "ENG"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 17457,
+        "numberOfListeners": 17450,
         "region": "NH"
       }
     ]

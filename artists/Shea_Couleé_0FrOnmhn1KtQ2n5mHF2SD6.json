@@ -1,38 +1,38 @@
 {
   "id": "0FrOnmhn1KtQ2n5mHF2SD6",
   "name": "Shea Couleé",
-  "followers": 36148,
-  "monthlyListeners": 41922,
+  "followers": 36150,
+  "monthlyListeners": 41779,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 750,
+        "numberOfListeners": 739,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 741,
+        "numberOfListeners": 735,
         "region": "CA"
-      },
-      {
-        "city": "New York City",
-        "country": "US",
-        "numberOfListeners": 655,
-        "region": "NY"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 653,
+        "numberOfListeners": 657,
         "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 657,
+        "region": "NY"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 623,
+        "numberOfListeners": 627,
         "region": "SP"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "6iswhpc2w6na3lS1vehFXF",
   "name": "Otep",
-  "followers": 417048,
-  "monthlyListeners": 226829,
+  "followers": 417094,
+  "monthlyListeners": 226680,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 3648,
+        "numberOfListeners": 3654,
         "region": "IL"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 2886,
+        "numberOfListeners": 2891,
         "region": "WA"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 2860,
+        "numberOfListeners": 2852,
         "region": "CO"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 2800,
+        "numberOfListeners": 2802,
         "region": "AZ"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 2746,
+        "numberOfListeners": 2727,
         "region": "TX"
       }
     ]

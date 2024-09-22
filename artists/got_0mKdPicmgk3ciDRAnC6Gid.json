@@ -2,25 +2,25 @@
   "id": "0mKdPicmgk3ciDRAnC6Gid",
   "name": "got",
   "followers": 119,
-  "monthlyListeners": 772,
+  "monthlyListeners": 776,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 71,
+        "numberOfListeners": 72,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 37,
+        "numberOfListeners": 39,
         "region": "RJ"
       },
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 28,
+        "numberOfListeners": 29,
         "region": "14"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Wroclaw",
         "country": "PL",
-        "numberOfListeners": 14,
+        "numberOfListeners": 13,
         "region": "02"
       }
     ]

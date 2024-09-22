@@ -1,39 +1,39 @@
 {
   "id": "3ToJJJlCaYBQp1NcG3Db0N",
   "name": "Platinum Moon",
-  "followers": 40736,
-  "monthlyListeners": 47550,
+  "followers": 40742,
+  "monthlyListeners": 47264,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 645,
+        "numberOfListeners": 632,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 506,
+        "numberOfListeners": 504,
         "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 487,
+        "numberOfListeners": 481,
         "region": "VIC"
-      },
-      {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 485,
-        "region": "NSW"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 477,
+        "numberOfListeners": 479,
         "region": "WA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 479,
+        "region": "NSW"
       }
     ]
   },

@@ -1,41 +1,41 @@
 {
   "id": "26dSoYclwsYLMAKD3tpOr4",
   "name": "Britney Spears",
-  "followers": 15198952,
-  "monthlyListeners": 39255101,
+  "followers": 15207069,
+  "monthlyListeners": 39162665,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 523296,
+        "numberOfListeners": 522193,
         "region": "SP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 497829,
+        "numberOfListeners": 495842,
         "region": "ENG"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 480751,
+        "numberOfListeners": 476817,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 464638,
+        "numberOfListeners": 464670,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 419370,
+        "numberOfListeners": 418872,
         "region": "VIC"
       }
     ]
   },
-  "worldRank": 84
+  "worldRank": 83
 }

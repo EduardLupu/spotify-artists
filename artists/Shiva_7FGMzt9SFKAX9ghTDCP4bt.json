@@ -1,14 +1,14 @@
 {
   "id": "7FGMzt9SFKAX9ghTDCP4bt",
   "name": "Shiva",
-  "followers": 1659,
-  "monthlyListeners": 404,
+  "followers": 1662,
+  "monthlyListeners": 408,
   "topCities": {
     "items": [
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 41,
+        "numberOfListeners": 45,
         "region": "13"
       },
       {
@@ -30,10 +30,10 @@
         "region": "23"
       },
       {
-        "city": "Melbourne",
-        "country": "AU",
+        "city": "Roppongi",
+        "country": "JP",
         "numberOfListeners": 5,
-        "region": "VIC"
+        "region": "13"
       }
     ]
   },

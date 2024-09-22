@@ -1,39 +1,39 @@
 {
   "id": "5PeZ1m5v30OjVgzBz6PgHa",
   "name": "Felax",
-  "followers": 26985,
-  "monthlyListeners": 75859,
+  "followers": 26987,
+  "monthlyListeners": 75467,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 1490,
+        "numberOfListeners": 1484,
         "region": "JK"
       },
       {
         "city": "Bengaluru",
         "country": "IN",
-        "numberOfListeners": 1169,
+        "numberOfListeners": 1161,
         "region": "KA"
       },
       {
         "city": "Mumbai",
         "country": "IN",
-        "numberOfListeners": 1154,
+        "numberOfListeners": 1144,
         "region": "MH"
-      },
-      {
-        "city": "Hyderabad",
-        "country": "IN",
-        "numberOfListeners": 768,
-        "region": "TS"
       },
       {
         "city": "Delhi",
         "country": "IN",
-        "numberOfListeners": 762,
+        "numberOfListeners": 768,
         "region": "DL"
+      },
+      {
+        "city": "Hyderabad",
+        "country": "IN",
+        "numberOfListeners": 765,
+        "region": "TS"
       }
     ]
   },

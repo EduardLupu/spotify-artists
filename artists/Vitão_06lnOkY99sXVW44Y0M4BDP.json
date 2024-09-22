@@ -1,38 +1,38 @@
 {
   "id": "06lnOkY99sXVW44Y0M4BDP",
   "name": "Vitão",
-  "followers": 909344,
-  "monthlyListeners": 2412953,
+  "followers": 909362,
+  "monthlyListeners": 2407624,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 392264,
+        "numberOfListeners": 390878,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 206629,
+        "numberOfListeners": 205732,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 102942,
+        "numberOfListeners": 102743,
         "region": "MG"
       },
       {
         "city": "Porto Alegre",
         "country": "BR",
-        "numberOfListeners": 86483,
+        "numberOfListeners": 86396,
         "region": "RS"
       },
       {
         "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 85931,
+        "numberOfListeners": 85888,
         "region": "PR"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "1xU878Z1QtBldR7ru9owdU",
   "name": "Phoenix",
-  "followers": 1936774,
-  "monthlyListeners": 5384056,
+  "followers": 1937153,
+  "monthlyListeners": 5558773,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 147452,
+        "numberOfListeners": 177103,
         "region": "IDF"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 84884,
+        "numberOfListeners": 85174,
         "region": "CA"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 78295,
+        "numberOfListeners": 77983,
         "region": "CMX"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 75876,
+        "numberOfListeners": 75877,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 71455,
+        "numberOfListeners": 72182,
         "region": "NY"
       }
     ]

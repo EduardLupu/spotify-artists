@@ -1,38 +1,38 @@
 {
   "id": "08GQAI4eElDnROBrJRGE0X",
   "name": "Fleetwood Mac",
-  "followers": 12039540,
-  "monthlyListeners": 34699054,
+  "followers": 12044607,
+  "monthlyListeners": 34667598,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 878141,
+        "numberOfListeners": 874804,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 708413,
+        "numberOfListeners": 710145,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 597097,
+        "numberOfListeners": 597297,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 479317,
+        "numberOfListeners": 479538,
         "region": "QLD"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 409741,
+        "numberOfListeners": 410667,
         "region": "NY"
       }
     ]

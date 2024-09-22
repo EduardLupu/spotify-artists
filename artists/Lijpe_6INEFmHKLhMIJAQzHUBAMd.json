@@ -1,39 +1,39 @@
 {
   "id": "6INEFmHKLhMIJAQzHUBAMd",
   "name": "Lijpe",
-  "followers": 552704,
-  "monthlyListeners": 955125,
+  "followers": 552932,
+  "monthlyListeners": 957070,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 370417,
+        "numberOfListeners": 373063,
         "region": "NH"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 315009,
+        "numberOfListeners": 315194,
         "region": "ZH"
       },
       {
         "city": "Utrecht",
         "country": "NL",
-        "numberOfListeners": 152745,
+        "numberOfListeners": 152476,
         "region": "UT"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 68071,
+        "numberOfListeners": 68509,
         "region": "BRU"
       },
       {
-        "city": "Amersfoort",
+        "city": "The Hague",
         "country": "NL",
-        "numberOfListeners": 66937,
-        "region": "UT"
+        "numberOfListeners": 67193,
+        "region": "ZH"
       }
     ]
   },

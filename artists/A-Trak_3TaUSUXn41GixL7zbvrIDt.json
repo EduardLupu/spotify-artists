@@ -1,38 +1,38 @@
 {
   "id": "3TaUSUXn41GixL7zbvrIDt",
   "name": "A-Trak",
-  "followers": 132624,
-  "monthlyListeners": 4479780,
+  "followers": 132656,
+  "monthlyListeners": 4487334,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 82576,
+        "numberOfListeners": 83203,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 76862,
+        "numberOfListeners": 76832,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 74131,
+        "numberOfListeners": 74458,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 50486,
+        "numberOfListeners": 50834,
         "region": "QLD"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 49393,
+        "numberOfListeners": 49390,
         "region": "CA"
       }
     ]

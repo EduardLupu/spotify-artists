@@ -1,20 +1,20 @@
 {
   "id": "1sPm31qmcbk9EFoRCS8eRl",
   "name": "indie tribe",
-  "followers": 46853,
-  "monthlyListeners": 344882,
+  "followers": 46931,
+  "monthlyListeners": 345254,
   "topCities": {
     "items": [
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 8881,
+        "numberOfListeners": 8854,
         "region": "TX"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 6563,
+        "numberOfListeners": 6570,
         "region": "NC"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 6188,
+        "numberOfListeners": 6226,
         "region": "GA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 6156,
+        "numberOfListeners": 6126,
         "region": "IL"
       }
     ]

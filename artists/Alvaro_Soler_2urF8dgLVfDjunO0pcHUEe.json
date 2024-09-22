@@ -1,39 +1,39 @@
 {
   "id": "2urF8dgLVfDjunO0pcHUEe",
   "name": "Alvaro Soler",
-  "followers": 1756387,
-  "monthlyListeners": 5128306,
+  "followers": 1756523,
+  "monthlyListeners": 5101638,
   "topCities": {
     "items": [
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 126457,
+        "numberOfListeners": 126289,
         "region": "MD"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 96828,
+        "numberOfListeners": 95997,
         "region": "BE"
       },
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 86474,
+        "numberOfListeners": 85977,
         "region": "25"
+      },
+      {
+        "city": "Hamburg",
+        "country": "DE",
+        "numberOfListeners": 75335,
+        "region": "HH"
       },
       {
         "city": "Barcelona",
         "country": "ES",
-        "numberOfListeners": 75415,
+        "numberOfListeners": 74930,
         "region": "CT"
-      },
-      {
-        "city": "Frankfurt am Main",
-        "country": "DE",
-        "numberOfListeners": 75148,
-        "region": "HE"
       }
     ]
   },

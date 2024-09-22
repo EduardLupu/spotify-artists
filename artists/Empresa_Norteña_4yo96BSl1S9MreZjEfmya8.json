@@ -1,38 +1,38 @@
 {
   "id": "4yo96BSl1S9MreZjEfmya8",
   "name": "Empresa Norteña",
-  "followers": 59610,
-  "monthlyListeners": 23085,
+  "followers": 59612,
+  "monthlyListeners": 23222,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1522,
+        "numberOfListeners": 1539,
         "region": "CA"
       },
       {
         "city": "Tijuana",
         "country": "MX",
-        "numberOfListeners": 844,
+        "numberOfListeners": 860,
         "region": "BCN"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 839,
+        "numberOfListeners": 834,
         "region": "IL"
       },
       {
         "city": "Durango",
         "country": "MX",
-        "numberOfListeners": 720,
+        "numberOfListeners": 724,
         "region": "DUR"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 705,
+        "numberOfListeners": 711,
         "region": "AZ"
       }
     ]

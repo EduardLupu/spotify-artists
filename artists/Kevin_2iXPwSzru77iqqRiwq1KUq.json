@@ -2,13 +2,13 @@
   "id": "2iXPwSzru77iqqRiwq1KUq",
   "name": "Kevin",
   "followers": 278,
-  "monthlyListeners": 269,
+  "monthlyListeners": 267,
   "topCities": {
     "items": [
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 27,
+        "numberOfListeners": 29,
         "region": "25"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Rome",
         "country": "IT",
-        "numberOfListeners": 13,
+        "numberOfListeners": 15,
         "region": "62"
       },
       {
         "city": "Palermo",
         "country": "IT",
-        "numberOfListeners": 12,
+        "numberOfListeners": 11,
         "region": "82"
       }
     ]

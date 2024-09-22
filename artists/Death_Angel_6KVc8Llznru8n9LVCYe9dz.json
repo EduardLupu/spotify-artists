@@ -1,38 +1,38 @@
 {
   "id": "6KVc8Llznru8n9LVCYe9dz",
   "name": "Death Angel",
-  "followers": 372176,
-  "monthlyListeners": 182378,
+  "followers": 372267,
+  "monthlyListeners": 182117,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 3787,
+        "numberOfListeners": 3726,
         "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 3017,
+        "numberOfListeners": 3007,
         "region": "SP"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 2571,
+        "numberOfListeners": 2564,
         "region": "DC"
       },
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 2394,
+        "numberOfListeners": 2376,
         "region": "34"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1951,
+        "numberOfListeners": 1940,
         "region": "CMX"
       }
     ]

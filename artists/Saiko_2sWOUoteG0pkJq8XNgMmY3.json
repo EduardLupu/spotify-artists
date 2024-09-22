@@ -2,7 +2,7 @@
   "id": "2sWOUoteG0pkJq8XNgMmY3",
   "name": "Saiko",
   "followers": 48,
-  "monthlyListeners": 837,
+  "monthlyListeners": 847,
   "topCities": {
     "items": [
       {
@@ -14,26 +14,26 @@
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 59,
+        "numberOfListeners": 61,
         "region": "B"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 36,
+        "numberOfListeners": 35,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 24,
+        "numberOfListeners": 23,
         "region": "DC"
       },
       {
-        "city": "Mexico City",
-        "country": "MX",
+        "city": "Barcelona",
+        "country": "ES",
         "numberOfListeners": 19,
-        "region": "CMX"
+        "region": "CT"
       }
     ]
   },

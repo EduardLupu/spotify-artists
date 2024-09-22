@@ -1,41 +1,41 @@
 {
   "id": "6icQOAFXDZKsumw3YXyusw",
   "name": "Lil Yachty",
-  "followers": 10161572,
-  "monthlyListeners": 17893843,
+  "followers": 10163790,
+  "monthlyListeners": 17883815,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 347002,
+        "numberOfListeners": 345838,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 338224,
+        "numberOfListeners": 337214,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 291534,
+        "numberOfListeners": 292528,
         "region": "NY"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 277676,
+        "numberOfListeners": 276751,
         "region": "ENG"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 253798,
+        "numberOfListeners": 253800,
         "region": "ON"
       }
     ]
   },
-  "worldRank": 434
+  "worldRank": 433
 }

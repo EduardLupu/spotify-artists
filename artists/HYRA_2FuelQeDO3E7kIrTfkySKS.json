@@ -1,15 +1,21 @@
 {
   "id": "2FuelQeDO3E7kIrTfkySKS",
   "name": "HYRA",
-  "followers": 10979,
-  "monthlyListeners": 43254,
+  "followers": 10987,
+  "monthlyListeners": 43090,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 798,
+        "numberOfListeners": 795,
         "region": "ENG"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 780,
+        "region": "NY"
       },
       {
         "city": "Los Angeles",
@@ -18,22 +24,16 @@
         "region": "CA"
       },
       {
-        "city": "New York City",
-        "country": "US",
-        "numberOfListeners": 773,
-        "region": "NY"
-      },
-      {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 689,
+        "numberOfListeners": 693,
         "region": "NSW"
       },
       {
-        "city": "Melbourne",
-        "country": "AU",
-        "numberOfListeners": 684,
-        "region": "VIC"
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 691,
+        "region": "IL"
       }
     ]
   },

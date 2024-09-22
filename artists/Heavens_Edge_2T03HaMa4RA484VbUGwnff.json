@@ -1,38 +1,38 @@
 {
   "id": "2T03HaMa4RA484VbUGwnff",
   "name": "Heavens Edge",
-  "followers": 9185,
-  "monthlyListeners": 6729,
+  "followers": 9187,
+  "monthlyListeners": 6703,
   "topCities": {
     "items": [
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 133,
+        "numberOfListeners": 126,
         "region": "PA"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 95,
+        "numberOfListeners": 94,
         "region": "SP"
       },
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 82,
+        "numberOfListeners": 87,
         "region": "AB"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 79,
+        "numberOfListeners": 77,
         "region": "IL"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 74,
+        "numberOfListeners": 73,
         "region": "DC"
       }
     ]

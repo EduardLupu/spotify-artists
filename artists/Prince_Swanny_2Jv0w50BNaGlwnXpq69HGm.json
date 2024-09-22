@@ -1,38 +1,38 @@
 {
   "id": "2Jv0w50BNaGlwnXpq69HGm",
   "name": "Prince Swanny",
-  "followers": 133775,
-  "monthlyListeners": 220981,
+  "followers": 133879,
+  "monthlyListeners": 221111,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 18854,
+        "numberOfListeners": 18781,
         "region": "ENG"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 9490,
+        "numberOfListeners": 9518,
         "region": "ON"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 7233,
+        "numberOfListeners": 7191,
         "region": "IDF"
       },
       {
         "city": "Birmingham",
         "country": "GB",
-        "numberOfListeners": 6016,
+        "numberOfListeners": 5977,
         "region": "ENG"
       },
       {
         "city": "Southwark",
         "country": "GB",
-        "numberOfListeners": 5281,
+        "numberOfListeners": 5284,
         "region": "ENG"
       }
     ]

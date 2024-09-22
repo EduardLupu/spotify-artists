@@ -1,38 +1,38 @@
 {
   "id": "1xxS2WrLlgl9QNGEUCsbPG",
   "name": "Tribo da Periferia",
-  "followers": 3523326,
-  "monthlyListeners": 3568682,
+  "followers": 3524710,
+  "monthlyListeners": 3562896,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 544808,
+        "numberOfListeners": 543244,
         "region": "SP"
       },
       {
         "city": "Brasília",
         "country": "BR",
-        "numberOfListeners": 275104,
+        "numberOfListeners": 275334,
         "region": "DF"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 244505,
+        "numberOfListeners": 244751,
         "region": "MG"
       },
       {
         "city": "Campinas",
         "country": "BR",
-        "numberOfListeners": 172223,
+        "numberOfListeners": 172169,
         "region": "SP"
       },
       {
         "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 159826,
+        "numberOfListeners": 159962,
         "region": "PR"
       }
     ]

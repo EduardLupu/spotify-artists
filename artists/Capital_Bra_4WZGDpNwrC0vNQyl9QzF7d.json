@@ -1,38 +1,38 @@
 {
   "id": "4WZGDpNwrC0vNQyl9QzF7d",
   "name": "Capital Bra",
-  "followers": 4304845,
-  "monthlyListeners": 3167536,
+  "followers": 4304974,
+  "monthlyListeners": 3177923,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 325955,
+        "numberOfListeners": 327743,
         "region": "BE"
-      },
-      {
-        "city": "Frankfurt am Main",
-        "country": "DE",
-        "numberOfListeners": 250317,
-        "region": "HE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 243754,
+        "numberOfListeners": 254967,
         "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 251907,
+        "region": "HE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 213705,
+        "numberOfListeners": 216235,
         "region": "BY"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 192375,
+        "numberOfListeners": 197951,
         "region": "BW"
       }
     ]

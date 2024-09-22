@@ -1,38 +1,38 @@
 {
   "id": "0vEsuISMWAKNctLlUAhSZC",
   "name": "Counting Crows",
-  "followers": 1793268,
-  "monthlyListeners": 10970766,
+  "followers": 1793734,
+  "monthlyListeners": 10946959,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 227620,
+        "numberOfListeners": 227877,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 195149,
+        "numberOfListeners": 195215,
         "region": "VIC"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 187849,
+        "numberOfListeners": 187019,
         "region": "SP"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 179715,
+        "numberOfListeners": 179611,
         "region": "QLD"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 128256,
+        "numberOfListeners": 128018,
         "region": "ENG"
       }
     ]

@@ -1,41 +1,41 @@
 {
   "id": "4npEfmQ6YuiwW1GpUmaq3F",
   "name": "Ava Max",
-  "followers": 7079988,
-  "monthlyListeners": 32869749,
+  "followers": 7082901,
+  "monthlyListeners": 33063634,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 631019,
+        "numberOfListeners": 634464,
         "region": "JK"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 364442,
+        "numberOfListeners": 364575,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 360349,
+        "numberOfListeners": 361453,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 303830,
+        "numberOfListeners": 304300,
         "region": "VIC"
       },
       {
-        "city": "São Paulo",
-        "country": "BR",
-        "numberOfListeners": 282373,
-        "region": "SP"
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 285258,
+        "region": "NH"
       }
     ]
   },
-  "worldRank": 129
+  "worldRank": 128
 }

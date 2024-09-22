@@ -1,38 +1,38 @@
 {
   "id": "4UYRRNISm6JdhovfiVvm9h",
   "name": "RiN",
-  "followers": 907,
-  "monthlyListeners": 11414,
+  "followers": 924,
+  "monthlyListeners": 11966,
   "topCities": {
     "items": [
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 2324,
+        "numberOfListeners": 2440,
         "region": "13"
       },
       {
         "city": "Osaka",
         "country": "JP",
-        "numberOfListeners": 918,
+        "numberOfListeners": 958,
         "region": "27"
       },
       {
         "city": "Roppongi",
         "country": "JP",
-        "numberOfListeners": 413,
+        "numberOfListeners": 436,
         "region": "13"
       },
       {
         "city": "Nagoya",
         "country": "JP",
-        "numberOfListeners": 353,
+        "numberOfListeners": 366,
         "region": "23"
       },
       {
         "city": "Yokohama",
         "country": "JP",
-        "numberOfListeners": 250,
+        "numberOfListeners": 259,
         "region": "14"
       }
     ]

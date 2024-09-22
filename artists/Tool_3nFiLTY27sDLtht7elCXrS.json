@@ -2,20 +2,20 @@
   "id": "3nFiLTY27sDLtht7elCXrS",
   "name": "Tool",
   "followers": 402,
-  "monthlyListeners": 979,
+  "monthlyListeners": 994,
   "topCities": {
     "items": [
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 18,
+        "region": "RM"
+      },
       {
         "city": "Melbourne",
         "country": "AU",
         "numberOfListeners": 18,
         "region": "VIC"
-      },
-      {
-        "city": "Santiago",
-        "country": "CL",
-        "numberOfListeners": 17,
-        "region": "RM"
       },
       {
         "city": "Sydney",

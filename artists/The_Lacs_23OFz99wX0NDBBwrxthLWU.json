@@ -1,38 +1,38 @@
 {
   "id": "23OFz99wX0NDBBwrxthLWU",
   "name": "The Lacs",
-  "followers": 585399,
-  "monthlyListeners": 736606,
+  "followers": 585530,
+  "monthlyListeners": 739082,
   "topCities": {
     "items": [
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 17535,
+        "numberOfListeners": 17626,
         "region": "NC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 16257,
+        "numberOfListeners": 16206,
         "region": "IL"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 14319,
+        "numberOfListeners": 14453,
         "region": "GA"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 13467,
+        "numberOfListeners": 13549,
         "region": "TX"
       },
       {
         "city": "Minneapolis",
         "country": "US",
-        "numberOfListeners": 12251,
+        "numberOfListeners": 12224,
         "region": "MN"
       }
     ]

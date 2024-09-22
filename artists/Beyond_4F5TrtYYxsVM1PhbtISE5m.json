@@ -1,38 +1,38 @@
 {
   "id": "4F5TrtYYxsVM1PhbtISE5m",
   "name": "Beyond",
-  "followers": 620229,
-  "monthlyListeners": 764451,
+  "followers": 620631,
+  "monthlyListeners": 764027,
   "topCities": {
     "items": [
       {
         "city": "Singapore",
         "country": "SG",
-        "numberOfListeners": 103806,
+        "numberOfListeners": 103750,
         "region": ""
       },
       {
         "city": "Kuala Lumpur",
         "country": "MY",
-        "numberOfListeners": 79780,
+        "numberOfListeners": 79681,
         "region": "14"
       },
       {
         "city": "Taipei",
         "country": "TW",
-        "numberOfListeners": 50566,
+        "numberOfListeners": 50499,
         "region": "TPE"
       },
       {
         "city": "Petaling Jaya",
         "country": "MY",
-        "numberOfListeners": 23704,
+        "numberOfListeners": 23778,
         "region": "10"
       },
       {
         "city": "Taichung",
         "country": "TW",
-        "numberOfListeners": 21051,
+        "numberOfListeners": 20982,
         "region": "TXG"
       }
     ]

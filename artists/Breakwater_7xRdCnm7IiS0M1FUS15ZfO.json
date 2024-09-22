@@ -1,38 +1,38 @@
 {
   "id": "7xRdCnm7IiS0M1FUS15ZfO",
   "name": "Breakwater",
-  "followers": 15323,
-  "monthlyListeners": 47086,
+  "followers": 15325,
+  "monthlyListeners": 47087,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1396,
+        "numberOfListeners": 1390,
         "region": "ENG"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 775,
+        "numberOfListeners": 777,
         "region": "PA"
       },
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 696,
+        "numberOfListeners": 692,
         "region": "13"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 646,
+        "numberOfListeners": 647,
         "region": "CA"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 602,
+        "numberOfListeners": 609,
         "region": "VIC"
       }
     ]

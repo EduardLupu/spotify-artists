@@ -1,38 +1,38 @@
 {
   "id": "2cpsyOcQFwsK9q8ywmeh0i",
   "name": "Anita Morán",
-  "followers": 15502,
-  "monthlyListeners": 14620,
+  "followers": 15511,
+  "monthlyListeners": 14568,
   "topCities": {
     "items": [
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 2858,
+        "numberOfListeners": 2733,
         "region": "GU"
       },
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 1294,
+        "numberOfListeners": 1424,
         "region": "01"
       },
       {
         "city": "San Salvador",
         "country": "SV",
-        "numberOfListeners": 444,
+        "numberOfListeners": 436,
         "region": "SS"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 341,
+        "numberOfListeners": 352,
         "region": "DC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 275,
+        "numberOfListeners": 268,
         "region": "CMX"
       }
     ]

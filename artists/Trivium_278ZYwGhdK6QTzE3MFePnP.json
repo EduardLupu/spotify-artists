@@ -1,38 +1,38 @@
 {
   "id": "278ZYwGhdK6QTzE3MFePnP",
   "name": "Trivium",
-  "followers": 1593140,
-  "monthlyListeners": 1567941,
+  "followers": 1593473,
+  "monthlyListeners": 1569155,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 24984,
+        "numberOfListeners": 24906,
         "region": "ENG"
       },
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 20281,
+        "numberOfListeners": 20216,
         "region": "18"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 18803,
+        "numberOfListeners": 18844,
         "region": "JK"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 18104,
+        "numberOfListeners": 18111,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 17546,
+        "numberOfListeners": 17536,
         "region": "VIC"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "2NFrAuh8RQdQoS7iYFbckw",
   "name": "The Midnight",
-  "followers": 498653,
-  "monthlyListeners": 894434,
+  "followers": 498877,
+  "monthlyListeners": 897902,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 13200,
+        "numberOfListeners": 13223,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 13085,
+        "numberOfListeners": 13094,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 10956,
+        "numberOfListeners": 10974,
         "region": "IL"
       },
       {
         "city": "Guwahati",
         "country": "IN",
-        "numberOfListeners": 10535,
+        "numberOfListeners": 10563,
         "region": "AS"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 10324,
+        "numberOfListeners": 10353,
         "region": "WA"
       }
     ]

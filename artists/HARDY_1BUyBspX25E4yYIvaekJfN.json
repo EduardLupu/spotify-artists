@@ -1,39 +1,39 @@
 {
   "id": "1BUyBspX25E4yYIvaekJfN",
   "name": "HARDY",
-  "followers": 94,
-  "monthlyListeners": 1133,
+  "followers": 97,
+  "monthlyListeners": 1150,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 124,
+        "numberOfListeners": 121,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 99,
+        "numberOfListeners": 96,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 80,
+        "numberOfListeners": 78,
         "region": "IL"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 69,
+        "numberOfListeners": 67,
         "region": "TX"
       },
       {
-        "city": "Phoenix",
+        "city": "Sarver",
         "country": "US",
         "numberOfListeners": 55,
-        "region": "AZ"
+        "region": "PA"
       }
     ]
   },

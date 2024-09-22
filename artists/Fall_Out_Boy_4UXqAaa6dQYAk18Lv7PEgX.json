@@ -1,41 +1,41 @@
 {
   "id": "4UXqAaa6dQYAk18Lv7PEgX",
   "name": "Fall Out Boy",
-  "followers": 10858068,
-  "monthlyListeners": 23438363,
+  "followers": 10860096,
+  "monthlyListeners": 23418631,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 395512,
+        "numberOfListeners": 393712,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 302884,
+        "numberOfListeners": 302757,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 294310,
+        "numberOfListeners": 294143,
         "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 277504,
+        "numberOfListeners": 277428,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 225265,
+        "numberOfListeners": 225046,
         "region": "QLD"
       }
     ]
   },
-  "worldRank": 259
+  "worldRank": 258
 }

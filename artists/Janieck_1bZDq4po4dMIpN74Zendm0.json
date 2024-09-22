@@ -1,38 +1,38 @@
 {
   "id": "1bZDq4po4dMIpN74Zendm0",
   "name": "Janieck",
-  "followers": 45189,
-  "monthlyListeners": 5565956,
+  "followers": 45194,
+  "monthlyListeners": 5516937,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 98982,
+        "numberOfListeners": 98771,
         "region": "NH"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 93847,
+        "numberOfListeners": 93071,
         "region": "IDF"
       },
       {
         "city": "Prague",
         "country": "CZ",
-        "numberOfListeners": 88915,
+        "numberOfListeners": 88253,
         "region": "10"
       },
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 78716,
+        "numberOfListeners": 77994,
         "region": "25"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 77821,
+        "numberOfListeners": 77049,
         "region": "BE"
       }
     ]

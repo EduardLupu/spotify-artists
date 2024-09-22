@@ -1,38 +1,38 @@
 {
   "id": "1uDFvPycDYIGmBhpxoOyYN",
   "name": "Andre",
-  "followers": 652,
-  "monthlyListeners": 10258,
+  "followers": 654,
+  "monthlyListeners": 10145,
   "topCities": {
     "items": [
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 6958,
+        "numberOfListeners": 6886,
         "region": "18"
       },
       {
         "city": "Tampere",
         "country": "FI",
-        "numberOfListeners": 1332,
+        "numberOfListeners": 1309,
         "region": "11"
       },
       {
         "city": "Oulu",
         "country": "FI",
-        "numberOfListeners": 1056,
+        "numberOfListeners": 1051,
         "region": "14"
       },
       {
         "city": "Vantaa",
         "country": "FI",
-        "numberOfListeners": 661,
+        "numberOfListeners": 650,
         "region": "18"
       },
       {
         "city": "Espoo",
         "country": "FI",
-        "numberOfListeners": 450,
+        "numberOfListeners": 446,
         "region": "18"
       }
     ]

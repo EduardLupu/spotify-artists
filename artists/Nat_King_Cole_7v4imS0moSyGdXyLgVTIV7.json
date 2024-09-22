@@ -1,38 +1,38 @@
 {
   "id": "7v4imS0moSyGdXyLgVTIV7",
   "name": "Nat King Cole",
-  "followers": 2296368,
-  "monthlyListeners": 8512254,
+  "followers": 2296966,
+  "monthlyListeners": 8572994,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 92002,
+        "numberOfListeners": 92622,
         "region": "ENG"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 87934,
+        "numberOfListeners": 88311,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 84721,
+        "numberOfListeners": 85016,
         "region": "NSW"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 82363,
+        "numberOfListeners": 83293,
         "region": "JK"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 76705,
+        "numberOfListeners": 76828,
         "region": "CMX"
       }
     ]

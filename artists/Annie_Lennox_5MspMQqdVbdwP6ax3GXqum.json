@@ -1,41 +1,41 @@
 {
   "id": "5MspMQqdVbdwP6ax3GXqum",
   "name": "Annie Lennox",
-  "followers": 1566628,
-  "monthlyListeners": 19296239,
+  "followers": 1567183,
+  "monthlyListeners": 19294686,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 346659,
+        "numberOfListeners": 345428,
         "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 283322,
+        "numberOfListeners": 283098,
         "region": "SP"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 233161,
+        "numberOfListeners": 232080,
         "region": "CMX"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 226202,
+        "numberOfListeners": 225227,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 211221,
+        "numberOfListeners": 211417,
         "region": "NSW"
       }
     ]
   },
-  "worldRank": 381
+  "worldRank": 379
 }

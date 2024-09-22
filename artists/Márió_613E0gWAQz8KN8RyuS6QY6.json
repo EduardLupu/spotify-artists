@@ -2,37 +2,37 @@
   "id": "613E0gWAQz8KN8RyuS6QY6",
   "name": "Márió",
   "followers": 2213,
-  "monthlyListeners": 17415,
+  "monthlyListeners": 17359,
   "topCities": {
     "items": [
       {
         "city": "Athens",
         "country": "GR",
-        "numberOfListeners": 3103,
+        "numberOfListeners": 3088,
         "region": "I"
       },
       {
         "city": "Budapest",
         "country": "HU",
-        "numberOfListeners": 1258,
+        "numberOfListeners": 1252,
         "region": "BU"
       },
       {
         "city": "Thessaloniki",
         "country": "GR",
-        "numberOfListeners": 1153,
+        "numberOfListeners": 1144,
         "region": "B"
       },
       {
         "city": "Nicosia",
         "country": "CY",
-        "numberOfListeners": 293,
+        "numberOfListeners": 296,
         "region": "01"
       },
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 257,
+        "numberOfListeners": 248,
         "region": "34"
       }
     ]

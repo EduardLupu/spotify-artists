@@ -1,41 +1,41 @@
 {
   "id": "2WzaAvm2bBCf4pEhyuDgCY",
   "name": "Ruth B.",
-  "followers": 3688285,
-  "monthlyListeners": 18970861,
+  "followers": 3690887,
+  "monthlyListeners": 19035545,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 1186534,
+        "numberOfListeners": 1201039,
         "region": "JK"
-      },
-      {
-        "city": "Bandung",
-        "country": "ID",
-        "numberOfListeners": 243213,
-        "region": "JB"
       },
       {
         "city": "Kuala Lumpur",
         "country": "MY",
-        "numberOfListeners": 242976,
+        "numberOfListeners": 245553,
         "region": "14"
       },
       {
-        "city": "Mumbai",
-        "country": "IN",
-        "numberOfListeners": 242581,
-        "region": "MH"
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 245511,
+        "region": "JB"
       },
       {
         "city": "Bengaluru",
         "country": "IN",
-        "numberOfListeners": 242457,
+        "numberOfListeners": 244369,
         "region": "KA"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 244034,
+        "region": "MH"
       }
     ]
   },
-  "worldRank": 397
+  "worldRank": 394
 }

@@ -1,41 +1,41 @@
 {
   "id": "3Z02hBLubJxuFJfhacLSDc",
   "name": "Bryan Adams",
-  "followers": 3804482,
-  "monthlyListeners": 21869374,
+  "followers": 3807324,
+  "monthlyListeners": 21809264,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 341921,
+        "numberOfListeners": 343323,
         "region": "JK"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 320093,
+        "numberOfListeners": 319771,
         "region": "NSW"
-      },
-      {
-        "city": "Santiago",
-        "country": "CL",
-        "numberOfListeners": 314939,
-        "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 314425,
+        "numberOfListeners": 314650,
         "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 313045,
+        "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 283102,
+        "numberOfListeners": 281250,
         "region": "ENG"
       }
     ]
   },
-  "worldRank": 313
+  "worldRank": 315
 }

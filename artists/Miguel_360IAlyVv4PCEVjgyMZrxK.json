@@ -1,41 +1,41 @@
 {
   "id": "360IAlyVv4PCEVjgyMZrxK",
   "name": "Miguel",
-  "followers": 5235089,
-  "monthlyListeners": 28800394,
+  "followers": 5238342,
+  "monthlyListeners": 28811741,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 470073,
+        "numberOfListeners": 472229,
         "region": "JK"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 431761,
+        "numberOfListeners": 431579,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 423858,
+        "numberOfListeners": 424419,
         "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 403978,
+        "numberOfListeners": 403853,
         "region": "CA"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 332014,
+        "numberOfListeners": 332151,
         "region": "VIC"
       }
     ]
   },
-  "worldRank": 174
+  "worldRank": 173
 }

@@ -1,20 +1,20 @@
 {
   "id": "6gP0wnbpPZzEbK8f3rfYbK",
   "name": "Dro X Yani",
-  "followers": 15152,
-  "monthlyListeners": 50779,
+  "followers": 15153,
+  "monthlyListeners": 50673,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 5231,
+        "numberOfListeners": 5227,
         "region": "IDF"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 4778,
+        "numberOfListeners": 4768,
         "region": "QC"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Miami",
         "country": "US",
-        "numberOfListeners": 1189,
+        "numberOfListeners": 1188,
         "region": "FL"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 1107,
+        "numberOfListeners": 1119,
         "region": "NY"
       }
     ]

@@ -2,13 +2,13 @@
   "id": "0C3JEB1XQTMEKGXCD6P6OO",
   "name": "Reezy",
   "followers": 108,
-  "monthlyListeners": 1006,
+  "monthlyListeners": 1016,
   "topCities": {
     "items": [
       {
         "city": "Prague",
         "country": "CZ",
-        "numberOfListeners": 17,
+        "numberOfListeners": 16,
         "region": "10"
       },
       {
@@ -18,22 +18,22 @@
         "region": "NSW"
       },
       {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 13,
+        "region": "QLD"
+      },
+      {
         "city": "Melbourne",
         "country": "AU",
         "numberOfListeners": 13,
         "region": "VIC"
       },
       {
-        "city": "Brisbane",
-        "country": "AU",
-        "numberOfListeners": 12,
-        "region": "QLD"
-      },
-      {
-        "city": "Berlin",
+        "city": "Munich",
         "country": "DE",
         "numberOfListeners": 10,
-        "region": "BE"
+        "region": "BY"
       }
     ]
   },

@@ -1,39 +1,39 @@
 {
   "id": "5qK5bOC6wLtuLhG5KvU17c",
   "name": "Lil Mama",
-  "followers": 95253,
-  "monthlyListeners": 834525,
+  "followers": 95296,
+  "monthlyListeners": 834065,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 13972,
+        "numberOfListeners": 13945,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 13077,
+        "numberOfListeners": 13043,
         "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 11029,
+        "numberOfListeners": 10969,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 10167,
+        "numberOfListeners": 10145,
         "region": "QLD"
       },
       {
-        "city": "Dallas",
+        "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 9156,
-        "region": "TX"
+        "numberOfListeners": 9162,
+        "region": "PA"
       }
     ]
   },

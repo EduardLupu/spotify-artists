@@ -2,7 +2,7 @@
   "id": "6RpCbKGpme2uJZBSuuo67C",
   "name": "HEART",
   "followers": 132,
-  "monthlyListeners": 735,
+  "monthlyListeners": 737,
   "topCities": {
     "items": [
       {
@@ -18,12 +18,6 @@
         "region": "GA"
       },
       {
-        "city": "Denver",
-        "country": "US",
-        "numberOfListeners": 11,
-        "region": "CO"
-      },
-      {
         "city": "Los Angeles",
         "country": "US",
         "numberOfListeners": 11,
@@ -34,6 +28,12 @@
         "country": "US",
         "numberOfListeners": 10,
         "region": "TX"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 10,
+        "region": "CO"
       }
     ]
   },

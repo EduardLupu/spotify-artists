@@ -1,38 +1,38 @@
 {
   "id": "5rkVyNGXEgeUqKkB5ccK83",
   "name": "Ashanti",
-  "followers": 3162743,
-  "monthlyListeners": 6322365,
+  "followers": 3164020,
+  "monthlyListeners": 6325576,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 187684,
+        "numberOfListeners": 187403,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 149546,
+        "numberOfListeners": 149623,
         "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 125553,
+        "numberOfListeners": 125389,
         "region": "CA"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 98890,
+        "numberOfListeners": 98914,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 88031,
+        "numberOfListeners": 87883,
         "region": "QLD"
       }
     ]

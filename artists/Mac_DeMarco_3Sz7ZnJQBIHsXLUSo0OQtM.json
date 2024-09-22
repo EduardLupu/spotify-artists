@@ -1,41 +1,41 @@
 {
   "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
   "name": "Mac DeMarco",
-  "followers": 6423623,
-  "monthlyListeners": 19224765,
+  "followers": 6428172,
+  "monthlyListeners": 19210570,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 323442,
+        "numberOfListeners": 323136,
         "region": "CA"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 273887,
+        "numberOfListeners": 274940,
         "region": "JK"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 237311,
+        "numberOfListeners": 236848,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 223653,
+        "numberOfListeners": 223097,
         "region": "IL"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 209776,
+        "numberOfListeners": 208549,
         "region": "RM"
       }
     ]
   },
-  "worldRank": 388
+  "worldRank": 385
 }

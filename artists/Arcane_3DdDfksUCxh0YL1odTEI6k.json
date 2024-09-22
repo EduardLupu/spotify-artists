@@ -2,13 +2,13 @@
   "id": "3DdDfksUCxh0YL1odTEI6k",
   "name": "Arcane",
   "followers": 109,
-  "monthlyListeners": 363,
+  "monthlyListeners": 360,
   "topCities": {
     "items": [
       {
         "city": "Prague",
         "country": "CZ",
-        "numberOfListeners": 26,
+        "numberOfListeners": 27,
         "region": "10"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Tallinn",
         "country": "EE",
-        "numberOfListeners": 9,
+        "numberOfListeners": 8,
         "region": "37"
       }
     ]

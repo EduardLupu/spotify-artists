@@ -1,38 +1,38 @@
 {
   "id": "45lorWzrKLxfKlWpV7r9CN",
   "name": "Ben Harper",
-  "followers": 1018948,
-  "monthlyListeners": 1567526,
+  "followers": 1019038,
+  "monthlyListeners": 1562642,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 45636,
+        "numberOfListeners": 45365,
         "region": "SP"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 38252,
+        "numberOfListeners": 38280,
         "region": "IDF"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 33633,
+        "numberOfListeners": 33656,
         "region": "NSW"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 24168,
+        "numberOfListeners": 24128,
         "region": "QLD"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 23679,
+        "numberOfListeners": 23662,
         "region": "VIC"
       }
     ]

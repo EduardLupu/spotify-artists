@@ -1,41 +1,41 @@
 {
   "id": "3tlXnStJ1fFhdScmQeLpuG",
   "name": "Brent Faiyaz",
-  "followers": 6450876,
-  "monthlyListeners": 21840546,
+  "followers": 6455456,
+  "monthlyListeners": 21815102,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 467090,
+        "numberOfListeners": 465539,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 451650,
+        "numberOfListeners": 450797,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 338979,
+        "numberOfListeners": 337714,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 334470,
+        "numberOfListeners": 335731,
         "region": "NY"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 316843,
+        "numberOfListeners": 316674,
         "region": "NSW"
       }
     ]
   },
-  "worldRank": 315
+  "worldRank": 314
 }

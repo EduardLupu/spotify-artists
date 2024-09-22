@@ -1,41 +1,41 @@
 {
   "id": "0XwVARXT135rw8lyw1EeWP",
   "name": "Christian Nodal",
-  "followers": 14997206,
-  "monthlyListeners": 23063582,
+  "followers": 15002018,
+  "monthlyListeners": 23075610,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1650841,
+        "numberOfListeners": 1648870,
         "region": "CMX"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 978939,
+        "numberOfListeners": 979972,
         "region": "DC"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 879190,
+        "numberOfListeners": 879674,
         "region": "JAL"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 842301,
+        "numberOfListeners": 838041,
         "region": "RM"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 679899,
+        "numberOfListeners": 693912,
         "region": "CMX"
       }
     ]
   },
-  "worldRank": 267
+  "worldRank": 266
 }

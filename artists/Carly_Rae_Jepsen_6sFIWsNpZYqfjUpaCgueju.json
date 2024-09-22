@@ -1,41 +1,41 @@
 {
   "id": "6sFIWsNpZYqfjUpaCgueju",
   "name": "Carly Rae Jepsen",
-  "followers": 4910467,
-  "monthlyListeners": 16772679,
+  "followers": 4911465,
+  "monthlyListeners": 16711205,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 305455,
+        "numberOfListeners": 306118,
         "region": "JK"
       },
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 226621,
+        "numberOfListeners": 226670,
         "region": "13"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 220090,
+        "numberOfListeners": 219654,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 194307,
+        "numberOfListeners": 192332,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 190763,
+        "numberOfListeners": 190346,
         "region": "VIC"
       }
     ]
   },
-  "worldRank": 480
+  "worldRank": 481
 }

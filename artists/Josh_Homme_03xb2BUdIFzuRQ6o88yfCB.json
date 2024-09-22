@@ -1,38 +1,38 @@
 {
   "id": "03xb2BUdIFzuRQ6o88yfCB",
   "name": "Josh Homme",
-  "followers": 53351,
-  "monthlyListeners": 148076,
+  "followers": 53367,
+  "monthlyListeners": 148115,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 2210,
+        "numberOfListeners": 2211,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1731,
+        "numberOfListeners": 1726,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 1717,
+        "numberOfListeners": 1724,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 1676,
+        "numberOfListeners": 1665,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 1607,
+        "numberOfListeners": 1601,
         "region": "VIC"
       }
     ]

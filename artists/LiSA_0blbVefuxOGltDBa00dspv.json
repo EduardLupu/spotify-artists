@@ -1,38 +1,38 @@
 {
   "id": "0blbVefuxOGltDBa00dspv",
   "name": "LiSA",
-  "followers": 3205254,
-  "monthlyListeners": 4181893,
+  "followers": 3205893,
+  "monthlyListeners": 4146196,
   "topCities": {
     "items": [
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 235481,
+        "numberOfListeners": 235022,
         "region": "13"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 130249,
+        "numberOfListeners": 129523,
         "region": "JK"
       },
       {
         "city": "Osaka",
         "country": "JP",
-        "numberOfListeners": 90437,
+        "numberOfListeners": 89812,
         "region": "27"
       },
       {
         "city": "Taipei",
         "country": "TW",
-        "numberOfListeners": 67836,
+        "numberOfListeners": 66953,
         "region": "TPE"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 52611,
+        "numberOfListeners": 51952,
         "region": "RM"
       }
     ]

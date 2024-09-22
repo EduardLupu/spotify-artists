@@ -1,38 +1,38 @@
 {
   "id": "5INjqkS1o8h1imAzPqGZBb",
   "name": "Tame Impala",
-  "followers": 8128857,
-  "monthlyListeners": 25384961,
+  "followers": 8132185,
+  "monthlyListeners": 25311585,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 438417,
+        "numberOfListeners": 436155,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 395262,
+        "numberOfListeners": 393955,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 378731,
+        "numberOfListeners": 378231,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 336577,
+        "numberOfListeners": 335658,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 305944,
+        "numberOfListeners": 303926,
         "region": "IL"
       }
     ]

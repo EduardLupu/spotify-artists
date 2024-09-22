@@ -1,41 +1,41 @@
 {
   "id": "5me0Irg2ANcsgc93uaYrpb",
   "name": "The Notorious B.I.G.",
-  "followers": 10658167,
-  "monthlyListeners": 23779708,
+  "followers": 10664248,
+  "monthlyListeners": 23940936,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 458428,
+        "numberOfListeners": 459914,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 408580,
+        "numberOfListeners": 410909,
         "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 336707,
+        "numberOfListeners": 338382,
         "region": "CA"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 322762,
+        "numberOfListeners": 324381,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 268735,
+        "numberOfListeners": 269381,
         "region": "IL"
       }
     ]
   },
-  "worldRank": 251
+  "worldRank": 245
 }

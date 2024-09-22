@@ -1,38 +1,38 @@
 {
   "id": "6PdVgi27EMfFXV5lSH6wEW",
   "name": "Guy Davis",
-  "followers": 13463,
-  "monthlyListeners": 37775,
+  "followers": 13466,
+  "monthlyListeners": 37711,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 503,
+        "numberOfListeners": 500,
         "region": "SP"
-      },
-      {
-        "city": "Amsterdam",
-        "country": "NL",
-        "numberOfListeners": 332,
-        "region": "NH"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 327,
+        "numberOfListeners": 330,
         "region": "IDF"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 326,
+        "region": "NH"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 313,
+        "numberOfListeners": 318,
         "region": "NSW"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 306,
+        "numberOfListeners": 309,
         "region": "QC"
       }
     ]

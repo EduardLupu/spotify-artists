@@ -1,38 +1,38 @@
 {
   "id": "41ImyihZPU5MUeIZWnNIdh",
   "name": "Yuat",
-  "followers": 6248,
-  "monthlyListeners": 20409,
+  "followers": 6252,
+  "monthlyListeners": 20248,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 355,
+        "numberOfListeners": 350,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 327,
+        "numberOfListeners": 324,
         "region": "NSW"
-      },
-      {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 300,
-        "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 295,
+        "numberOfListeners": 297,
         "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 297,
+        "region": "IL"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 283,
+        "numberOfListeners": 282,
         "region": "CO"
       }
     ]

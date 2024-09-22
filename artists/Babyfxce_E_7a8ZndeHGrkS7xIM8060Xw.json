@@ -1,39 +1,39 @@
 {
   "id": "7a8ZndeHGrkS7xIM8060Xw",
   "name": "Babyfxce E",
-  "followers": 58943,
-  "monthlyListeners": 532909,
+  "followers": 59133,
+  "monthlyListeners": 534052,
   "topCities": {
     "items": [
       {
         "city": "Detroit",
         "country": "US",
-        "numberOfListeners": 21825,
+        "numberOfListeners": 21999,
         "region": "MI"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 16724,
+        "numberOfListeners": 16719,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 13061,
+        "numberOfListeners": 13133,
         "region": "CA"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 10157,
+        "numberOfListeners": 10167,
         "region": "GA"
       },
       {
-        "city": "Charlotte",
+        "city": "Columbus",
         "country": "US",
-        "numberOfListeners": 9931,
-        "region": "NC"
+        "numberOfListeners": 9989,
+        "region": "OH"
       }
     ]
   },

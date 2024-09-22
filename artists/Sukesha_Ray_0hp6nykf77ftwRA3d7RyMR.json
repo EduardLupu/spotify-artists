@@ -2,38 +2,38 @@
   "id": "0hp6nykf77ftwRA3d7RyMR",
   "name": "Sukesha Ray",
   "followers": 2286,
-  "monthlyListeners": 13289,
+  "monthlyListeners": 13378,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1071,
+        "numberOfListeners": 990,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 915,
+        "numberOfListeners": 847,
         "region": "NY"
-      },
-      {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 727,
-        "region": "IL"
-      },
-      {
-        "city": "Seattle",
-        "country": "US",
-        "numberOfListeners": 718,
-        "region": "WA"
       },
       {
         "city": "Sarver",
         "country": "US",
-        "numberOfListeners": 618,
+        "numberOfListeners": 766,
         "region": "PA"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 709,
+        "region": "WA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 679,
+        "region": "IL"
       }
     ]
   },

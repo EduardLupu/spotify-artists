@@ -1,38 +1,38 @@
 {
   "id": "4F7Q5NV6h5TSwCainz8S5A",
   "name": "Duke Ellington",
-  "followers": 900164,
-  "monthlyListeners": 1966232,
+  "followers": 900329,
+  "monthlyListeners": 1969609,
   "topCities": {
     "items": [
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 24528,
+        "numberOfListeners": 24756,
         "region": "NY"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 22909,
+        "numberOfListeners": 22939,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 22697,
+        "numberOfListeners": 22755,
         "region": "CA"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 19939,
+        "numberOfListeners": 19877,
         "region": "SP"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 19265,
+        "numberOfListeners": 19444,
         "region": "IDF"
       }
     ]

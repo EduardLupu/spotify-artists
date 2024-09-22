@@ -1,38 +1,38 @@
 {
   "id": "2wIVse2owClT7go1WT98tk",
   "name": "Missy Elliott",
-  "followers": 2531296,
-  "monthlyListeners": 7459666,
+  "followers": 2531909,
+  "monthlyListeners": 7433928,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 133966,
+        "numberOfListeners": 133815,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 131416,
+        "numberOfListeners": 130667,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 114834,
+        "numberOfListeners": 114565,
         "region": "VIC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 95248,
+        "numberOfListeners": 94916,
         "region": "CA"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 93708,
+        "numberOfListeners": 93470,
         "region": "QLD"
       }
     ]

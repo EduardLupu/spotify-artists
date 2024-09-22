@@ -1,39 +1,39 @@
 {
   "id": "0plNgbIlOc13T8ot3vyK79",
   "name": "93FEETOFSMOKE",
-  "followers": 69821,
-  "monthlyListeners": 127904,
+  "followers": 69827,
+  "monthlyListeners": 127324,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2012,
+        "numberOfListeners": 2001,
         "region": "IL"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 1579,
+        "numberOfListeners": 1576,
         "region": "AZ"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 1564,
+        "numberOfListeners": 1561,
         "region": "CO"
-      },
-      {
-        "city": "Seattle",
-        "country": "US",
-        "numberOfListeners": 1535,
-        "region": "WA"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1534,
+        "numberOfListeners": 1537,
         "region": "CA"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 1528,
+        "region": "WA"
       }
     ]
   },

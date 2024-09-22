@@ -1,41 +1,41 @@
 {
   "id": "1URnnhqYAYcrqrcwql10ft",
   "name": "21 Savage",
-  "followers": 20018972,
-  "monthlyListeners": 52173663,
+  "followers": 20031344,
+  "monthlyListeners": 52261666,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 795109,
+        "numberOfListeners": 792646,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 764455,
+        "numberOfListeners": 763571,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 742252,
+        "numberOfListeners": 740509,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 673633,
+        "numberOfListeners": 676740,
         "region": "NY"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 661958,
+        "numberOfListeners": 661659,
         "region": "ON"
       }
     ]
   },
-  "worldRank": 46
+  "worldRank": 45
 }

@@ -2,37 +2,37 @@
   "id": "6uvAL6wcnKz1IFYZzFkIQ1",
   "name": "Crush",
   "followers": 764,
-  "monthlyListeners": 21450,
+  "monthlyListeners": 21398,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 2584,
+        "numberOfListeners": 2572,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 2038,
+        "numberOfListeners": 2041,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 1090,
+        "numberOfListeners": 1092,
         "region": "QLD"
       },
       {
         "city": "Perth",
         "country": "AU",
-        "numberOfListeners": 698,
+        "numberOfListeners": 705,
         "region": "WA"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 543,
+        "numberOfListeners": 539,
         "region": "ON"
       }
     ]

@@ -1,26 +1,26 @@
 {
   "id": "1r1n66Rkx4fzNCIUQhS6OH",
   "name": "Tanerélle",
-  "followers": 174832,
-  "monthlyListeners": 541573,
+  "followers": 174888,
+  "monthlyListeners": 542311,
   "topCities": {
     "items": [
       {
         "city": "Johannesburg",
         "country": "ZA",
-        "numberOfListeners": 9471,
+        "numberOfListeners": 9477,
         "region": "GP"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 8366,
+        "numberOfListeners": 8371,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 7382,
+        "numberOfListeners": 7388,
         "region": "ENG"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 6226,
+        "numberOfListeners": 6230,
         "region": "NY"
       }
     ]

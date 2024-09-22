@@ -1,38 +1,38 @@
 {
   "id": "1kDqy7SpqyJ7aZi7cqSBis",
   "name": "Blood Cultures",
-  "followers": 46707,
-  "monthlyListeners": 311152,
+  "followers": 46718,
+  "monthlyListeners": 310920,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 7052,
+        "numberOfListeners": 7011,
         "region": "IL"
-      },
-      {
-        "city": "Los Angeles",
-        "country": "US",
-        "numberOfListeners": 6502,
-        "region": "CA"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 6494,
+        "numberOfListeners": 6483,
         "region": "CO"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 6481,
+        "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 5835,
+        "numberOfListeners": 5861,
         "region": "NY"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 5772,
+        "numberOfListeners": 5769,
         "region": "WA"
       }
     ]

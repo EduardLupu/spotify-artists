@@ -2,38 +2,38 @@
   "id": "1DFnRiFfABRQzsYINMux60",
   "name": "PLAN B",
   "followers": 949,
-  "monthlyListeners": 4112,
+  "monthlyListeners": 4497,
   "topCities": {
     "items": [
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 504,
+        "numberOfListeners": 546,
         "region": "00"
       },
       {
         "city": "Manila",
         "country": "PH",
-        "numberOfListeners": 231,
+        "numberOfListeners": 258,
         "region": "00"
       },
       {
         "city": "Cebu City",
         "country": "PH",
-        "numberOfListeners": 154,
+        "numberOfListeners": 172,
         "region": "07"
       },
       {
         "city": "Caloocan City",
         "country": "PH",
-        "numberOfListeners": 144,
+        "numberOfListeners": 162,
         "region": "00"
       },
       {
-        "city": "San Juan",
+        "city": "Davao City",
         "country": "PH",
-        "numberOfListeners": 134,
-        "region": "00"
+        "numberOfListeners": 150,
+        "region": "11"
       }
     ]
   },

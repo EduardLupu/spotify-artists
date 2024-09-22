@@ -1,38 +1,38 @@
 {
   "id": "4wxY1DgKu13ruy2UYU6IpM",
   "name": "Mora",
-  "followers": 997,
-  "monthlyListeners": 18405,
+  "followers": 998,
+  "monthlyListeners": 18616,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 2613,
+        "numberOfListeners": 2652,
         "region": "IDF"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 584,
+        "numberOfListeners": 599,
         "region": "ARA"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 537,
+        "numberOfListeners": 542,
         "region": "BRU"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 502,
+        "numberOfListeners": 513,
         "region": "HDF"
       },
       {
         "city": "Marseille",
         "country": "FR",
-        "numberOfListeners": 399,
+        "numberOfListeners": 405,
         "region": "PAC"
       }
     ]

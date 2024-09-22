@@ -1,38 +1,38 @@
 {
   "id": "4FcZfItjVIsfO9TynErl7X",
   "name": "Jubël",
-  "followers": 91269,
-  "monthlyListeners": 3924118,
+  "followers": 91293,
+  "monthlyListeners": 3913246,
   "topCities": {
     "items": [
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 57523,
+        "numberOfListeners": 57711,
         "region": "AB"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 50639,
+        "numberOfListeners": 50296,
         "region": "ENG"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 38584,
+        "numberOfListeners": 38713,
         "region": "NH"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 32767,
+        "numberOfListeners": 32762,
         "region": "IDF"
       },
       {
         "city": "Oslo",
         "country": "NO",
-        "numberOfListeners": 32287,
+        "numberOfListeners": 32242,
         "region": "03"
       }
     ]

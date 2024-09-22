@@ -1,38 +1,38 @@
 {
   "id": "21mKp7DqtSNHhCAU2ugvUw",
   "name": "ODESZA",
-  "followers": 1641483,
-  "monthlyListeners": 5342178,
+  "followers": 1641667,
+  "monthlyListeners": 5338004,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 110935,
+        "numberOfListeners": 110590,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 101259,
+        "numberOfListeners": 101390,
         "region": "NSW"
-      },
-      {
-        "city": "Denver",
-        "country": "US",
-        "numberOfListeners": 98869,
-        "region": "CO"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 98789,
+        "numberOfListeners": 98998,
         "region": "NY"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 98836,
+        "region": "CO"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 94078,
+        "numberOfListeners": 93886,
         "region": "IL"
       }
     ]

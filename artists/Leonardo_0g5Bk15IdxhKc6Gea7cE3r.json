@@ -2,9 +2,21 @@
   "id": "0g5Bk15IdxhKc6Gea7cE3r",
   "name": "Leonardo",
   "followers": 142,
-  "monthlyListeners": 71,
+  "monthlyListeners": 70,
   "topCities": {
     "items": [
+      {
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 2,
+        "region": "JK"
+      },
+      {
+        "city": "Nuremberg",
+        "country": "DE",
+        "numberOfListeners": 2,
+        "region": "BY"
+      },
       {
         "city": "Campinas",
         "country": "BR",
@@ -22,18 +34,6 @@
         "country": "ES",
         "numberOfListeners": 2,
         "region": "CT"
-      },
-      {
-        "city": "Melbourne",
-        "country": "AU",
-        "numberOfListeners": 2,
-        "region": "VIC"
-      },
-      {
-        "city": "Nuremberg",
-        "country": "DE",
-        "numberOfListeners": 2,
-        "region": "BY"
       }
     ]
   },

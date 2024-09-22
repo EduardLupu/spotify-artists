@@ -2,19 +2,19 @@
   "id": "52iYAFIyDuVyz9JGoeBOzf",
   "name": "JB the First Lady",
   "followers": 4162,
-  "monthlyListeners": 1383,
+  "monthlyListeners": 1380,
   "topCities": {
     "items": [
       {
         "city": "Vancouver",
         "country": "CA",
-        "numberOfListeners": 93,
+        "numberOfListeners": 92,
         "region": "BC"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 78,
+        "numberOfListeners": 80,
         "region": "ON"
       },
       {
@@ -26,14 +26,14 @@
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 46,
+        "numberOfListeners": 47,
         "region": "QC"
       },
       {
-        "city": "Edmonton",
-        "country": "CA",
-        "numberOfListeners": 36,
-        "region": "AB"
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 34,
+        "region": "WA"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "1vo8zHmO1KzkuU9Xxh6J7W",
   "name": "MOTi",
-  "followers": 261908,
-  "monthlyListeners": 2271781,
+  "followers": 261916,
+  "monthlyListeners": 2257555,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 30186,
+        "numberOfListeners": 30138,
         "region": "NSW"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 25187,
+        "numberOfListeners": 25093,
         "region": "NH"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 23610,
+        "numberOfListeners": 23527,
         "region": "QC"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 22594,
+        "numberOfListeners": 22498,
         "region": "VIC"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 22311,
+        "numberOfListeners": 21934,
         "region": "BE"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "6P4JE157ezddehGEnhC3jc",
   "name": "Dylan & Harry",
-  "followers": 2024,
-  "monthlyListeners": 11971,
+  "followers": 2025,
+  "monthlyListeners": 11933,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 235,
+        "numberOfListeners": 232,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 208,
+        "numberOfListeners": 205,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 187,
+        "numberOfListeners": 190,
         "region": "NSW"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 181,
+        "numberOfListeners": 188,
         "region": "QLD"
       },
       {
         "city": "Perth",
         "country": "AU",
-        "numberOfListeners": 172,
+        "numberOfListeners": 174,
         "region": "WA"
       }
     ]

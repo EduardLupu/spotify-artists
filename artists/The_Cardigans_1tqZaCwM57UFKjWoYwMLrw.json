@@ -1,38 +1,38 @@
 {
   "id": "1tqZaCwM57UFKjWoYwMLrw",
   "name": "The Cardigans",
-  "followers": 1368396,
-  "monthlyListeners": 11319246,
+  "followers": 1369396,
+  "monthlyListeners": 11193096,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 211810,
+        "numberOfListeners": 208336,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 158988,
+        "numberOfListeners": 157690,
         "region": "CMX"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 156082,
+        "numberOfListeners": 154163,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 128670,
+        "numberOfListeners": 127113,
         "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 125693,
+        "numberOfListeners": 124069,
         "region": "CA"
       }
     ]

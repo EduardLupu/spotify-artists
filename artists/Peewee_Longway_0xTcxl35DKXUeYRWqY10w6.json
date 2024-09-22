@@ -1,38 +1,38 @@
 {
   "id": "0xTcxl35DKXUeYRWqY10w6",
   "name": "Peewee Longway",
-  "followers": 533490,
-  "monthlyListeners": 441387,
+  "followers": 533540,
+  "monthlyListeners": 438483,
   "topCities": {
     "items": [
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 11614,
+        "numberOfListeners": 11691,
         "region": "GA"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 9720,
+        "numberOfListeners": 9773,
         "region": "TX"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 8769,
+        "numberOfListeners": 8810,
         "region": "NC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 7223,
+        "numberOfListeners": 7212,
         "region": "IL"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 6762,
+        "numberOfListeners": 6786,
         "region": "TX"
       }
     ]

@@ -2,7 +2,7 @@
   "id": "7MUkPSttNOICmx7UdVrxBL",
   "name": "MARIO",
   "followers": 51,
-  "monthlyListeners": 22,
+  "monthlyListeners": 24,
   "topCities": {
     "items": [
       {
@@ -18,22 +18,22 @@
         "region": "CT"
       },
       {
-        "city": "Omaha",
-        "country": "US",
-        "numberOfListeners": 1,
-        "region": "NE"
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 2,
+        "region": "CT"
       },
       {
-        "city": "Jacksonville",
-        "country": "US",
+        "city": "The Hague",
+        "country": "NL",
         "numberOfListeners": 1,
-        "region": "FL"
+        "region": "ZH"
       },
       {
-        "city": "Des Moines",
-        "country": "US",
+        "city": "Xalapa",
+        "country": "MX",
         "numberOfListeners": 1,
-        "region": "IA"
+        "region": "VER"
       }
     ]
   },

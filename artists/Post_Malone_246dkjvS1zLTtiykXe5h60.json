@@ -1,38 +1,38 @@
 {
   "id": "246dkjvS1zLTtiykXe5h60",
   "name": "Post Malone",
-  "followers": 45363002,
-  "monthlyListeners": 80015027,
+  "followers": 45377102,
+  "monthlyListeners": 79795823,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1340050,
+        "numberOfListeners": 1329277,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 1244313,
+        "numberOfListeners": 1242468,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 1017514,
+        "numberOfListeners": 1014836,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 1004855,
+        "numberOfListeners": 996848,
         "region": "IL"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 919901,
+        "numberOfListeners": 923640,
         "region": "JK"
       }
     ]

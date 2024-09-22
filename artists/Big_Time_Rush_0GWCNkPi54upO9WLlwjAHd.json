@@ -1,39 +1,39 @@
 {
   "id": "0GWCNkPi54upO9WLlwjAHd",
   "name": "Big Time Rush",
-  "followers": 2642754,
-  "monthlyListeners": 2241228,
+  "followers": 2642785,
+  "monthlyListeners": 2237657,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 36008,
+        "numberOfListeners": 35899,
         "region": "CMX"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 24848,
+        "numberOfListeners": 24947,
         "region": "NH"
       },
       {
         "city": "Bangkok",
         "country": "TH",
-        "numberOfListeners": 23465,
+        "numberOfListeners": 23457,
         "region": "10"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 22772,
+        "numberOfListeners": 22675,
         "region": "IL"
       },
       {
-        "city": "Los Angeles",
-        "country": "US",
-        "numberOfListeners": 21506,
-        "region": "CA"
+        "city": "Jakarta",
+        "country": "ID",
+        "numberOfListeners": 21403,
+        "region": "JK"
       }
     ]
   },

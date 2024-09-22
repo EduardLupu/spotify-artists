@@ -1,38 +1,38 @@
 {
   "id": "2TLYSzGyVYkxAgYSCqUnQj",
   "name": "Jay Prince",
-  "followers": 144510,
-  "monthlyListeners": 260434,
+  "followers": 144513,
+  "monthlyListeners": 259363,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 7042,
+        "numberOfListeners": 6927,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 4672,
+        "numberOfListeners": 4613,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 3965,
+        "numberOfListeners": 3942,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 3548,
+        "numberOfListeners": 3533,
         "region": "VIC"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 3524,
+        "numberOfListeners": 3487,
         "region": "NY"
       }
     ]

@@ -1,41 +1,41 @@
 {
   "id": "75i9GaW2MJUgt4BkdUnuUY",
   "name": "MC Ryan SP",
-  "followers": 5925116,
-  "monthlyListeners": 17059817,
+  "followers": 5937910,
+  "monthlyListeners": 17001100,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 3199206,
+        "numberOfListeners": 3180407,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 1152022,
+        "numberOfListeners": 1144236,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 953739,
+        "numberOfListeners": 950639,
         "region": "MG"
       },
       {
         "city": "Campinas",
         "country": "BR",
-        "numberOfListeners": 868023,
+        "numberOfListeners": 865735,
         "region": "SP"
       },
       {
         "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 735077,
+        "numberOfListeners": 733119,
         "region": "PR"
       }
     ]
   },
-  "worldRank": 472
+  "worldRank": 473
 }

@@ -1,20 +1,20 @@
 {
   "id": "6friwlDMimaA98g0pDVxOV",
   "name": "Ben Howard",
-  "followers": 1184,
-  "monthlyListeners": 2598,
+  "followers": 1185,
+  "monthlyListeners": 2685,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 82,
+        "numberOfListeners": 87,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 43,
+        "numberOfListeners": 44,
         "region": "NSW"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 36,
+        "numberOfListeners": 35,
         "region": "NH"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 33,
+        "numberOfListeners": 35,
         "region": "L"
       }
     ]

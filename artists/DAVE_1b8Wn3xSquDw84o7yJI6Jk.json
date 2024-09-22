@@ -2,38 +2,38 @@
   "id": "1b8Wn3xSquDw84o7yJI6Jk",
   "name": "DAVE",
   "followers": 188,
-  "monthlyListeners": 10026,
+  "monthlyListeners": 9635,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 2222,
+        "numberOfListeners": 2152,
         "region": "NH"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 1640,
+        "numberOfListeners": 1592,
         "region": "ZH"
       },
       {
         "city": "Utrecht",
         "country": "NL",
-        "numberOfListeners": 892,
+        "numberOfListeners": 854,
         "region": "UT"
       },
       {
         "city": "Amersfoort",
         "country": "NL",
-        "numberOfListeners": 288,
+        "numberOfListeners": 279,
         "region": "UT"
       },
       {
-        "city": "Arnhem",
+        "city": "The Hague",
         "country": "NL",
-        "numberOfListeners": 219,
-        "region": "GE"
+        "numberOfListeners": 208,
+        "region": "ZH"
       }
     ]
   },

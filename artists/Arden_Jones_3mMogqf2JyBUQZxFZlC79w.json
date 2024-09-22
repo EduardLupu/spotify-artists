@@ -1,38 +1,38 @@
 {
   "id": "3mMogqf2JyBUQZxFZlC79w",
   "name": "Arden Jones",
-  "followers": 180073,
-  "monthlyListeners": 1184857,
+  "followers": 180103,
+  "monthlyListeners": 1178890,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 15844,
+        "numberOfListeners": 15744,
         "region": "IL"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 14593,
+        "numberOfListeners": 14513,
         "region": "CO"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 14293,
+        "numberOfListeners": 14266,
         "region": "NSW"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 13156,
+        "numberOfListeners": 13089,
         "region": "WA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 12764,
+        "numberOfListeners": 12674,
         "region": "NY"
       }
     ]

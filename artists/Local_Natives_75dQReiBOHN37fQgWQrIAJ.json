@@ -1,38 +1,38 @@
 {
   "id": "75dQReiBOHN37fQgWQrIAJ",
   "name": "Local Natives",
-  "followers": 654221,
-  "monthlyListeners": 1560908,
+  "followers": 654335,
+  "monthlyListeners": 1554877,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 27611,
+        "numberOfListeners": 27427,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 25751,
+        "numberOfListeners": 25601,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 23826,
+        "numberOfListeners": 23772,
         "region": "NY"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 23387,
+        "numberOfListeners": 23375,
         "region": "NSW"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 22973,
+        "numberOfListeners": 22873,
         "region": "CO"
       }
     ]

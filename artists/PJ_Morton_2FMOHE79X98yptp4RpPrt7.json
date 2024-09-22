@@ -1,39 +1,39 @@
 {
   "id": "2FMOHE79X98yptp4RpPrt7",
   "name": "PJ Morton",
-  "followers": 282481,
-  "monthlyListeners": 1681383,
+  "followers": 282599,
+  "monthlyListeners": 1683950,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 71728,
+        "numberOfListeners": 72074,
         "region": "JK"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 25785,
+        "numberOfListeners": 25837,
         "region": "ENG"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 21105,
+        "region": "NH"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 21131,
+        "numberOfListeners": 21105,
         "region": "CA"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 20989,
+        "numberOfListeners": 20976,
         "region": "SP"
-      },
-      {
-        "city": "Amsterdam",
-        "country": "NL",
-        "numberOfListeners": 20952,
-        "region": "NH"
       }
     ]
   },

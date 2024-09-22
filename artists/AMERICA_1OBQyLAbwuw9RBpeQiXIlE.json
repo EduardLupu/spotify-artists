@@ -12,16 +12,16 @@
         "region": "25"
       },
       {
-        "city": "Brescia",
-        "country": "IT",
-        "numberOfListeners": 4,
-        "region": "25"
-      },
-      {
         "city": "Turin",
         "country": "IT",
         "numberOfListeners": 4,
         "region": "21"
+      },
+      {
+        "city": "Brescia",
+        "country": "IT",
+        "numberOfListeners": 4,
+        "region": "25"
       },
       {
         "city": "Parma",

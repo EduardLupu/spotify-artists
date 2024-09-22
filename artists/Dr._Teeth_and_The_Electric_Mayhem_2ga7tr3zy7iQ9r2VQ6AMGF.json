@@ -1,38 +1,38 @@
 {
   "id": "2ga7tr3zy7iQ9r2VQ6AMGF",
   "name": "Dr. Teeth and The Electric Mayhem",
-  "followers": 16739,
-  "monthlyListeners": 189545,
+  "followers": 16747,
+  "monthlyListeners": 189366,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 2543,
+        "numberOfListeners": 2509,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2219,
+        "numberOfListeners": 2208,
         "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 2149,
+        "numberOfListeners": 2146,
         "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 2134,
+        "numberOfListeners": 2133,
         "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 2001,
+        "numberOfListeners": 1999,
         "region": "CA"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "3BkSz15mFjDJYKI6YzOhTi",
   "name": "Lisa Dancing-Light",
-  "followers": 4373,
-  "monthlyListeners": 22036,
+  "followers": 4375,
+  "monthlyListeners": 21892,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 1037,
+        "numberOfListeners": 1026,
         "region": "SP"
-      },
-      {
-        "city": "Rio de Janeiro",
-        "country": "BR",
-        "numberOfListeners": 308,
-        "region": "RJ"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 300,
+        "numberOfListeners": 302,
         "region": "NSW"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 296,
+        "region": "RJ"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 267,
+        "numberOfListeners": 263,
         "region": "NH"
       },
       {
         "city": "Prague",
         "country": "CZ",
-        "numberOfListeners": 244,
+        "numberOfListeners": 239,
         "region": "10"
       }
     ]

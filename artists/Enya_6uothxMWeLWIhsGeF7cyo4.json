@@ -1,39 +1,39 @@
 {
   "id": "6uothxMWeLWIhsGeF7cyo4",
   "name": "Enya",
-  "followers": 2237993,
-  "monthlyListeners": 4648323,
+  "followers": 2238774,
+  "monthlyListeners": 4647229,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 61153,
+        "numberOfListeners": 61114,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 57755,
+        "numberOfListeners": 57653,
         "region": "SP"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 53596,
+        "numberOfListeners": 53192,
         "region": "CMX"
-      },
-      {
-        "city": "Santiago",
-        "country": "CL",
-        "numberOfListeners": 50130,
-        "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 50110,
+        "numberOfListeners": 50066,
         "region": "NSW"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 49827,
+        "region": "RM"
       }
     ]
   },

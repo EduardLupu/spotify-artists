@@ -2,7 +2,7 @@
   "id": "1lVi8dVhx7rkcnOEBzzYz8",
   "name": "JuJu",
   "followers": 940,
-  "monthlyListeners": 500,
+  "monthlyListeners": 516,
   "topCities": {
     "items": [
       {
@@ -20,20 +20,20 @@
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 13,
+        "numberOfListeners": 14,
         "region": "ENG"
+      },
+      {
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 9,
+        "region": "BRU"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 9,
-        "region": "VIC"
-      },
-      {
-        "city": "Berlin",
-        "country": "DE",
         "numberOfListeners": 8,
-        "region": "BE"
+        "region": "VIC"
       }
     ]
   },

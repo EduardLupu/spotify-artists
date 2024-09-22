@@ -1,38 +1,38 @@
 {
   "id": "2yVY1t4rXJXGzbpyqOIFQG",
   "name": "Lloyd Tevedzai",
-  "followers": 3744,
-  "monthlyListeners": 6409,
+  "followers": 3752,
+  "monthlyListeners": 6415,
   "topCities": {
     "items": [
       {
         "city": "Johannesburg",
         "country": "ZA",
-        "numberOfListeners": 1017,
+        "numberOfListeners": 1016,
         "region": "GP"
       },
       {
         "city": "Cape Town",
         "country": "ZA",
-        "numberOfListeners": 710,
+        "numberOfListeners": 715,
         "region": "WC"
       },
       {
         "city": "Harare",
         "country": "ZW",
-        "numberOfListeners": 695,
+        "numberOfListeners": 708,
         "region": "HA"
       },
       {
         "city": "Pretoria",
         "country": "ZA",
-        "numberOfListeners": 413,
+        "numberOfListeners": 411,
         "region": "GP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 211,
+        "numberOfListeners": 209,
         "region": "ENG"
       }
     ]

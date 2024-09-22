@@ -1,38 +1,38 @@
 {
   "id": "14QFzo4BPE9kmObR2jSTeD",
   "name": "Henry Danger The Musical Cast",
-  "followers": 56092,
-  "monthlyListeners": 27853,
+  "followers": 56101,
+  "monthlyListeners": 28160,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 459,
+        "numberOfListeners": 458,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 377,
+        "numberOfListeners": 380,
         "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 352,
+        "numberOfListeners": 353,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 264,
+        "numberOfListeners": 268,
         "region": "IL"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 258,
+        "numberOfListeners": 263,
         "region": "L"
       }
     ]

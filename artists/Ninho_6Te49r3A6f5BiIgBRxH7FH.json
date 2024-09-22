@@ -1,38 +1,38 @@
 {
   "id": "6Te49r3A6f5BiIgBRxH7FH",
   "name": "Ninho",
-  "followers": 10232191,
-  "monthlyListeners": 6616709,
+  "followers": 10238007,
+  "monthlyListeners": 6615932,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 1224342,
+        "numberOfListeners": 1226235,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 266072,
+        "numberOfListeners": 267193,
         "region": "BRU"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 265132,
+        "numberOfListeners": 264529,
         "region": "ARA"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 221954,
+        "numberOfListeners": 223349,
         "region": "HDF"
       },
       {
         "city": "Marseille",
         "country": "FR",
-        "numberOfListeners": 196538,
+        "numberOfListeners": 194449,
         "region": "PAC"
       }
     ]

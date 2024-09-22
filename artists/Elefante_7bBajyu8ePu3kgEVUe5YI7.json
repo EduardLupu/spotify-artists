@@ -2,38 +2,38 @@
   "id": "7bBajyu8ePu3kgEVUe5YI7",
   "name": "Elefante",
   "followers": 1137,
-  "monthlyListeners": 1188,
+  "monthlyListeners": 1235,
   "topCities": {
     "items": [
       {
         "city": "Montevideo",
         "country": "UY",
-        "numberOfListeners": 348,
+        "numberOfListeners": 352,
         "region": "MO"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 42,
+        "numberOfListeners": 44,
         "region": "CMX"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 23,
+        "numberOfListeners": 25,
         "region": "QUE"
-      },
-      {
-        "city": "Buenos Aires",
-        "country": "AR",
-        "numberOfListeners": 22,
-        "region": "C"
       },
       {
         "city": "Maldonado",
         "country": "UY",
-        "numberOfListeners": 22,
+        "numberOfListeners": 23,
         "region": "MA"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 23,
+        "region": "JAL"
       }
     ]
   },

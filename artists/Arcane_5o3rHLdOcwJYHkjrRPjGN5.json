@@ -1,8 +1,8 @@
 {
   "id": "5o3rHLdOcwJYHkjrRPjGN5",
   "name": "Arcane",
-  "followers": 986,
-  "monthlyListeners": 1880,
+  "followers": 987,
+  "monthlyListeners": 1883,
   "topCities": {
     "items": [
       {
@@ -14,7 +14,7 @@
       {
         "city": "Bristol",
         "country": "GB",
-        "numberOfListeners": 43,
+        "numberOfListeners": 48,
         "region": "ENG"
       },
       {
@@ -30,10 +30,10 @@
         "region": "NH"
       },
       {
-        "city": "Southwark",
-        "country": "GB",
-        "numberOfListeners": 32,
-        "region": "ENG"
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 34,
+        "region": "VIC"
       }
     ]
   },

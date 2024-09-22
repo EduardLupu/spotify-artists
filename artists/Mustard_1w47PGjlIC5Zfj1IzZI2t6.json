@@ -1,38 +1,38 @@
 {
   "id": "1w47PGjlIC5Zfj1IzZI2t6",
   "name": "Mustard",
-  "followers": 4176,
-  "monthlyListeners": 41259,
+  "followers": 4177,
+  "monthlyListeners": 41257,
   "topCities": {
     "items": [
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 2898,
+        "numberOfListeners": 2872,
         "region": "MD"
       },
       {
         "city": "Barcelona",
         "country": "ES",
-        "numberOfListeners": 1899,
+        "numberOfListeners": 1909,
         "region": "CT"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 741,
+        "numberOfListeners": 740,
         "region": "CMX"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 638,
+        "numberOfListeners": 648,
         "region": "IDF"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 627,
+        "numberOfListeners": 625,
         "region": "RM"
       }
     ]

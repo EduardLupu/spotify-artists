@@ -1,38 +1,38 @@
 {
   "id": "5pzsYBjgMTBW6r3B69yK9X",
   "name": "Marina",
-  "followers": 15707,
-  "monthlyListeners": 74837,
+  "followers": 15716,
+  "monthlyListeners": 74554,
   "topCities": {
     "items": [
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 7851,
+        "numberOfListeners": 7829,
         "region": "MD"
       },
       {
         "city": "Seville",
         "country": "ES",
-        "numberOfListeners": 4766,
+        "numberOfListeners": 4753,
         "region": "AN"
       },
       {
         "city": "Barcelona",
         "country": "ES",
-        "numberOfListeners": 4592,
+        "numberOfListeners": 4593,
         "region": "CT"
       },
       {
         "city": "Málaga",
         "country": "ES",
-        "numberOfListeners": 4017,
+        "numberOfListeners": 4022,
         "region": "AN"
       },
       {
         "city": "Valencia",
         "country": "ES",
-        "numberOfListeners": 2115,
+        "numberOfListeners": 2052,
         "region": "VC"
       }
     ]

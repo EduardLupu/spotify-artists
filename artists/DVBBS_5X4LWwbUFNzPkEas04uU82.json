@@ -1,38 +1,38 @@
 {
   "id": "5X4LWwbUFNzPkEas04uU82",
   "name": "DVBBS",
-  "followers": 1063185,
-  "monthlyListeners": 3852207,
+  "followers": 1063244,
+  "monthlyListeners": 3748741,
   "topCities": {
     "items": [
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 54100,
+        "numberOfListeners": 52855,
         "region": "ON"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 52359,
+        "numberOfListeners": 51674,
         "region": "QC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 41218,
+        "numberOfListeners": 40944,
         "region": "CMX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 38132,
+        "numberOfListeners": 37554,
         "region": "NSW"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 36018,
+        "numberOfListeners": 35835,
         "region": "JK"
       }
     ]

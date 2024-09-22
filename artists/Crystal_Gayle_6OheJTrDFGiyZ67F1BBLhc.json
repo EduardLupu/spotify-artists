@@ -1,38 +1,38 @@
 {
   "id": "6OheJTrDFGiyZ67F1BBLhc",
   "name": "Crystal Gayle",
-  "followers": 383841,
-  "monthlyListeners": 823544,
+  "followers": 383927,
+  "monthlyListeners": 824992,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 15917,
+        "numberOfListeners": 15937,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 12697,
+        "numberOfListeners": 12677,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 11743,
+        "numberOfListeners": 11792,
         "region": "QLD"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 11160,
+        "numberOfListeners": 11176,
         "region": "ENG"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 10167,
+        "numberOfListeners": 10198,
         "region": "L"
       }
     ]

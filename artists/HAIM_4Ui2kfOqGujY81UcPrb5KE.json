@@ -1,38 +1,38 @@
 {
   "id": "4Ui2kfOqGujY81UcPrb5KE",
   "name": "HAIM",
-  "followers": 1334104,
-  "monthlyListeners": 4758371,
+  "followers": 1334278,
+  "monthlyListeners": 4741491,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 120974,
+        "numberOfListeners": 120244,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 92218,
+        "numberOfListeners": 92179,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 86640,
+        "numberOfListeners": 86555,
         "region": "VIC"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 61612,
+        "numberOfListeners": 61901,
         "region": "NY"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 53373,
+        "numberOfListeners": 53282,
         "region": "QLD"
       }
     ]

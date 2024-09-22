@@ -1,38 +1,38 @@
 {
   "id": "0RysmX18qCACUwa8lAjEt6",
   "name": "MORA",
-  "followers": 587,
-  "monthlyListeners": 1026,
+  "followers": 590,
+  "monthlyListeners": 1035,
   "topCities": {
     "items": [
       {
-        "city": "Melbourne",
-        "country": "AU",
-        "numberOfListeners": 118,
-        "region": "VIC"
-      },
-      {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 115,
+        "numberOfListeners": 122,
         "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 121,
+        "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 79,
+        "numberOfListeners": 76,
         "region": "QLD"
       },
       {
         "city": "Tel Aviv",
         "country": "IL",
-        "numberOfListeners": 29,
+        "numberOfListeners": 31,
         "region": "TA"
       },
       {
         "city": "Cape Town",
         "country": "ZA",
-        "numberOfListeners": 24,
+        "numberOfListeners": 26,
         "region": "WC"
       }
     ]

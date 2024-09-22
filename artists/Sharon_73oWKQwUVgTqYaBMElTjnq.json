@@ -2,38 +2,38 @@
   "id": "73oWKQwUVgTqYaBMElTjnq",
   "name": "Sharon",
   "followers": 413,
-  "monthlyListeners": 5409,
+  "monthlyListeners": 5434,
   "topCities": {
     "items": [
       {
         "city": "Hyderabad",
         "country": "IN",
-        "numberOfListeners": 207,
+        "numberOfListeners": 212,
         "region": "TS"
       },
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 166,
+        "numberOfListeners": 158,
         "region": "GU"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 131,
+        "numberOfListeners": 134,
         "region": "JK"
-      },
-      {
-        "city": "Guayaquil",
-        "country": "EC",
-        "numberOfListeners": 79,
-        "region": "G"
       },
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 77,
+        "numberOfListeners": 83,
         "region": "01"
+      },
+      {
+        "city": "Guayaquil",
+        "country": "EC",
+        "numberOfListeners": 78,
+        "region": "G"
       }
     ]
   },

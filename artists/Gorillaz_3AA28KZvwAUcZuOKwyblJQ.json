@@ -1,41 +1,41 @@
 {
   "id": "3AA28KZvwAUcZuOKwyblJQ",
   "name": "Gorillaz",
-  "followers": 12125267,
-  "monthlyListeners": 24700694,
+  "followers": 12129699,
+  "monthlyListeners": 24631160,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 522515,
+        "numberOfListeners": 520102,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 412368,
+        "numberOfListeners": 408793,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 400905,
+        "numberOfListeners": 398632,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 300648,
+        "numberOfListeners": 299223,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 295695,
+        "numberOfListeners": 295080,
         "region": "NSW"
       }
     ]
   },
-  "worldRank": 230
+  "worldRank": 233
 }

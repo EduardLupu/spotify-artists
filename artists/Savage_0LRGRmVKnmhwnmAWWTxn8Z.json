@@ -1,8 +1,8 @@
 {
   "id": "0LRGRmVKnmhwnmAWWTxn8Z",
   "name": "Savage",
-  "followers": 4064,
-  "monthlyListeners": 4240,
+  "followers": 4080,
+  "monthlyListeners": 4258,
   "topCities": {
     "items": [
       {
@@ -14,25 +14,25 @@
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 85,
+        "numberOfListeners": 86,
         "region": "SP"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 74,
+        "numberOfListeners": 72,
         "region": "DC"
       },
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 60,
+        "numberOfListeners": 64,
         "region": "AB"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 53,
+        "numberOfListeners": 52,
         "region": "CA"
       }
     ]

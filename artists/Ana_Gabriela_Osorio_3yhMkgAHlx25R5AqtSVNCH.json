@@ -1,39 +1,39 @@
 {
   "id": "3yhMkgAHlx25R5AqtSVNCH",
   "name": "Ana Gabriela Osorio",
-  "followers": 1156,
-  "monthlyListeners": 798,
+  "followers": 1159,
+  "monthlyListeners": 801,
   "topCities": {
     "items": [
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 325,
+        "numberOfListeners": 310,
         "region": "GU"
       },
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 154,
+        "numberOfListeners": 164,
         "region": "01"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 22,
+        "numberOfListeners": 21,
         "region": "NY"
+      },
+      {
+        "city": "Miami",
+        "country": "US",
+        "numberOfListeners": 13,
+        "region": "FL"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 12,
+        "numberOfListeners": 13,
         "region": "GA"
-      },
-      {
-        "city": "Houston",
-        "country": "US",
-        "numberOfListeners": 12,
-        "region": "TX"
       }
     ]
   },

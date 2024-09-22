@@ -1,39 +1,39 @@
 {
   "id": "6w9ToX5slZ4uIdmD17hJ3c",
   "name": "Bryant Myers",
-  "followers": 11520142,
-  "monthlyListeners": 15074460,
+  "followers": 11524582,
+  "monthlyListeners": 15110069,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1187992,
+        "numberOfListeners": 1183525,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 743537,
+        "numberOfListeners": 745866,
         "region": "DC"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 562026,
+        "numberOfListeners": 565147,
         "region": "MD"
-      },
-      {
-        "city": "Mexico City",
-        "country": "MX",
-        "numberOfListeners": 456130,
-        "region": "CMX"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 455928,
+        "numberOfListeners": 457060,
         "region": "ANT"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 456710,
+        "region": "CMX"
       }
     ]
   },

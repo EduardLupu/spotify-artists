@@ -6,19 +6,19 @@
   "topCities": {
     "items": [
       {
-        "city": "Calamba",
-        "country": "PH",
+        "city": "Focşani",
+        "country": "RO",
         "numberOfListeners": 1,
-        "region": "40"
-      },
-      {
-        "city": "Batangas",
-        "country": "PH",
-        "numberOfListeners": 1,
-        "region": "40"
+        "region": "VN"
       },
       {
         "city": "General Trias",
+        "country": "PH",
+        "numberOfListeners": 1,
+        "region": "40"
+      },
+      {
+        "city": "Calamba",
         "country": "PH",
         "numberOfListeners": 1,
         "region": "40"
@@ -30,7 +30,7 @@
         "region": "00"
       },
       {
-        "city": "Carmona",
+        "city": "Batangas",
         "country": "PH",
         "numberOfListeners": 1,
         "region": "40"

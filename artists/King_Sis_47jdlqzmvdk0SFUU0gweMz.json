@@ -1,38 +1,38 @@
 {
   "id": "47jdlqzmvdk0SFUU0gweMz",
   "name": "King Sis",
-  "followers": 25972,
-  "monthlyListeners": 216818,
+  "followers": 25995,
+  "monthlyListeners": 215737,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 3722,
+        "numberOfListeners": 3728,
         "region": "ENG"
       },
       {
         "city": "Bangkok",
         "country": "TH",
-        "numberOfListeners": 3612,
+        "numberOfListeners": 3586,
         "region": "10"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 3334,
+        "numberOfListeners": 3320,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 3174,
+        "numberOfListeners": 3138,
         "region": "NSW"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 2805,
+        "numberOfListeners": 2782,
         "region": "JK"
       }
     ]

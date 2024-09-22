@@ -1,41 +1,41 @@
 {
   "id": "4tZwfgrHOc3mvqYlEYSvVi",
   "name": "Daft Punk",
-  "followers": 10140705,
-  "monthlyListeners": 20124324,
+  "followers": 10142819,
+  "monthlyListeners": 20066062,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 415132,
+        "numberOfListeners": 412870,
         "region": "CMX"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 363309,
+        "numberOfListeners": 363715,
         "region": "IDF"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 316891,
+        "numberOfListeners": 314087,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 244976,
+        "numberOfListeners": 243131,
         "region": "ENG"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 228879,
+        "numberOfListeners": 228080,
         "region": "DC"
       }
     ]
   },
-  "worldRank": 353
+  "worldRank": 355
 }

@@ -1,38 +1,38 @@
 {
   "id": "7yntSJ6uojO3z6GFUVwhAW",
   "name": "CORPSE",
-  "followers": 2392807,
-  "monthlyListeners": 3222583,
+  "followers": 2392855,
+  "monthlyListeners": 3207179,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 36914,
+        "numberOfListeners": 36660,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 34120,
+        "numberOfListeners": 33935,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 32442,
+        "numberOfListeners": 32292,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 32125,
+        "numberOfListeners": 31920,
         "region": "VIC"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 31851,
+        "numberOfListeners": 31746,
         "region": "TX"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "3ZXXJ9nO1Dn9B0AJ25eAQY",
   "name": "Hamilton Leithauser",
-  "followers": 55645,
-  "monthlyListeners": 259509,
+  "followers": 55655,
+  "monthlyListeners": 257941,
   "topCities": {
     "items": [
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 3627,
+        "numberOfListeners": 3622,
         "region": "NY"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 3474,
+        "numberOfListeners": 3457,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 3278,
+        "numberOfListeners": 3276,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 3203,
+        "numberOfListeners": 3160,
         "region": "IL"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 2986,
+        "numberOfListeners": 2947,
         "region": "CMX"
       }
     ]

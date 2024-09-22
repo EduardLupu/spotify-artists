@@ -1,38 +1,38 @@
 {
   "id": "64fJiKnU2RfnndB8xP3gLi",
   "name": "Levi Hummon",
-  "followers": 55145,
-  "monthlyListeners": 332375,
+  "followers": 55151,
+  "monthlyListeners": 334367,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 8564,
+        "numberOfListeners": 8518,
         "region": "NSW"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 8495,
+        "numberOfListeners": 8469,
         "region": "QLD"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 5639,
+        "numberOfListeners": 5643,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 4920,
+        "numberOfListeners": 4923,
         "region": "IL"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 4400,
+        "numberOfListeners": 4388,
         "region": "ON"
       }
     ]

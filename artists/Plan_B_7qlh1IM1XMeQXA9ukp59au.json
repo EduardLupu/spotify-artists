@@ -1,38 +1,38 @@
 {
   "id": "7qlh1IM1XMeQXA9ukp59au",
   "name": "Plan B",
-  "followers": 324464,
-  "monthlyListeners": 690575,
+  "followers": 324496,
+  "monthlyListeners": 687796,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 80543,
+        "numberOfListeners": 79896,
         "region": "ENG"
       },
       {
         "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 28383,
+        "numberOfListeners": 28420,
         "region": "ENG"
       },
       {
         "city": "Birmingham",
         "country": "GB",
-        "numberOfListeners": 26746,
+        "numberOfListeners": 26259,
         "region": "ENG"
       },
       {
         "city": "Southwark",
         "country": "GB",
-        "numberOfListeners": 23010,
+        "numberOfListeners": 23192,
         "region": "ENG"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 12529,
+        "numberOfListeners": 12524,
         "region": "L"
       }
     ]

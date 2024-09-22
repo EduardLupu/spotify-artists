@@ -1,38 +1,38 @@
 {
   "id": "2S5hlvw4CMtMGswFtfdK15",
   "name": "Royal Blood",
-  "followers": 1646820,
-  "monthlyListeners": 2665699,
+  "followers": 1647025,
+  "monthlyListeners": 2651963,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 107645,
+        "numberOfListeners": 106755,
         "region": "ENG"
       },
       {
         "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 39755,
+        "numberOfListeners": 39777,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 36065,
+        "numberOfListeners": 35949,
         "region": "NSW"
       },
       {
         "city": "Birmingham",
         "country": "GB",
-        "numberOfListeners": 34607,
+        "numberOfListeners": 34012,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 33897,
+        "numberOfListeners": 33714,
         "region": "VIC"
       }
     ]

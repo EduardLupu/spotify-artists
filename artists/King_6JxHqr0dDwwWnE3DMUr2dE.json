@@ -2,38 +2,38 @@
   "id": "6JxHqr0dDwwWnE3DMUr2dE",
   "name": "King",
   "followers": 73,
-  "monthlyListeners": 406,
+  "monthlyListeners": 961,
   "topCities": {
     "items": [
       {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 268,
+        "region": "NY"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 137,
+        "region": "BE"
+      },
+      {
+        "city": "Pomezia",
+        "country": "IT",
+        "numberOfListeners": 86,
+        "region": "62"
+      },
+      {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 34,
+        "numberOfListeners": 35,
         "region": "IDF"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 8,
+        "numberOfListeners": 9,
         "region": "HDF"
-      },
-      {
-        "city": "Nantes",
-        "country": "FR",
-        "numberOfListeners": 7,
-        "region": "PDL"
-      },
-      {
-        "city": "Istanbul",
-        "country": "TR",
-        "numberOfListeners": 6,
-        "region": "34"
-      },
-      {
-        "city": "Lyon",
-        "country": "FR",
-        "numberOfListeners": 6,
-        "region": "ARA"
       }
     ]
   },

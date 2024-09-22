@@ -12,22 +12,22 @@
         "region": "PA"
       },
       {
-        "city": "Saskatoon",
-        "country": "CA",
+        "city": "Parkville",
+        "country": "US",
         "numberOfListeners": 1,
-        "region": "SK"
-      },
-      {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 1,
-        "region": "NSW"
+        "region": "MD"
       },
       {
         "city": "Columbia",
         "country": "US",
         "numberOfListeners": 1,
         "region": "PA"
+      },
+      {
+        "city": "Marlton",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "NJ"
       },
       {
         "city": "Lancaster",

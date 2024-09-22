@@ -1,26 +1,26 @@
 {
   "id": "4gUE1bhccIGVxxwXIyuWYD",
   "name": "Arcángel",
-  "followers": 13615,
-  "monthlyListeners": 123825,
+  "followers": 13630,
+  "monthlyListeners": 123713,
   "topCities": {
     "items": [
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 10927,
+        "numberOfListeners": 10946,
         "region": "MD"
       },
       {
         "city": "Barcelona",
         "country": "ES",
-        "numberOfListeners": 6054,
+        "numberOfListeners": 6057,
         "region": "CT"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 4591,
+        "numberOfListeners": 4552,
         "region": "RM"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Málaga",
         "country": "ES",
-        "numberOfListeners": 3351,
+        "numberOfListeners": 3354,
         "region": "AN"
       }
     ]

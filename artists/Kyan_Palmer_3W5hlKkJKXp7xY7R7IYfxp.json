@@ -1,15 +1,21 @@
 {
   "id": "3W5hlKkJKXp7xY7R7IYfxp",
   "name": "Kyan Palmer",
-  "followers": 9745,
-  "monthlyListeners": 47268,
+  "followers": 9746,
+  "monthlyListeners": 47153,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 599,
+        "numberOfListeners": 593,
         "region": "NSW"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 449,
+        "region": "NY"
       },
       {
         "city": "Melbourne",
@@ -18,22 +24,16 @@
         "region": "VIC"
       },
       {
-        "city": "New York City",
-        "country": "US",
-        "numberOfListeners": 438,
-        "region": "NY"
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 418,
+        "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 413,
+        "numberOfListeners": 411,
         "region": "CA"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 412,
-        "region": "ENG"
       }
     ]
   },

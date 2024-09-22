@@ -1,38 +1,38 @@
 {
   "id": "2NoJ7NuNs9nyj8Thoh1kbu",
   "name": "Hariharan",
-  "followers": 6136985,
-  "monthlyListeners": 13600707,
+  "followers": 6140469,
+  "monthlyListeners": 13585439,
   "topCities": {
     "items": [
       {
         "city": "Chennai",
         "country": "IN",
-        "numberOfListeners": 2512485,
+        "numberOfListeners": 2512385,
         "region": "TN"
       },
       {
         "city": "Hyderabad",
         "country": "IN",
-        "numberOfListeners": 1398509,
+        "numberOfListeners": 1393799,
         "region": "TS"
-      },
-      {
-        "city": "Bengaluru",
-        "country": "IN",
-        "numberOfListeners": 1038035,
-        "region": "KA"
       },
       {
         "city": "Coimbatore",
         "country": "IN",
-        "numberOfListeners": 1037730,
+        "numberOfListeners": 1043303,
         "region": "TN"
+      },
+      {
+        "city": "Bengaluru",
+        "country": "IN",
+        "numberOfListeners": 1037923,
+        "region": "KA"
       },
       {
         "city": "Kochi",
         "country": "IN",
-        "numberOfListeners": 933326,
+        "numberOfListeners": 929396,
         "region": "KL"
       }
     ]

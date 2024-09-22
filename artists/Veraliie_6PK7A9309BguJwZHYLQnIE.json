@@ -2,38 +2,38 @@
   "id": "6PK7A9309BguJwZHYLQnIE",
   "name": "Veraliie",
   "followers": 5650,
-  "monthlyListeners": 124323,
+  "monthlyListeners": 123772,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 38996,
+        "numberOfListeners": 39076,
         "region": "JK"
       },
       {
         "city": "Semarang",
         "country": "ID",
-        "numberOfListeners": 7753,
+        "numberOfListeners": 7670,
         "region": "JT"
       },
       {
         "city": "Yogyakarta",
         "country": "ID",
-        "numberOfListeners": 7358,
+        "numberOfListeners": 7375,
         "region": "YO"
-      },
-      {
-        "city": "Bandung",
-        "country": "ID",
-        "numberOfListeners": 6054,
-        "region": "JB"
       },
       {
         "city": "Surabaya",
         "country": "ID",
-        "numberOfListeners": 6053,
+        "numberOfListeners": 6048,
         "region": "JI"
+      },
+      {
+        "city": "Bandung",
+        "country": "ID",
+        "numberOfListeners": 6043,
+        "region": "JB"
       }
     ]
   },

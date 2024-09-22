@@ -1,38 +1,38 @@
 {
   "id": "66Xc7Y6aW9W5RS2r8HY6P2",
   "name": "Neaera",
-  "followers": 33125,
-  "monthlyListeners": 19048,
+  "followers": 33133,
+  "monthlyListeners": 18859,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 937,
+        "numberOfListeners": 922,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 855,
+        "numberOfListeners": 865,
         "region": "HH"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 653,
+        "numberOfListeners": 623,
         "region": "HE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 544,
+        "numberOfListeners": 546,
         "region": "BY"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 469,
+        "numberOfListeners": 464,
         "region": "BW"
       }
     ]

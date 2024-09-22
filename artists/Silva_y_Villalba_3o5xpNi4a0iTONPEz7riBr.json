@@ -1,38 +1,38 @@
 {
   "id": "3o5xpNi4a0iTONPEz7riBr",
   "name": "Silva y Villalba",
-  "followers": 44707,
-  "monthlyListeners": 62401,
+  "followers": 44721,
+  "monthlyListeners": 62320,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 28469,
+        "numberOfListeners": 28403,
         "region": "DC"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 11080,
+        "numberOfListeners": 11069,
         "region": "ANT"
       },
       {
         "city": "Santiago de Cali",
         "country": "CO",
-        "numberOfListeners": 3857,
+        "numberOfListeners": 3861,
         "region": "VAC"
       },
       {
         "city": "Bucaramanga",
         "country": "CO",
-        "numberOfListeners": 1762,
+        "numberOfListeners": 1763,
         "region": "SAN"
       },
       {
         "city": "Barranquilla",
         "country": "CO",
-        "numberOfListeners": 1438,
+        "numberOfListeners": 1428,
         "region": "ATL"
       }
     ]

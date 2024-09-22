@@ -1,38 +1,38 @@
 {
   "id": "4C50EbCS11M0VbGyH3OfLt",
   "name": "Bahamas",
-  "followers": 391295,
-  "monthlyListeners": 1928651,
+  "followers": 391358,
+  "monthlyListeners": 1928242,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 29740,
+        "numberOfListeners": 29793,
         "region": "NSW"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 29445,
+        "numberOfListeners": 29342,
         "region": "ON"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 27512,
+        "numberOfListeners": 27563,
         "region": "CO"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 24968,
+        "numberOfListeners": 25079,
         "region": "NY"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 24652,
+        "numberOfListeners": 24597,
         "region": "WA"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "1bptbRp9bhQp9YHv5biWi3",
   "name": "Banda Kañón",
-  "followers": 20273,
-  "monthlyListeners": 179148,
+  "followers": 20295,
+  "monthlyListeners": 178882,
   "topCities": {
     "items": [
       {
         "city": "Monterrey",
         "country": "MX",
-        "numberOfListeners": 18944,
+        "numberOfListeners": 19087,
         "region": "NLE"
       },
       {
         "city": "Saltillo",
         "country": "MX",
-        "numberOfListeners": 10110,
+        "numberOfListeners": 10051,
         "region": "COA"
       },
       {
         "city": "San Nicolás de los Garza",
         "country": "MX",
-        "numberOfListeners": 8562,
+        "numberOfListeners": 9021,
         "region": "NLE"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 8238,
+        "numberOfListeners": 8275,
         "region": "C"
       },
       {
         "city": "Torreón",
         "country": "MX",
-        "numberOfListeners": 7145,
+        "numberOfListeners": 7128,
         "region": "COA"
       }
     ]

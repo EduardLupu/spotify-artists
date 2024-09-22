@@ -1,38 +1,38 @@
 {
   "id": "6sH3GKyZoKB5aMipYEAX7u",
   "name": "Venados De Nayarit",
-  "followers": 4057,
-  "monthlyListeners": 89087,
+  "followers": 4062,
+  "monthlyListeners": 90089,
   "topCities": {
     "items": [
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 9815,
+        "numberOfListeners": 9802,
         "region": "JAL"
       },
       {
         "city": "Zapopan",
         "country": "MX",
-        "numberOfListeners": 8758,
+        "numberOfListeners": 8805,
         "region": "JAL"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 3832,
+        "numberOfListeners": 3811,
         "region": "CMX"
       },
       {
         "city": "Monterrey",
         "country": "MX",
-        "numberOfListeners": 3219,
+        "numberOfListeners": 3281,
         "region": "NLE"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 2953,
+        "numberOfListeners": 2941,
         "region": "QUE"
       }
     ]

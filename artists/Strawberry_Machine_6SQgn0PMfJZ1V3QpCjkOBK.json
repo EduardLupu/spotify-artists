@@ -1,38 +1,38 @@
 {
   "id": "6SQgn0PMfJZ1V3QpCjkOBK",
   "name": "Strawberry Machine",
-  "followers": 22003,
-  "monthlyListeners": 18635,
+  "followers": 22042,
+  "monthlyListeners": 18561,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 322,
+        "numberOfListeners": 324,
         "region": "CA"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 228,
+        "numberOfListeners": 231,
         "region": "RM"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 223,
+        "numberOfListeners": 219,
         "region": "IL"
       },
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 212,
+        "numberOfListeners": 215,
         "region": "13"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 199,
+        "numberOfListeners": 200,
         "region": "JK"
       }
     ]

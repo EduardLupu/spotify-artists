@@ -1,38 +1,38 @@
 {
   "id": "1iEaqWaYpKo9x0OrEq7Q7z",
   "name": "Ayron Jones",
-  "followers": 66126,
-  "monthlyListeners": 178619,
+  "followers": 66147,
+  "monthlyListeners": 177799,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 2861,
+        "numberOfListeners": 2840,
         "region": "IDF"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2516,
+        "numberOfListeners": 2489,
         "region": "IL"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 2371,
+        "numberOfListeners": 2360,
         "region": "WA"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 2220,
+        "numberOfListeners": 2205,
         "region": "QC"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 1940,
+        "numberOfListeners": 1938,
         "region": "ON"
       }
     ]

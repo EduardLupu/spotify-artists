@@ -1,38 +1,38 @@
 {
   "id": "7w29UYBi0qsHi5RTcv3lmA",
   "name": "Björk",
-  "followers": 2144644,
-  "monthlyListeners": 2286503,
+  "followers": 2145449,
+  "monthlyListeners": 2287442,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 66444,
+        "numberOfListeners": 65869,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 44128,
+        "numberOfListeners": 43947,
         "region": "ENG"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 38860,
+        "numberOfListeners": 38681,
         "region": "CMX"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 30605,
+        "numberOfListeners": 30625,
         "region": "CA"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 27570,
+        "numberOfListeners": 27515,
         "region": "VIC"
       }
     ]

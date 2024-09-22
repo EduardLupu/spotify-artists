@@ -1,38 +1,38 @@
 {
   "id": "1YSA4byX5AL1zoTsSTlB03",
   "name": "Turnpike Troubadours",
-  "followers": 540157,
-  "monthlyListeners": 1500712,
+  "followers": 540325,
+  "monthlyListeners": 1491561,
   "topCities": {
     "items": [
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 70229,
+        "numberOfListeners": 70049,
         "region": "TX"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 50152,
+        "numberOfListeners": 50094,
         "region": "TX"
       },
       {
         "city": "Austin",
         "country": "US",
-        "numberOfListeners": 45191,
+        "numberOfListeners": 45741,
         "region": "TX"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 43925,
+        "numberOfListeners": 43797,
         "region": "CO"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 36671,
+        "numberOfListeners": 36616,
         "region": "NC"
       }
     ]

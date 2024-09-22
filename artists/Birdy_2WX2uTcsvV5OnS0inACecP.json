@@ -1,38 +1,38 @@
 {
   "id": "2WX2uTcsvV5OnS0inACecP",
   "name": "Birdy",
-  "followers": 3694650,
-  "monthlyListeners": 10669748,
+  "followers": 3695014,
+  "monthlyListeners": 10630265,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 229651,
+        "numberOfListeners": 227675,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 175450,
+        "numberOfListeners": 174636,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 153073,
+        "numberOfListeners": 152253,
         "region": "VIC"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 141707,
+        "numberOfListeners": 142109,
         "region": "NH"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 117881,
+        "numberOfListeners": 117181,
         "region": "L"
       }
     ]

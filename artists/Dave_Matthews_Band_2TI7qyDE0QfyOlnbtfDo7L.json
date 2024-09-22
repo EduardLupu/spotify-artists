@@ -1,38 +1,38 @@
 {
   "id": "2TI7qyDE0QfyOlnbtfDo7L",
   "name": "Dave Matthews Band",
-  "followers": 2012819,
-  "monthlyListeners": 2456754,
+  "followers": 2013171,
+  "monthlyListeners": 2455921,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 58107,
+        "numberOfListeners": 57884,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 56126,
+        "numberOfListeners": 56172,
         "region": "NY"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 46239,
+        "numberOfListeners": 46102,
         "region": "PA"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 41520,
+        "numberOfListeners": 41119,
         "region": "CO"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 40931,
+        "numberOfListeners": 40944,
         "region": "NC"
       }
     ]

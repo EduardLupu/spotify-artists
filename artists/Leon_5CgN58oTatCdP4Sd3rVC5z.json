@@ -2,38 +2,38 @@
   "id": "5CgN58oTatCdP4Sd3rVC5z",
   "name": "Leon",
   "followers": 231,
-  "monthlyListeners": 47,
+  "monthlyListeners": 46,
   "topCities": {
     "items": [
       {
-        "city": "Kolkata",
-        "country": "IN",
+        "city": "Madrid",
+        "country": "ES",
         "numberOfListeners": 1,
-        "region": "WB"
+        "region": "MD"
+      },
+      {
+        "city": "Maspalomas",
+        "country": "ES",
+        "numberOfListeners": 1,
+        "region": "CN"
+      },
+      {
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 1,
+        "region": "CT"
+      },
+      {
+        "city": "Tláhuac",
+        "country": "MX",
+        "numberOfListeners": 1,
+        "region": "CMX"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
         "numberOfListeners": 1,
         "region": "CMX"
-      },
-      {
-        "city": "Morelia",
-        "country": "MX",
-        "numberOfListeners": 1,
-        "region": "MIC"
-      },
-      {
-        "city": "Ciudad Nezahualcoyotl",
-        "country": "MX",
-        "numberOfListeners": 1,
-        "region": "MEX"
-      },
-      {
-        "city": "Aguascalientes",
-        "country": "MX",
-        "numberOfListeners": 1,
-        "region": "AGU"
       }
     ]
   },

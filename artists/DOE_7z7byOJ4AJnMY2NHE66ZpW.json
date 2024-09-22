@@ -1,38 +1,38 @@
 {
   "id": "7z7byOJ4AJnMY2NHE66ZpW",
   "name": "DOE",
-  "followers": 67869,
-  "monthlyListeners": 441637,
+  "followers": 67900,
+  "monthlyListeners": 441352,
   "topCities": {
     "items": [
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 7757,
+        "numberOfListeners": 7742,
         "region": "TX"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 7150,
+        "numberOfListeners": 7171,
         "region": "GA"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 6580,
+        "numberOfListeners": 6584,
         "region": "NC"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 6313,
+        "numberOfListeners": 6328,
         "region": "TX"
       },
       {
         "city": "Lagos",
         "country": "NG",
-        "numberOfListeners": 6168,
+        "numberOfListeners": 6093,
         "region": "LA"
       }
     ]

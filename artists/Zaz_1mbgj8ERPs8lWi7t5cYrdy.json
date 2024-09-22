@@ -1,38 +1,38 @@
 {
   "id": "1mbgj8ERPs8lWi7t5cYrdy",
   "name": "Zaz",
-  "followers": 1569026,
-  "monthlyListeners": 3331511,
+  "followers": 1569393,
+  "monthlyListeners": 3304409,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 126380,
+        "numberOfListeners": 125945,
         "region": "IDF"
       },
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 108957,
+        "numberOfListeners": 108509,
         "region": "34"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 64492,
+        "numberOfListeners": 64236,
         "region": "BRU"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 49290,
+        "numberOfListeners": 49024,
         "region": "QC"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 46972,
+        "numberOfListeners": 46934,
         "region": "MD"
       }
     ]

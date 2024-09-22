@@ -1,38 +1,38 @@
 {
   "id": "4k1ELeJKT1ISyDv8JivPpB",
   "name": "The Prodigy",
-  "followers": 2541259,
-  "monthlyListeners": 4002008,
+  "followers": 2542099,
+  "monthlyListeners": 3989583,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 196483,
+        "numberOfListeners": 194555,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 70624,
+        "numberOfListeners": 70739,
         "region": "NSW"
       },
       {
         "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 70390,
+        "numberOfListeners": 70552,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 66710,
+        "numberOfListeners": 66679,
         "region": "VIC"
       },
       {
         "city": "Birmingham",
         "country": "GB",
-        "numberOfListeners": 64239,
+        "numberOfListeners": 63138,
         "region": "ENG"
       }
     ]

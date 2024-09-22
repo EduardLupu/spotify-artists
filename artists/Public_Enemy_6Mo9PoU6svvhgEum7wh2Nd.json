@@ -1,38 +1,38 @@
 {
   "id": "6Mo9PoU6svvhgEum7wh2Nd",
   "name": "Public Enemy",
-  "followers": 1099750,
-  "monthlyListeners": 1971312,
+  "followers": 1099978,
+  "monthlyListeners": 1982062,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 56911,
+        "numberOfListeners": 56916,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 36545,
+        "numberOfListeners": 36782,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 34706,
+        "numberOfListeners": 34900,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 23948,
+        "numberOfListeners": 24104,
         "region": "QLD"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 21750,
+        "numberOfListeners": 21890,
         "region": "L"
       }
     ]

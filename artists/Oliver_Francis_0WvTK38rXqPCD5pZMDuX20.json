@@ -1,38 +1,38 @@
 {
   "id": "0WvTK38rXqPCD5pZMDuX20",
   "name": "Oliver Francis",
-  "followers": 215049,
-  "monthlyListeners": 282545,
+  "followers": 215054,
+  "monthlyListeners": 282503,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 4786,
+        "numberOfListeners": 4768,
         "region": "IL"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 3976,
+        "numberOfListeners": 3972,
         "region": "AZ"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 3767,
+        "numberOfListeners": 3737,
         "region": "CA"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 3634,
+        "numberOfListeners": 3645,
         "region": "CO"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 3365,
+        "numberOfListeners": 3340,
         "region": "TX"
       }
     ]

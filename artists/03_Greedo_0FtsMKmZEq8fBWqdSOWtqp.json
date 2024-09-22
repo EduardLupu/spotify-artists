@@ -1,38 +1,38 @@
 {
   "id": "0FtsMKmZEq8fBWqdSOWtqp",
   "name": "03 Greedo",
-  "followers": 491565,
-  "monthlyListeners": 2333692,
+  "followers": 491713,
+  "monthlyListeners": 2329626,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 122916,
+        "numberOfListeners": 122604,
         "region": "CA"
       },
       {
         "city": "Sacramento",
         "country": "US",
-        "numberOfListeners": 48675,
+        "numberOfListeners": 48184,
         "region": "CA"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 44055,
+        "numberOfListeners": 44126,
         "region": "AZ"
       },
       {
         "city": "San Francisco",
         "country": "US",
-        "numberOfListeners": 39995,
+        "numberOfListeners": 39893,
         "region": "CA"
       },
       {
         "city": "San Diego",
         "country": "US",
-        "numberOfListeners": 38119,
+        "numberOfListeners": 38645,
         "region": "CA"
       }
     ]

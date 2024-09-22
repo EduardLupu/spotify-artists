@@ -1,38 +1,38 @@
 {
   "id": "4iMO20EPodreIaEl8qW66y",
   "name": "Still Woozy",
-  "followers": 1039230,
-  "monthlyListeners": 5474797,
+  "followers": 1039427,
+  "monthlyListeners": 5463235,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 111337,
+        "numberOfListeners": 110878,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 94896,
+        "numberOfListeners": 94742,
         "region": "NY"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 92163,
+        "numberOfListeners": 92208,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 90615,
+        "numberOfListeners": 89992,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 83930,
+        "numberOfListeners": 83566,
         "region": "ENG"
       }
     ]

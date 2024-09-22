@@ -2,19 +2,19 @@
   "id": "7EfEkP41WoMzL8AW95htN7",
   "name": "Savage",
   "followers": 174,
-  "monthlyListeners": 394,
+  "monthlyListeners": 401,
   "topCities": {
     "items": [
       {
         "city": "Prague",
         "country": "CZ",
-        "numberOfListeners": 42,
+        "numberOfListeners": 38,
         "region": "10"
       },
       {
         "city": "Bratislava",
         "country": "SK",
-        "numberOfListeners": 29,
+        "numberOfListeners": 30,
         "region": "BL"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Budapest",
         "country": "HU",
-        "numberOfListeners": 14,
+        "numberOfListeners": 15,
         "region": "BU"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 8,
+        "numberOfListeners": 9,
         "region": "NH"
       }
     ]

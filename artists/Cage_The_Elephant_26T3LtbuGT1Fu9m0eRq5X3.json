@@ -1,41 +1,41 @@
 {
   "id": "26T3LtbuGT1Fu9m0eRq5X3",
   "name": "Cage The Elephant",
-  "followers": 3844987,
-  "monthlyListeners": 17728709,
+  "followers": 3846402,
+  "monthlyListeners": 17719930,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 300393,
+        "numberOfListeners": 299109,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 255445,
+        "numberOfListeners": 255066,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 237008,
+        "numberOfListeners": 237330,
         "region": "NSW"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 230633,
+        "numberOfListeners": 230613,
         "region": "NY"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 207526,
+        "numberOfListeners": 207686,
         "region": "CO"
       }
     ]
   },
-  "worldRank": 443
+  "worldRank": 442
 }

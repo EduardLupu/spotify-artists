@@ -1,41 +1,41 @@
 {
   "id": "0ECwFtbIWEVNwjlrfc6xoL",
   "name": "Eagles",
-  "followers": 10972737,
-  "monthlyListeners": 21372297,
+  "followers": 10975820,
+  "monthlyListeners": 21316893,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 325554,
+        "numberOfListeners": 325603,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 260477,
+        "numberOfListeners": 260140,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 242772,
+        "numberOfListeners": 241225,
         "region": "ENG"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 240182,
+        "numberOfListeners": 239870,
         "region": "QLD"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 214064,
+        "numberOfListeners": 212851,
         "region": "IL"
       }
     ]
   },
-  "worldRank": 331
+  "worldRank": 329
 }

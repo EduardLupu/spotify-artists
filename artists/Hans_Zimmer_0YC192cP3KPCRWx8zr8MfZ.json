@@ -1,38 +1,38 @@
 {
   "id": "0YC192cP3KPCRWx8zr8MfZ",
   "name": "Hans Zimmer",
-  "followers": 4121485,
-  "monthlyListeners": 12472359,
+  "followers": 4123084,
+  "monthlyListeners": 12492368,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 194341,
+        "numberOfListeners": 194826,
         "region": "IDF"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 193068,
+        "numberOfListeners": 192865,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 114626,
+        "numberOfListeners": 114535,
         "region": "NSW"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 110826,
+        "numberOfListeners": 110716,
         "region": "SP"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 109550,
+        "numberOfListeners": 109723,
         "region": "BE"
       }
     ]

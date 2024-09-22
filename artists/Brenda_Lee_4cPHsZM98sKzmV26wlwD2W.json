@@ -1,38 +1,38 @@
 {
   "id": "4cPHsZM98sKzmV26wlwD2W",
   "name": "Brenda Lee",
-  "followers": 393546,
-  "monthlyListeners": 2883447,
+  "followers": 393659,
+  "monthlyListeners": 2918805,
   "topCities": {
     "items": [
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 34466,
+        "numberOfListeners": 35226,
         "region": "00"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 32847,
+        "numberOfListeners": 32815,
         "region": "RM"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 30281,
+        "numberOfListeners": 30587,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 25033,
+        "numberOfListeners": 25422,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 24437,
+        "numberOfListeners": 24691,
         "region": "NSW"
       }
     ]

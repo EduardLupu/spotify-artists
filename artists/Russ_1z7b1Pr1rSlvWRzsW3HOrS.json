@@ -1,38 +1,38 @@
 {
   "id": "1z7b1Pr1rSlvWRzsW3HOrS",
   "name": "Russ",
-  "followers": 5222454,
-  "monthlyListeners": 14352307,
+  "followers": 5223415,
+  "monthlyListeners": 14289833,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 213929,
+        "numberOfListeners": 213132,
         "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 177753,
+        "numberOfListeners": 176342,
         "region": "CA"
-      },
-      {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 164139,
-        "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 164049,
+        "numberOfListeners": 162775,
         "region": "ENG"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 162453,
+        "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 163195,
+        "numberOfListeners": 162244,
         "region": "VIC"
       }
     ]

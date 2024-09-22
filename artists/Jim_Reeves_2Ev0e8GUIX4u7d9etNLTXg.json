@@ -1,38 +1,38 @@
 {
   "id": "2Ev0e8GUIX4u7d9etNLTXg",
   "name": "Jim Reeves",
-  "followers": 464563,
-  "monthlyListeners": 518386,
+  "followers": 464669,
+  "monthlyListeners": 518068,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 8706,
+        "numberOfListeners": 8698,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 8231,
+        "numberOfListeners": 8235,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 7679,
+        "numberOfListeners": 7672,
         "region": "VIC"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 6992,
+        "numberOfListeners": 7011,
         "region": "NH"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 6697,
+        "numberOfListeners": 6736,
         "region": "JK"
       }
     ]

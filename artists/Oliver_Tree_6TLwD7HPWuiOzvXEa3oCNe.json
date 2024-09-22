@@ -1,38 +1,38 @@
 {
   "id": "6TLwD7HPWuiOzvXEa3oCNe",
   "name": "Oliver Tree",
-  "followers": 2484211,
-  "monthlyListeners": 11574559,
+  "followers": 2484758,
+  "monthlyListeners": 11576624,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 145266,
+        "numberOfListeners": 145356,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 122079,
+        "numberOfListeners": 122055,
         "region": "VIC"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 116061,
+        "numberOfListeners": 115711,
         "region": "SP"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 111693,
+        "numberOfListeners": 111486,
         "region": "CMX"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 107161,
+        "numberOfListeners": 106794,
         "region": "ENG"
       }
     ]

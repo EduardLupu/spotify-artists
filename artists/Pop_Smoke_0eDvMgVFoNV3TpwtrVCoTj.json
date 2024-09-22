@@ -1,41 +1,41 @@
 {
   "id": "0eDvMgVFoNV3TpwtrVCoTj",
   "name": "Pop Smoke",
-  "followers": 14525393,
-  "monthlyListeners": 20390803,
+  "followers": 14528915,
+  "monthlyListeners": 20326516,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 395093,
+        "numberOfListeners": 393142,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 320162,
+        "numberOfListeners": 319148,
         "region": "NSW"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 269624,
+        "numberOfListeners": 268879,
         "region": "ON"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 249931,
+        "numberOfListeners": 249061,
         "region": "VIC"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 238348,
+        "numberOfListeners": 238682,
         "region": "NY"
       }
     ]
   },
-  "worldRank": 345
+  "worldRank": 347
 }

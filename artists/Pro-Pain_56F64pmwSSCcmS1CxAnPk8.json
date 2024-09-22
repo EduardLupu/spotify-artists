@@ -1,38 +1,38 @@
 {
   "id": "56F64pmwSSCcmS1CxAnPk8",
   "name": "Pro-Pain",
-  "followers": 75125,
-  "monthlyListeners": 37697,
+  "followers": 75149,
+  "monthlyListeners": 37601,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 932,
+        "numberOfListeners": 922,
         "region": "BE"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 907,
+        "numberOfListeners": 909,
         "region": "BRU"
       },
       {
         "city": "Prague",
         "country": "CZ",
-        "numberOfListeners": 821,
+        "numberOfListeners": 812,
         "region": "10"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 611,
+        "numberOfListeners": 625,
         "region": "HH"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 519,
+        "numberOfListeners": 524,
         "region": "NH"
       }
     ]

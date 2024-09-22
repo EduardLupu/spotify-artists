@@ -2,38 +2,38 @@
   "id": "3WceKSKTCYsxIFHVH0Zb7j",
   "name": "Crush",
   "followers": 280,
-  "monthlyListeners": 288,
+  "monthlyListeners": 274,
   "topCities": {
     "items": [
       {
         "city": "Cologne",
         "country": "DE",
-        "numberOfListeners": 60,
+        "numberOfListeners": 54,
         "region": "NW"
       },
       {
         "city": "Düsseldorf",
         "country": "DE",
-        "numberOfListeners": 22,
+        "numberOfListeners": 21,
         "region": "NW"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 18,
+        "numberOfListeners": 17,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 15,
+        "numberOfListeners": 16,
         "region": "HH"
       },
       {
-        "city": "Jülich",
+        "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 13,
-        "region": "NW"
+        "numberOfListeners": 12,
+        "region": "HE"
       }
     ]
   },

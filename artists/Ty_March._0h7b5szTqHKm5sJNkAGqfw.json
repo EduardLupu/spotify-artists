@@ -1,38 +1,38 @@
 {
   "id": "0h7b5szTqHKm5sJNkAGqfw",
   "name": "Ty March.",
-  "followers": 26222,
-  "monthlyListeners": 183334,
+  "followers": 26230,
+  "monthlyListeners": 180086,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 3538,
+        "numberOfListeners": 3483,
         "region": "IL"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 3522,
+        "numberOfListeners": 3467,
         "region": "NC"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 3200,
+        "numberOfListeners": 3117,
         "region": "TX"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 2976,
+        "numberOfListeners": 2944,
         "region": "QLD"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 2842,
+        "numberOfListeners": 2787,
         "region": "CO"
       }
     ]

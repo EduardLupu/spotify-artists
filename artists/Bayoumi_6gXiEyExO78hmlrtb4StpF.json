@@ -1,26 +1,26 @@
 {
   "id": "6gXiEyExO78hmlrtb4StpF",
   "name": "Bayoumi",
-  "followers": 401,
-  "monthlyListeners": 1019,
+  "followers": 402,
+  "monthlyListeners": 1006,
   "topCities": {
     "items": [
       {
-        "city": "Istanbul",
-        "country": "TR",
-        "numberOfListeners": 19,
-        "region": "34"
-      },
-      {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 17,
+        "numberOfListeners": 18,
         "region": "JK"
+      },
+      {
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 17,
+        "region": "34"
       },
       {
         "city": "Bengaluru",
         "country": "IN",
-        "numberOfListeners": 15,
+        "numberOfListeners": 14,
         "region": "KA"
       },
       {
@@ -30,10 +30,10 @@
         "region": "BU"
       },
       {
-        "city": "Mumbai",
-        "country": "IN",
+        "city": "Sydney",
+        "country": "AU",
         "numberOfListeners": 11,
-        "region": "MH"
+        "region": "NSW"
       }
     ]
   },

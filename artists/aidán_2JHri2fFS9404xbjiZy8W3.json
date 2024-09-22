@@ -2,7 +2,7 @@
   "id": "2JHri2fFS9404xbjiZy8W3",
   "name": "aidán",
   "followers": 117,
-  "monthlyListeners": 82,
+  "monthlyListeners": 79,
   "topCities": {
     "items": [
       {
@@ -12,28 +12,28 @@
         "region": "L"
       },
       {
-        "city": "Clifden",
-        "country": "IE",
-        "numberOfListeners": 2,
-        "region": "C"
-      },
-      {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 2,
-        "region": "NSW"
-      },
-      {
-        "city": "Melbourne",
-        "country": "AU",
-        "numberOfListeners": 2,
-        "region": "VIC"
-      },
-      {
         "city": "Vancouver",
         "country": "CA",
         "numberOfListeners": 2,
         "region": "BC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "IL"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "PA"
       }
     ]
   },

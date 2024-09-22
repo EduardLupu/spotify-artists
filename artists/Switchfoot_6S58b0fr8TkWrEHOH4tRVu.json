@@ -1,38 +1,38 @@
 {
   "id": "6S58b0fr8TkWrEHOH4tRVu",
   "name": "Switchfoot",
-  "followers": 704065,
-  "monthlyListeners": 2129571,
+  "followers": 704203,
+  "monthlyListeners": 2128170,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 32890,
+        "numberOfListeners": 32701,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 31690,
+        "numberOfListeners": 31599,
         "region": "TX"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 26162,
+        "numberOfListeners": 26220,
         "region": "NC"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 25160,
+        "numberOfListeners": 25144,
         "region": "TX"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 24564,
+        "numberOfListeners": 24465,
         "region": "WA"
       }
     ]

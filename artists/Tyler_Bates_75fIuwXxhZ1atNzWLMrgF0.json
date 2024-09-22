@@ -1,38 +1,38 @@
 {
   "id": "75fIuwXxhZ1atNzWLMrgF0",
   "name": "Tyler Bates",
-  "followers": 81330,
-  "monthlyListeners": 1068467,
+  "followers": 81348,
+  "monthlyListeners": 1064300,
   "topCities": {
     "items": [
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 14375,
+        "numberOfListeners": 14387,
         "region": "34"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 12636,
+        "numberOfListeners": 12501,
         "region": "ENG"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 11453,
+        "numberOfListeners": 11369,
         "region": "CMX"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 9493,
+        "numberOfListeners": 9491,
         "region": "IDF"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 9380,
+        "numberOfListeners": 9345,
         "region": "NSW"
       }
     ]

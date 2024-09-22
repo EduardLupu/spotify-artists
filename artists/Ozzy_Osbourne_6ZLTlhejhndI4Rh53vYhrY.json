@@ -1,38 +1,38 @@
 {
   "id": "6ZLTlhejhndI4Rh53vYhrY",
   "name": "Ozzy Osbourne",
-  "followers": 5694755,
-  "monthlyListeners": 9480943,
+  "followers": 5697506,
+  "monthlyListeners": 9449072,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 172952,
+        "numberOfListeners": 172260,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 120280,
+        "numberOfListeners": 118681,
         "region": "RM"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 108578,
+        "numberOfListeners": 107730,
         "region": "IL"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 98544,
+        "numberOfListeners": 98263,
         "region": "QC"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 93134,
+        "numberOfListeners": 92336,
         "region": "ON"
       }
     ]

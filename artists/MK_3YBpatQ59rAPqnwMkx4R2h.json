@@ -1,38 +1,38 @@
 {
   "id": "3YBpatQ59rAPqnwMkx4R2h",
   "name": "MK",
-  "followers": 3229,
-  "monthlyListeners": 1641,
+  "followers": 3230,
+  "monthlyListeners": 1659,
   "topCities": {
     "items": [
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 896,
+        "numberOfListeners": 912,
         "region": "QC"
       },
       {
         "city": "Laval",
         "country": "CA",
-        "numberOfListeners": 96,
+        "numberOfListeners": 94,
         "region": "QC"
       },
       {
         "city": "Québec",
         "country": "CA",
-        "numberOfListeners": 75,
+        "numberOfListeners": 76,
         "region": "QC"
       },
       {
         "city": "Longueuil",
         "country": "CA",
-        "numberOfListeners": 71,
+        "numberOfListeners": 70,
         "region": "QC"
       },
       {
         "city": "Ottawa",
         "country": "CA",
-        "numberOfListeners": 54,
+        "numberOfListeners": 53,
         "region": "ON"
       }
     ]

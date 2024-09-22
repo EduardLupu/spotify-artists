@@ -1,38 +1,38 @@
 {
   "id": "35U9lQaRWSQISxQAB94Meo",
   "name": "America",
-  "followers": 1793690,
-  "monthlyListeners": 12394631,
+  "followers": 1794500,
+  "monthlyListeners": 12487983,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 182150,
+        "numberOfListeners": 183949,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 146309,
+        "numberOfListeners": 147685,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 138571,
+        "numberOfListeners": 140068,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 132827,
+        "numberOfListeners": 134143,
         "region": "NY"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 132340,
+        "numberOfListeners": 133563,
         "region": "CA"
       }
     ]

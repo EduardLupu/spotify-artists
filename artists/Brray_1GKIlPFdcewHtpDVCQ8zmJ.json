@@ -1,38 +1,38 @@
 {
   "id": "1GKIlPFdcewHtpDVCQ8zmJ",
   "name": "Brray",
-  "followers": 428296,
-  "monthlyListeners": 13649756,
+  "followers": 429720,
+  "monthlyListeners": 13632109,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 778910,
+        "numberOfListeners": 773540,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 541794,
+        "numberOfListeners": 539942,
         "region": "DC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 457684,
+        "numberOfListeners": 456071,
         "region": "CMX"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 440167,
+        "numberOfListeners": 439903,
         "region": "LMA"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 283825,
+        "numberOfListeners": 283921,
         "region": "C"
       }
     ]

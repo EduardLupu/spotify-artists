@@ -14,7 +14,7 @@
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 8,
+        "numberOfListeners": 7,
         "region": "IDF"
       },
       {
@@ -24,16 +24,16 @@
         "region": "MG"
       },
       {
-        "city": "Silver Spring",
-        "country": "US",
+        "city": "Ouagadougou",
+        "country": "BF",
         "numberOfListeners": 3,
-        "region": "MD"
+        "region": "03"
       },
       {
-        "city": "Madrid",
-        "country": "ES",
-        "numberOfListeners": 2,
-        "region": "MD"
+        "city": "Conakry",
+        "country": "GN",
+        "numberOfListeners": 3,
+        "region": "C"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "3K2Srho6NCF3o9MswGR76H",
   "name": "Bakar",
-  "followers": 636512,
-  "monthlyListeners": 10660592,
+  "followers": 636859,
+  "monthlyListeners": 10519061,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 243880,
+        "numberOfListeners": 240654,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 203798,
+        "numberOfListeners": 201902,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 161481,
+        "numberOfListeners": 159845,
         "region": "VIC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 150425,
+        "numberOfListeners": 148278,
         "region": "CA"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 135620,
+        "numberOfListeners": 134608,
         "region": "QLD"
       }
     ]

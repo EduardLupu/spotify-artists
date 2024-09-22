@@ -1,38 +1,38 @@
 {
   "id": "1DyqDoMaDbFucSdywPnwhO",
   "name": "OKI",
-  "followers": 6225,
-  "monthlyListeners": 13842,
+  "followers": 6228,
+  "monthlyListeners": 13653,
   "topCities": {
     "items": [
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 396,
+        "numberOfListeners": 397,
         "region": "13"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 392,
+        "numberOfListeners": 379,
         "region": "ENG"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 342,
+        "numberOfListeners": 332,
         "region": "L"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 287,
+        "numberOfListeners": 279,
         "region": "BE"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 184,
+        "numberOfListeners": 188,
         "region": "IDF"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "5gqmbbfjcikQBzPB5Hv13I",
   "name": "Gazo",
-  "followers": 3109108,
-  "monthlyListeners": 7094384,
+  "followers": 3112893,
+  "monthlyListeners": 7058136,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 1079678,
+        "numberOfListeners": 1075686,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 285860,
+        "numberOfListeners": 285563,
         "region": "BRU"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 230922,
+        "numberOfListeners": 229231,
         "region": "ARA"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 190229,
+        "numberOfListeners": 190625,
         "region": "HDF"
       },
       {
         "city": "Marseille",
         "country": "FR",
-        "numberOfListeners": 168063,
+        "numberOfListeners": 165094,
         "region": "PAC"
       }
     ]

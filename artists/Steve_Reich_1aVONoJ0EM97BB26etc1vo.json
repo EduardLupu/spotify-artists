@@ -1,38 +1,38 @@
 {
   "id": "1aVONoJ0EM97BB26etc1vo",
   "name": "Steve Reich",
-  "followers": 234787,
-  "monthlyListeners": 150650,
+  "followers": 234814,
+  "monthlyListeners": 150513,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 4240,
+        "numberOfListeners": 4273,
         "region": "ENG"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 2693,
-        "region": "NY"
-      },
-      {
-        "city": "New York City",
-        "country": "US",
-        "numberOfListeners": 2442,
+        "numberOfListeners": 2686,
         "region": "NY"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 2434,
+        "numberOfListeners": 2445,
         "region": "IDF"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 2435,
+        "region": "NY"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 2151,
+        "numberOfListeners": 2130,
         "region": "BE"
       }
     ]

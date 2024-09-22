@@ -1,38 +1,38 @@
 {
   "id": "4zYX8Aa744hQ5O2hpAYQI3",
   "name": "Mike Cervello",
-  "followers": 47056,
-  "monthlyListeners": 179560,
+  "followers": 47062,
+  "monthlyListeners": 179847,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 3060,
+        "numberOfListeners": 3074,
         "region": "NH"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 2298,
+        "numberOfListeners": 2270,
         "region": "CA"
-      },
-      {
-        "city": "Mexico City",
-        "country": "MX",
-        "numberOfListeners": 2098,
-        "region": "CMX"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 2096,
+        "numberOfListeners": 2097,
         "region": "ZH"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 2093,
+        "region": "CMX"
       },
       {
         "city": "Bangkok",
         "country": "TH",
-        "numberOfListeners": 2065,
+        "numberOfListeners": 2080,
         "region": "10"
       }
     ]

@@ -1,41 +1,41 @@
 {
   "id": "711MCceyCBcFnzjGY4Q7Un",
   "name": "AC/DC",
-  "followers": 29382328,
-  "monthlyListeners": 37924017,
+  "followers": 29391461,
+  "monthlyListeners": 37913565,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 670027,
+        "numberOfListeners": 669951,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 557672,
+        "numberOfListeners": 554808,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 531343,
+        "numberOfListeners": 532704,
         "region": "NSW"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 471481,
+        "numberOfListeners": 469979,
         "region": "CMX"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 461437,
+        "numberOfListeners": 459397,
         "region": "ENG"
       }
     ]
   },
-  "worldRank": 90
+  "worldRank": 91
 }

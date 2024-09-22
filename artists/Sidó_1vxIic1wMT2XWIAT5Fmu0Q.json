@@ -1,39 +1,39 @@
 {
   "id": "1vxIic1wMT2XWIAT5Fmu0Q",
   "name": "Sidó",
-  "followers": 553,
-  "monthlyListeners": 859,
+  "followers": 554,
+  "monthlyListeners": 865,
   "topCities": {
     "items": [
       {
         "city": "Lisbon",
         "country": "PT",
-        "numberOfListeners": 95,
+        "numberOfListeners": 97,
         "region": "11"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 72,
+        "numberOfListeners": 71,
         "region": "IDF"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 28,
-        "region": "ENG"
       },
       {
         "city": "Porto",
         "country": "PT",
-        "numberOfListeners": 24,
+        "numberOfListeners": 25,
         "region": "13"
       },
       {
-        "city": "Luanda",
-        "country": "AO",
+        "city": "Bissau",
+        "country": "GW",
         "numberOfListeners": 24,
-        "region": "LUA"
+        "region": "BS"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 24,
+        "region": "ENG"
       }
     ]
   },

@@ -1,41 +1,41 @@
 {
   "id": "3JhNCzhSMTxs9WLGJJxWOY",
   "name": "Macklemore",
-  "followers": 2384525,
-  "monthlyListeners": 30429787,
+  "followers": 2386278,
+  "monthlyListeners": 30331773,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 477352,
+        "numberOfListeners": 478188,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 411078,
+        "numberOfListeners": 408386,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 401064,
+        "numberOfListeners": 401140,
         "region": "VIC"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 362403,
+        "numberOfListeners": 362508,
         "region": "IDF"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 338875,
+        "numberOfListeners": 338898,
         "region": "QLD"
       }
     ]
   },
-  "worldRank": 152
+  "worldRank": 154
 }

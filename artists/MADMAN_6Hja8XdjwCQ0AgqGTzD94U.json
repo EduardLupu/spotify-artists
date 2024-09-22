@@ -2,7 +2,7 @@
   "id": "6Hja8XdjwCQ0AgqGTzD94U",
   "name": "MADMAN",
   "followers": 227,
-  "monthlyListeners": 69,
+  "monthlyListeners": 68,
   "topCities": {
     "items": [
       {
@@ -12,16 +12,16 @@
         "region": "22"
       },
       {
-        "city": "Varna",
-        "country": "BG",
-        "numberOfListeners": 3,
-        "region": "03"
-      },
-      {
         "city": "Burgas",
         "country": "BG",
         "numberOfListeners": 3,
         "region": "02"
+      },
+      {
+        "city": "Varna",
+        "country": "BG",
+        "numberOfListeners": 3,
+        "region": "03"
       },
       {
         "city": "Pernik",

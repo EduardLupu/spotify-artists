@@ -1,41 +1,41 @@
 {
   "id": "6Xgp2XMz1fhVYe7i6yNAax",
   "name": "Trippie Redd",
-  "followers": 9790972,
-  "monthlyListeners": 24023710,
+  "followers": 9794034,
+  "monthlyListeners": 23951965,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 353476,
+        "numberOfListeners": 351261,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 331360,
+        "numberOfListeners": 330073,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 280133,
+        "numberOfListeners": 278992,
         "region": "ENG"
-      },
-      {
-        "city": "Dallas",
-        "country": "US",
-        "numberOfListeners": 275952,
-        "region": "TX"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 275129,
+        "numberOfListeners": 275551,
         "region": "NY"
+      },
+      {
+        "city": "Dallas",
+        "country": "US",
+        "numberOfListeners": 274905,
+        "region": "TX"
       }
     ]
   },
-  "worldRank": 245
+  "worldRank": 244
 }

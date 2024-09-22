@@ -1,38 +1,38 @@
 {
   "id": "2FS22haX3FYbyOsUAkuYqZ",
   "name": "Los Fabulosos Cadillacs",
-  "followers": 3150168,
-  "monthlyListeners": 6045501,
+  "followers": 3151068,
+  "monthlyListeners": 6015524,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 536078,
+        "numberOfListeners": 532223,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 495530,
+        "numberOfListeners": 493558,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 292687,
+        "numberOfListeners": 291369,
         "region": "DC"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 268845,
+        "numberOfListeners": 267940,
         "region": "C"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 207688,
+        "numberOfListeners": 209214,
         "region": "CMX"
       }
     ]

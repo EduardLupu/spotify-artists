@@ -1,38 +1,38 @@
 {
   "id": "1J4ofBDurgOATlfzzyniZp",
   "name": "ZOLA",
-  "followers": 3348,
-  "monthlyListeners": 22890,
+  "followers": 3349,
+  "monthlyListeners": 22677,
   "topCities": {
     "items": [
       {
-        "city": "Paris",
-        "country": "FR",
-        "numberOfListeners": 282,
-        "region": "IDF"
-      },
-      {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 280,
+        "numberOfListeners": 282,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 276,
+        "numberOfListeners": 278,
         "region": "CA"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 278,
+        "region": "IDF"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 255,
+        "numberOfListeners": 261,
         "region": "NY"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 251,
+        "numberOfListeners": 245,
         "region": "NH"
       }
     ]

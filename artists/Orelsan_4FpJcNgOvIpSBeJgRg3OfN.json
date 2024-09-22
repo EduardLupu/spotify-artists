@@ -1,38 +1,38 @@
 {
   "id": "4FpJcNgOvIpSBeJgRg3OfN",
   "name": "Orelsan",
-  "followers": 2437037,
-  "monthlyListeners": 2799124,
+  "followers": 2437577,
+  "monthlyListeners": 2816337,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 513471,
+        "numberOfListeners": 519313,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 136281,
+        "numberOfListeners": 136940,
         "region": "BRU"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 111477,
+        "numberOfListeners": 112467,
         "region": "ARA"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 87262,
+        "numberOfListeners": 88556,
         "region": "HDF"
       },
       {
         "city": "Nantes",
         "country": "FR",
-        "numberOfListeners": 72066,
+        "numberOfListeners": 73004,
         "region": "PDL"
       }
     ]

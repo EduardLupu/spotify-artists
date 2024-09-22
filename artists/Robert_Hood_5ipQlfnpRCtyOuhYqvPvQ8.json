@@ -1,39 +1,39 @@
 {
   "id": "5ipQlfnpRCtyOuhYqvPvQ8",
   "name": "Robert Hood",
-  "followers": 68964,
-  "monthlyListeners": 72713,
+  "followers": 68977,
+  "monthlyListeners": 72379,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 2344,
+        "numberOfListeners": 2346,
         "region": "BE"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 1693,
+        "numberOfListeners": 1696,
         "region": "NH"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1657,
+        "numberOfListeners": 1643,
         "region": "ENG"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 1225,
+        "numberOfListeners": 1215,
         "region": "IDF"
       },
       {
-        "city": "Brussels",
-        "country": "BE",
-        "numberOfListeners": 1188,
-        "region": "BRU"
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 1172,
+        "region": "L"
       }
     ]
   },

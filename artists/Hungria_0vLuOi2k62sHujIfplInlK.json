@@ -1,38 +1,38 @@
 {
   "id": "0vLuOi2k62sHujIfplInlK",
   "name": "Hungria",
-  "followers": 9536114,
-  "monthlyListeners": 9521357,
+  "followers": 9539301,
+  "monthlyListeners": 9525822,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 1600401,
+        "numberOfListeners": 1599315,
         "region": "SP"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 583105,
+        "numberOfListeners": 583992,
         "region": "MG"
       },
       {
         "city": "Brasília",
         "country": "BR",
-        "numberOfListeners": 488309,
+        "numberOfListeners": 489033,
         "region": "DF"
       },
       {
         "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 468940,
+        "numberOfListeners": 469726,
         "region": "PR"
       },
       {
         "city": "Campinas",
         "country": "BR",
-        "numberOfListeners": 468360,
+        "numberOfListeners": 469142,
         "region": "SP"
       }
     ]

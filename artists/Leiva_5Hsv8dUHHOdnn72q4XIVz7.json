@@ -1,38 +1,38 @@
 {
   "id": "5Hsv8dUHHOdnn72q4XIVz7",
   "name": "Leiva",
-  "followers": 750188,
-  "monthlyListeners": 1455328,
+  "followers": 750337,
+  "monthlyListeners": 1452931,
   "topCities": {
     "items": [
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 222999,
+        "numberOfListeners": 223745,
         "region": "MD"
       },
       {
         "city": "Barcelona",
         "country": "ES",
-        "numberOfListeners": 99930,
+        "numberOfListeners": 99238,
         "region": "CT"
       },
       {
         "city": "Valencia",
         "country": "ES",
-        "numberOfListeners": 48080,
+        "numberOfListeners": 47593,
         "region": "VC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 35769,
+        "numberOfListeners": 35456,
         "region": "CMX"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 30340,
+        "numberOfListeners": 30301,
         "region": "C"
       }
     ]

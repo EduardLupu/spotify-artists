@@ -2,38 +2,38 @@
   "id": "2VxsUkNiYrtk9OyaRDu6yO",
   "name": "Leon",
   "followers": 34,
-  "monthlyListeners": 3617,
+  "monthlyListeners": 3400,
   "topCities": {
     "items": [
       {
         "city": "Zurich",
         "country": "CH",
-        "numberOfListeners": 384,
+        "numberOfListeners": 362,
         "region": "ZH"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 167,
+        "numberOfListeners": 164,
         "region": "BW"
-      },
-      {
-        "city": "Pristina",
-        "country": "XK",
-        "numberOfListeners": 154,
-        "region": ""
-      },
-      {
-        "city": "Munich",
-        "country": "DE",
-        "numberOfListeners": 150,
-        "region": "BY"
       },
       {
         "city": "Vienna",
         "country": "AT",
-        "numberOfListeners": 143,
+        "numberOfListeners": 139,
         "region": "9"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 136,
+        "region": "BY"
+      },
+      {
+        "city": "Pristina",
+        "country": "XK",
+        "numberOfListeners": 132,
+        "region": ""
       }
     ]
   },

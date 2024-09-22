@@ -1,14 +1,14 @@
 {
   "id": "5CmYriYkfbt2eBdoK7zjSJ",
   "name": "Phoenix",
-  "followers": 158,
-  "monthlyListeners": 1716,
+  "followers": 159,
+  "monthlyListeners": 1733,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 120,
+        "numberOfListeners": 121,
         "region": "NH"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 43,
+        "numberOfListeners": 44,
         "region": "BE"
       },
       {
         "city": "Utrecht",
         "country": "NL",
-        "numberOfListeners": 41,
+        "numberOfListeners": 42,
         "region": "UT"
       }
     ]

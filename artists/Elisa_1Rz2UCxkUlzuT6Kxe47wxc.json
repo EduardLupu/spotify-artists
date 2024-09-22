@@ -1,14 +1,14 @@
 {
   "id": "1Rz2UCxkUlzuT6Kxe47wxc",
   "name": "Elisa",
-  "followers": 806,
-  "monthlyListeners": 6099,
+  "followers": 808,
+  "monthlyListeners": 6123,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 466,
+        "numberOfListeners": 464,
         "region": "CMX"
       },
       {
@@ -20,19 +20,19 @@
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 172,
+        "numberOfListeners": 170,
         "region": "JAL"
       },
       {
         "city": "Puebla City",
         "country": "MX",
-        "numberOfListeners": 145,
+        "numberOfListeners": 143,
         "region": "PUE"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 136,
+        "numberOfListeners": 138,
         "region": "QUE"
       }
     ]

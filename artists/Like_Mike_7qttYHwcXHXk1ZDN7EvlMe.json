@@ -8,7 +8,7 @@
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 6,
+        "numberOfListeners": 7,
         "region": "GA"
       },
       {
@@ -20,14 +20,14 @@
       {
         "city": "Decatur",
         "country": "US",
-        "numberOfListeners": 4,
+        "numberOfListeners": 3,
         "region": "GA"
       },
       {
-        "city": "Philadelphia",
-        "country": "US",
+        "city": "London",
+        "country": "GB",
         "numberOfListeners": 2,
-        "region": "PA"
+        "region": "ENG"
       },
       {
         "city": "Dallas",

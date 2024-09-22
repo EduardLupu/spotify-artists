@@ -1,39 +1,39 @@
 {
   "id": "4SXj7TVoA3bgfR8AVssACa",
   "name": "Caspian",
-  "followers": 118939,
-  "monthlyListeners": 70207,
+  "followers": 118952,
+  "monthlyListeners": 70124,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 899,
+        "numberOfListeners": 892,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 705,
+        "numberOfListeners": 711,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 699,
+        "numberOfListeners": 691,
         "region": "IL"
-      },
-      {
-        "city": "São Paulo",
-        "country": "BR",
-        "numberOfListeners": 667,
-        "region": "SP"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 667,
+        "numberOfListeners": 672,
         "region": "VIC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 667,
+        "region": "CA"
       }
     ]
   },

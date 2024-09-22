@@ -1,38 +1,38 @@
 {
   "id": "7MSUfLeTdDEoZiJPDSBXgi",
   "name": "Brian Eno",
-  "followers": 760172,
-  "monthlyListeners": 1774132,
+  "followers": 760339,
+  "monthlyListeners": 1775577,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 47914,
+        "numberOfListeners": 47923,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 29769,
+        "numberOfListeners": 29790,
         "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 29152,
+        "numberOfListeners": 29131,
         "region": "NSW"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 23234,
+        "numberOfListeners": 23367,
         "region": "NY"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 23189,
+        "numberOfListeners": 23272,
         "region": "CA"
       }
     ]

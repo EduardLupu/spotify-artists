@@ -1,38 +1,38 @@
 {
   "id": "3kjuyTCjPG1WMFCiyc5IuB",
   "name": "Arcade Fire",
-  "followers": 2311646,
-  "monthlyListeners": 3790730,
+  "followers": 2311935,
+  "monthlyListeners": 3786207,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 85099,
+        "numberOfListeners": 84659,
         "region": "ENG"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 60976,
+        "numberOfListeners": 60670,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 54305,
+        "numberOfListeners": 53917,
         "region": "RM"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 48643,
+        "numberOfListeners": 48433,
         "region": "ON"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 46804,
+        "numberOfListeners": 46778,
         "region": "CA"
       }
     ]

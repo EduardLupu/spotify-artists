@@ -1,38 +1,38 @@
 {
   "id": "3Vszg64mczF1dWEcW2dU5W",
   "name": "Luciano",
-  "followers": 228062,
-  "monthlyListeners": 201503,
+  "followers": 228106,
+  "monthlyListeners": 201078,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 8062,
+        "numberOfListeners": 8057,
         "region": "ENG"
       },
       {
         "city": "Nairobi",
         "country": "KE",
-        "numberOfListeners": 4956,
+        "numberOfListeners": 4996,
         "region": "30"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 4306,
+        "numberOfListeners": 4291,
         "region": "ON"
       },
       {
         "city": "San José",
         "country": "CR",
-        "numberOfListeners": 3688,
+        "numberOfListeners": 3658,
         "region": "SJ"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 3253,
+        "numberOfListeners": 3235,
         "region": "NY"
       }
     ]

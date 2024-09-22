@@ -12,18 +12,6 @@
         "region": "JK"
       },
       {
-        "city": "Phnom Penh",
-        "country": "KH",
-        "numberOfListeners": 1,
-        "region": "12"
-      },
-      {
-        "city": "Banjarmasin",
-        "country": "ID",
-        "numberOfListeners": 1,
-        "region": "KS"
-      },
-      {
         "city": "Bogor",
         "country": "ID",
         "numberOfListeners": 1,
@@ -34,6 +22,18 @@
         "country": "ID",
         "numberOfListeners": 1,
         "region": "JB"
+      },
+      {
+        "city": "Banjarmasin",
+        "country": "ID",
+        "numberOfListeners": 1,
+        "region": "KS"
+      },
+      {
+        "city": "Phnom Penh",
+        "country": "KH",
+        "numberOfListeners": 1,
+        "region": "12"
       }
     ]
   },

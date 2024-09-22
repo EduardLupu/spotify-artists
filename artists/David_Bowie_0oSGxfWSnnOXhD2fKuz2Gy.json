@@ -1,38 +1,38 @@
 {
   "id": "0oSGxfWSnnOXhD2fKuz2Gy",
   "name": "David Bowie",
-  "followers": 10727006,
-  "monthlyListeners": 16794674,
+  "followers": 10730468,
+  "monthlyListeners": 16811648,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 383984,
+        "numberOfListeners": 383872,
         "region": "ENG"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 244691,
+        "numberOfListeners": 243605,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 241671,
+        "numberOfListeners": 242014,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 220892,
+        "numberOfListeners": 221226,
         "region": "VIC"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 209415,
+        "numberOfListeners": 209203,
         "region": "SP"
       }
     ]

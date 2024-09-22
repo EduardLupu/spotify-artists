@@ -1,38 +1,38 @@
 {
   "id": "3dSEh1EzUtKHlFIzF3KOCZ",
   "name": "Niki",
-  "followers": 398,
-  "monthlyListeners": 9970,
+  "followers": 399,
+  "monthlyListeners": 9964,
   "topCities": {
     "items": [
       {
         "city": "Sofia",
         "country": "BG",
-        "numberOfListeners": 1405,
+        "numberOfListeners": 1410,
         "region": "22"
       },
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 313,
+        "numberOfListeners": 311,
         "region": "34"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 257,
+        "numberOfListeners": 254,
         "region": "NH"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 221,
+        "numberOfListeners": 223,
         "region": "ZH"
       },
       {
         "city": "Varna",
         "country": "BG",
-        "numberOfListeners": 174,
+        "numberOfListeners": 179,
         "region": "03"
       }
     ]

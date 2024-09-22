@@ -1,38 +1,38 @@
 {
   "id": "1JrKcJc1BbSApAFYNJ4JAN",
   "name": "Los Incomparables De Tijuana",
-  "followers": 141918,
-  "monthlyListeners": 652574,
+  "followers": 142060,
+  "monthlyListeners": 646063,
   "topCities": {
     "items": [
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 35032,
+        "numberOfListeners": 34721,
         "region": "JAL"
       },
       {
         "city": "Tijuana",
         "country": "MX",
-        "numberOfListeners": 30461,
+        "numberOfListeners": 30262,
         "region": "BCN"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 27059,
+        "numberOfListeners": 26637,
         "region": "CMX"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 23162,
+        "numberOfListeners": 22861,
         "region": "CA"
       },
       {
         "city": "Zapopan",
         "country": "MX",
-        "numberOfListeners": 22155,
+        "numberOfListeners": 21960,
         "region": "JAL"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "59wfkuBoNyhDMQGCljbUbA",
   "name": "Diddy",
-  "followers": 1723755,
-  "monthlyListeners": 9646176,
+  "followers": 1725012,
+  "monthlyListeners": 9669104,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 212057,
+        "numberOfListeners": 212522,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 159240,
+        "numberOfListeners": 159569,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 156667,
+        "numberOfListeners": 156359,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 119685,
+        "numberOfListeners": 120092,
         "region": "VIC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 99398,
+        "numberOfListeners": 99611,
         "region": "CA"
       }
     ]

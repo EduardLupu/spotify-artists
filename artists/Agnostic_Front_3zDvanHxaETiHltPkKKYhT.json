@@ -1,38 +1,38 @@
 {
   "id": "3zDvanHxaETiHltPkKKYhT",
   "name": "Agnostic Front",
-  "followers": 182707,
-  "monthlyListeners": 158156,
+  "followers": 182771,
+  "monthlyListeners": 159679,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 4211,
+        "numberOfListeners": 4223,
         "region": "BE"
-      },
-      {
-        "city": "Santiago",
-        "country": "CL",
-        "numberOfListeners": 2674,
-        "region": "RM"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 2546,
+        "numberOfListeners": 2649,
         "region": "HH"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 2642,
+        "region": "RM"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 2462,
+        "numberOfListeners": 2464,
         "region": "HE"
       },
       {
         "city": "Prague",
         "country": "CZ",
-        "numberOfListeners": 2427,
+        "numberOfListeners": 2456,
         "region": "10"
       }
     ]

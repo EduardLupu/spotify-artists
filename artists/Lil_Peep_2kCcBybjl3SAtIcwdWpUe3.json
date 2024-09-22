@@ -1,41 +1,41 @@
 {
   "id": "2kCcBybjl3SAtIcwdWpUe3",
   "name": "Lil Peep",
-  "followers": 12921854,
-  "monthlyListeners": 17357503,
+  "followers": 12930272,
+  "monthlyListeners": 17413784,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 203365,
+        "numberOfListeners": 203516,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 187959,
+        "numberOfListeners": 188224,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 179601,
+        "numberOfListeners": 180131,
         "region": "CA"
       },
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 177976,
+        "numberOfListeners": 178439,
         "region": "14"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 166470,
+        "numberOfListeners": 166953,
         "region": "SP"
       }
     ]
   },
-  "worldRank": 462
+  "worldRank": 460
 }

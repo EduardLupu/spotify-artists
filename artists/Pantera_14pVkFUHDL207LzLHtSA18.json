@@ -1,38 +1,38 @@
 {
   "id": "14pVkFUHDL207LzLHtSA18",
   "name": "Pantera",
-  "followers": 5205295,
-  "monthlyListeners": 6357362,
+  "followers": 5208073,
+  "monthlyListeners": 6337208,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 133432,
+        "numberOfListeners": 131480,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 92538,
+        "numberOfListeners": 91963,
         "region": "CMX"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 89218,
+        "numberOfListeners": 88988,
         "region": "SP"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 76275,
+        "numberOfListeners": 75633,
         "region": "IL"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 66545,
+        "numberOfListeners": 66010,
         "region": "DC"
       }
     ]

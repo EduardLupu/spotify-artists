@@ -2,20 +2,14 @@
   "id": "01nVCWM4omWs8dRrrt7t6h",
   "name": "Pablo chill-e",
   "followers": 944,
-  "monthlyListeners": 45,
+  "monthlyListeners": 43,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 28,
+        "numberOfListeners": 29,
         "region": "RM"
-      },
-      {
-        "city": "Temuco",
-        "country": "CL",
-        "numberOfListeners": 2,
-        "region": "AR"
       },
       {
         "city": "Port Montt",
@@ -24,16 +18,22 @@
         "region": "LL"
       },
       {
-        "city": "La Serena",
+        "city": "Temuco",
         "country": "CL",
         "numberOfListeners": 2,
-        "region": "CO"
+        "region": "AR"
       },
       {
-        "city": "Tezontepec de Aldama",
+        "city": "Tampa",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "FL"
+      },
+      {
+        "city": "Mexico City",
         "country": "MX",
         "numberOfListeners": 1,
-        "region": "HID"
+        "region": "CMX"
       }
     ]
   },

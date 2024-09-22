@@ -1,41 +1,41 @@
 {
   "id": "0y59o4v8uw5crbN9M3JiL1",
   "name": "Badshah",
-  "followers": 27134228,
-  "monthlyListeners": 19859918,
+  "followers": 27138235,
+  "monthlyListeners": 19829694,
   "topCities": {
     "items": [
       {
         "city": "Mumbai",
         "country": "IN",
-        "numberOfListeners": 1690986,
+        "numberOfListeners": 1678716,
         "region": "MH"
       },
       {
         "city": "Delhi",
         "country": "IN",
-        "numberOfListeners": 1573678,
+        "numberOfListeners": 1575600,
         "region": "DL"
       },
       {
         "city": "Pune",
         "country": "IN",
-        "numberOfListeners": 1437163,
+        "numberOfListeners": 1435512,
         "region": "MH"
       },
       {
         "city": "New Delhi",
         "country": "IN",
-        "numberOfListeners": 1298734,
+        "numberOfListeners": 1292544,
         "region": "DL"
       },
       {
         "city": "Bengaluru",
         "country": "IN",
-        "numberOfListeners": 985090,
+        "numberOfListeners": 982908,
         "region": "KA"
       }
     ]
   },
-  "worldRank": 364
+  "worldRank": 366
 }

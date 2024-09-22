@@ -1,39 +1,39 @@
 {
   "id": "0ekK352BUEA00cnbGeOLkO",
   "name": "XZARKHAN",
-  "followers": 59008,
-  "monthlyListeners": 190940,
+  "followers": 59012,
+  "monthlyListeners": 190137,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2463,
+        "numberOfListeners": 2433,
         "region": "IL"
-      },
-      {
-        "city": "Dallas",
-        "country": "US",
-        "numberOfListeners": 2105,
-        "region": "TX"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 2089,
+        "numberOfListeners": 2102,
         "region": "AZ"
       },
       {
-        "city": "Denver",
+        "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 1978,
-        "region": "CO"
+        "numberOfListeners": 2079,
+        "region": "TX"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 1972,
+        "numberOfListeners": 1989,
         "region": "WA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 1966,
+        "region": "CO"
       }
     ]
   },

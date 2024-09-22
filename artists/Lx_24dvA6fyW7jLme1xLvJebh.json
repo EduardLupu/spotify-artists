@@ -2,38 +2,38 @@
   "id": "24dvA6fyW7jLme1xLvJebh",
   "name": "Lx",
   "followers": 157,
-  "monthlyListeners": 2639,
+  "monthlyListeners": 2700,
   "topCities": {
     "items": [
       {
         "city": "Guwahati",
         "country": "IN",
-        "numberOfListeners": 342,
+        "numberOfListeners": 348,
         "region": "AS"
       },
       {
         "city": "Athens",
         "country": "GR",
-        "numberOfListeners": 192,
+        "numberOfListeners": 196,
         "region": "I"
       },
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 115,
+        "numberOfListeners": 112,
         "region": "18"
       },
       {
         "city": "Thessaloniki",
         "country": "GR",
-        "numberOfListeners": 62,
+        "numberOfListeners": 64,
         "region": "B"
       },
       {
-        "city": "Tel Aviv",
-        "country": "IL",
-        "numberOfListeners": 46,
-        "region": "TA"
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 47,
+        "region": "34"
       }
     ]
   },

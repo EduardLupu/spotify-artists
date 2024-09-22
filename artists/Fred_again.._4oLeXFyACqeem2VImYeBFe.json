@@ -1,41 +1,41 @@
 {
   "id": "4oLeXFyACqeem2VImYeBFe",
   "name": "Fred again..",
-  "followers": 1689137,
-  "monthlyListeners": 17383760,
+  "followers": 1690864,
+  "monthlyListeners": 17392817,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 733048,
+        "numberOfListeners": 730734,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 443638,
+        "numberOfListeners": 444456,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 384341,
+        "numberOfListeners": 384467,
         "region": "VIC"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 298795,
+        "numberOfListeners": 299809,
         "region": "NH"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 257961,
+        "numberOfListeners": 258177,
         "region": "QLD"
       }
     ]
   },
-  "worldRank": 461
+  "worldRank": 462
 }

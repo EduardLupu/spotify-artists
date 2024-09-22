@@ -1,38 +1,38 @@
 {
   "id": "0ZxZlO7oWCSYMXhehpyMvE",
   "name": "COIN",
-  "followers": 654666,
-  "monthlyListeners": 2881447,
+  "followers": 654775,
+  "monthlyListeners": 2877504,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 56507,
+        "numberOfListeners": 56180,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 51161,
+        "numberOfListeners": 51187,
         "region": "NY"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 44216,
+        "numberOfListeners": 44142,
         "region": "CA"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 41250,
+        "numberOfListeners": 41261,
         "region": "CO"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 38208,
+        "numberOfListeners": 38198,
         "region": "WA"
       }
     ]

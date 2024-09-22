@@ -2,13 +2,13 @@
   "id": "44qMkOoou5YVTDJYPWCPBU",
   "name": "LEON",
   "followers": 43,
-  "monthlyListeners": 793,
+  "monthlyListeners": 782,
   "topCities": {
     "items": [
       {
         "city": "Casablanca",
         "country": "MA",
-        "numberOfListeners": 130,
+        "numberOfListeners": 133,
         "region": "06"
       },
       {
@@ -20,7 +20,7 @@
       {
         "city": "Rabat",
         "country": "MA",
-        "numberOfListeners": 28,
+        "numberOfListeners": 27,
         "region": "04"
       },
       {
@@ -30,10 +30,10 @@
         "region": "09"
       },
       {
-        "city": "Marrakesh",
-        "country": "MA",
-        "numberOfListeners": 24,
-        "region": "07"
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 22,
+        "region": "IDF"
       }
     ]
   },

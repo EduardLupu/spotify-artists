@@ -1,39 +1,39 @@
 {
   "id": "78895QQcLtTagD8auJBHfE",
   "name": "Major Lazer",
-  "followers": 188,
+  "followers": 191,
   "monthlyListeners": 260,
   "topCities": {
     "items": [
       {
         "city": "Singapore",
         "country": "SG",
-        "numberOfListeners": 31,
+        "numberOfListeners": 30,
         "region": ""
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 24,
+        "numberOfListeners": 26,
         "region": "JK"
       },
       {
         "city": "Kuala Lumpur",
         "country": "MY",
-        "numberOfListeners": 22,
+        "numberOfListeners": 23,
         "region": "14"
-      },
-      {
-        "city": "Taipei",
-        "country": "TW",
-        "numberOfListeners": 12,
-        "region": "TPE"
       },
       {
         "city": "Bangkok",
         "country": "TH",
-        "numberOfListeners": 10,
+        "numberOfListeners": 12,
         "region": "10"
+      },
+      {
+        "city": "Taipei",
+        "country": "TW",
+        "numberOfListeners": 11,
+        "region": "TPE"
       }
     ]
   },

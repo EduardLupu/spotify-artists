@@ -2,7 +2,7 @@
   "id": "08HqAryJ8C5XGysjD7mYum",
   "name": "Brando",
   "followers": 155,
-  "monthlyListeners": 110,
+  "monthlyListeners": 111,
   "topCities": {
     "items": [
       {
@@ -24,16 +24,16 @@
         "region": "18"
       },
       {
-        "city": "Tampere",
-        "country": "FI",
-        "numberOfListeners": 6,
-        "region": "11"
-      },
-      {
         "city": "Vantaa",
         "country": "FI",
         "numberOfListeners": 6,
         "region": "18"
+      },
+      {
+        "city": "Tampere",
+        "country": "FI",
+        "numberOfListeners": 6,
+        "region": "11"
       }
     ]
   },

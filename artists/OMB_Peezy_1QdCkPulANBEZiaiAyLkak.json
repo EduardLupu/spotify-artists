@@ -1,38 +1,38 @@
 {
   "id": "1QdCkPulANBEZiaiAyLkak",
   "name": "OMB Peezy",
-  "followers": 820062,
-  "monthlyListeners": 392409,
+  "followers": 820174,
+  "monthlyListeners": 400157,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 7910,
+        "numberOfListeners": 8053,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 7855,
+        "numberOfListeners": 8033,
         "region": "TX"
       },
       {
         "city": "Auckland",
         "country": "NZ",
-        "numberOfListeners": 7217,
+        "numberOfListeners": 7214,
         "region": "AUK"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 7052,
+        "numberOfListeners": 7058,
         "region": "NSW"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 6166,
+        "numberOfListeners": 6378,
         "region": "GA"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "4iRZAbYvBqnxrbs6K25aJ7",
   "name": "The Dave Brubeck Quartet",
-  "followers": 302558,
-  "monthlyListeners": 2154059,
+  "followers": 302697,
+  "monthlyListeners": 2153521,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 28460,
+        "numberOfListeners": 28298,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 24892,
+        "numberOfListeners": 24890,
         "region": "ENG"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 23764,
+        "numberOfListeners": 23871,
         "region": "IDF"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 21145,
+        "numberOfListeners": 21110,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 19529,
+        "numberOfListeners": 19460,
         "region": "NSW"
       }
     ]

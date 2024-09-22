@@ -1,26 +1,26 @@
 {
   "id": "7usoxDAXrxvTHj6VnJIDd3",
   "name": "Drums Of The World",
-  "followers": 7336,
-  "monthlyListeners": 22065,
+  "followers": 7337,
+  "monthlyListeners": 22044,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 658,
+        "numberOfListeners": 666,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 239,
+        "numberOfListeners": 242,
         "region": "NSW"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 211,
+        "numberOfListeners": 210,
         "region": "RJ"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 182,
+        "numberOfListeners": 186,
         "region": "VIC"
       }
     ]

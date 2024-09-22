@@ -1,39 +1,39 @@
 {
   "id": "7Hf9AwMO37bSdxHb0FBGmO",
   "name": "Alejandra Guzman",
-  "followers": 3837168,
-  "monthlyListeners": 5672084,
+  "followers": 3838317,
+  "monthlyListeners": 5680176,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 523938,
+        "numberOfListeners": 523795,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 222151,
+        "numberOfListeners": 222312,
         "region": "JAL"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 209798,
+        "numberOfListeners": 213685,
         "region": "CMX"
       },
       {
         "city": "Puebla City",
         "country": "MX",
-        "numberOfListeners": 201531,
+        "numberOfListeners": 199897,
         "region": "PUE"
       },
       {
-        "city": "Iztapalapa",
+        "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 172860,
-        "region": "CMX"
+        "numberOfListeners": 169485,
+        "region": "QUE"
       }
     ]
   },

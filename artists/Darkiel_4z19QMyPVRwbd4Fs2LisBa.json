@@ -1,38 +1,38 @@
 {
   "id": "4z19QMyPVRwbd4Fs2LisBa",
   "name": "Darkiel",
-  "followers": 1300613,
-  "monthlyListeners": 3654118,
+  "followers": 1300755,
+  "monthlyListeners": 3648685,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 500455,
+        "numberOfListeners": 496048,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 163726,
+        "numberOfListeners": 163607,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 136941,
+        "numberOfListeners": 136981,
         "region": "LMA"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 125398,
+        "numberOfListeners": 124947,
         "region": "CMX"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 93229,
+        "numberOfListeners": 93166,
         "region": "C"
       }
     ]

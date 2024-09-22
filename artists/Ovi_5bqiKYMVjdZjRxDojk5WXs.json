@@ -1,14 +1,14 @@
 {
   "id": "5bqiKYMVjdZjRxDojk5WXs",
   "name": "Ovi",
-  "followers": 2177,
-  "monthlyListeners": 17291,
+  "followers": 2178,
+  "monthlyListeners": 17278,
   "topCities": {
     "items": [
       {
         "city": "Oslo",
         "country": "NO",
-        "numberOfListeners": 533,
+        "numberOfListeners": 524,
         "region": "03"
       },
       {
@@ -20,20 +20,20 @@
       {
         "city": "Athens",
         "country": "GR",
-        "numberOfListeners": 295,
+        "numberOfListeners": 294,
         "region": "I"
-      },
-      {
-        "city": "Helsinki",
-        "country": "FI",
-        "numberOfListeners": 285,
-        "region": "18"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 284,
+        "numberOfListeners": 287,
         "region": "MD"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 283,
+        "region": "18"
       }
     ]
   },

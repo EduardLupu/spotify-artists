@@ -1,38 +1,38 @@
 {
   "id": "3rT8xTwSOMDURtWpPyoKIO",
   "name": "Deer Tick",
-  "followers": 161110,
-  "monthlyListeners": 265628,
+  "followers": 161122,
+  "monthlyListeners": 265060,
   "topCities": {
     "items": [
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 6219,
+        "numberOfListeners": 6224,
         "region": "CO"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 4857,
+        "numberOfListeners": 4825,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 4787,
+        "numberOfListeners": 4807,
         "region": "NY"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 4649,
+        "numberOfListeners": 4662,
         "region": "WA"
       },
       {
         "city": "Portland",
         "country": "US",
-        "numberOfListeners": 3771,
+        "numberOfListeners": 3756,
         "region": "OR"
       }
     ]

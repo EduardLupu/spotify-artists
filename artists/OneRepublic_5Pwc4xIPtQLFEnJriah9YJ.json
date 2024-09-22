@@ -1,41 +1,41 @@
 {
   "id": "5Pwc4xIPtQLFEnJriah9YJ",
   "name": "OneRepublic",
-  "followers": 17450109,
-  "monthlyListeners": 55139026,
+  "followers": 17453651,
+  "monthlyListeners": 54926208,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 702246,
+        "numberOfListeners": 704364,
         "region": "JK"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 696017,
+        "numberOfListeners": 690569,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 642244,
+        "numberOfListeners": 641203,
         "region": "NSW"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 604076,
+        "numberOfListeners": 601440,
         "region": "IDF"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 587360,
+        "numberOfListeners": 587409,
         "region": "NH"
       }
     ]
   },
-  "worldRank": 34
+  "worldRank": 35
 }

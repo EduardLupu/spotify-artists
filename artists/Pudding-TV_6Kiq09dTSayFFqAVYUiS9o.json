@@ -1,38 +1,38 @@
 {
   "id": "6Kiq09dTSayFFqAVYUiS9o",
   "name": "Pudding-TV",
-  "followers": 13153,
-  "monthlyListeners": 104196,
+  "followers": 13159,
+  "monthlyListeners": 103804,
   "topCities": {
     "items": [
       {
         "city": "Oslo",
         "country": "NO",
-        "numberOfListeners": 34435,
+        "numberOfListeners": 34358,
         "region": "03"
       },
       {
         "city": "Bergen",
         "country": "NO",
-        "numberOfListeners": 4869,
+        "numberOfListeners": 4847,
         "region": "46"
       },
       {
         "city": "Stavanger",
         "country": "NO",
-        "numberOfListeners": 4180,
+        "numberOfListeners": 4140,
         "region": "11"
       },
       {
         "city": "Trondheim",
         "country": "NO",
-        "numberOfListeners": 3530,
+        "numberOfListeners": 3505,
         "region": "50"
       },
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 1821,
+        "numberOfListeners": 1780,
         "region": "AB"
       }
     ]

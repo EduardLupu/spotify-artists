@@ -1,38 +1,38 @@
 {
   "id": "0JDkhL4rjiPNEp92jAgJnS",
   "name": "Roy Orbison",
-  "followers": 2067221,
-  "monthlyListeners": 9533669,
+  "followers": 2067996,
+  "monthlyListeners": 9514563,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 176454,
+        "numberOfListeners": 175396,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 155153,
+        "numberOfListeners": 154054,
         "region": "CMX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 112484,
+        "numberOfListeners": 112565,
         "region": "NSW"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 108050,
+        "numberOfListeners": 107864,
         "region": "SP"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 102245,
+        "numberOfListeners": 102402,
         "region": "VIC"
       }
     ]

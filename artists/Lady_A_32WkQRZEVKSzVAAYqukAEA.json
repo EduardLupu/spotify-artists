@@ -1,38 +1,38 @@
 {
   "id": "32WkQRZEVKSzVAAYqukAEA",
   "name": "Lady A",
-  "followers": 3687351,
-  "monthlyListeners": 6674943,
+  "followers": 3687554,
+  "monthlyListeners": 6623309,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 105596,
+        "numberOfListeners": 104768,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 80325,
+        "numberOfListeners": 79682,
         "region": "VIC"
-      },
-      {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 77846,
-        "region": "IL"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 77730,
+        "numberOfListeners": 77149,
         "region": "QLD"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 77107,
+        "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 72977,
+        "numberOfListeners": 72354,
         "region": "ENG"
       }
     ]

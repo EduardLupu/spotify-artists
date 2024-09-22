@@ -1,38 +1,38 @@
 {
   "id": "7xkAwz0bQTGDSbkofyQt3U",
   "name": "Belinda Carlisle",
-  "followers": 879530,
-  "monthlyListeners": 5593105,
+  "followers": 879845,
+  "monthlyListeners": 5559962,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 107898,
+        "numberOfListeners": 107824,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 97566,
+        "numberOfListeners": 97927,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 92905,
+        "numberOfListeners": 92095,
         "region": "ENG"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 76281,
+        "numberOfListeners": 76138,
         "region": "QLD"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 66502,
+        "numberOfListeners": 65889,
         "region": "RM"
       }
     ]

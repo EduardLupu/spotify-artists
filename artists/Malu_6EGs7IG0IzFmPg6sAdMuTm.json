@@ -2,19 +2,19 @@
   "id": "6EGs7IG0IzFmPg6sAdMuTm",
   "name": "Malu",
   "followers": 58,
-  "monthlyListeners": 1655,
+  "monthlyListeners": 1662,
   "topCities": {
     "items": [
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 106,
+        "numberOfListeners": 108,
         "region": "LMA"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 63,
+        "numberOfListeners": 64,
         "region": "HH"
       },
       {
@@ -24,16 +24,16 @@
         "region": "BE"
       },
       {
-        "city": "Cologne",
-        "country": "DE",
-        "numberOfListeners": 45,
-        "region": "NW"
-      },
-      {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 44,
+        "numberOfListeners": 46,
         "region": "BW"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 45,
+        "region": "HE"
       }
     ]
   },

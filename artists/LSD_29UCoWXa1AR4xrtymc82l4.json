@@ -2,37 +2,37 @@
   "id": "29UCoWXa1AR4xrtymc82l4",
   "name": "LSD",
   "followers": 3480,
-  "monthlyListeners": 32021,
+  "monthlyListeners": 32030,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 899,
+        "numberOfListeners": 921,
         "region": "NH"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 733,
+        "numberOfListeners": 730,
         "region": "ZH"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 634,
+        "numberOfListeners": 643,
         "region": "HH"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 632,
+        "numberOfListeners": 639,
         "region": "BE"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 517,
+        "numberOfListeners": 511,
         "region": "BRU"
       }
     ]

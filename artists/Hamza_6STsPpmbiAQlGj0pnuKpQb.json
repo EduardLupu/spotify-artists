@@ -2,7 +2,7 @@
   "id": "6STsPpmbiAQlGj0pnuKpQb",
   "name": "Hamza",
   "followers": 0,
-  "monthlyListeners": 11,
+  "monthlyListeners": 12,
   "topCities": {
     "items": [
       {
@@ -12,28 +12,28 @@
         "region": "ENG"
       },
       {
+        "city": "Queens",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "NY"
+      },
+      {
         "city": "Brooklyn",
         "country": "US",
         "numberOfListeners": 2,
         "region": "NY"
       },
       {
-        "city": "Watford",
-        "country": "GB",
+        "city": "Quezon City",
+        "country": "PH",
         "numberOfListeners": 1,
-        "region": "ENG"
+        "region": "00"
       },
       {
-        "city": "Queens",
-        "country": "US",
+        "city": "San Juan",
+        "country": "PH",
         "numberOfListeners": 1,
-        "region": "NY"
-      },
-      {
-        "city": "Dallas",
-        "country": "US",
-        "numberOfListeners": 1,
-        "region": "TX"
+        "region": "00"
       }
     ]
   },

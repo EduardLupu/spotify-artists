@@ -1,38 +1,38 @@
 {
   "id": "4QFG9KrGWEbr6hNA58CAqE",
   "name": "Alemán",
-  "followers": 5584517,
-  "monthlyListeners": 7078409,
+  "followers": 5585611,
+  "monthlyListeners": 7077922,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 665194,
+        "numberOfListeners": 663321,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 368919,
+        "numberOfListeners": 368291,
         "region": "JAL"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 344533,
+        "numberOfListeners": 351120,
         "region": "CMX"
       },
       {
         "city": "Iztapalapa",
         "country": "MX",
-        "numberOfListeners": 315428,
+        "numberOfListeners": 306442,
         "region": "CMX"
       },
       {
         "city": "Puebla City",
         "country": "MX",
-        "numberOfListeners": 277097,
+        "numberOfListeners": 274444,
         "region": "PUE"
       }
     ]

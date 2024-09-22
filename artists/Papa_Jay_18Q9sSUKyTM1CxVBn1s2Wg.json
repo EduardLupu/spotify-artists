@@ -1,14 +1,14 @@
 {
   "id": "18Q9sSUKyTM1CxVBn1s2Wg",
   "name": "Papa Jay",
-  "followers": 4035,
-  "monthlyListeners": 17404,
+  "followers": 4039,
+  "monthlyListeners": 16974,
   "topCities": {
     "items": [
       {
         "city": "Johannesburg",
         "country": "ZA",
-        "numberOfListeners": 303,
+        "numberOfListeners": 300,
         "region": "GP"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 287,
+        "numberOfListeners": 267,
         "region": "ENG"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 264,
+        "numberOfListeners": 260,
         "region": "TX"
       }
     ]

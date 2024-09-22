@@ -1,38 +1,38 @@
 {
   "id": "5iB5AWIa7qreioi0AF3Bxa",
   "name": "The Bellamy Brothers",
-  "followers": 392762,
-  "monthlyListeners": 3281710,
+  "followers": 392936,
+  "monthlyListeners": 3239139,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 75855,
+        "numberOfListeners": 74860,
         "region": "NSW"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 60987,
+        "numberOfListeners": 60196,
         "region": "QLD"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 59690,
+        "numberOfListeners": 58652,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 54085,
+        "numberOfListeners": 53090,
         "region": "ENG"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 43771,
+        "numberOfListeners": 43112,
         "region": "L"
       }
     ]

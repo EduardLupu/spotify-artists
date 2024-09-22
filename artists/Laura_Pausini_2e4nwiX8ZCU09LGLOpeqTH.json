@@ -1,39 +1,39 @@
 {
   "id": "2e4nwiX8ZCU09LGLOpeqTH",
   "name": "Laura Pausini",
-  "followers": 2594930,
-  "monthlyListeners": 8722651,
+  "followers": 2595664,
+  "monthlyListeners": 9003600,
   "topCities": {
     "items": [
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 349088,
+        "numberOfListeners": 418187,
         "region": "25"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 346464,
+        "numberOfListeners": 343908,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 322510,
+        "numberOfListeners": 321201,
         "region": "CMX"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 219901,
+        "numberOfListeners": 219916,
         "region": "LMA"
       },
       {
-        "city": "Bogotá",
-        "country": "CO",
-        "numberOfListeners": 168665,
-        "region": "DC"
+        "city": "Rome",
+        "country": "IT",
+        "numberOfListeners": 182638,
+        "region": "62"
       }
     ]
   },

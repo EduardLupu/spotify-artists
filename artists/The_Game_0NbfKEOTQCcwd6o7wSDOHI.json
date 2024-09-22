@@ -1,38 +1,38 @@
 {
   "id": "0NbfKEOTQCcwd6o7wSDOHI",
   "name": "The Game",
-  "followers": 4858515,
-  "monthlyListeners": 11408734,
+  "followers": 4859633,
+  "monthlyListeners": 11300987,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 216705,
+        "numberOfListeners": 213657,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 202909,
+        "numberOfListeners": 201130,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 155791,
+        "numberOfListeners": 154141,
         "region": "VIC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 146518,
+        "numberOfListeners": 145109,
         "region": "CA"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 133401,
+        "numberOfListeners": 131915,
         "region": "QLD"
       }
     ]

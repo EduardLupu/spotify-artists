@@ -1,38 +1,38 @@
 {
   "id": "2ISIE0MEDMdAF2LDMLrVD4",
   "name": "Da' T.R.U.T.H.",
-  "followers": 88312,
-  "monthlyListeners": 62788,
+  "followers": 88315,
+  "monthlyListeners": 62527,
   "topCities": {
     "items": [
       {
         "city": "Lagos",
         "country": "NG",
-        "numberOfListeners": 2058,
+        "numberOfListeners": 2042,
         "region": "LA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1042,
+        "numberOfListeners": 1046,
         "region": "ENG"
       },
       {
         "city": "Abuja",
         "country": "NG",
-        "numberOfListeners": 1041,
+        "numberOfListeners": 1026,
         "region": "FC"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 1017,
+        "numberOfListeners": 1011,
         "region": "GA"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 935,
+        "numberOfListeners": 923,
         "region": "TX"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "3MdG05syQeRYPPcClLaUGl",
   "name": "Diana Ross",
-  "followers": 1894773,
-  "monthlyListeners": 6987841,
+  "followers": 1895667,
+  "monthlyListeners": 7000937,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 132199,
+        "numberOfListeners": 132211,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 106451,
+        "numberOfListeners": 106513,
         "region": "SP"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 103185,
+        "numberOfListeners": 104263,
         "region": "JK"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 91510,
+        "numberOfListeners": 91744,
         "region": "NSW"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 81432,
+        "numberOfListeners": 81129,
         "region": "RM"
       }
     ]

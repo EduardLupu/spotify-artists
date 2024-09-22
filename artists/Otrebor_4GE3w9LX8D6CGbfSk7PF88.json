@@ -1,39 +1,39 @@
 {
   "id": "4GE3w9LX8D6CGbfSk7PF88",
   "name": "Otrebor",
-  "followers": 1261,
-  "monthlyListeners": 25061,
+  "followers": 1262,
+  "monthlyListeners": 25101,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 277,
+        "numberOfListeners": 280,
         "region": "IDF"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 252,
+        "numberOfListeners": 259,
         "region": "WA"
       },
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 241,
+        "numberOfListeners": 243,
         "region": "18"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 230,
+        "numberOfListeners": 233,
         "region": "CA"
       },
       {
-        "city": "Warsaw",
-        "country": "PL",
-        "numberOfListeners": 219,
-        "region": "14"
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 221,
+        "region": "VIC"
       }
     ]
   },

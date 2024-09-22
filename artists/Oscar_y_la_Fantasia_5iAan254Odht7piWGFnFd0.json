@@ -1,38 +1,38 @@
 {
   "id": "5iAan254Odht7piWGFnFd0",
   "name": "Oscar y la Fantasia",
-  "followers": 2005,
-  "monthlyListeners": 65497,
+  "followers": 2012,
+  "monthlyListeners": 65746,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 10825,
+        "numberOfListeners": 10871,
         "region": "DC"
       },
       {
         "city": "Santiago de Cali",
         "country": "CO",
-        "numberOfListeners": 9341,
+        "numberOfListeners": 9394,
         "region": "VAC"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 7175,
+        "numberOfListeners": 7229,
         "region": "ANT"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 4252,
+        "numberOfListeners": 4258,
         "region": "CMX"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 3446,
+        "numberOfListeners": 3458,
         "region": "LMA"
       }
     ]

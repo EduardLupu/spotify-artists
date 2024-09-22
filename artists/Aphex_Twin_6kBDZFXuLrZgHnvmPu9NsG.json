@@ -1,38 +1,38 @@
 {
   "id": "6kBDZFXuLrZgHnvmPu9NsG",
   "name": "Aphex Twin",
-  "followers": 1468443,
-  "monthlyListeners": 3808945,
+  "followers": 1469897,
+  "monthlyListeners": 3812353,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 74542,
+        "numberOfListeners": 74490,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 51982,
+        "numberOfListeners": 52128,
         "region": "CA"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 46417,
+        "numberOfListeners": 46385,
         "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 43410,
+        "numberOfListeners": 43359,
         "region": "NSW"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 41110,
+        "numberOfListeners": 41314,
         "region": "NY"
       }
     ]

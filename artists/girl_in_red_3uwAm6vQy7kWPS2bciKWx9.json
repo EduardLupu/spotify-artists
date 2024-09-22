@@ -1,41 +1,41 @@
 {
   "id": "3uwAm6vQy7kWPS2bciKWx9",
   "name": "girl in red",
-  "followers": 7459374,
-  "monthlyListeners": 16521674,
+  "followers": 7463296,
+  "monthlyListeners": 16558236,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 384238,
+        "numberOfListeners": 386883,
         "region": "JK"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 157472,
+        "numberOfListeners": 157674,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 138240,
+        "numberOfListeners": 138233,
         "region": "SP"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 137745,
+        "numberOfListeners": 137636,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 136051,
+        "numberOfListeners": 136555,
         "region": "CA"
       }
     ]
   },
-  "worldRank": 491
+  "worldRank": 489
 }

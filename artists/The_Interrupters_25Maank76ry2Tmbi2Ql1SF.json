@@ -1,38 +1,38 @@
 {
   "id": "25Maank76ry2Tmbi2Ql1SF",
   "name": "The Interrupters",
-  "followers": 363557,
-  "monthlyListeners": 816519,
+  "followers": 363662,
+  "monthlyListeners": 814697,
   "topCities": {
     "items": [
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 14047,
+        "numberOfListeners": 13972,
         "region": "QC"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 11170,
+        "numberOfListeners": 11099,
         "region": "ON"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 10471,
+        "numberOfListeners": 10423,
         "region": "ENG"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 9940,
+        "numberOfListeners": 9850,
         "region": "BE"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 9258,
+        "numberOfListeners": 9236,
         "region": "CA"
       }
     ]

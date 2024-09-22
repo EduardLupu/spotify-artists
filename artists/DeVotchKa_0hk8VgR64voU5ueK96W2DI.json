@@ -1,14 +1,14 @@
 {
   "id": "0hk8VgR64voU5ueK96W2DI",
   "name": "DeVotchKa",
-  "followers": 123403,
-  "monthlyListeners": 385076,
+  "followers": 123429,
+  "monthlyListeners": 385388,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 7189,
+        "numberOfListeners": 7246,
         "region": "IDF"
       },
       {
@@ -20,19 +20,19 @@
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 4476,
+        "numberOfListeners": 4504,
         "region": "CA"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 4354,
+        "numberOfListeners": 4336,
         "region": "CMX"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 4299,
+        "numberOfListeners": 4334,
         "region": "NY"
       }
     ]

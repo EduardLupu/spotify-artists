@@ -2,20 +2,20 @@
   "id": "6we6BFVCgtO6WXaJZk51qr",
   "name": "Nay Blanco",
   "followers": 88,
-  "monthlyListeners": 122,
+  "monthlyListeners": 123,
   "topCities": {
     "items": [
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 4,
+        "numberOfListeners": 5,
         "region": "NY"
       },
       {
-        "city": "Houston",
-        "country": "US",
+        "city": "London",
+        "country": "GB",
         "numberOfListeners": 3,
-        "region": "TX"
+        "region": "ENG"
       },
       {
         "city": "Atlanta",
@@ -24,16 +24,16 @@
         "region": "GA"
       },
       {
-        "city": "Los Angeles",
-        "country": "US",
-        "numberOfListeners": 3,
-        "region": "CA"
-      },
-      {
         "city": "Philadelphia",
         "country": "US",
         "numberOfListeners": 3,
         "region": "PA"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "TX"
       }
     ]
   },

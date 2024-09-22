@@ -1,41 +1,41 @@
 {
   "id": "5y2Xq6xcjJb2jVM54GHK3t",
   "name": "John Legend",
-  "followers": 6967039,
-  "monthlyListeners": 21984765,
+  "followers": 6971682,
+  "monthlyListeners": 22013207,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 542146,
+        "numberOfListeners": 546581,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 319003,
+        "numberOfListeners": 319506,
         "region": "SP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 241655,
+        "numberOfListeners": 241283,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 234312,
+        "numberOfListeners": 234429,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 196041,
+        "numberOfListeners": 195897,
         "region": "VIC"
       }
     ]
   },
-  "worldRank": 305
+  "worldRank": 303
 }

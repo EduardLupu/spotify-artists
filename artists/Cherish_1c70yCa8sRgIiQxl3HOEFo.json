@@ -1,38 +1,38 @@
 {
   "id": "1c70yCa8sRgIiQxl3HOEFo",
   "name": "Cherish",
-  "followers": 630590,
-  "monthlyListeners": 1193573,
+  "followers": 630756,
+  "monthlyListeners": 1194513,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 67273,
+        "numberOfListeners": 67833,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 20524,
+        "numberOfListeners": 20710,
         "region": "RJ"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 16823,
+        "numberOfListeners": 16583,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 16104,
+        "numberOfListeners": 16017,
         "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 15754,
+        "numberOfListeners": 15761,
         "region": "CA"
       }
     ]

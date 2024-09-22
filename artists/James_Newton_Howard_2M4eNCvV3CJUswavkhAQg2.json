@@ -1,38 +1,38 @@
 {
   "id": "2M4eNCvV3CJUswavkhAQg2",
   "name": "James Newton Howard",
-  "followers": 364170,
-  "monthlyListeners": 4148023,
+  "followers": 364315,
+  "monthlyListeners": 4153155,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 53559,
+        "numberOfListeners": 53550,
         "region": "ENG"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 47452,
+        "numberOfListeners": 47660,
         "region": "IDF"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 41820,
+        "numberOfListeners": 41755,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 36331,
+        "numberOfListeners": 36334,
         "region": "VIC"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 34732,
+        "numberOfListeners": 34648,
         "region": "BE"
       }
     ]

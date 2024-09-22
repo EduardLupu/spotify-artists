@@ -1,41 +1,41 @@
 {
   "id": "16oZKvXb6WkQlVAjwo2Wbg",
   "name": "The Lumineers",
-  "followers": 5481518,
-  "monthlyListeners": 24597165,
+  "followers": 5482433,
+  "monthlyListeners": 24469150,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 415775,
+        "numberOfListeners": 414605,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 405855,
+        "numberOfListeners": 402311,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 345880,
+        "numberOfListeners": 344533,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 324856,
+        "numberOfListeners": 322499,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 296713,
+        "numberOfListeners": 296222,
         "region": "NY"
       }
     ]
   },
-  "worldRank": 237
+  "worldRank": 240
 }

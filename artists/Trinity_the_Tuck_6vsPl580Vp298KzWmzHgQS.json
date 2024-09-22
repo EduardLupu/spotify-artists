@@ -1,38 +1,38 @@
 {
   "id": "6vsPl580Vp298KzWmzHgQS",
   "name": "Trinity the Tuck",
-  "followers": 9304,
-  "monthlyListeners": 6735,
+  "followers": 9307,
+  "monthlyListeners": 6705,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 93,
+        "numberOfListeners": 89,
         "region": "CMX"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 87,
+        "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 88,
+        "numberOfListeners": 86,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 85,
+        "numberOfListeners": 82,
         "region": "SP"
-      },
-      {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 83,
-        "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 82,
+        "numberOfListeners": 81,
         "region": "IL"
       }
     ]

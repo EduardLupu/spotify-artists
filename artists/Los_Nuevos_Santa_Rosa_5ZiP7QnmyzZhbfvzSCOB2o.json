@@ -1,20 +1,20 @@
 {
   "id": "5ZiP7QnmyzZhbfvzSCOB2o",
   "name": "Los Nuevos Santa Rosa",
-  "followers": 43577,
-  "monthlyListeners": 111627,
+  "followers": 43604,
+  "monthlyListeners": 111303,
   "topCities": {
     "items": [
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 18836,
+        "numberOfListeners": 18857,
         "region": "JAL"
       },
       {
         "city": "Zapopan",
         "country": "MX",
-        "numberOfListeners": 11151,
+        "numberOfListeners": 11140,
         "region": "JAL"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 4174,
+        "numberOfListeners": 4160,
         "region": "QUE"
       },
       {
         "city": "Iztapalapa",
         "country": "MX",
-        "numberOfListeners": 2709,
+        "numberOfListeners": 2606,
         "region": "CMX"
       }
     ]

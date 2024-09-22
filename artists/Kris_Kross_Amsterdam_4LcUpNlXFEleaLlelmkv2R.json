@@ -1,38 +1,38 @@
 {
   "id": "4LcUpNlXFEleaLlelmkv2R",
   "name": "Kris Kross Amsterdam",
-  "followers": 245714,
-  "monthlyListeners": 5180964,
+  "followers": 245778,
+  "monthlyListeners": 5143449,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 594355,
+        "numberOfListeners": 597423,
         "region": "NH"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 454926,
+        "numberOfListeners": 454125,
         "region": "ZH"
       },
       {
         "city": "Utrecht",
         "country": "NL",
-        "numberOfListeners": 245237,
+        "numberOfListeners": 243712,
         "region": "UT"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 160542,
+        "numberOfListeners": 158396,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 141102,
+        "numberOfListeners": 140650,
         "region": "BRU"
       }
     ]

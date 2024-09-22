@@ -1,38 +1,38 @@
 {
   "id": "0WBpabiR6czdkQMvH9Wo6B",
   "name": "Zion",
-  "followers": 304,
-  "monthlyListeners": 2546,
+  "followers": 305,
+  "monthlyListeners": 2377,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 156,
+        "numberOfListeners": 160,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 52,
+        "numberOfListeners": 48,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 43,
+        "numberOfListeners": 44,
         "region": "QLD"
       },
       {
         "city": "Perth",
         "country": "AU",
-        "numberOfListeners": 38,
+        "numberOfListeners": 36,
         "region": "WA"
       },
       {
         "city": "Auckland",
         "country": "NZ",
-        "numberOfListeners": 29,
+        "numberOfListeners": 28,
         "region": "AUK"
       }
     ]

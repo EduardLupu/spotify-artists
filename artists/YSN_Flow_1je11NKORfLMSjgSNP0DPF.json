@@ -1,38 +1,38 @@
 {
   "id": "1je11NKORfLMSjgSNP0DPF",
   "name": "YSN Flow",
-  "followers": 251705,
-  "monthlyListeners": 178643,
+  "followers": 251710,
+  "monthlyListeners": 179049,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 3802,
+        "numberOfListeners": 3803,
         "region": "IL"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 3769,
+        "numberOfListeners": 3777,
         "region": "ON"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 2572,
+        "numberOfListeners": 2598,
         "region": "PA"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 2415,
+        "numberOfListeners": 2414,
         "region": "NC"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 2228,
+        "numberOfListeners": 2267,
         "region": "NY"
       }
     ]

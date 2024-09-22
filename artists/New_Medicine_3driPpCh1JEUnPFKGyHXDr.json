@@ -1,38 +1,38 @@
 {
   "id": "3driPpCh1JEUnPFKGyHXDr",
   "name": "New Medicine",
-  "followers": 128261,
-  "monthlyListeners": 1822430,
+  "followers": 128339,
+  "monthlyListeners": 1802008,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 26124,
+        "numberOfListeners": 25792,
         "region": "IL"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 23812,
+        "numberOfListeners": 23674,
         "region": "CO"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 22089,
+        "numberOfListeners": 21919,
         "region": "WA"
       },
       {
         "city": "Calgary",
         "country": "CA",
-        "numberOfListeners": 20445,
+        "numberOfListeners": 20223,
         "region": "AB"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 20412,
+        "numberOfListeners": 20212,
         "region": "TX"
       }
     ]

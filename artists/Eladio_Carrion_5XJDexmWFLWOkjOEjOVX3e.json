@@ -1,41 +1,41 @@
 {
   "id": "5XJDexmWFLWOkjOEjOVX3e",
   "name": "Eladio Carrion",
-  "followers": 7651553,
-  "monthlyListeners": 16431763,
+  "followers": 7656850,
+  "monthlyListeners": 16418600,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 874269,
+        "numberOfListeners": 869331,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 677397,
+        "numberOfListeners": 676886,
         "region": "DC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 576734,
+        "numberOfListeners": 574980,
         "region": "CMX"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 569340,
+        "numberOfListeners": 571100,
         "region": "MD"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 490008,
+        "numberOfListeners": 489955,
         "region": "LMA"
       }
     ]
   },
-  "worldRank": 496
+  "worldRank": 495
 }

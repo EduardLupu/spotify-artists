@@ -1,38 +1,38 @@
 {
   "id": "3CQIn7N5CuRDP8wEI7FiDA",
   "name": "Run–D.M.C.",
-  "followers": 1381418,
-  "monthlyListeners": 4347487,
+  "followers": 1381792,
+  "monthlyListeners": 4348625,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 83131,
+        "numberOfListeners": 83165,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 76118,
+        "numberOfListeners": 76116,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 69354,
+        "numberOfListeners": 68890,
         "region": "ENG"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 61775,
+        "numberOfListeners": 61765,
         "region": "QLD"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 38731,
+        "numberOfListeners": 38561,
         "region": "ON"
       }
     ]

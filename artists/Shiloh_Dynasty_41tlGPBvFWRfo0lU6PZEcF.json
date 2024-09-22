@@ -1,15 +1,15 @@
 {
   "id": "41tlGPBvFWRfo0lU6PZEcF",
   "name": "Shiloh Dynasty",
-  "followers": 12235,
+  "followers": 12231,
   "monthlyListeners": 3,
   "topCities": {
     "items": [
       {
-        "city": "Tochtepec",
-        "country": "MX",
+        "city": "Melbourne",
+        "country": "AU",
         "numberOfListeners": 1,
-        "region": "PUE"
+        "region": "VIC"
       },
       {
         "city": "Las Vegas",
@@ -18,10 +18,10 @@
         "region": "NV"
       },
       {
-        "city": "Melbourne",
-        "country": "AU",
+        "city": "Tochtepec",
+        "country": "MX",
         "numberOfListeners": 1,
-        "region": "VIC"
+        "region": "PUE"
       }
     ]
   },

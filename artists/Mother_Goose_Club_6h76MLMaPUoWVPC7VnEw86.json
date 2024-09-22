@@ -1,38 +1,38 @@
 {
   "id": "6h76MLMaPUoWVPC7VnEw86",
   "name": "Mother Goose Club",
-  "followers": 82387,
-  "monthlyListeners": 2878173,
+  "followers": 82467,
+  "monthlyListeners": 2882290,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 71546,
+        "numberOfListeners": 71562,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 63760,
+        "numberOfListeners": 63895,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 50681,
+        "numberOfListeners": 50496,
         "region": "ENG"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 42099,
+        "numberOfListeners": 42031,
         "region": "QLD"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 36804,
+        "numberOfListeners": 36699,
         "region": "ON"
       }
     ]

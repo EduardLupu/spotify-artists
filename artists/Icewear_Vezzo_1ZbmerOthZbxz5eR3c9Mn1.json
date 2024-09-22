@@ -1,38 +1,38 @@
 {
   "id": "1ZbmerOthZbxz5eR3c9Mn1",
   "name": "Icewear Vezzo",
-  "followers": 231772,
-  "monthlyListeners": 776568,
+  "followers": 231860,
+  "monthlyListeners": 777635,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 22441,
+        "numberOfListeners": 22364,
         "region": "IL"
       },
       {
         "city": "Detroit",
         "country": "US",
-        "numberOfListeners": 18892,
+        "numberOfListeners": 19058,
         "region": "MI"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 17558,
+        "numberOfListeners": 17586,
         "region": "CA"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 16392,
+        "numberOfListeners": 16400,
         "region": "TX"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 15583,
+        "numberOfListeners": 15557,
         "region": "GA"
       }
     ]

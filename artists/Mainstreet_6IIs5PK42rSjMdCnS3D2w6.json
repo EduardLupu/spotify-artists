@@ -1,38 +1,38 @@
 {
   "id": "6IIs5PK42rSjMdCnS3D2w6",
   "name": "Mainstreet",
-  "followers": 17843,
-  "monthlyListeners": 72101,
+  "followers": 17846,
+  "monthlyListeners": 72030,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 15870,
+        "numberOfListeners": 15970,
         "region": "NH"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 12692,
+        "numberOfListeners": 12696,
         "region": "ZH"
       },
       {
         "city": "Utrecht",
         "country": "NL",
-        "numberOfListeners": 6255,
+        "numberOfListeners": 6196,
         "region": "UT"
       },
       {
         "city": "Amersfoort",
         "country": "NL",
-        "numberOfListeners": 2186,
+        "numberOfListeners": 2177,
         "region": "UT"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 1696,
+        "numberOfListeners": 1700,
         "region": "BRU"
       }
     ]

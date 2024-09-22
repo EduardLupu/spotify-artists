@@ -1,38 +1,38 @@
 {
   "id": "57n1OF36WvtOeATY6WQ6iw",
   "name": "Digga D",
-  "followers": 899584,
-  "monthlyListeners": 2209927,
+  "followers": 899816,
+  "monthlyListeners": 2206321,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 254071,
-        "region": "ENG"
-      },
-      {
-        "city": "Birmingham",
-        "country": "GB",
-        "numberOfListeners": 84358,
+        "numberOfListeners": 252793,
         "region": "ENG"
       },
       {
         "city": "Southwark",
         "country": "GB",
-        "numberOfListeners": 83953,
+        "numberOfListeners": 84721,
+        "region": "ENG"
+      },
+      {
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 83366,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 76977,
+        "numberOfListeners": 76669,
         "region": "NSW"
       },
       {
         "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 75152,
+        "numberOfListeners": 75414,
         "region": "ENG"
       }
     ]

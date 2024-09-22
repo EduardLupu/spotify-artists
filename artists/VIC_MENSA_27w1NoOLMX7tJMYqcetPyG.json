@@ -1,38 +1,38 @@
 {
   "id": "27w1NoOLMX7tJMYqcetPyG",
   "name": "VIC MENSA",
-  "followers": 616067,
-  "monthlyListeners": 928044,
+  "followers": 616072,
+  "monthlyListeners": 927227,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 20178,
+        "numberOfListeners": 20124,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 13958,
+        "numberOfListeners": 13928,
         "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 13085,
+        "numberOfListeners": 13012,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 12901,
+        "numberOfListeners": 12905,
         "region": "NY"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 12194,
+        "numberOfListeners": 12159,
         "region": "ON"
       }
     ]

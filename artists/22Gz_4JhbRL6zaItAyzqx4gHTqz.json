@@ -1,38 +1,38 @@
 {
   "id": "4JhbRL6zaItAyzqx4gHTqz",
   "name": "22Gz",
-  "followers": 521960,
-  "monthlyListeners": 1793560,
+  "followers": 522244,
+  "monthlyListeners": 1783913,
   "topCities": {
     "items": [
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 39497,
+        "numberOfListeners": 39383,
         "region": "ON"
-      },
-      {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 33192,
-        "region": "NSW"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 32938,
+        "numberOfListeners": 33003,
         "region": "NY"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 32987,
+        "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 29694,
+        "numberOfListeners": 29532,
         "region": "VIC"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 29013,
+        "numberOfListeners": 28780,
         "region": "NY"
       }
     ]

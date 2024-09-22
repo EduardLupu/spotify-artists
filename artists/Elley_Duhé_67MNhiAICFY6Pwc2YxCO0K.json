@@ -1,41 +1,41 @@
 {
   "id": "67MNhiAICFY6Pwc2YxCO0K",
   "name": "Elley Duhé",
-  "followers": 581442,
-  "monthlyListeners": 22676439,
+  "followers": 581761,
+  "monthlyListeners": 22602673,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 294095,
+        "numberOfListeners": 293421,
         "region": "NSW"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 272185,
+        "numberOfListeners": 272835,
         "region": "JK"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 271674,
+        "numberOfListeners": 269188,
         "region": "ENG"
       },
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 257645,
+        "numberOfListeners": 256834,
         "region": "14"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 251655,
+        "numberOfListeners": 252880,
         "region": "NH"
       }
     ]
   },
-  "worldRank": 279
+  "worldRank": 283
 }

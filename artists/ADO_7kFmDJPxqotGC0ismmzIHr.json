@@ -8,7 +8,7 @@
       {
         "city": "Singapore",
         "country": "SG",
-        "numberOfListeners": 7,
+        "numberOfListeners": 8,
         "region": ""
       },
       {
@@ -18,22 +18,22 @@
         "region": "VIC"
       },
       {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 5,
+        "region": "13"
+      },
+      {
         "city": "Los Angeles",
         "country": "US",
         "numberOfListeners": 5,
         "region": "CA"
       },
       {
-        "city": "Tokyo",
-        "country": "JP",
+        "city": "Auckland",
+        "country": "NZ",
         "numberOfListeners": 4,
-        "region": "13"
-      },
-      {
-        "city": "Kuala Lumpur",
-        "country": "MY",
-        "numberOfListeners": 4,
-        "region": "14"
+        "region": "AUK"
       }
     ]
   },

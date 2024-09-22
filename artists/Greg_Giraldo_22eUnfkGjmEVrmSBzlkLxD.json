@@ -2,19 +2,19 @@
   "id": "22eUnfkGjmEVrmSBzlkLxD",
   "name": "Greg Giraldo",
   "followers": 1772,
-  "monthlyListeners": 16066,
+  "monthlyListeners": 15954,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 283,
+        "numberOfListeners": 281,
         "region": "IL"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 269,
+        "numberOfListeners": 270,
         "region": "WA"
       },
       {
@@ -30,10 +30,10 @@
         "region": "CO"
       },
       {
-        "city": "Dallas",
-        "country": "US",
-        "numberOfListeners": 227,
-        "region": "TX"
+        "city": "Toronto",
+        "country": "CA",
+        "numberOfListeners": 221,
+        "region": "ON"
       }
     ]
   },

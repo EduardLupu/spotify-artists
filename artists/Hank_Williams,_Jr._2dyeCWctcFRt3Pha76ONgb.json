@@ -1,38 +1,38 @@
 {
   "id": "2dyeCWctcFRt3Pha76ONgb",
   "name": "Hank Williams, Jr.",
-  "followers": 1692990,
-  "monthlyListeners": 6095818,
+  "followers": 1693538,
+  "monthlyListeners": 5961998,
   "topCities": {
     "items": [
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 123536,
+        "numberOfListeners": 121435,
         "region": "TX"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 120349,
+        "numberOfListeners": 117368,
         "region": "IL"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 118945,
+        "numberOfListeners": 117347,
         "region": "NC"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 94784,
+        "numberOfListeners": 93678,
         "region": "GA"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 88160,
+        "numberOfListeners": 86651,
         "region": "CO"
       }
     ]

@@ -1,26 +1,26 @@
 {
   "id": "5gr6OI35CIerjIcAQvEfux",
   "name": "Trueno",
-  "followers": 7481,
-  "monthlyListeners": 1069,
+  "followers": 7479,
+  "monthlyListeners": 1070,
   "topCities": {
     "items": [
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 252,
+        "numberOfListeners": 256,
         "region": "C"
       },
       {
         "city": "San Miguel de Tucumán",
         "country": "AR",
-        "numberOfListeners": 119,
+        "numberOfListeners": 120,
         "region": "T"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 77,
+        "numberOfListeners": 78,
         "region": "B"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Neuquén",
         "country": "AR",
-        "numberOfListeners": 34,
+        "numberOfListeners": 35,
         "region": "Q"
       }
     ]

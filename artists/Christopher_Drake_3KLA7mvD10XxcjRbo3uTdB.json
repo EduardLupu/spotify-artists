@@ -1,39 +1,39 @@
 {
   "id": "3KLA7mvD10XxcjRbo3uTdB",
   "name": "Christopher Drake",
-  "followers": 14237,
-  "monthlyListeners": 75194,
+  "followers": 14239,
+  "monthlyListeners": 75073,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1006,
+        "numberOfListeners": 993,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 834,
+        "numberOfListeners": 824,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 789,
+        "numberOfListeners": 784,
         "region": "VIC"
+      },
+      {
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 686,
+        "region": "SP"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 689,
+        "numberOfListeners": 683,
         "region": "CMX"
-      },
-      {
-        "city": "Los Angeles",
-        "country": "US",
-        "numberOfListeners": 687,
-        "region": "CA"
       }
     ]
   },

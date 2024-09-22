@@ -1,38 +1,38 @@
 {
   "id": "29kkCKKGXheHuoO829FxWK",
   "name": "Boston",
-  "followers": 2809971,
-  "monthlyListeners": 7547722,
+  "followers": 2811069,
+  "monthlyListeners": 7526333,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 96569,
+        "numberOfListeners": 96757,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 87557,
+        "numberOfListeners": 86856,
         "region": "IL"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 86014,
+        "numberOfListeners": 85259,
         "region": "ON"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 83908,
+        "numberOfListeners": 83800,
         "region": "VIC"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 79368,
+        "numberOfListeners": 78682,
         "region": "RM"
       }
     ]

@@ -1,39 +1,39 @@
 {
   "id": "5isqImG0rLfAgBJSPMEVXF",
   "name": "Blonde Redhead",
-  "followers": 346857,
-  "monthlyListeners": 1046139,
+  "followers": 346962,
+  "monthlyListeners": 1044944,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 16945,
+        "numberOfListeners": 16933,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 15648,
+        "numberOfListeners": 15517,
         "region": "ENG"
       },
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 13498,
+        "numberOfListeners": 13490,
         "region": "34"
-      },
-      {
-        "city": "Paris",
-        "country": "FR",
-        "numberOfListeners": 13054,
-        "region": "IDF"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 13004,
+        "numberOfListeners": 12961,
         "region": "VIC"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 12818,
+        "region": "IDF"
       }
     ]
   },

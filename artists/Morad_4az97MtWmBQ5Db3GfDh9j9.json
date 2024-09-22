@@ -1,38 +1,38 @@
 {
   "id": "4az97MtWmBQ5Db3GfDh9j9",
   "name": "Morad",
-  "followers": 3478103,
-  "monthlyListeners": 12522595,
+  "followers": 3481485,
+  "monthlyListeners": 12480178,
   "topCities": {
     "items": [
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 576264,
+        "numberOfListeners": 576552,
         "region": "MD"
       },
       {
         "city": "Barcelona",
         "country": "ES",
-        "numberOfListeners": 426293,
+        "numberOfListeners": 424631,
         "region": "CT"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 401960,
+        "numberOfListeners": 398888,
         "region": "RM"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 329058,
+        "numberOfListeners": 327424,
         "region": "IDF"
       },
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 285798,
+        "numberOfListeners": 286255,
         "region": "25"
       }
     ]

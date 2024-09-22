@@ -1,38 +1,38 @@
 {
   "id": "5RivQkx7CAT7TSVFJKvbDz",
   "name": "BigWalkDog",
-  "followers": 221644,
-  "monthlyListeners": 359967,
+  "followers": 221750,
+  "monthlyListeners": 359821,
   "topCities": {
     "items": [
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 13901,
+        "numberOfListeners": 13851,
         "region": "TX"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 11151,
+        "numberOfListeners": 11162,
         "region": "GA"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 10886,
+        "numberOfListeners": 10860,
         "region": "NC"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 9116,
+        "numberOfListeners": 9101,
         "region": "TX"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 8742,
+        "numberOfListeners": 8704,
         "region": "IL"
       }
     ]

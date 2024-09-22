@@ -2,26 +2,20 @@
   "id": "2ll4HtFU0FVDlUwolO3eSq",
   "name": "Mora",
   "followers": 984,
-  "monthlyListeners": 3512,
+  "monthlyListeners": 3518,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 46,
+        "numberOfListeners": 45,
         "region": "CA"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 41,
+        "numberOfListeners": 42,
         "region": "VIC"
-      },
-      {
-        "city": "New York City",
-        "country": "US",
-        "numberOfListeners": 40,
-        "region": "NY"
       },
       {
         "city": "Chicago",
@@ -30,10 +24,16 @@
         "region": "IL"
       },
       {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 35,
-        "region": "NSW"
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 36,
+        "region": "NY"
+      },
+      {
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 36,
+        "region": "NY"
       }
     ]
   },

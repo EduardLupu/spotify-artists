@@ -1,38 +1,38 @@
 {
   "id": "1mhrMqIzessJ8r38RW873s",
   "name": "Argentino Ledesma",
-  "followers": 12215,
-  "monthlyListeners": 25716,
+  "followers": 12219,
+  "monthlyListeners": 25688,
   "topCities": {
     "items": [
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 2827,
+        "numberOfListeners": 2811,
         "region": "C"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 2528,
+        "numberOfListeners": 2549,
         "region": "RM"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 1762,
+        "numberOfListeners": 1768,
         "region": "B"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 1599,
+        "numberOfListeners": 1586,
         "region": "ANT"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 987,
+        "numberOfListeners": 992,
         "region": "DC"
       }
     ]

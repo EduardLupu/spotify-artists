@@ -1,26 +1,26 @@
 {
   "id": "3J0BpFVUc9LeOIVeN5uNhU",
   "name": "Lauren Jauregui",
-  "followers": 1279292,
-  "monthlyListeners": 685617,
+  "followers": 1279215,
+  "monthlyListeners": 684677,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 22088,
+        "numberOfListeners": 22050,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 12300,
+        "numberOfListeners": 12190,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 12209,
+        "numberOfListeners": 12157,
         "region": "CMX"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 6838,
+        "numberOfListeners": 6846,
         "region": "LMA"
       }
     ]

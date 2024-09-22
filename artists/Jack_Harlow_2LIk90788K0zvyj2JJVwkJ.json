@@ -1,41 +1,41 @@
 {
   "id": "2LIk90788K0zvyj2JJVwkJ",
   "name": "Jack Harlow",
-  "followers": 3925013,
-  "monthlyListeners": 28106633,
+  "followers": 3925758,
+  "monthlyListeners": 27989868,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 449234,
+        "numberOfListeners": 447672,
         "region": "NSW"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 362695,
-        "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 361336,
+        "numberOfListeners": 359694,
         "region": "VIC"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 359439,
+        "region": "ENG"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 301067,
+        "numberOfListeners": 299888,
         "region": "QLD"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 296177,
+        "numberOfListeners": 296789,
         "region": "JK"
       }
     ]
   },
-  "worldRank": 180
+  "worldRank": 181
 }

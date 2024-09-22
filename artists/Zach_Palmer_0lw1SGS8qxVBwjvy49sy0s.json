@@ -1,14 +1,14 @@
 {
   "id": "0lw1SGS8qxVBwjvy49sy0s",
   "name": "Zach Palmer",
-  "followers": 6026,
-  "monthlyListeners": 16305,
+  "followers": 6031,
+  "monthlyListeners": 16234,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 288,
+        "numberOfListeners": 289,
         "region": "CA"
       },
       {
@@ -20,20 +20,20 @@
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 259,
+        "numberOfListeners": 258,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 224,
+        "numberOfListeners": 223,
         "region": "IL"
       },
       {
-        "city": "Melbourne",
+        "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 198,
-        "region": "VIC"
+        "numberOfListeners": 196,
+        "region": "NSW"
       }
     ]
   },

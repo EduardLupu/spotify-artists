@@ -2,38 +2,38 @@
   "id": "5WPBoQGyVEaa54xmfsKsXF",
   "name": "Emma DJ",
   "followers": 3458,
-  "monthlyListeners": 8258,
+  "monthlyListeners": 8185,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 302,
+        "numberOfListeners": 294,
         "region": "IDF"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 269,
+        "numberOfListeners": 265,
         "region": "BE"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 226,
+        "numberOfListeners": 223,
         "region": "ENG"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 168,
+        "numberOfListeners": 163,
         "region": "NY"
       },
       {
-        "city": "Amsterdam",
-        "country": "NL",
-        "numberOfListeners": 138,
-        "region": "NH"
+        "city": "Brussels",
+        "country": "BE",
+        "numberOfListeners": 139,
+        "region": "BRU"
       }
     ]
   },

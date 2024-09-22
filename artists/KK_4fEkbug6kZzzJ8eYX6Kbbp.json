@@ -1,41 +1,41 @@
 {
   "id": "4fEkbug6kZzzJ8eYX6Kbbp",
   "name": "KK",
-  "followers": 18692349,
-  "monthlyListeners": 23138888,
+  "followers": 18703352,
+  "monthlyListeners": 23136978,
   "topCities": {
     "items": [
       {
         "city": "Mumbai",
         "country": "IN",
-        "numberOfListeners": 2047827,
+        "numberOfListeners": 2039601,
         "region": "MH"
       },
       {
         "city": "Hyderabad",
         "country": "IN",
-        "numberOfListeners": 1939327,
+        "numberOfListeners": 1937026,
         "region": "TS"
       },
       {
         "city": "Pune",
         "country": "IN",
-        "numberOfListeners": 1740674,
+        "numberOfListeners": 1742999,
         "region": "MH"
       },
       {
         "city": "Chennai",
         "country": "IN",
-        "numberOfListeners": 1463823,
+        "numberOfListeners": 1460907,
         "region": "TN"
       },
       {
         "city": "Delhi",
         "country": "IN",
-        "numberOfListeners": 1443315,
+        "numberOfListeners": 1447587,
         "region": "DL"
       }
     ]
   },
-  "worldRank": 264
+  "worldRank": 263
 }

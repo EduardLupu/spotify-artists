@@ -1,38 +1,38 @@
 {
   "id": "6IZ4ctovY9dl7bgHClAvKJ",
   "name": "LSD",
-  "followers": 354919,
-  "monthlyListeners": 4702037,
+  "followers": 354941,
+  "monthlyListeners": 4693125,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 122429,
+        "numberOfListeners": 122398,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 81900,
+        "numberOfListeners": 81718,
         "region": "SP"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 51290,
+        "numberOfListeners": 50994,
         "region": "CMX"
       },
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 49778,
+        "numberOfListeners": 49868,
         "region": "34"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 48383,
+        "numberOfListeners": 47865,
         "region": "RM"
       }
     ]

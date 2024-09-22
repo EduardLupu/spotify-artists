@@ -1,14 +1,14 @@
 {
   "id": "4iaDWP59Z3e62DW7YWDbIE",
   "name": "Post Animal",
-  "followers": 120614,
-  "monthlyListeners": 101702,
+  "followers": 120625,
+  "monthlyListeners": 101438,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2465,
+        "numberOfListeners": 2460,
         "region": "IL"
       },
       {
@@ -20,19 +20,19 @@
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 1477,
+        "numberOfListeners": 1462,
         "region": "WA"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 1440,
+        "numberOfListeners": 1450,
         "region": "CO"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 1408,
+        "numberOfListeners": 1410,
         "region": "NY"
       }
     ]

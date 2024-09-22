@@ -2,19 +2,19 @@
   "id": "5OOYsemLB4O6LnY9qpCaci",
   "name": "SDP",
   "followers": 66,
-  "monthlyListeners": 233,
+  "monthlyListeners": 240,
   "topCities": {
     "items": [
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 40,
+        "numberOfListeners": 39,
         "region": "25"
       },
       {
         "city": "Rome",
         "country": "IT",
-        "numberOfListeners": 32,
+        "numberOfListeners": 37,
         "region": "62"
       },
       {
@@ -30,7 +30,7 @@
         "region": "72"
       },
       {
-        "city": "Venice",
+        "city": "Verona",
         "country": "IT",
         "numberOfListeners": 4,
         "region": "34"

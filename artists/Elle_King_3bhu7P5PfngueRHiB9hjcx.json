@@ -1,38 +1,38 @@
 {
   "id": "3bhu7P5PfngueRHiB9hjcx",
   "name": "Elle King",
-  "followers": 625755,
-  "monthlyListeners": 4459125,
+  "followers": 625902,
+  "monthlyListeners": 4457860,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 67304,
+        "numberOfListeners": 67256,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 63462,
+        "numberOfListeners": 63155,
         "region": "IL"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 56782,
+        "numberOfListeners": 56616,
         "region": "QLD"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 52363,
+        "numberOfListeners": 52290,
         "region": "VIC"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 47375,
+        "numberOfListeners": 47077,
         "region": "ON"
       }
     ]

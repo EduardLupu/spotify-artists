@@ -2,37 +2,37 @@
   "id": "1kqrDa1yunO4rQtSmMirAx",
   "name": "Felix Rabito",
   "followers": 5488,
-  "monthlyListeners": 9582,
+  "monthlyListeners": 9631,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 220,
+        "numberOfListeners": 219,
         "region": "IL"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 185,
+        "numberOfListeners": 188,
         "region": "CO"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 167,
+        "numberOfListeners": 170,
         "region": "NY"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 161,
+        "numberOfListeners": 160,
         "region": "WA"
       },
       {
         "city": "Portland",
         "country": "US",
-        "numberOfListeners": 129,
+        "numberOfListeners": 131,
         "region": "OR"
       }
     ]

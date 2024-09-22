@@ -1,38 +1,38 @@
 {
   "id": "37hAfseJWi0G3Scife12Il",
   "name": "City Girls",
-  "followers": 2640898,
-  "monthlyListeners": 3366870,
+  "followers": 2641454,
+  "monthlyListeners": 3361774,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 60034,
+        "numberOfListeners": 59932,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 56980,
+        "numberOfListeners": 56683,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 48072,
+        "numberOfListeners": 47904,
         "region": "TX"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 47405,
+        "numberOfListeners": 47375,
         "region": "GA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 46539,
+        "numberOfListeners": 46447,
         "region": "NSW"
       }
     ]

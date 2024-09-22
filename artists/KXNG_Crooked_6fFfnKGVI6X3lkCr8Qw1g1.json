@@ -1,38 +1,38 @@
 {
   "id": "6fFfnKGVI6X3lkCr8Qw1g1",
   "name": "KXNG Crooked",
-  "followers": 122470,
-  "monthlyListeners": 121582,
+  "followers": 122484,
+  "monthlyListeners": 121175,
   "topCities": {
     "items": [
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 1813,
+        "numberOfListeners": 1810,
         "region": "ON"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 1700,
+        "numberOfListeners": 1704,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 1603,
+        "numberOfListeners": 1613,
         "region": "VIC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1477,
+        "numberOfListeners": 1452,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1414,
+        "numberOfListeners": 1411,
         "region": "ENG"
       }
     ]

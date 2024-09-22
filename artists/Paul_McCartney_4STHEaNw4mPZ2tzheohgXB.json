@@ -1,38 +1,38 @@
 {
   "id": "4STHEaNw4mPZ2tzheohgXB",
   "name": "Paul McCartney",
-  "followers": 4877239,
-  "monthlyListeners": 14177095,
+  "followers": 4878545,
+  "monthlyListeners": 14213775,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 228147,
+        "numberOfListeners": 228584,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 223048,
+        "numberOfListeners": 223575,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 192033,
+        "numberOfListeners": 192435,
         "region": "VIC"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 169937,
+        "numberOfListeners": 170098,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 168527,
+        "numberOfListeners": 167883,
         "region": "RM"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "5veVxxPm1vzgi6pO2iVA8L",
   "name": "Bruno Martini",
-  "followers": 158686,
-  "monthlyListeners": 5150356,
+  "followers": 158696,
+  "monthlyListeners": 5135917,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 359098,
+        "numberOfListeners": 357865,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 148544,
+        "numberOfListeners": 147992,
         "region": "RJ"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 123257,
+        "numberOfListeners": 122639,
         "region": "CMX"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 104861,
+        "numberOfListeners": 104813,
         "region": "MG"
       },
       {
         "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 98442,
+        "numberOfListeners": 98312,
         "region": "PR"
       }
     ]

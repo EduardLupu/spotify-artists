@@ -1,38 +1,38 @@
 {
   "id": "5ictveRyhWRs8Gt8Dvt1hS",
   "name": "The Front Bottoms",
-  "followers": 780393,
-  "monthlyListeners": 1894000,
+  "followers": 780785,
+  "monthlyListeners": 1894694,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 33575,
+        "numberOfListeners": 33458,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 31539,
+        "numberOfListeners": 31548,
         "region": "ENG"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 25925,
+        "numberOfListeners": 26049,
         "region": "PA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 23750,
+        "numberOfListeners": 23925,
         "region": "NY"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 22373,
+        "numberOfListeners": 22377,
         "region": "CA"
       }
     ]

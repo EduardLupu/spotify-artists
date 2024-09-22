@@ -1,38 +1,38 @@
 {
   "id": "3Dd6jD1AApgtNoU6SJWR7P",
   "name": "Anita Ward",
-  "followers": 140830,
-  "monthlyListeners": 747531,
+  "followers": 140910,
+  "monthlyListeners": 746072,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 18959,
+        "numberOfListeners": 18844,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 14562,
+        "numberOfListeners": 14490,
         "region": "CMX"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 9691,
+        "numberOfListeners": 9686,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 9095,
+        "numberOfListeners": 9016,
         "region": "ENG"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 8515,
+        "numberOfListeners": 8552,
         "region": "IDF"
       }
     ]

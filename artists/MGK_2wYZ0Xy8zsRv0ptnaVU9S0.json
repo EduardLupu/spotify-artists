@@ -1,38 +1,38 @@
 {
   "id": "2wYZ0Xy8zsRv0ptnaVU9S0",
   "name": "MGK",
-  "followers": 6689,
-  "monthlyListeners": 32705,
+  "followers": 6696,
+  "monthlyListeners": 32118,
   "topCities": {
     "items": [
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 1389,
+        "numberOfListeners": 1426,
         "region": "HH"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 1379,
+        "numberOfListeners": 1343,
         "region": "HE"
       },
       {
         "city": "Minsk",
         "country": "BY",
-        "numberOfListeners": 1229,
+        "numberOfListeners": 1211,
         "region": "HM"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 1219,
+        "numberOfListeners": 1207,
         "region": "BW"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 1079,
+        "numberOfListeners": 1074,
         "region": "BE"
       }
     ]

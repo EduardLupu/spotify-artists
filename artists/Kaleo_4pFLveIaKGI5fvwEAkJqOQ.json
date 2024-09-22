@@ -2,7 +2,7 @@
   "id": "4pFLveIaKGI5fvwEAkJqOQ",
   "name": "Kaleo",
   "followers": 221,
-  "monthlyListeners": 402,
+  "monthlyListeners": 408,
   "topCities": {
     "items": [
       {
@@ -18,22 +18,22 @@
         "region": "QC"
       },
       {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 6,
+        "region": "ENG"
+      },
+      {
         "city": "Dallas",
         "country": "US",
         "numberOfListeners": 6,
         "region": "TX"
       },
       {
-        "city": "Edmonton",
+        "city": "Calgary",
         "country": "CA",
         "numberOfListeners": 5,
         "region": "AB"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 5,
-        "region": "ENG"
       }
     ]
   },

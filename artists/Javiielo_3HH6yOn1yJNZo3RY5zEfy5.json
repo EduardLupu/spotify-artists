@@ -1,38 +1,38 @@
 {
   "id": "3HH6yOn1yJNZo3RY5zEfy5",
   "name": "Javiielo",
-  "followers": 378529,
-  "monthlyListeners": 3027167,
+  "followers": 378613,
+  "monthlyListeners": 3023013,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 321643,
+        "numberOfListeners": 317710,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 209940,
+        "numberOfListeners": 210182,
         "region": "DC"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 119199,
+        "numberOfListeners": 119102,
         "region": "C"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 113410,
+        "numberOfListeners": 113462,
         "region": "ANT"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 100715,
+        "numberOfListeners": 100650,
         "region": "LMA"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "1SQRv42e4PjEYfPhS0Tk9E",
   "name": "The Kinks",
-  "followers": 2621865,
-  "monthlyListeners": 6398186,
+  "followers": 2622459,
+  "monthlyListeners": 6377883,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 160205,
+        "numberOfListeners": 159178,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 102479,
+        "numberOfListeners": 102312,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 92910,
+        "numberOfListeners": 92680,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 69050,
+        "numberOfListeners": 68922,
         "region": "QLD"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 60615,
+        "numberOfListeners": 60759,
         "region": "L"
       }
     ]

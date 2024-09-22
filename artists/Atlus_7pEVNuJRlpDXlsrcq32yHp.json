@@ -1,38 +1,38 @@
 {
   "id": "7pEVNuJRlpDXlsrcq32yHp",
   "name": "Atlus",
-  "followers": 186592,
-  "monthlyListeners": 1907306,
+  "followers": 186736,
+  "monthlyListeners": 1897146,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 41749,
+        "numberOfListeners": 41500,
         "region": "NSW"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 41062,
+        "numberOfListeners": 40767,
         "region": "QLD"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 35720,
+        "numberOfListeners": 35374,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 30497,
+        "numberOfListeners": 30358,
         "region": "TX"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 30155,
+        "numberOfListeners": 30170,
         "region": "CO"
       }
     ]

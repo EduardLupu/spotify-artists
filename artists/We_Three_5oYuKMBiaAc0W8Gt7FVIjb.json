@@ -1,38 +1,38 @@
 {
   "id": "5oYuKMBiaAc0W8Gt7FVIjb",
   "name": "We Three",
-  "followers": 291003,
-  "monthlyListeners": 666014,
+  "followers": 291027,
+  "monthlyListeners": 664861,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 12168,
+        "numberOfListeners": 12158,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 10968,
+        "numberOfListeners": 10946,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 10902,
+        "numberOfListeners": 10883,
         "region": "ENG"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 9012,
+        "numberOfListeners": 9009,
         "region": "QLD"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 7240,
+        "numberOfListeners": 7212,
         "region": "IL"
       }
     ]

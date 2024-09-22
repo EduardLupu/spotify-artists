@@ -1,38 +1,38 @@
 {
   "id": "29gIYsdyccGoUc6qgkZeTK",
   "name": "SWAVAY",
-  "followers": 38382,
-  "monthlyListeners": 129972,
+  "followers": 38387,
+  "monthlyListeners": 129616,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 2645,
+        "numberOfListeners": 2650,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2545,
+        "numberOfListeners": 2506,
         "region": "IL"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 2121,
+        "numberOfListeners": 2125,
         "region": "AZ"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 2096,
+        "numberOfListeners": 2102,
         "region": "CO"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 1917,
+        "numberOfListeners": 1928,
         "region": "WA"
       }
     ]

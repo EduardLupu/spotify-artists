@@ -1,39 +1,39 @@
 {
   "id": "6yeEH8dY8MQAg44Vf2o5Uy",
   "name": "Lucas Nieto",
-  "followers": 3738,
-  "monthlyListeners": 8972,
+  "followers": 3741,
+  "monthlyListeners": 9106,
   "topCities": {
     "items": [
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 788,
+        "numberOfListeners": 765,
         "region": "GU"
       },
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 359,
+        "numberOfListeners": 407,
         "region": "01"
       },
       {
         "city": "Managua",
         "country": "NI",
-        "numberOfListeners": 250,
+        "numberOfListeners": 252,
         "region": "MN"
       },
       {
         "city": "San Salvador",
         "country": "SV",
-        "numberOfListeners": 221,
+        "numberOfListeners": 223,
         "region": "SS"
       },
       {
-        "city": "Mexico City",
-        "country": "MX",
+        "city": "Santiago",
+        "country": "CL",
         "numberOfListeners": 197,
-        "region": "CMX"
+        "region": "RM"
       }
     ]
   },

@@ -1,41 +1,41 @@
 {
   "id": "13ubrt8QOOCPljQ2FL1Kca",
   "name": "A$AP Rocky",
-  "followers": 14918449,
-  "monthlyListeners": 35116877,
+  "followers": 14925807,
+  "monthlyListeners": 35098079,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 587342,
+        "numberOfListeners": 585665,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 581397,
+        "numberOfListeners": 580678,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 513627,
+        "numberOfListeners": 513524,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 497801,
+        "numberOfListeners": 496630,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 471281,
+        "numberOfListeners": 472834,
         "region": "NY"
       }
     ]
   },
-  "worldRank": 114
+  "worldRank": 113
 }

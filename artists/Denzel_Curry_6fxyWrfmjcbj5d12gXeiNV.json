@@ -1,39 +1,39 @@
 {
   "id": "6fxyWrfmjcbj5d12gXeiNV",
   "name": "Denzel Curry",
-  "followers": 2623098,
-  "monthlyListeners": 7353550,
+  "followers": 2623598,
+  "monthlyListeners": 7333338,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 129734,
+        "numberOfListeners": 128822,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 123484,
+        "numberOfListeners": 123025,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 111932,
+        "numberOfListeners": 111562,
         "region": "NSW"
-      },
-      {
-        "city": "Melbourne",
-        "country": "AU",
-        "numberOfListeners": 98196,
-        "region": "VIC"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 98117,
+        "numberOfListeners": 98139,
         "region": "NY"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 97791,
+        "region": "VIC"
       }
     ]
   },

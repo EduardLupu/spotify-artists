@@ -1,38 +1,38 @@
 {
   "id": "3KNIG74xSTc3dj0TRy7pGX",
   "name": "Yung Bleu",
-  "followers": 1554724,
-  "monthlyListeners": 4235866,
+  "followers": 1554955,
+  "monthlyListeners": 4230935,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 100595,
+        "numberOfListeners": 100467,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 75226,
+        "numberOfListeners": 75278,
         "region": "NSW"
       },
       {
         "city": "Lagos",
         "country": "NG",
-        "numberOfListeners": 62370,
+        "numberOfListeners": 62975,
         "region": "LA"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 56565,
+        "numberOfListeners": 56601,
         "region": "ON"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 56432,
+        "numberOfListeners": 56310,
         "region": "VIC"
       }
     ]

@@ -2,37 +2,37 @@
   "id": "7B7NFLdPNc8YEeTs7hHuYq",
   "name": "Ashé",
   "followers": 64,
-  "monthlyListeners": 2817,
+  "monthlyListeners": 2877,
   "topCities": {
     "items": [
       {
         "city": "Nairobi",
         "country": "KE",
-        "numberOfListeners": 935,
+        "numberOfListeners": 934,
         "region": "30"
       },
       {
         "city": "Johannesburg",
         "country": "ZA",
-        "numberOfListeners": 179,
+        "numberOfListeners": 183,
         "region": "GP"
       },
       {
         "city": "Lagos",
         "country": "NG",
-        "numberOfListeners": 154,
+        "numberOfListeners": 164,
         "region": "LA"
       },
       {
         "city": "Cape Town",
         "country": "ZA",
-        "numberOfListeners": 81,
+        "numberOfListeners": 82,
         "region": "WC"
       },
       {
         "city": "Pretoria",
         "country": "ZA",
-        "numberOfListeners": 57,
+        "numberOfListeners": 60,
         "region": "GP"
       }
     ]

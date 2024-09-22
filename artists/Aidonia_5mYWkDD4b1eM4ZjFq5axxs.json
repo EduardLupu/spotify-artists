@@ -1,38 +1,38 @@
 {
   "id": "5mYWkDD4b1eM4ZjFq5axxs",
   "name": "Aidonia",
-  "followers": 345738,
-  "monthlyListeners": 451354,
+  "followers": 345848,
+  "monthlyListeners": 448893,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 36075,
+        "numberOfListeners": 35589,
         "region": "ENG"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 23247,
+        "numberOfListeners": 23207,
         "region": "ON"
       },
       {
         "city": "San José",
         "country": "CR",
-        "numberOfListeners": 17860,
+        "numberOfListeners": 17709,
         "region": "SJ"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 15236,
+        "numberOfListeners": 15123,
         "region": "NY"
       },
       {
         "city": "Nairobi",
         "country": "KE",
-        "numberOfListeners": 13634,
+        "numberOfListeners": 13560,
         "region": "30"
       }
     ]

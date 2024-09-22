@@ -1,38 +1,38 @@
 {
   "id": "4KWTAlx2RvbpseOGMEmROg",
   "name": "R.E.M.",
-  "followers": 4690268,
-  "monthlyListeners": 18367216,
+  "followers": 4692288,
+  "monthlyListeners": 18332285,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 408759,
+        "numberOfListeners": 408636,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 369701,
+        "numberOfListeners": 366840,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 257742,
+        "numberOfListeners": 257340,
         "region": "ENG"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 249302,
+        "numberOfListeners": 247885,
         "region": "CMX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 208681,
+        "numberOfListeners": 208617,
         "region": "NSW"
       }
     ]

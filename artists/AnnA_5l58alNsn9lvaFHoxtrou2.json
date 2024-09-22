@@ -12,16 +12,10 @@
         "region": "AB"
       },
       {
-        "city": "Incheon",
-        "country": "KR",
-        "numberOfListeners": 2,
-        "region": "28"
-      },
-      {
-        "city": "Copenhagen",
-        "country": "DK",
-        "numberOfListeners": 2,
-        "region": "84"
+        "city": "Gothenburg",
+        "country": "SE",
+        "numberOfListeners": 3,
+        "region": "O"
       },
       {
         "city": "San Juan",
@@ -30,10 +24,16 @@
         "region": "00"
       },
       {
-        "city": "Malmo",
-        "country": "SE",
+        "city": "Copenhagen",
+        "country": "DK",
         "numberOfListeners": 2,
-        "region": "M"
+        "region": "84"
+      },
+      {
+        "city": "Canberra",
+        "country": "AU",
+        "numberOfListeners": 2,
+        "region": "ACT"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "3qtcbDvdIgQOXkPbtRvBaQ",
   "name": "The Kingston Trio",
-  "followers": 117076,
-  "monthlyListeners": 165529,
+  "followers": 117088,
+  "monthlyListeners": 166095,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 2090,
+        "numberOfListeners": 2098,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 1847,
+        "numberOfListeners": 1854,
         "region": "VIC"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 1768,
+        "numberOfListeners": 1771,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 1753,
+        "numberOfListeners": 1749,
         "region": "IL"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 1698,
+        "numberOfListeners": 1692,
         "region": "WA"
       }
     ]

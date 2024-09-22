@@ -1,39 +1,39 @@
 {
   "id": "3bgsNtcf5d5h9jbQbohfBK",
   "name": "Extremoduro",
-  "followers": 1360254,
-  "monthlyListeners": 1537207,
+  "followers": 1361015,
+  "monthlyListeners": 1547922,
   "topCities": {
     "items": [
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 298420,
+        "numberOfListeners": 301720,
         "region": "MD"
       },
       {
         "city": "Barcelona",
         "country": "ES",
-        "numberOfListeners": 142859,
+        "numberOfListeners": 143796,
         "region": "CT"
       },
       {
         "city": "Valencia",
         "country": "ES",
-        "numberOfListeners": 67625,
+        "numberOfListeners": 67637,
         "region": "VC"
       },
       {
         "city": "Málaga",
         "country": "ES",
-        "numberOfListeners": 43071,
+        "numberOfListeners": 43338,
         "region": "AN"
       },
       {
-        "city": "Bilbao",
+        "city": "Seville",
         "country": "ES",
-        "numberOfListeners": 40680,
-        "region": "PV"
+        "numberOfListeners": 40849,
+        "region": "AN"
       }
     ]
   },

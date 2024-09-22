@@ -1,39 +1,39 @@
 {
   "id": "3QVolfxko2UyCOtexhVTli",
   "name": "Angèle",
-  "followers": 2729751,
-  "monthlyListeners": 4662391,
+  "followers": 2730240,
+  "monthlyListeners": 4798103,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 438364,
+        "numberOfListeners": 461560,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 183277,
+        "numberOfListeners": 188305,
         "region": "BRU"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 88414,
+        "numberOfListeners": 91850,
         "region": "ARA"
-      },
-      {
-        "city": "Montreal",
-        "country": "CA",
-        "numberOfListeners": 64469,
-        "region": "QC"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 62731,
+        "numberOfListeners": 65750,
         "region": "HDF"
+      },
+      {
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 65425,
+        "region": "QC"
       }
     ]
   },

@@ -6,16 +6,16 @@
   "topCities": {
     "items": [
       {
-        "city": "Monterrey",
-        "country": "MX",
-        "numberOfListeners": 1,
-        "region": "NLE"
-      },
-      {
         "city": "Hudson",
         "country": "US",
         "numberOfListeners": 1,
         "region": "OH"
+      },
+      {
+        "city": "Palm Coast",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "FL"
       },
       {
         "city": "Frederick",
@@ -24,10 +24,10 @@
         "region": "MD"
       },
       {
-        "city": "Palm Coast",
-        "country": "US",
+        "city": "Monterrey",
+        "country": "MX",
         "numberOfListeners": 1,
-        "region": "FL"
+        "region": "NLE"
       },
       {
         "city": "Gdansk",

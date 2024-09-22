@@ -1,38 +1,38 @@
 {
   "id": "1bL7zNdRZRQtgMnMpsCh0K",
   "name": "Beautiful Chorus",
-  "followers": 247853,
-  "monthlyListeners": 1038786,
+  "followers": 248000,
+  "monthlyListeners": 1040813,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 16681,
+        "numberOfListeners": 16730,
         "region": "NSW"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 14742,
+        "numberOfListeners": 14862,
         "region": "NH"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 14253,
+        "numberOfListeners": 14310,
         "region": "BE"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 13894,
+        "numberOfListeners": 13968,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 13809,
+        "numberOfListeners": 13752,
         "region": "SP"
       }
     ]

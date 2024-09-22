@@ -1,39 +1,39 @@
 {
   "id": "4trD4SoBB4R39txNX3Y96T",
   "name": "Icon Of Coil",
-  "followers": 34834,
-  "monthlyListeners": 44701,
+  "followers": 34844,
+  "monthlyListeners": 44767,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 1394,
+        "numberOfListeners": 1386,
         "region": "BE"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1202,
+        "numberOfListeners": 1186,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1165,
+        "numberOfListeners": 1174,
         "region": "CMX"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 763,
+        "numberOfListeners": 790,
         "region": "HH"
       },
       {
-        "city": "Leipzig",
+        "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 623,
-        "region": "SN"
+        "numberOfListeners": 629,
+        "region": "HE"
       }
     ]
   },

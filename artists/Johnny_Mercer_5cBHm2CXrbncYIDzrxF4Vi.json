@@ -1,8 +1,8 @@
 {
   "id": "5cBHm2CXrbncYIDzrxF4Vi",
   "name": "Johnny Mercer",
-  "followers": 41149,
-  "monthlyListeners": 226592,
+  "followers": 41154,
+  "monthlyListeners": 226300,
   "topCities": {
     "items": [
       {
@@ -14,25 +14,25 @@
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 2592,
+        "numberOfListeners": 2593,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 2254,
+        "numberOfListeners": 2253,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 2223,
+        "numberOfListeners": 2210,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 2211,
+        "numberOfListeners": 2195,
         "region": "VIC"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "4JgGhWEWcKIyT84mknHP2w",
   "name": "Kent Jamz",
-  "followers": 8316,
-  "monthlyListeners": 24932,
+  "followers": 8318,
+  "monthlyListeners": 24854,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 786,
+        "numberOfListeners": 772,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 439,
+        "numberOfListeners": 437,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 402,
+        "numberOfListeners": 407,
         "region": "NY"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 381,
+        "numberOfListeners": 373,
         "region": "NY"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 352,
+        "numberOfListeners": 351,
         "region": "GA"
       }
     ]

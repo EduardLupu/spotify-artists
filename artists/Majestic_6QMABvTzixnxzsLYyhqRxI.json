@@ -1,38 +1,38 @@
 {
   "id": "6QMABvTzixnxzsLYyhqRxI",
   "name": "Majestic",
-  "followers": 80978,
-  "monthlyListeners": 9225310,
+  "followers": 81048,
+  "monthlyListeners": 9057724,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 219913,
+        "numberOfListeners": 216100,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 127516,
+        "numberOfListeners": 125958,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 111980,
+        "numberOfListeners": 110420,
         "region": "VIC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 110810,
+        "numberOfListeners": 108681,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 109004,
+        "numberOfListeners": 106336,
         "region": "RM"
       }
     ]

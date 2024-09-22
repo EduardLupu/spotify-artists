@@ -1,38 +1,38 @@
 {
   "id": "6roFdX1y5BYSbp60OTJWMd",
   "name": "Tim McGraw",
-  "followers": 4623533,
-  "monthlyListeners": 12359879,
+  "followers": 4624742,
+  "monthlyListeners": 12173885,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 239033,
+        "numberOfListeners": 234670,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 213556,
+        "numberOfListeners": 210619,
         "region": "TX"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 198795,
+        "numberOfListeners": 196711,
         "region": "NC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 187450,
+        "numberOfListeners": 184998,
         "region": "NSW"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 175437,
+        "numberOfListeners": 171710,
         "region": "ON"
       }
     ]

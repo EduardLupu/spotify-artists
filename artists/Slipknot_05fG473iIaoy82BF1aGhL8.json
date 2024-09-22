@@ -1,38 +1,38 @@
 {
   "id": "05fG473iIaoy82BF1aGhL8",
   "name": "Slipknot",
-  "followers": 11756378,
-  "monthlyListeners": 14021932,
+  "followers": 11763793,
+  "monthlyListeners": 14034907,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 319744,
+        "numberOfListeners": 320387,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 216208,
+        "numberOfListeners": 214300,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 193534,
+        "numberOfListeners": 193113,
         "region": "ENG"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 182371,
+        "numberOfListeners": 183534,
         "region": "JK"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 176325,
+        "numberOfListeners": 175918,
         "region": "CMX"
       }
     ]

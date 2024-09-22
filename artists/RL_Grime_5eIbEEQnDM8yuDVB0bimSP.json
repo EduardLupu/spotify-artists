@@ -1,38 +1,38 @@
 {
   "id": "5eIbEEQnDM8yuDVB0bimSP",
   "name": "RL Grime",
-  "followers": 428026,
-  "monthlyListeners": 1819563,
+  "followers": 428079,
+  "monthlyListeners": 1813569,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 40191,
+        "numberOfListeners": 39972,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 39666,
+        "numberOfListeners": 39483,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 34305,
+        "numberOfListeners": 34288,
         "region": "NSW"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 31820,
+        "numberOfListeners": 31807,
         "region": "NY"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 27582,
+        "numberOfListeners": 27423,
         "region": "CO"
       }
     ]

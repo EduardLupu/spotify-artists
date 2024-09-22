@@ -1,38 +1,38 @@
 {
   "id": "6f5Tjpxz9kTRj05LKWlOpf",
   "name": "Lucy Schwartz",
-  "followers": 25995,
-  "monthlyListeners": 285552,
+  "followers": 25999,
+  "monthlyListeners": 286750,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 3945,
+        "numberOfListeners": 3952,
         "region": "CMX"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 3710,
+        "numberOfListeners": 3724,
         "region": "SP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 2573,
+        "numberOfListeners": 2572,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 2334,
+        "numberOfListeners": 2329,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 2198,
+        "numberOfListeners": 2197,
         "region": "VIC"
       }
     ]

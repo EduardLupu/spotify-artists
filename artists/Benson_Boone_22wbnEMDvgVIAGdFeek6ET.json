@@ -1,41 +1,41 @@
 {
   "id": "22wbnEMDvgVIAGdFeek6ET",
   "name": "Benson Boone",
-  "followers": 3559696,
-  "monthlyListeners": 52262276,
+  "followers": 3572797,
+  "monthlyListeners": 52146427,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 894860,
+        "numberOfListeners": 895157,
         "region": "JK"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 827590,
+        "numberOfListeners": 822941,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 761249,
+        "numberOfListeners": 761251,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 636258,
+        "numberOfListeners": 635777,
         "region": "VIC"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 597781,
+        "numberOfListeners": 595405,
         "region": "IDF"
       }
     ]
   },
-  "worldRank": 45
+  "worldRank": 46
 }

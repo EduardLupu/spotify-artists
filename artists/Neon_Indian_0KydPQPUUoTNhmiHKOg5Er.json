@@ -1,38 +1,38 @@
 {
   "id": "0KydPQPUUoTNhmiHKOg5Er",
   "name": "Neon Indian",
-  "followers": 325996,
-  "monthlyListeners": 475045,
+  "followers": 326018,
+  "monthlyListeners": 474520,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 15546,
+        "numberOfListeners": 15487,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 10728,
+        "numberOfListeners": 10674,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 9734,
+        "numberOfListeners": 9731,
         "region": "NY"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 7823,
+        "numberOfListeners": 7745,
         "region": "NY"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 7577,
+        "numberOfListeners": 7583,
         "region": "WA"
       }
     ]

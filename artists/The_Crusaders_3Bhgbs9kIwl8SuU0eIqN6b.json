@@ -1,38 +1,38 @@
 {
   "id": "3Bhgbs9kIwl8SuU0eIqN6b",
   "name": "The Crusaders",
-  "followers": 125986,
-  "monthlyListeners": 272994,
+  "followers": 126044,
+  "monthlyListeners": 273115,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 5660,
+        "numberOfListeners": 5692,
         "region": "NH"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 5335,
+        "numberOfListeners": 5344,
         "region": "ENG"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 4743,
+        "numberOfListeners": 4790,
         "region": "IDF"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 2839,
+        "numberOfListeners": 2838,
         "region": "ZH"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 2467,
+        "numberOfListeners": 2480,
         "region": "CA"
       }
     ]

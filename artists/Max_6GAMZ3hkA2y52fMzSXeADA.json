@@ -1,38 +1,38 @@
 {
   "id": "6GAMZ3hkA2y52fMzSXeADA",
   "name": "Max",
-  "followers": 8110,
-  "monthlyListeners": 13110,
+  "followers": 8124,
+  "monthlyListeners": 12981,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 996,
+        "numberOfListeners": 978,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 868,
+        "numberOfListeners": 854,
         "region": "HH"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 613,
+        "numberOfListeners": 615,
         "region": "BY"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 487,
+        "numberOfListeners": 481,
         "region": "HE"
       },
       {
         "city": "Cologne",
         "country": "DE",
-        "numberOfListeners": 465,
+        "numberOfListeners": 451,
         "region": "NW"
       }
     ]

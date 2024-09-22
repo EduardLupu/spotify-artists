@@ -1,39 +1,39 @@
 {
   "id": "3Q0BDbrnCWl83B6MtptqOC",
   "name": "Th3rd Coast Roots",
-  "followers": 4367,
-  "monthlyListeners": 48779,
+  "followers": 4368,
+  "monthlyListeners": 48255,
   "topCities": {
     "items": [
       {
         "city": "Honolulu",
         "country": "US",
-        "numberOfListeners": 1509,
+        "numberOfListeners": 1498,
         "region": "HI"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 875,
+        "numberOfListeners": 851,
         "region": "CA"
-      },
-      {
-        "city": "Denver",
-        "country": "US",
-        "numberOfListeners": 617,
-        "region": "CO"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 617,
+        "numberOfListeners": 614,
         "region": "AZ"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 615,
+        "numberOfListeners": 610,
         "region": "WA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 609,
+        "region": "CO"
       }
     ]
   },

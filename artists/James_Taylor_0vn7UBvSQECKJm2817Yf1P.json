@@ -1,38 +1,38 @@
 {
   "id": "0vn7UBvSQECKJm2817Yf1P",
   "name": "James Taylor",
-  "followers": 2664446,
-  "monthlyListeners": 5629429,
+  "followers": 2665038,
+  "monthlyListeners": 5588390,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 99736,
+        "numberOfListeners": 98948,
         "region": "NSW"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 84601,
+        "numberOfListeners": 83984,
         "region": "NY"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 75063,
+        "numberOfListeners": 74553,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 69703,
+        "numberOfListeners": 68869,
         "region": "IL"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 63152,
+        "numberOfListeners": 62562,
         "region": "QLD"
       }
     ]

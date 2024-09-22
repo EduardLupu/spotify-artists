@@ -1,38 +1,38 @@
 {
   "id": "7iJl63aJyNd8C6NZlMv6kp",
   "name": "Tchakabum",
-  "followers": 207234,
-  "monthlyListeners": 1867349,
+  "followers": 207258,
+  "monthlyListeners": 1871857,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 104628,
+        "numberOfListeners": 104938,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 96826,
+        "numberOfListeners": 98276,
         "region": "RM"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 43092,
+        "numberOfListeners": 43239,
         "region": "LMA"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 40728,
+        "numberOfListeners": 40770,
         "region": "RJ"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 32768,
+        "numberOfListeners": 33110,
         "region": "C"
       }
     ]

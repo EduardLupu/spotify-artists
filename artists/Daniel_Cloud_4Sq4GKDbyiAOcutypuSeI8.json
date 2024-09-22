@@ -2,13 +2,13 @@
   "id": "4Sq4GKDbyiAOcutypuSeI8",
   "name": "Daniel Cloud",
   "followers": 983,
-  "monthlyListeners": 624,
+  "monthlyListeners": 619,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 18,
+        "numberOfListeners": 19,
         "region": "CMX"
       },
       {
@@ -30,10 +30,10 @@
         "region": "VIC"
       },
       {
-        "city": "Gustavo Adolfo Madero",
-        "country": "MX",
-        "numberOfListeners": 6,
-        "region": "CMX"
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 7,
+        "region": "IL"
       }
     ]
   },

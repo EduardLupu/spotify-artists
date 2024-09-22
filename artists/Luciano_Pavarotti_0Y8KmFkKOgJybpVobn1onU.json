@@ -1,38 +1,38 @@
 {
   "id": "0Y8KmFkKOgJybpVobn1onU",
   "name": "Luciano Pavarotti",
-  "followers": 994432,
-  "monthlyListeners": 3262765,
+  "followers": 994693,
+  "monthlyListeners": 3264541,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 54119,
+        "numberOfListeners": 53771,
         "region": "RM"
-      },
-      {
-        "city": "Mexico City",
-        "country": "MX",
-        "numberOfListeners": 43044,
-        "region": "CMX"
       },
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 42885,
+        "numberOfListeners": 43141,
         "region": "25"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 42850,
+        "region": "CMX"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 42205,
+        "numberOfListeners": 42511,
         "region": "MD"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 42012,
+        "numberOfListeners": 42228,
         "region": "SP"
       }
     ]

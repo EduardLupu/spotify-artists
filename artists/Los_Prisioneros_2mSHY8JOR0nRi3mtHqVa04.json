@@ -1,38 +1,38 @@
 {
   "id": "2mSHY8JOR0nRi3mtHqVa04",
   "name": "Los Prisioneros",
-  "followers": 2177309,
-  "monthlyListeners": 3836565,
+  "followers": 2178238,
+  "monthlyListeners": 3849374,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 803481,
+        "numberOfListeners": 809077,
         "region": "RM"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 290449,
+        "numberOfListeners": 290239,
         "region": "LMA"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 238230,
+        "numberOfListeners": 237933,
         "region": "DC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 129678,
+        "numberOfListeners": 129828,
         "region": "CMX"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 96311,
+        "numberOfListeners": 96349,
         "region": "ANT"
       }
     ]

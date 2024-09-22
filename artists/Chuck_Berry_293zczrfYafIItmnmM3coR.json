@@ -1,38 +1,38 @@
 {
   "id": "293zczrfYafIItmnmM3coR",
   "name": "Chuck Berry",
-  "followers": 2039120,
-  "monthlyListeners": 8401656,
+  "followers": 2039800,
+  "monthlyListeners": 8425441,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 110483,
+        "numberOfListeners": 110301,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 108173,
+        "numberOfListeners": 108178,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 97664,
+        "numberOfListeners": 97839,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 88768,
+        "numberOfListeners": 88849,
         "region": "VIC"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 87132,
+        "numberOfListeners": 87313,
         "region": "IDF"
       }
     ]

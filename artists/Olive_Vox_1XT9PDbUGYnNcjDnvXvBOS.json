@@ -1,39 +1,39 @@
 {
   "id": "1XT9PDbUGYnNcjDnvXvBOS",
   "name": "Olive Vox",
-  "followers": 9151,
-  "monthlyListeners": 10143,
+  "followers": 9157,
+  "monthlyListeners": 10070,
   "topCities": {
     "items": [
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 173,
+        "numberOfListeners": 174,
         "region": "TX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 162,
+        "numberOfListeners": 159,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 154,
+        "numberOfListeners": 148,
         "region": "VIC"
-      },
-      {
-        "city": "Brisbane",
-        "country": "AU",
-        "numberOfListeners": 145,
-        "region": "QLD"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 141,
+        "numberOfListeners": 144,
         "region": "IL"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 142,
+        "region": "QLD"
       }
     ]
   },

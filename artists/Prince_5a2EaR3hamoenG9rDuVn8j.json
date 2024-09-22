@@ -1,38 +1,38 @@
 {
   "id": "5a2EaR3hamoenG9rDuVn8j",
   "name": "Prince",
-  "followers": 7452637,
-  "monthlyListeners": 11153766,
+  "followers": 7454075,
+  "monthlyListeners": 11171835,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 218470,
+        "numberOfListeners": 218742,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 191495,
+        "numberOfListeners": 192233,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 170443,
+        "numberOfListeners": 170818,
         "region": "VIC"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 133216,
+        "numberOfListeners": 134156,
         "region": "NH"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 126576,
+        "numberOfListeners": 127133,
         "region": "QLD"
       }
     ]

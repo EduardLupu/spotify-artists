@@ -1,39 +1,39 @@
 {
   "id": "7noh40d76QRMnTPGW2VvO6",
   "name": "Bafu",
-  "followers": 2214,
-  "monthlyListeners": 15628,
+  "followers": 2218,
+  "monthlyListeners": 15689,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 239,
+        "numberOfListeners": 237,
         "region": "CA"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 187,
+        "numberOfListeners": 188,
         "region": "WA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 173,
+        "numberOfListeners": 174,
         "region": "IL"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 158,
+        "numberOfListeners": 155,
         "region": "CO"
       },
       {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 150,
-        "region": "NSW"
+        "city": "New York City",
+        "country": "US",
+        "numberOfListeners": 147,
+        "region": "NY"
       }
     ]
   },

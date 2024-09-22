@@ -1,39 +1,39 @@
 {
   "id": "7nL31AgALdZC5wsQreCGJy",
   "name": "Kókuszcsoport",
-  "followers": 3212,
-  "monthlyListeners": 4614,
+  "followers": 3214,
+  "monthlyListeners": 4482,
   "topCities": {
     "items": [
       {
         "city": "Budapest",
         "country": "HU",
-        "numberOfListeners": 2938,
+        "numberOfListeners": 2906,
         "region": "BU"
       },
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 86,
+        "numberOfListeners": 84,
         "region": "18"
-      },
-      {
-        "city": "Debrecen",
-        "country": "HU",
-        "numberOfListeners": 78,
-        "region": "HB"
       },
       {
         "city": "Szeged",
         "country": "HU",
-        "numberOfListeners": 77,
+        "numberOfListeners": 80,
         "region": "CS"
       },
       {
-        "city": "Vienna",
-        "country": "AT",
-        "numberOfListeners": 70,
-        "region": "9"
+        "city": "Debrecen",
+        "country": "HU",
+        "numberOfListeners": 77,
+        "region": "HB"
+      },
+      {
+        "city": "Pécs",
+        "country": "HU",
+        "numberOfListeners": 72,
+        "region": "BA"
       }
     ]
   },

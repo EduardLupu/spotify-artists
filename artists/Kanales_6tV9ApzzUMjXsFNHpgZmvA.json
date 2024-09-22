@@ -1,38 +1,38 @@
 {
   "id": "6tV9ApzzUMjXsFNHpgZmvA",
   "name": "Kanales",
-  "followers": 619192,
-  "monthlyListeners": 650248,
+  "followers": 619233,
+  "monthlyListeners": 649874,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 26606,
+        "numberOfListeners": 26440,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 24809,
+        "numberOfListeners": 24765,
         "region": "JAL"
       },
       {
         "city": "Tijuana",
         "country": "MX",
-        "numberOfListeners": 21144,
+        "numberOfListeners": 21202,
         "region": "BCN"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 19102,
+        "numberOfListeners": 19001,
         "region": "CA"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 17974,
+        "numberOfListeners": 17969,
         "region": "TX"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "52iwsT98xCoGgiGntTiR7K",
   "name": "Quevedo",
-  "followers": 5092654,
-  "monthlyListeners": 25549971,
+  "followers": 5096948,
+  "monthlyListeners": 25469779,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1140615,
+        "numberOfListeners": 1134973,
         "region": "RM"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 1001388,
+        "numberOfListeners": 1000739,
         "region": "MD"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 898063,
+        "numberOfListeners": 895744,
         "region": "DC"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 823211,
+        "numberOfListeners": 823460,
         "region": "C"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 811896,
+        "numberOfListeners": 810275,
         "region": "LMA"
       }
     ]

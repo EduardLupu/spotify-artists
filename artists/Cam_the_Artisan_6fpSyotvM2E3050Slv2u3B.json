@@ -1,38 +1,38 @@
 {
   "id": "6fpSyotvM2E3050Slv2u3B",
   "name": "Cam the Artisan",
-  "followers": 6260,
-  "monthlyListeners": 19985,
+  "followers": 6261,
+  "monthlyListeners": 19924,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 449,
+        "numberOfListeners": 445,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 367,
+        "numberOfListeners": 351,
         "region": "IL"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 311,
+        "numberOfListeners": 309,
         "region": "GA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 285,
+        "numberOfListeners": 281,
         "region": "NY"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 252,
+        "numberOfListeners": 254,
         "region": "WA"
       }
     ]

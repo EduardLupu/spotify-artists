@@ -2,37 +2,37 @@
   "id": "4EZYA04Mufw2tbLZCpK3uh",
   "name": "Joevasca",
   "followers": 635,
-  "monthlyListeners": 15361,
+  "monthlyListeners": 15316,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 683,
+        "numberOfListeners": 711,
         "region": "DC"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 520,
+        "numberOfListeners": 522,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 339,
+        "numberOfListeners": 338,
         "region": "RM"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 274,
+        "numberOfListeners": 281,
         "region": "ANT"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 272,
+        "numberOfListeners": 267,
         "region": "CMX"
       }
     ]

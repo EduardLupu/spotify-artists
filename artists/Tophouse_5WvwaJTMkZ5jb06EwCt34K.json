@@ -1,38 +1,38 @@
 {
   "id": "5WvwaJTMkZ5jb06EwCt34K",
   "name": "Tophouse",
-  "followers": 87782,
-  "monthlyListeners": 280710,
+  "followers": 87843,
+  "monthlyListeners": 280028,
   "topCities": {
     "items": [
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 6402,
+        "numberOfListeners": 6406,
         "region": "CO"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 5117,
+        "numberOfListeners": 5091,
         "region": "WA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 4863,
+        "numberOfListeners": 4835,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 3832,
+        "numberOfListeners": 3793,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 3657,
+        "numberOfListeners": 3651,
         "region": "NY"
       }
     ]

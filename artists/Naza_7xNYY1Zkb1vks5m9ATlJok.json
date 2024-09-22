@@ -1,38 +1,38 @@
 {
   "id": "7xNYY1Zkb1vks5m9ATlJok",
   "name": "Naza",
-  "followers": 1557998,
-  "monthlyListeners": 3854732,
+  "followers": 1559520,
+  "monthlyListeners": 3841857,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 520490,
+        "numberOfListeners": 520804,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 143279,
+        "numberOfListeners": 143330,
         "region": "BRU"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 101163,
+        "numberOfListeners": 100846,
         "region": "ARA"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 82501,
+        "numberOfListeners": 82870,
         "region": "HDF"
       },
       {
         "city": "Marseille",
         "country": "FR",
-        "numberOfListeners": 81267,
+        "numberOfListeners": 80237,
         "region": "PAC"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "5VE6IinEVSwdQNqQIN8zAN",
   "name": "Los Caimanes De Sinaloa",
-  "followers": 102201,
-  "monthlyListeners": 1653684,
+  "followers": 102375,
+  "monthlyListeners": 1647472,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 84700,
+        "numberOfListeners": 84049,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 81034,
+        "numberOfListeners": 80735,
         "region": "JAL"
       },
       {
         "city": "Tijuana",
         "country": "MX",
-        "numberOfListeners": 55875,
+        "numberOfListeners": 55704,
         "region": "BCN"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 53507,
+        "numberOfListeners": 52826,
         "region": "QUE"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 49297,
+        "numberOfListeners": 49048,
         "region": "CA"
       }
     ]

@@ -1,39 +1,39 @@
 {
   "id": "0bdJZl7TDeiymDYzMJnVh2",
   "name": "Preme",
-  "followers": 134185,
-  "monthlyListeners": 498044,
+  "followers": 134181,
+  "monthlyListeners": 497405,
   "topCities": {
     "items": [
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 14379,
+        "numberOfListeners": 14330,
         "region": "ON"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 8662,
+        "numberOfListeners": 8645,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 7616,
+        "numberOfListeners": 7613,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 7418,
+        "numberOfListeners": 7357,
         "region": "IL"
       },
       {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 6882,
-        "region": "ENG"
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 6850,
+        "region": "QC"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "7Hjbimq43OgxaBRpFXic4x",
   "name": "Saba",
-  "followers": 772698,
-  "monthlyListeners": 1333539,
+  "followers": 772829,
+  "monthlyListeners": 1331515,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 28752,
+        "numberOfListeners": 28692,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 28041,
+        "numberOfListeners": 27945,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 20599,
+        "numberOfListeners": 20655,
         "region": "NY"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 19340,
+        "numberOfListeners": 19235,
         "region": "ENG"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 16381,
+        "numberOfListeners": 16373,
         "region": "WA"
       }
     ]

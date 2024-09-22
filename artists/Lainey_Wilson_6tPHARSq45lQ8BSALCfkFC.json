@@ -1,39 +1,39 @@
 {
   "id": "6tPHARSq45lQ8BSALCfkFC",
   "name": "Lainey Wilson",
-  "followers": 871308,
-  "monthlyListeners": 12242578,
+  "followers": 872684,
+  "monthlyListeners": 12071996,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 247714,
+        "numberOfListeners": 242895,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 227751,
+        "numberOfListeners": 225842,
         "region": "NSW"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 223516,
+        "numberOfListeners": 220645,
         "region": "TX"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 209163,
+        "numberOfListeners": 207171,
         "region": "NC"
       },
       {
-        "city": "Toronto",
-        "country": "CA",
-        "numberOfListeners": 189506,
-        "region": "ON"
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 186803,
+        "region": "QLD"
       }
     ]
   },

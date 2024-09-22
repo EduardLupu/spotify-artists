@@ -1,38 +1,38 @@
 {
   "id": "79DOwuMzV2h4es3em0t002",
   "name": "Eric Turner",
-  "followers": 8893,
-  "monthlyListeners": 36755,
+  "followers": 8894,
+  "monthlyListeners": 36732,
   "topCities": {
     "items": [
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 1923,
+        "numberOfListeners": 1926,
         "region": "AB"
       },
       {
         "city": "Oslo",
         "country": "NO",
-        "numberOfListeners": 807,
+        "numberOfListeners": 801,
         "region": "03"
       },
       {
         "city": "Gothenburg",
         "country": "SE",
-        "numberOfListeners": 742,
+        "numberOfListeners": 752,
         "region": "O"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 568,
+        "numberOfListeners": 572,
         "region": "CMX"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 532,
+        "numberOfListeners": 521,
         "region": "ENG"
       }
     ]

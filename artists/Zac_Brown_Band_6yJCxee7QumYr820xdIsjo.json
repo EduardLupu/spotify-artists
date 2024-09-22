@@ -1,38 +1,38 @@
 {
   "id": "6yJCxee7QumYr820xdIsjo",
   "name": "Zac Brown Band",
-  "followers": 3903262,
-  "monthlyListeners": 9913006,
+  "followers": 3904318,
+  "monthlyListeners": 9863910,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 208046,
+        "numberOfListeners": 205756,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 187048,
+        "numberOfListeners": 187401,
         "region": "NSW"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 172190,
+        "numberOfListeners": 171797,
         "region": "NC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 167218,
+        "numberOfListeners": 167453,
         "region": "QLD"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 152898,
+        "numberOfListeners": 152313,
         "region": "TX"
       }
     ]

@@ -1,14 +1,14 @@
 {
   "id": "5XY34cI4RsdqqYhoBGdZcx",
   "name": "King",
-  "followers": 1278,
-  "monthlyListeners": 824,
+  "followers": 1281,
+  "monthlyListeners": 817,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 12,
+        "numberOfListeners": 11,
         "region": "IL"
       },
       {
@@ -24,16 +24,16 @@
         "region": "WA"
       },
       {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 8,
-        "region": "ENG"
-      },
-      {
-        "city": "Charlotte",
+        "city": "Atlanta",
         "country": "US",
         "numberOfListeners": 8,
-        "region": "NC"
+        "region": "GA"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 8,
+        "region": "NSW"
       }
     ]
   },

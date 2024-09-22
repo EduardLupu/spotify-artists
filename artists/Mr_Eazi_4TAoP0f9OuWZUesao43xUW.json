@@ -1,39 +1,39 @@
 {
   "id": "4TAoP0f9OuWZUesao43xUW",
   "name": "Mr Eazi",
-  "followers": 1546992,
-  "monthlyListeners": 3388521,
+  "followers": 1547082,
+  "monthlyListeners": 3381405,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 108088,
+        "numberOfListeners": 107463,
         "region": "ENG"
       },
       {
         "city": "Lagos",
         "country": "NG",
-        "numberOfListeners": 103307,
+        "numberOfListeners": 103326,
         "region": "LA"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 61757,
+        "numberOfListeners": 61888,
         "region": "NH"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 51805,
+        "numberOfListeners": 52044,
         "region": "DC"
       },
       {
-        "city": "Abuja",
-        "country": "NG",
-        "numberOfListeners": 47713,
-        "region": "FC"
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 47538,
+        "region": "IDF"
       }
     ]
   },

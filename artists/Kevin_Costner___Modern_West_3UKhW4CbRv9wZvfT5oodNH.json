@@ -1,38 +1,38 @@
 {
   "id": "3UKhW4CbRv9wZvfT5oodNH",
   "name": "Kevin Costner & Modern West",
-  "followers": 33087,
-  "monthlyListeners": 62339,
+  "followers": 33123,
+  "monthlyListeners": 62059,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 1112,
+        "numberOfListeners": 1111,
         "region": "NSW"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 806,
+        "numberOfListeners": 799,
         "region": "QLD"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 795,
+        "numberOfListeners": 798,
         "region": "VIC"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 769,
+        "numberOfListeners": 765,
         "region": "SP"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 689,
+        "numberOfListeners": 681,
         "region": "CO"
       }
     ]

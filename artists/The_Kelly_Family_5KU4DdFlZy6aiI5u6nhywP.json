@@ -1,38 +1,38 @@
 {
   "id": "5KU4DdFlZy6aiI5u6nhywP",
   "name": "The Kelly Family",
-  "followers": 208583,
-  "monthlyListeners": 462389,
+  "followers": 208627,
+  "monthlyListeners": 462064,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 21070,
+        "numberOfListeners": 21220,
         "region": "NH"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 17680,
+        "numberOfListeners": 17653,
         "region": "BE"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 15738,
+        "numberOfListeners": 15655,
         "region": "ZH"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 12664,
+        "numberOfListeners": 12993,
         "region": "HH"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 10889,
+        "numberOfListeners": 10871,
         "region": "HE"
       }
     ]

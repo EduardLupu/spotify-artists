@@ -1,38 +1,38 @@
 {
   "id": "5gYimn2wODaiKOTFJlzVnn",
   "name": "Warlord Colossus",
-  "followers": 87389,
-  "monthlyListeners": 873100,
+  "followers": 87486,
+  "monthlyListeners": 877480,
   "topCities": {
     "items": [
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 11925,
+        "numberOfListeners": 11988,
         "region": "CO"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 11459,
+        "numberOfListeners": 11469,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 11236,
+        "numberOfListeners": 11279,
         "region": "TX"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 11213,
+        "numberOfListeners": 11269,
         "region": "AZ"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 11081,
+        "numberOfListeners": 11145,
         "region": "WA"
       }
     ]

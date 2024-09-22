@@ -1,39 +1,39 @@
 {
   "id": "7DkseLyOZrdRjCuoWFtqFi",
   "name": "Edicion Especial",
-  "followers": 1686797,
-  "monthlyListeners": 4296312,
+  "followers": 1688253,
+  "monthlyListeners": 4331000,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 292364,
+        "numberOfListeners": 293635,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 270505,
+        "numberOfListeners": 271647,
         "region": "JAL"
       },
       {
         "city": "Zapopan",
         "country": "MX",
-        "numberOfListeners": 183264,
+        "numberOfListeners": 185960,
         "region": "JAL"
       },
       {
         "city": "Tijuana",
         "country": "MX",
-        "numberOfListeners": 180142,
+        "numberOfListeners": 181274,
         "region": "BCN"
       },
       {
-        "city": "Querétaro City",
+        "city": "Monterrey",
         "country": "MX",
-        "numberOfListeners": 172044,
-        "region": "QUE"
+        "numberOfListeners": 173235,
+        "region": "NLE"
       }
     ]
   },

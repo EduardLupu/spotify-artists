@@ -2,37 +2,37 @@
   "id": "2b0aKuno01NxPWVCUVIEc8",
   "name": "Elijah Who",
   "followers": 180493,
-  "monthlyListeners": 560936,
+  "monthlyListeners": 561082,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 6615,
+        "numberOfListeners": 6609,
         "region": "CA"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 5321,
+        "numberOfListeners": 5299,
         "region": "SP"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 5282,
+        "numberOfListeners": 5266,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 5164,
+        "numberOfListeners": 5161,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 5014,
+        "numberOfListeners": 4990,
         "region": "VIC"
       }
     ]

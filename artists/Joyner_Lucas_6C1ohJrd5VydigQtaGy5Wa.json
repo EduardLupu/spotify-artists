@@ -1,38 +1,38 @@
 {
   "id": "6C1ohJrd5VydigQtaGy5Wa",
   "name": "Joyner Lucas",
-  "followers": 2287766,
-  "monthlyListeners": 4999861,
+  "followers": 2288016,
+  "monthlyListeners": 4985481,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 81747,
+        "numberOfListeners": 81546,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 78597,
+        "numberOfListeners": 77991,
         "region": "IL"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 73094,
+        "numberOfListeners": 72697,
         "region": "ON"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 64435,
+        "numberOfListeners": 64236,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 60649,
+        "numberOfListeners": 60413,
         "region": "QLD"
       }
     ]

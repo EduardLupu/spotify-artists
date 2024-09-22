@@ -1,8 +1,8 @@
 {
   "id": "4VZGwaGqZTMCJqLHHeEd4k",
   "name": "Aly Jade",
-  "followers": 1047,
-  "monthlyListeners": 7296,
+  "followers": 1049,
+  "monthlyListeners": 7330,
   "topCities": {
     "items": [
       {
@@ -12,16 +12,16 @@
         "region": "79"
       },
       {
+        "city": "Hanoi",
+        "country": "VN",
+        "numberOfListeners": 88,
+        "region": "HN"
+      },
+      {
         "city": "Jakarta",
         "country": "ID",
         "numberOfListeners": 87,
         "region": "JK"
-      },
-      {
-        "city": "Hanoi",
-        "country": "VN",
-        "numberOfListeners": 86,
-        "region": "HN"
       },
       {
         "city": "Ho Chi Minh City",

@@ -2,7 +2,7 @@
   "id": "20fetxMyvkZlQKjmDjFjXw",
   "name": "Geno",
   "followers": 22,
-  "monthlyListeners": 104,
+  "monthlyListeners": 107,
   "topCities": {
     "items": [
       {
@@ -18,22 +18,22 @@
         "region": "GU"
       },
       {
-        "city": "Buenos Aires",
-        "country": "AR",
-        "numberOfListeners": 2,
-        "region": "B"
-      },
-      {
         "city": "Mérida",
         "country": "MX",
         "numberOfListeners": 2,
         "region": "YUC"
       },
       {
-        "city": "Stavanger",
-        "country": "NO",
+        "city": "Jakarta",
+        "country": "ID",
         "numberOfListeners": 2,
-        "region": "11"
+        "region": "JK"
+      },
+      {
+        "city": "Chesapeake",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "VA"
       }
     ]
   },

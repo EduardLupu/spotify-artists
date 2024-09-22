@@ -1,39 +1,39 @@
 {
   "id": "7EcM36TO6TAUzihFoYyXEZ",
   "name": "Sefo",
-  "followers": 1478,
-  "monthlyListeners": 8064,
+  "followers": 1480,
+  "monthlyListeners": 8122,
   "topCities": {
     "items": [
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 998,
+        "numberOfListeners": 1006,
         "region": "C"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 427,
+        "numberOfListeners": 434,
         "region": "B"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 269,
+        "numberOfListeners": 266,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 202,
+        "numberOfListeners": 205,
         "region": "DC"
       },
       {
-        "city": "Lima",
-        "country": "PE",
-        "numberOfListeners": 193,
-        "region": "LMA"
+        "city": "Córdoba",
+        "country": "AR",
+        "numberOfListeners": 190,
+        "region": "X"
       }
     ]
   },

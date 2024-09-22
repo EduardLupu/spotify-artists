@@ -1,41 +1,41 @@
 {
   "id": "2ysnwxxNtSgbb9t1m2Ur4j",
   "name": "George Ezra",
-  "followers": 4222396,
-  "monthlyListeners": 18672075,
+  "followers": 4222952,
+  "monthlyListeners": 18573601,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 475080,
+        "numberOfListeners": 470500,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 394067,
+        "numberOfListeners": 394197,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 324368,
+        "numberOfListeners": 324112,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 279216,
+        "numberOfListeners": 279264,
         "region": "QLD"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 240706,
+        "numberOfListeners": 240388,
         "region": "L"
       }
     ]
   },
-  "worldRank": 408
+  "worldRank": 409
 }

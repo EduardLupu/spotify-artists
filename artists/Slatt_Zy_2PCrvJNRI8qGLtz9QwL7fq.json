@@ -1,38 +1,38 @@
 {
   "id": "2PCrvJNRI8qGLtz9QwL7fq",
   "name": "Slatt Zy",
-  "followers": 77886,
-  "monthlyListeners": 158405,
+  "followers": 77907,
+  "monthlyListeners": 158963,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 2866,
+        "numberOfListeners": 2856,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2120,
+        "numberOfListeners": 2123,
         "region": "IL"
       },
       {
         "city": "Lagos",
         "country": "NG",
-        "numberOfListeners": 1890,
+        "numberOfListeners": 1880,
         "region": "LA"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 1855,
+        "numberOfListeners": 1856,
         "region": "ON"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 1812,
+        "numberOfListeners": 1806,
         "region": "VIC"
       }
     ]

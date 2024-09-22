@@ -1,38 +1,38 @@
 {
   "id": "7KK6M2jPylHa6gLbMBI6V0",
   "name": "Tony Christie",
-  "followers": 57569,
-  "monthlyListeners": 268786,
+  "followers": 57580,
+  "monthlyListeners": 268063,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 13405,
+        "numberOfListeners": 13331,
         "region": "ENG"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 6748,
+        "numberOfListeners": 6740,
         "region": "L"
       },
       {
         "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 5996,
+        "numberOfListeners": 6020,
         "region": "ENG"
       },
       {
         "city": "Birmingham",
         "country": "GB",
-        "numberOfListeners": 5245,
+        "numberOfListeners": 5140,
         "region": "ENG"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 4665,
+        "numberOfListeners": 4659,
         "region": "BE"
       }
     ]

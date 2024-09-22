@@ -1,38 +1,38 @@
 {
   "id": "6pHMcpzOQOAOYpV6asNyMN",
   "name": "aidan",
-  "followers": 741,
-  "monthlyListeners": 4834,
+  "followers": 744,
+  "monthlyListeners": 4822,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 509,
+        "numberOfListeners": 505,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 341,
+        "numberOfListeners": 346,
         "region": "HH"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 251,
+        "numberOfListeners": 250,
         "region": "HE"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 191,
+        "numberOfListeners": 193,
         "region": "BW"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 186,
+        "numberOfListeners": 182,
         "region": "BY"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "5ZGrM7y0Z6yF3s9dBjHWi9",
   "name": "Grupo Clasificado",
-  "followers": 392299,
-  "monthlyListeners": 1640924,
+  "followers": 392529,
+  "monthlyListeners": 1636705,
   "topCities": {
     "items": [
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 122244,
+        "numberOfListeners": 121789,
         "region": "JAL"
       },
       {
         "city": "Tijuana",
         "country": "MX",
-        "numberOfListeners": 101138,
+        "numberOfListeners": 100887,
         "region": "BCN"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 98428,
+        "numberOfListeners": 97716,
         "region": "CMX"
       },
       {
         "city": "Culiacán",
         "country": "MX",
-        "numberOfListeners": 90698,
+        "numberOfListeners": 89033,
         "region": "SIN"
       },
       {
         "city": "Zapopan",
         "country": "MX",
-        "numberOfListeners": 80680,
+        "numberOfListeners": 80485,
         "region": "JAL"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "3VNITwohbvU5Wuy5PC6dsI",
   "name": "Kool & The Gang",
-  "followers": 2539052,
-  "monthlyListeners": 9238629,
+  "followers": 2539998,
+  "monthlyListeners": 9256970,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 178011,
+        "numberOfListeners": 177606,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 132070,
+        "numberOfListeners": 131975,
         "region": "ENG"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 123187,
+        "numberOfListeners": 123869,
         "region": "IDF"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 107049,
+        "numberOfListeners": 107354,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 104045,
+        "numberOfListeners": 104408,
         "region": "NSW"
       }
     ]

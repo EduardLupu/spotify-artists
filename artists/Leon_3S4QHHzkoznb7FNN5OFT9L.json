@@ -1,8 +1,8 @@
 {
   "id": "3S4QHHzkoznb7FNN5OFT9L",
   "name": "Leon",
-  "followers": 692,
-  "monthlyListeners": 3732,
+  "followers": 690,
+  "monthlyListeners": 3707,
   "topCities": {
     "items": [
       {
@@ -14,13 +14,13 @@
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 140,
+        "numberOfListeners": 141,
         "region": "HH"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 128,
+        "numberOfListeners": 125,
         "region": "HE"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 110,
+        "numberOfListeners": 112,
         "region": "BY"
       }
     ]

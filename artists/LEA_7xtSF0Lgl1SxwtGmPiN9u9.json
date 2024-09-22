@@ -2,7 +2,7 @@
   "id": "7xtSF0Lgl1SxwtGmPiN9u9",
   "name": "LEA",
   "followers": 26,
-  "monthlyListeners": 23,
+  "monthlyListeners": 24,
   "topCities": {
     "items": [
       {
@@ -10,6 +10,12 @@
         "country": "DE",
         "numberOfListeners": 2,
         "region": "BW"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 2,
+        "region": "BY"
       },
       {
         "city": "Weston-super-Mare",
@@ -24,16 +30,10 @@
         "region": "20"
       },
       {
-        "city": "Anchorage",
-        "country": "US",
+        "city": "Venice",
+        "country": "IT",
         "numberOfListeners": 1,
-        "region": "AK"
-      },
-      {
-        "city": "Atlanta",
-        "country": "US",
-        "numberOfListeners": 1,
-        "region": "GA"
+        "region": "34"
       }
     ]
   },

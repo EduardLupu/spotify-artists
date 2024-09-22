@@ -1,38 +1,38 @@
 {
   "id": "4epc3Bd0DOBA0kDywkRAsu",
   "name": "Westend",
-  "followers": 52699,
-  "monthlyListeners": 2459089,
+  "followers": 52745,
+  "monthlyListeners": 2423238,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 35339,
+        "numberOfListeners": 35080,
         "region": "NH"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 30691,
+        "numberOfListeners": 30269,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 30075,
+        "numberOfListeners": 29603,
         "region": "NSW"
       },
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 28804,
+        "numberOfListeners": 28507,
         "region": "25"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 28158,
+        "numberOfListeners": 27716,
         "region": "VIC"
       }
     ]

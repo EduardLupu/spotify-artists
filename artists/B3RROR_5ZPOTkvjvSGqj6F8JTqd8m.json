@@ -1,20 +1,20 @@
 {
   "id": "5ZPOTkvjvSGqj6F8JTqd8m",
   "name": "B3RROR",
-  "followers": 4202,
-  "monthlyListeners": 42131,
+  "followers": 4203,
+  "monthlyListeners": 42082,
   "topCities": {
     "items": [
       {
         "city": "Bangkok",
         "country": "TH",
-        "numberOfListeners": 2247,
+        "numberOfListeners": 2244,
         "region": "10"
       },
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 630,
+        "numberOfListeners": 624,
         "region": "13"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 356,
+        "numberOfListeners": 361,
         "region": "HH"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 334,
+        "numberOfListeners": 328,
         "region": "IL"
       }
     ]

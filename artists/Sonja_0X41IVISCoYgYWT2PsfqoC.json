@@ -1,27 +1,21 @@
 {
   "id": "0X41IVISCoYgYWT2PsfqoC",
   "name": "Sonja",
-  "followers": 5751,
-  "monthlyListeners": 3732,
+  "followers": 5755,
+  "monthlyListeners": 3703,
   "topCities": {
     "items": [
       {
         "city": "Athens",
         "country": "GR",
-        "numberOfListeners": 128,
+        "numberOfListeners": 124,
         "region": "I"
       },
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 72,
+        "numberOfListeners": 69,
         "region": "18"
-      },
-      {
-        "city": "Berlin",
-        "country": "DE",
-        "numberOfListeners": 49,
-        "region": "BE"
       },
       {
         "city": "Philadelphia",
@@ -30,9 +24,15 @@
         "region": "PA"
       },
       {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 47,
+        "region": "BE"
+      },
+      {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 44,
+        "numberOfListeners": 46,
         "region": "AB"
       }
     ]

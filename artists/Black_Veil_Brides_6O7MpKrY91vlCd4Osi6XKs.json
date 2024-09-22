@@ -1,38 +1,38 @@
 {
   "id": "6O7MpKrY91vlCd4Osi6XKs",
   "name": "Black Veil Brides",
-  "followers": 2000634,
-  "monthlyListeners": 2410051,
+  "followers": 2001165,
+  "monthlyListeners": 2402608,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 30307,
+        "numberOfListeners": 30241,
         "region": "ENG"
-      },
-      {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 28687,
-        "region": "IL"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 28652,
+        "numberOfListeners": 28619,
         "region": "JK"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 28563,
+        "region": "IL"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 22920,
+        "numberOfListeners": 22841,
         "region": "CMX"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 22756,
+        "numberOfListeners": 22717,
         "region": "TX"
       }
     ]

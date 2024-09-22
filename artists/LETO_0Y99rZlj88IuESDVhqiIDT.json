@@ -1,33 +1,33 @@
 {
   "id": "0Y99rZlj88IuESDVhqiIDT",
   "name": "LETO",
-  "followers": 106,
-  "monthlyListeners": 701,
+  "followers": 108,
+  "monthlyListeners": 671,
   "topCities": {
     "items": [
       {
         "city": "Athens",
         "country": "GR",
-        "numberOfListeners": 346,
+        "numberOfListeners": 333,
         "region": "I"
       },
       {
         "city": "Thessaloniki",
         "country": "GR",
-        "numberOfListeners": 177,
+        "numberOfListeners": 175,
         "region": "B"
-      },
-      {
-        "city": "Pátrai",
-        "country": "GR",
-        "numberOfListeners": 15,
-        "region": "G"
       },
       {
         "city": "Larissa",
         "country": "GR",
-        "numberOfListeners": 15,
+        "numberOfListeners": 13,
         "region": "E"
+      },
+      {
+        "city": "Pátrai",
+        "country": "GR",
+        "numberOfListeners": 13,
+        "region": "G"
       },
       {
         "city": "Nicosia",

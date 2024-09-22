@@ -1,38 +1,38 @@
 {
   "id": "3Ri4H12KFyu98LMjSoij5V",
   "name": "Bad Omens",
-  "followers": 1424319,
-  "monthlyListeners": 5475807,
+  "followers": 1425482,
+  "monthlyListeners": 5476324,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 84776,
+        "numberOfListeners": 84462,
         "region": "ENG"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 80802,
+        "numberOfListeners": 81177,
         "region": "JK"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 76786,
+        "numberOfListeners": 76564,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 68580,
+        "numberOfListeners": 68497,
         "region": "TX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 65668,
+        "numberOfListeners": 65511,
         "region": "NSW"
       }
     ]

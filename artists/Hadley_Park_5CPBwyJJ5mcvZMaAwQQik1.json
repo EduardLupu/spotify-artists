@@ -2,7 +2,7 @@
   "id": "5CPBwyJJ5mcvZMaAwQQik1",
   "name": "Hadley Park",
   "followers": 309,
-  "monthlyListeners": 1329,
+  "monthlyListeners": 1358,
   "topCities": {
     "items": [
       {
@@ -14,7 +14,7 @@
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 17,
+        "numberOfListeners": 16,
         "region": "SP"
       },
       {
@@ -24,16 +24,16 @@
         "region": "NSW"
       },
       {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 15,
+        "region": "WA"
+      },
+      {
         "city": "Montreal",
         "country": "CA",
         "numberOfListeners": 14,
         "region": "QC"
-      },
-      {
-        "city": "Seattle",
-        "country": "US",
-        "numberOfListeners": 14,
-        "region": "WA"
       }
     ]
   },

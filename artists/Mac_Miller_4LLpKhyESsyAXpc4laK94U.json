@@ -1,41 +1,41 @@
 {
   "id": "4LLpKhyESsyAXpc4laK94U",
   "name": "Mac Miller",
-  "followers": 10843612,
-  "monthlyListeners": 24687346,
+  "followers": 10846981,
+  "monthlyListeners": 24763886,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 439198,
+        "numberOfListeners": 439911,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 425110,
+        "numberOfListeners": 425073,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 378176,
+        "numberOfListeners": 380339,
         "region": "NSW"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 358937,
+        "numberOfListeners": 361065,
         "region": "NY"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 348731,
+        "numberOfListeners": 349357,
         "region": "ENG"
       }
     ]
   },
-  "worldRank": 231
+  "worldRank": 230
 }

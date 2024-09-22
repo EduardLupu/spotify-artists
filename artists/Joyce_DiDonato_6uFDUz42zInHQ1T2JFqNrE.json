@@ -1,38 +1,38 @@
 {
   "id": "6uFDUz42zInHQ1T2JFqNrE",
   "name": "Joyce DiDonato",
-  "followers": 23830,
-  "monthlyListeners": 71895,
+  "followers": 23834,
+  "monthlyListeners": 72085,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 1312,
+        "numberOfListeners": 1319,
         "region": "IDF"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 1108,
+        "numberOfListeners": 1113,
         "region": "MD"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 910,
+        "numberOfListeners": 907,
         "region": "BRU"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 865,
+        "numberOfListeners": 875,
         "region": "ENG"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 858,
+        "numberOfListeners": 843,
         "region": "RM"
       }
     ]

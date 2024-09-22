@@ -2,19 +2,19 @@
   "id": "60ebH6MAorombw3PC3Ce5e",
   "name": "Scooter",
   "followers": 64,
-  "monthlyListeners": 17882,
+  "monthlyListeners": 17898,
   "topCities": {
     "items": [
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 780,
+        "numberOfListeners": 788,
         "region": "18"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 517,
+        "numberOfListeners": 529,
         "region": "HH"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 427,
+        "numberOfListeners": 437,
         "region": "AB"
       }
     ]

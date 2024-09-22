@@ -6,16 +6,16 @@
   "topCities": {
     "items": [
       {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 7,
+        "region": "NH"
+      },
+      {
         "city": "Paris",
         "country": "FR",
         "numberOfListeners": 6,
         "region": "IDF"
-      },
-      {
-        "city": "Amsterdam",
-        "country": "NL",
-        "numberOfListeners": 6,
-        "region": "NH"
       },
       {
         "city": "Casablanca",
@@ -30,10 +30,10 @@
         "region": "ZH"
       },
       {
-        "city": "Fes",
-        "country": "MA",
+        "city": "Montreal",
+        "country": "CA",
         "numberOfListeners": 2,
-        "region": "03"
+        "region": "QC"
       }
     ]
   },

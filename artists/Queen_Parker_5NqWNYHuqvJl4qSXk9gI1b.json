@@ -1,38 +1,38 @@
 {
   "id": "5NqWNYHuqvJl4qSXk9gI1b",
   "name": "Queen Parker",
-  "followers": 2536,
-  "monthlyListeners": 27408,
+  "followers": 2540,
+  "monthlyListeners": 27406,
   "topCities": {
     "items": [
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 4479,
+        "numberOfListeners": 4515,
         "region": "MD"
       },
       {
         "city": "Santo Domingo",
         "country": "DO",
-        "numberOfListeners": 1389,
+        "numberOfListeners": 1401,
         "region": "01"
       },
       {
         "city": "Barcelona",
         "country": "ES",
-        "numberOfListeners": 1007,
+        "numberOfListeners": 1005,
         "region": "CT"
       },
       {
         "city": "Santo Domingo Este",
         "country": "DO",
-        "numberOfListeners": 945,
+        "numberOfListeners": 932,
         "region": "32"
       },
       {
         "city": "San Juan",
         "country": "US",
-        "numberOfListeners": 582,
+        "numberOfListeners": 575,
         "region": "PR"
       }
     ]

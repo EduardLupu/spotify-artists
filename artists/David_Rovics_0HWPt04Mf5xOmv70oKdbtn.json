@@ -2,19 +2,19 @@
   "id": "0HWPt04Mf5xOmv70oKdbtn",
   "name": "David Rovics",
   "followers": 10554,
-  "monthlyListeners": 16805,
+  "monthlyListeners": 16769,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 348,
+        "numberOfListeners": 343,
         "region": "BE"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 282,
+        "numberOfListeners": 283,
         "region": "ENG"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 245,
+        "numberOfListeners": 248,
         "region": "L"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 224,
+        "numberOfListeners": 228,
         "region": "WA"
       }
     ]

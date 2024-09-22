@@ -1,38 +1,38 @@
 {
   "id": "3nDNDLcZuSto4k9u4AbcLB",
   "name": "Marteria",
-  "followers": 846417,
-  "monthlyListeners": 1670701,
+  "followers": 846476,
+  "monthlyListeners": 1662766,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 165280,
+        "numberOfListeners": 164577,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 115897,
+        "numberOfListeners": 118240,
         "region": "HH"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 99015,
+        "numberOfListeners": 98249,
         "region": "HE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 92906,
+        "numberOfListeners": 93036,
         "region": "BY"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 72113,
+        "numberOfListeners": 73004,
         "region": "BW"
       }
     ]

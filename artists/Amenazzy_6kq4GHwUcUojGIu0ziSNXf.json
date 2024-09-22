@@ -1,38 +1,38 @@
 {
   "id": "6kq4GHwUcUojGIu0ziSNXf",
   "name": "Amenazzy",
-  "followers": 3212460,
-  "monthlyListeners": 5883597,
+  "followers": 3213222,
+  "monthlyListeners": 5854801,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 302299,
+        "numberOfListeners": 299234,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 253880,
+        "numberOfListeners": 253718,
         "region": "DC"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 210661,
+        "numberOfListeners": 210173,
         "region": "MD"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 192941,
+        "numberOfListeners": 192855,
         "region": "LMA"
       },
       {
         "city": "Santo Domingo",
         "country": "DO",
-        "numberOfListeners": 170381,
+        "numberOfListeners": 171003,
         "region": "01"
       }
     ]

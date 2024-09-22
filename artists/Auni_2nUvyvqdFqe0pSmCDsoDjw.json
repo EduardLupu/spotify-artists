@@ -1,38 +1,38 @@
 {
   "id": "2nUvyvqdFqe0pSmCDsoDjw",
   "name": "Auni",
-  "followers": 6771,
-  "monthlyListeners": 33435,
+  "followers": 6775,
+  "monthlyListeners": 33266,
   "topCities": {
     "items": [
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 687,
+        "numberOfListeners": 681,
         "region": "34"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 530,
+        "numberOfListeners": 538,
         "region": "JK"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 499,
+        "numberOfListeners": 493,
         "region": "CMX"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 446,
+        "numberOfListeners": 449,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 402,
+        "numberOfListeners": 389,
         "region": "RM"
       }
     ]

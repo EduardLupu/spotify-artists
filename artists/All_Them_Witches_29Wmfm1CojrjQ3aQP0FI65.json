@@ -1,38 +1,38 @@
 {
   "id": "29Wmfm1CojrjQ3aQP0FI65",
   "name": "All Them Witches",
-  "followers": 312783,
-  "monthlyListeners": 468561,
+  "followers": 312883,
+  "monthlyListeners": 468845,
   "topCities": {
     "items": [
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 5952,
+        "numberOfListeners": 5943,
         "region": "WA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 5676,
+        "numberOfListeners": 5655,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 5404,
+        "numberOfListeners": 5411,
         "region": "VIC"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 5386,
+        "numberOfListeners": 5390,
         "region": "CO"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 5337,
+        "numberOfListeners": 5355,
         "region": "NSW"
       }
     ]

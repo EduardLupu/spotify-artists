@@ -1,38 +1,38 @@
 {
   "id": "1TXQXONqxriHUWpcFaRkCk",
   "name": "500raxx",
-  "followers": 2863,
-  "monthlyListeners": 16213,
+  "followers": 2864,
+  "monthlyListeners": 16141,
   "topCities": {
     "items": [
       {
         "city": "Guwahati",
         "country": "IN",
-        "numberOfListeners": 2091,
+        "numberOfListeners": 2087,
         "region": "AS"
       },
       {
         "city": "Shillong",
         "country": "IN",
-        "numberOfListeners": 1031,
+        "numberOfListeners": 1033,
         "region": "ML"
       },
       {
         "city": "Imphal",
         "country": "IN",
-        "numberOfListeners": 687,
+        "numberOfListeners": 665,
         "region": "MN"
       },
       {
         "city": "Aizawl",
         "country": "IN",
-        "numberOfListeners": 528,
+        "numberOfListeners": 516,
         "region": "MZ"
       },
       {
         "city": "Agartala",
         "country": "IN",
-        "numberOfListeners": 359,
+        "numberOfListeners": 358,
         "region": "TR"
       }
     ]

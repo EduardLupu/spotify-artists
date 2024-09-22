@@ -1,41 +1,41 @@
 {
   "id": "60d24wfXkVzDSfLS6hyCjZ",
   "name": "Martin Garrix",
-  "followers": 15067057,
-  "monthlyListeners": 22359226,
+  "followers": 15067794,
+  "monthlyListeners": 22414360,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 428699,
+        "numberOfListeners": 433487,
         "region": "JK"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 284390,
+        "numberOfListeners": 286552,
         "region": "NH"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 259789,
+        "numberOfListeners": 258344,
         "region": "CMX"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 242422,
+        "numberOfListeners": 243785,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 242205,
+        "numberOfListeners": 243190,
         "region": "NSW"
       }
     ]
   },
-  "worldRank": 292
+  "worldRank": 290
 }

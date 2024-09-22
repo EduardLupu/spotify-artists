@@ -1,39 +1,39 @@
 {
   "id": "3RMAZkh3T3IO2EUMuZMlOE",
   "name": "Yus Gz",
-  "followers": 94880,
-  "monthlyListeners": 182191,
+  "followers": 94931,
+  "monthlyListeners": 180385,
   "topCities": {
     "items": [
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 7124,
+        "numberOfListeners": 7043,
         "region": "NY"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 6141,
+        "numberOfListeners": 6144,
         "region": "NY"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 3790,
+        "numberOfListeners": 3815,
         "region": "ON"
-      },
-      {
-        "city": "Philadelphia",
-        "country": "US",
-        "numberOfListeners": 3260,
-        "region": "PA"
       },
       {
         "city": "The Bronx",
         "country": "US",
-        "numberOfListeners": 3236,
+        "numberOfListeners": 3229,
         "region": "NY"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 3204,
+        "region": "PA"
       }
     ]
   },

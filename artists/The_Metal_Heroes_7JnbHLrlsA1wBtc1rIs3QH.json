@@ -2,19 +2,19 @@
   "id": "7JnbHLrlsA1wBtc1rIs3QH",
   "name": "The Metal Heroes",
   "followers": 1772,
-  "monthlyListeners": 3168,
+  "monthlyListeners": 3151,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 68,
+        "numberOfListeners": 66,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 66,
+        "numberOfListeners": 65,
         "region": "CMX"
       },
       {
@@ -24,16 +24,16 @@
         "region": "IL"
       },
       {
-        "city": "Bogotá",
-        "country": "CO",
-        "numberOfListeners": 31,
-        "region": "DC"
-      },
-      {
         "city": "Montreal",
         "country": "CA",
         "numberOfListeners": 30,
         "region": "QC"
+      },
+      {
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 29,
+        "region": "CA"
       }
     ]
   },

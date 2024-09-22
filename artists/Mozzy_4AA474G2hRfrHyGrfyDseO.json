@@ -1,38 +1,38 @@
 {
   "id": "4AA474G2hRfrHyGrfyDseO",
   "name": "Mozzy",
-  "followers": 812815,
-  "monthlyListeners": 2358927,
+  "followers": 812962,
+  "monthlyListeners": 2347288,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 65897,
+        "numberOfListeners": 65606,
         "region": "CA"
       },
       {
         "city": "Sacramento",
         "country": "US",
-        "numberOfListeners": 48666,
+        "numberOfListeners": 48169,
         "region": "CA"
       },
       {
         "city": "San Francisco",
         "country": "US",
-        "numberOfListeners": 34479,
+        "numberOfListeners": 34338,
         "region": "CA"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 32729,
+        "numberOfListeners": 32590,
         "region": "AZ"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 32405,
+        "numberOfListeners": 32180,
         "region": "ENG"
       }
     ]

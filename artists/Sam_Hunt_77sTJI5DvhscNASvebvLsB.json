@@ -2,19 +2,19 @@
   "id": "77sTJI5DvhscNASvebvLsB",
   "name": "Sam Hunt",
   "followers": 1139,
-  "monthlyListeners": 490,
+  "monthlyListeners": 489,
   "topCities": {
     "items": [
       {
         "city": "Auckland",
         "country": "NZ",
-        "numberOfListeners": 73,
+        "numberOfListeners": 72,
         "region": "AUK"
       },
       {
         "city": "Christchurch",
         "country": "NZ",
-        "numberOfListeners": 45,
+        "numberOfListeners": 44,
         "region": "CAN"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 21,
+        "numberOfListeners": 20,
         "region": "NSW"
       },
       {
         "city": "Dunedin",
         "country": "NZ",
-        "numberOfListeners": 18,
+        "numberOfListeners": 20,
         "region": "OTA"
       }
     ]

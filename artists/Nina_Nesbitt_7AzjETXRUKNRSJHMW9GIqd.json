@@ -1,38 +1,38 @@
 {
   "id": "7AzjETXRUKNRSJHMW9GIqd",
   "name": "Nina Nesbitt",
-  "followers": 333781,
-  "monthlyListeners": 1121098,
+  "followers": 333785,
+  "monthlyListeners": 1121899,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 22250,
+        "numberOfListeners": 22242,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 18458,
+        "numberOfListeners": 18432,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 15498,
+        "numberOfListeners": 15502,
         "region": "VIC"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 10901,
+        "numberOfListeners": 10977,
         "region": "NY"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 10720,
+        "numberOfListeners": 10740,
         "region": "QLD"
       }
     ]

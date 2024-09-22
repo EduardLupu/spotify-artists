@@ -1,38 +1,38 @@
 {
   "id": "6ubJLRTVzomuWIScbguoSY",
   "name": "Grupo Diez 4tro",
-  "followers": 498446,
-  "monthlyListeners": 511319,
+  "followers": 498496,
+  "monthlyListeners": 510039,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 20254,
+        "numberOfListeners": 20162,
         "region": "CMX"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 17641,
+        "numberOfListeners": 17499,
         "region": "CA"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 16434,
+        "numberOfListeners": 16400,
         "region": "JAL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 14229,
+        "numberOfListeners": 14218,
         "region": "TX"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 12902,
+        "numberOfListeners": 12728,
         "region": "IL"
       }
     ]

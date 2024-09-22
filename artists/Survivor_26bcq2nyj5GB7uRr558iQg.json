@@ -1,38 +1,38 @@
 {
   "id": "26bcq2nyj5GB7uRr558iQg",
   "name": "Survivor",
-  "followers": 1165489,
-  "monthlyListeners": 13174594,
+  "followers": 1166211,
+  "monthlyListeners": 13132321,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 226173,
+        "numberOfListeners": 223950,
         "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 192077,
+        "numberOfListeners": 191528,
         "region": "SP"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 157790,
+        "numberOfListeners": 156515,
         "region": "CMX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 124438,
+        "numberOfListeners": 124497,
         "region": "NSW"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 120718,
+        "numberOfListeners": 120342,
         "region": "DC"
       }
     ]

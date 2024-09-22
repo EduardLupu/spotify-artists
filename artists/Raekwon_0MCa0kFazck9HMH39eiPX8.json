@@ -2,7 +2,7 @@
   "id": "0MCa0kFazck9HMH39eiPX8",
   "name": "Raekwon",
   "followers": 40,
-  "monthlyListeners": 272,
+  "monthlyListeners": 283,
   "topCities": {
     "items": [
       {
@@ -20,17 +20,17 @@
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 15,
+        "numberOfListeners": 16,
         "region": "CA"
       },
       {
-        "city": "San Diego",
+        "city": "Ontario",
         "country": "US",
         "numberOfListeners": 8,
         "region": "CA"
       },
       {
-        "city": "Ontario",
+        "city": "San Jose",
         "country": "US",
         "numberOfListeners": 8,
         "region": "CA"

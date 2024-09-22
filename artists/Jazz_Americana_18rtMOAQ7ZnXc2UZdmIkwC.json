@@ -2,7 +2,7 @@
   "id": "18rtMOAQ7ZnXc2UZdmIkwC",
   "name": "Jazz Americana",
   "followers": 333,
-  "monthlyListeners": 266,
+  "monthlyListeners": 271,
   "topCities": {
     "items": [
       {
@@ -10,12 +10,6 @@
         "country": "CO",
         "numberOfListeners": 4,
         "region": "DC"
-      },
-      {
-        "city": "São Paulo",
-        "country": "BR",
-        "numberOfListeners": 4,
-        "region": "SP"
       },
       {
         "city": "Chicago",
@@ -30,10 +24,16 @@
         "region": "NY"
       },
       {
-        "city": "Jakarta",
-        "country": "ID",
+        "city": "Panama City",
+        "country": "PA",
         "numberOfListeners": 3,
-        "region": "JK"
+        "region": "8"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 3,
+        "region": "ENG"
       }
     ]
   },

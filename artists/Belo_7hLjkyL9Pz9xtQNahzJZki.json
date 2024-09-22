@@ -1,38 +1,38 @@
 {
   "id": "7hLjkyL9Pz9xtQNahzJZki",
   "name": "Belo",
-  "followers": 1646799,
-  "monthlyListeners": 4727054,
+  "followers": 1648265,
+  "monthlyListeners": 4754358,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 944917,
+        "numberOfListeners": 949073,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 590793,
+        "numberOfListeners": 591292,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 247826,
+        "numberOfListeners": 249624,
         "region": "MG"
       },
       {
         "city": "Campinas",
         "country": "BR",
-        "numberOfListeners": 203193,
+        "numberOfListeners": 204816,
         "region": "SP"
       },
       {
         "city": "Porto Alegre",
         "country": "BR",
-        "numberOfListeners": 191620,
+        "numberOfListeners": 193734,
         "region": "RS"
       }
     ]

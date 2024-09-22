@@ -1,38 +1,38 @@
 {
   "id": "6RWjTQqILL7a1tQ0VapyLK",
   "name": "The Magnetic Fields",
-  "followers": 236212,
-  "monthlyListeners": 897253,
+  "followers": 236283,
+  "monthlyListeners": 902630,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 23443,
+        "numberOfListeners": 23478,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 18073,
+        "numberOfListeners": 18230,
         "region": "NY"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 17105,
+        "numberOfListeners": 17130,
         "region": "NY"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 14145,
+        "numberOfListeners": 14235,
         "region": "CA"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 13845,
+        "numberOfListeners": 13910,
         "region": "VIC"
       }
     ]

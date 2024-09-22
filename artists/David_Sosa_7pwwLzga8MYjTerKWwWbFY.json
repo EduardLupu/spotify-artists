@@ -2,7 +2,7 @@
   "id": "7pwwLzga8MYjTerKWwWbFY",
   "name": "David Sosa",
   "followers": 95,
-  "monthlyListeners": 48,
+  "monthlyListeners": 47,
   "topCities": {
     "items": [
       {
@@ -12,28 +12,28 @@
         "region": "TX"
       },
       {
-        "city": "Jakarta",
-        "country": "ID",
-        "numberOfListeners": 2,
-        "region": "JK"
-      },
-      {
         "city": "Tulsa",
         "country": "US",
         "numberOfListeners": 2,
         "region": "OK"
       },
       {
-        "city": "London",
-        "country": "CA",
+        "city": "New York City",
+        "country": "US",
         "numberOfListeners": 1,
-        "region": "ON"
+        "region": "NY"
       },
       {
-        "city": "Edmonton",
-        "country": "CA",
+        "city": "Shakopee",
+        "country": "US",
         "numberOfListeners": 1,
-        "region": "AB"
+        "region": "MN"
+      },
+      {
+        "city": "Edison",
+        "country": "US",
+        "numberOfListeners": 1,
+        "region": "NJ"
       }
     ]
   },

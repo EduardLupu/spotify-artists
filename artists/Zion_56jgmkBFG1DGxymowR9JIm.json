@@ -2,7 +2,7 @@
   "id": "56jgmkBFG1DGxymowR9JIm",
   "name": "Zion",
   "followers": 123,
-  "monthlyListeners": 232,
+  "monthlyListeners": 234,
   "topCities": {
     "items": [
       {
@@ -12,28 +12,28 @@
         "region": "SP"
       },
       {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 6,
+        "region": "ENG"
+      },
+      {
         "city": "Stockholm",
         "country": "SE",
         "numberOfListeners": 5,
         "region": "AB"
       },
       {
-        "city": "Rotterdam",
-        "country": "NL",
-        "numberOfListeners": 5,
-        "region": "ZH"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 5,
-        "region": "ENG"
-      },
-      {
-        "city": "San Francisco",
-        "country": "US",
+        "city": "Nairobi",
+        "country": "KE",
         "numberOfListeners": 4,
-        "region": "CA"
+        "region": "30"
+      },
+      {
+        "city": "San José",
+        "country": "CR",
+        "numberOfListeners": 4,
+        "region": "SJ"
       }
     ]
   },

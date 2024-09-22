@@ -1,38 +1,38 @@
 {
   "id": "1HxXNvsraqrsgfmju1yKk8",
   "name": "Modern Baseball",
-  "followers": 499923,
-  "monthlyListeners": 1530669,
+  "followers": 500172,
+  "monthlyListeners": 1532142,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 33284,
+        "numberOfListeners": 33287,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 31084,
+        "numberOfListeners": 31145,
         "region": "CA"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 25303,
+        "numberOfListeners": 25406,
         "region": "PA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 24717,
+        "numberOfListeners": 24726,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 24309,
+        "numberOfListeners": 24492,
         "region": "NY"
       }
     ]

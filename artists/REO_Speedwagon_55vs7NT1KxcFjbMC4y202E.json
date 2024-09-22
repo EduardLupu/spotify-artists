@@ -1,38 +1,38 @@
 {
   "id": "55vs7NT1KxcFjbMC4y202E",
   "name": "REO Speedwagon",
-  "followers": 2609217,
-  "monthlyListeners": 5782216,
+  "followers": 2610019,
+  "monthlyListeners": 5765777,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 91810,
+        "numberOfListeners": 91030,
         "region": "RM"
       },
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 84573,
+        "numberOfListeners": 84735,
         "region": "00"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 69923,
+        "numberOfListeners": 69879,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 66081,
+        "numberOfListeners": 65732,
         "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 58385,
+        "numberOfListeners": 58242,
         "region": "VIC"
       }
     ]

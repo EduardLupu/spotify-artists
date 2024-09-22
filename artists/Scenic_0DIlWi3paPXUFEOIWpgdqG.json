@@ -1,38 +1,38 @@
 {
   "id": "0DIlWi3paPXUFEOIWpgdqG",
   "name": "Scenic",
-  "followers": 5781,
-  "monthlyListeners": 62670,
+  "followers": 5783,
+  "monthlyListeners": 62626,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 3030,
+        "numberOfListeners": 3025,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1394,
+        "numberOfListeners": 1369,
         "region": "RM"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 1064,
+        "numberOfListeners": 1053,
         "region": "JAL"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 981,
+        "numberOfListeners": 994,
         "region": "CMX"
       },
       {
         "city": "Puebla City",
         "country": "MX",
-        "numberOfListeners": 945,
+        "numberOfListeners": 943,
         "region": "PUE"
       }
     ]

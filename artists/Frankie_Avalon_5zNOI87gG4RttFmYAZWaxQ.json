@@ -1,38 +1,38 @@
 {
   "id": "5zNOI87gG4RttFmYAZWaxQ",
   "name": "Frankie Avalon",
-  "followers": 182051,
-  "monthlyListeners": 454748,
+  "followers": 182086,
+  "monthlyListeners": 456102,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 9253,
+        "numberOfListeners": 9237,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 6903,
+        "numberOfListeners": 6934,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 6438,
+        "numberOfListeners": 6479,
         "region": "CA"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 6337,
+        "numberOfListeners": 6356,
         "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 6142,
+        "numberOfListeners": 6131,
         "region": "NSW"
       }
     ]

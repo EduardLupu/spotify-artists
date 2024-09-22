@@ -1,38 +1,38 @@
 {
   "id": "2y1VzMKAa5nmfXKtJL9jnj",
   "name": "Murda",
-  "followers": 1207678,
-  "monthlyListeners": 2929014,
+  "followers": 1207632,
+  "monthlyListeners": 2916156,
   "topCities": {
     "items": [
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 600434,
+        "numberOfListeners": 596941,
         "region": "34"
       },
       {
         "city": "Ankara",
         "country": "TR",
-        "numberOfListeners": 284550,
+        "numberOfListeners": 282661,
         "region": "06"
       },
       {
         "city": "Izmir",
         "country": "TR",
-        "numberOfListeners": 224637,
+        "numberOfListeners": 222088,
         "region": "35"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 185680,
+        "numberOfListeners": 186378,
         "region": "NH"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 149239,
+        "numberOfListeners": 148789,
         "region": "ZH"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "5hOJDPDGtR4hTrIyhO1OJq",
   "name": "Sam Moran",
-  "followers": 1283,
-  "monthlyListeners": 13117,
+  "followers": 1287,
+  "monthlyListeners": 13317,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 519,
+        "numberOfListeners": 525,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 420,
+        "numberOfListeners": 423,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 304,
+        "numberOfListeners": 323,
         "region": "QLD"
       },
       {
         "city": "Perth",
         "country": "AU",
-        "numberOfListeners": 242,
+        "numberOfListeners": 244,
         "region": "WA"
       },
       {
         "city": "Adelaide",
         "country": "AU",
-        "numberOfListeners": 117,
+        "numberOfListeners": 121,
         "region": "SA"
       }
     ]

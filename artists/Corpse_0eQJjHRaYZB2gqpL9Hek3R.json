@@ -1,8 +1,8 @@
 {
   "id": "0eQJjHRaYZB2gqpL9Hek3R",
   "name": "Corpse",
-  "followers": 648,
-  "monthlyListeners": 107,
+  "followers": 649,
+  "monthlyListeners": 108,
   "topCities": {
     "items": [
       {
@@ -12,28 +12,28 @@
         "region": "RM"
       },
       {
-        "city": "Sacramento",
-        "country": "US",
-        "numberOfListeners": 3,
-        "region": "CA"
-      },
-      {
         "city": "San José",
         "country": "CR",
         "numberOfListeners": 3,
         "region": "SJ"
       },
       {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 2,
-        "region": "ENG"
+        "city": "Sacramento",
+        "country": "US",
+        "numberOfListeners": 3,
+        "region": "CA"
       },
       {
         "city": "Guatemala City",
         "country": "GT",
         "numberOfListeners": 2,
         "region": "GU"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 2,
+        "region": "01"
       }
     ]
   },

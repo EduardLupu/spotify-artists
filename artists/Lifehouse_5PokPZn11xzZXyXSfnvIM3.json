@@ -1,38 +1,38 @@
 {
   "id": "5PokPZn11xzZXyXSfnvIM3",
   "name": "Lifehouse",
-  "followers": 2035674,
-  "monthlyListeners": 5565592,
+  "followers": 2036050,
+  "monthlyListeners": 5542584,
   "topCities": {
     "items": [
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 120457,
+        "numberOfListeners": 120146,
         "region": "00"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 96825,
+        "numberOfListeners": 95967,
         "region": "NSW"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 94518,
+        "numberOfListeners": 93795,
         "region": "JK"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 84759,
+        "numberOfListeners": 83991,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 72766,
+        "numberOfListeners": 72186,
         "region": "QLD"
       }
     ]

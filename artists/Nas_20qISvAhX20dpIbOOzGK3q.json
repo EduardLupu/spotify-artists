@@ -1,38 +1,38 @@
 {
   "id": "20qISvAhX20dpIbOOzGK3q",
   "name": "Nas",
-  "followers": 3883382,
-  "monthlyListeners": 9053714,
+  "followers": 3884746,
+  "monthlyListeners": 9058489,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 198747,
+        "numberOfListeners": 198477,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 133831,
+        "numberOfListeners": 133740,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 126115,
+        "numberOfListeners": 126656,
         "region": "NY"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 120752,
+        "numberOfListeners": 120961,
         "region": "NSW"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 111998,
+        "numberOfListeners": 111841,
         "region": "ON"
       }
     ]

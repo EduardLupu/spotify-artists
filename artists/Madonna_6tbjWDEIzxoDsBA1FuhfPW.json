@@ -1,38 +1,38 @@
 {
   "id": "6tbjWDEIzxoDsBA1FuhfPW",
   "name": "Madonna",
-  "followers": 8078790,
-  "monthlyListeners": 39576588,
+  "followers": 8081291,
+  "monthlyListeners": 39453550,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 576239,
+        "numberOfListeners": 573886,
         "region": "SP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 570685,
+        "numberOfListeners": 567395,
         "region": "ENG"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 563199,
+        "numberOfListeners": 558523,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 481751,
+        "numberOfListeners": 478439,
         "region": "CMX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 476644,
+        "numberOfListeners": 475384,
         "region": "NSW"
       }
     ]

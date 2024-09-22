@@ -1,38 +1,38 @@
 {
   "id": "0EodhzA6yW1bIdD5B4tcmJ",
   "name": "Bobby Darin",
-  "followers": 563963,
-  "monthlyListeners": 3392859,
+  "followers": 564173,
+  "monthlyListeners": 3379370,
   "topCities": {
     "items": [
       {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 42556,
-        "region": "ENG"
-      },
-      {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 42537,
+        "numberOfListeners": 42316,
         "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 42191,
+        "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 39846,
+        "numberOfListeners": 39725,
         "region": "VIC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 38263,
+        "numberOfListeners": 38160,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 36131,
+        "numberOfListeners": 35908,
         "region": "IL"
       }
     ]

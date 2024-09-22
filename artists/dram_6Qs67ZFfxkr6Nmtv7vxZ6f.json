@@ -2,19 +2,19 @@
   "id": "6Qs67ZFfxkr6Nmtv7vxZ6f",
   "name": "dram",
   "followers": 2152,
-  "monthlyListeners": 3000,
+  "monthlyListeners": 3008,
   "topCities": {
     "items": [
       {
         "city": "Belgrade",
         "country": "RS",
-        "numberOfListeners": 1404,
+        "numberOfListeners": 1402,
         "region": "00"
       },
       {
         "city": "Zagreb",
         "country": "HR",
-        "numberOfListeners": 231,
+        "numberOfListeners": 235,
         "region": "21"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Vienna",
         "country": "AT",
-        "numberOfListeners": 72,
+        "numberOfListeners": 74,
         "region": "9"
       },
       {
         "city": "Ljubljana",
         "country": "SI",
-        "numberOfListeners": 66,
+        "numberOfListeners": 67,
         "region": "061"
       }
     ]

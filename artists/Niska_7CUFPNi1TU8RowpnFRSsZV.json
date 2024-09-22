@@ -1,38 +1,38 @@
 {
   "id": "7CUFPNi1TU8RowpnFRSsZV",
   "name": "Niska",
-  "followers": 5544847,
-  "monthlyListeners": 5739997,
+  "followers": 5547255,
+  "monthlyListeners": 5764000,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 996321,
+        "numberOfListeners": 1006310,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 235548,
+        "numberOfListeners": 237784,
         "region": "BRU"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 204132,
+        "numberOfListeners": 204890,
         "region": "ARA"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 173327,
+        "numberOfListeners": 175564,
         "region": "HDF"
       },
       {
         "city": "Marseille",
         "country": "FR",
-        "numberOfListeners": 153880,
+        "numberOfListeners": 152899,
         "region": "PAC"
       }
     ]

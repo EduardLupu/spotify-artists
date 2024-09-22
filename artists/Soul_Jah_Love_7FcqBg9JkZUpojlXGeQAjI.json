@@ -1,39 +1,39 @@
 {
   "id": "7FcqBg9JkZUpojlXGeQAjI",
   "name": "Soul Jah Love",
-  "followers": 51020,
-  "monthlyListeners": 32157,
+  "followers": 51071,
+  "monthlyListeners": 32116,
   "topCities": {
     "items": [
       {
         "city": "Johannesburg",
         "country": "ZA",
-        "numberOfListeners": 6115,
+        "numberOfListeners": 6111,
         "region": "GP"
       },
       {
         "city": "Harare",
         "country": "ZW",
-        "numberOfListeners": 5203,
+        "numberOfListeners": 5181,
         "region": "HA"
       },
       {
         "city": "Cape Town",
         "country": "ZA",
-        "numberOfListeners": 4600,
+        "numberOfListeners": 4605,
         "region": "WC"
       },
       {
         "city": "Pretoria",
         "country": "ZA",
-        "numberOfListeners": 2329,
+        "numberOfListeners": 2325,
         "region": "GP"
       },
       {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 1016,
-        "region": "ENG"
+        "city": "Durban",
+        "country": "ZA",
+        "numberOfListeners": 1015,
+        "region": "KZN"
       }
     ]
   },

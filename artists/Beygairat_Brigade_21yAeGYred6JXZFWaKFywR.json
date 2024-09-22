@@ -2,19 +2,19 @@
   "id": "21yAeGYred6JXZFWaKFywR",
   "name": "Beygairat Brigade",
   "followers": 924,
-  "monthlyListeners": 705,
+  "monthlyListeners": 708,
   "topCities": {
     "items": [
       {
         "city": "Lahore",
         "country": "PK",
-        "numberOfListeners": 138,
+        "numberOfListeners": 140,
         "region": "PB"
       },
       {
         "city": "Karachi",
         "country": "PK",
-        "numberOfListeners": 121,
+        "numberOfListeners": 120,
         "region": "SD"
       },
       {
@@ -26,14 +26,14 @@
       {
         "city": "Rawalpindi",
         "country": "PK",
-        "numberOfListeners": 32,
+        "numberOfListeners": 34,
         "region": "PB"
       },
       {
-        "city": "Multan",
-        "country": "PK",
-        "numberOfListeners": 12,
-        "region": "PB"
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 11,
+        "region": "DL"
       }
     ]
   },

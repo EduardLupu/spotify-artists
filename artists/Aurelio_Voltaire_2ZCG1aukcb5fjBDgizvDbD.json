@@ -1,38 +1,38 @@
 {
   "id": "2ZCG1aukcb5fjBDgizvDbD",
   "name": "Aurelio Voltaire",
-  "followers": 116675,
-  "monthlyListeners": 198074,
+  "followers": 116727,
+  "monthlyListeners": 198268,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2761,
+        "numberOfListeners": 2765,
         "region": "IL"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 2179,
+        "numberOfListeners": 2192,
         "region": "WA"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 2082,
+        "numberOfListeners": 2087,
         "region": "TX"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1976,
+        "numberOfListeners": 1990,
         "region": "CA"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 1929,
+        "numberOfListeners": 1927,
         "region": "PA"
       }
     ]

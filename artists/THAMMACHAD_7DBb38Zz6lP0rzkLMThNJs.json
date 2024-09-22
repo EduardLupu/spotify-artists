@@ -2,38 +2,38 @@
   "id": "7DBb38Zz6lP0rzkLMThNJs",
   "name": "THAMMACHAD",
   "followers": 118,
-  "monthlyListeners": 629,
+  "monthlyListeners": 978,
   "topCities": {
     "items": [
       {
         "city": "Bangkok",
         "country": "TH",
-        "numberOfListeners": 366,
+        "numberOfListeners": 597,
         "region": "10"
       },
       {
         "city": "Chiang Mai",
         "country": "TH",
-        "numberOfListeners": 39,
+        "numberOfListeners": 48,
         "region": "50"
       },
       {
         "city": "Phuket",
         "country": "TH",
-        "numberOfListeners": 22,
+        "numberOfListeners": 33,
         "region": "83"
-      },
-      {
-        "city": "Nakhon Ratchasima",
-        "country": "TH",
-        "numberOfListeners": 18,
-        "region": "30"
       },
       {
         "city": "Khon Kaen",
         "country": "TH",
-        "numberOfListeners": 17,
+        "numberOfListeners": 28,
         "region": "40"
+      },
+      {
+        "city": "Nakhon Ratchasima",
+        "country": "TH",
+        "numberOfListeners": 25,
+        "region": "30"
       }
     ]
   },

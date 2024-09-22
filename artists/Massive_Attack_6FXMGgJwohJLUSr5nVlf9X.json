@@ -1,38 +1,38 @@
 {
   "id": "6FXMGgJwohJLUSr5nVlf9X",
   "name": "Massive Attack",
-  "followers": 2270456,
-  "monthlyListeners": 4512544,
+  "followers": 2271381,
+  "monthlyListeners": 4522202,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 143452,
+        "numberOfListeners": 142571,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 70720,
+        "numberOfListeners": 70810,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 68966,
+        "numberOfListeners": 68801,
         "region": "VIC"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 68004,
+        "numberOfListeners": 67888,
         "region": "IDF"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 53217,
+        "numberOfListeners": 53577,
         "region": "NH"
       }
     ]

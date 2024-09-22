@@ -1,38 +1,38 @@
 {
   "id": "165ZgPlLkK7bf5bDoFc6Sb",
   "name": "Limp Bizkit",
-  "followers": 6321341,
-  "monthlyListeners": 16090501,
+  "followers": 6325308,
+  "monthlyListeners": 16065829,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 244951,
+        "numberOfListeners": 242250,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 238187,
+        "numberOfListeners": 237476,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 237893,
+        "numberOfListeners": 236812,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 232823,
+        "numberOfListeners": 232340,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 214080,
+        "numberOfListeners": 213370,
         "region": "VIC"
       }
     ]

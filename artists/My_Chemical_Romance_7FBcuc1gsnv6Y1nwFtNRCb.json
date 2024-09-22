@@ -1,41 +1,41 @@
 {
   "id": "7FBcuc1gsnv6Y1nwFtNRCb",
   "name": "My Chemical Romance",
-  "followers": 8874612,
-  "monthlyListeners": 18886936,
+  "followers": 8878380,
+  "monthlyListeners": 18819226,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 1313797,
+        "numberOfListeners": 1319264,
         "region": "JK"
       },
       {
         "city": "Bandung",
         "country": "ID",
-        "numberOfListeners": 300553,
+        "numberOfListeners": 300775,
         "region": "JB"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 276561,
+        "numberOfListeners": 274038,
         "region": "ENG"
       },
       {
         "city": "Kuala Lumpur",
         "country": "MY",
-        "numberOfListeners": 211329,
+        "numberOfListeners": 210885,
         "region": "14"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 195090,
+        "numberOfListeners": 194286,
         "region": "IL"
       }
     ]
   },
-  "worldRank": 401
+  "worldRank": 403
 }

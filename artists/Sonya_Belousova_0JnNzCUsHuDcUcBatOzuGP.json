@@ -1,38 +1,38 @@
 {
   "id": "0JnNzCUsHuDcUcBatOzuGP",
   "name": "Sonya Belousova",
-  "followers": 31457,
-  "monthlyListeners": 906402,
+  "followers": 31474,
+  "monthlyListeners": 906787,
   "topCities": {
     "items": [
       {
+        "city": "Prague",
+        "country": "CZ",
+        "numberOfListeners": 11754,
+        "region": "10"
+      },
+      {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 11720,
+        "numberOfListeners": 11750,
         "region": "IDF"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 11717,
+        "numberOfListeners": 11661,
         "region": "ENG"
-      },
-      {
-        "city": "Prague",
-        "country": "CZ",
-        "numberOfListeners": 11669,
-        "region": "10"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 8940,
+        "numberOfListeners": 8889,
         "region": "NSW"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 8728,
+        "numberOfListeners": 8695,
         "region": "BE"
       }
     ]

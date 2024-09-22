@@ -1,38 +1,38 @@
 {
   "id": "2d0hyoQ5ynDBnkvAbJKORj",
   "name": "Rage Against The Machine",
-  "followers": 6148159,
-  "monthlyListeners": 9687986,
+  "followers": 6150211,
+  "monthlyListeners": 9666305,
   "topCities": {
     "items": [
       {
-        "city": "Santiago",
-        "country": "CL",
-        "numberOfListeners": 169725,
-        "region": "RM"
-      },
-      {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 168919,
+        "numberOfListeners": 168505,
         "region": "SP"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 167561,
+        "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 153830,
+        "numberOfListeners": 153757,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 139702,
+        "numberOfListeners": 139456,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 125476,
+        "numberOfListeners": 124704,
         "region": "ENG"
       }
     ]

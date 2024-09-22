@@ -2,25 +2,25 @@
   "id": "6UpmhHDF8OEk8LVycmuPLX",
   "name": "Danny Ocean",
   "followers": 533,
-  "monthlyListeners": 681,
+  "monthlyListeners": 683,
   "topCities": {
     "items": [
       {
-        "city": "Medellín",
-        "country": "CO",
-        "numberOfListeners": 74,
-        "region": "ANT"
-      },
-      {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 72,
+        "numberOfListeners": 74,
         "region": "DC"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 71,
+        "region": "ANT"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 14,
+        "numberOfListeners": 15,
         "region": "RM"
       },
       {
@@ -30,10 +30,10 @@
         "region": "01"
       },
       {
-        "city": "Santiago de Cali",
-        "country": "CO",
-        "numberOfListeners": 14,
-        "region": "VAC"
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 13,
+        "region": "MD"
       }
     ]
   },

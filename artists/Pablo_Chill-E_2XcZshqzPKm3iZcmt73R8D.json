@@ -1,39 +1,39 @@
 {
   "id": "2XcZshqzPKm3iZcmt73R8D",
   "name": "Pablo Chill-E",
-  "followers": 1391410,
-  "monthlyListeners": 5840065,
+  "followers": 1392192,
+  "monthlyListeners": 5828515,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1546594,
+        "numberOfListeners": 1541370,
         "region": "RM"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 296899,
+        "numberOfListeners": 296189,
         "region": "C"
       },
       {
         "city": "Concepción",
         "country": "CL",
-        "numberOfListeners": 229367,
+        "numberOfListeners": 227801,
         "region": "BI"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 145654,
+        "numberOfListeners": 145198,
         "region": "LMA"
       },
       {
-        "city": "Mexico City",
-        "country": "MX",
-        "numberOfListeners": 138658,
-        "region": "CMX"
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 138545,
+        "region": "MD"
       }
     ]
   },

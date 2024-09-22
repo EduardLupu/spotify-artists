@@ -1,38 +1,38 @@
 {
   "id": "3rWZHrfrsPBxVy692yAIxF",
   "name": "WILLOW",
-  "followers": 2682762,
-  "monthlyListeners": 12238702,
+  "followers": 2684169,
+  "monthlyListeners": 12218040,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 162443,
+        "numberOfListeners": 161888,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 161784,
+        "numberOfListeners": 161651,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 156122,
+        "numberOfListeners": 156013,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 142278,
+        "numberOfListeners": 141932,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 141041,
+        "numberOfListeners": 140314,
         "region": "IL"
       }
     ]

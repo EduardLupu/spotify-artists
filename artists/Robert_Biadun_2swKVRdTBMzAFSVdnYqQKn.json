@@ -2,37 +2,37 @@
   "id": "2swKVRdTBMzAFSVdnYqQKn",
   "name": "Robert Biadun",
   "followers": 300,
-  "monthlyListeners": 580,
+  "monthlyListeners": 572,
   "topCities": {
     "items": [
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 105,
+        "numberOfListeners": 103,
         "region": "14"
       },
       {
         "city": "Katowice",
         "country": "PL",
-        "numberOfListeners": 35,
+        "numberOfListeners": 34,
         "region": "24"
       },
       {
         "city": "Wroclaw",
         "country": "PL",
-        "numberOfListeners": 33,
+        "numberOfListeners": 32,
         "region": "02"
       },
       {
         "city": "Poznan",
         "country": "PL",
-        "numberOfListeners": 32,
+        "numberOfListeners": 31,
         "region": "30"
       },
       {
         "city": "Krakow",
         "country": "PL",
-        "numberOfListeners": 29,
+        "numberOfListeners": 31,
         "region": "12"
       }
     ]

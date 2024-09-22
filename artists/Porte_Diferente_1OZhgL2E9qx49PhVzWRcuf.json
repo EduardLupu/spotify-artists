@@ -1,38 +1,38 @@
 {
   "id": "1OZhgL2E9qx49PhVzWRcuf",
   "name": "Porte Diferente",
-  "followers": 902307,
-  "monthlyListeners": 400362,
+  "followers": 902247,
+  "monthlyListeners": 401146,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 15030,
+        "numberOfListeners": 14984,
         "region": "CMX"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 11275,
+        "numberOfListeners": 11269,
         "region": "CA"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 11218,
+        "numberOfListeners": 11226,
         "region": "TX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 10901,
+        "numberOfListeners": 10894,
         "region": "JAL"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 8845,
+        "numberOfListeners": 8793,
         "region": "IL"
       }
     ]

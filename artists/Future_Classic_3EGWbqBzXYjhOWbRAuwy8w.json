@@ -2,38 +2,38 @@
   "id": "3EGWbqBzXYjhOWbRAuwy8w",
   "name": "Future Classic",
   "followers": 1443,
-  "monthlyListeners": 14097,
+  "monthlyListeners": 14231,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 240,
+        "numberOfListeners": 241,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 177,
+        "numberOfListeners": 179,
         "region": "SP"
       },
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 164,
+        "numberOfListeners": 165,
         "region": "14"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 147,
+        "region": "BE"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 144,
+        "numberOfListeners": 145,
         "region": "NSW"
-      },
-      {
-        "city": "Mexico City",
-        "country": "MX",
-        "numberOfListeners": 144,
-        "region": "CMX"
       }
     ]
   },

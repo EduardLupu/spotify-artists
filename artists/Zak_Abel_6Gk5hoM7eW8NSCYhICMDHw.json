@@ -1,38 +1,38 @@
 {
   "id": "6Gk5hoM7eW8NSCYhICMDHw",
   "name": "Zak Abel",
-  "followers": 163426,
-  "monthlyListeners": 6665712,
+  "followers": 163477,
+  "monthlyListeners": 6612328,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 150386,
+        "numberOfListeners": 148683,
         "region": "IDF"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 116841,
+        "numberOfListeners": 115557,
         "region": "NH"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 83247,
+        "numberOfListeners": 82338,
         "region": "BRU"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 81234,
+        "numberOfListeners": 80457,
         "region": "ENG"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 79608,
+        "numberOfListeners": 78137,
         "region": "ZH"
       }
     ]

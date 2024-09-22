@@ -1,39 +1,39 @@
 {
   "id": "1Ha0Fz4i0d4gu5fZbhBCtH",
   "name": "Night Ranger",
-  "followers": 735783,
-  "monthlyListeners": 861113,
+  "followers": 735935,
+  "monthlyListeners": 859610,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 16401,
+        "numberOfListeners": 16288,
         "region": "IL"
       },
       {
         "city": "Minneapolis",
         "country": "US",
-        "numberOfListeners": 10324,
+        "numberOfListeners": 10269,
         "region": "MN"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 10282,
+        "numberOfListeners": 10258,
         "region": "ON"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 9942,
+        "numberOfListeners": 9977,
         "region": "PA"
       },
       {
-        "city": "Dallas",
+        "city": "Denver",
         "country": "US",
-        "numberOfListeners": 9941,
-        "region": "TX"
+        "numberOfListeners": 9938,
+        "region": "CO"
       }
     ]
   },

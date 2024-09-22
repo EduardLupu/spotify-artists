@@ -1,38 +1,38 @@
 {
   "id": "2gpu0EtvWqIdVLzZwR0XAA",
   "name": "Cerebral Incubation",
-  "followers": 25991,
-  "monthlyListeners": 24187,
+  "followers": 26009,
+  "monthlyListeners": 24342,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 531,
+        "numberOfListeners": 533,
         "region": "CA"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 353,
+        "numberOfListeners": 358,
         "region": "AZ"
-      },
-      {
-        "city": "Santiago",
-        "country": "CL",
-        "numberOfListeners": 322,
-        "region": "RM"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 319,
+        "numberOfListeners": 323,
         "region": "IL"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 319,
+        "region": "RM"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 311,
+        "numberOfListeners": 314,
         "region": "TX"
       }
     ]

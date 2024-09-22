@@ -8,19 +8,13 @@
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 18,
+        "numberOfListeners": 19,
         "region": "WA"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 15,
-        "region": "NY"
-      },
-      {
-        "city": "New York City",
-        "country": "US",
-        "numberOfListeners": 13,
+        "numberOfListeners": 16,
         "region": "NY"
       },
       {
@@ -30,10 +24,16 @@
         "region": "OR"
       },
       {
-        "city": "Washington",
+        "city": "New York City",
         "country": "US",
-        "numberOfListeners": 11,
-        "region": "DC"
+        "numberOfListeners": 12,
+        "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 10,
+        "region": "IL"
       }
     ]
   },

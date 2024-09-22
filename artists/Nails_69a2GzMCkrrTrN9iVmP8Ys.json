@@ -1,38 +1,38 @@
 {
   "id": "69a2GzMCkrrTrN9iVmP8Ys",
   "name": "Nails",
-  "followers": 119130,
-  "monthlyListeners": 207089,
+  "followers": 119214,
+  "monthlyListeners": 207608,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 3543,
+        "numberOfListeners": 3524,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 3431,
+        "numberOfListeners": 3442,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 3341,
+        "numberOfListeners": 3349,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 2854,
+        "numberOfListeners": 2852,
         "region": "VIC"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 2648,
+        "numberOfListeners": 2719,
         "region": "NY"
       }
     ]

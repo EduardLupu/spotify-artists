@@ -1,38 +1,38 @@
 {
   "id": "2R2C8r0t9p98AnGzUnOLAe",
   "name": "Blanco",
-  "followers": 5128,
-  "monthlyListeners": 74207,
+  "followers": 5133,
+  "monthlyListeners": 74048,
   "topCities": {
     "items": [
       {
         "city": "Tegucigalpa",
         "country": "HN",
-        "numberOfListeners": 4650,
+        "numberOfListeners": 4576,
         "region": "FM"
       },
       {
         "city": "San Pedro Sula",
         "country": "HN",
-        "numberOfListeners": 4072,
+        "numberOfListeners": 4080,
         "region": "CR"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 2720,
+        "numberOfListeners": 2703,
         "region": "RM"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 2227,
+        "numberOfListeners": 2230,
         "region": "LMA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 2172,
+        "numberOfListeners": 2210,
         "region": "ENG"
       }
     ]

@@ -1,39 +1,39 @@
 {
   "id": "7ME0heqob2B32S9ofWhOyU",
   "name": "Joe Bataan",
-  "followers": 56514,
-  "monthlyListeners": 277259,
+  "followers": 56536,
+  "monthlyListeners": 277896,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 15984,
+        "numberOfListeners": 16039,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 3971,
+        "numberOfListeners": 3979,
         "region": "ENG"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 3800,
+        "numberOfListeners": 3801,
         "region": "NY"
       },
       {
         "city": "Riverside",
         "country": "US",
-        "numberOfListeners": 3779,
+        "numberOfListeners": 3781,
         "region": "CA"
       },
       {
-        "city": "Phoenix",
+        "city": "San Diego",
         "country": "US",
-        "numberOfListeners": 3658,
-        "region": "AZ"
+        "numberOfListeners": 3698,
+        "region": "CA"
       }
     ]
   },

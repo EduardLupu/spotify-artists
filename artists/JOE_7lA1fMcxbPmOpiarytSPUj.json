@@ -2,13 +2,13 @@
   "id": "7lA1fMcxbPmOpiarytSPUj",
   "name": "JOE",
   "followers": 288,
-  "monthlyListeners": 206,
+  "monthlyListeners": 205,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 64,
+        "numberOfListeners": 61,
         "region": "BE"
       },
       {
@@ -20,7 +20,7 @@
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 10,
+        "numberOfListeners": 13,
         "region": "HH"
       },
       {
@@ -30,10 +30,10 @@
         "region": "HE"
       },
       {
-        "city": "Munich",
+        "city": "Leipzig",
         "country": "DE",
         "numberOfListeners": 7,
-        "region": "BY"
+        "region": "SN"
       }
     ]
   },

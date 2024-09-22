@@ -1,39 +1,39 @@
 {
   "id": "2CnhqfjUG0qzsru0SMuhrk",
   "name": "Title Fight",
-  "followers": 456380,
-  "monthlyListeners": 2171150,
+  "followers": 456769,
+  "monthlyListeners": 2173992,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 56527,
+        "numberOfListeners": 56612,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 38955,
+        "numberOfListeners": 38947,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 33882,
+        "numberOfListeners": 34038,
         "region": "TX"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 30506,
+        "numberOfListeners": 30532,
         "region": "AZ"
       },
       {
-        "city": "Houston",
+        "city": "New York City",
         "country": "US",
-        "numberOfListeners": 29380,
-        "region": "TX"
+        "numberOfListeners": 29569,
+        "region": "NY"
       }
     ]
   },

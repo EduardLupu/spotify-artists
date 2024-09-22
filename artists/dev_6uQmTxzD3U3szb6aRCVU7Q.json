@@ -24,15 +24,15 @@
         "region": "NSW"
       },
       {
-        "city": "Waterloo",
+        "city": "Etobicoke",
         "country": "CA",
         "numberOfListeners": 3,
         "region": "ON"
       },
       {
-        "city": "Etobicoke",
+        "city": "Waterloo",
         "country": "CA",
-        "numberOfListeners": 3,
+        "numberOfListeners": 2,
         "region": "ON"
       }
     ]

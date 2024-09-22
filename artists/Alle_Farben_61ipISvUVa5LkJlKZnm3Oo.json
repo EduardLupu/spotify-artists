@@ -1,38 +1,38 @@
 {
   "id": "61ipISvUVa5LkJlKZnm3Oo",
   "name": "Alle Farben",
-  "followers": 357212,
-  "monthlyListeners": 3914081,
+  "followers": 357274,
+  "monthlyListeners": 3900503,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 150415,
+        "numberOfListeners": 149620,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 118531,
+        "numberOfListeners": 121337,
         "region": "HH"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 109306,
+        "numberOfListeners": 108594,
         "region": "HE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 101641,
+        "numberOfListeners": 101868,
         "region": "BY"
       },
       {
         "city": "Vienna",
         "country": "AT",
-        "numberOfListeners": 85781,
+        "numberOfListeners": 85159,
         "region": "9"
       }
     ]

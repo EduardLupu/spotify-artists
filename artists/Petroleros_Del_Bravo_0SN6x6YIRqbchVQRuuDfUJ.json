@@ -1,38 +1,38 @@
 {
   "id": "0SN6x6YIRqbchVQRuuDfUJ",
   "name": "Petroleros Del Bravo",
-  "followers": 17452,
-  "monthlyListeners": 166107,
+  "followers": 17486,
+  "monthlyListeners": 166125,
   "topCities": {
     "items": [
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 17950,
+        "numberOfListeners": 17954,
         "region": "TX"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 8573,
+        "numberOfListeners": 8591,
         "region": "TX"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 6659,
+        "numberOfListeners": 6597,
         "region": "IL"
       },
       {
         "city": "Fort Worth",
         "country": "US",
-        "numberOfListeners": 6586,
+        "numberOfListeners": 6571,
         "region": "TX"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 6359,
+        "numberOfListeners": 6350,
         "region": "CA"
       }
     ]

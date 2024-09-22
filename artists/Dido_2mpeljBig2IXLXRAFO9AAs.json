@@ -1,41 +1,41 @@
 {
   "id": "2mpeljBig2IXLXRAFO9AAs",
   "name": "Dido",
-  "followers": 1879180,
-  "monthlyListeners": 19098733,
+  "followers": 1879947,
+  "monthlyListeners": 18974637,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 269819,
+        "numberOfListeners": 266507,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 242594,
+        "numberOfListeners": 240258,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 232848,
+        "numberOfListeners": 231356,
         "region": "NSW"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 224070,
+        "numberOfListeners": 224109,
         "region": "NH"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 216431,
+        "numberOfListeners": 214628,
         "region": "BE"
       }
     ]
   },
-  "worldRank": 392
+  "worldRank": 396
 }

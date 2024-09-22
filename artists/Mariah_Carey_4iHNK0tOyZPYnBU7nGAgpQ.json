@@ -1,38 +1,38 @@
 {
   "id": "4iHNK0tOyZPYnBU7nGAgpQ",
   "name": "Mariah Carey",
-  "followers": 10379587,
-  "monthlyListeners": 26108994,
+  "followers": 10384448,
+  "monthlyListeners": 26113908,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 519368,
+        "numberOfListeners": 521421,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 513628,
+        "numberOfListeners": 520470,
         "region": "SP"
       },
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 445266,
+        "numberOfListeners": 448300,
         "region": "00"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 356758,
+        "numberOfListeners": 356140,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 355408,
+        "numberOfListeners": 354855,
         "region": "NSW"
       }
     ]

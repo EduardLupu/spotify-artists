@@ -1,39 +1,39 @@
 {
   "id": "2NM1t8dMvgeu9Lfl06574g",
   "name": "Mishaal Tamer",
-  "followers": 99372,
-  "monthlyListeners": 1490707,
+  "followers": 99590,
+  "monthlyListeners": 1496191,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 25487,
+        "numberOfListeners": 25755,
         "region": "CMX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 11255,
+        "numberOfListeners": 11273,
         "region": "NSW"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 11127,
+        "numberOfListeners": 11185,
         "region": "IDF"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 11028,
+        "numberOfListeners": 11037,
         "region": "SP"
       },
       {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 10599,
-        "region": "ENG"
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 10941,
+        "region": "CMX"
       }
     ]
   },

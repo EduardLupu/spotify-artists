@@ -1,38 +1,38 @@
 {
   "id": "2pAWfrd7WFF3XhVt9GooDL",
   "name": "MF DOOM",
-  "followers": 3326180,
-  "monthlyListeners": 9278134,
+  "followers": 3329486,
+  "monthlyListeners": 9262439,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 199898,
+        "numberOfListeners": 199267,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 188425,
+        "numberOfListeners": 187785,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 142288,
+        "numberOfListeners": 141563,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 135932,
+        "numberOfListeners": 136165,
         "region": "NY"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 124458,
+        "numberOfListeners": 124224,
         "region": "NSW"
       }
     ]

@@ -18,22 +18,22 @@
         "region": "CA"
       },
       {
-        "city": "Leuven",
-        "country": "BE",
+        "city": "Dong-gu",
+        "country": "KR",
         "numberOfListeners": 1,
-        "region": "VLG"
+        "region": "31"
       },
       {
-        "city": "Paris",
-        "country": "FR",
+        "city": "Yangsan",
+        "country": "KR",
         "numberOfListeners": 1,
-        "region": "IDF"
+        "region": "48"
       },
       {
-        "city": "Marseille",
-        "country": "FR",
+        "city": "Jeju City",
+        "country": "KR",
         "numberOfListeners": 1,
-        "region": "PAC"
+        "region": "49"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "4nfZ8OQwyrQMDLSpHK6D3u",
   "name": "Los Master's",
-  "followers": 13816,
-  "monthlyListeners": 56007,
+  "followers": 13821,
+  "monthlyListeners": 55302,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 5257,
+        "numberOfListeners": 5249,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 4538,
+        "numberOfListeners": 4483,
         "region": "DC"
       },
       {
         "city": "Caracas",
         "country": "VE",
-        "numberOfListeners": 2367,
+        "numberOfListeners": 2348,
         "region": "A"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 2203,
+        "numberOfListeners": 2174,
         "region": "LMA"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 1706,
+        "numberOfListeners": 1691,
         "region": "ANT"
       }
     ]

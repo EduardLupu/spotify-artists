@@ -1,38 +1,38 @@
 {
   "id": "3mQBpAOMWYqAZyxtyeo4Lo",
   "name": "KC & The Sunshine Band",
-  "followers": 1039674,
-  "monthlyListeners": 6205020,
+  "followers": 1040089,
+  "monthlyListeners": 6190958,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 133075,
+        "numberOfListeners": 132822,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 120945,
+        "numberOfListeners": 119255,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 106295,
+        "numberOfListeners": 106412,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 72456,
+        "numberOfListeners": 72485,
         "region": "NSW"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 72112,
+        "numberOfListeners": 71849,
         "region": "CMX"
       }
     ]

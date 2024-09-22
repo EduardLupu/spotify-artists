@@ -1,38 +1,38 @@
 {
   "id": "0fM3rWsshliRFUmJlBP6QZ",
   "name": "El Barrio",
-  "followers": 1241293,
-  "monthlyListeners": 1259710,
+  "followers": 1241701,
+  "monthlyListeners": 1254960,
   "topCities": {
     "items": [
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 194180,
+        "numberOfListeners": 193969,
         "region": "MD"
       },
       {
         "city": "Barcelona",
         "country": "ES",
-        "numberOfListeners": 103483,
+        "numberOfListeners": 102792,
         "region": "CT"
       },
       {
         "city": "Seville",
         "country": "ES",
-        "numberOfListeners": 82531,
+        "numberOfListeners": 82435,
         "region": "AN"
       },
       {
         "city": "Málaga",
         "country": "ES",
-        "numberOfListeners": 67666,
+        "numberOfListeners": 66963,
         "region": "AN"
       },
       {
         "city": "Valencia",
         "country": "ES",
-        "numberOfListeners": 48717,
+        "numberOfListeners": 47804,
         "region": "VC"
       }
     ]

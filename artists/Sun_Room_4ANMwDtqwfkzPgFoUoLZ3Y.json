@@ -1,38 +1,38 @@
 {
   "id": "4ANMwDtqwfkzPgFoUoLZ3Y",
   "name": "Sun Room",
-  "followers": 114592,
-  "monthlyListeners": 461920,
+  "followers": 114638,
+  "monthlyListeners": 458260,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 15360,
+        "numberOfListeners": 15293,
         "region": "NSW"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 11922,
+        "numberOfListeners": 11910,
         "region": "QLD"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 10363,
+        "numberOfListeners": 10321,
         "region": "VIC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 8686,
+        "numberOfListeners": 8547,
         "region": "CA"
       },
       {
         "city": "Perth",
         "country": "AU",
-        "numberOfListeners": 7245,
+        "numberOfListeners": 7257,
         "region": "WA"
       }
     ]

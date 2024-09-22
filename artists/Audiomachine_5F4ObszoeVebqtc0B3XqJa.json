@@ -1,39 +1,39 @@
 {
   "id": "5F4ObszoeVebqtc0B3XqJa",
   "name": "Audiomachine",
-  "followers": 261722,
-  "monthlyListeners": 747931,
+  "followers": 261767,
+  "monthlyListeners": 746833,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 11645,
+        "numberOfListeners": 11656,
         "region": "IDF"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 8157,
+        "numberOfListeners": 8128,
         "region": "ENG"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 7803,
+        "numberOfListeners": 7769,
         "region": "BE"
       },
       {
         "city": "Prague",
         "country": "CZ",
-        "numberOfListeners": 7071,
+        "numberOfListeners": 7068,
         "region": "10"
       },
       {
-        "city": "Frankfurt am Main",
-        "country": "DE",
-        "numberOfListeners": 5882,
-        "region": "HE"
+        "city": "Milan",
+        "country": "IT",
+        "numberOfListeners": 5873,
+        "region": "25"
       }
     ]
   },

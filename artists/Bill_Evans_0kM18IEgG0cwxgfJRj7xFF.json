@@ -2,7 +2,7 @@
   "id": "0kM18IEgG0cwxgfJRj7xFF",
   "name": "Bill Evans",
   "followers": 1319,
-  "monthlyListeners": 4696,
+  "monthlyListeners": 4706,
   "topCities": {
     "items": [
       {
@@ -18,21 +18,21 @@
         "region": "WA"
       },
       {
-        "city": "Charlotte",
-        "country": "US",
-        "numberOfListeners": 61,
-        "region": "NC"
-      },
-      {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 59,
+        "numberOfListeners": 61,
         "region": "IL"
+      },
+      {
+        "city": "Charlotte",
+        "country": "US",
+        "numberOfListeners": 60,
+        "region": "NC"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 58,
+        "numberOfListeners": 55,
         "region": "NY"
       }
     ]

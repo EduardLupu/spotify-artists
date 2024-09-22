@@ -1,39 +1,39 @@
 {
   "id": "1GERDglQrxe4ynLzcdG6qP",
   "name": "Evan Honer",
-  "followers": 107451,
-  "monthlyListeners": 3337885,
+  "followers": 107629,
+  "monthlyListeners": 3336511,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 70453,
+        "numberOfListeners": 70260,
         "region": "IL"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 68334,
+        "numberOfListeners": 68357,
         "region": "CO"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 59823,
+        "numberOfListeners": 59902,
         "region": "NC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 59587,
+        "numberOfListeners": 59767,
         "region": "NSW"
       },
       {
-        "city": "Dallas",
+        "city": "New York City",
         "country": "US",
-        "numberOfListeners": 58053,
-        "region": "TX"
+        "numberOfListeners": 58111,
+        "region": "NY"
       }
     ]
   },

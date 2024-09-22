@@ -1,38 +1,38 @@
 {
   "id": "3epW3XPRivDLEECq50MXCi",
   "name": "Lit Lords",
-  "followers": 23021,
-  "monthlyListeners": 70601,
+  "followers": 23025,
+  "monthlyListeners": 70378,
   "topCities": {
     "items": [
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 866,
+        "numberOfListeners": 860,
         "region": "CO"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 843,
+        "numberOfListeners": 854,
         "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 835,
+        "numberOfListeners": 826,
         "region": "CA"
-      },
-      {
-        "city": "Seattle",
-        "country": "US",
-        "numberOfListeners": 817,
-        "region": "WA"
       },
       {
         "city": "Perth",
         "country": "AU",
-        "numberOfListeners": 809,
+        "numberOfListeners": 812,
+        "region": "WA"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 810,
         "region": "WA"
       }
     ]

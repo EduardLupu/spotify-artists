@@ -1,38 +1,38 @@
 {
   "id": "19eLuQmk9aCobbVDHc6eek",
   "name": "Louis Armstrong",
-  "followers": 2974793,
-  "monthlyListeners": 11616374,
+  "followers": 2975697,
+  "monthlyListeners": 11717483,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 136847,
+        "numberOfListeners": 137838,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 130108,
+        "numberOfListeners": 130730,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 124532,
+        "numberOfListeners": 125444,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 116210,
+        "numberOfListeners": 116742,
         "region": "NSW"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 113884,
+        "numberOfListeners": 115322,
         "region": "IDF"
       }
     ]

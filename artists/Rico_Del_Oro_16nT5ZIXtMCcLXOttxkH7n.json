@@ -1,39 +1,39 @@
 {
   "id": "16nT5ZIXtMCcLXOttxkH7n",
   "name": "Rico Del Oro",
-  "followers": 5153,
-  "monthlyListeners": 7449,
+  "followers": 5175,
+  "monthlyListeners": 7629,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 164,
+        "numberOfListeners": 166,
         "region": "IL"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 142,
+        "numberOfListeners": 145,
         "region": "WA"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 123,
+        "numberOfListeners": 131,
         "region": "TX"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 122,
+        "numberOfListeners": 129,
         "region": "CA"
       },
       {
-        "city": "Portland",
+        "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 116,
-        "region": "OR"
+        "numberOfListeners": 117,
+        "region": "AZ"
       }
     ]
   },

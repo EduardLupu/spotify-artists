@@ -1,38 +1,38 @@
 {
   "id": "4VNQWV2y1E97Eqo2D5UTjx",
   "name": "Gorgon City",
-  "followers": 488021,
-  "monthlyListeners": 3611641,
+  "followers": 488122,
+  "monthlyListeners": 3603218,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 164863,
+        "numberOfListeners": 164035,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 81544,
+        "numberOfListeners": 81599,
         "region": "NSW"
       },
       {
         "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 69028,
+        "numberOfListeners": 69192,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 66906,
+        "numberOfListeners": 66818,
         "region": "VIC"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 56754,
+        "numberOfListeners": 56807,
         "region": "L"
       }
     ]

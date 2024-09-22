@@ -1,38 +1,38 @@
 {
   "id": "74Hj7BmnUXyx2udrIEIKwX",
   "name": "Fear Factory",
-  "followers": 683402,
-  "monthlyListeners": 710519,
+  "followers": 683587,
+  "monthlyListeners": 708516,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 12143,
+        "numberOfListeners": 11983,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 11521,
+        "numberOfListeners": 11488,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 11209,
+        "numberOfListeners": 11158,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 9654,
+        "numberOfListeners": 9643,
         "region": "QLD"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 8406,
+        "numberOfListeners": 8344,
         "region": "ENG"
       }
     ]

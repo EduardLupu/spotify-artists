@@ -2,14 +2,20 @@
   "id": "2JbAWva7XMiCFakJAiWCjp",
   "name": "D.H.E",
   "followers": 467,
-  "monthlyListeners": 454,
+  "monthlyListeners": 446,
   "topCities": {
     "items": [
       {
         "city": "Portland",
         "country": "US",
-        "numberOfListeners": 9,
+        "numberOfListeners": 10,
         "region": "OR"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 7,
+        "region": "WA"
       },
       {
         "city": "Montreal",
@@ -18,22 +24,16 @@
         "region": "QC"
       },
       {
-        "city": "Seattle",
+        "city": "Atlanta",
         "country": "US",
         "numberOfListeners": 6,
-        "region": "WA"
+        "region": "GA"
       },
       {
         "city": "Washington",
         "country": "US",
         "numberOfListeners": 6,
         "region": "DC"
-      },
-      {
-        "city": "Atlanta",
-        "country": "US",
-        "numberOfListeners": 6,
-        "region": "GA"
       }
     ]
   },

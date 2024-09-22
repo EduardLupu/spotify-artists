@@ -1,20 +1,20 @@
 {
   "id": "4eOjprZV7J3pEjQOsdtLjC",
   "name": "Transatlantic",
-  "followers": 53919,
-  "monthlyListeners": 11927,
+  "followers": 53926,
+  "monthlyListeners": 11979,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 234,
+        "numberOfListeners": 235,
         "region": "RM"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 210,
+        "numberOfListeners": 212,
         "region": "NH"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 161,
+        "numberOfListeners": 166,
         "region": "ENG"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 153,
+        "numberOfListeners": 158,
         "region": "ZH"
       }
     ]

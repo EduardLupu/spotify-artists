@@ -1,21 +1,15 @@
 {
   "id": "34uNxJI9ZSXGDsBqfGsdt7",
   "name": "Disembodiment",
-  "followers": 1273,
-  "monthlyListeners": 271,
+  "followers": 1274,
+  "monthlyListeners": 270,
   "topCities": {
     "items": [
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 15,
+        "numberOfListeners": 14,
         "region": "QC"
-      },
-      {
-        "city": "Helsinki",
-        "country": "FI",
-        "numberOfListeners": 5,
-        "region": "18"
       },
       {
         "city": "Sherbrooke",
@@ -30,10 +24,16 @@
         "region": "TX"
       },
       {
-        "city": "São Paulo",
-        "country": "BR",
+        "city": "Las Vegas",
+        "country": "US",
+        "numberOfListeners": 5,
+        "region": "NV"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
         "numberOfListeners": 4,
-        "region": "SP"
+        "region": "18"
       }
     ]
   },

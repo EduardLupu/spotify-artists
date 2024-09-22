@@ -1,39 +1,39 @@
 {
   "id": "195hFqaTDENqLCcG8uGtM7",
   "name": "Freedom Fry",
-  "followers": 52794,
-  "monthlyListeners": 498897,
+  "followers": 52798,
+  "monthlyListeners": 499313,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 8633,
+        "numberOfListeners": 8638,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 7444,
+        "numberOfListeners": 7440,
         "region": "VIC"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 6367,
+        "numberOfListeners": 6372,
         "region": "BE"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 5545,
+        "numberOfListeners": 5542,
         "region": "QLD"
       },
       {
-        "city": "Paris",
-        "country": "FR",
-        "numberOfListeners": 5094,
-        "region": "IDF"
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 5115,
+        "region": "MD"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "6zvul52xwTWzilBZl6BUbT",
   "name": "Pixies",
-  "followers": 3070677,
-  "monthlyListeners": 9999950,
+  "followers": 3072174,
+  "monthlyListeners": 9988358,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 174781,
+        "numberOfListeners": 172953,
         "region": "ENG"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 118390,
+        "numberOfListeners": 117344,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 115404,
+        "numberOfListeners": 115243,
         "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 110123,
+        "numberOfListeners": 110233,
         "region": "CA"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 109733,
+        "numberOfListeners": 109856,
         "region": "VIC"
       }
     ]

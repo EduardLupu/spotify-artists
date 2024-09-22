@@ -2,31 +2,31 @@
   "id": "05TImbDNEgExjXZrYBqIYP",
   "name": "Marina",
   "followers": 20,
-  "monthlyListeners": 908,
+  "monthlyListeners": 900,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 87,
+        "numberOfListeners": 89,
         "region": "IDF"
-      },
-      {
-        "city": "Lyon",
-        "country": "FR",
-        "numberOfListeners": 20,
-        "region": "ARA"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 19,
+        "numberOfListeners": 20,
         "region": "BRU"
+      },
+      {
+        "city": "Lyon",
+        "country": "FR",
+        "numberOfListeners": 19,
+        "region": "ARA"
       },
       {
         "city": "Nantes",
         "country": "FR",
-        "numberOfListeners": 17,
+        "numberOfListeners": 16,
         "region": "PDL"
       },
       {

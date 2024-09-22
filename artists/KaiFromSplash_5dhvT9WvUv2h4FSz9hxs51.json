@@ -1,14 +1,14 @@
 {
   "id": "5dhvT9WvUv2h4FSz9hxs51",
   "name": "KaiFromSplash",
-  "followers": 1274,
-  "monthlyListeners": 274,
+  "followers": 1273,
+  "monthlyListeners": 275,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 8,
+        "numberOfListeners": 7,
         "region": "NSW"
       },
       {
@@ -20,7 +20,7 @@
       {
         "city": "Kuala Lumpur",
         "country": "MY",
-        "numberOfListeners": 5,
+        "numberOfListeners": 4,
         "region": "14"
       },
       {
@@ -30,10 +30,10 @@
         "region": "10"
       },
       {
-        "city": "Manila",
-        "country": "PH",
+        "city": "Auckland",
+        "country": "NZ",
         "numberOfListeners": 3,
-        "region": "00"
+        "region": "AUK"
       }
     ]
   },

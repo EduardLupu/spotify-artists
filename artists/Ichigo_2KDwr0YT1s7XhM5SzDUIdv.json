@@ -1,20 +1,20 @@
 {
   "id": "2KDwr0YT1s7XhM5SzDUIdv",
   "name": "Ichigo",
-  "followers": 2274,
-  "monthlyListeners": 6369,
+  "followers": 2283,
+  "monthlyListeners": 6398,
   "topCities": {
     "items": [
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 121,
+        "numberOfListeners": 123,
         "region": "14"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 70,
+        "numberOfListeners": 72,
         "region": "ENG"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Prague",
         "country": "CZ",
-        "numberOfListeners": 59,
+        "numberOfListeners": 63,
         "region": "10"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 55,
+        "numberOfListeners": 53,
         "region": "CA"
       }
     ]

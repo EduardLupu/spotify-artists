@@ -2,13 +2,13 @@
   "id": "2cRq6QCvmebOPeCmrc0sLE",
   "name": "Ghost",
   "followers": 254,
-  "monthlyListeners": 674,
+  "monthlyListeners": 671,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 59,
+        "numberOfListeners": 55,
         "region": "ENG"
       },
       {
@@ -20,19 +20,19 @@
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 15,
+        "numberOfListeners": 16,
         "region": "VIC"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 14,
+        "numberOfListeners": 13,
         "region": "L"
       },
       {
         "city": "Southwark",
         "country": "GB",
-        "numberOfListeners": 13,
+        "numberOfListeners": 12,
         "region": "ENG"
       }
     ]

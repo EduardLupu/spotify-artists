@@ -1,38 +1,38 @@
 {
   "id": "2jw70GZXlAI8QzWeY2bgRc",
   "name": "Nelly Furtado",
-  "followers": 4003476,
-  "monthlyListeners": 25108223,
+  "followers": 4005846,
+  "monthlyListeners": 25087294,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 407474,
+        "numberOfListeners": 407021,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 391598,
+        "numberOfListeners": 390673,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 366782,
+        "numberOfListeners": 366105,
         "region": "VIC"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 361072,
+        "numberOfListeners": 358201,
         "region": "SP"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 263745,
+        "numberOfListeners": 262865,
         "region": "QLD"
       }
     ]

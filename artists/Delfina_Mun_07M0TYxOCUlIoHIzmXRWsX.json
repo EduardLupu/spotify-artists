@@ -1,38 +1,38 @@
 {
   "id": "07M0TYxOCUlIoHIzmXRWsX",
   "name": "Delfina Mun",
-  "followers": 3981,
-  "monthlyListeners": 15852,
+  "followers": 3990,
+  "monthlyListeners": 16075,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 548,
+        "numberOfListeners": 550,
         "region": "DC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 519,
+        "numberOfListeners": 520,
         "region": "CMX"
-      },
-      {
-        "city": "Medellín",
-        "country": "CO",
-        "numberOfListeners": 436,
-        "region": "ANT"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 433,
+        "numberOfListeners": 446,
         "region": "SP"
+      },
+      {
+        "city": "Medellín",
+        "country": "CO",
+        "numberOfListeners": 437,
+        "region": "ANT"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 315,
+        "numberOfListeners": 319,
         "region": "JAL"
       }
     ]

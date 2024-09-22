@@ -1,39 +1,39 @@
 {
   "id": "5tTsrGPwQRWUsHR2Xf7Ke9",
   "name": "Natalie Cole",
-  "followers": 644392,
-  "monthlyListeners": 4990486,
+  "followers": 644566,
+  "monthlyListeners": 4990719,
   "topCities": {
     "items": [
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 79955,
+        "numberOfListeners": 80611,
         "region": "00"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 66185,
+        "numberOfListeners": 65831,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 62680,
+        "numberOfListeners": 62663,
         "region": "NSW"
-      },
-      {
-        "city": "Santiago",
-        "country": "CL",
-        "numberOfListeners": 53168,
-        "region": "RM"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 53005,
+        "numberOfListeners": 53336,
         "region": "JK"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 52941,
+        "region": "RM"
       }
     ]
   },

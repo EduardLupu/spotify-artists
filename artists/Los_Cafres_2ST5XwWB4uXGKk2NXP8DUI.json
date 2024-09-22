@@ -1,38 +1,38 @@
 {
   "id": "2ST5XwWB4uXGKk2NXP8DUI",
   "name": "Los Cafres",
-  "followers": 1413680,
-  "monthlyListeners": 2396997,
+  "followers": 1413919,
+  "monthlyListeners": 2393110,
   "topCities": {
     "items": [
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 274738,
+        "numberOfListeners": 274984,
         "region": "C"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 173798,
+        "numberOfListeners": 172736,
         "region": "RM"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 120337,
+        "numberOfListeners": 120647,
         "region": "B"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 111766,
+        "numberOfListeners": 111463,
         "region": "LMA"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 85826,
+        "numberOfListeners": 85363,
         "region": "CMX"
       }
     ]

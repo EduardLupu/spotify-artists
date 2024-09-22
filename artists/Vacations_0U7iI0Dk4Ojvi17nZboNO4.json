@@ -1,38 +1,38 @@
 {
   "id": "0U7iI0Dk4Ojvi17nZboNO4",
   "name": "Vacations",
-  "followers": 1128991,
-  "monthlyListeners": 10092063,
+  "followers": 1130098,
+  "monthlyListeners": 10100112,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 168628,
+        "numberOfListeners": 168698,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 116794,
+        "numberOfListeners": 116417,
         "region": "IL"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 112219,
+        "numberOfListeners": 113219,
         "region": "JK"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 103394,
+        "numberOfListeners": 103002,
         "region": "RM"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 100602,
+        "numberOfListeners": 100444,
         "region": "TX"
       }
     ]

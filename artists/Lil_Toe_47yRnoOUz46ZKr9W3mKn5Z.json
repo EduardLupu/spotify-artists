@@ -1,38 +1,38 @@
 {
   "id": "47yRnoOUz46ZKr9W3mKn5Z",
   "name": "Lil Toe",
-  "followers": 113032,
-  "monthlyListeners": 563158,
+  "followers": 113040,
+  "monthlyListeners": 562043,
   "topCities": {
     "items": [
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 9770,
+        "numberOfListeners": 9736,
         "region": "14"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 6695,
+        "numberOfListeners": 6703,
         "region": "CO"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 6464,
+        "numberOfListeners": 6451,
         "region": "IL"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 6404,
+        "numberOfListeners": 6370,
         "region": "AZ"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 6183,
+        "numberOfListeners": 6159,
         "region": "WA"
       }
     ]

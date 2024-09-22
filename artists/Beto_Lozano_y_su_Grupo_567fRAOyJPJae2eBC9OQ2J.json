@@ -1,38 +1,38 @@
 {
   "id": "567fRAOyJPJae2eBC9OQ2J",
   "name": "Beto Lozano y su Grupo",
-  "followers": 5291,
-  "monthlyListeners": 40885,
+  "followers": 5295,
+  "monthlyListeners": 41532,
   "topCities": {
     "items": [
       {
         "city": "Ciudad Juárez",
         "country": "MX",
-        "numberOfListeners": 2683,
+        "numberOfListeners": 2709,
         "region": "CHH"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1868,
+        "numberOfListeners": 1916,
         "region": "CMX"
-      },
-      {
-        "city": "Guatemala City",
-        "country": "GT",
-        "numberOfListeners": 1298,
-        "region": "GU"
       },
       {
         "city": "Chihuahua City",
         "country": "MX",
-        "numberOfListeners": 1287,
+        "numberOfListeners": 1336,
         "region": "CHH"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 1277,
+        "region": "GU"
       },
       {
         "city": "El Paso",
         "country": "US",
-        "numberOfListeners": 966,
+        "numberOfListeners": 960,
         "region": "TX"
       }
     ]

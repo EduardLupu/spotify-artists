@@ -1,38 +1,38 @@
 {
   "id": "0iOVhN3tnSvgDbcg25JoJb",
   "name": "Etta James",
-  "followers": 1735534,
-  "monthlyListeners": 11323736,
+  "followers": 1736371,
+  "monthlyListeners": 11421244,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 184976,
+        "numberOfListeners": 186950,
         "region": "ENG"
-      },
-      {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 136215,
-        "region": "NSW"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 136017,
+        "numberOfListeners": 137155,
         "region": "SP"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 137130,
+        "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 135347,
+        "numberOfListeners": 136636,
         "region": "CA"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 122071,
+        "numberOfListeners": 123851,
         "region": "IDF"
       }
     ]

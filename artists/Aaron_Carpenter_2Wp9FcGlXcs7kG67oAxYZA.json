@@ -1,38 +1,38 @@
 {
   "id": "2Wp9FcGlXcs7kG67oAxYZA",
   "name": "Aaron Carpenter",
-  "followers": 60924,
-  "monthlyListeners": 10282,
+  "followers": 60923,
+  "monthlyListeners": 10278,
   "topCities": {
     "items": [
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 224,
+        "numberOfListeners": 220,
         "region": "34"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 114,
+        "numberOfListeners": 112,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 105,
+        "numberOfListeners": 104,
         "region": "VIC"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 105,
+        "numberOfListeners": 103,
         "region": "WA"
       },
       {
         "city": "Singapore",
         "country": "SG",
-        "numberOfListeners": 101,
+        "numberOfListeners": 103,
         "region": ""
       }
     ]

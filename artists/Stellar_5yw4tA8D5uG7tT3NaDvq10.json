@@ -1,38 +1,38 @@
 {
   "id": "5yw4tA8D5uG7tT3NaDvq10",
   "name": "Stellar",
-  "followers": 615384,
-  "monthlyListeners": 3526288,
+  "followers": 615587,
+  "monthlyListeners": 3513745,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 41979,
+        "numberOfListeners": 41898,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 37275,
+        "numberOfListeners": 36969,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 35087,
+        "numberOfListeners": 34918,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 34869,
+        "numberOfListeners": 34718,
         "region": "QLD"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 33801,
+        "numberOfListeners": 33573,
         "region": "IL"
       }
     ]

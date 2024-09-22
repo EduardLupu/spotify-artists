@@ -1,38 +1,38 @@
 {
   "id": "5MbNzCW3qokGyoo9giHA3V",
   "name": "EARTHGANG",
-  "followers": 867346,
-  "monthlyListeners": 3032057,
+  "followers": 867511,
+  "monthlyListeners": 3028908,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 62009,
+        "numberOfListeners": 61858,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 52693,
+        "numberOfListeners": 52399,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 45412,
+        "numberOfListeners": 45463,
         "region": "NY"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 40309,
+        "numberOfListeners": 40507,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 40210,
+        "numberOfListeners": 40042,
         "region": "ENG"
       }
     ]

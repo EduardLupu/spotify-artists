@@ -1,38 +1,38 @@
 {
   "id": "3wyVrVrFCkukjdVIdirGVY",
   "name": "Lil Pump",
-  "followers": 7644922,
-  "monthlyListeners": 6061536,
+  "followers": 7644778,
+  "monthlyListeners": 6048219,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 238518,
+        "numberOfListeners": 235011,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 63586,
+        "numberOfListeners": 63559,
         "region": "NSW"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 56059,
+        "numberOfListeners": 55806,
         "region": "CMX"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 52791,
+        "numberOfListeners": 52683,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 50945,
+        "numberOfListeners": 50718,
         "region": "IL"
       }
     ]

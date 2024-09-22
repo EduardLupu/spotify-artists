@@ -2,37 +2,37 @@
   "id": "1UjhzgAgOT1XmKWmz8vNVJ",
   "name": "Zoe",
   "followers": 3627,
-  "monthlyListeners": 19173,
+  "monthlyListeners": 19058,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 817,
+        "numberOfListeners": 815,
         "region": "JK"
       },
       {
         "city": "Bangkok",
         "country": "TH",
-        "numberOfListeners": 614,
+        "numberOfListeners": 605,
         "region": "10"
       },
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 519,
+        "numberOfListeners": 513,
         "region": "13"
       },
       {
         "city": "Kuala Lumpur",
         "country": "MY",
-        "numberOfListeners": 361,
+        "numberOfListeners": 365,
         "region": "14"
       },
       {
         "city": "Ho Chi Minh City",
         "country": "VN",
-        "numberOfListeners": 297,
+        "numberOfListeners": 293,
         "region": "SG"
       }
     ]

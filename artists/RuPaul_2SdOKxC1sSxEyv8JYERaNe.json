@@ -1,38 +1,38 @@
 {
   "id": "2SdOKxC1sSxEyv8JYERaNe",
   "name": "RuPaul",
-  "followers": 741175,
-  "monthlyListeners": 1019864,
+  "followers": 741249,
+  "monthlyListeners": 1014340,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 19758,
+        "numberOfListeners": 19665,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 16327,
+        "numberOfListeners": 16199,
         "region": "SP"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 14605,
+        "numberOfListeners": 14474,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 14161,
+        "numberOfListeners": 14022,
         "region": "RM"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 13483,
+        "numberOfListeners": 13424,
         "region": "NY"
       }
     ]

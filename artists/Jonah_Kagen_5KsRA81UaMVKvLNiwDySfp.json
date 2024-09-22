@@ -1,39 +1,39 @@
 {
   "id": "5KsRA81UaMVKvLNiwDySfp",
   "name": "Jonah Kagen",
-  "followers": 152020,
-  "monthlyListeners": 2171023,
+  "followers": 152147,
+  "monthlyListeners": 2168133,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 30747,
+        "numberOfListeners": 30707,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 25652,
+        "numberOfListeners": 25560,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 25377,
+        "numberOfListeners": 25306,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 24582,
+        "numberOfListeners": 24544,
         "region": "IL"
       },
       {
-        "city": "New York City",
+        "city": "Denver",
         "country": "US",
-        "numberOfListeners": 24339,
-        "region": "NY"
+        "numberOfListeners": 24331,
+        "region": "CO"
       }
     ]
   },

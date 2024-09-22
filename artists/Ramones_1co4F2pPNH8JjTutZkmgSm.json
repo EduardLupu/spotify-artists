@@ -1,38 +1,38 @@
 {
   "id": "1co4F2pPNH8JjTutZkmgSm",
   "name": "Ramones",
-  "followers": 2685515,
-  "monthlyListeners": 6587211,
+  "followers": 2686340,
+  "monthlyListeners": 6625491,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 156574,
+        "numberOfListeners": 155561,
         "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 142649,
+        "numberOfListeners": 142897,
         "region": "SP"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 97461,
+        "numberOfListeners": 97862,
         "region": "C"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 88202,
+        "numberOfListeners": 87962,
         "region": "CMX"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 67090,
+        "numberOfListeners": 67451,
         "region": "CA"
       }
     ]

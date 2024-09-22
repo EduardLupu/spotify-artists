@@ -1,38 +1,38 @@
 {
   "id": "5T0MSzX9RC5NA6gAI6irSn",
   "name": "Estelle",
-  "followers": 306580,
-  "monthlyListeners": 5788633,
+  "followers": 306769,
+  "monthlyListeners": 5777876,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 126092,
+        "numberOfListeners": 125289,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 97749,
+        "numberOfListeners": 97802,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 89352,
+        "numberOfListeners": 89364,
         "region": "VIC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 76538,
+        "numberOfListeners": 76379,
         "region": "CA"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 61012,
+        "numberOfListeners": 61018,
         "region": "QLD"
       }
     ]

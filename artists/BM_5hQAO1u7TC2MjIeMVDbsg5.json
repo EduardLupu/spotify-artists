@@ -1,38 +1,38 @@
 {
   "id": "5hQAO1u7TC2MjIeMVDbsg5",
   "name": "BM",
-  "followers": 38351,
-  "monthlyListeners": 1687499,
+  "followers": 38419,
+  "monthlyListeners": 1681248,
   "topCities": {
     "items": [
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 64683,
+        "numberOfListeners": 64612,
         "region": "25"
       },
       {
         "city": "Athens",
         "country": "GR",
-        "numberOfListeners": 40471,
+        "numberOfListeners": 40237,
         "region": "I"
       },
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 39341,
+        "numberOfListeners": 39209,
         "region": "34"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 37622,
+        "numberOfListeners": 37807,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 24555,
+        "numberOfListeners": 24643,
         "region": "NSW"
       }
     ]

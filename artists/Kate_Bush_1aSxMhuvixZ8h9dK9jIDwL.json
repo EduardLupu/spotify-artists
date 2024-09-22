@@ -1,38 +1,38 @@
 {
   "id": "1aSxMhuvixZ8h9dK9jIDwL",
   "name": "Kate Bush",
-  "followers": 2140317,
-  "monthlyListeners": 12003740,
+  "followers": 2141854,
+  "monthlyListeners": 12007295,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 234563,
+        "numberOfListeners": 234000,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 151483,
+        "numberOfListeners": 151509,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 141559,
+        "numberOfListeners": 141325,
         "region": "VIC"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 130565,
+        "numberOfListeners": 130198,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 119388,
+        "numberOfListeners": 118815,
         "region": "RM"
       }
     ]

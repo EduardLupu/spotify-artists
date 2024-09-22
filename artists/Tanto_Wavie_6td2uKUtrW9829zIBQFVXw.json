@@ -1,39 +1,39 @@
 {
   "id": "6td2uKUtrW9829zIBQFVXw",
   "name": "Tanto Wavie",
-  "followers": 13786,
-  "monthlyListeners": 19215,
+  "followers": 13801,
+  "monthlyListeners": 19346,
   "topCities": {
     "items": [
       {
         "city": "Harare",
         "country": "ZW",
-        "numberOfListeners": 4970,
+        "numberOfListeners": 5013,
         "region": "HA"
       },
       {
         "city": "Johannesburg",
         "country": "ZA",
-        "numberOfListeners": 2284,
+        "numberOfListeners": 2285,
         "region": "GP"
       },
       {
         "city": "Cape Town",
         "country": "ZA",
-        "numberOfListeners": 1799,
+        "numberOfListeners": 1795,
         "region": "WC"
       },
       {
         "city": "Pretoria",
         "country": "ZA",
-        "numberOfListeners": 957,
+        "numberOfListeners": 970,
         "region": "GP"
       },
       {
-        "city": "Durban",
-        "country": "ZA",
-        "numberOfListeners": 485,
-        "region": "KZN"
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 484,
+        "region": "LA"
       }
     ]
   },

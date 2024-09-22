@@ -2,38 +2,38 @@
   "id": "4COjOA6SIsQK0yrDxwnw02",
   "name": "Emmanuel",
   "followers": 2802,
-  "monthlyListeners": 5208,
+  "monthlyListeners": 5236,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 219,
+        "numberOfListeners": 217,
         "region": "BE"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 123,
+        "numberOfListeners": 130,
         "region": "NH"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 100,
+        "numberOfListeners": 102,
         "region": "IDF"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 78,
+        "region": "VIC"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 80,
+        "numberOfListeners": 77,
         "region": "DC"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 79,
-        "region": "ENG"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "6Ud6RjvNXVe39mKiGUb7zE",
   "name": "Pastor Lopez",
-  "followers": 325828,
-  "monthlyListeners": 1275838,
+  "followers": 326015,
+  "monthlyListeners": 1282884,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 215673,
+        "numberOfListeners": 218057,
         "region": "DC"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 88938,
+        "numberOfListeners": 90031,
         "region": "ANT"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 73750,
+        "numberOfListeners": 75215,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 54678,
+        "numberOfListeners": 54409,
         "region": "CMX"
       },
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 44609,
+        "numberOfListeners": 42928,
         "region": "GU"
       }
     ]

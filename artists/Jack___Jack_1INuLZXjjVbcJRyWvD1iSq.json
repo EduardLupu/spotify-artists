@@ -1,38 +1,38 @@
 {
   "id": "1INuLZXjjVbcJRyWvD1iSq",
   "name": "Jack & Jack",
-  "followers": 1408772,
-  "monthlyListeners": 2934665,
+  "followers": 1408806,
+  "monthlyListeners": 2942810,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 72747,
+        "numberOfListeners": 72904,
         "region": "JK"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 49018,
+        "numberOfListeners": 49313,
         "region": "NSW"
       },
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 42342,
+        "numberOfListeners": 42972,
         "region": "13"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 39585,
+        "numberOfListeners": 39812,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 37034,
+        "numberOfListeners": 37009,
         "region": "ENG"
       }
     ]

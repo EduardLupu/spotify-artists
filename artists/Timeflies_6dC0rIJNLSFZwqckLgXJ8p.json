@@ -1,38 +1,38 @@
 {
   "id": "6dC0rIJNLSFZwqckLgXJ8p",
   "name": "Timeflies",
-  "followers": 318125,
-  "monthlyListeners": 753362,
+  "followers": 318121,
+  "monthlyListeners": 752708,
   "topCities": {
     "items": [
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 9268,
+        "numberOfListeners": 9314,
         "region": "NY"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 9195,
+        "numberOfListeners": 9169,
         "region": "NSW"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 9007,
+        "numberOfListeners": 9020,
         "region": "JK"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 8951,
+        "numberOfListeners": 8906,
         "region": "IL"
       },
       {
         "city": "Singapore",
         "country": "SG",
-        "numberOfListeners": 7508,
+        "numberOfListeners": 7544,
         "region": ""
       }
     ]

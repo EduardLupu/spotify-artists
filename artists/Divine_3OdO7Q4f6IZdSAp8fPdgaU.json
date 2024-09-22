@@ -2,7 +2,7 @@
   "id": "3OdO7Q4f6IZdSAp8fPdgaU",
   "name": "Divine",
   "followers": 9,
-  "monthlyListeners": 14,
+  "monthlyListeners": 13,
   "topCities": {
     "items": [
       {
@@ -12,28 +12,28 @@
         "region": "AB"
       },
       {
-        "city": "Alexandria",
-        "country": "GB",
+        "city": "Ljungby",
+        "country": "SE",
         "numberOfListeners": 1,
-        "region": "SCT"
+        "region": "G"
       },
       {
-        "city": "Ørsta",
-        "country": "NO",
+        "city": "Malmo",
+        "country": "SE",
         "numberOfListeners": 1,
-        "region": "15"
+        "region": "M"
       },
       {
-        "city": "Budapest",
-        "country": "HU",
+        "city": "Gothenburg",
+        "country": "SE",
         "numberOfListeners": 1,
-        "region": "BU"
+        "region": "O"
       },
       {
-        "city": "Madisonville",
-        "country": "US",
+        "city": "Uppsala",
+        "country": "SE",
         "numberOfListeners": 1,
-        "region": "KY"
+        "region": "C"
       }
     ]
   },

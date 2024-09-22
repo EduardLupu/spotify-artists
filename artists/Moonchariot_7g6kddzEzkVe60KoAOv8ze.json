@@ -1,8 +1,8 @@
 {
   "id": "7g6kddzEzkVe60KoAOv8ze",
   "name": "Moonchariot",
-  "followers": 828,
-  "monthlyListeners": 562,
+  "followers": 831,
+  "monthlyListeners": 565,
   "topCities": {
     "items": [
       {
@@ -14,25 +14,25 @@
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 43,
+        "numberOfListeners": 42,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 28,
+        "numberOfListeners": 29,
         "region": "RM"
       },
       {
         "city": "Zapopan",
         "country": "MX",
-        "numberOfListeners": 26,
+        "numberOfListeners": 27,
         "region": "JAL"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 20,
+        "numberOfListeners": 19,
         "region": "MD"
       }
     ]

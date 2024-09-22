@@ -1,38 +1,38 @@
 {
   "id": "4ilhzwc5QbNIGlLQfLUZWP",
   "name": "Mabel",
-  "followers": 464,
-  "monthlyListeners": 604857,
+  "followers": 521,
+  "monthlyListeners": 659729,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 11501,
+        "numberOfListeners": 12709,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 8084,
+        "numberOfListeners": 8795,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 6552,
+        "numberOfListeners": 7086,
         "region": "VIC"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 6112,
+        "numberOfListeners": 6669,
         "region": "L"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 5565,
+        "numberOfListeners": 6285,
         "region": "NH"
       }
     ]

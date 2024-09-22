@@ -1,38 +1,38 @@
 {
   "id": "4mkjpWbFO45SyaHiM9GOVE",
   "name": "2KBABY",
-  "followers": 427423,
-  "monthlyListeners": 681974,
+  "followers": 427444,
+  "monthlyListeners": 681375,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 10653,
+        "numberOfListeners": 10559,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 10080,
+        "numberOfListeners": 10042,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 9120,
+        "numberOfListeners": 9046,
         "region": "ENG"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 8655,
+        "numberOfListeners": 8648,
         "region": "ON"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 8002,
+        "numberOfListeners": 8004,
         "region": "PA"
       }
     ]

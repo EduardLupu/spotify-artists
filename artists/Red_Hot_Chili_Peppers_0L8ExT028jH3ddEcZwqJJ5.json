@@ -1,38 +1,38 @@
 {
   "id": "0L8ExT028jH3ddEcZwqJJ5",
   "name": "Red Hot Chili Peppers",
-  "followers": 21311843,
-  "monthlyListeners": 36751193,
+  "followers": 21317297,
+  "monthlyListeners": 36756730,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 727624,
+        "numberOfListeners": 728226,
         "region": "SP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 616352,
+        "numberOfListeners": 615578,
         "region": "ENG"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 578524,
+        "numberOfListeners": 576093,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 551254,
+        "numberOfListeners": 553224,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 466041,
+        "numberOfListeners": 467014,
         "region": "VIC"
       }
     ]

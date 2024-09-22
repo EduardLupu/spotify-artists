@@ -1,8 +1,8 @@
 {
   "id": "5FgkTUuCNKDlilidPvZqOq",
   "name": "Scott Joplin",
-  "followers": 81991,
-  "monthlyListeners": 259551,
+  "followers": 82030,
+  "monthlyListeners": 259925,
   "topCities": {
     "items": [
       {
@@ -14,25 +14,25 @@
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 2728,
+        "numberOfListeners": 2718,
         "region": "NSW"
       },
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 2535,
+        "numberOfListeners": 2547,
         "region": "13"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 2378,
+        "numberOfListeners": 2361,
         "region": "VIC"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 2050,
+        "numberOfListeners": 2060,
         "region": "RM"
       }
     ]

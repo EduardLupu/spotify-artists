@@ -1,38 +1,38 @@
 {
   "id": "7keGfmQR4X5w0two1xKZ7d",
   "name": "Kungs",
-  "followers": 955996,
-  "monthlyListeners": 13145470,
+  "followers": 956133,
+  "monthlyListeners": 13054326,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 288232,
+        "numberOfListeners": 286815,
         "region": "IDF"
       },
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 164794,
+        "numberOfListeners": 164038,
         "region": "25"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 160429,
+        "numberOfListeners": 160283,
         "region": "NH"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 151912,
+        "numberOfListeners": 150289,
         "region": "ENG"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 144291,
+        "numberOfListeners": 142997,
         "region": "CMX"
       }
     ]

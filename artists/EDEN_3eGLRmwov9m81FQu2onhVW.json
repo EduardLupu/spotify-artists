@@ -1,38 +1,38 @@
 {
   "id": "3eGLRmwov9m81FQu2onhVW",
   "name": "EDEN",
-  "followers": 714,
-  "monthlyListeners": 3425,
+  "followers": 715,
+  "monthlyListeners": 3421,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 643,
+        "numberOfListeners": 629,
         "region": "ENG"
       },
       {
         "city": "Cardiff",
         "country": "GB",
-        "numberOfListeners": 508,
+        "numberOfListeners": 517,
         "region": "WLS"
       },
       {
         "city": "Birmingham",
         "country": "GB",
-        "numberOfListeners": 467,
+        "numberOfListeners": 462,
         "region": "ENG"
       },
       {
         "city": "Southwark",
         "country": "GB",
-        "numberOfListeners": 227,
+        "numberOfListeners": 223,
         "region": "ENG"
       },
       {
         "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 172,
+        "numberOfListeners": 170,
         "region": "ENG"
       }
     ]

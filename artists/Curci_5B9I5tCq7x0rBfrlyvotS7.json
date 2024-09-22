@@ -1,38 +1,38 @@
 {
   "id": "5B9I5tCq7x0rBfrlyvotS7",
   "name": "Curci",
-  "followers": 13471,
-  "monthlyListeners": 47259,
+  "followers": 13470,
+  "monthlyListeners": 46850,
   "topCities": {
     "items": [
       {
-        "city": "Falkenstein",
-        "country": "DE",
-        "numberOfListeners": 672,
-        "region": "SN"
-      },
-      {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 618,
+        "numberOfListeners": 611,
         "region": "CO"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 593,
+        "numberOfListeners": 601,
         "region": "NSW"
+      },
+      {
+        "city": "Falkenstein",
+        "country": "DE",
+        "numberOfListeners": 572,
+        "region": "SN"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 549,
+        "numberOfListeners": 535,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 519,
+        "numberOfListeners": 508,
         "region": "ENG"
       }
     ]

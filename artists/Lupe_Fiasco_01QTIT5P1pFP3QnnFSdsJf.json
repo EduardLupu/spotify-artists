@@ -1,38 +1,38 @@
 {
   "id": "01QTIT5P1pFP3QnnFSdsJf",
   "name": "Lupe Fiasco",
-  "followers": 1903669,
-  "monthlyListeners": 5272347,
+  "followers": 1903831,
+  "monthlyListeners": 5252598,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 106516,
+        "numberOfListeners": 106072,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 99593,
+        "numberOfListeners": 98621,
         "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 90041,
+        "numberOfListeners": 89639,
         "region": "VIC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 87388,
+        "numberOfListeners": 87057,
         "region": "CA"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 75215,
+        "numberOfListeners": 74799,
         "region": "QLD"
       }
     ]

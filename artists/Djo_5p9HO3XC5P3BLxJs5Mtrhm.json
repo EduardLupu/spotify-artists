@@ -1,41 +1,41 @@
 {
   "id": "5p9HO3XC5P3BLxJs5Mtrhm",
   "name": "Djo",
-  "followers": 1529021,
-  "monthlyListeners": 27115730,
+  "followers": 1535847,
+  "monthlyListeners": 26886923,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 1487569,
+        "numberOfListeners": 1482827,
         "region": "JK"
       },
       {
         "city": "Bandung",
         "country": "ID",
-        "numberOfListeners": 334429,
+        "numberOfListeners": 332590,
         "region": "JB"
       },
       {
         "city": "Kuala Lumpur",
         "country": "MY",
-        "numberOfListeners": 301125,
+        "numberOfListeners": 298972,
         "region": "14"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 299951,
+        "numberOfListeners": 297276,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 264435,
+        "numberOfListeners": 261911,
         "region": "VIC"
       }
     ]
   },
-  "worldRank": 187
+  "worldRank": 191
 }

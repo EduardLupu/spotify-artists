@@ -1,38 +1,38 @@
 {
   "id": "5vngPClqofybhPERIqQMYd",
   "name": "George Strait",
-  "followers": 4495612,
-  "monthlyListeners": 8168932,
+  "followers": 4497355,
+  "monthlyListeners": 8176746,
   "topCities": {
     "items": [
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 227093,
+        "numberOfListeners": 227510,
         "region": "TX"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 169697,
+        "numberOfListeners": 169981,
         "region": "TX"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 150023,
+        "numberOfListeners": 149499,
         "region": "IL"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 147622,
+        "numberOfListeners": 148192,
         "region": "NC"
       },
       {
         "city": "Austin",
         "country": "US",
-        "numberOfListeners": 138834,
+        "numberOfListeners": 140954,
         "region": "TX"
       }
     ]

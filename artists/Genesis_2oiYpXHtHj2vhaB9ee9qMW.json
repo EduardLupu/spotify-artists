@@ -1,20 +1,20 @@
 {
   "id": "2oiYpXHtHj2vhaB9ee9qMW",
   "name": "Genesis",
-  "followers": 1489,
-  "monthlyListeners": 788,
+  "followers": 1488,
+  "monthlyListeners": 793,
   "topCities": {
     "items": [
       {
         "city": "San Juan",
         "country": "US",
-        "numberOfListeners": 90,
+        "numberOfListeners": 84,
         "region": "PR"
       },
       {
         "city": "Bayamón",
         "country": "US",
-        "numberOfListeners": 33,
+        "numberOfListeners": 36,
         "region": "PR"
       },
       {
@@ -30,10 +30,10 @@
         "region": "PA"
       },
       {
-        "city": "São Paulo",
-        "country": "BR",
+        "city": "New York City",
+        "country": "US",
         "numberOfListeners": 9,
-        "region": "SP"
+        "region": "NY"
       }
     ]
   },

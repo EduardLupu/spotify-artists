@@ -1,8 +1,8 @@
 {
   "id": "0znuUIjvP0LXEslfaq0Nor",
   "name": "Citizen",
-  "followers": 263408,
-  "monthlyListeners": 606560,
+  "followers": 263469,
+  "monthlyListeners": 607930,
   "topCities": {
     "items": [
       {
@@ -14,25 +14,25 @@
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 12171,
+        "numberOfListeners": 12106,
         "region": "IL"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 9419,
+        "numberOfListeners": 9427,
         "region": "AZ"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 9086,
+        "numberOfListeners": 9108,
         "region": "TX"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 9058,
+        "numberOfListeners": 9103,
         "region": "PA"
       }
     ]

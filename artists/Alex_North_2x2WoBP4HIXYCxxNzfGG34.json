@@ -1,39 +1,39 @@
 {
   "id": "2x2WoBP4HIXYCxxNzfGG34",
   "name": "Alex North",
-  "followers": 9208,
-  "monthlyListeners": 55980,
+  "followers": 9209,
+  "monthlyListeners": 56012,
   "topCities": {
     "items": [
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 901,
+        "numberOfListeners": 902,
         "region": "MD"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 729,
+        "numberOfListeners": 730,
         "region": "ENG"
-      },
-      {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 678,
-        "region": "NSW"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 674,
+        "numberOfListeners": 689,
         "region": "IDF"
       },
       {
-        "city": "Santiago",
-        "country": "CL",
-        "numberOfListeners": 578,
-        "region": "RM"
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 677,
+        "region": "NSW"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 576,
+        "region": "VIC"
       }
     ]
   },

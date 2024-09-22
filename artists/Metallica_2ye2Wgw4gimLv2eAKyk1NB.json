@@ -1,41 +1,41 @@
 {
   "id": "2ye2Wgw4gimLv2eAKyk1NB",
   "name": "Metallica",
-  "followers": 28403528,
-  "monthlyListeners": 26964866,
+  "followers": 28415261,
+  "monthlyListeners": 26965535,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 518923,
+        "numberOfListeners": 518509,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 476040,
+        "numberOfListeners": 472339,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 434387,
+        "numberOfListeners": 438102,
         "region": "CMX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 302441,
+        "numberOfListeners": 302942,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 295557,
+        "numberOfListeners": 295144,
         "region": "ENG"
       }
     ]
   },
-  "worldRank": 189
+  "worldRank": 187
 }

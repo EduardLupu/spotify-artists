@@ -1,39 +1,39 @@
 {
   "id": "5RmQ8k4l3HZ8JoPb4mNsML",
   "name": "Agust D",
-  "followers": 14845585,
-  "monthlyListeners": 3658858,
+  "followers": 14845167,
+  "monthlyListeners": 3650763,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 120049,
+        "numberOfListeners": 120302,
         "region": "JK"
       },
       {
         "city": "Bangkok",
         "country": "TH",
-        "numberOfListeners": 83144,
+        "numberOfListeners": 82701,
         "region": "10"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 54505,
+        "numberOfListeners": 54193,
         "region": "SP"
-      },
-      {
-        "city": "Santiago",
-        "country": "CL",
-        "numberOfListeners": 49322,
-        "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 49245,
+        "numberOfListeners": 49193,
         "region": "CMX"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 49040,
+        "region": "RM"
       }
     ]
   },

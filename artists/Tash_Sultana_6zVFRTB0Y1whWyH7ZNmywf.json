@@ -1,39 +1,39 @@
 {
   "id": "6zVFRTB0Y1whWyH7ZNmywf",
   "name": "Tash Sultana",
-  "followers": 1694119,
-  "monthlyListeners": 2818334,
+  "followers": 1694360,
+  "monthlyListeners": 2800785,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 98742,
+        "numberOfListeners": 98698,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 77698,
+        "numberOfListeners": 77401,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 71690,
+        "numberOfListeners": 71526,
         "region": "QLD"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 46639,
-        "region": "ENG"
       },
       {
         "city": "Perth",
         "country": "AU",
-        "numberOfListeners": 46411,
+        "numberOfListeners": 46508,
         "region": "WA"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 46155,
+        "region": "ENG"
       }
     ]
   },

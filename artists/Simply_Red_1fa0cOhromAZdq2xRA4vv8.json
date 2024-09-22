@@ -1,38 +1,38 @@
 {
   "id": "1fa0cOhromAZdq2xRA4vv8",
   "name": "Simply Red",
-  "followers": 2456725,
-  "monthlyListeners": 6224002,
+  "followers": 2457518,
+  "monthlyListeners": 6215573,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 247321,
+        "numberOfListeners": 246173,
         "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 162687,
+        "numberOfListeners": 162526,
         "region": "SP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 107655,
+        "numberOfListeners": 107298,
         "region": "ENG"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 96039,
+        "numberOfListeners": 96597,
         "region": "NH"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 86730,
+        "numberOfListeners": 86193,
         "region": "CMX"
       }
     ]

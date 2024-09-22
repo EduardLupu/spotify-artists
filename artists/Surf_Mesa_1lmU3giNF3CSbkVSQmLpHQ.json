@@ -1,38 +1,38 @@
 {
   "id": "1lmU3giNF3CSbkVSQmLpHQ",
   "name": "Surf Mesa",
-  "followers": 177213,
-  "monthlyListeners": 4236377,
+  "followers": 177251,
+  "monthlyListeners": 4220303,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 47670,
+        "numberOfListeners": 47258,
         "region": "CMX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 44727,
+        "numberOfListeners": 44594,
         "region": "NSW"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 41855,
+        "numberOfListeners": 41897,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 39123,
+        "numberOfListeners": 38927,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 37085,
+        "numberOfListeners": 36832,
         "region": "RM"
       }
     ]

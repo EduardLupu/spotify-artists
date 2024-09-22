@@ -1,38 +1,38 @@
 {
   "id": "2UBTfUoLI07iRqGeUrwhZh",
   "name": "Steve Earle",
-  "followers": 294401,
-  "monthlyListeners": 2794975,
+  "followers": 294510,
+  "monthlyListeners": 2782302,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 62550,
+        "numberOfListeners": 62278,
         "region": "NSW"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 52772,
+        "numberOfListeners": 52603,
         "region": "QLD"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 50600,
+        "numberOfListeners": 50360,
         "region": "VIC"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 39921,
+        "numberOfListeners": 39490,
         "region": "L"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 39035,
+        "numberOfListeners": 38586,
         "region": "ON"
       }
     ]

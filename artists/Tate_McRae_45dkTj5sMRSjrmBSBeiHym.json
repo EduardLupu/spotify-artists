@@ -1,41 +1,41 @@
 {
   "id": "45dkTj5sMRSjrmBSBeiHym",
   "name": "Tate McRae",
-  "followers": 5905514,
-  "monthlyListeners": 40791975,
+  "followers": 5918682,
+  "monthlyListeners": 40973070,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 703771,
+        "numberOfListeners": 706952,
         "region": "JK"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 618666,
+        "numberOfListeners": 624430,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 583779,
+        "numberOfListeners": 586514,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 522693,
+        "numberOfListeners": 526877,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 391666,
+        "numberOfListeners": 394651,
         "region": "QLD"
       }
     ]
   },
-  "worldRank": 77
+  "worldRank": 75
 }

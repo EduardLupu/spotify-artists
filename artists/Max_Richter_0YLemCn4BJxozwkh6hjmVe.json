@@ -1,14 +1,14 @@
 {
   "id": "0YLemCn4BJxozwkh6hjmVe",
   "name": "Max Richter",
-  "followers": 30,
-  "monthlyListeners": 82,
+  "followers": 31,
+  "monthlyListeners": 80,
   "topCities": {
     "items": [
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 3,
+        "numberOfListeners": 4,
         "region": "QC"
       },
       {
@@ -24,16 +24,16 @@
         "region": "CMX"
       },
       {
-        "city": "Milan",
-        "country": "IT",
-        "numberOfListeners": 2,
-        "region": "25"
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 1,
+        "region": "LMA"
       },
       {
-        "city": "Charlotte",
-        "country": "US",
+        "city": "Córdoba",
+        "country": "ES",
         "numberOfListeners": 1,
-        "region": "NC"
+        "region": "AN"
       }
     ]
   },

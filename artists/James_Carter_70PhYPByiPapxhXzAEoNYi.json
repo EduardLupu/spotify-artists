@@ -2,14 +2,20 @@
   "id": "70PhYPByiPapxhXzAEoNYi",
   "name": "James Carter",
   "followers": 771,
-  "monthlyListeners": 1066,
+  "monthlyListeners": 1071,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 30,
+        "numberOfListeners": 29,
         "region": "BE"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 17,
+        "region": "VIC"
       },
       {
         "city": "Los Angeles",
@@ -18,22 +24,16 @@
         "region": "CA"
       },
       {
-        "city": "Melbourne",
-        "country": "AU",
-        "numberOfListeners": 16,
-        "region": "VIC"
-      },
-      {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 16,
+        "numberOfListeners": 15,
         "region": "NH"
       },
       {
-        "city": "Istanbul",
-        "country": "TR",
+        "city": "Sydney",
+        "country": "AU",
         "numberOfListeners": 14,
-        "region": "34"
+        "region": "NSW"
       }
     ]
   },

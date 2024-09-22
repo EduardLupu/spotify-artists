@@ -1,39 +1,39 @@
 {
   "id": "4iDroUFo89Y7YBsdDTBmTD",
   "name": "Sueco",
-  "followers": 621574,
-  "monthlyListeners": 3254556,
+  "followers": 621766,
+  "monthlyListeners": 3202228,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 46497,
+        "numberOfListeners": 45644,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 44194,
+        "numberOfListeners": 42911,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 40491,
+        "numberOfListeners": 39312,
         "region": "VIC"
-      },
-      {
-        "city": "Brisbane",
-        "country": "AU",
-        "numberOfListeners": 38317,
-        "region": "QLD"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 37901,
+        "numberOfListeners": 37596,
         "region": "CO"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 37414,
+        "region": "QLD"
       }
     ]
   },

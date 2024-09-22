@@ -1,38 +1,38 @@
 {
   "id": "6QtgPSJPSzcnn7dPZ4VINp",
   "name": "King Von",
-  "followers": 5083392,
-  "monthlyListeners": 9206720,
+  "followers": 5089322,
+  "monthlyListeners": 9202429,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 224441,
+        "numberOfListeners": 224065,
         "region": "IL"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 151257,
+        "numberOfListeners": 151766,
         "region": "ON"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 141600,
+        "numberOfListeners": 141318,
         "region": "TX"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 136119,
+        "numberOfListeners": 135857,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 130793,
+        "numberOfListeners": 130748,
         "region": "NSW"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "45AMD9qU0ERQY5RvR7deHR",
   "name": "Che Ecru",
-  "followers": 232056,
-  "monthlyListeners": 417926,
+  "followers": 232100,
+  "monthlyListeners": 417307,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 9036,
+        "numberOfListeners": 9034,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 6992,
+        "numberOfListeners": 6988,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 6465,
+        "numberOfListeners": 6464,
         "region": "NSW"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 6158,
+        "numberOfListeners": 6145,
         "region": "ON"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 6150,
+        "numberOfListeners": 6128,
         "region": "VIC"
       }
     ]

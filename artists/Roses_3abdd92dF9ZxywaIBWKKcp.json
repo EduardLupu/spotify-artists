@@ -2,38 +2,38 @@
   "id": "3abdd92dF9ZxywaIBWKKcp",
   "name": "Roses",
   "followers": 540,
-  "monthlyListeners": 19670,
+  "monthlyListeners": 19622,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 396,
+        "numberOfListeners": 393,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 385,
+        "numberOfListeners": 383,
         "region": "DC"
       },
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 231,
+        "numberOfListeners": 223,
         "region": "GU"
-      },
-      {
-        "city": "Helsinki",
-        "country": "FI",
-        "numberOfListeners": 206,
-        "region": "18"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 194,
+        "numberOfListeners": 192,
         "region": "SP"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 186,
+        "region": "LMA"
       }
     ]
   },

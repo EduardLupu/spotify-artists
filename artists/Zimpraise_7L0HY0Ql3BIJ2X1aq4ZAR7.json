@@ -1,38 +1,38 @@
 {
   "id": "7L0HY0Ql3BIJ2X1aq4ZAR7",
   "name": "Zimpraise",
-  "followers": 39357,
-  "monthlyListeners": 27184,
+  "followers": 39401,
+  "monthlyListeners": 27100,
   "topCities": {
     "items": [
       {
         "city": "Harare",
         "country": "ZW",
-        "numberOfListeners": 5324,
+        "numberOfListeners": 5318,
         "region": "HA"
       },
       {
         "city": "Johannesburg",
         "country": "ZA",
-        "numberOfListeners": 3767,
+        "numberOfListeners": 3758,
         "region": "GP"
       },
       {
         "city": "Cape Town",
         "country": "ZA",
-        "numberOfListeners": 2288,
+        "numberOfListeners": 2310,
         "region": "WC"
       },
       {
         "city": "Pretoria",
         "country": "ZA",
-        "numberOfListeners": 1717,
+        "numberOfListeners": 1689,
         "region": "GP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1081,
+        "numberOfListeners": 1068,
         "region": "ENG"
       }
     ]

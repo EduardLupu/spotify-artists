@@ -2,13 +2,13 @@
   "id": "047BIzYHaKXWXwXdvH4KEO",
   "name": "RIN",
   "followers": 31,
-  "monthlyListeners": 224,
+  "monthlyListeners": 218,
   "topCities": {
     "items": [
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 60,
+        "numberOfListeners": 57,
         "region": "13"
       },
       {
@@ -30,10 +30,10 @@
         "region": "13"
       },
       {
-        "city": "Fukuoka",
+        "city": "Nakano",
         "country": "JP",
         "numberOfListeners": 5,
-        "region": "40"
+        "region": "13"
       }
     ]
   },

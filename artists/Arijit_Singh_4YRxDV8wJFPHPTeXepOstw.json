@@ -1,39 +1,39 @@
 {
   "id": "4YRxDV8wJFPHPTeXepOstw",
   "name": "Arijit Singh",
-  "followers": 122190021,
-  "monthlyListeners": 40557411,
+  "followers": 122287079,
+  "monthlyListeners": 40541667,
   "topCities": {
     "items": [
       {
         "city": "Mumbai",
         "country": "IN",
-        "numberOfListeners": 4198016,
+        "numberOfListeners": 4177812,
         "region": "MH"
       },
       {
         "city": "Pune",
         "country": "IN",
-        "numberOfListeners": 3476750,
+        "numberOfListeners": 3481671,
         "region": "MH"
       },
       {
         "city": "Delhi",
         "country": "IN",
-        "numberOfListeners": 2959676,
-        "region": "DL"
-      },
-      {
-        "city": "New Delhi",
-        "country": "IN",
-        "numberOfListeners": 2404356,
+        "numberOfListeners": 2969202,
         "region": "DL"
       },
       {
         "city": "Hyderabad",
         "country": "IN",
-        "numberOfListeners": 2399888,
+        "numberOfListeners": 2399733,
         "region": "TS"
+      },
+      {
+        "city": "New Delhi",
+        "country": "IN",
+        "numberOfListeners": 2397118,
+        "region": "DL"
       }
     ]
   },

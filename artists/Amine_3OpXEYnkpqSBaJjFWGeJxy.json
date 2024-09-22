@@ -1,38 +1,38 @@
 {
   "id": "3OpXEYnkpqSBaJjFWGeJxy",
   "name": "Amine",
-  "followers": 47040,
-  "monthlyListeners": 446936,
+  "followers": 47114,
+  "monthlyListeners": 445340,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 68835,
+        "numberOfListeners": 68941,
         "region": "IDF"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 16198,
+        "numberOfListeners": 16157,
         "region": "ARA"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 12059,
+        "numberOfListeners": 12134,
         "region": "HDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 11392,
+        "numberOfListeners": 11444,
         "region": "BRU"
       },
       {
         "city": "Marseille",
         "country": "FR",
-        "numberOfListeners": 10549,
+        "numberOfListeners": 10436,
         "region": "PAC"
       }
     ]

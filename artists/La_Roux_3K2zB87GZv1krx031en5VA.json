@@ -1,38 +1,38 @@
 {
   "id": "3K2zB87GZv1krx031en5VA",
   "name": "La Roux",
-  "followers": 653945,
-  "monthlyListeners": 7267918,
+  "followers": 654025,
+  "monthlyListeners": 7211994,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 209921,
+        "numberOfListeners": 208354,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 146202,
+        "numberOfListeners": 145607,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 125993,
+        "numberOfListeners": 125244,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 102191,
+        "numberOfListeners": 101624,
         "region": "QLD"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 82604,
+        "numberOfListeners": 82119,
         "region": "L"
       }
     ]

@@ -2,13 +2,13 @@
   "id": "24fugYvvI7Tckcutl3YqKM",
   "name": "Krispel",
   "followers": 43041,
-  "monthlyListeners": 56902,
+  "monthlyListeners": 56938,
   "topCities": {
     "items": [
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 741,
+        "numberOfListeners": 745,
         "region": "QC"
       },
       {
@@ -20,19 +20,19 @@
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 733,
+        "numberOfListeners": 738,
         "region": "ON"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 686,
+        "numberOfListeners": 689,
         "region": "IL"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 625,
+        "numberOfListeners": 628,
         "region": "QLD"
       }
     ]

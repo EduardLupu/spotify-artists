@@ -1,41 +1,41 @@
 {
   "id": "2qxJFvFYMEDqd7ui6kSAcq",
   "name": "Zedd",
-  "followers": 5955769,
-  "monthlyListeners": 16708014,
+  "followers": 5956231,
+  "monthlyListeners": 16697065,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 387961,
+        "numberOfListeners": 389136,
         "region": "JK"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 241504,
+        "numberOfListeners": 241638,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 199798,
+        "numberOfListeners": 199818,
         "region": "VIC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 195285,
+        "numberOfListeners": 194895,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 180599,
+        "numberOfListeners": 181067,
         "region": "NY"
       }
     ]
   },
-  "worldRank": 483
+  "worldRank": 482
 }

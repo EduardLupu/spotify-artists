@@ -1,33 +1,33 @@
 {
   "id": "4RJp5vwsYgFszM3vVH3I9s",
   "name": "Cochise",
-  "followers": 878,
-  "monthlyListeners": 1453,
+  "followers": 879,
+  "monthlyListeners": 1479,
   "topCities": {
     "items": [
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 177,
+        "numberOfListeners": 179,
         "region": "14"
       },
       {
         "city": "Krakow",
         "country": "PL",
-        "numberOfListeners": 65,
+        "numberOfListeners": 69,
         "region": "12"
-      },
-      {
-        "city": "Wroclaw",
-        "country": "PL",
-        "numberOfListeners": 50,
-        "region": "02"
       },
       {
         "city": "Poznan",
         "country": "PL",
-        "numberOfListeners": 49,
+        "numberOfListeners": 50,
         "region": "30"
+      },
+      {
+        "city": "Wroclaw",
+        "country": "PL",
+        "numberOfListeners": 49,
+        "region": "02"
       },
       {
         "city": "Katowice",

@@ -2,32 +2,32 @@
   "id": "2kSdT9dx2DoufyyXl2klFu",
   "name": "Leon",
   "followers": 193,
-  "monthlyListeners": 1135,
+  "monthlyListeners": 1131,
   "topCities": {
     "items": [
       {
         "city": "Budapest",
         "country": "HU",
-        "numberOfListeners": 699,
+        "numberOfListeners": 695,
         "region": "BU"
       },
       {
         "city": "Bratislava",
         "country": "SK",
-        "numberOfListeners": 25,
+        "numberOfListeners": 24,
         "region": "BL"
-      },
-      {
-        "city": "Vienna",
-        "country": "AT",
-        "numberOfListeners": 15,
-        "region": "9"
       },
       {
         "city": "Székesfehérvár",
         "country": "HU",
-        "numberOfListeners": 14,
+        "numberOfListeners": 15,
         "region": "FE"
+      },
+      {
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 14,
+        "region": "9"
       },
       {
         "city": "Szeged",

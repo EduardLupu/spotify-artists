@@ -1,38 +1,38 @@
 {
   "id": "0rSTXALHu0EKAawPLBdODH",
   "name": "Marisa Monte",
-  "followers": 2227368,
-  "monthlyListeners": 3423532,
+  "followers": 2228437,
+  "monthlyListeners": 3424292,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 547858,
+        "numberOfListeners": 547884,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 281523,
+        "numberOfListeners": 281209,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 169865,
+        "numberOfListeners": 170200,
         "region": "MG"
       },
       {
         "city": "Brasília",
         "country": "BR",
-        "numberOfListeners": 118607,
+        "numberOfListeners": 118644,
         "region": "DF"
       },
       {
         "city": "Salvador",
         "country": "BR",
-        "numberOfListeners": 109902,
+        "numberOfListeners": 109985,
         "region": "BA"
       }
     ]

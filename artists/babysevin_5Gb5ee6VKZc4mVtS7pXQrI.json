@@ -1,39 +1,39 @@
 {
   "id": "5Gb5ee6VKZc4mVtS7pXQrI",
   "name": "babysevin",
-  "followers": 10505,
-  "monthlyListeners": 50623,
+  "followers": 10516,
+  "monthlyListeners": 50580,
   "topCities": {
     "items": [
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 695,
+        "numberOfListeners": 697,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 658,
+        "numberOfListeners": 660,
         "region": "IL"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 632,
+        "numberOfListeners": 621,
         "region": "NY"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 583,
+        "numberOfListeners": 581,
         "region": "PA"
       },
       {
-        "city": "Dallas",
-        "country": "US",
-        "numberOfListeners": 514,
-        "region": "TX"
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 507,
+        "region": "ENG"
       }
     ]
   },

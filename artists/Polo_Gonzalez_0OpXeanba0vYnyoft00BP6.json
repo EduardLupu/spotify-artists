@@ -1,39 +1,39 @@
 {
   "id": "0OpXeanba0vYnyoft00BP6",
   "name": "Polo Gonzalez",
-  "followers": 716843,
-  "monthlyListeners": 4505541,
+  "followers": 717202,
+  "monthlyListeners": 4484305,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 261142,
+        "numberOfListeners": 259143,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 194892,
+        "numberOfListeners": 193798,
         "region": "JAL"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 131565,
+        "numberOfListeners": 130213,
         "region": "QUE"
-      },
-      {
-        "city": "Puebla City",
-        "country": "MX",
-        "numberOfListeners": 122410,
-        "region": "PUE"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 121006,
+        "numberOfListeners": 123584,
         "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 120582,
+        "region": "PUE"
       }
     ]
   },

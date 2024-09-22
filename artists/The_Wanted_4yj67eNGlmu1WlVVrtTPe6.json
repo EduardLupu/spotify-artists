@@ -2,26 +2,14 @@
   "id": "4yj67eNGlmu1WlVVrtTPe6",
   "name": "The Wanted",
   "followers": 178,
-  "monthlyListeners": 92,
+  "monthlyListeners": 93,
   "topCities": {
     "items": [
-      {
-        "city": "Oslo",
-        "country": "NO",
-        "numberOfListeners": 2,
-        "region": "03"
-      },
       {
         "city": "Las Vegas",
         "country": "US",
         "numberOfListeners": 2,
         "region": "NV"
-      },
-      {
-        "city": "Minneapolis",
-        "country": "US",
-        "numberOfListeners": 2,
-        "region": "MN"
       },
       {
         "city": "New York City",
@@ -30,10 +18,22 @@
         "region": "NY"
       },
       {
+        "city": "Minneapolis",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "MN"
+      },
+      {
         "city": "Brisbane",
         "country": "AU",
         "numberOfListeners": 2,
         "region": "QLD"
+      },
+      {
+        "city": "Oslo",
+        "country": "NO",
+        "numberOfListeners": 2,
+        "region": "03"
       }
     ]
   },

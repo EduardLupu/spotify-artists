@@ -1,38 +1,38 @@
 {
   "id": "1XcbmsczGDkYqrqIy8K89H",
   "name": "Stardust Vibes",
-  "followers": 12783,
-  "monthlyListeners": 522704,
+  "followers": 12793,
+  "monthlyListeners": 521816,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 17275,
+        "numberOfListeners": 17216,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 7403,
+        "numberOfListeners": 7415,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 6456,
+        "numberOfListeners": 6442,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 5744,
+        "numberOfListeners": 5725,
         "region": "ENG"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 5535,
+        "numberOfListeners": 5562,
         "region": "QLD"
       }
     ]

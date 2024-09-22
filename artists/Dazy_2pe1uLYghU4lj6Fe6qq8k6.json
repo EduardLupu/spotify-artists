@@ -2,37 +2,37 @@
   "id": "2pe1uLYghU4lj6Fe6qq8k6",
   "name": "Dazy",
   "followers": 5985,
-  "monthlyListeners": 21294,
+  "monthlyListeners": 21298,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 563,
+        "numberOfListeners": 558,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 507,
+        "numberOfListeners": 504,
         "region": "CA"
-      },
-      {
-        "city": "Brooklyn",
-        "country": "US",
-        "numberOfListeners": 431,
-        "region": "NY"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 426,
+        "numberOfListeners": 434,
+        "region": "NY"
+      },
+      {
+        "city": "Brooklyn",
+        "country": "US",
+        "numberOfListeners": 430,
         "region": "NY"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 392,
+        "numberOfListeners": 388,
         "region": "PA"
       }
     ]

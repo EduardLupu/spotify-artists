@@ -1,0 +1,41 @@
+{
+  "id": "4ChTtsqFN3DEx974Mm8P1j",
+  "name": "Mark Edgar Stuart",
+  "followers": 710,
+  "monthlyListeners": 1013,
+  "topCities": {
+    "items": [
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 67,
+        "region": "18"
+      },
+      {
+        "city": "Memphis",
+        "country": "US",
+        "numberOfListeners": 65,
+        "region": "TN"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 11,
+        "region": "CO"
+      },
+      {
+        "city": "Portland",
+        "country": "US",
+        "numberOfListeners": 10,
+        "region": "OR"
+      },
+      {
+        "city": "Houston",
+        "country": "US",
+        "numberOfListeners": 10,
+        "region": "TX"
+      }
+    ]
+  },
+  "worldRank": 0
+}

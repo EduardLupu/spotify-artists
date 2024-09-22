@@ -1,38 +1,38 @@
 {
   "id": "0ZIwOAzDuGPspzK7yiTc4S",
   "name": "Little Feat",
-  "followers": 463683,
-  "monthlyListeners": 711740,
+  "followers": 463814,
+  "monthlyListeners": 727378,
   "topCities": {
     "items": [
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 13282,
+        "numberOfListeners": 13597,
         "region": "NY"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 12881,
+        "numberOfListeners": 13203,
         "region": "CO"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 12639,
+        "numberOfListeners": 12788,
         "region": "IL"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 10912,
+        "numberOfListeners": 11119,
         "region": "PA"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 10594,
+        "numberOfListeners": 10897,
         "region": "NC"
       }
     ]

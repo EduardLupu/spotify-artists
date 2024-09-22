@@ -1,38 +1,38 @@
 {
   "id": "4QrBoWLm2WNlPdbFhmlaUZ",
   "name": "KEVVO",
-  "followers": 531149,
-  "monthlyListeners": 3006246,
+  "followers": 531513,
+  "monthlyListeners": 2998153,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 258517,
+        "numberOfListeners": 256819,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 126429,
+        "numberOfListeners": 126094,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 95404,
+        "numberOfListeners": 95244,
         "region": "LMA"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 93934,
+        "numberOfListeners": 93621,
         "region": "CMX"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 87719,
+        "numberOfListeners": 87581,
         "region": "C"
       }
     ]

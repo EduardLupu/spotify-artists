@@ -2,25 +2,25 @@
   "id": "4Sh4K0VGQbh4McClIkYkIS",
   "name": "Vali",
   "followers": 10027,
-  "monthlyListeners": 2970,
+  "monthlyListeners": 2976,
   "topCities": {
     "items": [
       {
         "city": "Sofia",
         "country": "BG",
-        "numberOfListeners": 192,
+        "numberOfListeners": 198,
         "region": "22"
       },
       {
         "city": "Tel Aviv",
         "country": "IL",
-        "numberOfListeners": 148,
+        "numberOfListeners": 147,
         "region": "TA"
       },
       {
         "city": "Chennai",
         "country": "IN",
-        "numberOfListeners": 79,
+        "numberOfListeners": 77,
         "region": "TN"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 42,
+        "numberOfListeners": 41,
         "region": "JAL"
       }
     ]

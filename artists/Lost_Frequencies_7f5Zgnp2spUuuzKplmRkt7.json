@@ -1,38 +1,38 @@
 {
   "id": "7f5Zgnp2spUuuzKplmRkt7",
   "name": "Lost Frequencies",
-  "followers": 2898057,
-  "monthlyListeners": 33983153,
+  "followers": 2898663,
+  "monthlyListeners": 33923739,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 706236,
+        "numberOfListeners": 711210,
         "region": "NH"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 523621,
+        "numberOfListeners": 522318,
         "region": "IDF"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 508171,
+        "numberOfListeners": 508276,
         "region": "ZH"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 499328,
+        "numberOfListeners": 495715,
         "region": "ENG"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 484794,
+        "numberOfListeners": 485935,
         "region": "BRU"
       }
     ]

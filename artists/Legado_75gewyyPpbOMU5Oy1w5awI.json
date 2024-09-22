@@ -1,14 +1,14 @@
 {
   "id": "75gewyyPpbOMU5Oy1w5awI",
   "name": "Legado",
-  "followers": 25,
-  "monthlyListeners": 205,
+  "followers": 26,
+  "monthlyListeners": 212,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 125,
+        "numberOfListeners": 127,
         "region": "RM"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Osorno",
         "country": "CL",
-        "numberOfListeners": 8,
+        "numberOfListeners": 9,
         "region": "LL"
       }
     ]

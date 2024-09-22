@@ -1,38 +1,38 @@
 {
   "id": "0nugNBwdWaptgIAsEtx1It",
   "name": "Searows",
-  "followers": 144720,
-  "monthlyListeners": 1411512,
+  "followers": 145114,
+  "monthlyListeners": 1394404,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 21981,
+        "numberOfListeners": 21764,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 17347,
+        "numberOfListeners": 17141,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 17116,
+        "numberOfListeners": 16811,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 16389,
+        "numberOfListeners": 16355,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 16138,
+        "numberOfListeners": 16111,
         "region": "VIC"
       }
     ]

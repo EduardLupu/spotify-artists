@@ -2,13 +2,13 @@
   "id": "3FeHyq8DBoHKvDvpmuQ75W",
   "name": "Beck",
   "followers": 90,
-  "monthlyListeners": 98,
+  "monthlyListeners": 96,
   "topCities": {
     "items": [
       {
         "city": "Athens",
         "country": "GR",
-        "numberOfListeners": 48,
+        "numberOfListeners": 47,
         "region": "I"
       },
       {
@@ -18,10 +18,10 @@
         "region": "B"
       },
       {
-        "city": "Nicosia",
-        "country": "CY",
+        "city": "Volos",
+        "country": "GR",
         "numberOfListeners": 2,
-        "region": "01"
+        "region": "E"
       },
       {
         "city": "Argostoli",

@@ -2,7 +2,7 @@
   "id": "2RTVrz0J9e8RsfBuEm1fS5",
   "name": "RANI",
   "followers": 4,
-  "monthlyListeners": 32,
+  "monthlyListeners": 33,
   "topCities": {
     "items": [
       {
@@ -18,22 +18,22 @@
         "region": "TA"
       },
       {
-        "city": "Düren",
-        "country": "DE",
+        "city": "Chicopee",
+        "country": "US",
         "numberOfListeners": 1,
-        "region": "NW"
+        "region": "MA"
       },
       {
-        "city": "Bergkamen",
-        "country": "DE",
+        "city": "Vancouver",
+        "country": "US",
         "numberOfListeners": 1,
-        "region": "NW"
+        "region": "WA"
       },
       {
-        "city": "Pinneberg",
-        "country": "DE",
+        "city": "Pittsfield",
+        "country": "US",
         "numberOfListeners": 1,
-        "region": "SH"
+        "region": "MA"
       }
     ]
   },

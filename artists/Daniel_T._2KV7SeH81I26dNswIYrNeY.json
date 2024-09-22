@@ -2,38 +2,38 @@
   "id": "2KV7SeH81I26dNswIYrNeY",
   "name": "Daniel T.",
   "followers": 4669,
-  "monthlyListeners": 32693,
+  "monthlyListeners": 32398,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 587,
+        "numberOfListeners": 586,
         "region": "CA"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 582,
+        "numberOfListeners": 586,
         "region": "IDF"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 474,
+        "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 478,
+        "numberOfListeners": 469,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 477,
+        "numberOfListeners": 468,
         "region": "VIC"
-      },
-      {
-        "city": "New York City",
-        "country": "US",
-        "numberOfListeners": 471,
-        "region": "NY"
       }
     ]
   },

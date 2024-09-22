@@ -1,38 +1,38 @@
 {
   "id": "5P46zciG5gm8IALoKTLYGb",
   "name": "Lil Kapow",
-  "followers": 30423,
-  "monthlyListeners": 212333,
+  "followers": 30426,
+  "monthlyListeners": 211517,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 3332,
+        "numberOfListeners": 3328,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 2527,
+        "numberOfListeners": 2512,
         "region": "TX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 2374,
+        "numberOfListeners": 2361,
         "region": "NSW"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 2341,
+        "numberOfListeners": 2344,
         "region": "CO"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 2226,
+        "numberOfListeners": 2247,
         "region": "WA"
       }
     ]

@@ -12,28 +12,28 @@
         "region": "ON"
       },
       {
-        "city": "Dulliken",
-        "country": "CH",
+        "city": "Thunder Bay",
+        "country": "CA",
         "numberOfListeners": 1,
-        "region": "SO"
+        "region": "ON"
       },
       {
-        "city": "Zurich",
-        "country": "CH",
+        "city": "Innisfil",
+        "country": "CA",
         "numberOfListeners": 1,
-        "region": "ZH"
+        "region": "ON"
       },
       {
-        "city": "Oakland",
-        "country": "US",
+        "city": "London",
+        "country": "CA",
         "numberOfListeners": 1,
-        "region": "CA"
+        "region": "ON"
       },
       {
-        "city": "Dallas",
-        "country": "US",
+        "city": "Vancouver",
+        "country": "CA",
         "numberOfListeners": 1,
-        "region": "TX"
+        "region": "BC"
       }
     ]
   },

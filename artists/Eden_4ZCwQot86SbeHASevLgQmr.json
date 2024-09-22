@@ -1,14 +1,14 @@
 {
   "id": "4ZCwQot86SbeHASevLgQmr",
   "name": "Eden",
-  "followers": 674,
-  "monthlyListeners": 184,
+  "followers": 677,
+  "monthlyListeners": 199,
   "topCities": {
     "items": [
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 19,
+        "numberOfListeners": 20,
         "region": "MD"
       },
       {
@@ -24,16 +24,16 @@
         "region": "JAL"
       },
       {
-        "city": "Bilbao",
-        "country": "ES",
-        "numberOfListeners": 4,
-        "region": "PV"
-      },
-      {
         "city": "Barcelona",
         "country": "ES",
-        "numberOfListeners": 4,
+        "numberOfListeners": 5,
         "region": "CT"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 4,
+        "region": "JAL"
       }
     ]
   },

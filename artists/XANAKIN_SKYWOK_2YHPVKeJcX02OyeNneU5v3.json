@@ -1,39 +1,39 @@
 {
   "id": "2YHPVKeJcX02OyeNneU5v3",
   "name": "XANAKIN SKYWOK",
-  "followers": 121914,
-  "monthlyListeners": 414856,
+  "followers": 121947,
+  "monthlyListeners": 414447,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 5845,
+        "numberOfListeners": 5818,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 4982,
+        "numberOfListeners": 4968,
         "region": "TX"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 4780,
+        "numberOfListeners": 4788,
         "region": "WA"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 4405,
+        "numberOfListeners": 4406,
         "region": "AZ"
       },
       {
-        "city": "Los Angeles",
+        "city": "Denver",
         "country": "US",
-        "numberOfListeners": 4270,
-        "region": "CA"
+        "numberOfListeners": 4251,
+        "region": "CO"
       }
     ]
   },

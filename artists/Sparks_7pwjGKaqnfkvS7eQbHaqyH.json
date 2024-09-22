@@ -1,26 +1,26 @@
 {
   "id": "7pwjGKaqnfkvS7eQbHaqyH",
   "name": "Sparks",
-  "followers": 229936,
-  "monthlyListeners": 412194,
+  "followers": 229998,
+  "monthlyListeners": 412509,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 12758,
+        "numberOfListeners": 12802,
         "region": "ENG"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 7526,
+        "numberOfListeners": 7533,
         "region": "IDF"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 5292,
+        "numberOfListeners": 5306,
         "region": "CA"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 4532,
+        "numberOfListeners": 4548,
         "region": "ENG"
       }
     ]

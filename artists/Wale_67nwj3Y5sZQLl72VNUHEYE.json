@@ -1,38 +1,38 @@
 {
   "id": "67nwj3Y5sZQLl72VNUHEYE",
   "name": "Wale",
-  "followers": 4161241,
-  "monthlyListeners": 6535831,
+  "followers": 4161416,
+  "monthlyListeners": 6539721,
   "topCities": {
     "items": [
       {
         "city": "Lagos",
         "country": "NG",
-        "numberOfListeners": 209096,
+        "numberOfListeners": 208897,
         "region": "LA"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 122672,
+        "numberOfListeners": 123035,
         "region": "CA"
-      },
-      {
-        "city": "Abuja",
-        "country": "NG",
-        "numberOfListeners": 100442,
-        "region": "FC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 100226,
+        "numberOfListeners": 100045,
         "region": "IL"
+      },
+      {
+        "city": "Abuja",
+        "country": "NG",
+        "numberOfListeners": 99632,
+        "region": "FC"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 90848,
+        "numberOfListeners": 91129,
         "region": "TX"
       }
     ]

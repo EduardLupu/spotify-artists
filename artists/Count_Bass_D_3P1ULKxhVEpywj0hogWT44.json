@@ -1,38 +1,38 @@
 {
   "id": "3P1ULKxhVEpywj0hogWT44",
   "name": "Count Bass D",
-  "followers": 39784,
-  "monthlyListeners": 200686,
+  "followers": 39792,
+  "monthlyListeners": 199955,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 3816,
+        "numberOfListeners": 3814,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 3326,
+        "numberOfListeners": 3283,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 3012,
+        "numberOfListeners": 2992,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2676,
+        "numberOfListeners": 2671,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 2617,
+        "numberOfListeners": 2616,
         "region": "NSW"
       }
     ]

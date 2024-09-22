@@ -1,38 +1,38 @@
 {
   "id": "6eU0jV2eEZ8XTM7EmlguK6",
   "name": "Black Pumas",
-  "followers": 1049029,
-  "monthlyListeners": 4480497,
+  "followers": 1049589,
+  "monthlyListeners": 4470644,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 94482,
+        "numberOfListeners": 94092,
         "region": "ENG"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 78242,
+        "numberOfListeners": 78028,
         "region": "IDF"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 73690,
+        "numberOfListeners": 73185,
         "region": "NSW"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 71417,
+        "numberOfListeners": 71567,
         "region": "NH"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 63634,
+        "numberOfListeners": 63372,
         "region": "SP"
       }
     ]

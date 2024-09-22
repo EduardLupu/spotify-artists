@@ -1,38 +1,38 @@
 {
   "id": "7gjAu1qr5C2grXeQFFOGeh",
   "name": "Passion Pit",
-  "followers": 1240269,
-  "monthlyListeners": 2210610,
+  "followers": 1240361,
+  "monthlyListeners": 2206821,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 43896,
+        "numberOfListeners": 43541,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 40447,
+        "numberOfListeners": 40363,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 39162,
+        "numberOfListeners": 39214,
         "region": "NY"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 27744,
+        "numberOfListeners": 27643,
         "region": "PA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 27611,
+        "numberOfListeners": 27563,
         "region": "NSW"
       }
     ]

@@ -1,39 +1,39 @@
 {
   "id": "2UFqwY8A3PLcx8pAkg9g5P",
   "name": "Diego Verdaguer",
-  "followers": 1606711,
-  "monthlyListeners": 5336528,
+  "followers": 1607756,
+  "monthlyListeners": 5327500,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 424368,
+        "numberOfListeners": 421744,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 226443,
+        "numberOfListeners": 225735,
         "region": "JAL"
       },
       {
         "city": "Puebla City",
         "country": "MX",
-        "numberOfListeners": 182061,
+        "numberOfListeners": 179796,
         "region": "PUE"
-      },
-      {
-        "city": "Guatemala City",
-        "country": "GT",
-        "numberOfListeners": 172704,
-        "region": "GU"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 172380,
+        "numberOfListeners": 174771,
         "region": "CMX"
+      },
+      {
+        "city": "Guatemala City",
+        "country": "GT",
+        "numberOfListeners": 166465,
+        "region": "GU"
       }
     ]
   },

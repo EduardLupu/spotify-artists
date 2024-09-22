@@ -1,38 +1,38 @@
 {
   "id": "2UazAtjfzqBF0Nho2awK4z",
   "name": "Stone Temple Pilots",
-  "followers": 3577587,
-  "monthlyListeners": 6268610,
+  "followers": 3578755,
+  "monthlyListeners": 6273770,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 156967,
+        "numberOfListeners": 156236,
         "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 129931,
+        "numberOfListeners": 130691,
         "region": "SP"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 96730,
+        "numberOfListeners": 96272,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 85603,
+        "numberOfListeners": 86338,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 75006,
+        "numberOfListeners": 75468,
         "region": "VIC"
       }
     ]

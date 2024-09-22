@@ -1,38 +1,38 @@
 {
   "id": "6gEzJZrbm0F4ihvE9iXR9z",
   "name": "Péricles",
-  "followers": 2775557,
-  "monthlyListeners": 7008303,
+  "followers": 2778602,
+  "monthlyListeners": 7001154,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 1396892,
+        "numberOfListeners": 1392090,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 683778,
+        "numberOfListeners": 680672,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 343008,
+        "numberOfListeners": 342763,
         "region": "MG"
       },
       {
         "city": "Campinas",
         "country": "BR",
-        "numberOfListeners": 299530,
+        "numberOfListeners": 299365,
         "region": "SP"
       },
       {
         "city": "Porto Alegre",
         "country": "BR",
-        "numberOfListeners": 253292,
+        "numberOfListeners": 254318,
         "region": "RS"
       }
     ]

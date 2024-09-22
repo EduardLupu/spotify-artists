@@ -1,39 +1,39 @@
 {
   "id": "6fMLt27jSiBVuciQOYZGwm",
   "name": "True Story Gee",
-  "followers": 4122,
-  "monthlyListeners": 14197,
+  "followers": 4125,
+  "monthlyListeners": 14157,
   "topCities": {
     "items": [
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 404,
+        "numberOfListeners": 413,
         "region": "GA"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 303,
+        "numberOfListeners": 302,
         "region": "NC"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 301,
+        "numberOfListeners": 297,
         "region": "TX"
-      },
-      {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 257,
-        "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 246,
+        "numberOfListeners": 253,
         "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 250,
+        "region": "IL"
       }
     ]
   },

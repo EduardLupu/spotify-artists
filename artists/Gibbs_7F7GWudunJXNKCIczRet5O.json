@@ -2,25 +2,25 @@
   "id": "7F7GWudunJXNKCIczRet5O",
   "name": "Gibbs",
   "followers": 1150,
-  "monthlyListeners": 99917,
+  "monthlyListeners": 100211,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 1790,
+        "numberOfListeners": 1797,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 1677,
+        "numberOfListeners": 1747,
         "region": "HH"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 1404,
+        "numberOfListeners": 1392,
         "region": "HE"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 1322,
+        "numberOfListeners": 1317,
         "region": "NH"
       }
     ]

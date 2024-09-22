@@ -1,38 +1,38 @@
 {
   "id": "3rt16vhD1OuULlsyxUUWIt",
   "name": "Immolation",
-  "followers": 117654,
-  "monthlyListeners": 64536,
+  "followers": 117712,
+  "monthlyListeners": 64765,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1524,
+        "numberOfListeners": 1503,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 967,
+        "numberOfListeners": 973,
         "region": "DC"
       },
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 715,
+        "numberOfListeners": 719,
         "region": "18"
       },
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 682,
+        "numberOfListeners": 684,
         "region": "14"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 657,
+        "numberOfListeners": 653,
         "region": "SP"
       }
     ]

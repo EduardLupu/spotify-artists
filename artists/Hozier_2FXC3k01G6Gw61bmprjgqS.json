@@ -1,39 +1,39 @@
 {
   "id": "2FXC3k01G6Gw61bmprjgqS",
   "name": "Hozier",
-  "followers": 7830656,
-  "monthlyListeners": 53322105,
+  "followers": 7840643,
+  "monthlyListeners": 53105885,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1008062,
+        "numberOfListeners": 1001455,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 808153,
+        "numberOfListeners": 808644,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 691507,
+        "numberOfListeners": 691367,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 552795,
+        "numberOfListeners": 548991,
         "region": "IL"
       },
       {
-        "city": "São Paulo",
-        "country": "BR",
-        "numberOfListeners": 541638,
-        "region": "SP"
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 540737,
+        "region": "QLD"
       }
     ]
   },

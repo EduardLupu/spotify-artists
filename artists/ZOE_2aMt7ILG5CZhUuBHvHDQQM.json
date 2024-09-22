@@ -1,38 +1,38 @@
 {
   "id": "2aMt7ILG5CZhUuBHvHDQQM",
   "name": "ZOE",
-  "followers": 467,
-  "monthlyListeners": 4480,
+  "followers": 468,
+  "monthlyListeners": 4380,
   "topCities": {
     "items": [
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 735,
+        "numberOfListeners": 718,
         "region": "C"
       },
       {
         "city": "Montevideo",
         "country": "UY",
-        "numberOfListeners": 602,
+        "numberOfListeners": 582,
         "region": "MO"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 482,
+        "numberOfListeners": 470,
         "region": "B"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 256,
+        "numberOfListeners": 255,
         "region": "RM"
       },
       {
         "city": "Córdoba",
         "country": "AR",
-        "numberOfListeners": 168,
+        "numberOfListeners": 163,
         "region": "X"
       }
     ]

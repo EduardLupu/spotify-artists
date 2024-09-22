@@ -1,38 +1,38 @@
 {
   "id": "7mDUXpqtYFG7g9bJsvaZEh",
   "name": "Hatriot",
-  "followers": 11170,
-  "monthlyListeners": 22286,
+  "followers": 11176,
+  "monthlyListeners": 21492,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 446,
+        "numberOfListeners": 430,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 386,
+        "numberOfListeners": 368,
         "region": "RM"
       },
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 313,
+        "numberOfListeners": 300,
         "region": "18"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 289,
+        "numberOfListeners": 282,
         "region": "DC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 237,
+        "numberOfListeners": 229,
         "region": "CMX"
       }
     ]

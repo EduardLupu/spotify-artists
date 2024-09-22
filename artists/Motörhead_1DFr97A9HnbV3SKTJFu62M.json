@@ -1,39 +1,39 @@
 {
   "id": "1DFr97A9HnbV3SKTJFu62M",
   "name": "Motörhead",
-  "followers": 4085395,
+  "followers": 4086587,
   "monthlyListeners": 4319740,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 78283,
+        "numberOfListeners": 77444,
         "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 74879,
+        "numberOfListeners": 74920,
         "region": "SP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 59915,
+        "numberOfListeners": 59798,
         "region": "ENG"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 54626,
+        "numberOfListeners": 54416,
         "region": "CMX"
       },
       {
-        "city": "Bogotá",
-        "country": "CO",
-        "numberOfListeners": 39439,
-        "region": "DC"
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 39471,
+        "region": "VIC"
       }
     ]
   },

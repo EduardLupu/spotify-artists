@@ -2,37 +2,37 @@
   "id": "3yCRo9Kv96l6MZByB5GQL6",
   "name": "Qari",
   "followers": 7911,
-  "monthlyListeners": 15479,
+  "monthlyListeners": 15378,
   "topCities": {
     "items": [
       {
-        "city": "Falkenstein",
-        "country": "DE",
-        "numberOfListeners": 436,
-        "region": "SN"
-      },
-      {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 427,
+        "numberOfListeners": 432,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 276,
+        "numberOfListeners": 272,
         "region": "CA"
+      },
+      {
+        "city": "Falkenstein",
+        "country": "DE",
+        "numberOfListeners": 272,
+        "region": "SN"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 217,
+        "numberOfListeners": 216,
         "region": "TX"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 212,
+        "numberOfListeners": 213,
         "region": "CO"
       }
     ]

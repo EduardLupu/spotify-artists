@@ -1,38 +1,38 @@
 {
   "id": "0pnd3MP2rxAzljR9AqXUJB",
   "name": "Little Big",
-  "followers": 599695,
-  "monthlyListeners": 1112410,
+  "followers": 599813,
+  "monthlyListeners": 1106116,
   "topCities": {
     "items": [
       {
         "city": "Prague",
         "country": "CZ",
-        "numberOfListeners": 24756,
+        "numberOfListeners": 24626,
         "region": "10"
       },
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 19129,
+        "numberOfListeners": 19025,
         "region": "14"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 16783,
+        "numberOfListeners": 16633,
         "region": "BE"
       },
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 15658,
+        "numberOfListeners": 15522,
         "region": "18"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 12828,
+        "numberOfListeners": 13134,
         "region": "HH"
       }
     ]

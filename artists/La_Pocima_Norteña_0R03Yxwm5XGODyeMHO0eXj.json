@@ -1,38 +1,38 @@
 {
   "id": "0R03Yxwm5XGODyeMHO0eXj",
   "name": "La Pocima Norteña",
-  "followers": 201342,
-  "monthlyListeners": 2418941,
+  "followers": 201552,
+  "monthlyListeners": 2402678,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 147993,
+        "numberOfListeners": 146279,
         "region": "CMX"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 109497,
+        "numberOfListeners": 108035,
         "region": "QUE"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 73275,
+        "numberOfListeners": 72789,
         "region": "JAL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 68134,
+        "numberOfListeners": 67731,
         "region": "TX"
       },
       {
         "city": "Monterrey",
         "country": "MX",
-        "numberOfListeners": 67471,
+        "numberOfListeners": 67715,
         "region": "NLE"
       }
     ]

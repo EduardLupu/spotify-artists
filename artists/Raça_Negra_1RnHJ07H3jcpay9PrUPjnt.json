@@ -1,38 +1,38 @@
 {
   "id": "1RnHJ07H3jcpay9PrUPjnt",
   "name": "Raça Negra",
-  "followers": 2371695,
-  "monthlyListeners": 3289168,
+  "followers": 2372648,
+  "monthlyListeners": 3301026,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 525951,
+        "numberOfListeners": 526409,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 202862,
+        "numberOfListeners": 202485,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 161988,
+        "numberOfListeners": 162803,
         "region": "MG"
       },
       {
         "city": "Campinas",
         "country": "BR",
-        "numberOfListeners": 121827,
+        "numberOfListeners": 122140,
         "region": "SP"
       },
       {
         "city": "Porto Alegre",
         "country": "BR",
-        "numberOfListeners": 119990,
+        "numberOfListeners": 121700,
         "region": "RS"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "041iTeoMIwXMlShuQPIVKo",
   "name": "Klangkarussell",
-  "followers": 419347,
-  "monthlyListeners": 3813378,
+  "followers": 419429,
+  "monthlyListeners": 3809285,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 94351,
+        "numberOfListeners": 93973,
         "region": "BE"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 91096,
+        "numberOfListeners": 91061,
         "region": "ENG"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 77727,
+        "numberOfListeners": 78319,
         "region": "NH"
       },
       {
         "city": "Vienna",
         "country": "AT",
-        "numberOfListeners": 64528,
+        "numberOfListeners": 64075,
         "region": "9"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 61291,
+        "numberOfListeners": 61635,
         "region": "NSW"
       }
     ]

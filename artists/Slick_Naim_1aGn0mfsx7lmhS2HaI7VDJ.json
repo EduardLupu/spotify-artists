@@ -2,13 +2,13 @@
   "id": "1aGn0mfsx7lmhS2HaI7VDJ",
   "name": "Slick Naim",
   "followers": 1890,
-  "monthlyListeners": 8120,
+  "monthlyListeners": 8091,
   "topCities": {
     "items": [
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 101,
+        "numberOfListeners": 102,
         "region": "QC"
       },
       {
@@ -18,22 +18,22 @@
         "region": "SN"
       },
       {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 92,
+        "region": "IL"
+      },
+      {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 93,
+        "numberOfListeners": 91,
         "region": "NSW"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 92,
+        "numberOfListeners": 91,
         "region": "ON"
-      },
-      {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 89,
-        "region": "IL"
       }
     ]
   },

@@ -1,26 +1,26 @@
 {
   "id": "4vBr3v1KeNsPfSNeXOaQpD",
   "name": "Madame",
-  "followers": 1995,
-  "monthlyListeners": 1109,
+  "followers": 1996,
+  "monthlyListeners": 1097,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 32,
+        "numberOfListeners": 31,
         "region": "IDF"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 22,
+        "numberOfListeners": 21,
         "region": "CMX"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 21,
+        "numberOfListeners": 20,
         "region": "ON"
       },
       {
@@ -30,10 +30,10 @@
         "region": "CA"
       },
       {
-        "city": "Brooklyn",
-        "country": "US",
+        "city": "Melbourne",
+        "country": "AU",
         "numberOfListeners": 14,
-        "region": "NY"
+        "region": "VIC"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "0uGApGjjFXKwUOAqYBeX7B",
   "name": "Deepend",
-  "followers": 56400,
-  "monthlyListeners": 5389432,
+  "followers": 56423,
+  "monthlyListeners": 5357716,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 94878,
+        "numberOfListeners": 95124,
         "region": "NH"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 82748,
+        "numberOfListeners": 81906,
         "region": "IDF"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 61374,
+        "numberOfListeners": 61307,
         "region": "ZH"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 61090,
+        "numberOfListeners": 60983,
         "region": "BE"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 57550,
+        "numberOfListeners": 57487,
         "region": "MD"
       }
     ]

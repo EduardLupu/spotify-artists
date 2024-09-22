@@ -1,39 +1,39 @@
 {
   "id": "0OTHm6AFLxgeTm0gHNOuWi",
   "name": "De Parranda",
-  "followers": 107066,
-  "monthlyListeners": 2244642,
+  "followers": 107215,
+  "monthlyListeners": 2240254,
   "topCities": {
     "items": [
       {
         "city": "Monterrey",
         "country": "MX",
-        "numberOfListeners": 125822,
+        "numberOfListeners": 126704,
         "region": "NLE"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 114833,
+        "numberOfListeners": 113960,
         "region": "CMX"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 80714,
+        "numberOfListeners": 79893,
         "region": "QUE"
-      },
-      {
-        "city": "Guadalajara",
-        "country": "MX",
-        "numberOfListeners": 66214,
-        "region": "JAL"
       },
       {
         "city": "San Nicolás de los Garza",
         "country": "MX",
-        "numberOfListeners": 63855,
+        "numberOfListeners": 66543,
         "region": "NLE"
+      },
+      {
+        "city": "Guadalajara",
+        "country": "MX",
+        "numberOfListeners": 66046,
+        "region": "JAL"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "1mux8L6xg2Cmrc7k0wQczl",
   "name": "Bacilos",
-  "followers": 1860925,
-  "monthlyListeners": 7049856,
+  "followers": 1861619,
+  "monthlyListeners": 7033203,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 455868,
+        "numberOfListeners": 455740,
         "region": "DC"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 439613,
+        "numberOfListeners": 438241,
         "region": "RM"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 384350,
+        "numberOfListeners": 384141,
         "region": "LMA"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 299121,
+        "numberOfListeners": 297041,
         "region": "CMX"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 166895,
+        "numberOfListeners": 166926,
         "region": "C"
       }
     ]

@@ -1,39 +1,39 @@
 {
   "id": "77AiFEVeAVj2ORpC85QVJs",
   "name": "Steve Aoki",
-  "followers": 3782672,
-  "monthlyListeners": 14680466,
+  "followers": 3782897,
+  "monthlyListeners": 14635840,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 373569,
+        "numberOfListeners": 368912,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 219957,
+        "numberOfListeners": 218253,
         "region": "RM"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 199202,
+        "numberOfListeners": 197904,
         "region": "JAL"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 146437,
+        "numberOfListeners": 146673,
         "region": "C"
       },
       {
-        "city": "Querétaro City",
+        "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 145501,
-        "region": "QUE"
+        "numberOfListeners": 143893,
+        "region": "CMX"
       }
     ]
   },

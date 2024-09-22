@@ -1,41 +1,41 @@
 {
   "id": "4kYSro6naA4h99UJvo89HB",
   "name": "Cardi B",
-  "followers": 24429377,
-  "monthlyListeners": 30405860,
+  "followers": 24434348,
+  "monthlyListeners": 30482594,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 573245,
+        "numberOfListeners": 586017,
         "region": "JK"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 354485,
+        "numberOfListeners": 355113,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 339145,
+        "numberOfListeners": 339236,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 334835,
+        "numberOfListeners": 336893,
         "region": "SP"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 317380,
+        "numberOfListeners": 316430,
         "region": "IL"
       }
     ]
   },
-  "worldRank": 153
+  "worldRank": 152
 }

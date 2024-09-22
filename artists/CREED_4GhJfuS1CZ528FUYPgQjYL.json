@@ -2,13 +2,13 @@
   "id": "4GhJfuS1CZ528FUYPgQjYL",
   "name": "CREED",
   "followers": 61,
-  "monthlyListeners": 96,
+  "monthlyListeners": 93,
   "topCities": {
     "items": [
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 33,
+        "numberOfListeners": 31,
         "region": "25"
       },
       {
@@ -24,13 +24,13 @@
         "region": "45"
       },
       {
-        "city": "Bologna",
+        "city": "Modena",
         "country": "IT",
         "numberOfListeners": 9,
         "region": "45"
       },
       {
-        "city": "Modena",
+        "city": "Bologna",
         "country": "IT",
         "numberOfListeners": 9,
         "region": "45"

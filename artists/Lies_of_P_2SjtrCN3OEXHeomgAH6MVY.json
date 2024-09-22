@@ -1,39 +1,39 @@
 {
   "id": "2SjtrCN3OEXHeomgAH6MVY",
   "name": "Lies of P",
-  "followers": 6331,
-  "monthlyListeners": 102176,
+  "followers": 6346,
+  "monthlyListeners": 102730,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 1977,
+        "numberOfListeners": 1970,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1019,
+        "numberOfListeners": 1008,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 994,
+        "numberOfListeners": 991,
         "region": "CMX"
-      },
-      {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 927,
-        "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 916,
+        "numberOfListeners": 933,
         "region": "CA"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 919,
+        "region": "IL"
       }
     ]
   },

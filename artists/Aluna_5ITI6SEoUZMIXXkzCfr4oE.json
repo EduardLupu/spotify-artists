@@ -1,38 +1,38 @@
 {
   "id": "5ITI6SEoUZMIXXkzCfr4oE",
   "name": "Aluna",
-  "followers": 80192,
-  "monthlyListeners": 3534229,
+  "followers": 80214,
+  "monthlyListeners": 3512776,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 92703,
+        "numberOfListeners": 91969,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 82914,
+        "numberOfListeners": 82721,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 71034,
+        "numberOfListeners": 70714,
         "region": "VIC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 60615,
+        "numberOfListeners": 60433,
         "region": "CA"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 50445,
+        "numberOfListeners": 50451,
         "region": "QLD"
       }
     ]

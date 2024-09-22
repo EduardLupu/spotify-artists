@@ -8,7 +8,7 @@
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 21,
+        "numberOfListeners": 22,
         "region": "SP"
       },
       {
@@ -20,7 +20,7 @@
       {
         "city": "São Bernardo do Campo",
         "country": "BR",
-        "numberOfListeners": 5,
+        "numberOfListeners": 4,
         "region": "SP"
       },
       {
@@ -30,10 +30,10 @@
         "region": "PB"
       },
       {
-        "city": "Guarulhos",
+        "city": "Belém",
         "country": "BR",
         "numberOfListeners": 1,
-        "region": "SP"
+        "region": "PA"
       }
     ]
   },

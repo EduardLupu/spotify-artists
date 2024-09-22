@@ -1,38 +1,38 @@
 {
   "id": "1oEHHBb2Tfb4hmJ8PWJwY8",
   "name": "Jade Arcade",
-  "followers": 2562,
-  "monthlyListeners": 60860,
+  "followers": 2563,
+  "monthlyListeners": 60668,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 963,
+        "numberOfListeners": 956,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 568,
+        "numberOfListeners": 567,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 517,
+        "numberOfListeners": 513,
         "region": "VIC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 479,
+        "numberOfListeners": 476,
         "region": "CMX"
       },
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 473,
+        "numberOfListeners": 471,
         "region": "14"
       }
     ]

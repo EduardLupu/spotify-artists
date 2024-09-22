@@ -1,26 +1,26 @@
 {
   "id": "1UVYxhc5UIS5VLvUXrSo81",
   "name": "Oddko",
-  "followers": 18794,
-  "monthlyListeners": 59713,
+  "followers": 18804,
+  "monthlyListeners": 59563,
   "topCities": {
     "items": [
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 1365,
+        "numberOfListeners": 1359,
         "region": "18"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 817,
+        "numberOfListeners": 820,
         "region": "BE"
       },
       {
         "city": "Prague",
         "country": "CZ",
-        "numberOfListeners": 770,
+        "numberOfListeners": 771,
         "region": "10"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 582,
+        "numberOfListeners": 592,
         "region": "HH"
       }
     ]

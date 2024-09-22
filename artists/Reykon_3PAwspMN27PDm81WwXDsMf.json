@@ -1,38 +1,38 @@
 {
   "id": "3PAwspMN27PDm81WwXDsMf",
   "name": "Reykon",
-  "followers": 3205328,
-  "monthlyListeners": 3046886,
+  "followers": 3205197,
+  "monthlyListeners": 3065363,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 508723,
+        "numberOfListeners": 512756,
         "region": "DC"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 250204,
+        "numberOfListeners": 252475,
         "region": "ANT"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 142685,
+        "numberOfListeners": 143363,
         "region": "LMA"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 132755,
+        "numberOfListeners": 132361,
         "region": "RM"
       },
       {
         "city": "Santiago de Cali",
         "country": "CO",
-        "numberOfListeners": 84050,
+        "numberOfListeners": 84537,
         "region": "VAC"
       }
     ]

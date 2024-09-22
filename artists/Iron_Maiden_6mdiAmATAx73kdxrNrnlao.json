@@ -1,38 +1,38 @@
 {
   "id": "6mdiAmATAx73kdxrNrnlao",
   "name": "Iron Maiden",
-  "followers": 9262500,
-  "monthlyListeners": 7756256,
+  "followers": 9266213,
+  "monthlyListeners": 7766979,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 221054,
+        "numberOfListeners": 220924,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 208532,
+        "numberOfListeners": 206638,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 123434,
+        "numberOfListeners": 123147,
         "region": "CMX"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 106527,
+        "numberOfListeners": 106414,
         "region": "DC"
       },
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 92176,
+        "numberOfListeners": 93213,
         "region": "AB"
       }
     ]

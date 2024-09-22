@@ -1,38 +1,38 @@
 {
   "id": "1wAtSe79kItIb9nf5EhI2Q",
   "name": "Niro",
-  "followers": 1194005,
-  "monthlyListeners": 1921527,
+  "followers": 1194908,
+  "monthlyListeners": 1921146,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 271545,
+        "numberOfListeners": 272449,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 78427,
+        "numberOfListeners": 78668,
         "region": "BRU"
       },
       {
         "city": "Casablanca",
         "country": "MA",
-        "numberOfListeners": 64484,
+        "numberOfListeners": 64113,
         "region": "06"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 62435,
+        "numberOfListeners": 62496,
         "region": "ARA"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 51410,
+        "numberOfListeners": 51856,
         "region": "HDF"
       }
     ]

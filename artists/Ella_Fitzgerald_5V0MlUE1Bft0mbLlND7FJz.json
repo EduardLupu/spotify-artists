@@ -1,38 +1,38 @@
 {
   "id": "5V0MlUE1Bft0mbLlND7FJz",
   "name": "Ella Fitzgerald",
-  "followers": 2529733,
-  "monthlyListeners": 4888194,
+  "followers": 2530283,
+  "monthlyListeners": 4898723,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 60212,
+        "numberOfListeners": 60443,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 55580,
+        "numberOfListeners": 55533,
         "region": "SP"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 48420,
+        "numberOfListeners": 48824,
         "region": "NY"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 48014,
+        "numberOfListeners": 48487,
         "region": "IDF"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 45845,
+        "numberOfListeners": 45834,
         "region": "NSW"
       }
     ]

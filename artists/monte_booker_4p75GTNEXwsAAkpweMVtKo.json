@@ -1,38 +1,38 @@
 {
   "id": "4p75GTNEXwsAAkpweMVtKo",
   "name": "monte booker",
-  "followers": 132028,
-  "monthlyListeners": 720700,
+  "followers": 132037,
+  "monthlyListeners": 719756,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 14776,
+        "numberOfListeners": 14719,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 13643,
+        "numberOfListeners": 13594,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 10810,
+        "numberOfListeners": 10843,
         "region": "NY"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 9652,
+        "numberOfListeners": 9648,
         "region": "GA"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 9204,
+        "numberOfListeners": 9163,
         "region": "TX"
       }
     ]

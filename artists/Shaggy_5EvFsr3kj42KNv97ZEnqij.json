@@ -1,41 +1,41 @@
 {
   "id": "5EvFsr3kj42KNv97ZEnqij",
   "name": "Shaggy",
-  "followers": 2262122,
-  "monthlyListeners": 16979916,
+  "followers": 2262817,
+  "monthlyListeners": 16928972,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 278158,
+        "numberOfListeners": 277725,
         "region": "DC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 224092,
+        "numberOfListeners": 222744,
         "region": "CMX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 213171,
+        "numberOfListeners": 213321,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 206310,
+        "numberOfListeners": 204282,
         "region": "ENG"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 206078,
+        "numberOfListeners": 204249,
         "region": "RM"
       }
     ]
   },
-  "worldRank": 476
+  "worldRank": 478
 }

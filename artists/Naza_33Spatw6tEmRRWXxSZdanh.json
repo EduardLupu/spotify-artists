@@ -2,7 +2,7 @@
   "id": "33Spatw6tEmRRWXxSZdanh",
   "name": "Naza",
   "followers": 295,
-  "monthlyListeners": 236,
+  "monthlyListeners": 237,
   "topCities": {
     "items": [
       {
@@ -24,16 +24,16 @@
         "region": "GS"
       },
       {
-        "city": "Munich",
-        "country": "DE",
-        "numberOfListeners": 3,
-        "region": "BY"
-      },
-      {
         "city": "Bucharest",
         "country": "RO",
         "numberOfListeners": 3,
         "region": "B"
+      },
+      {
+        "city": "Zalaegerszeg",
+        "country": "HU",
+        "numberOfListeners": 3,
+        "region": "ZA"
       }
     ]
   },

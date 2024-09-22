@@ -2,13 +2,13 @@
   "id": "2ISa74g4j79wuLaIUNRoUK",
   "name": "Emmanuel",
   "followers": 133,
-  "monthlyListeners": 122,
+  "monthlyListeners": 126,
   "topCities": {
     "items": [
       {
         "city": "Panama City",
         "country": "PA",
-        "numberOfListeners": 81,
+        "numberOfListeners": 85,
         "region": "8"
       },
       {
@@ -24,16 +24,16 @@
         "region": "CT"
       },
       {
+        "city": "Bogotá",
+        "country": "CO",
+        "numberOfListeners": 2,
+        "region": "DC"
+      },
+      {
         "city": "Santiago de los Caballeros",
         "country": "DO",
         "numberOfListeners": 2,
         "region": "25"
-      },
-      {
-        "city": "Mexico City",
-        "country": "MX",
-        "numberOfListeners": 2,
-        "region": "CMX"
       }
     ]
   },

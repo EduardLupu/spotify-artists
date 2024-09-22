@@ -1,38 +1,38 @@
 {
   "id": "1qto4hHid1P71emI6Fd8xi",
   "name": "Aventura",
-  "followers": 8721003,
-  "monthlyListeners": 20839124,
+  "followers": 8727545,
+  "monthlyListeners": 20767870,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1046483,
+        "numberOfListeners": 1039930,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 931193,
+        "numberOfListeners": 932464,
         "region": "DC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 876212,
+        "numberOfListeners": 867330,
         "region": "CMX"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 690297,
+        "numberOfListeners": 688437,
         "region": "LMA"
       },
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 474181,
+        "numberOfListeners": 460990,
         "region": "GU"
       }
     ]

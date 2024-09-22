@@ -6,34 +6,34 @@
   "topCities": {
     "items": [
       {
-        "city": "Warsaw",
-        "country": "PL",
+        "city": "London",
+        "country": "GB",
         "numberOfListeners": 1,
-        "region": "14"
+        "region": "ENG"
       },
       {
-        "city": "Lviv",
-        "country": "UA",
+        "city": "Tower Hamlets",
+        "country": "GB",
         "numberOfListeners": 1,
-        "region": "46"
+        "region": "ENG"
       },
       {
-        "city": "Barcelona",
-        "country": "ES",
+        "city": "Astoria",
+        "country": "US",
         "numberOfListeners": 1,
-        "region": "CT"
+        "region": "OR"
       },
       {
-        "city": "Lille",
-        "country": "FR",
+        "city": "Frisco",
+        "country": "US",
         "numberOfListeners": 1,
-        "region": "HDF"
+        "region": "TX"
       },
       {
-        "city": "Bangkok",
-        "country": "TH",
+        "city": "Ann Arbor",
+        "country": "US",
         "numberOfListeners": 1,
-        "region": "10"
+        "region": "MI"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "5ypxebeHEIXjMtJb17uJlI",
   "name": "Jet",
-  "followers": 607135,
-  "monthlyListeners": 7727922,
+  "followers": 607484,
+  "monthlyListeners": 7788997,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 237574,
+        "numberOfListeners": 237121,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 215379,
+        "numberOfListeners": 214802,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 182734,
+        "numberOfListeners": 182269,
         "region": "QLD"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 110269,
+        "numberOfListeners": 111210,
         "region": "ENG"
       },
       {
         "city": "Perth",
         "country": "AU",
-        "numberOfListeners": 99877,
+        "numberOfListeners": 99893,
         "region": "WA"
       }
     ]

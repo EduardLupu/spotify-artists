@@ -1,39 +1,39 @@
 {
   "id": "1zNqDE7qDGCsyzJwohVaoX",
   "name": "Anne-Marie",
-  "followers": 12050221,
-  "monthlyListeners": 32795017,
+  "followers": 12051354,
+  "monthlyListeners": 32741773,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 1456943,
+        "numberOfListeners": 1461388,
         "region": "JK"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 431233,
+        "numberOfListeners": 428337,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 357792,
+        "numberOfListeners": 357263,
         "region": "NSW"
-      },
-      {
-        "city": "Melbourne",
-        "country": "AU",
-        "numberOfListeners": 295341,
-        "region": "VIC"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 293452,
+        "numberOfListeners": 295859,
         "region": "NH"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 294655,
+        "region": "VIC"
       }
     ]
   },

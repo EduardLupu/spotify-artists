@@ -2,38 +2,38 @@
   "id": "1FAB3UrAYieEyevyoa3gdn",
   "name": "Alida",
   "followers": 279,
-  "monthlyListeners": 5454,
+  "monthlyListeners": 5342,
   "topCities": {
     "items": [
       {
         "city": "Pristina",
         "country": "XK",
-        "numberOfListeners": 219,
+        "numberOfListeners": 206,
         "region": ""
       },
       {
         "city": "Zurich",
         "country": "CH",
-        "numberOfListeners": 207,
+        "numberOfListeners": 198,
         "region": "ZH"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 142,
+        "numberOfListeners": 143,
         "region": "BY"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 138,
+        "numberOfListeners": 134,
         "region": "HE"
       },
       {
-        "city": "Tirana",
-        "country": "AL",
-        "numberOfListeners": 134,
-        "region": "11"
+        "city": "Vienna",
+        "country": "AT",
+        "numberOfListeners": 127,
+        "region": "9"
       }
     ]
   },

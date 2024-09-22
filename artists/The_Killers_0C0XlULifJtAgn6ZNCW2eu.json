@@ -1,41 +1,41 @@
 {
   "id": "0C0XlULifJtAgn6ZNCW2eu",
   "name": "The Killers",
-  "followers": 7458640,
-  "monthlyListeners": 26511974,
+  "followers": 7460507,
+  "monthlyListeners": 26368662,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 680310,
+        "numberOfListeners": 675118,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 479393,
+        "numberOfListeners": 478535,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 443912,
+        "numberOfListeners": 442770,
         "region": "VIC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 349224,
+        "numberOfListeners": 347203,
         "region": "CMX"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 341926,
+        "numberOfListeners": 340959,
         "region": "QLD"
       }
     ]
   },
-  "worldRank": 195
+  "worldRank": 197
 }

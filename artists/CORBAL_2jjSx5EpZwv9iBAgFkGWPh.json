@@ -1,38 +1,38 @@
 {
   "id": "2jjSx5EpZwv9iBAgFkGWPh",
   "name": "CORBAL",
-  "followers": 26219,
-  "monthlyListeners": 3975131,
+  "followers": 26263,
+  "monthlyListeners": 3980505,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 52377,
+        "numberOfListeners": 52747,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 45959,
+        "numberOfListeners": 45859,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 35573,
+        "numberOfListeners": 35588,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 29668,
+        "numberOfListeners": 29741,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 29464,
+        "numberOfListeners": 29402,
         "region": "ENG"
       }
     ]

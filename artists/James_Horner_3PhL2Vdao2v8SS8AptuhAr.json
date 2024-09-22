@@ -1,38 +1,38 @@
 {
   "id": "3PhL2Vdao2v8SS8AptuhAr",
   "name": "James Horner",
-  "followers": 324212,
-  "monthlyListeners": 2753777,
+  "followers": 324326,
+  "monthlyListeners": 2750300,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 32822,
+        "numberOfListeners": 32745,
         "region": "ENG"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 31587,
+        "numberOfListeners": 31608,
         "region": "IDF"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 29815,
+        "numberOfListeners": 29937,
         "region": "MD"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 25158,
+        "numberOfListeners": 24907,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 24040,
+        "numberOfListeners": 23847,
         "region": "NSW"
       }
     ]

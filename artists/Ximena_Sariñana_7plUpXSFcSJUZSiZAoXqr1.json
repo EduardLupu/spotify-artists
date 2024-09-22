@@ -1,38 +1,38 @@
 {
   "id": "7plUpXSFcSJUZSiZAoXqr1",
   "name": "Ximena Sariñana",
-  "followers": 1551738,
-  "monthlyListeners": 3578651,
+  "followers": 1551835,
+  "monthlyListeners": 3552690,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 380451,
+        "numberOfListeners": 376464,
+        "region": "CMX"
+      },
+      {
+        "city": "Gustavo Adolfo Madero",
+        "country": "MX",
+        "numberOfListeners": 149174,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 149229,
+        "numberOfListeners": 148038,
         "region": "JAL"
-      },
-      {
-        "city": "Gustavo Adolfo Madero",
-        "country": "MX",
-        "numberOfListeners": 148441,
-        "region": "CMX"
       },
       {
         "city": "Puebla City",
         "country": "MX",
-        "numberOfListeners": 130872,
+        "numberOfListeners": 129010,
         "region": "PUE"
       },
       {
         "city": "Iztapalapa",
         "country": "MX",
-        "numberOfListeners": 120467,
+        "numberOfListeners": 116913,
         "region": "CMX"
       }
     ]

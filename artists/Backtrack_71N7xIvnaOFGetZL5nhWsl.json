@@ -1,38 +1,38 @@
 {
   "id": "71N7xIvnaOFGetZL5nhWsl",
   "name": "Backtrack",
-  "followers": 48412,
-  "monthlyListeners": 53174,
+  "followers": 48425,
+  "monthlyListeners": 53369,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1446,
+        "numberOfListeners": 1428,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 883,
+        "numberOfListeners": 885,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 877,
+        "numberOfListeners": 866,
         "region": "IL"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 794,
+        "numberOfListeners": 806,
         "region": "PA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 737,
+        "numberOfListeners": 752,
         "region": "NSW"
       }
     ]

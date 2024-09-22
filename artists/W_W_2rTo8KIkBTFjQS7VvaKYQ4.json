@@ -1,38 +1,38 @@
 {
   "id": "2rTo8KIkBTFjQS7VvaKYQ4",
   "name": "W&W",
-  "followers": 860348,
-  "monthlyListeners": 14413674,
+  "followers": 860482,
+  "monthlyListeners": 14314703,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 256847,
+        "numberOfListeners": 255238,
         "region": "BE"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 247246,
+        "numberOfListeners": 247779,
         "region": "NH"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 240113,
+        "numberOfListeners": 245832,
         "region": "HH"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 209376,
+        "numberOfListeners": 207499,
         "region": "HE"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 185089,
+        "numberOfListeners": 184135,
         "region": "ZH"
       }
     ]

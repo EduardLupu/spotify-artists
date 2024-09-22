@@ -1,38 +1,38 @@
 {
   "id": "66aR9RFCiVYqefIoJaUzKv",
   "name": "CreepP",
-  "followers": 135203,
-  "monthlyListeners": 454083,
+  "followers": 135286,
+  "monthlyListeners": 452569,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 4788,
+        "numberOfListeners": 4773,
         "region": "RM"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 4167,
+        "numberOfListeners": 4149,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 3881,
+        "numberOfListeners": 3864,
         "region": "CA"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 3787,
+        "numberOfListeners": 3745,
         "region": "TX"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 3624,
+        "numberOfListeners": 3615,
         "region": "TX"
       }
     ]

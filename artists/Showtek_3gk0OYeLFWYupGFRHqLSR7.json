@@ -1,38 +1,38 @@
 {
   "id": "3gk0OYeLFWYupGFRHqLSR7",
   "name": "Showtek",
-  "followers": 473392,
-  "monthlyListeners": 4418523,
+  "followers": 473472,
+  "monthlyListeners": 4420351,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 82307,
+        "numberOfListeners": 82116,
         "region": "CMX"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 74449,
+        "numberOfListeners": 75472,
         "region": "NH"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 64123,
+        "numberOfListeners": 64303,
         "region": "NSW"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 61034,
+        "numberOfListeners": 60407,
         "region": "RM"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 57436,
+        "numberOfListeners": 57591,
         "region": "ZH"
       }
     ]

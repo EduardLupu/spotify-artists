@@ -1,41 +1,41 @@
 {
   "id": "31TPClRtHm23RisEBtV3X7",
   "name": "Justin Timberlake",
-  "followers": 14499812,
-  "monthlyListeners": 39043141,
+  "followers": 14504084,
+  "monthlyListeners": 39058343,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 637725,
+        "numberOfListeners": 639574,
         "region": "SP"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 623971,
+        "numberOfListeners": 628021,
         "region": "JK"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 563711,
-        "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 561657,
+        "numberOfListeners": 562657,
         "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 562340,
+        "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 473795,
+        "numberOfListeners": 474520,
         "region": "VIC"
       }
     ]
   },
-  "worldRank": 86
+  "worldRank": 84
 }

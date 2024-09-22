@@ -1,39 +1,39 @@
 {
   "id": "462OdWtVKstcqagYhQOwFB",
   "name": "Puddles Pity Party",
-  "followers": 117260,
-  "monthlyListeners": 171294,
+  "followers": 117339,
+  "monthlyListeners": 171297,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 2422,
+        "numberOfListeners": 2406,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 2328,
+        "numberOfListeners": 2326,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 1757,
+        "numberOfListeners": 1747,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 1721,
+        "numberOfListeners": 1710,
         "region": "VIC"
       },
       {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 1470,
-        "region": "IL"
+        "city": "Istanbul",
+        "country": "TR",
+        "numberOfListeners": 1463,
+        "region": "34"
       }
     ]
   },

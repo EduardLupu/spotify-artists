@@ -1,14 +1,14 @@
 {
   "id": "3IrNp8pf0ugwmIEiGJCRse",
   "name": "Wamen",
-  "followers": 1494,
-  "monthlyListeners": 20100,
+  "followers": 1504,
+  "monthlyListeners": 20184,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 3938,
+        "numberOfListeners": 3959,
         "region": "IDF"
       },
       {
@@ -20,19 +20,19 @@
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 738,
+        "numberOfListeners": 741,
         "region": "BRU"
       },
       {
         "city": "Nantes",
         "country": "FR",
-        "numberOfListeners": 508,
+        "numberOfListeners": 516,
         "region": "PDL"
       },
       {
         "city": "Marseille",
         "country": "FR",
-        "numberOfListeners": 488,
+        "numberOfListeners": 489,
         "region": "PAC"
       }
     ]

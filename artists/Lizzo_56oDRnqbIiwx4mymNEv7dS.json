@@ -1,38 +1,38 @@
 {
   "id": "56oDRnqbIiwx4mymNEv7dS",
   "name": "Lizzo",
-  "followers": 5721154,
-  "monthlyListeners": 11815940,
+  "followers": 5721104,
+  "monthlyListeners": 11803652,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 216569,
+        "numberOfListeners": 216883,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 202534,
+        "numberOfListeners": 201816,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 184476,
+        "numberOfListeners": 184725,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 142925,
+        "numberOfListeners": 143009,
         "region": "QLD"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 128546,
+        "numberOfListeners": 127869,
         "region": "IL"
       }
     ]

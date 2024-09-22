@@ -1,41 +1,41 @@
 {
   "id": "28gNT5KBp7IjEOQoevXf9N",
   "name": "Camilo",
-  "followers": 19237678,
-  "monthlyListeners": 22674631,
+  "followers": 19241479,
+  "monthlyListeners": 22685865,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 1111966,
+        "numberOfListeners": 1112965,
         "region": "DC"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1024310,
+        "numberOfListeners": 1022121,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1003531,
+        "numberOfListeners": 1000727,
         "region": "CMX"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 876047,
+        "numberOfListeners": 876278,
         "region": "LMA"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 526922,
+        "numberOfListeners": 529497,
         "region": "C"
       }
     ]
   },
-  "worldRank": 280
+  "worldRank": 278
 }

@@ -1,38 +1,38 @@
 {
   "id": "7lgbpVQQtWW0KAn8TriKmX",
   "name": "Dan Durant",
-  "followers": 191,
-  "monthlyListeners": 4052,
+  "followers": 192,
+  "monthlyListeners": 4020,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 103,
+        "numberOfListeners": 96,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 76,
+        "numberOfListeners": 75,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 60,
+        "numberOfListeners": 63,
         "region": "NY"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 57,
+        "numberOfListeners": 56,
         "region": "TX"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 55,
+        "numberOfListeners": 54,
         "region": "VIC"
       }
     ]

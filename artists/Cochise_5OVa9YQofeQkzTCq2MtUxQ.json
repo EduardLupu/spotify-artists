@@ -1,39 +1,39 @@
 {
   "id": "5OVa9YQofeQkzTCq2MtUxQ",
   "name": "Cochise",
-  "followers": 1536,
-  "monthlyListeners": 9034,
+  "followers": 1535,
+  "monthlyListeners": 9031,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 169,
+        "numberOfListeners": 162,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 130,
+        "numberOfListeners": 133,
         "region": "HH"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 106,
+        "numberOfListeners": 103,
         "region": "IDF"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 97,
+        "numberOfListeners": 102,
         "region": "HE"
       },
       {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 83,
-        "region": "IL"
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 84,
+        "region": "BY"
       }
     ]
   },

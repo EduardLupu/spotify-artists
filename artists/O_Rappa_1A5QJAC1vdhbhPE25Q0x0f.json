@@ -1,38 +1,38 @@
 {
   "id": "1A5QJAC1vdhbhPE25Q0x0f",
   "name": "O Rappa",
-  "followers": 3536053,
-  "monthlyListeners": 4134321,
+  "followers": 3536975,
+  "monthlyListeners": 4133702,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 799925,
+        "numberOfListeners": 798780,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 347347,
+        "numberOfListeners": 346084,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 251995,
+        "numberOfListeners": 252060,
         "region": "MG"
       },
       {
         "city": "Campinas",
         "country": "BR",
-        "numberOfListeners": 187383,
+        "numberOfListeners": 187740,
         "region": "SP"
       },
       {
         "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 187302,
+        "numberOfListeners": 187694,
         "region": "PR"
       }
     ]

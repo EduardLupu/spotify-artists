@@ -1,38 +1,38 @@
 {
   "id": "5ea5Ly7r7aR3kaQQteUDmg",
   "name": "Nesty",
-  "followers": 19297,
-  "monthlyListeners": 402573,
+  "followers": 19312,
+  "monthlyListeners": 401326,
   "topCities": {
     "items": [
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 51232,
+        "numberOfListeners": 51340,
         "region": "LMA"
       },
       {
         "city": "Miami",
         "country": "US",
-        "numberOfListeners": 16797,
+        "numberOfListeners": 16667,
         "region": "FL"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 12516,
+        "numberOfListeners": 12533,
         "region": "DC"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 11094,
+        "numberOfListeners": 10912,
         "region": "RM"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 9972,
+        "numberOfListeners": 9992,
         "region": "MD"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "2Tz1DTzVJ5Gyh8ZwVr6ekU",
   "name": "STRFKR",
-  "followers": 462158,
-  "monthlyListeners": 1762114,
+  "followers": 462273,
+  "monthlyListeners": 1768035,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 42503,
+        "numberOfListeners": 42505,
         "region": "CA"
-      },
-      {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 33881,
-        "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 33735,
+        "numberOfListeners": 34005,
         "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 33928,
+        "region": "IL"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 30858,
+        "numberOfListeners": 30843,
         "region": "CO"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 30410,
+        "numberOfListeners": 30503,
         "region": "WA"
       }
     ]

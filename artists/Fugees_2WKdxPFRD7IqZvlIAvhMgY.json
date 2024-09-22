@@ -1,38 +1,38 @@
 {
   "id": "2WKdxPFRD7IqZvlIAvhMgY",
   "name": "Fugees",
-  "followers": 1460977,
-  "monthlyListeners": 8541755,
+  "followers": 1461565,
+  "monthlyListeners": 8530962,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 162049,
+        "numberOfListeners": 161764,
         "region": "SP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 140243,
+        "numberOfListeners": 139647,
         "region": "ENG"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 128532,
+        "numberOfListeners": 127413,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 111834,
+        "numberOfListeners": 111809,
         "region": "NSW"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 95392,
+        "numberOfListeners": 95588,
         "region": "IDF"
       }
     ]

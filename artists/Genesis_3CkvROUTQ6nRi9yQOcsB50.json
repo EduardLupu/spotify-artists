@@ -1,38 +1,38 @@
 {
   "id": "3CkvROUTQ6nRi9yQOcsB50",
   "name": "Genesis",
-  "followers": 3442431,
-  "monthlyListeners": 6327540,
+  "followers": 3443288,
+  "monthlyListeners": 6309324,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 105861,
+        "numberOfListeners": 105339,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 94053,
+        "numberOfListeners": 93504,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 78694,
+        "numberOfListeners": 78651,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 74207,
+        "numberOfListeners": 74135,
         "region": "NSW"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 72980,
+        "numberOfListeners": 73289,
         "region": "NH"
       }
     ]

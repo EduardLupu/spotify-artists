@@ -1,38 +1,38 @@
 {
   "id": "4ZYjW9vY2BTk1er3xomkwI",
   "name": "M",
-  "followers": 7943,
-  "monthlyListeners": 302968,
+  "followers": 7971,
+  "monthlyListeners": 303245,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 7480,
+        "numberOfListeners": 7440,
         "region": "ENG"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 5602,
+        "numberOfListeners": 5556,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 4575,
+        "numberOfListeners": 4584,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 4242,
+        "numberOfListeners": 4237,
         "region": "VIC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 3295,
+        "numberOfListeners": 3283,
         "region": "CA"
       }
     ]

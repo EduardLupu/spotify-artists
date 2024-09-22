@@ -1,39 +1,39 @@
 {
   "id": "4xXCRXOfQKQ2gjWxNhNzYW",
   "name": "Air Supply",
-  "followers": 4545732,
-  "monthlyListeners": 7458877,
+  "followers": 4547938,
+  "monthlyListeners": 7459731,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 325938,
+        "numberOfListeners": 329286,
         "region": "JK"
       },
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 247131,
+        "numberOfListeners": 248632,
         "region": "00"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 150270,
+        "numberOfListeners": 150349,
         "region": "SP"
       },
       {
         "city": "Manila",
         "country": "PH",
-        "numberOfListeners": 147643,
+        "numberOfListeners": 147680,
         "region": "00"
       },
       {
-        "city": "Santiago",
-        "country": "CL",
-        "numberOfListeners": 125935,
-        "region": "RM"
+        "city": "Davao City",
+        "country": "PH",
+        "numberOfListeners": 125815,
+        "region": "11"
       }
     ]
   },

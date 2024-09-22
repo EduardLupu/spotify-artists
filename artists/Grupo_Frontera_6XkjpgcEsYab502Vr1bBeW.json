@@ -1,41 +1,41 @@
 {
   "id": "6XkjpgcEsYab502Vr1bBeW",
   "name": "Grupo Frontera",
-  "followers": 4878446,
-  "monthlyListeners": 32539543,
+  "followers": 4885359,
+  "monthlyListeners": 32576492,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 2194461,
+        "numberOfListeners": 2189862,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 1151000,
+        "numberOfListeners": 1151775,
         "region": "JAL"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1138441,
+        "numberOfListeners": 1139335,
         "region": "RM"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 957677,
+        "numberOfListeners": 977521,
         "region": "CMX"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 940236,
+        "numberOfListeners": 940423,
         "region": "DC"
       }
     ]
   },
-  "worldRank": 133
+  "worldRank": 132
 }

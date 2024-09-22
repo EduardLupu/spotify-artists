@@ -1,38 +1,38 @@
 {
   "id": "3Ker27Wbb9OcUHGs54JIAz",
   "name": "Los Panchos",
-  "followers": 906467,
-  "monthlyListeners": 3537172,
+  "followers": 906889,
+  "monthlyListeners": 3528253,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 215763,
+        "numberOfListeners": 214721,
         "region": "CMX"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 113912,
+        "numberOfListeners": 113759,
         "region": "DC"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 109259,
+        "numberOfListeners": 109092,
         "region": "RM"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 95997,
+        "numberOfListeners": 96776,
         "region": "CMX"
       },
       {
         "city": "Puebla City",
         "country": "MX",
-        "numberOfListeners": 88276,
+        "numberOfListeners": 87261,
         "region": "PUE"
       }
     ]

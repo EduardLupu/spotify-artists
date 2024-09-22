@@ -1,39 +1,39 @@
 {
   "id": "6f4XkbvYlXMH0QgVRzW0sM",
   "name": "Waka Flocka Flame",
-  "followers": 2694868,
-  "monthlyListeners": 5859798,
+  "followers": 2695343,
+  "monthlyListeners": 5811178,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 137194,
+        "numberOfListeners": 135579,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 103604,
+        "numberOfListeners": 102952,
         "region": "TX"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 102797,
+        "numberOfListeners": 102244,
         "region": "NC"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 94419,
+        "numberOfListeners": 93984,
         "region": "GA"
       },
       {
-        "city": "Los Angeles",
+        "city": "Houston",
         "country": "US",
-        "numberOfListeners": 81847,
-        "region": "CA"
+        "numberOfListeners": 81159,
+        "region": "TX"
       }
     ]
   },

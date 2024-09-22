@@ -1,39 +1,39 @@
 {
   "id": "2iK8weavvfS2xJCmzNzNE5",
   "name": "J-AX",
-  "followers": 2047099,
-  "monthlyListeners": 1164364,
+  "followers": 2047089,
+  "monthlyListeners": 1157134,
   "topCities": {
     "items": [
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 223064,
+        "numberOfListeners": 223153,
         "region": "25"
       },
       {
         "city": "Rome",
         "country": "IT",
-        "numberOfListeners": 83700,
+        "numberOfListeners": 83659,
         "region": "62"
       },
       {
         "city": "Turin",
         "country": "IT",
-        "numberOfListeners": 31898,
+        "numberOfListeners": 32135,
         "region": "21"
-      },
-      {
-        "city": "Naples",
-        "country": "IT",
-        "numberOfListeners": 23918,
-        "region": "72"
       },
       {
         "city": "Florence",
         "country": "IT",
-        "numberOfListeners": 23651,
+        "numberOfListeners": 23722,
         "region": "52"
+      },
+      {
+        "city": "Naples",
+        "country": "IT",
+        "numberOfListeners": 23711,
+        "region": "72"
       }
     ]
   },

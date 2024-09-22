@@ -1,38 +1,38 @@
 {
   "id": "3pVwxAFs0fr8ZXgEA7Uzro",
   "name": "Son del Cusco",
-  "followers": 7391,
-  "monthlyListeners": 28869,
+  "followers": 7394,
+  "monthlyListeners": 28753,
   "topCities": {
     "items": [
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 15184,
+        "numberOfListeners": 15117,
         "region": "LMA"
       },
       {
         "city": "Arequipa",
         "country": "PE",
-        "numberOfListeners": 2627,
+        "numberOfListeners": 2653,
         "region": "ARE"
       },
       {
         "city": "Cusco",
         "country": "PE",
-        "numberOfListeners": 2295,
+        "numberOfListeners": 2297,
         "region": "CUS"
       },
       {
         "city": "Trujillo",
         "country": "PE",
-        "numberOfListeners": 1140,
+        "numberOfListeners": 1132,
         "region": "LAL"
       },
       {
         "city": "Huancayo",
         "country": "PE",
-        "numberOfListeners": 346,
+        "numberOfListeners": 344,
         "region": "JUN"
       }
     ]

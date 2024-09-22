@@ -1,38 +1,38 @@
 {
   "id": "4cSobXLXhJMHYUZvBMuQFG",
   "name": "3Breezy",
-  "followers": 174413,
-  "monthlyListeners": 264282,
+  "followers": 174472,
+  "monthlyListeners": 263439,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 6020,
+        "numberOfListeners": 6004,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 4702,
+        "numberOfListeners": 4679,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 4632,
+        "numberOfListeners": 4591,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 4588,
+        "numberOfListeners": 4554,
         "region": "IL"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 4086,
+        "numberOfListeners": 4075,
         "region": "QLD"
       }
     ]

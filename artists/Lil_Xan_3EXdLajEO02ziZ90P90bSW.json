@@ -1,38 +1,38 @@
 {
   "id": "3EXdLajEO02ziZ90P90bSW",
   "name": "Lil Xan",
-  "followers": 2333750,
-  "monthlyListeners": 1441256,
+  "followers": 2333788,
+  "monthlyListeners": 1445638,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 21246,
+        "numberOfListeners": 21221,
         "region": "CMX"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 16761,
+        "numberOfListeners": 16768,
         "region": "IL"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 16107,
+        "numberOfListeners": 15931,
         "region": "RM"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 15339,
+        "numberOfListeners": 15414,
         "region": "AZ"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 14236,
+        "numberOfListeners": 14300,
         "region": "CA"
       }
     ]

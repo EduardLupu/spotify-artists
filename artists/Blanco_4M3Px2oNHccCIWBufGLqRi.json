@@ -1,20 +1,20 @@
 {
   "id": "4M3Px2oNHccCIWBufGLqRi",
   "name": "Blanco",
-  "followers": 746,
-  "monthlyListeners": 4246,
+  "followers": 748,
+  "monthlyListeners": 4259,
   "topCities": {
     "items": [
       {
         "city": "Athens",
         "country": "GR",
-        "numberOfListeners": 1327,
+        "numberOfListeners": 1351,
         "region": "I"
       },
       {
         "city": "Thessaloniki",
         "country": "GR",
-        "numberOfListeners": 477,
+        "numberOfListeners": 465,
         "region": "B"
       },
       {
@@ -26,14 +26,14 @@
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 79,
+        "numberOfListeners": 77,
         "region": "VIC"
       },
       {
-        "city": "Frankfurt am Main",
-        "country": "DE",
+        "city": "Pátrai",
+        "country": "GR",
         "numberOfListeners": 71,
-        "region": "HE"
+        "region": "G"
       }
     ]
   },

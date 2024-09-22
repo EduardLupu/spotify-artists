@@ -1,38 +1,38 @@
 {
   "id": "6eEsIl4wosvhuWI0mfXxAF",
   "name": "Rare Earth",
-  "followers": 183238,
-  "monthlyListeners": 259113,
+  "followers": 183263,
+  "monthlyListeners": 258658,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 16675,
+        "numberOfListeners": 16611,
         "region": "RM"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 3456,
+        "numberOfListeners": 3406,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 2600,
+        "numberOfListeners": 2597,
         "region": "CA"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 2522,
+        "numberOfListeners": 2499,
         "region": "ON"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 2235,
+        "numberOfListeners": 2250,
         "region": "NY"
       }
     ]

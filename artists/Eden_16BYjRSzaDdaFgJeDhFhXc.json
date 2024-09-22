@@ -12,28 +12,28 @@
         "region": "GP"
       },
       {
-        "city": "Tokyo",
-        "country": "JP",
+        "city": "Karlsruhe",
+        "country": "DE",
         "numberOfListeners": 1,
-        "region": "13"
+        "region": "BW"
       },
       {
-        "city": "Nakano",
-        "country": "JP",
+        "city": "Pelotas",
+        "country": "BR",
         "numberOfListeners": 1,
-        "region": "13"
+        "region": "RS"
       },
       {
-        "city": "Nagasaki",
-        "country": "JP",
+        "city": "Viçosa",
+        "country": "BR",
         "numberOfListeners": 1,
-        "region": "42"
+        "region": "MG"
       },
       {
-        "city": "Nakanobu",
-        "country": "JP",
+        "city": "São Paulo",
+        "country": "BR",
         "numberOfListeners": 1,
-        "region": "13"
+        "region": "SP"
       }
     ]
   },

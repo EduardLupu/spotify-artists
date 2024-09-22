@@ -1,38 +1,38 @@
 {
   "id": "4poEkjaxqkuIx3lidcIO0m",
   "name": "YG",
-  "followers": 2030,
-  "monthlyListeners": 50221,
+  "followers": 2032,
+  "monthlyListeners": 50082,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 4237,
+        "numberOfListeners": 4224,
         "region": "CA"
       },
       {
         "city": "Sacramento",
         "country": "US",
-        "numberOfListeners": 1428,
+        "numberOfListeners": 1402,
         "region": "CA"
       },
       {
         "city": "San Diego",
         "country": "US",
-        "numberOfListeners": 1085,
+        "numberOfListeners": 1098,
         "region": "CA"
       },
       {
         "city": "San Francisco",
         "country": "US",
-        "numberOfListeners": 1080,
+        "numberOfListeners": 1073,
         "region": "CA"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 1066,
+        "numberOfListeners": 1056,
         "region": "AZ"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "20sxb77xiYeusSH8cVdatc",
   "name": "Meek Mill",
-  "followers": 7948206,
-  "monthlyListeners": 12174865,
+  "followers": 7949346,
+  "monthlyListeners": 12217221,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 208316,
+        "numberOfListeners": 208544,
         "region": "ENG"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 190786,
+        "numberOfListeners": 191602,
         "region": "PA"
-      },
-      {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 187808,
-        "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 186405,
+        "numberOfListeners": 188343,
         "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 187831,
+        "region": "IL"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 180641,
+        "numberOfListeners": 181462,
         "region": "ON"
       }
     ]

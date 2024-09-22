@@ -1,38 +1,38 @@
 {
   "id": "5Lhxlge1CR1DrgDAje8Qaw",
   "name": "NoMBe",
-  "followers": 214451,
-  "monthlyListeners": 2145567,
+  "followers": 214476,
+  "monthlyListeners": 2154020,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 39054,
+        "numberOfListeners": 39353,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 32704,
+        "numberOfListeners": 32940,
         "region": "NSW"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 31411,
+        "numberOfListeners": 31469,
         "region": "CO"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 24898,
+        "numberOfListeners": 24835,
         "region": "CMX"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 24425,
+        "numberOfListeners": 24522,
         "region": "VIC"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "7DICBAYiaIMh5MulqwCtET",
   "name": "AK",
-  "followers": 152804,
-  "monthlyListeners": 301548,
+  "followers": 152836,
+  "monthlyListeners": 301997,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 4157,
+        "numberOfListeners": 4143,
         "region": "IL"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 3773,
+        "numberOfListeners": 3808,
         "region": "CO"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 3527,
+        "numberOfListeners": 3533,
         "region": "WA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 3514,
+        "numberOfListeners": 3518,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 3392,
+        "numberOfListeners": 3425,
         "region": "ENG"
       }
     ]

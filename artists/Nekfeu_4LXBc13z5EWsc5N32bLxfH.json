@@ -1,38 +1,38 @@
 {
   "id": "4LXBc13z5EWsc5N32bLxfH",
   "name": "Nekfeu",
-  "followers": 2781432,
-  "monthlyListeners": 2971077,
+  "followers": 2782264,
+  "monthlyListeners": 2966902,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 615318,
+        "numberOfListeners": 616104,
         "region": "IDF"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 139470,
+        "numberOfListeners": 139259,
         "region": "ARA"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 137256,
+        "numberOfListeners": 137446,
         "region": "BRU"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 109737,
+        "numberOfListeners": 110528,
         "region": "HDF"
       },
       {
         "city": "Bordeaux",
         "country": "FR",
-        "numberOfListeners": 96647,
+        "numberOfListeners": 95235,
         "region": "NAQ"
       }
     ]

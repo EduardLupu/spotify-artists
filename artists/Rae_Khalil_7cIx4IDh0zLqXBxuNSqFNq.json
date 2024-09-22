@@ -1,39 +1,39 @@
 {
   "id": "7cIx4IDh0zLqXBxuNSqFNq",
   "name": "Rae Khalil",
-  "followers": 56413,
-  "monthlyListeners": 956901,
+  "followers": 56520,
+  "monthlyListeners": 961705,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 22241,
+        "numberOfListeners": 22315,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 18887,
+        "numberOfListeners": 18964,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 15848,
+        "numberOfListeners": 15891,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 14837,
+        "numberOfListeners": 14838,
         "region": "IL"
       },
       {
-        "city": "Brooklyn",
-        "country": "US",
-        "numberOfListeners": 14046,
-        "region": "NY"
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 14087,
+        "region": "NSW"
       }
     ]
   },

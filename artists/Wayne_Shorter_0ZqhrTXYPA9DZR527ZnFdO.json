@@ -1,39 +1,39 @@
 {
   "id": "0ZqhrTXYPA9DZR527ZnFdO",
   "name": "Wayne Shorter",
-  "followers": 229529,
-  "monthlyListeners": 459921,
+  "followers": 229562,
+  "monthlyListeners": 460133,
   "topCities": {
     "items": [
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 6249,
+        "numberOfListeners": 6299,
         "region": "NY"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 5816,
+        "numberOfListeners": 5779,
         "region": "SP"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 5131,
+        "numberOfListeners": 5149,
         "region": "CA"
-      },
-      {
-        "city": "Santiago",
-        "country": "CL",
-        "numberOfListeners": 4854,
-        "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 4835,
+        "numberOfListeners": 4815,
         "region": "ENG"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 4810,
+        "region": "RM"
       }
     ]
   },

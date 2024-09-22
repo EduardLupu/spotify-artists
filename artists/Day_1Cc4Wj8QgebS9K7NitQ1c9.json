@@ -1,38 +1,38 @@
 {
   "id": "1Cc4Wj8QgebS9K7NitQ1c9",
   "name": "Day",
-  "followers": 5530,
-  "monthlyListeners": 6682,
+  "followers": 5533,
+  "monthlyListeners": 6724,
   "topCities": {
     "items": [
       {
         "city": "Budapest",
         "country": "HU",
-        "numberOfListeners": 4491,
+        "numberOfListeners": 4523,
         "region": "BU"
       },
       {
         "city": "Bratislava",
         "country": "SK",
-        "numberOfListeners": 130,
+        "numberOfListeners": 134,
         "region": "BL"
       },
       {
         "city": "Vienna",
         "country": "AT",
-        "numberOfListeners": 107,
+        "numberOfListeners": 104,
         "region": "9"
       },
       {
         "city": "Győr",
         "country": "HU",
-        "numberOfListeners": 84,
+        "numberOfListeners": 85,
         "region": "GS"
       },
       {
         "city": "Debrecen",
         "country": "HU",
-        "numberOfListeners": 72,
+        "numberOfListeners": 70,
         "region": "HB"
       }
     ]

@@ -1,39 +1,39 @@
 {
   "id": "5JqX1glXPg6428ubI1w72i",
   "name": "The Dresden Dolls",
-  "followers": 249004,
-  "monthlyListeners": 1498965,
+  "followers": 249264,
+  "monthlyListeners": 1497571,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 16135,
+        "numberOfListeners": 16113,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 13472,
+        "numberOfListeners": 13424,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 13149,
+        "numberOfListeners": 13104,
         "region": "IL"
       },
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 11713,
+        "numberOfListeners": 11747,
         "region": "14"
       },
       {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 11526,
-        "region": "NSW"
+        "city": "Los Angeles",
+        "country": "US",
+        "numberOfListeners": 11559,
+        "region": "CA"
       }
     ]
   },

@@ -1,41 +1,41 @@
 {
   "id": "4F84IBURUo98rz4r61KF70",
   "name": "The White Stripes",
-  "followers": 3202212,
-  "monthlyListeners": 16588102,
+  "followers": 3203311,
+  "monthlyListeners": 16545502,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 228635,
+        "numberOfListeners": 227148,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 212424,
+        "numberOfListeners": 211554,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 210937,
+        "numberOfListeners": 210539,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 195360,
+        "numberOfListeners": 194855,
         "region": "VIC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 174100,
+        "numberOfListeners": 172954,
         "region": "CMX"
       }
     ]
   },
-  "worldRank": 489
+  "worldRank": 491
 }

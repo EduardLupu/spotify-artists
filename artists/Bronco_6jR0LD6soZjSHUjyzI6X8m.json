@@ -2,7 +2,7 @@
   "id": "6jR0LD6soZjSHUjyzI6X8m",
   "name": "Bronco",
   "followers": 587,
-  "monthlyListeners": 104,
+  "monthlyListeners": 105,
   "topCities": {
     "items": [
       {
@@ -10,6 +10,12 @@
         "country": "CH",
         "numberOfListeners": 5,
         "region": "ZH"
+      },
+      {
+        "city": "Mexico City",
+        "country": "MX",
+        "numberOfListeners": 4,
+        "region": "CMX"
       },
       {
         "city": "Charlotte",
@@ -24,16 +30,10 @@
         "region": "9"
       },
       {
-        "city": "Milwaukee",
-        "country": "US",
+        "city": "Iztapalapa",
+        "country": "MX",
         "numberOfListeners": 3,
-        "region": "WI"
-      },
-      {
-        "city": "Dallas",
-        "country": "US",
-        "numberOfListeners": 3,
-        "region": "TX"
+        "region": "CMX"
       }
     ]
   },

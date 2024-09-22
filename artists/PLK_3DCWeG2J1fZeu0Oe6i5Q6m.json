@@ -1,38 +1,38 @@
 {
   "id": "3DCWeG2J1fZeu0Oe6i5Q6m",
   "name": "PLK",
-  "followers": 2078337,
-  "monthlyListeners": 5668422,
+  "followers": 2079952,
+  "monthlyListeners": 5648389,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 1073403,
+        "numberOfListeners": 1070964,
         "region": "IDF"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 250404,
+        "numberOfListeners": 249312,
         "region": "ARA"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 246645,
+        "numberOfListeners": 246899,
         "region": "BRU"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 199864,
+        "numberOfListeners": 200577,
         "region": "HDF"
       },
       {
         "city": "Marseille",
         "country": "FR",
-        "numberOfListeners": 189430,
+        "numberOfListeners": 186571,
         "region": "PAC"
       }
     ]

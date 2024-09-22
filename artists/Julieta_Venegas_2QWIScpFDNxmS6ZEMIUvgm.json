@@ -1,41 +1,41 @@
 {
   "id": "2QWIScpFDNxmS6ZEMIUvgm",
   "name": "Julieta Venegas",
-  "followers": 2506837,
-  "monthlyListeners": 18918674,
+  "followers": 2508983,
+  "monthlyListeners": 18965552,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1113646,
+        "numberOfListeners": 1114369,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 846944,
+        "numberOfListeners": 844049,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 610362,
+        "numberOfListeners": 610993,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 590080,
+        "numberOfListeners": 590821,
         "region": "LMA"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 477546,
+        "numberOfListeners": 478475,
         "region": "JAL"
       }
     ]
   },
-  "worldRank": 400
+  "worldRank": 397
 }

@@ -1,38 +1,38 @@
 {
   "id": "2ycnb8Er79LoH2AsR5ldjh",
   "name": "Pet Shop Boys",
-  "followers": 1895199,
-  "monthlyListeners": 7100728,
+  "followers": 1896115,
+  "monthlyListeners": 7073581,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 192364,
+        "numberOfListeners": 190861,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 142000,
+        "numberOfListeners": 140993,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 134165,
+        "numberOfListeners": 133522,
         "region": "SP"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 121195,
+        "numberOfListeners": 120386,
         "region": "CMX"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 73638,
+        "numberOfListeners": 73539,
         "region": "C"
       }
     ]

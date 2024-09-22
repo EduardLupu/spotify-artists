@@ -2,38 +2,38 @@
   "id": "4VXVu0C94fy1xLwfTTb7fr",
   "name": "MaTa",
   "followers": 350,
-  "monthlyListeners": 2715,
+  "monthlyListeners": 2744,
   "topCities": {
     "items": [
       {
         "city": "San Juan",
         "country": "US",
-        "numberOfListeners": 40,
+        "numberOfListeners": 39,
         "region": "PR"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 37,
+        "numberOfListeners": 38,
         "region": "ENG"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 31,
+        "numberOfListeners": 32,
         "region": "BE"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 30,
+        "region": "VIC"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
         "numberOfListeners": 30,
         "region": "NH"
-      },
-      {
-        "city": "Melbourne",
-        "country": "AU",
-        "numberOfListeners": 28,
-        "region": "VIC"
       }
     ]
   },

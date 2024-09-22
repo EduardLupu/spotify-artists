@@ -1,38 +1,38 @@
 {
   "id": "6Iz3eq2aQGFf7TbGT2iahL",
   "name": "Gabby Barrett",
-  "followers": 363487,
-  "monthlyListeners": 3602908,
+  "followers": 363623,
+  "monthlyListeners": 3585747,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 65732,
+        "numberOfListeners": 65426,
         "region": "NSW"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 56414,
+        "numberOfListeners": 56077,
         "region": "QLD"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 55684,
+        "numberOfListeners": 55256,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 48713,
+        "numberOfListeners": 48690,
         "region": "TX"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 44179,
+        "numberOfListeners": 43905,
         "region": "VIC"
       }
     ]

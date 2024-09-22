@@ -1,38 +1,38 @@
 {
   "id": "2hl0xAkS2AIRAu23TVMBG1",
   "name": "Kansas",
-  "followers": 1617725,
-  "monthlyListeners": 10104123,
+  "followers": 1618503,
+  "monthlyListeners": 10106560,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 217990,
+        "numberOfListeners": 218448,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 172759,
+        "numberOfListeners": 170970,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 124793,
+        "numberOfListeners": 123732,
         "region": "CMX"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 84345,
+        "numberOfListeners": 84178,
         "region": "IL"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 81866,
+        "numberOfListeners": 82042,
         "region": "QC"
       }
     ]

@@ -1,39 +1,39 @@
 {
   "id": "2Hkut4rAAyrQxRdof7FVJq",
   "name": "Rush",
-  "followers": 2360518,
-  "monthlyListeners": 3642344,
+  "followers": 2361085,
+  "monthlyListeners": 3646740,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 69244,
+        "numberOfListeners": 69328,
         "region": "SP"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 65829,
+        "numberOfListeners": 65540,
         "region": "IL"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 62919,
+        "numberOfListeners": 62667,
         "region": "ON"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 45867,
+        "numberOfListeners": 45959,
         "region": "QC"
       },
       {
-        "city": "Santiago",
-        "country": "CL",
-        "numberOfListeners": 45638,
-        "region": "RM"
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 45686,
+        "region": "PA"
       }
     ]
   },

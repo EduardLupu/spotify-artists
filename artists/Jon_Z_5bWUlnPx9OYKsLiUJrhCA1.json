@@ -1,38 +1,38 @@
 {
   "id": "5bWUlnPx9OYKsLiUJrhCA1",
   "name": "Jon Z",
-  "followers": 6372930,
-  "monthlyListeners": 7543969,
+  "followers": 6374418,
+  "monthlyListeners": 7554413,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 491861,
+        "numberOfListeners": 489415,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 411257,
+        "numberOfListeners": 411930,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 274221,
+        "numberOfListeners": 274580,
         "region": "LMA"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 254771,
+        "numberOfListeners": 255092,
         "region": "ANT"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 223555,
+        "numberOfListeners": 223192,
         "region": "CMX"
       }
     ]

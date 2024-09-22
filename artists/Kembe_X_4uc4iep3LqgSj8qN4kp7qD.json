@@ -1,38 +1,38 @@
 {
   "id": "4uc4iep3LqgSj8qN4kp7qD",
   "name": "Kembe X",
-  "followers": 44210,
-  "monthlyListeners": 305656,
+  "followers": 44219,
+  "monthlyListeners": 305676,
   "topCities": {
     "items": [
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 5166,
+        "numberOfListeners": 5192,
         "region": "CO"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 5055,
+        "numberOfListeners": 5021,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 5000,
+        "numberOfListeners": 4959,
         "region": "IL"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 4346,
+        "numberOfListeners": 4317,
         "region": "WA"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 3811,
+        "numberOfListeners": 3832,
         "region": "AZ"
       }
     ]

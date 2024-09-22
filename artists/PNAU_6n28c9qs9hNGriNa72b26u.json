@@ -1,41 +1,41 @@
 {
   "id": "6n28c9qs9hNGriNa72b26u",
   "name": "PNAU",
-  "followers": 240554,
-  "monthlyListeners": 16615348,
+  "followers": 240619,
+  "monthlyListeners": 16554950,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 299769,
+        "numberOfListeners": 300013,
         "region": "NSW"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 272846,
+        "numberOfListeners": 271213,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 246332,
+        "numberOfListeners": 245061,
         "region": "CMX"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 242653,
+        "numberOfListeners": 242668,
         "region": "VIC"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 223921,
+        "numberOfListeners": 222897,
         "region": "SP"
       }
     ]
   },
-  "worldRank": 488
+  "worldRank": 490
 }

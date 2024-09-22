@@ -1,38 +1,38 @@
 {
   "id": "25XJqeReVV38w0tR04GGBd",
   "name": "Mainstreet",
-  "followers": 798852,
-  "monthlyListeners": 7629595,
+  "followers": 799941,
+  "monthlyListeners": 7623999,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 1262984,
+        "numberOfListeners": 1260492,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 798425,
+        "numberOfListeners": 796331,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 404413,
+        "numberOfListeners": 404348,
         "region": "MG"
       },
       {
         "city": "Porto Alegre",
         "country": "BR",
-        "numberOfListeners": 278352,
+        "numberOfListeners": 278762,
         "region": "RS"
       },
       {
         "city": "Campinas",
         "country": "BR",
-        "numberOfListeners": 273714,
+        "numberOfListeners": 273669,
         "region": "SP"
       }
     ]

@@ -2,7 +2,7 @@
   "id": "1LQ8usBp6KRla2fq2gIAAm",
   "name": "Aventura",
   "followers": 336,
-  "monthlyListeners": 32,
+  "monthlyListeners": 33,
   "topCities": {
     "items": [
       {
@@ -30,10 +30,10 @@
         "region": "DF"
       },
       {
-        "city": "Marseille",
-        "country": "FR",
+        "city": "Fortaleza",
+        "country": "BR",
         "numberOfListeners": 1,
-        "region": "PAC"
+        "region": "CE"
       }
     ]
   },

@@ -1,41 +1,41 @@
 {
   "id": "5eumcnUkdmGvkvcsx1WFNG",
   "name": "Tito Double P",
-  "followers": 1459169,
-  "monthlyListeners": 17281646,
+  "followers": 1470394,
+  "monthlyListeners": 17317781,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1588938,
+        "numberOfListeners": 1595034,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 1061494,
+        "numberOfListeners": 1065504,
         "region": "JAL"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 792814,
+        "numberOfListeners": 818678,
         "region": "CMX"
       },
       {
         "city": "Monterrey",
         "country": "MX",
-        "numberOfListeners": 779785,
+        "numberOfListeners": 786974,
         "region": "NLE"
       },
       {
-        "city": "Iztapalapa",
+        "city": "Zapopan",
         "country": "MX",
-        "numberOfListeners": 766305,
-        "region": "CMX"
+        "numberOfListeners": 764140,
+        "region": "JAL"
       }
     ]
   },
-  "worldRank": 465
+  "worldRank": 464
 }

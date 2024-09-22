@@ -1,38 +1,38 @@
 {
   "id": "43rF0ezbI0BApStNet2EWk",
   "name": "Beck",
-  "followers": 90,
-  "monthlyListeners": 13213,
+  "followers": 92,
+  "monthlyListeners": 12452,
   "topCities": {
     "items": [
       {
         "city": "Bangkok",
         "country": "TH",
-        "numberOfListeners": 5081,
+        "numberOfListeners": 4918,
         "region": "10"
       },
       {
         "city": "Ho Chi Minh City",
         "country": "VN",
-        "numberOfListeners": 675,
+        "numberOfListeners": 634,
         "region": "SG"
       },
       {
         "city": "Taipei",
         "country": "TW",
-        "numberOfListeners": 652,
+        "numberOfListeners": 516,
         "region": "TPE"
       },
       {
         "city": "Chiang Mai",
         "country": "TH",
-        "numberOfListeners": 486,
+        "numberOfListeners": 473,
         "region": "50"
       },
       {
         "city": "Hanoi",
         "country": "VN",
-        "numberOfListeners": 470,
+        "numberOfListeners": 446,
         "region": "HN"
       }
     ]

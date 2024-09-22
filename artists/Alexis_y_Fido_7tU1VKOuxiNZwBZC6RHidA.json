@@ -1,38 +1,38 @@
 {
   "id": "7tU1VKOuxiNZwBZC6RHidA",
   "name": "Alexis y Fido",
-  "followers": 5254535,
-  "monthlyListeners": 5359883,
+  "followers": 5254875,
+  "monthlyListeners": 5351177,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 615581,
+        "numberOfListeners": 612483,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 472870,
+        "numberOfListeners": 472610,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 258636,
+        "numberOfListeners": 258285,
         "region": "LMA"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 256954,
+        "numberOfListeners": 257074,
         "region": "ANT"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 154073,
+        "numberOfListeners": 154030,
         "region": "C"
       }
     ]

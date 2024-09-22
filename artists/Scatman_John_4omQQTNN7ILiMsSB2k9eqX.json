@@ -1,38 +1,38 @@
 {
   "id": "4omQQTNN7ILiMsSB2k9eqX",
   "name": "Scatman John",
-  "followers": 172901,
-  "monthlyListeners": 2050716,
+  "followers": 173022,
+  "monthlyListeners": 2046011,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 44980,
+        "numberOfListeners": 44717,
         "region": "RM"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 24253,
+        "numberOfListeners": 24188,
         "region": "BE"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 23814,
+        "numberOfListeners": 23809,
         "region": "SP"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 23450,
+        "numberOfListeners": 23398,
         "region": "CMX"
       },
       {
         "city": "Prague",
         "country": "CZ",
-        "numberOfListeners": 20702,
+        "numberOfListeners": 20534,
         "region": "10"
       }
     ]

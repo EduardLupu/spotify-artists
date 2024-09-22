@@ -6,16 +6,16 @@
   "topCities": {
     "items": [
       {
-        "city": "Paris",
-        "country": "FR",
-        "numberOfListeners": 1,
-        "region": "IDF"
-      },
-      {
         "city": "Lille",
         "country": "FR",
         "numberOfListeners": 1,
         "region": "HDF"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 1,
+        "region": "IDF"
       },
       {
         "city": "Bagneux",

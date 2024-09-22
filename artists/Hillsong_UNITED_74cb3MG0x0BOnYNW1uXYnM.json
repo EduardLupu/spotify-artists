@@ -1,38 +1,38 @@
 {
   "id": "74cb3MG0x0BOnYNW1uXYnM",
   "name": "Hillsong UNITED",
-  "followers": 4032768,
-  "monthlyListeners": 5556947,
+  "followers": 4033488,
+  "monthlyListeners": 5558278,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 91262,
+        "numberOfListeners": 91107,
         "region": "SP"
       },
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 88741,
+        "numberOfListeners": 89383,
         "region": "00"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 77224,
+        "numberOfListeners": 77244,
         "region": "TX"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 69582,
+        "numberOfListeners": 69736,
         "region": "JK"
       },
       {
         "city": "Johannesburg",
         "country": "ZA",
-        "numberOfListeners": 61683,
+        "numberOfListeners": 61687,
         "region": "GP"
       }
     ]

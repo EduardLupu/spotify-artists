@@ -1,41 +1,41 @@
 {
   "id": "3DiDSECUqqY1AuBP8qtaIa",
   "name": "Alicia Keys",
-  "followers": 12061871,
-  "monthlyListeners": 35687518,
+  "followers": 12065027,
+  "monthlyListeners": 35840874,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 746736,
+        "numberOfListeners": 754144,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 662473,
+        "numberOfListeners": 665993,
         "region": "SP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 503327,
+        "numberOfListeners": 504777,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 443068,
+        "numberOfListeners": 445376,
         "region": "NSW"
       },
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 401076,
+        "numberOfListeners": 404371,
         "region": "00"
       }
     ]
   },
-  "worldRank": 111
+  "worldRank": 106
 }

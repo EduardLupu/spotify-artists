@@ -1,41 +1,41 @@
 {
   "id": "6olE6TJLqED3rqDCT0FyPh",
   "name": "Nirvana",
-  "followers": 20266119,
-  "monthlyListeners": 32986103,
+  "followers": 20275218,
+  "monthlyListeners": 32976680,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 560827,
+        "numberOfListeners": 560885,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 464307,
+        "numberOfListeners": 460789,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 454509,
+        "numberOfListeners": 453379,
         "region": "ENG"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 393805,
+        "numberOfListeners": 393463,
         "region": "CMX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 377228,
+        "numberOfListeners": 377335,
         "region": "NSW"
       }
     ]
   },
-  "worldRank": 127
+  "worldRank": 129
 }

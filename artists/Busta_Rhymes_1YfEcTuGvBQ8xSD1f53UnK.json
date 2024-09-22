@@ -1,38 +1,38 @@
 {
   "id": "1YfEcTuGvBQ8xSD1f53UnK",
   "name": "Busta Rhymes",
-  "followers": 2817475,
-  "monthlyListeners": 11308047,
+  "followers": 2818438,
+  "monthlyListeners": 11316634,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 222072,
+        "numberOfListeners": 225641,
         "region": "SP"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 168626,
-        "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 168226,
+        "numberOfListeners": 168635,
         "region": "NSW"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 167995,
+        "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 142252,
+        "numberOfListeners": 142450,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 111243,
+        "numberOfListeners": 111247,
         "region": "QLD"
       }
     ]

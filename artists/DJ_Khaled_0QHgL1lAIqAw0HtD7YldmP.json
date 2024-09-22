@@ -1,41 +1,41 @@
 {
   "id": "0QHgL1lAIqAw0HtD7YldmP",
   "name": "DJ Khaled",
-  "followers": 11659632,
-  "monthlyListeners": 21486788,
+  "followers": 11661216,
+  "monthlyListeners": 21490679,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 330017,
+        "numberOfListeners": 329394,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 316771,
+        "numberOfListeners": 317096,
         "region": "NSW"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 265415,
+        "numberOfListeners": 265397,
         "region": "ON"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 244209,
+        "numberOfListeners": 244139,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 243095,
+        "numberOfListeners": 242329,
         "region": "IL"
       }
     ]
   },
-  "worldRank": 324
+  "worldRank": 325
 }

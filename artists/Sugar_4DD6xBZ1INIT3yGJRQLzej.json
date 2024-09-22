@@ -1,38 +1,38 @@
 {
   "id": "4DD6xBZ1INIT3yGJRQLzej",
   "name": "Sugar",
-  "followers": 70380,
-  "monthlyListeners": 72572,
+  "followers": 70394,
+  "monthlyListeners": 72691,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2259,
+        "numberOfListeners": 2247,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1474,
+        "numberOfListeners": 1455,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 1304,
+        "numberOfListeners": 1316,
         "region": "NY"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 1037,
+        "numberOfListeners": 1036,
         "region": "PA"
       },
       {
         "city": "Minneapolis",
         "country": "US",
-        "numberOfListeners": 992,
+        "numberOfListeners": 980,
         "region": "MN"
       }
     ]

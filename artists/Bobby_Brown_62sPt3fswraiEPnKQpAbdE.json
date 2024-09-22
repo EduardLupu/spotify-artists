@@ -1,38 +1,38 @@
 {
   "id": "62sPt3fswraiEPnKQpAbdE",
   "name": "Bobby Brown",
-  "followers": 1187217,
-  "monthlyListeners": 1767998,
+  "followers": 1187389,
+  "monthlyListeners": 1759326,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 51168,
+        "numberOfListeners": 50735,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 30726,
+        "numberOfListeners": 30542,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 25925,
+        "numberOfListeners": 25745,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 22525,
+        "numberOfListeners": 22291,
         "region": "IL"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 20810,
+        "numberOfListeners": 20730,
         "region": "GA"
       }
     ]

@@ -2,37 +2,37 @@
   "id": "6Boypl52fVVT01JXp8WGN1",
   "name": "Kare",
   "followers": 376,
-  "monthlyListeners": 20700,
+  "monthlyListeners": 20608,
   "topCities": {
     "items": [
       {
         "city": "Salvador",
         "country": "BR",
-        "numberOfListeners": 2811,
+        "numberOfListeners": 2787,
         "region": "BA"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 2046,
+        "numberOfListeners": 2050,
         "region": "SP"
       },
       {
         "city": "Fortaleza",
         "country": "BR",
-        "numberOfListeners": 767,
+        "numberOfListeners": 750,
         "region": "CE"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 710,
+        "numberOfListeners": 703,
         "region": "RJ"
       },
       {
         "city": "Recife",
         "country": "BR",
-        "numberOfListeners": 593,
+        "numberOfListeners": 594,
         "region": "PE"
       }
     ]

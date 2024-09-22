@@ -1,39 +1,39 @@
 {
   "id": "2NhdGz9EDv2FeUw6udu2g1",
   "name": "The Wanted",
-  "followers": 2491677,
-  "monthlyListeners": 6268560,
+  "followers": 2491735,
+  "monthlyListeners": 6275043,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 128107,
+        "numberOfListeners": 128164,
         "region": "SP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 108012,
+        "numberOfListeners": 107667,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 79290,
+        "numberOfListeners": 79495,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 69298,
+        "numberOfListeners": 69373,
         "region": "VIC"
       },
       {
-        "city": "Mexico City",
-        "country": "MX",
-        "numberOfListeners": 54334,
-        "region": "CMX"
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 54271,
+        "region": "QLD"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "6UcJxoeHWWWyT5HZP064om",
   "name": "Chet Faker",
-  "followers": 426297,
-  "monthlyListeners": 2997473,
+  "followers": 426481,
+  "monthlyListeners": 2995017,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 124982,
+        "numberOfListeners": 124883,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 106702,
+        "numberOfListeners": 106543,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 88147,
+        "numberOfListeners": 88049,
         "region": "QLD"
       },
       {
         "city": "Perth",
         "country": "AU",
-        "numberOfListeners": 56337,
+        "numberOfListeners": 56532,
         "region": "WA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 42162,
+        "numberOfListeners": 42046,
         "region": "ENG"
       }
     ]

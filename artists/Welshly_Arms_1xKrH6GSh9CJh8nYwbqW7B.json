@@ -1,39 +1,39 @@
 {
   "id": "1xKrH6GSh9CJh8nYwbqW7B",
   "name": "Welshly Arms",
-  "followers": 208707,
-  "monthlyListeners": 1063421,
+  "followers": 208727,
+  "monthlyListeners": 1055976,
   "topCities": {
     "items": [
       {
         "city": "Prague",
         "country": "CZ",
-        "numberOfListeners": 21142,
+        "numberOfListeners": 21053,
         "region": "10"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 14964,
+        "numberOfListeners": 14960,
         "region": "BE"
       },
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 14652,
+        "numberOfListeners": 14555,
         "region": "14"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 12021,
-        "region": "ENG"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 11982,
+        "numberOfListeners": 11912,
         "region": "HE"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 11892,
+        "region": "ENG"
       }
     ]
   },

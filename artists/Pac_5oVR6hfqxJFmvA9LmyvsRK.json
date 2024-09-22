@@ -2,7 +2,7 @@
   "id": "5oVR6hfqxJFmvA9LmyvsRK",
   "name": "Pac",
   "followers": 201,
-  "monthlyListeners": 607,
+  "monthlyListeners": 606,
   "topCities": {
     "items": [
       {
@@ -14,19 +14,19 @@
       {
         "city": "Tower Hamlets",
         "country": "GB",
-        "numberOfListeners": 60,
-        "region": "ENG"
-      },
-      {
-        "city": "Newham",
-        "country": "GB",
-        "numberOfListeners": 32,
+        "numberOfListeners": 61,
         "region": "ENG"
       },
       {
         "city": "Southwark",
         "country": "GB",
-        "numberOfListeners": 32,
+        "numberOfListeners": 35,
+        "region": "ENG"
+      },
+      {
+        "city": "Newham",
+        "country": "GB",
+        "numberOfListeners": 30,
         "region": "ENG"
       },
       {

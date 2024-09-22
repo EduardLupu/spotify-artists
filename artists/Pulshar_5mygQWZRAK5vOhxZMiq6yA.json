@@ -1,14 +1,14 @@
 {
   "id": "5mygQWZRAK5vOhxZMiq6yA",
   "name": "Pulshar",
-  "followers": 9782,
-  "monthlyListeners": 50731,
+  "followers": 9786,
+  "monthlyListeners": 50848,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 1746,
+        "numberOfListeners": 1727,
         "region": "BE"
       },
       {
@@ -20,19 +20,19 @@
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 926,
+        "numberOfListeners": 936,
         "region": "NH"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 727,
+        "numberOfListeners": 734,
         "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 726,
+        "numberOfListeners": 728,
         "region": "NSW"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "4uxoYVcfHefEFvXLpe0p8F",
   "name": "ENO",
-  "followers": 849,
-  "monthlyListeners": 15824,
+  "followers": 856,
+  "monthlyListeners": 15570,
   "topCities": {
     "items": [
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 2066,
+        "numberOfListeners": 2038,
         "region": "00"
       },
       {
         "city": "Manila",
         "country": "PH",
-        "numberOfListeners": 1148,
+        "numberOfListeners": 1134,
         "region": "00"
       },
       {
         "city": "Caloocan City",
         "country": "PH",
-        "numberOfListeners": 767,
+        "numberOfListeners": 762,
         "region": "00"
       },
       {
         "city": "Cebu City",
         "country": "PH",
-        "numberOfListeners": 649,
+        "numberOfListeners": 640,
         "region": "07"
       },
       {
         "city": "Davao City",
         "country": "PH",
-        "numberOfListeners": 645,
+        "numberOfListeners": 633,
         "region": "11"
       }
     ]

@@ -1,41 +1,41 @@
 {
   "id": "40ZNYROS4zLfyyBSs2PGe2",
   "name": "Zach Bryan",
-  "followers": 5083294,
-  "monthlyListeners": 32108185,
+  "followers": 5092523,
+  "monthlyListeners": 32120247,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 713546,
+        "numberOfListeners": 715384,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 705127,
+        "numberOfListeners": 703383,
         "region": "IL"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 601900,
+        "numberOfListeners": 601549,
         "region": "TX"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 582062,
+        "numberOfListeners": 581106,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 580064,
+        "numberOfListeners": 580099,
         "region": "NY"
       }
     ]
   },
-  "worldRank": 137
+  "worldRank": 136
 }

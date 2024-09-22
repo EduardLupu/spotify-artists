@@ -1,39 +1,39 @@
 {
   "id": "0gqIrDRL7CEPBWMmkuZPdQ",
   "name": "Digable Planets",
-  "followers": 437540,
-  "monthlyListeners": 997351,
+  "followers": 437675,
+  "monthlyListeners": 988232,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 21210,
+        "numberOfListeners": 21050,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 17254,
+        "numberOfListeners": 17198,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 14755,
+        "numberOfListeners": 14592,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 14582,
+        "numberOfListeners": 14312,
         "region": "IL"
       },
       {
-        "city": "Brooklyn",
-        "country": "US",
-        "numberOfListeners": 13060,
-        "region": "NY"
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 12904,
+        "region": "VIC"
       }
     ]
   },

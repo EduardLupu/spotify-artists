@@ -1,38 +1,38 @@
 {
   "id": "1BmEPjXHyBgwuCPsQTmChB",
   "name": "Andre",
-  "followers": 9830,
-  "monthlyListeners": 95057,
+  "followers": 9839,
+  "monthlyListeners": 94611,
   "topCities": {
     "items": [
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 17077,
+        "numberOfListeners": 16991,
         "region": "14"
       },
       {
         "city": "Krakow",
         "country": "PL",
-        "numberOfListeners": 5819,
+        "numberOfListeners": 5776,
         "region": "12"
       },
       {
         "city": "Katowice",
         "country": "PL",
-        "numberOfListeners": 5159,
+        "numberOfListeners": 5123,
         "region": "24"
       },
       {
         "city": "Poznan",
         "country": "PL",
-        "numberOfListeners": 4918,
+        "numberOfListeners": 4868,
         "region": "30"
       },
       {
         "city": "Wroclaw",
         "country": "PL",
-        "numberOfListeners": 3786,
+        "numberOfListeners": 3683,
         "region": "02"
       }
     ]

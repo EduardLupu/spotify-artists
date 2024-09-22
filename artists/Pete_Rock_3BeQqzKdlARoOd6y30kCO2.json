@@ -1,38 +1,38 @@
 {
   "id": "3BeQqzKdlARoOd6y30kCO2",
   "name": "Pete Rock",
-  "followers": 358183,
-  "monthlyListeners": 1087691,
+  "followers": 358259,
+  "monthlyListeners": 1081794,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 23674,
+        "numberOfListeners": 23477,
         "region": "ENG"
-      },
-      {
-        "city": "Santiago",
-        "country": "CL",
-        "numberOfListeners": 15789,
-        "region": "RM"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 15775,
+        "numberOfListeners": 15662,
         "region": "CA"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 15594,
+        "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 15250,
+        "numberOfListeners": 15125,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 15105,
+        "numberOfListeners": 15014,
         "region": "VIC"
       }
     ]

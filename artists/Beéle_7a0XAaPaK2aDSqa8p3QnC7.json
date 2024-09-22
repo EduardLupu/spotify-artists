@@ -1,41 +1,41 @@
 {
   "id": "7a0XAaPaK2aDSqa8p3QnC7",
   "name": "Beéle",
-  "followers": 785357,
-  "monthlyListeners": 17807545,
+  "followers": 786891,
+  "monthlyListeners": 17798069,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 1287327,
+        "numberOfListeners": 1288879,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 780957,
+        "numberOfListeners": 782091,
         "region": "LMA"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 743496,
+        "numberOfListeners": 739897,
         "region": "RM"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 621632,
+        "numberOfListeners": 623300,
         "region": "ANT"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 507467,
+        "numberOfListeners": 506602,
         "region": "MD"
       }
     ]
   },
-  "worldRank": 439
+  "worldRank": 437
 }

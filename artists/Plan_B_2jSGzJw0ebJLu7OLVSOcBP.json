@@ -1,38 +1,38 @@
 {
   "id": "2jSGzJw0ebJLu7OLVSOcBP",
   "name": "Plan B",
-  "followers": 4938869,
-  "monthlyListeners": 24118379,
+  "followers": 4943672,
+  "monthlyListeners": 24099467,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1504806,
+        "numberOfListeners": 1497128,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1110759,
+        "numberOfListeners": 1106457,
         "region": "CMX"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 983525,
+        "numberOfListeners": 983874,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 724562,
+        "numberOfListeners": 724827,
         "region": "LMA"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 723311,
+        "numberOfListeners": 724439,
         "region": "C"
       }
     ]

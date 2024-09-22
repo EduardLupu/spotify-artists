@@ -2,19 +2,19 @@
   "id": "64QOdLGpbfNiYjuLFxs1FU",
   "name": "GHOST",
   "followers": 7,
-  "monthlyListeners": 58,
+  "monthlyListeners": 59,
   "topCities": {
     "items": [
       {
         "city": "Bangkok",
         "country": "TH",
-        "numberOfListeners": 34,
+        "numberOfListeners": 35,
         "region": "10"
       },
       {
         "city": "Chiang Mai",
         "country": "TH",
-        "numberOfListeners": 6,
+        "numberOfListeners": 5,
         "region": "50"
       },
       {
@@ -24,16 +24,16 @@
         "region": "20"
       },
       {
-        "city": "Phra Nakhon Si Ayutthaya",
-        "country": "TH",
-        "numberOfListeners": 2,
-        "region": "14"
-      },
-      {
         "city": "Khon Kaen",
         "country": "TH",
         "numberOfListeners": 2,
         "region": "40"
+      },
+      {
+        "city": "Phra Nakhon Si Ayutthaya",
+        "country": "TH",
+        "numberOfListeners": 2,
+        "region": "14"
       }
     ]
   },

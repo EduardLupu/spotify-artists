@@ -1,38 +1,38 @@
 {
   "id": "4uiMn2g0pgTrhN096QJhbp",
   "name": "Borgeous",
-  "followers": 558733,
-  "monthlyListeners": 1841851,
+  "followers": 558730,
+  "monthlyListeners": 1838329,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 26481,
+        "numberOfListeners": 26441,
         "region": "CMX"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 24089,
+        "numberOfListeners": 24157,
         "region": "JK"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 20031,
+        "numberOfListeners": 19794,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 19000,
+        "numberOfListeners": 19118,
         "region": "DC"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 18893,
+        "numberOfListeners": 18938,
         "region": "NH"
       }
     ]

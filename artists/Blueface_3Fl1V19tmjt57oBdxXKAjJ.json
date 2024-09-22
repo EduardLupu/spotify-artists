@@ -1,38 +1,38 @@
 {
   "id": "3Fl1V19tmjt57oBdxXKAjJ",
   "name": "Blueface",
-  "followers": 6778541,
-  "monthlyListeners": 3491333,
+  "followers": 6779198,
+  "monthlyListeners": 3489798,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 69735,
+        "numberOfListeners": 69576,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 52419,
+        "numberOfListeners": 52343,
         "region": "NSW"
-      },
-      {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 41893,
-        "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 41698,
+        "numberOfListeners": 41664,
         "region": "VIC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 41626,
+        "region": "IL"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 41500,
+        "numberOfListeners": 41484,
         "region": "ON"
       }
     ]

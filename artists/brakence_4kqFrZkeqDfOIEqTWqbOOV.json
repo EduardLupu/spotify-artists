@@ -1,38 +1,38 @@
 {
   "id": "4kqFrZkeqDfOIEqTWqbOOV",
   "name": "brakence",
-  "followers": 258068,
-  "monthlyListeners": 528509,
+  "followers": 258120,
+  "monthlyListeners": 528246,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 9590,
+        "numberOfListeners": 9567,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 8192,
+        "numberOfListeners": 8178,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 7851,
+        "numberOfListeners": 7823,
         "region": "ENG"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 7648,
+        "numberOfListeners": 7625,
         "region": "NY"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 7260,
+        "numberOfListeners": 7272,
         "region": "PA"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "6ElgoHFh30ap09Koe8jf7C",
   "name": "Chez Damier",
-  "followers": 19283,
-  "monthlyListeners": 134716,
+  "followers": 19288,
+  "monthlyListeners": 133915,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 4744,
+        "numberOfListeners": 4717,
         "region": "ENG"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 3281,
+        "numberOfListeners": 3264,
         "region": "NH"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 2168,
+        "numberOfListeners": 2156,
         "region": "BE"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 1872,
+        "numberOfListeners": 1896,
         "region": "IDF"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1823,
+        "numberOfListeners": 1796,
         "region": "RM"
       }
     ]

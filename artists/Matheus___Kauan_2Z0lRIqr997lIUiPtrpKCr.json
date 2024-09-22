@@ -1,39 +1,39 @@
 {
   "id": "2Z0lRIqr997lIUiPtrpKCr",
   "name": "Matheus & Kauan",
-  "followers": 11239921,
-  "monthlyListeners": 13144876,
+  "followers": 11244021,
+  "monthlyListeners": 13127796,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 2238025,
+        "numberOfListeners": 2232538,
         "region": "SP"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 883441,
+        "numberOfListeners": 883798,
         "region": "MG"
       },
       {
         "city": "Campinas",
         "country": "BR",
-        "numberOfListeners": 695291,
+        "numberOfListeners": 696148,
         "region": "SP"
-      },
-      {
-        "city": "Rio de Janeiro",
-        "country": "BR",
-        "numberOfListeners": 692679,
-        "region": "RJ"
       },
       {
         "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 688338,
+        "numberOfListeners": 689258,
         "region": "PR"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 688943,
+        "region": "RJ"
       }
     ]
   },

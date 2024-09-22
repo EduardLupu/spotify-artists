@@ -1,38 +1,38 @@
 {
   "id": "3PyJHH2wyfQK3WZrk9rpmP",
   "name": "Ashnikko",
-  "followers": 2368955,
-  "monthlyListeners": 5336355,
+  "followers": 2369455,
+  "monthlyListeners": 5338982,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 62780,
+        "numberOfListeners": 62670,
         "region": "SP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 60911,
+        "numberOfListeners": 60789,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 55101,
+        "numberOfListeners": 54967,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 53913,
+        "numberOfListeners": 53906,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 49125,
+        "numberOfListeners": 49054,
         "region": "VIC"
       }
     ]

@@ -1,41 +1,41 @@
 {
   "id": "3YQKmKGau1PzlVlkL1iodx",
   "name": "Twenty One Pilots",
-  "followers": 24664447,
-  "monthlyListeners": 30998987,
+  "followers": 24667790,
+  "monthlyListeners": 31022267,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 466362,
+        "numberOfListeners": 466782,
         "region": "SP"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 461996,
+        "numberOfListeners": 460473,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 341436,
+        "numberOfListeners": 339253,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 304015,
+        "numberOfListeners": 303708,
         "region": "DC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 299224,
+        "numberOfListeners": 298615,
         "region": "ENG"
       }
     ]
   },
-  "worldRank": 147
+  "worldRank": 144
 }

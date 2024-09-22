@@ -1,41 +1,41 @@
 {
   "id": "1Xylc3o4UrD53lo9CvFvVg",
   "name": "Zara Larsson",
-  "followers": 10543548,
-  "monthlyListeners": 25417747,
+  "followers": 10545048,
+  "monthlyListeners": 25408738,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 528596,
+        "numberOfListeners": 530849,
         "region": "JK"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 380127,
+        "numberOfListeners": 378738,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 343637,
+        "numberOfListeners": 344512,
         "region": "NSW"
       },
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 320486,
+        "numberOfListeners": 322369,
         "region": "AB"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 277664,
+        "numberOfListeners": 278125,
         "region": "VIC"
       }
     ]
   },
-  "worldRank": 215
+  "worldRank": 212
 }

@@ -1,26 +1,26 @@
 {
   "id": "5rz6M6BPrGcKg3F5khFgqy",
   "name": "Eden",
-  "followers": 304,
-  "monthlyListeners": 2866,
+  "followers": 305,
+  "monthlyListeners": 2903,
   "topCities": {
     "items": [
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 814,
+        "numberOfListeners": 822,
         "region": "BRU"
       },
       {
         "city": "Antwerp",
         "country": "BE",
-        "numberOfListeners": 181,
+        "numberOfListeners": 191,
         "region": "VLG"
       },
       {
         "city": "Ghent",
         "country": "BE",
-        "numberOfListeners": 113,
+        "numberOfListeners": 115,
         "region": "VLG"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Mechelen",
         "country": "BE",
-        "numberOfListeners": 48,
+        "numberOfListeners": 46,
         "region": "VLG"
       }
     ]

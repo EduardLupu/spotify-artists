@@ -1,38 +1,38 @@
 {
   "id": "1I16IF1ltabPiw70Y6KG4F",
   "name": "Sworn Enemy",
-  "followers": 48110,
-  "monthlyListeners": 24269,
+  "followers": 48118,
+  "monthlyListeners": 24292,
   "topCities": {
     "items": [
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 384,
+        "numberOfListeners": 382,
         "region": "BRU"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 298,
+        "numberOfListeners": 303,
         "region": "QC"
-      },
-      {
-        "city": "Santiago",
-        "country": "CL",
-        "numberOfListeners": 289,
-        "region": "RM"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 289,
+        "numberOfListeners": 294,
         "region": "BE"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 284,
+        "region": "RM"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 253,
+        "numberOfListeners": 255,
         "region": "JK"
       }
     ]

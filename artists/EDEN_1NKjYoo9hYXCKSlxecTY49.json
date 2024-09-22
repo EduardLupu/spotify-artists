@@ -1,38 +1,38 @@
 {
   "id": "1NKjYoo9hYXCKSlxecTY49",
   "name": "EDEN",
-  "followers": 47371,
-  "monthlyListeners": 64800,
+  "followers": 47385,
+  "monthlyListeners": 64683,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 1531,
+        "numberOfListeners": 1529,
         "region": "JK"
       },
       {
         "city": "Singapore",
         "country": "SG",
-        "numberOfListeners": 1442,
+        "numberOfListeners": 1436,
         "region": ""
       },
       {
         "city": "Bangkok",
         "country": "TH",
-        "numberOfListeners": 1185,
+        "numberOfListeners": 1184,
         "region": "10"
       },
       {
         "city": "Kuala Lumpur",
         "country": "MY",
-        "numberOfListeners": 1047,
+        "numberOfListeners": 1035,
         "region": "14"
       },
       {
         "city": "Taipei",
         "country": "TW",
-        "numberOfListeners": 985,
+        "numberOfListeners": 990,
         "region": "TPE"
       }
     ]

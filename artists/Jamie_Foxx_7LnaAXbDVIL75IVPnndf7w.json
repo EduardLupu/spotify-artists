@@ -1,38 +1,38 @@
 {
   "id": "7LnaAXbDVIL75IVPnndf7w",
   "name": "Jamie Foxx",
-  "followers": 1253122,
-  "monthlyListeners": 5191792,
+  "followers": 1253291,
+  "monthlyListeners": 5202019,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 91526,
+        "numberOfListeners": 91288,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 87233,
+        "numberOfListeners": 86922,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 70152,
+        "numberOfListeners": 69820,
         "region": "ENG"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 68087,
+        "numberOfListeners": 68041,
         "region": "TX"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 62282,
+        "numberOfListeners": 62266,
         "region": "TX"
       }
     ]

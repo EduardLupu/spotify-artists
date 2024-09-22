@@ -1,38 +1,38 @@
 {
   "id": "3gMaNLQm7D9MornNILzdSl",
   "name": "Lionel Richie",
-  "followers": 3781533,
-  "monthlyListeners": 11085339,
+  "followers": 3783639,
+  "monthlyListeners": 11078396,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 185445,
+        "numberOfListeners": 186962,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 177709,
+        "numberOfListeners": 177958,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 171943,
+        "numberOfListeners": 170901,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 157284,
+        "numberOfListeners": 156475,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 133742,
+        "numberOfListeners": 133589,
         "region": "NSW"
       }
     ]

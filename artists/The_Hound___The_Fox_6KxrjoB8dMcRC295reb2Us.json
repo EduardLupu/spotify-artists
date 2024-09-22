@@ -1,38 +1,38 @@
 {
   "id": "6KxrjoB8dMcRC295reb2Us",
   "name": "The Hound + The Fox",
-  "followers": 39834,
-  "monthlyListeners": 255210,
+  "followers": 39852,
+  "monthlyListeners": 255741,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 4374,
+        "numberOfListeners": 4376,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 3845,
+        "numberOfListeners": 3838,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 2892,
+        "numberOfListeners": 2896,
         "region": "QLD"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 2250,
+        "numberOfListeners": 2271,
         "region": "ENG"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 2131,
+        "numberOfListeners": 2147,
         "region": "MD"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "5ObBtv5VunwwhQaXXnUrsM",
   "name": "KennyHoopla",
-  "followers": 205516,
-  "monthlyListeners": 619821,
+  "followers": 205554,
+  "monthlyListeners": 616871,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 9754,
+        "numberOfListeners": 9659,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 9441,
+        "numberOfListeners": 9347,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 8336,
+        "numberOfListeners": 8283,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 7214,
+        "numberOfListeners": 7156,
         "region": "NY"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 6859,
+        "numberOfListeners": 6884,
         "region": "CO"
       }
     ]

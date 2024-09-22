@@ -1,38 +1,38 @@
 {
   "id": "7EGwUS3c5dXduO4sMyLWC5",
   "name": "Houndmouth",
-  "followers": 307600,
-  "monthlyListeners": 1692621,
+  "followers": 307682,
+  "monthlyListeners": 1692355,
   "topCities": {
     "items": [
       {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 38882,
-        "region": "IL"
-      },
-      {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 38807,
+        "numberOfListeners": 38797,
         "region": "CO"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 38686,
+        "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 34865,
+        "numberOfListeners": 34902,
         "region": "NY"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 27147,
+        "numberOfListeners": 27048,
         "region": "WA"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 26705,
+        "numberOfListeners": 26691,
         "region": "NC"
       }
     ]

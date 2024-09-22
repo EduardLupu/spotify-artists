@@ -1,38 +1,38 @@
 {
   "id": "6kBbwPicVyztrv790hSqLi",
   "name": "Yk",
-  "followers": 3550,
-  "monthlyListeners": 22559,
+  "followers": 3552,
+  "monthlyListeners": 22497,
   "topCities": {
     "items": [
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 5112,
+        "numberOfListeners": 5105,
         "region": "ON"
       },
       {
         "city": "Calgary",
         "country": "CA",
-        "numberOfListeners": 1614,
+        "numberOfListeners": 1610,
         "region": "AB"
       },
       {
         "city": "Winnipeg",
         "country": "CA",
-        "numberOfListeners": 1284,
+        "numberOfListeners": 1297,
         "region": "MB"
       },
       {
         "city": "Brampton",
         "country": "CA",
-        "numberOfListeners": 1162,
+        "numberOfListeners": 1157,
         "region": "ON"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 1142,
+        "numberOfListeners": 1137,
         "region": "QC"
       }
     ]

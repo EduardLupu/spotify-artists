@@ -1,38 +1,38 @@
 {
   "id": "542GsScaNnc2Ed8yokKLsy",
   "name": "The Four Aces",
-  "followers": 68948,
-  "monthlyListeners": 160102,
+  "followers": 68963,
+  "monthlyListeners": 160243,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 3619,
+        "numberOfListeners": 3627,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 2673,
+        "numberOfListeners": 2680,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 2385,
+        "numberOfListeners": 2384,
         "region": "VIC"
       },
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 1903,
+        "numberOfListeners": 1915,
         "region": "00"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1591,
+        "numberOfListeners": 1594,
         "region": "ENG"
       }
     ]

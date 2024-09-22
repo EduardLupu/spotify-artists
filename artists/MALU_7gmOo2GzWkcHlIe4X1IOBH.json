@@ -1,20 +1,20 @@
 {
   "id": "7gmOo2GzWkcHlIe4X1IOBH",
   "name": "MALU",
-  "followers": 357,
-  "monthlyListeners": 11755,
+  "followers": 360,
+  "monthlyListeners": 11781,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 271,
+        "numberOfListeners": 273,
         "region": "CA"
       },
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 265,
+        "numberOfListeners": 264,
         "region": "14"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 153,
+        "numberOfListeners": 150,
         "region": "18"
       },
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 139,
+        "numberOfListeners": 144,
         "region": "34"
       }
     ]

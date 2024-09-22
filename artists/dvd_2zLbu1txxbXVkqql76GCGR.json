@@ -2,37 +2,37 @@
   "id": "2zLbu1txxbXVkqql76GCGR",
   "name": "dvd",
   "followers": 1211,
-  "monthlyListeners": 5528,
+  "monthlyListeners": 5538,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 751,
+        "numberOfListeners": 761,
         "region": "DC"
-      },
-      {
-        "city": "Lima",
-        "country": "PE",
-        "numberOfListeners": 408,
-        "region": "LMA"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 406,
+        "numberOfListeners": 410,
         "region": "CMX"
+      },
+      {
+        "city": "Lima",
+        "country": "PE",
+        "numberOfListeners": 407,
+        "region": "LMA"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 197,
+        "numberOfListeners": 203,
         "region": "CMX"
       },
       {
         "city": "Iztapalapa",
         "country": "MX",
-        "numberOfListeners": 149,
+        "numberOfListeners": 151,
         "region": "CMX"
       }
     ]

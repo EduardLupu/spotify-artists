@@ -1,38 +1,38 @@
 {
   "id": "77ZUbcdoU5KCPHNUl8bgQy",
   "name": "João Gilberto",
-  "followers": 639642,
-  "monthlyListeners": 3023961,
+  "followers": 639803,
+  "monthlyListeners": 3016405,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 104370,
+        "numberOfListeners": 104279,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 58179,
+        "numberOfListeners": 58213,
         "region": "RM"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 53649,
+        "numberOfListeners": 53565,
         "region": "RJ"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 39660,
+        "numberOfListeners": 39646,
         "region": "IDF"
       },
       {
         "city": "Lisbon",
         "country": "PT",
-        "numberOfListeners": 32694,
+        "numberOfListeners": 32569,
         "region": "11"
       }
     ]

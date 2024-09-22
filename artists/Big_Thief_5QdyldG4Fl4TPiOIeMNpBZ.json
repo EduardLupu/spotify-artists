@@ -1,38 +1,38 @@
 {
   "id": "5QdyldG4Fl4TPiOIeMNpBZ",
   "name": "Big Thief",
-  "followers": 914071,
-  "monthlyListeners": 5687564,
+  "followers": 915407,
+  "monthlyListeners": 5709757,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 118806,
+        "numberOfListeners": 118873,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 91359,
+        "numberOfListeners": 91664,
         "region": "CA"
-      },
-      {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 88850,
-        "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 88663,
+        "numberOfListeners": 89377,
         "region": "NY"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 89050,
+        "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 73059,
+        "numberOfListeners": 73197,
         "region": "VIC"
       }
     ]

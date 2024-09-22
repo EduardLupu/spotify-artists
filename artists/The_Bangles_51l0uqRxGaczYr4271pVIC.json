@@ -1,38 +1,38 @@
 {
   "id": "51l0uqRxGaczYr4271pVIC",
   "name": "The Bangles",
-  "followers": 1472475,
-  "monthlyListeners": 5799155,
+  "followers": 1473101,
+  "monthlyListeners": 5788893,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 122921,
+        "numberOfListeners": 121821,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 108216,
+        "numberOfListeners": 107154,
         "region": "VIC"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 107136,
+        "numberOfListeners": 106162,
         "region": "RM"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 85568,
+        "numberOfListeners": 84613,
         "region": "QLD"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 68320,
+        "numberOfListeners": 68237,
         "region": "SP"
       }
     ]

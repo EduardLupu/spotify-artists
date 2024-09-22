@@ -1,38 +1,38 @@
 {
   "id": "2iEvnFsWxR0Syqu2JNopAd",
   "name": "Smash Mouth",
-  "followers": 1110593,
-  "monthlyListeners": 9773595,
+  "followers": 1110848,
+  "monthlyListeners": 9662711,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 161349,
+        "numberOfListeners": 160000,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 142217,
+        "numberOfListeners": 141214,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 124196,
+        "numberOfListeners": 123268,
         "region": "QLD"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 120151,
+        "numberOfListeners": 118172,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 112231,
+        "numberOfListeners": 110401,
         "region": "SP"
       }
     ]

@@ -1,39 +1,39 @@
 {
   "id": "6eXHRfK9Ad3IpMpSAqvcDf",
   "name": "Lefty Sm",
-  "followers": 2565524,
-  "monthlyListeners": 6189868,
+  "followers": 2569065,
+  "monthlyListeners": 6195223,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 536702,
+        "numberOfListeners": 535352,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 305981,
+        "numberOfListeners": 305821,
         "region": "JAL"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 268608,
+        "numberOfListeners": 275103,
         "region": "CMX"
       },
       {
         "city": "Iztapalapa",
         "country": "MX",
-        "numberOfListeners": 260426,
+        "numberOfListeners": 251784,
         "region": "CMX"
       },
       {
-        "city": "Puebla City",
+        "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 233184,
-        "region": "PUE"
+        "numberOfListeners": 231439,
+        "region": "QUE"
       }
     ]
   },

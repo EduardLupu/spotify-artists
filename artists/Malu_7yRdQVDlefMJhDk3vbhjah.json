@@ -1,38 +1,38 @@
 {
   "id": "7yRdQVDlefMJhDk3vbhjah",
   "name": "Malu",
-  "followers": 14826,
-  "monthlyListeners": 94467,
+  "followers": 14830,
+  "monthlyListeners": 93789,
   "topCities": {
     "items": [
       {
         "city": "Athens",
         "country": "GR",
-        "numberOfListeners": 25278,
+        "numberOfListeners": 25045,
         "region": "I"
       },
       {
         "city": "Tel Aviv",
         "country": "IL",
-        "numberOfListeners": 10743,
+        "numberOfListeners": 10673,
         "region": "TA"
       },
       {
         "city": "Thessaloniki",
         "country": "GR",
-        "numberOfListeners": 8200,
+        "numberOfListeners": 8144,
         "region": "B"
       },
       {
         "city": "Nicosia",
         "country": "CY",
-        "numberOfListeners": 1782,
+        "numberOfListeners": 1793,
         "region": "01"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 1779,
+        "numberOfListeners": 1774,
         "region": "VIC"
       }
     ]

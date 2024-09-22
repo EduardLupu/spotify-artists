@@ -1,39 +1,39 @@
 {
   "id": "2cfXEHs80hFva0koAwZsHv",
   "name": "alexander",
-  "followers": 42,
-  "monthlyListeners": 548,
+  "followers": 43,
+  "monthlyListeners": 567,
   "topCities": {
     "items": [
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 145,
+        "numberOfListeners": 148,
         "region": "AB"
       },
       {
         "city": "Gothenburg",
         "country": "SE",
-        "numberOfListeners": 136,
+        "numberOfListeners": 135,
         "region": "O"
       },
       {
         "city": "Malmo",
         "country": "SE",
-        "numberOfListeners": 32,
+        "numberOfListeners": 34,
         "region": "M"
-      },
-      {
-        "city": "Mölndal",
-        "country": "SE",
-        "numberOfListeners": 10,
-        "region": "O"
       },
       {
         "city": "Uppsala",
         "country": "SE",
         "numberOfListeners": 10,
         "region": "C"
+      },
+      {
+        "city": "Mölndal",
+        "country": "SE",
+        "numberOfListeners": 8,
+        "region": "O"
       }
     ]
   },

@@ -1,39 +1,39 @@
 {
   "id": "7IMGyvMhUGyIUFfRzu9tFL",
   "name": "Shadow Academy",
-  "followers": 32947,
-  "monthlyListeners": 37934,
+  "followers": 32958,
+  "monthlyListeners": 37231,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 705,
+        "numberOfListeners": 686,
         "region": "IL"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 548,
+        "numberOfListeners": 540,
         "region": "WA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 491,
+        "numberOfListeners": 480,
         "region": "ENG"
-      },
-      {
-        "city": "Philadelphia",
-        "country": "US",
-        "numberOfListeners": 465,
-        "region": "PA"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 458,
+        "numberOfListeners": 463,
         "region": "VIC"
+      },
+      {
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 454,
+        "region": "PA"
       }
     ]
   },

@@ -1,41 +1,41 @@
 {
   "id": "19LIHDDSHBD5NyYHI3gpzB",
   "name": "Shilpa Rao",
-  "followers": 2458894,
-  "monthlyListeners": 24871738,
+  "followers": 2459656,
+  "monthlyListeners": 24912781,
   "topCities": {
     "items": [
       {
         "city": "Hyderabad",
         "country": "IN",
-        "numberOfListeners": 2357825,
+        "numberOfListeners": 2350807,
         "region": "TS"
       },
       {
         "city": "Mumbai",
         "country": "IN",
-        "numberOfListeners": 2173831,
+        "numberOfListeners": 2170762,
         "region": "MH"
       },
       {
         "city": "Pune",
         "country": "IN",
-        "numberOfListeners": 1837980,
+        "numberOfListeners": 1845287,
         "region": "MH"
       },
       {
         "city": "Bengaluru",
         "country": "IN",
-        "numberOfListeners": 1588511,
+        "numberOfListeners": 1589505,
         "region": "KA"
       },
       {
         "city": "Delhi",
         "country": "IN",
-        "numberOfListeners": 1363325,
+        "numberOfListeners": 1370486,
         "region": "DL"
       }
     ]
   },
-  "worldRank": 228
+  "worldRank": 225
 }

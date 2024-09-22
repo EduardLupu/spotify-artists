@@ -1,38 +1,38 @@
 {
   "id": "1bDWGdIC2hardyt55nlQgG",
   "name": "\"Weird Al\" Yankovic",
-  "followers": 914892,
-  "monthlyListeners": 1261727,
+  "followers": 915313,
+  "monthlyListeners": 1258444,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 19468,
+        "numberOfListeners": 19367,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 18520,
+        "numberOfListeners": 18486,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 17450,
+        "numberOfListeners": 17444,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 16699,
+        "numberOfListeners": 16461,
         "region": "ENG"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 14582,
+        "numberOfListeners": 14553,
         "region": "WA"
       }
     ]

@@ -2,7 +2,7 @@
   "id": "0zEQMCkiunPKoAy6zByLPj",
   "name": "MK",
   "followers": 193,
-  "monthlyListeners": 19,
+  "monthlyListeners": 18,
   "topCities": {
     "items": [
       {
@@ -12,28 +12,28 @@
         "region": "25"
       },
       {
-        "city": "Osmaniye",
-        "country": "TR",
+        "city": "Marseille",
+        "country": "FR",
         "numberOfListeners": 1,
-        "region": "80"
+        "region": "PAC"
       },
       {
-        "city": "Kayseri",
-        "country": "TR",
+        "city": "Sétif",
+        "country": "DZ",
         "numberOfListeners": 1,
-        "region": "38"
-      },
-      {
-        "city": "Casablanca",
-        "country": "MA",
-        "numberOfListeners": 1,
-        "region": "06"
+        "region": "19"
       },
       {
         "city": "Laghouat",
         "country": "DZ",
         "numberOfListeners": 1,
         "region": "03"
+      },
+      {
+        "city": "Taher",
+        "country": "DZ",
+        "numberOfListeners": 1,
+        "region": "18"
       }
     ]
   },

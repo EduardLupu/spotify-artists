@@ -1,41 +1,41 @@
 {
   "id": "35l9BRT7MXmM8bv2WDQiyB",
   "name": "beabadoobee",
-  "followers": 4033655,
-  "monthlyListeners": 19211482,
+  "followers": 4038908,
+  "monthlyListeners": 19203220,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 583009,
+        "numberOfListeners": 586661,
         "region": "JK"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 264888,
+        "numberOfListeners": 264312,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 247946,
+        "numberOfListeners": 247086,
         "region": "ENG"
       },
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 237849,
+        "numberOfListeners": 239697,
         "region": "00"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 202520,
+        "numberOfListeners": 202032,
         "region": "NSW"
       }
     ]
   },
-  "worldRank": 389
+  "worldRank": 386
 }

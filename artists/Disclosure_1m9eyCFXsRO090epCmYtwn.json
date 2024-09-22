@@ -2,7 +2,7 @@
   "id": "1m9eyCFXsRO090epCmYtwn",
   "name": "Disclosure",
   "followers": 13,
-  "monthlyListeners": 311,
+  "monthlyListeners": 307,
   "topCities": {
     "items": [
       {
@@ -12,10 +12,10 @@
         "region": "ENG"
       },
       {
-        "city": "Southwark",
-        "country": "GB",
+        "city": "Sydney",
+        "country": "AU",
         "numberOfListeners": 7,
-        "region": "ENG"
+        "region": "NSW"
       },
       {
         "city": "Manchester",
@@ -24,10 +24,10 @@
         "region": "ENG"
       },
       {
-        "city": "Sydney",
-        "country": "AU",
+        "city": "Southwark",
+        "country": "GB",
         "numberOfListeners": 7,
-        "region": "NSW"
+        "region": "ENG"
       },
       {
         "city": "Brussels",

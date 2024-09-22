@@ -1,38 +1,38 @@
 {
   "id": "3MKCzCnpzw3TjUYs2v7vDA",
   "name": "Pyotr Ilyich Tchaikovsky",
-  "followers": 1381302,
-  "monthlyListeners": 6324370,
+  "followers": 1381703,
+  "monthlyListeners": 6335884,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 70769,
+        "numberOfListeners": 70251,
         "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 68010,
+        "numberOfListeners": 67907,
         "region": "SP"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 67257,
+        "numberOfListeners": 67164,
         "region": "CMX"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 63341,
+        "numberOfListeners": 63593,
         "region": "ENG"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 59762,
+        "numberOfListeners": 60211,
         "region": "IDF"
       }
     ]

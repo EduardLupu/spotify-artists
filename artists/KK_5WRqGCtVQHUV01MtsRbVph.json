@@ -1,26 +1,26 @@
 {
   "id": "5WRqGCtVQHUV01MtsRbVph",
   "name": "KK",
-  "followers": 1279,
-  "monthlyListeners": 1199,
+  "followers": 1280,
+  "monthlyListeners": 1190,
   "topCities": {
     "items": [
       {
         "city": "Colombo",
         "country": "LK",
-        "numberOfListeners": 809,
+        "numberOfListeners": 802,
         "region": "1"
       },
       {
         "city": "Kaduwela",
         "country": "LK",
-        "numberOfListeners": 48,
+        "numberOfListeners": 44,
         "region": "1"
       },
       {
         "city": "Kandy",
         "country": "LK",
-        "numberOfListeners": 43,
+        "numberOfListeners": 40,
         "region": "2"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 20,
+        "numberOfListeners": 19,
         "region": "VIC"
       }
     ]

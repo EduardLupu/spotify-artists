@@ -1,21 +1,15 @@
 {
   "id": "10Khz9BDdDT2mzm3330Cvu",
   "name": "Onyx",
-  "followers": 525632,
-  "monthlyListeners": 750405,
+  "followers": 525776,
+  "monthlyListeners": 750636,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 12195,
+        "numberOfListeners": 12068,
         "region": "RM"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 8923,
-        "region": "ENG"
       },
       {
         "city": "Toronto",
@@ -24,15 +18,21 @@
         "region": "ON"
       },
       {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 8874,
+        "region": "ENG"
+      },
+      {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 8064,
+        "numberOfListeners": 8062,
         "region": "PA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 7938,
+        "numberOfListeners": 7940,
         "region": "NY"
       }
     ]

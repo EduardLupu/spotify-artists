@@ -1,38 +1,38 @@
 {
   "id": "515f4vsvg0JQWrmt7qpR6l",
   "name": "Pachyman",
-  "followers": 30124,
-  "monthlyListeners": 132692,
+  "followers": 30141,
+  "monthlyListeners": 131951,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 3714,
+        "numberOfListeners": 3694,
         "region": "CA"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 2888,
+        "numberOfListeners": 2821,
         "region": "NH"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 2343,
+        "numberOfListeners": 2331,
         "region": "ENG"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 2065,
+        "numberOfListeners": 2060,
         "region": "BE"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 2025,
+        "numberOfListeners": 2005,
         "region": "NY"
       }
     ]

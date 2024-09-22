@@ -1,39 +1,39 @@
 {
   "id": "2otUckChxWf2cp6UP2cD6e",
   "name": "Zuna",
-  "followers": 1016394,
-  "monthlyListeners": 1639959,
+  "followers": 1016498,
+  "monthlyListeners": 1640049,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 142169,
+        "numberOfListeners": 142346,
         "region": "BE"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 131138,
+        "numberOfListeners": 131226,
         "region": "HE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 121372,
+        "numberOfListeners": 125741,
         "region": "HH"
-      },
-      {
-        "city": "Munich",
-        "country": "DE",
-        "numberOfListeners": 102369,
-        "region": "BY"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 101960,
+        "numberOfListeners": 104068,
         "region": "BW"
+      },
+      {
+        "city": "Munich",
+        "country": "DE",
+        "numberOfListeners": 102836,
+        "region": "BY"
       }
     ]
   },

@@ -1,26 +1,26 @@
 {
   "id": "0M5XgwZq3BoGzkTvG9Lwb2",
   "name": "Max",
-  "followers": 1210,
-  "monthlyListeners": 9578,
+  "followers": 1213,
+  "monthlyListeners": 9598,
   "topCities": {
     "items": [
       {
         "city": "Panama City",
         "country": "PA",
-        "numberOfListeners": 1193,
+        "numberOfListeners": 1192,
         "region": "8"
       },
       {
         "city": "Lisbon",
         "country": "PT",
-        "numberOfListeners": 1080,
+        "numberOfListeners": 1069,
         "region": "11"
       },
       {
         "city": "Porto",
         "country": "PT",
-        "numberOfListeners": 422,
+        "numberOfListeners": 420,
         "region": "13"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 263,
+        "numberOfListeners": 264,
         "region": "SP"
       }
     ]

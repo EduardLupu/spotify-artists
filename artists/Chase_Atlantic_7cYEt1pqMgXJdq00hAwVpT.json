@@ -1,41 +1,41 @@
 {
   "id": "7cYEt1pqMgXJdq00hAwVpT",
   "name": "Chase Atlantic",
-  "followers": 8076208,
-  "monthlyListeners": 16453281,
+  "followers": 8083613,
+  "monthlyListeners": 16414251,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 525821,
+        "numberOfListeners": 528415,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 304363,
+        "numberOfListeners": 303357,
         "region": "SP"
       },
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 183786,
+        "numberOfListeners": 183448,
         "region": "34"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 174190,
+        "numberOfListeners": 173721,
         "region": "ENG"
       },
       {
         "city": "Kuala Lumpur",
         "country": "MY",
-        "numberOfListeners": 169363,
+        "numberOfListeners": 169025,
         "region": "14"
       }
     ]
   },
-  "worldRank": 494
+  "worldRank": 496
 }

@@ -1,14 +1,14 @@
 {
   "id": "2J3U3cEOyn4msrMrEljXr3",
   "name": "Aitch",
-  "followers": 378,
-  "monthlyListeners": 1149,
+  "followers": 379,
+  "monthlyListeners": 1155,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 100,
+        "numberOfListeners": 98,
         "region": "BE"
       },
       {
@@ -20,20 +20,20 @@
       {
         "city": "Cologne",
         "country": "DE",
-        "numberOfListeners": 25,
+        "numberOfListeners": 24,
         "region": "NW"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 24,
+        "numberOfListeners": 23,
         "region": "NSW"
       },
       {
-        "city": "Frankfurt am Main",
+        "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 24,
-        "region": "HE"
+        "numberOfListeners": 23,
+        "region": "BY"
       }
     ]
   },

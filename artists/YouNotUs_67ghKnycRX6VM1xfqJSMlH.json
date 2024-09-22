@@ -1,38 +1,38 @@
 {
   "id": "67ghKnycRX6VM1xfqJSMlH",
   "name": "YouNotUs",
-  "followers": 69888,
-  "monthlyListeners": 4183135,
+  "followers": 69908,
+  "monthlyListeners": 4130204,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 134590,
+        "numberOfListeners": 132150,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 110172,
+        "numberOfListeners": 111098,
         "region": "HH"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 99765,
+        "numberOfListeners": 97664,
         "region": "HE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 98549,
+        "numberOfListeners": 97647,
         "region": "BY"
       },
       {
         "city": "Vienna",
         "country": "AT",
-        "numberOfListeners": 87252,
+        "numberOfListeners": 85714,
         "region": "9"
       }
     ]

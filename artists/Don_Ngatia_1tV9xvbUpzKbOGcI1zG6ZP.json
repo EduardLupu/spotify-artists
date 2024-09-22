@@ -2,13 +2,13 @@
   "id": "1tV9xvbUpzKbOGcI1zG6ZP",
   "name": "Don Ngatia",
   "followers": 561,
-  "monthlyListeners": 1105,
+  "monthlyListeners": 1101,
   "topCities": {
     "items": [
       {
         "city": "Nairobi",
         "country": "KE",
-        "numberOfListeners": 559,
+        "numberOfListeners": 556,
         "region": "30"
       },
       {
@@ -26,14 +26,14 @@
       {
         "city": "Lagos",
         "country": "NG",
-        "numberOfListeners": 26,
+        "numberOfListeners": 27,
         "region": "LA"
       },
       {
-        "city": "Durban",
-        "country": "ZA",
+        "city": "Ashburn",
+        "country": "US",
         "numberOfListeners": 18,
-        "region": "KZN"
+        "region": "VA"
       }
     ]
   },

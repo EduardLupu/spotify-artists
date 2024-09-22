@@ -1,39 +1,39 @@
 {
   "id": "16kOCiqZ1auY4sokSeZuKf",
   "name": "Los Bukis",
-  "followers": 4391519,
-  "monthlyListeners": 7767055,
+  "followers": 4394164,
+  "monthlyListeners": 7770869,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 567995,
+        "numberOfListeners": 566422,
         "region": "CMX"
       },
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 367494,
+        "numberOfListeners": 356963,
         "region": "GU"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 355229,
+        "numberOfListeners": 355124,
         "region": "JAL"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 258069,
+        "numberOfListeners": 256483,
         "region": "QUE"
       },
       {
-        "city": "Puebla City",
+        "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 251407,
-        "region": "PUE"
+        "numberOfListeners": 253610,
+        "region": "CMX"
       }
     ]
   },

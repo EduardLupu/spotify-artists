@@ -18,22 +18,22 @@
         "region": "FC"
       },
       {
-        "city": "Brisbane",
-        "country": "AU",
-        "numberOfListeners": 1,
-        "region": "QLD"
-      },
-      {
-        "city": "Parma",
-        "country": "IT",
-        "numberOfListeners": 1,
-        "region": "45"
-      },
-      {
         "city": "San Salvador",
         "country": "SV",
         "numberOfListeners": 1,
         "region": "SS"
+      },
+      {
+        "city": "Brampton",
+        "country": "CA",
+        "numberOfListeners": 1,
+        "region": "ON"
+      },
+      {
+        "city": "Brisbane",
+        "country": "AU",
+        "numberOfListeners": 1,
+        "region": "QLD"
       }
     ]
   },

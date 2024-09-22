@@ -1,38 +1,38 @@
 {
   "id": "2bv8KqUfBx8GioNv4w9qHP",
   "name": "D!V!DENT",
-  "followers": 2976,
-  "monthlyListeners": 2692,
+  "followers": 2977,
+  "monthlyListeners": 2920,
   "topCities": {
     "items": [
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 124,
+        "numberOfListeners": 134,
         "region": "00"
       },
       {
         "city": "Davao City",
         "country": "PH",
-        "numberOfListeners": 63,
+        "numberOfListeners": 65,
         "region": "11"
-      },
-      {
-        "city": "Manila",
-        "country": "PH",
-        "numberOfListeners": 57,
-        "region": "00"
       },
       {
         "city": "Cebu City",
         "country": "PH",
-        "numberOfListeners": 53,
+        "numberOfListeners": 63,
         "region": "07"
+      },
+      {
+        "city": "Manila",
+        "country": "PH",
+        "numberOfListeners": 58,
+        "region": "00"
       },
       {
         "city": "Caloocan City",
         "country": "PH",
-        "numberOfListeners": 47,
+        "numberOfListeners": 53,
         "region": "00"
       }
     ]

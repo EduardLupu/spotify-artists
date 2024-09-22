@@ -2,14 +2,20 @@
   "id": "4H4i9CoGR6h0UOrlrgOHV4",
   "name": "YOUNG XAV",
   "followers": 2932,
-  "monthlyListeners": 241,
+  "monthlyListeners": 248,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 12,
+        "numberOfListeners": 11,
         "region": "IL"
+      },
+      {
+        "city": "Minneapolis",
+        "country": "US",
+        "numberOfListeners": 4,
+        "region": "MN"
       },
       {
         "city": "Miami",
@@ -24,16 +30,10 @@
         "region": "IL"
       },
       {
-        "city": "Minneapolis",
+        "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 4,
-        "region": "MN"
-      },
-      {
-        "city": "Gustavo Adolfo Madero",
-        "country": "MX",
         "numberOfListeners": 3,
-        "region": "CMX"
+        "region": "PA"
       }
     ]
   },

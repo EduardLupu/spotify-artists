@@ -1,8 +1,8 @@
 {
   "id": "7ddRvxzapdiNSv9Fz1tJk2",
   "name": "Finch",
-  "followers": 648,
-  "monthlyListeners": 762,
+  "followers": 651,
+  "monthlyListeners": 755,
   "topCities": {
     "items": [
       {
@@ -14,8 +14,14 @@
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 13,
+        "numberOfListeners": 14,
         "region": "ZH"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 12,
+        "region": "RJ"
       },
       {
         "city": "São Paulo",
@@ -26,14 +32,8 @@
       {
         "city": "Utrecht",
         "country": "NL",
-        "numberOfListeners": 10,
+        "numberOfListeners": 9,
         "region": "UT"
-      },
-      {
-        "city": "Rio de Janeiro",
-        "country": "BR",
-        "numberOfListeners": 10,
-        "region": "RJ"
       }
     ]
   },

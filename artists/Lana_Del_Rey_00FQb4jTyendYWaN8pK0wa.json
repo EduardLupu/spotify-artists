@@ -1,41 +1,41 @@
 {
   "id": "00FQb4jTyendYWaN8pK0wa",
   "name": "Lana Del Rey",
-  "followers": 39801333,
-  "monthlyListeners": 61624988,
+  "followers": 39837454,
+  "monthlyListeners": 61547997,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 1406245,
+        "numberOfListeners": 1411811,
         "region": "JK"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 881585,
+        "numberOfListeners": 878359,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 740002,
+        "numberOfListeners": 738178,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 613445,
+        "numberOfListeners": 612401,
         "region": "NSW"
       },
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 588485,
+        "numberOfListeners": 589748,
         "region": "34"
       }
     ]
   },
-  "worldRank": 26
+  "worldRank": 27
 }

@@ -1,38 +1,38 @@
 {
   "id": "0MPeKXKU2ugNI2Or2k5tds",
   "name": "Gran Orquesta Internacional",
-  "followers": 268842,
-  "monthlyListeners": 187803,
+  "followers": 268881,
+  "monthlyListeners": 187886,
   "topCities": {
     "items": [
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 94890,
+        "numberOfListeners": 94897,
         "region": "LMA"
       },
       {
         "city": "Trujillo",
         "country": "PE",
-        "numberOfListeners": 14020,
+        "numberOfListeners": 14074,
         "region": "LAL"
       },
       {
         "city": "Arequipa",
         "country": "PE",
-        "numberOfListeners": 11311,
+        "numberOfListeners": 11418,
         "region": "ARE"
       },
       {
         "city": "Chiclayo",
         "country": "PE",
-        "numberOfListeners": 4757,
+        "numberOfListeners": 4709,
         "region": "LAM"
       },
       {
         "city": "Piura",
         "country": "PE",
-        "numberOfListeners": 3307,
+        "numberOfListeners": 3308,
         "region": "PIU"
       }
     ]

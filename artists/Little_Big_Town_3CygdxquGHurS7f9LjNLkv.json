@@ -1,38 +1,38 @@
 {
   "id": "3CygdxquGHurS7f9LjNLkv",
   "name": "Little Big Town",
-  "followers": 2803443,
-  "monthlyListeners": 3851892,
+  "followers": 2803691,
+  "monthlyListeners": 3844670,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 75473,
+        "numberOfListeners": 74927,
         "region": "IL"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 58785,
+        "numberOfListeners": 58939,
         "region": "NC"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 57435,
+        "numberOfListeners": 57388,
         "region": "TX"
       },
       {
         "city": "Minneapolis",
         "country": "US",
-        "numberOfListeners": 53250,
+        "numberOfListeners": 52674,
         "region": "MN"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 51457,
+        "numberOfListeners": 51432,
         "region": "CO"
       }
     ]

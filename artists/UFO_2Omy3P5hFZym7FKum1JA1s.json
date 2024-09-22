@@ -1,38 +1,38 @@
 {
   "id": "2Omy3P5hFZym7FKum1JA1s",
   "name": "UFO",
-  "followers": 585503,
-  "monthlyListeners": 1512446,
+  "followers": 585653,
+  "monthlyListeners": 1528510,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 27778,
+        "numberOfListeners": 27879,
         "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 23589,
+        "numberOfListeners": 23811,
         "region": "SP"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 16134,
-        "region": "ENG"
       },
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 16076,
+        "numberOfListeners": 16396,
         "region": "AB"
+      },
+      {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 16308,
+        "region": "ENG"
       },
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 14740,
+        "numberOfListeners": 15025,
         "region": "18"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "2UZMlIwnkgAEDBsw1Rejkn",
   "name": "Tom Petty",
-  "followers": 2621635,
-  "monthlyListeners": 10538989,
+  "followers": 2622594,
+  "monthlyListeners": 10455309,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 190917,
+        "numberOfListeners": 189880,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 156969,
+        "numberOfListeners": 155840,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 153896,
+        "numberOfListeners": 151683,
         "region": "IL"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 152087,
+        "numberOfListeners": 151003,
         "region": "QLD"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 137824,
+        "numberOfListeners": 135715,
         "region": "ON"
       }
     ]

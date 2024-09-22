@@ -1,38 +1,38 @@
 {
   "id": "1dfeR4HaWDbWqFHLkxsg1d",
   "name": "Queen",
-  "followers": 51256495,
-  "monthlyListeners": 52787902,
+  "followers": 51270376,
+  "monthlyListeners": 52906591,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 934614,
+        "numberOfListeners": 933596,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 858634,
+        "numberOfListeners": 857683,
         "region": "CMX"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 851500,
+        "numberOfListeners": 852877,
         "region": "SP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 733445,
+        "numberOfListeners": 733114,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 634363,
+        "numberOfListeners": 636594,
         "region": "NSW"
       }
     ]

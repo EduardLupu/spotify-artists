@@ -1,39 +1,39 @@
 {
   "id": "5wbIWUzTPuTxTyG6ouQKqz",
   "name": "Phish",
-  "followers": 523481,
-  "monthlyListeners": 462686,
+  "followers": 523590,
+  "monthlyListeners": 463020,
   "topCities": {
     "items": [
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 19405,
+        "numberOfListeners": 19427,
         "region": "CO"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 17626,
+        "numberOfListeners": 17645,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 16037,
+        "numberOfListeners": 15946,
         "region": "IL"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 12521,
+        "numberOfListeners": 12499,
         "region": "PA"
       },
       {
-        "city": "Brooklyn",
+        "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 10091,
-        "region": "NY"
+        "numberOfListeners": 10006,
+        "region": "NC"
       }
     ]
   },

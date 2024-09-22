@@ -1,38 +1,38 @@
 {
   "id": "6wsya1sriLT9Fc2UUaTRY5",
   "name": "FUEGO",
-  "followers": 1575,
-  "monthlyListeners": 22202,
+  "followers": 1577,
+  "monthlyListeners": 22360,
   "topCities": {
     "items": [
       {
         "city": "Pristina",
         "country": "XK",
-        "numberOfListeners": 1780,
+        "numberOfListeners": 1751,
         "region": ""
       },
       {
         "city": "Tirana",
         "country": "AL",
-        "numberOfListeners": 1611,
+        "numberOfListeners": 1589,
         "region": "11"
       },
       {
         "city": "Zurich",
         "country": "CH",
-        "numberOfListeners": 1401,
+        "numberOfListeners": 1387,
         "region": "ZH"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 799,
+        "numberOfListeners": 798,
         "region": "BY"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 651,
+        "numberOfListeners": 666,
         "region": "BW"
       }
     ]

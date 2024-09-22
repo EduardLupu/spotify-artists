@@ -18,16 +18,16 @@
         "region": "TX"
       },
       {
-        "city": "Azuqueca de Henares",
-        "country": "ES",
-        "numberOfListeners": 1,
-        "region": "CM"
-      },
-      {
         "city": "Luba",
         "country": "GQ",
         "numberOfListeners": 1,
         "region": "BS"
+      },
+      {
+        "city": "Azuqueca de Henares",
+        "country": "ES",
+        "numberOfListeners": 1,
+        "region": "CM"
       },
       {
         "city": "Caracas",

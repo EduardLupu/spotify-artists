@@ -1,39 +1,39 @@
 {
   "id": "7gJN8W0589FisSYJS17K54",
   "name": "Filipe Ret",
-  "followers": 6975183,
-  "monthlyListeners": 9199425,
+  "followers": 6982340,
+  "monthlyListeners": 9208447,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 1543459,
+        "numberOfListeners": 1541339,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 1050723,
+        "numberOfListeners": 1049747,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 553134,
+        "numberOfListeners": 553949,
         "region": "MG"
-      },
-      {
-        "city": "Campinas",
-        "country": "BR",
-        "numberOfListeners": 346722,
-        "region": "SP"
       },
       {
         "city": "Porto Alegre",
         "country": "BR",
-        "numberOfListeners": 346558,
+        "numberOfListeners": 347503,
         "region": "RS"
+      },
+      {
+        "city": "Campinas",
+        "country": "BR",
+        "numberOfListeners": 347416,
+        "region": "SP"
       }
     ]
   },

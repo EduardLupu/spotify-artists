@@ -1,38 +1,38 @@
 {
   "id": "2avRYQUWQpIkzJOEkf0MdY",
   "name": "Kx5",
-  "followers": 81520,
-  "monthlyListeners": 1249602,
+  "followers": 81543,
+  "monthlyListeners": 1247793,
   "topCities": {
     "items": [
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 25369,
+        "numberOfListeners": 25218,
         "region": "ON"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 23472,
+        "numberOfListeners": 23336,
         "region": "CA"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 21542,
+        "numberOfListeners": 21497,
         "region": "QC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 20758,
+        "numberOfListeners": 20769,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 18122,
+        "numberOfListeners": 18115,
         "region": "VIC"
       }
     ]

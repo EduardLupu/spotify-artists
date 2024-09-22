@@ -1,39 +1,39 @@
 {
   "id": "6Dd3NScHWwnW6obMFbl1BH",
   "name": "Daya",
-  "followers": 1660369,
-  "monthlyListeners": 16272505,
+  "followers": 1660794,
+  "monthlyListeners": 16231894,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 383310,
+        "numberOfListeners": 384108,
         "region": "JK"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 224030,
+        "numberOfListeners": 223789,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 180175,
+        "numberOfListeners": 179976,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 152475,
+        "numberOfListeners": 152284,
         "region": "QLD"
       },
       {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 141339,
-        "region": "ENG"
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 140616,
+        "region": "SP"
       }
     ]
   },

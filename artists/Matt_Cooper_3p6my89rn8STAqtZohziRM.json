@@ -1,38 +1,38 @@
 {
   "id": "3p6my89rn8STAqtZohziRM",
   "name": "Matt Cooper",
-  "followers": 135941,
-  "monthlyListeners": 230765,
+  "followers": 135953,
+  "monthlyListeners": 227935,
   "topCities": {
     "items": [
       {
         "city": "Oslo",
         "country": "NO",
-        "numberOfListeners": 5463,
+        "numberOfListeners": 5387,
         "region": "03"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 4300,
+        "numberOfListeners": 4267,
         "region": "NSW"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 3435,
+        "numberOfListeners": 3403,
         "region": "QLD"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 3341,
+        "numberOfListeners": 3292,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 3145,
+        "numberOfListeners": 3093,
         "region": "ENG"
       }
     ]

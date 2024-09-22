@@ -1,38 +1,38 @@
 {
   "id": "5lhCycgJCjQIMpWNk4DycY",
   "name": "Lanie Gardner",
-  "followers": 79810,
-  "monthlyListeners": 542309,
+  "followers": 79837,
+  "monthlyListeners": 538803,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 8466,
+        "numberOfListeners": 8425,
         "region": "NSW"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 7175,
+        "numberOfListeners": 7166,
         "region": "SP"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 6700,
+        "numberOfListeners": 6630,
         "region": "VIC"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 6347,
+        "numberOfListeners": 6278,
         "region": "ON"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 6231,
+        "numberOfListeners": 6185,
         "region": "QLD"
       }
     ]

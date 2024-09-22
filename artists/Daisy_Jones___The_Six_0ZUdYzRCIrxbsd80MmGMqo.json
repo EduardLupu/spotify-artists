@@ -1,38 +1,38 @@
 {
   "id": "0ZUdYzRCIrxbsd80MmGMqo",
   "name": "Daisy Jones & The Six",
-  "followers": 394244,
-  "monthlyListeners": 990259,
+  "followers": 394293,
+  "monthlyListeners": 992849,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 24054,
+        "numberOfListeners": 24084,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 18713,
+        "numberOfListeners": 18703,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 16239,
+        "numberOfListeners": 16317,
         "region": "NSW"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 15594,
+        "numberOfListeners": 15732,
         "region": "NY"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 15129,
+        "numberOfListeners": 15220,
         "region": "VIC"
       }
     ]

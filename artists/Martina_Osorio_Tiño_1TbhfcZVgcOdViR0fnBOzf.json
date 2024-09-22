@@ -1,39 +1,39 @@
 {
   "id": "1TbhfcZVgcOdViR0fnBOzf",
   "name": "Martina Osorio Tiño",
-  "followers": 14805,
-  "monthlyListeners": 12772,
+  "followers": 14820,
+  "monthlyListeners": 12672,
   "topCities": {
     "items": [
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 4380,
+        "numberOfListeners": 4198,
         "region": "GU"
       },
       {
         "city": "Guatemala City",
         "country": "GT",
-        "numberOfListeners": 1974,
+        "numberOfListeners": 2145,
         "region": "01"
       },
       {
         "city": "Miami",
         "country": "US",
-        "numberOfListeners": 268,
+        "numberOfListeners": 270,
         "region": "FL"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 232,
+        "numberOfListeners": 241,
         "region": "NY"
       },
       {
-        "city": "Atlanta",
+        "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 222,
-        "region": "GA"
+        "numberOfListeners": 220,
+        "region": "CA"
       }
     ]
   },

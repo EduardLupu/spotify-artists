@@ -1,38 +1,38 @@
 {
   "id": "0P3K3MbSflUxiPFmhxj2HD",
   "name": "Dominique Hourani",
-  "followers": 24389,
-  "monthlyListeners": 20422,
+  "followers": 24408,
+  "monthlyListeners": 20425,
   "topCities": {
     "items": [
       {
         "city": "Cairo",
         "country": "EG",
-        "numberOfListeners": 2879,
+        "numberOfListeners": 2889,
         "region": "C"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 920,
+        "numberOfListeners": 935,
         "region": "NSW"
       },
       {
         "city": "Alexandria",
         "country": "EG",
-        "numberOfListeners": 575,
+        "numberOfListeners": 569,
         "region": "ALX"
       },
       {
         "city": "Giza",
         "country": "EG",
-        "numberOfListeners": 470,
+        "numberOfListeners": 468,
         "region": "GZ"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 429,
+        "numberOfListeners": 430,
         "region": "VIC"
       }
     ]

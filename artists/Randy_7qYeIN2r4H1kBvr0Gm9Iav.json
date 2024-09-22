@@ -1,38 +1,38 @@
 {
   "id": "7qYeIN2r4H1kBvr0Gm9Iav",
   "name": "Randy",
-  "followers": 585746,
-  "monthlyListeners": 6683690,
+  "followers": 586314,
+  "monthlyListeners": 6643670,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 603123,
+        "numberOfListeners": 598745,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 386593,
+        "numberOfListeners": 384895,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 295208,
+        "numberOfListeners": 294827,
         "region": "LMA"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 239603,
+        "numberOfListeners": 239097,
         "region": "ANT"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 230273,
+        "numberOfListeners": 229017,
         "region": "CMX"
       }
     ]

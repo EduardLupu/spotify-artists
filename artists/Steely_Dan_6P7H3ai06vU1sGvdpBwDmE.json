@@ -1,38 +1,38 @@
 {
   "id": "6P7H3ai06vU1sGvdpBwDmE",
   "name": "Steely Dan",
-  "followers": 2291431,
-  "monthlyListeners": 5631306,
+  "followers": 2292001,
+  "monthlyListeners": 5607971,
   "topCities": {
     "items": [
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 100703,
+        "numberOfListeners": 100422,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 97105,
+        "numberOfListeners": 96393,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 88462,
+        "numberOfListeners": 88117,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 80609,
+        "numberOfListeners": 80347,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 78349,
+        "numberOfListeners": 78001,
         "region": "ENG"
       }
     ]

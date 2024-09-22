@@ -1,38 +1,38 @@
 {
   "id": "4YJsSCuag8W1TFTgSeEc2k",
   "name": "Liquid Stranger",
-  "followers": 230568,
-  "monthlyListeners": 415914,
+  "followers": 230599,
+  "monthlyListeners": 416864,
   "topCities": {
     "items": [
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 15474,
+        "numberOfListeners": 15497,
         "region": "CO"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 10581,
+        "numberOfListeners": 10580,
         "region": "IL"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 10230,
+        "numberOfListeners": 10258,
         "region": "WA"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 7996,
+        "numberOfListeners": 8000,
         "region": "CA"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 7558,
+        "numberOfListeners": 7648,
         "region": "AZ"
       }
     ]

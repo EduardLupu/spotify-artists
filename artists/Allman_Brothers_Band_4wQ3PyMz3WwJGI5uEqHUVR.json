@@ -1,38 +1,38 @@
 {
   "id": "4wQ3PyMz3WwJGI5uEqHUVR",
   "name": "Allman Brothers Band",
-  "followers": 1666920,
-  "monthlyListeners": 4520934,
+  "followers": 1667372,
+  "monthlyListeners": 4542704,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 88281,
+        "numberOfListeners": 88518,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 78300,
+        "numberOfListeners": 78727,
         "region": "NY"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 70322,
+        "numberOfListeners": 71048,
         "region": "NC"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 69977,
+        "numberOfListeners": 70498,
         "region": "CO"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 66437,
+        "numberOfListeners": 66817,
         "region": "PA"
       }
     ]

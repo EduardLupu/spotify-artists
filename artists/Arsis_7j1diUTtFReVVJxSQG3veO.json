@@ -1,38 +1,38 @@
 {
   "id": "7j1diUTtFReVVJxSQG3veO",
   "name": "Arsis",
-  "followers": 36907,
-  "monthlyListeners": 28727,
+  "followers": 36913,
+  "monthlyListeners": 28684,
   "topCities": {
     "items": [
       {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 425,
-        "region": "IL"
-      },
-      {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 422,
+        "numberOfListeners": 426,
         "region": "QC"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 421,
+        "region": "IL"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 372,
+        "numberOfListeners": 368,
         "region": "RM"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 365,
+        "numberOfListeners": 366,
         "region": "CA"
       },
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 314,
+        "numberOfListeners": 313,
         "region": "18"
       }
     ]

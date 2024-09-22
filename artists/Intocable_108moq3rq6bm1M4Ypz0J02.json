@@ -1,39 +1,39 @@
 {
   "id": "108moq3rq6bm1M4Ypz0J02",
   "name": "Intocable",
-  "followers": 3910529,
-  "monthlyListeners": 7622104,
+  "followers": 3912437,
+  "monthlyListeners": 7623841,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 788115,
+        "numberOfListeners": 784950,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 407688,
+        "numberOfListeners": 407438,
         "region": "JAL"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 355214,
+        "numberOfListeners": 352795,
         "region": "QUE"
       },
       {
         "city": "Monterrey",
         "country": "MX",
-        "numberOfListeners": 337654,
+        "numberOfListeners": 339744,
         "region": "NLE"
       },
       {
-        "city": "Puebla City",
+        "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 313437,
-        "region": "PUE"
+        "numberOfListeners": 314152,
+        "region": "CMX"
       }
     ]
   },

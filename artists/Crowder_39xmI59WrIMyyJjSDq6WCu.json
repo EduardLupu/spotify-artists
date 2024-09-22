@@ -1,38 +1,38 @@
 {
   "id": "39xmI59WrIMyyJjSDq6WCu",
   "name": "Crowder",
-  "followers": 472290,
-  "monthlyListeners": 1622625,
+  "followers": 472550,
+  "monthlyListeners": 1621813,
   "topCities": {
     "items": [
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 38115,
+        "numberOfListeners": 38125,
         "region": "TX"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 32930,
+        "numberOfListeners": 32995,
         "region": "NC"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 29598,
+        "numberOfListeners": 29627,
         "region": "GA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 26776,
+        "numberOfListeners": 26667,
         "region": "IL"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 24383,
+        "numberOfListeners": 24394,
         "region": "TX"
       }
     ]

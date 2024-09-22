@@ -1,38 +1,38 @@
 {
   "id": "3Vl9fyKMIdLMswk8ai3mm9",
   "name": "Rebecca Black",
-  "followers": 137651,
-  "monthlyListeners": 275344,
+  "followers": 137694,
+  "monthlyListeners": 281051,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 4710,
+        "numberOfListeners": 4776,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 3817,
+        "numberOfListeners": 3865,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 3646,
+        "numberOfListeners": 3661,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 3586,
+        "numberOfListeners": 3585,
         "region": "VIC"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 3421,
+        "numberOfListeners": 3561,
         "region": "NY"
       }
     ]

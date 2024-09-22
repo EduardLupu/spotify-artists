@@ -1,20 +1,20 @@
 {
   "id": "35LM3RHYCFdizCendce2Iw",
   "name": "nacho",
-  "followers": 1568,
-  "monthlyListeners": 9079,
+  "followers": 1569,
+  "monthlyListeners": 9055,
   "topCities": {
     "items": [
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 93,
+        "numberOfListeners": 92,
         "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 85,
+        "numberOfListeners": 84,
         "region": "NSW"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 79,
+        "numberOfListeners": 77,
         "region": "IL"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 76,
+        "numberOfListeners": 75,
         "region": "TX"
       }
     ]

@@ -2,7 +2,7 @@
   "id": "0ZuTraFVvHwbavFyzRH0xE",
   "name": "Sounds of Nature (Dharma production)",
   "followers": 152,
-  "monthlyListeners": 169,
+  "monthlyListeners": 174,
   "topCities": {
     "items": [
       {
@@ -12,28 +12,28 @@
         "region": "DC"
       },
       {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 4,
+        "region": "WA"
+      },
+      {
         "city": "Los Angeles",
         "country": "US",
         "numberOfListeners": 4,
         "region": "CA"
       },
       {
-        "city": "Melbourne",
-        "country": "AU",
-        "numberOfListeners": 3,
-        "region": "VIC"
-      },
-      {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 3,
+        "numberOfListeners": 4,
         "region": "ANT"
       },
       {
-        "city": "Seattle",
+        "city": "New York City",
         "country": "US",
         "numberOfListeners": 3,
-        "region": "WA"
+        "region": "NY"
       }
     ]
   },

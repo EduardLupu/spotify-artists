@@ -1,39 +1,39 @@
 {
   "id": "0p5J6Pid4QK3jg9jTjduFK",
   "name": "Joe",
-  "followers": 3368,
-  "monthlyListeners": 2811,
+  "followers": 3369,
+  "monthlyListeners": 2801,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 194,
+        "numberOfListeners": 192,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 68,
+        "numberOfListeners": 66,
         "region": "VIC"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 55,
+        "numberOfListeners": 56,
         "region": "BE"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 51,
+        "numberOfListeners": 53,
         "region": "NSW"
       },
       {
-        "city": "Los Angeles",
+        "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 46,
-        "region": "CA"
+        "numberOfListeners": 47,
+        "region": "NY"
       }
     ]
   },

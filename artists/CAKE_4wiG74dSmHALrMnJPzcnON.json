@@ -1,26 +1,26 @@
 {
   "id": "4wiG74dSmHALrMnJPzcnON",
   "name": "CAKE",
-  "followers": 11,
-  "monthlyListeners": 8473,
+  "followers": 12,
+  "monthlyListeners": 8562,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 127,
+        "numberOfListeners": 128,
         "region": "IL"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 101,
+        "numberOfListeners": 103,
         "region": "WA"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 98,
+        "numberOfListeners": 99,
         "region": "CO"
       },
       {
@@ -30,10 +30,10 @@
         "region": "18"
       },
       {
-        "city": "Philadelphia",
+        "city": "New York City",
         "country": "US",
-        "numberOfListeners": 86,
-        "region": "PA"
+        "numberOfListeners": 87,
+        "region": "NY"
       }
     ]
   },

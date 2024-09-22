@@ -1,38 +1,38 @@
 {
   "id": "4oM3Je53CRLYbbpgj0w6P0",
   "name": "Jokes On Wokes",
-  "followers": 3379,
-  "monthlyListeners": 134699,
+  "followers": 3385,
+  "monthlyListeners": 134249,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2749,
+        "numberOfListeners": 2726,
         "region": "IL"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 2300,
+        "numberOfListeners": 2317,
         "region": "CO"
-      },
-      {
-        "city": "Seattle",
-        "country": "US",
-        "numberOfListeners": 2291,
-        "region": "WA"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 2277,
+        "numberOfListeners": 2282,
         "region": "NC"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 2264,
+        "region": "WA"
       },
       {
         "city": "Minneapolis",
         "country": "US",
-        "numberOfListeners": 2243,
+        "numberOfListeners": 2219,
         "region": "MN"
       }
     ]

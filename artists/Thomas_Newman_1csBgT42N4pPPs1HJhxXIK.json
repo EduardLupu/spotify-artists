@@ -1,38 +1,38 @@
 {
   "id": "1csBgT42N4pPPs1HJhxXIK",
   "name": "Thomas Newman",
-  "followers": 254499,
-  "monthlyListeners": 4779431,
+  "followers": 254593,
+  "monthlyListeners": 4782967,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 63154,
+        "numberOfListeners": 62856,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 56308,
+        "numberOfListeners": 56128,
         "region": "NSW"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 54224,
+        "numberOfListeners": 54364,
         "region": "JK"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 49411,
+        "numberOfListeners": 49276,
         "region": "VIC"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 41535,
+        "numberOfListeners": 41522,
         "region": "CA"
       }
     ]

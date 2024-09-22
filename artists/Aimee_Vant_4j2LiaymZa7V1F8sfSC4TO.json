@@ -1,38 +1,38 @@
 {
   "id": "4j2LiaymZa7V1F8sfSC4TO",
   "name": "Aimee Vant",
-  "followers": 5873,
-  "monthlyListeners": 21526,
+  "followers": 5879,
+  "monthlyListeners": 21374,
   "topCities": {
     "items": [
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 298,
+        "numberOfListeners": 290,
         "region": "VIC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 276,
+        "numberOfListeners": 279,
         "region": "NSW"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 275,
+        "numberOfListeners": 276,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 232,
+        "numberOfListeners": 227,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 228,
+        "numberOfListeners": 223,
         "region": "CA"
       }
     ]

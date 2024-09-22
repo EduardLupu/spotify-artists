@@ -1,38 +1,38 @@
 {
   "id": "10XY9PZCJKzUFzZOdtlQLU",
   "name": "LX",
-  "followers": 191867,
-  "monthlyListeners": 1108243,
+  "followers": 191924,
+  "monthlyListeners": 1109340,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 106904,
+        "numberOfListeners": 106879,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 86802,
+        "numberOfListeners": 89859,
         "region": "HH"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 80920,
+        "numberOfListeners": 80896,
         "region": "HE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 67238,
+        "numberOfListeners": 67606,
         "region": "BY"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 61223,
+        "numberOfListeners": 62607,
         "region": "BW"
       }
     ]

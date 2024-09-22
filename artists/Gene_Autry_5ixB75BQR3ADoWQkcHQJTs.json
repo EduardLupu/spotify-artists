@@ -1,38 +1,38 @@
 {
   "id": "5ixB75BQR3ADoWQkcHQJTs",
   "name": "Gene Autry",
-  "followers": 70885,
-  "monthlyListeners": 435799,
+  "followers": 70904,
+  "monthlyListeners": 442856,
   "topCities": {
     "items": [
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 11012,
+        "numberOfListeners": 11342,
         "region": "00"
       },
       {
         "city": "Cebu City",
         "country": "PH",
-        "numberOfListeners": 5750,
+        "numberOfListeners": 5910,
         "region": "07"
       },
       {
         "city": "Manila",
         "country": "PH",
-        "numberOfListeners": 5648,
+        "numberOfListeners": 5797,
         "region": "00"
       },
       {
         "city": "Davao City",
         "country": "PH",
-        "numberOfListeners": 4799,
+        "numberOfListeners": 4921,
         "region": "11"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 3397,
+        "numberOfListeners": 3486,
         "region": "CA"
       }
     ]

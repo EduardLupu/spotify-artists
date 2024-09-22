@@ -1,39 +1,39 @@
 {
   "id": "5aU8qm9nbrIaXO8ieyKlTa",
   "name": "Loredana",
-  "followers": 39386,
-  "monthlyListeners": 116081,
+  "followers": 39392,
+  "monthlyListeners": 116662,
   "topCities": {
     "items": [
       {
         "city": "Bucharest",
         "country": "RO",
-        "numberOfListeners": 12794,
+        "numberOfListeners": 12880,
         "region": "B"
       },
       {
         "city": "Cluj-Napoca",
         "country": "RO",
-        "numberOfListeners": 3864,
+        "numberOfListeners": 3921,
         "region": "CJ"
       },
       {
         "city": "Zurich",
         "country": "CH",
-        "numberOfListeners": 3001,
+        "numberOfListeners": 2998,
         "region": "ZH"
       },
       {
         "city": "Timișoara",
         "country": "RO",
-        "numberOfListeners": 2743,
+        "numberOfListeners": 2801,
         "region": "TM"
       },
       {
-        "city": "Pristina",
-        "country": "XK",
-        "numberOfListeners": 2353,
-        "region": ""
+        "city": "Iasi",
+        "country": "RO",
+        "numberOfListeners": 2370,
+        "region": "IS"
       }
     ]
   },

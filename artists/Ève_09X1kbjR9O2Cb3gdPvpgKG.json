@@ -1,39 +1,39 @@
 {
   "id": "09X1kbjR9O2Cb3gdPvpgKG",
   "name": "Ève",
-  "followers": 2827,
-  "monthlyListeners": 24829,
+  "followers": 2854,
+  "monthlyListeners": 25073,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 5093,
+        "numberOfListeners": 5248,
         "region": "IDF"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 1096,
+        "numberOfListeners": 1098,
         "region": "ARA"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 948,
+        "numberOfListeners": 964,
         "region": "BRU"
-      },
-      {
-        "city": "Bordeaux",
-        "country": "FR",
-        "numberOfListeners": 711,
-        "region": "NAQ"
       },
       {
         "city": "Nantes",
         "country": "FR",
-        "numberOfListeners": 698,
+        "numberOfListeners": 715,
         "region": "PDL"
+      },
+      {
+        "city": "Bordeaux",
+        "country": "FR",
+        "numberOfListeners": 699,
+        "region": "NAQ"
       }
     ]
   },

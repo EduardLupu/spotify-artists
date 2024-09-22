@@ -1,38 +1,38 @@
 {
   "id": "01Fr5nbN9cG3Cu4nkyFMHr",
   "name": "Loredana",
-  "followers": 2475,
-  "monthlyListeners": 8598,
+  "followers": 2476,
+  "monthlyListeners": 8546,
   "topCities": {
     "items": [
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 1982,
+        "numberOfListeners": 1957,
         "region": "BRU"
       },
       {
         "city": "Antwerp",
         "country": "BE",
-        "numberOfListeners": 570,
+        "numberOfListeners": 564,
         "region": "VLG"
       },
       {
         "city": "Ghent",
         "country": "BE",
-        "numberOfListeners": 179,
+        "numberOfListeners": 182,
         "region": "VLG"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 175,
+        "numberOfListeners": 177,
         "region": "NH"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 141,
+        "numberOfListeners": 144,
         "region": "ZH"
       }
     ]

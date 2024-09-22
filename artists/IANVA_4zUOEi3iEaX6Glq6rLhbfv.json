@@ -1,20 +1,20 @@
 {
   "id": "4zUOEi3iEaX6Glq6rLhbfv",
   "name": "IANVA",
-  "followers": 1553,
-  "monthlyListeners": 491,
+  "followers": 1554,
+  "monthlyListeners": 489,
   "topCities": {
     "items": [
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 41,
+        "numberOfListeners": 40,
         "region": "25"
       },
       {
         "city": "Rome",
         "country": "IT",
-        "numberOfListeners": 30,
+        "numberOfListeners": 31,
         "region": "62"
       },
       {
@@ -30,10 +30,10 @@
         "region": "34"
       },
       {
-        "city": "Turin",
-        "country": "IT",
-        "numberOfListeners": 6,
-        "region": "21"
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 7,
+        "region": "RM"
       }
     ]
   },

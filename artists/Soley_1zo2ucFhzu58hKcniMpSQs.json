@@ -1,38 +1,38 @@
 {
   "id": "1zo2ucFhzu58hKcniMpSQs",
   "name": "Soley",
-  "followers": 53775,
-  "monthlyListeners": 368384,
+  "followers": 53800,
+  "monthlyListeners": 366950,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 94209,
+        "numberOfListeners": 93405,
         "region": "DC"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 44673,
+        "numberOfListeners": 44453,
         "region": "ANT"
       },
       {
         "city": "Santiago de Cali",
         "country": "CO",
-        "numberOfListeners": 20862,
+        "numberOfListeners": 20746,
         "region": "VAC"
       },
       {
         "city": "Barranquilla",
         "country": "CO",
-        "numberOfListeners": 18185,
+        "numberOfListeners": 18156,
         "region": "ATL"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 8566,
+        "numberOfListeners": 8515,
         "region": "LMA"
       }
     ]

@@ -1,41 +1,41 @@
 {
   "id": "4bL2B6hmLlMWnUEZnorEtG",
   "name": "Felix Jaehn",
-  "followers": 1282892,
-  "monthlyListeners": 21924879,
+  "followers": 1283010,
+  "monthlyListeners": 21825603,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 464943,
+        "numberOfListeners": 463829,
         "region": "JK"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 301185,
+        "numberOfListeners": 299953,
         "region": "BE"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 268651,
+        "numberOfListeners": 269001,
         "region": "NSW"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 264267,
+        "numberOfListeners": 265219,
         "region": "NH"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 251384,
+        "numberOfListeners": 249565,
         "region": "ENG"
       }
     ]
   },
-  "worldRank": 310
+  "worldRank": 312
 }

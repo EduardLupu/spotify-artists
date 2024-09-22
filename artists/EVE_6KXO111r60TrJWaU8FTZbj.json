@@ -2,38 +2,38 @@
   "id": "6KXO111r60TrJWaU8FTZbj",
   "name": "EVE",
   "followers": 851,
-  "monthlyListeners": 3929,
+  "monthlyListeners": 3891,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 548,
+        "numberOfListeners": 553,
         "region": "JK"
       },
       {
         "city": "Seoul",
         "country": "KR",
-        "numberOfListeners": 211,
+        "numberOfListeners": 210,
         "region": "11"
       },
       {
         "city": "Bandung",
         "country": "ID",
-        "numberOfListeners": 118,
+        "numberOfListeners": 114,
         "region": "JB"
-      },
-      {
-        "city": "Singapore",
-        "country": "SG",
-        "numberOfListeners": 81,
-        "region": ""
       },
       {
         "city": "Gangnam-gu",
         "country": "KR",
-        "numberOfListeners": 81,
+        "numberOfListeners": 79,
         "region": "11"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 75,
+        "region": ""
       }
     ]
   },

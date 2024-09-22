@@ -1,41 +1,41 @@
 {
   "id": "04gDigrS5kc9YWfZHwBETP",
   "name": "Maroon 5",
-  "followers": 42619231,
-  "monthlyListeners": 61597559,
+  "followers": 42630664,
+  "monthlyListeners": 61655961,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 1894036,
+        "numberOfListeners": 1910540,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 960158,
+        "numberOfListeners": 961837,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 688972,
+        "numberOfListeners": 689989,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 672276,
+        "numberOfListeners": 670399,
         "region": "ENG"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 657689,
+        "numberOfListeners": 656306,
         "region": "CMX"
       }
     ]
   },
-  "worldRank": 27
+  "worldRank": 26
 }

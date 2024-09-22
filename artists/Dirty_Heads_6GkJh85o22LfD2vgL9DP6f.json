@@ -1,38 +1,38 @@
 {
   "id": "6GkJh85o22LfD2vgL9DP6f",
   "name": "Dirty Heads",
-  "followers": 835268,
-  "monthlyListeners": 3215840,
+  "followers": 835441,
+  "monthlyListeners": 3200216,
   "topCities": {
     "items": [
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 62733,
+        "numberOfListeners": 62578,
         "region": "CO"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 59188,
+        "numberOfListeners": 58859,
         "region": "CA"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 49947,
+        "numberOfListeners": 49982,
         "region": "AZ"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 48644,
+        "numberOfListeners": 48395,
         "region": "WA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 45587,
+        "numberOfListeners": 45300,
         "region": "IL"
       }
     ]

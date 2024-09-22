@@ -1,38 +1,38 @@
 {
   "id": "5p7mWeX4RlvqBCxylfiXdE",
   "name": "KC Rebell",
-  "followers": 1175672,
-  "monthlyListeners": 1538073,
+  "followers": 1175727,
+  "monthlyListeners": 1535095,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 140973,
+        "numberOfListeners": 140771,
         "region": "BE"
-      },
-      {
-        "city": "Frankfurt am Main",
-        "country": "DE",
-        "numberOfListeners": 116090,
-        "region": "HE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 113708,
+        "numberOfListeners": 117269,
         "region": "HH"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 115807,
+        "region": "HE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 96345,
+        "numberOfListeners": 96621,
         "region": "BY"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 93343,
+        "numberOfListeners": 95140,
         "region": "BW"
       }
     ]

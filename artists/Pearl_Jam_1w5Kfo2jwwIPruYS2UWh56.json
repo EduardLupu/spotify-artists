@@ -1,38 +1,38 @@
 {
   "id": "1w5Kfo2jwwIPruYS2UWh56",
   "name": "Pearl Jam",
-  "followers": 9017203,
-  "monthlyListeners": 13333828,
+  "followers": 9019713,
+  "monthlyListeners": 13321201,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 484774,
+        "numberOfListeners": 483772,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 330373,
+        "numberOfListeners": 327974,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 213291,
+        "numberOfListeners": 213849,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 192531,
+        "numberOfListeners": 192585,
         "region": "VIC"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 174956,
+        "numberOfListeners": 174584,
         "region": "RJ"
       }
     ]

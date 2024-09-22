@@ -1,41 +1,41 @@
 {
   "id": "3QSQFmccmX81fWCUSPTS7y",
   "name": "Dean Lewis",
-  "followers": 3306333,
-  "monthlyListeners": 17516190,
+  "followers": 3308050,
+  "monthlyListeners": 17452202,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 372899,
+        "numberOfListeners": 374423,
         "region": "JK"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 357567,
+        "numberOfListeners": 356632,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 307923,
+        "numberOfListeners": 307107,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 261307,
+        "numberOfListeners": 259435,
         "region": "ENG"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 235533,
+        "numberOfListeners": 234752,
         "region": "QLD"
       }
     ]
   },
-  "worldRank": 456
+  "worldRank": 459
 }

@@ -1,38 +1,38 @@
 {
   "id": "57JVa2arbT41WF9qmi7C5E",
   "name": "Baby Gas",
-  "followers": 13712,
-  "monthlyListeners": 59100,
+  "followers": 13715,
+  "monthlyListeners": 58862,
   "topCities": {
     "items": [
       {
         "city": "Sacramento",
         "country": "US",
-        "numberOfListeners": 3058,
+        "numberOfListeners": 3029,
         "region": "CA"
       },
       {
         "city": "San Francisco",
         "country": "US",
-        "numberOfListeners": 2064,
+        "numberOfListeners": 2053,
         "region": "CA"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1748,
-        "region": "CA"
-      },
-      {
-        "city": "San Jose",
-        "country": "US",
-        "numberOfListeners": 1419,
+        "numberOfListeners": 1744,
         "region": "CA"
       },
       {
         "city": "Oakland",
         "country": "US",
-        "numberOfListeners": 1407,
+        "numberOfListeners": 1465,
+        "region": "CA"
+      },
+      {
+        "city": "San Jose",
+        "country": "US",
+        "numberOfListeners": 1439,
         "region": "CA"
       }
     ]

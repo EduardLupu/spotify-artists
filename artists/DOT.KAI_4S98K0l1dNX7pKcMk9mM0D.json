@@ -2,32 +2,32 @@
   "id": "4S98K0l1dNX7pKcMk9mM0D",
   "name": "DOT.KAI",
   "followers": 718,
-  "monthlyListeners": 1111,
+  "monthlyListeners": 1108,
   "topCities": {
     "items": [
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 68,
+        "numberOfListeners": 70,
         "region": "13"
       },
       {
         "city": "Osaka",
         "country": "JP",
-        "numberOfListeners": 23,
+        "numberOfListeners": 24,
         "region": "27"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 13,
+        "numberOfListeners": 12,
         "region": "ON"
       },
       {
-        "city": "Houston",
+        "city": "Los Angeles",
         "country": "US",
         "numberOfListeners": 9,
-        "region": "TX"
+        "region": "CA"
       },
       {
         "city": "Chicago",

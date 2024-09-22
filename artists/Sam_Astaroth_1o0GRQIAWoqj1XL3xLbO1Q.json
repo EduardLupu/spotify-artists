@@ -1,38 +1,38 @@
 {
   "id": "1o0GRQIAWoqj1XL3xLbO1Q",
   "name": "Sam Astaroth",
-  "followers": 2955,
-  "monthlyListeners": 32965,
+  "followers": 2959,
+  "monthlyListeners": 32821,
   "topCities": {
     "items": [
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 637,
+        "numberOfListeners": 575,
         "region": "18"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 508,
+        "numberOfListeners": 511,
         "region": "JK"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 315,
+        "numberOfListeners": 310,
         "region": "SP"
       },
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 267,
+        "numberOfListeners": 269,
         "region": "34"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 262,
+        "numberOfListeners": 260,
         "region": "BE"
       }
     ]

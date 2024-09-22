@@ -1,38 +1,38 @@
 {
   "id": "0fAEWMlRd4yiJBT2usaqqc",
   "name": "Softwilly",
-  "followers": 144507,
-  "monthlyListeners": 523619,
+  "followers": 144524,
+  "monthlyListeners": 523110,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 7384,
+        "numberOfListeners": 7387,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 6736,
+        "numberOfListeners": 6674,
         "region": "CA"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 6386,
+        "numberOfListeners": 6389,
         "region": "TX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 6236,
+        "numberOfListeners": 6226,
         "region": "NSW"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 5556,
+        "numberOfListeners": 5576,
         "region": "AZ"
       }
     ]

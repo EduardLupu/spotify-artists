@@ -1,38 +1,38 @@
 {
   "id": "7aBzpmFXB4WWpPl2F7RjBe",
   "name": "Wyclef Jean",
-  "followers": 350814,
-  "monthlyListeners": 5882854,
+  "followers": 351007,
+  "monthlyListeners": 5881470,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 114897,
+        "numberOfListeners": 114310,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 98300,
+        "numberOfListeners": 98155,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 83265,
+        "numberOfListeners": 83431,
         "region": "NSW"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 66222,
+        "numberOfListeners": 66563,
         "region": "IDF"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 63102,
+        "numberOfListeners": 63184,
         "region": "VIC"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "3dYZEqP6PfjEyjkUxgmg8d",
   "name": "Fleetzy",
-  "followers": 1036,
-  "monthlyListeners": 12034,
+  "followers": 1037,
+  "monthlyListeners": 12128,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 1822,
+        "numberOfListeners": 1849,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 480,
+        "numberOfListeners": 481,
         "region": "BRU"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 386,
+        "numberOfListeners": 400,
         "region": "ARA"
       },
       {
         "city": "Marseille",
         "country": "FR",
-        "numberOfListeners": 263,
+        "numberOfListeners": 266,
         "region": "PAC"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 241,
+        "numberOfListeners": 250,
         "region": "HDF"
       }
     ]

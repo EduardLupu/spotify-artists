@@ -1,38 +1,38 @@
 {
   "id": "4YwB41gFHCxY5bcNR3CcIH",
   "name": "Monstercat",
-  "followers": 760058,
-  "monthlyListeners": 437968,
+  "followers": 760068,
+  "monthlyListeners": 437595,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 5171,
+        "numberOfListeners": 5153,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 4759,
+        "numberOfListeners": 4732,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 4230,
+        "numberOfListeners": 4228,
         "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 4200,
+        "numberOfListeners": 4181,
         "region": "VIC"
       },
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 3828,
+        "numberOfListeners": 3810,
         "region": "18"
       }
     ]

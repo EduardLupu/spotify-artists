@@ -1,38 +1,38 @@
 {
   "id": "5NNlkZBrBpOJ7C11JwVxIj",
   "name": "PXNDX",
-  "followers": 1503993,
-  "monthlyListeners": 3274758,
+  "followers": 1504613,
+  "monthlyListeners": 3258910,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 353180,
+        "numberOfListeners": 351052,
         "region": "CMX"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 156635,
-        "region": "CMX"
-      },
-      {
-        "city": "Iztapalapa",
-        "country": "MX",
-        "numberOfListeners": 141069,
+        "numberOfListeners": 158481,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 139715,
+        "numberOfListeners": 138129,
         "region": "RM"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 136613,
+        "region": "CMX"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 134325,
+        "numberOfListeners": 134103,
         "region": "LMA"
       }
     ]

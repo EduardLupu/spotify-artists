@@ -1,38 +1,38 @@
 {
   "id": "3rZ8fyWjKRIlcsQcJJja46",
   "name": "Deep Forest",
-  "followers": 2709,
-  "monthlyListeners": 80922,
+  "followers": 2718,
+  "monthlyListeners": 80626,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 2329,
+        "numberOfListeners": 2331,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 1981,
+        "numberOfListeners": 1977,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 1522,
+        "numberOfListeners": 1516,
         "region": "QLD"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1467,
+        "numberOfListeners": 1455,
         "region": "ENG"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 1066,
+        "numberOfListeners": 1045,
         "region": "RM"
       }
     ]

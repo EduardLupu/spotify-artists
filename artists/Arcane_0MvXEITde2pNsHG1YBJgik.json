@@ -1,20 +1,20 @@
 {
   "id": "0MvXEITde2pNsHG1YBJgik",
   "name": "Arcane",
-  "followers": 4334,
-  "monthlyListeners": 7391,
+  "followers": 4337,
+  "monthlyListeners": 7404,
   "topCities": {
     "items": [
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 147,
+        "numberOfListeners": 141,
         "region": "ON"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 103,
+        "numberOfListeners": 102,
         "region": "VIC"
       },
       {
@@ -30,10 +30,10 @@
         "region": "NSW"
       },
       {
-        "city": "Seattle",
-        "country": "US",
-        "numberOfListeners": 68,
-        "region": "WA"
+        "city": "Montreal",
+        "country": "CA",
+        "numberOfListeners": 70,
+        "region": "QC"
       }
     ]
   },

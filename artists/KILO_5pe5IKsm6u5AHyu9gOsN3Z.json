@@ -1,38 +1,38 @@
 {
   "id": "5pe5IKsm6u5AHyu9gOsN3Z",
   "name": "KILO",
-  "followers": 376,
-  "monthlyListeners": 15008,
+  "followers": 378,
+  "monthlyListeners": 14986,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 201,
+        "numberOfListeners": 198,
         "region": "NSW"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 161,
+        "numberOfListeners": 165,
         "region": "BE"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 154,
+        "numberOfListeners": 152,
         "region": "VIC"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 154,
+        "numberOfListeners": 149,
         "region": "NH"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 133,
+        "numberOfListeners": 130,
         "region": "IDF"
       }
     ]

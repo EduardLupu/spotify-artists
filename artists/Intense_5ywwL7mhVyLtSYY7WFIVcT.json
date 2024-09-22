@@ -2,13 +2,13 @@
   "id": "5ywwL7mhVyLtSYY7WFIVcT",
   "name": "Intense",
   "followers": 22,
-  "monthlyListeners": 55,
+  "monthlyListeners": 49,
   "topCities": {
     "items": [
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 13,
+        "numberOfListeners": 11,
         "region": "14"
       },
       {
@@ -24,16 +24,16 @@
         "region": "06"
       },
       {
-        "city": "Poznan",
+        "city": "Tarnów",
         "country": "PL",
         "numberOfListeners": 2,
-        "region": "30"
+        "region": "12"
       },
       {
-        "city": "Wyszków",
+        "city": "Lodz",
         "country": "PL",
         "numberOfListeners": 2,
-        "region": "14"
+        "region": "10"
       }
     ]
   },

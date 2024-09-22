@@ -2,19 +2,19 @@
   "id": "3VMOCYTorZ6PGOoYDLdeML",
   "name": "Shake",
   "followers": 259,
-  "monthlyListeners": 3381,
+  "monthlyListeners": 3366,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 164,
+        "numberOfListeners": 165,
         "region": "ENG"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 120,
+        "numberOfListeners": 119,
         "region": "NH"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 68,
+        "numberOfListeners": 69,
         "region": "IDF"
       }
     ]

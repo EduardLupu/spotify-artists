@@ -1,38 +1,38 @@
 {
   "id": "7muzHifhMdnfN1xncRLOqk",
   "name": "Flux Pavilion",
-  "followers": 710592,
-  "monthlyListeners": 1763725,
+  "followers": 710653,
+  "monthlyListeners": 1760129,
   "topCities": {
     "items": [
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 29868,
+        "numberOfListeners": 29742,
         "region": "CO"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 28467,
+        "numberOfListeners": 28343,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 26981,
+        "numberOfListeners": 26880,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 24413,
+        "numberOfListeners": 24421,
         "region": "NSW"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 24043,
+        "numberOfListeners": 23953,
         "region": "WA"
       }
     ]

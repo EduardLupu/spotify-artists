@@ -1,38 +1,38 @@
 {
   "id": "4sIuoDOzSlBqeiNJl631zX",
   "name": "The 502s",
-  "followers": 185279,
-  "monthlyListeners": 1557144,
+  "followers": 185314,
+  "monthlyListeners": 1552127,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 29275,
+        "numberOfListeners": 29029,
         "region": "ENG"
-      },
-      {
-        "city": "Dublin",
-        "country": "IE",
-        "numberOfListeners": 28570,
-        "region": "L"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 28547,
+        "numberOfListeners": 28495,
         "region": "NSW"
+      },
+      {
+        "city": "Dublin",
+        "country": "IE",
+        "numberOfListeners": 28492,
+        "region": "L"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 24289,
+        "numberOfListeners": 24099,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 24059,
+        "numberOfListeners": 23988,
         "region": "NY"
       }
     ]

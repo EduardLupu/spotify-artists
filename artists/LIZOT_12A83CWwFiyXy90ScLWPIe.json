@@ -1,38 +1,38 @@
 {
   "id": "12A83CWwFiyXy90ScLWPIe",
   "name": "LIZOT",
-  "followers": 96735,
-  "monthlyListeners": 5049022,
+  "followers": 96803,
+  "monthlyListeners": 5023310,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 172739,
+        "numberOfListeners": 172433,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 160532,
+        "numberOfListeners": 165597,
         "region": "HH"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 124426,
+        "numberOfListeners": 123896,
         "region": "HE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 117719,
+        "numberOfListeners": 118092,
         "region": "BY"
       },
       {
         "city": "Vienna",
         "country": "AT",
-        "numberOfListeners": 91058,
+        "numberOfListeners": 90600,
         "region": "9"
       }
     ]

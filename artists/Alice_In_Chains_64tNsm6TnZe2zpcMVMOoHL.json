@@ -1,38 +1,38 @@
 {
   "id": "64tNsm6TnZe2zpcMVMOoHL",
   "name": "Alice In Chains",
-  "followers": 5271752,
-  "monthlyListeners": 8981621,
+  "followers": 5274187,
+  "monthlyListeners": 9020624,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 165809,
+        "numberOfListeners": 165969,
         "region": "SP"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 150182,
+        "numberOfListeners": 150264,
         "region": "IL"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 145472,
+        "numberOfListeners": 144590,
         "region": "RM"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 117907,
+        "numberOfListeners": 118455,
         "region": "TX"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 115196,
+        "numberOfListeners": 115910,
         "region": "CA"
       }
     ]

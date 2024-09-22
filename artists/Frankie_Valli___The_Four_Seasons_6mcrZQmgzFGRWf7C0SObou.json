@@ -1,38 +1,38 @@
 {
   "id": "6mcrZQmgzFGRWf7C0SObou",
   "name": "Frankie Valli & The Four Seasons",
-  "followers": 646590,
-  "monthlyListeners": 6760608,
+  "followers": 646964,
+  "monthlyListeners": 6737660,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 135767,
+        "numberOfListeners": 134871,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 128565,
+        "numberOfListeners": 128388,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 109533,
+        "numberOfListeners": 109272,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 90840,
+        "numberOfListeners": 90541,
         "region": "QLD"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 73296,
+        "numberOfListeners": 73030,
         "region": "IL"
       }
     ]

@@ -2,37 +2,37 @@
   "id": "6tMuxRzXZ6w3jksVt1YZkN",
   "name": "TRUENO",
   "followers": 129,
-  "monthlyListeners": 534,
+  "monthlyListeners": 591,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 29,
+        "numberOfListeners": 30,
         "region": "RM"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 19,
+        "numberOfListeners": 21,
         "region": "C"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 15,
+        "numberOfListeners": 18,
         "region": "MD"
       },
       {
-        "city": "Minsk",
-        "country": "BY",
-        "numberOfListeners": 12,
-        "region": "HM"
+        "city": "Barcelona",
+        "country": "ES",
+        "numberOfListeners": 13,
+        "region": "CT"
       },
       {
         "city": "Quito",
         "country": "EC",
-        "numberOfListeners": 11,
+        "numberOfListeners": 12,
         "region": "P"
       }
     ]

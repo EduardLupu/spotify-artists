@@ -1,38 +1,38 @@
 {
   "id": "0YuJiLGzpxo2Hck7ckLbBP",
   "name": "Big Matt",
-  "followers": 25360,
-  "monthlyListeners": 49820,
+  "followers": 25368,
+  "monthlyListeners": 50008,
   "topCities": {
     "items": [
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 1166,
+        "numberOfListeners": 1159,
         "region": "NC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 969,
+        "numberOfListeners": 957,
         "region": "IL"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 910,
+        "numberOfListeners": 921,
         "region": "GA"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 876,
+        "numberOfListeners": 886,
         "region": "TX"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 812,
+        "numberOfListeners": 820,
         "region": "CO"
       }
     ]

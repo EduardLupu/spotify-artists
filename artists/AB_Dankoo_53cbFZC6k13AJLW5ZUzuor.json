@@ -2,38 +2,38 @@
   "id": "53cbFZC6k13AJLW5ZUzuor",
   "name": "AB Dankoo",
   "followers": 330,
-  "monthlyListeners": 1937,
+  "monthlyListeners": 1943,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 69,
+        "numberOfListeners": 72,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 49,
+        "numberOfListeners": 46,
         "region": "CA"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 43,
+        "numberOfListeners": 45,
         "region": "GA"
-      },
-      {
-        "city": "Detroit",
-        "country": "US",
-        "numberOfListeners": 37,
-        "region": "MI"
       },
       {
         "city": "Houston",
         "country": "US",
         "numberOfListeners": 37,
         "region": "TX"
+      },
+      {
+        "city": "Detroit",
+        "country": "US",
+        "numberOfListeners": 36,
+        "region": "MI"
       }
     ]
   },

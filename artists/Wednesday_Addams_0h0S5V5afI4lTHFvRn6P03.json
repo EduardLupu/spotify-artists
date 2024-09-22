@@ -1,39 +1,39 @@
 {
   "id": "0h0S5V5afI4lTHFvRn6P03",
   "name": "Wednesday Addams",
-  "followers": 101007,
-  "monthlyListeners": 370842,
+  "followers": 101076,
+  "monthlyListeners": 370313,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 4587,
+        "numberOfListeners": 4578,
         "region": "IDF"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 3898,
+        "numberOfListeners": 3849,
         "region": "CMX"
       },
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 3372,
+        "numberOfListeners": 3387,
         "region": "34"
-      },
-      {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 3176,
-        "region": "NSW"
       },
       {
         "city": "Prague",
         "country": "CZ",
-        "numberOfListeners": 3171,
+        "numberOfListeners": 3163,
         "region": "10"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 3155,
+        "region": "NSW"
       }
     ]
   },

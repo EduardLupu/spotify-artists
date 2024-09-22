@@ -12,28 +12,28 @@
         "region": "LMA"
       },
       {
-        "city": "Juliaca",
-        "country": "PE",
-        "numberOfListeners": 1,
-        "region": "PUN"
-      },
-      {
         "city": "Arequipa",
         "country": "PE",
         "numberOfListeners": 1,
         "region": "ARE"
       },
       {
-        "city": "Phoenix",
-        "country": "US",
+        "city": "Juliaca",
+        "country": "PE",
         "numberOfListeners": 1,
-        "region": "AZ"
+        "region": "PUN"
       },
       {
         "city": "Montesilvano Marina",
         "country": "IT",
         "numberOfListeners": 1,
         "region": "65"
+      },
+      {
+        "city": "Azcapotzalco",
+        "country": "MX",
+        "numberOfListeners": 1,
+        "region": "CMX"
       }
     ]
   },

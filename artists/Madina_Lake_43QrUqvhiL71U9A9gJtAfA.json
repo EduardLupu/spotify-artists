@@ -1,38 +1,38 @@
 {
   "id": "43QrUqvhiL71U9A9gJtAfA",
   "name": "Madina Lake",
-  "followers": 57951,
-  "monthlyListeners": 77832,
+  "followers": 57967,
+  "monthlyListeners": 77998,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 3789,
+        "numberOfListeners": 3774,
         "region": "ENG"
       },
       {
         "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 1668,
+        "numberOfListeners": 1686,
         "region": "ENG"
       },
       {
         "city": "Birmingham",
         "country": "GB",
-        "numberOfListeners": 1644,
+        "numberOfListeners": 1605,
         "region": "ENG"
       },
       {
         "city": "Southwark",
         "country": "GB",
-        "numberOfListeners": 1093,
+        "numberOfListeners": 1112,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 901,
+        "numberOfListeners": 908,
         "region": "VIC"
       }
     ]

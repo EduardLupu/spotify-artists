@@ -1,38 +1,38 @@
 {
   "id": "2SkuyvRBCGbU5KSJ7aesDp",
   "name": "Blackbear",
-  "followers": 9259,
-  "monthlyListeners": 99636,
+  "followers": 9264,
+  "monthlyListeners": 99052,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 15515,
+        "numberOfListeners": 15367,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 7689,
+        "numberOfListeners": 7596,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 3050,
+        "numberOfListeners": 3019,
         "region": "MG"
       },
       {
         "city": "Campinas",
         "country": "BR",
-        "numberOfListeners": 2605,
+        "numberOfListeners": 2587,
         "region": "SP"
       },
       {
         "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 2357,
+        "numberOfListeners": 2325,
         "region": "PR"
       }
     ]

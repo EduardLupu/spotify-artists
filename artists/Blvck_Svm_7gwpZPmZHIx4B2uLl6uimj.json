@@ -1,38 +1,38 @@
 {
   "id": "7gwpZPmZHIx4B2uLl6uimj",
   "name": "Blvck Svm",
-  "followers": 66301,
-  "monthlyListeners": 883967,
+  "followers": 66352,
+  "monthlyListeners": 880250,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 16885,
+        "numberOfListeners": 16825,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 13017,
+        "numberOfListeners": 12943,
         "region": "IL"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 11202,
+        "numberOfListeners": 11171,
         "region": "CO"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 10485,
+        "numberOfListeners": 10484,
         "region": "WA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 10256,
+        "numberOfListeners": 10224,
         "region": "ENG"
       }
     ]

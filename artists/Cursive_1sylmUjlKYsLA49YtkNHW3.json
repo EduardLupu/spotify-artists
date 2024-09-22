@@ -1,38 +1,38 @@
 {
   "id": "1sylmUjlKYsLA49YtkNHW3",
   "name": "Cursive",
-  "followers": 113568,
-  "monthlyListeners": 191933,
+  "followers": 113602,
+  "monthlyListeners": 194279,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 5255,
+        "numberOfListeners": 5417,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 4620,
+        "numberOfListeners": 4683,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 3725,
+        "numberOfListeners": 3776,
         "region": "NY"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 3562,
+        "numberOfListeners": 3586,
         "region": "PA"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 3310,
+        "numberOfListeners": 3339,
         "region": "WA"
       }
     ]

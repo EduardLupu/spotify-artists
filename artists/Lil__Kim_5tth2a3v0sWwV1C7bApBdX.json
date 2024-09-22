@@ -1,38 +1,38 @@
 {
   "id": "5tth2a3v0sWwV1C7bApBdX",
   "name": "Lil' Kim",
-  "followers": 1763554,
-  "monthlyListeners": 4338866,
+  "followers": 1763915,
+  "monthlyListeners": 4327646,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 64769,
+        "numberOfListeners": 64751,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 61131,
+        "numberOfListeners": 61051,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 59088,
+        "numberOfListeners": 59070,
         "region": "VIC"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 45868,
+        "numberOfListeners": 45884,
         "region": "SP"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 44516,
+        "numberOfListeners": 44544,
         "region": "QLD"
       }
     ]

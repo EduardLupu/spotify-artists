@@ -2,13 +2,13 @@
   "id": "0Dtd8mZDSdhvuTRV9cxqer",
   "name": "Morningside Lane",
   "followers": 4455,
-  "monthlyListeners": 42,
+  "monthlyListeners": 43,
   "topCities": {
     "items": [
       {
         "city": "Jersey City",
         "country": "US",
-        "numberOfListeners": 3,
+        "numberOfListeners": 4,
         "region": "NJ"
       },
       {
@@ -18,22 +18,22 @@
         "region": "NJ"
       },
       {
-        "city": "Philadelphia",
-        "country": "US",
-        "numberOfListeners": 2,
-        "region": "PA"
-      },
-      {
         "city": "Melbourne",
         "country": "AU",
         "numberOfListeners": 2,
         "region": "VIC"
       },
       {
-        "city": "Galway",
-        "country": "IE",
-        "numberOfListeners": 1,
-        "region": "C"
+        "city": "Philadelphia",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "PA"
+      },
+      {
+        "city": "Mississauga",
+        "country": "CA",
+        "numberOfListeners": 2,
+        "region": "ON"
       }
     ]
   },

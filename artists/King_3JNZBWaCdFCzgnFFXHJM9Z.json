@@ -2,19 +2,19 @@
   "id": "3JNZBWaCdFCzgnFFXHJM9Z",
   "name": "King",
   "followers": 7,
-  "monthlyListeners": 539,
+  "monthlyListeners": 536,
   "topCities": {
     "items": [
       {
         "city": "Hanoi",
         "country": "VN",
-        "numberOfListeners": 115,
+        "numberOfListeners": 118,
         "region": "HN"
       },
       {
         "city": "Ho Chi Minh City",
         "country": "VN",
-        "numberOfListeners": 111,
+        "numberOfListeners": 108,
         "region": "SG"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 27,
+        "numberOfListeners": 28,
         "region": "JK"
       },
       {
         "city": "Phnom Penh",
         "country": "KH",
-        "numberOfListeners": 22,
+        "numberOfListeners": 23,
         "region": "12"
       }
     ]

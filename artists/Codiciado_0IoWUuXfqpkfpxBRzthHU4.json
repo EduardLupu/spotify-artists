@@ -1,39 +1,39 @@
 {
   "id": "0IoWUuXfqpkfpxBRzthHU4",
   "name": "Codiciado",
-  "followers": 650950,
-  "monthlyListeners": 5206741,
+  "followers": 652329,
+  "monthlyListeners": 5231844,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 356343,
+        "numberOfListeners": 357072,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 271863,
+        "numberOfListeners": 272542,
         "region": "JAL"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 170701,
+        "numberOfListeners": 170481,
         "region": "QUE"
-      },
-      {
-        "city": "Tijuana",
-        "country": "MX",
-        "numberOfListeners": 166807,
-        "region": "BCN"
       },
       {
         "city": "Monterrey",
         "country": "MX",
-        "numberOfListeners": 166614,
+        "numberOfListeners": 168815,
         "region": "NLE"
+      },
+      {
+        "city": "Zapopan",
+        "country": "MX",
+        "numberOfListeners": 167703,
+        "region": "JAL"
       }
     ]
   },

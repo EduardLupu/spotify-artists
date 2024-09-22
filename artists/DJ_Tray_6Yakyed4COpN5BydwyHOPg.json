@@ -1,38 +1,38 @@
 {
   "id": "6Yakyed4COpN5BydwyHOPg",
   "name": "DJ Tray",
-  "followers": 4652,
-  "monthlyListeners": 21697,
+  "followers": 4655,
+  "monthlyListeners": 21678,
   "topCities": {
     "items": [
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 963,
+        "numberOfListeners": 957,
         "region": "PA"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 703,
+        "numberOfListeners": 701,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 607,
+        "numberOfListeners": 618,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 598,
+        "numberOfListeners": 603,
         "region": "NY"
       },
       {
         "city": "Washington",
         "country": "US",
-        "numberOfListeners": 501,
+        "numberOfListeners": 505,
         "region": "DC"
       }
     ]

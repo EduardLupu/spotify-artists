@@ -1,39 +1,39 @@
 {
   "id": "1g0fXhQMHAxlRyIBkCbuE7",
   "name": "Matt Simons",
-  "followers": 226806,
-  "monthlyListeners": 3456912,
+  "followers": 226839,
+  "monthlyListeners": 3437340,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 104717,
+        "numberOfListeners": 105132,
         "region": "NH"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 71051,
+        "numberOfListeners": 71135,
         "region": "ZH"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 57785,
+        "numberOfListeners": 57060,
         "region": "IDF"
-      },
-      {
-        "city": "Madrid",
-        "country": "ES",
-        "numberOfListeners": 44195,
-        "region": "MD"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 44183,
+        "numberOfListeners": 44254,
         "region": "BRU"
+      },
+      {
+        "city": "Madrid",
+        "country": "ES",
+        "numberOfListeners": 44072,
+        "region": "MD"
       }
     ]
   },

@@ -2,7 +2,7 @@
   "id": "5I6RuAf57B92Il5UwUwxwf",
   "name": "Justice",
   "followers": 1228,
-  "monthlyListeners": 248,
+  "monthlyListeners": 246,
   "topCities": {
     "items": [
       {
@@ -24,16 +24,16 @@
         "region": "OR"
       },
       {
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 3,
+        "region": "ENG"
+      },
+      {
         "city": "Gilbert",
         "country": "US",
         "numberOfListeners": 3,
         "region": "AZ"
-      },
-      {
-        "city": "Salt Lake City",
-        "country": "US",
-        "numberOfListeners": 3,
-        "region": "UT"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "2z3KntXLyEF5Lvz1kpdBoA",
   "name": "Caloncho",
-  "followers": 849371,
-  "monthlyListeners": 3150570,
+  "followers": 849563,
+  "monthlyListeners": 3155749,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 342261,
+        "numberOfListeners": 342009,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 155150,
+        "numberOfListeners": 155502,
         "region": "JAL"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 126458,
+        "numberOfListeners": 128224,
         "region": "CMX"
       },
       {
         "city": "Puebla City",
         "country": "MX",
-        "numberOfListeners": 111485,
+        "numberOfListeners": 110523,
         "region": "PUE"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 110851,
+        "numberOfListeners": 110405,
         "region": "QUE"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "6dLuQ5qXxIuWc5urxfIiZR",
   "name": "Calle 24",
-  "followers": 1255099,
-  "monthlyListeners": 14025219,
+  "followers": 1259952,
+  "monthlyListeners": 14059995,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1024032,
+        "numberOfListeners": 1022856,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 619107,
+        "numberOfListeners": 620478,
         "region": "JAL"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 463202,
+        "numberOfListeners": 475269,
         "region": "CMX"
       },
       {
         "city": "Puebla City",
         "country": "MX",
-        "numberOfListeners": 440693,
+        "numberOfListeners": 436026,
         "region": "PUE"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 423736,
+        "numberOfListeners": 422186,
         "region": "QUE"
       }
     ]

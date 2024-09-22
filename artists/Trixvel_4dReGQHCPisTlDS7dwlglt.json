@@ -2,38 +2,38 @@
   "id": "4dReGQHCPisTlDS7dwlglt",
   "name": "Trixvel",
   "followers": 382,
-  "monthlyListeners": 5251,
+  "monthlyListeners": 5259,
   "topCities": {
     "items": [
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 114,
+        "numberOfListeners": 116,
         "region": "CO"
       },
       {
         "city": "Ho Chi Minh City",
         "country": "VN",
-        "numberOfListeners": 85,
+        "numberOfListeners": 87,
         "region": "SG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 84,
+        "numberOfListeners": 83,
         "region": "CA"
-      },
-      {
-        "city": "Portland",
-        "country": "US",
-        "numberOfListeners": 82,
-        "region": "OR"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 79,
+        "numberOfListeners": 80,
         "region": "WA"
+      },
+      {
+        "city": "Portland",
+        "country": "US",
+        "numberOfListeners": 78,
+        "region": "OR"
       }
     ]
   },

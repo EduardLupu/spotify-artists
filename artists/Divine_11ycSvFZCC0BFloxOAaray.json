@@ -1,38 +1,38 @@
 {
   "id": "11ycSvFZCC0BFloxOAaray",
   "name": "Divine",
-  "followers": 1115,
-  "monthlyListeners": 56224,
+  "followers": 1116,
+  "monthlyListeners": 55831,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1720,
+        "numberOfListeners": 1705,
         "region": "ENG"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 1485,
+        "numberOfListeners": 1486,
         "region": "NH"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 950,
+        "numberOfListeners": 942,
         "region": "ZH"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 897,
+        "numberOfListeners": 884,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 678,
+        "numberOfListeners": 685,
         "region": "VIC"
       }
     ]

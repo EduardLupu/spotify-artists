@@ -1,38 +1,38 @@
 {
   "id": "4aXXDj9aZnlshx7mzj3W1N",
   "name": "Lin-Manuel Miranda",
-  "followers": 682480,
-  "monthlyListeners": 11388386,
+  "followers": 682800,
+  "monthlyListeners": 11371266,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 249164,
+        "numberOfListeners": 247590,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 159156,
+        "numberOfListeners": 159072,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 140897,
+        "numberOfListeners": 140488,
         "region": "IL"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 135566,
+        "numberOfListeners": 135520,
         "region": "VIC"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 133236,
+        "numberOfListeners": 133729,
         "region": "NY"
       }
     ]

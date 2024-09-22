@@ -1,38 +1,38 @@
 {
   "id": "1euy9qBmp31zNChfEVU0FI",
   "name": "Prince",
-  "followers": 2029,
-  "monthlyListeners": 6307,
+  "followers": 2032,
+  "monthlyListeners": 6295,
   "topCities": {
     "items": [
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 1431,
+        "numberOfListeners": 1432,
         "region": "25"
       },
       {
         "city": "Rome",
         "country": "IT",
-        "numberOfListeners": 767,
+        "numberOfListeners": 770,
         "region": "62"
       },
       {
         "city": "Turin",
         "country": "IT",
-        "numberOfListeners": 262,
+        "numberOfListeners": 260,
         "region": "21"
       },
       {
         "city": "Florence",
         "country": "IT",
-        "numberOfListeners": 147,
+        "numberOfListeners": 153,
         "region": "52"
       },
       {
         "city": "Bologna",
         "country": "IT",
-        "numberOfListeners": 142,
+        "numberOfListeners": 146,
         "region": "45"
       }
     ]

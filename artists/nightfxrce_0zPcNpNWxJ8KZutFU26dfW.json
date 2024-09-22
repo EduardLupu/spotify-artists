@@ -1,39 +1,39 @@
 {
   "id": "0zPcNpNWxJ8KZutFU26dfW",
   "name": "nightfxrce",
-  "followers": 45112,
-  "monthlyListeners": 808864,
+  "followers": 45180,
+  "monthlyListeners": 805868,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 20710,
+        "numberOfListeners": 20579,
         "region": "SP"
       },
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 9970,
+        "numberOfListeners": 9953,
         "region": "34"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 7729,
+        "numberOfListeners": 7684,
         "region": "RM"
-      },
-      {
-        "city": "Mumbai",
-        "country": "IN",
-        "numberOfListeners": 6267,
-        "region": "MH"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 6255,
+        "numberOfListeners": 6206,
         "region": "LMA"
+      },
+      {
+        "city": "Mumbai",
+        "country": "IN",
+        "numberOfListeners": 6199,
+        "region": "MH"
       }
     ]
   },

@@ -1,39 +1,39 @@
 {
   "id": "0Sck11GNeorDMTEjp62C5f",
   "name": "Mecano",
-  "followers": 3581,
-  "monthlyListeners": 1349,
+  "followers": 3585,
+  "monthlyListeners": 1359,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 338,
+        "numberOfListeners": 329,
         "region": "SP"
       },
       {
         "city": "Athens",
         "country": "GR",
-        "numberOfListeners": 92,
+        "numberOfListeners": 97,
         "region": "I"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 39,
+        "numberOfListeners": 40,
         "region": "NH"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 30,
+        "region": "IDF"
       },
       {
         "city": "Tel Aviv",
         "country": "IL",
         "numberOfListeners": 29,
         "region": "TA"
-      },
-      {
-        "city": "Paris",
-        "country": "FR",
-        "numberOfListeners": 28,
-        "region": "IDF"
       }
     ]
   },

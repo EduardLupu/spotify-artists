@@ -1,38 +1,38 @@
 {
   "id": "2aoFQUeHD1U7pL098lRsDU",
   "name": "Madvillain",
-  "followers": 705196,
-  "monthlyListeners": 3496316,
+  "followers": 705592,
+  "monthlyListeners": 3479973,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 68757,
+        "numberOfListeners": 68460,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 66604,
+        "numberOfListeners": 66088,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 52127,
+        "numberOfListeners": 51638,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 47420,
+        "numberOfListeners": 47443,
         "region": "NY"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 47328,
+        "numberOfListeners": 47072,
         "region": "VIC"
       }
     ]

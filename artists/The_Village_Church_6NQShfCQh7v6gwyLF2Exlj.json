@@ -1,38 +1,38 @@
 {
   "id": "6NQShfCQh7v6gwyLF2Exlj",
   "name": "The Village Church",
-  "followers": 21705,
-  "monthlyListeners": 21419,
+  "followers": 21706,
+  "monthlyListeners": 21374,
   "topCities": {
     "items": [
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 778,
+        "numberOfListeners": 777,
         "region": "TX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 369,
+        "numberOfListeners": 365,
         "region": "NSW"
       },
       {
         "city": "Singapore",
         "country": "SG",
-        "numberOfListeners": 351,
+        "numberOfListeners": 352,
         "region": ""
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 317,
+        "numberOfListeners": 312,
         "region": "NC"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 306,
+        "numberOfListeners": 303,
         "region": "TX"
       }
     ]

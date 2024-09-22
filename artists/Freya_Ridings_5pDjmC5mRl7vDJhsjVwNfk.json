@@ -1,38 +1,38 @@
 {
   "id": "5pDjmC5mRl7vDJhsjVwNfk",
   "name": "Freya Ridings",
-  "followers": 415001,
-  "monthlyListeners": 2613144,
+  "followers": 415088,
+  "monthlyListeners": 2611442,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 86977,
+        "numberOfListeners": 86470,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 64915,
+        "numberOfListeners": 64841,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 56480,
+        "numberOfListeners": 56306,
         "region": "VIC"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 44181,
+        "numberOfListeners": 44188,
         "region": "L"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 41418,
+        "numberOfListeners": 41285,
         "region": "QLD"
       }
     ]

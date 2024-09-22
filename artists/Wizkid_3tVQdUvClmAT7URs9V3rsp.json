@@ -1,39 +1,39 @@
 {
   "id": "3tVQdUvClmAT7URs9V3rsp",
   "name": "Wizkid",
-  "followers": 5999640,
-  "monthlyListeners": 9508378,
+  "followers": 6005532,
+  "monthlyListeners": 9491405,
   "topCities": {
     "items": [
       {
         "city": "Lagos",
         "country": "NG",
-        "numberOfListeners": 712055,
+        "numberOfListeners": 712803,
         "region": "LA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 349731,
+        "numberOfListeners": 348067,
         "region": "ENG"
       },
       {
         "city": "Abuja",
         "country": "NG",
-        "numberOfListeners": 317231,
+        "numberOfListeners": 315314,
         "region": "FC"
       },
       {
         "city": "Port Harcourt",
         "country": "NG",
-        "numberOfListeners": 234372,
+        "numberOfListeners": 235366,
         "region": "RI"
       },
       {
-        "city": "Toronto",
-        "country": "CA",
-        "numberOfListeners": 138616,
-        "region": "ON"
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 139254,
+        "region": "NH"
       }
     ]
   },

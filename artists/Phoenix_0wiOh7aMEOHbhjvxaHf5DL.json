@@ -2,7 +2,7 @@
   "id": "0wiOh7aMEOHbhjvxaHf5DL",
   "name": "Phoenix",
   "followers": 14,
-  "monthlyListeners": 47,
+  "monthlyListeners": 48,
   "topCities": {
     "items": [
       {
@@ -18,22 +18,22 @@
         "region": "NY"
       },
       {
-        "city": "Brampton",
+        "city": "Georgetown",
+        "country": "GY",
+        "numberOfListeners": 2,
+        "region": "DE"
+      },
+      {
+        "city": "Mississauga",
         "country": "CA",
-        "numberOfListeners": 3,
+        "numberOfListeners": 2,
         "region": "ON"
       },
       {
-        "city": "Schenectady",
-        "country": "US",
+        "city": "Brampton",
+        "country": "CA",
         "numberOfListeners": 2,
-        "region": "NY"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 2,
-        "region": "ENG"
+        "region": "ON"
       }
     ]
   },

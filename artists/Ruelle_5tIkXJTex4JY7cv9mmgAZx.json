@@ -1,38 +1,38 @@
 {
   "id": "5tIkXJTex4JY7cv9mmgAZx",
   "name": "Ruelle",
-  "followers": 607483,
-  "monthlyListeners": 3151681,
+  "followers": 607608,
+  "monthlyListeners": 3148293,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 56360,
+        "numberOfListeners": 56408,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 42384,
+        "numberOfListeners": 42351,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 35737,
+        "numberOfListeners": 35712,
         "region": "VIC"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 31839,
+        "numberOfListeners": 31725,
         "region": "SP"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 26889,
+        "numberOfListeners": 26825,
         "region": "QLD"
       }
     ]

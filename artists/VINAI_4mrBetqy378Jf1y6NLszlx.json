@@ -1,38 +1,38 @@
 {
   "id": "4mrBetqy378Jf1y6NLszlx",
   "name": "VINAI",
-  "followers": 491562,
-  "monthlyListeners": 6824350,
+  "followers": 491636,
+  "monthlyListeners": 6778259,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 116043,
+        "numberOfListeners": 115083,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 107654,
+        "numberOfListeners": 109989,
         "region": "HH"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 95718,
+        "numberOfListeners": 95345,
         "region": "IDF"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 93807,
+        "numberOfListeners": 93953,
         "region": "NH"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 89942,
+        "numberOfListeners": 89077,
         "region": "HE"
       }
     ]

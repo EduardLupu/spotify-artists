@@ -1,17 +1,10 @@
 {
   "id": "1ZijHiCjZOvCwm5Bt2cTFS",
   "name": "Grey",
-  "followers": 21903,
-  "monthlyListeners": 1,
+  "followers": 21902,
+  "monthlyListeners": null,
   "topCities": {
-    "items": [
-      {
-        "city": "Liberec",
-        "country": "CZ",
-        "numberOfListeners": 1,
-        "region": "51"
-      }
-    ]
+    "items": []
   },
-  "worldRank": 0
+  "worldRank": null
 }

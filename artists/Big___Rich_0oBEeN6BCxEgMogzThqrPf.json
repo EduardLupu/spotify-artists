@@ -1,38 +1,38 @@
 {
   "id": "0oBEeN6BCxEgMogzThqrPf",
   "name": "Big & Rich",
-  "followers": 1220758,
-  "monthlyListeners": 2370447,
+  "followers": 1220841,
+  "monthlyListeners": 2365692,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 48439,
+        "numberOfListeners": 48494,
         "region": "NSW"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 47573,
+        "numberOfListeners": 47596,
         "region": "QLD"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 42240,
+        "numberOfListeners": 42146,
         "region": "QC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 41458,
+        "numberOfListeners": 41184,
         "region": "IL"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 39283,
+        "numberOfListeners": 38925,
         "region": "ON"
       }
     ]

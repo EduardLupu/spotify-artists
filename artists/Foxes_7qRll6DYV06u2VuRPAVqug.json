@@ -1,38 +1,38 @@
 {
   "id": "7qRll6DYV06u2VuRPAVqug",
   "name": "Foxes",
-  "followers": 312506,
-  "monthlyListeners": 343946,
+  "followers": 312528,
+  "monthlyListeners": 343339,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 12837,
+        "numberOfListeners": 12807,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 4877,
+        "numberOfListeners": 4860,
         "region": "NSW"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 4571,
+        "numberOfListeners": 4585,
         "region": "NY"
       },
       {
         "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 4438,
+        "numberOfListeners": 4444,
         "region": "ENG"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 4299,
+        "numberOfListeners": 4298,
         "region": "L"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "5fvRsffp0zZVbTIzOhPUwQ",
   "name": "BIBI",
-  "followers": 35757,
-  "monthlyListeners": 32729,
+  "followers": 35771,
+  "monthlyListeners": 32260,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 5522,
+        "numberOfListeners": 5489,
         "region": "NH"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 3646,
+        "numberOfListeners": 3583,
         "region": "ZH"
       },
       {
         "city": "Utrecht",
         "country": "NL",
-        "numberOfListeners": 2110,
+        "numberOfListeners": 2038,
         "region": "UT"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 1014,
+        "numberOfListeners": 995,
         "region": "BRU"
       },
       {
         "city": "Amersfoort",
         "country": "NL",
-        "numberOfListeners": 821,
+        "numberOfListeners": 804,
         "region": "UT"
       }
     ]

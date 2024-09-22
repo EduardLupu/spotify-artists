@@ -1,39 +1,39 @@
 {
   "id": "5l3g6Xp8KQE4prw9hk6rQ8",
   "name": "Andrea Bejar",
-  "followers": 25630,
-  "monthlyListeners": 155559,
+  "followers": 25655,
+  "monthlyListeners": 155405,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 2498,
+        "numberOfListeners": 2507,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2190,
+        "numberOfListeners": 2220,
         "region": "IL"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 1841,
+        "numberOfListeners": 1861,
         "region": "NY"
-      },
-      {
-        "city": "Seattle",
-        "country": "US",
-        "numberOfListeners": 1461,
-        "region": "WA"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 1454,
+        "numberOfListeners": 1480,
         "region": "TX"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 1479,
+        "region": "WA"
       }
     ]
   },

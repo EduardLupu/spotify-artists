@@ -1,41 +1,41 @@
 {
   "id": "5PlfkPxwCpRRWQJBxCa0By",
   "name": "HUGEL",
-  "followers": 324150,
-  "monthlyListeners": 17249209,
+  "followers": 324884,
+  "monthlyListeners": 17376011,
   "topCities": {
     "items": [
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 386894,
+        "numberOfListeners": 393151,
         "region": "NH"
       },
       {
         "city": "Rotterdam",
         "country": "NL",
-        "numberOfListeners": 275668,
+        "numberOfListeners": 278403,
         "region": "ZH"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 255251,
+        "numberOfListeners": 256976,
         "region": "BE"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 235431,
+        "numberOfListeners": 236331,
         "region": "IDF"
       },
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 233244,
+        "numberOfListeners": 234215,
         "region": "25"
       }
     ]
   },
-  "worldRank": 466
+  "worldRank": 463
 }

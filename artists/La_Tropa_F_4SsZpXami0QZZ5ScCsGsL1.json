@@ -1,38 +1,38 @@
 {
   "id": "4SsZpXami0QZZ5ScCsGsL1",
   "name": "La Tropa F",
-  "followers": 88462,
-  "monthlyListeners": 144313,
+  "followers": 88471,
+  "monthlyListeners": 144630,
   "topCities": {
     "items": [
       {
         "city": "Monterrey",
         "country": "MX",
-        "numberOfListeners": 16010,
+        "numberOfListeners": 16124,
         "region": "NLE"
       },
       {
         "city": "San Antonio",
         "country": "US",
-        "numberOfListeners": 9834,
+        "numberOfListeners": 9896,
         "region": "TX"
       },
       {
         "city": "Houston",
         "country": "US",
-        "numberOfListeners": 9058,
+        "numberOfListeners": 9097,
         "region": "TX"
       },
       {
         "city": "San Nicolás de los Garza",
         "country": "MX",
-        "numberOfListeners": 8295,
+        "numberOfListeners": 8571,
         "region": "NLE"
       },
       {
-        "city": "Dallas",
+        "city": "Austin",
         "country": "US",
-        "numberOfListeners": 6692,
+        "numberOfListeners": 6769,
         "region": "TX"
       }
     ]

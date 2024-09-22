@@ -1,38 +1,38 @@
 {
   "id": "5Q81rlcTFh3k6DQJXPdsot",
   "name": "Mura Masa",
-  "followers": 680720,
-  "monthlyListeners": 4381000,
+  "followers": 680766,
+  "monthlyListeners": 4277053,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 154748,
+        "numberOfListeners": 151076,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 125009,
+        "numberOfListeners": 123296,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 103829,
+        "numberOfListeners": 102524,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 81674,
+        "numberOfListeners": 80537,
         "region": "QLD"
       },
       {
         "city": "Perth",
         "country": "AU",
-        "numberOfListeners": 53494,
+        "numberOfListeners": 53033,
         "region": "WA"
       }
     ]

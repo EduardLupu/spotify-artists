@@ -1,20 +1,20 @@
 {
   "id": "57OWpyLvm3P6KSZz6APYV1",
   "name": "Ealain",
-  "followers": 1279,
-  "monthlyListeners": 3607,
+  "followers": 1286,
+  "monthlyListeners": 3633,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 409,
+        "numberOfListeners": 406,
         "region": "RM"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 176,
+        "numberOfListeners": 178,
         "region": "MD"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 123,
+        "numberOfListeners": 127,
         "region": "DC"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 76,
+        "numberOfListeners": 77,
         "region": "JAL"
       }
     ]

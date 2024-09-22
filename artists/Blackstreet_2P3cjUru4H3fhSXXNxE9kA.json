@@ -1,38 +1,38 @@
 {
   "id": "2P3cjUru4H3fhSXXNxE9kA",
   "name": "Blackstreet",
-  "followers": 835368,
-  "monthlyListeners": 6510835,
+  "followers": 835837,
+  "monthlyListeners": 6480750,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 120237,
+        "numberOfListeners": 119651,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 110810,
+        "numberOfListeners": 109910,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 96471,
+        "numberOfListeners": 96056,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 87360,
+        "numberOfListeners": 86954,
         "region": "QLD"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 63796,
+        "numberOfListeners": 63464,
         "region": "CA"
       }
     ]

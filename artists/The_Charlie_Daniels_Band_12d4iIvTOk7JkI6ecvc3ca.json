@@ -1,38 +1,38 @@
 {
   "id": "12d4iIvTOk7JkI6ecvc3ca",
   "name": "The Charlie Daniels Band",
-  "followers": 847460,
-  "monthlyListeners": 2591564,
+  "followers": 847658,
+  "monthlyListeners": 2592215,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 46133,
+        "numberOfListeners": 45868,
         "region": "IL"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 44653,
+        "numberOfListeners": 44702,
         "region": "NC"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 42278,
+        "numberOfListeners": 42375,
         "region": "TX"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 36853,
+        "numberOfListeners": 37066,
         "region": "GA"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 36287,
+        "numberOfListeners": 36428,
         "region": "CO"
       }
     ]

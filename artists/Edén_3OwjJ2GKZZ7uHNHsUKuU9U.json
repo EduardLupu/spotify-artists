@@ -2,37 +2,37 @@
   "id": "3OwjJ2GKZZ7uHNHsUKuU9U",
   "name": "Edén",
   "followers": 151,
-  "monthlyListeners": 3872,
+  "monthlyListeners": 3861,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 239,
+        "numberOfListeners": 231,
         "region": "ENG"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 81,
+        "numberOfListeners": 80,
         "region": "NH"
       },
       {
         "city": "Southwark",
         "country": "GB",
-        "numberOfListeners": 70,
+        "numberOfListeners": 71,
         "region": "ENG"
       },
       {
         "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 69,
+        "numberOfListeners": 70,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 60,
+        "numberOfListeners": 61,
         "region": "NSW"
       }
     ]

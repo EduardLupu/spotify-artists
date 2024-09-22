@@ -1,38 +1,38 @@
 {
   "id": "53XhwfbYqKCa1cC15pYq2q",
   "name": "Imagine Dragons",
-  "followers": 54551635,
-  "monthlyListeners": 59105377,
+  "followers": 54567388,
+  "monthlyListeners": 59135572,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 1019005,
+        "numberOfListeners": 1024042,
         "region": "SP"
-      },
-      {
-        "city": "Paris",
-        "country": "FR",
-        "numberOfListeners": 703698,
-        "region": "IDF"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 703519,
+        "numberOfListeners": 706033,
         "region": "JK"
+      },
+      {
+        "city": "Paris",
+        "country": "FR",
+        "numberOfListeners": 705046,
+        "region": "IDF"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 684463,
+        "numberOfListeners": 682656,
         "region": "CMX"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 668362,
+        "numberOfListeners": 666914,
         "region": "ENG"
       }
     ]

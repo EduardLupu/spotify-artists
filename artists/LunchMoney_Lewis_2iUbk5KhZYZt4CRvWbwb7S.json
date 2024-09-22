@@ -1,38 +1,38 @@
 {
   "id": "2iUbk5KhZYZt4CRvWbwb7S",
   "name": "LunchMoney Lewis",
-  "followers": 94566,
-  "monthlyListeners": 946595,
+  "followers": 94582,
+  "monthlyListeners": 945182,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 20850,
+        "numberOfListeners": 20831,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 17593,
+        "numberOfListeners": 17572,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 15203,
+        "numberOfListeners": 15174,
         "region": "QLD"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 14902,
+        "numberOfListeners": 14838,
         "region": "ENG"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 11139,
+        "numberOfListeners": 11230,
         "region": "NH"
       }
     ]

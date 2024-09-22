@@ -1,38 +1,38 @@
 {
   "id": "3MM8mtgFzaEJsqbjZBSsHJ",
   "name": "Bloc Party",
-  "followers": 1148955,
-  "monthlyListeners": 3401488,
+  "followers": 1149145,
+  "monthlyListeners": 3373963,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 156393,
+        "numberOfListeners": 154409,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 75884,
+        "numberOfListeners": 75209,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 72137,
+        "numberOfListeners": 71491,
         "region": "VIC"
       },
       {
         "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 54539,
+        "numberOfListeners": 54463,
         "region": "ENG"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 50239,
+        "numberOfListeners": 49461,
         "region": "L"
       }
     ]

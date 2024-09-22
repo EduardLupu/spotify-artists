@@ -1,38 +1,38 @@
 {
   "id": "3RNrq3jvMZxD9ZyoOZbQOD",
   "name": "Korn",
-  "followers": 7952136,
-  "monthlyListeners": 11270746,
+  "followers": 7957159,
+  "monthlyListeners": 11266887,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 169136,
+        "numberOfListeners": 167478,
         "region": "RM"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 148808,
+        "numberOfListeners": 148350,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 141327,
+        "numberOfListeners": 140855,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 133538,
+        "numberOfListeners": 133122,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 133030,
+        "numberOfListeners": 133097,
         "region": "SP"
       }
     ]

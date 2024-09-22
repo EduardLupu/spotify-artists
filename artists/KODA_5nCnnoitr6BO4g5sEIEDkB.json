@@ -1,38 +1,38 @@
 {
   "id": "5nCnnoitr6BO4g5sEIEDkB",
   "name": "KODA",
-  "followers": 56141,
-  "monthlyListeners": 44441,
+  "followers": 56211,
+  "monthlyListeners": 44348,
   "topCities": {
     "items": [
       {
         "city": "Accra",
         "country": "GH",
-        "numberOfListeners": 18988,
+        "numberOfListeners": 19012,
         "region": "AA"
       },
       {
         "city": "Lagos",
         "country": "NG",
-        "numberOfListeners": 2839,
+        "numberOfListeners": 2833,
         "region": "LA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1734,
+        "numberOfListeners": 1730,
         "region": "ENG"
       },
       {
         "city": "Abuja",
         "country": "NG",
-        "numberOfListeners": 1046,
+        "numberOfListeners": 1052,
         "region": "FC"
       },
       {
         "city": "Port Harcourt",
         "country": "NG",
-        "numberOfListeners": 767,
+        "numberOfListeners": 772,
         "region": "RI"
       }
     ]

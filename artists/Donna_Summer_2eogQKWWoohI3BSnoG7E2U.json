@@ -1,38 +1,38 @@
 {
   "id": "2eogQKWWoohI3BSnoG7E2U",
   "name": "Donna Summer",
-  "followers": 2021197,
-  "monthlyListeners": 5221760,
+  "followers": 2021647,
+  "monthlyListeners": 5221323,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 109109,
+        "numberOfListeners": 108676,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 103227,
+        "numberOfListeners": 102613,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 75557,
+        "numberOfListeners": 75552,
         "region": "ENG"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 63059,
+        "numberOfListeners": 63333,
         "region": "IDF"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 56819,
+        "numberOfListeners": 57052,
         "region": "NH"
       }
     ]

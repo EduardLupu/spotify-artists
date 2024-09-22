@@ -1,38 +1,38 @@
 {
   "id": "2uFUBdaVGtyMqckSeCl0Qj",
   "name": "Ludovico Einaudi",
-  "followers": 3537062,
-  "monthlyListeners": 8911266,
+  "followers": 3537982,
+  "monthlyListeners": 8931522,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 141687,
+        "numberOfListeners": 142811,
         "region": "IDF"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 120923,
+        "numberOfListeners": 120865,
         "region": "ENG"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 111812,
+        "numberOfListeners": 112472,
         "region": "NH"
       },
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 111617,
+        "numberOfListeners": 112190,
         "region": "34"
       },
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 107238,
+        "numberOfListeners": 108350,
         "region": "25"
       }
     ]

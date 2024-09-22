@@ -1,41 +1,41 @@
 {
   "id": "4fxd5Ee7UefO4CUXgwJ7IP",
   "name": "Giveon",
-  "followers": 4053378,
-  "monthlyListeners": 23749557,
+  "followers": 4055678,
+  "monthlyListeners": 23795762,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 600714,
+        "numberOfListeners": 607881,
         "region": "JK"
-      },
-      {
-        "city": "London",
-        "country": "GB",
-        "numberOfListeners": 307430,
-        "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 307051,
+        "numberOfListeners": 307856,
         "region": "SP"
       },
       {
-        "city": "Lagos",
-        "country": "NG",
-        "numberOfListeners": 266176,
-        "region": "LA"
+        "city": "London",
+        "country": "GB",
+        "numberOfListeners": 307383,
+        "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 265402,
+        "numberOfListeners": 265840,
         "region": "NSW"
+      },
+      {
+        "city": "Lagos",
+        "country": "NG",
+        "numberOfListeners": 265315,
+        "region": "LA"
       }
     ]
   },
-  "worldRank": 253
+  "worldRank": 251
 }

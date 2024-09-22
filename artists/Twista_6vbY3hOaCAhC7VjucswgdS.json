@@ -1,38 +1,38 @@
 {
   "id": "6vbY3hOaCAhC7VjucswgdS",
   "name": "Twista",
-  "followers": 1120424,
-  "monthlyListeners": 4878923,
+  "followers": 1120783,
+  "monthlyListeners": 4854559,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 97873,
+        "numberOfListeners": 96961,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 93827,
+        "numberOfListeners": 93110,
         "region": "IL"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 90038,
+        "numberOfListeners": 89482,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 75888,
+        "numberOfListeners": 75813,
         "region": "NSW"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 62058,
+        "numberOfListeners": 61717,
         "region": "TX"
       }
     ]

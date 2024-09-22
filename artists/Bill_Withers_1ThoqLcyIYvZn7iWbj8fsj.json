@@ -1,38 +1,38 @@
 {
   "id": "1ThoqLcyIYvZn7iWbj8fsj",
   "name": "Bill Withers",
-  "followers": 1763678,
-  "monthlyListeners": 19719099,
+  "followers": 1764369,
+  "monthlyListeners": 19687250,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 340323,
+        "numberOfListeners": 339029,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 286529,
+        "numberOfListeners": 286613,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 233927,
+        "numberOfListeners": 233951,
         "region": "VIC"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 214238,
+        "numberOfListeners": 215234,
         "region": "NH"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 204421,
+        "numberOfListeners": 204405,
         "region": "IDF"
       }
     ]

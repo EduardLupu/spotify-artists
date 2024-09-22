@@ -1,38 +1,38 @@
 {
   "id": "7slfeZO9LsJbWgpkIoXBUJ",
   "name": "Ricky Martin",
-  "followers": 7600579,
-  "monthlyListeners": 15089071,
+  "followers": 7602078,
+  "monthlyListeners": 15046671,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 648642,
+        "numberOfListeners": 645490,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 516465,
+        "numberOfListeners": 513980,
         "region": "CMX"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 328143,
+        "numberOfListeners": 327968,
         "region": "DC"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 314779,
+        "numberOfListeners": 314919,
         "region": "C"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 314330,
+        "numberOfListeners": 314133,
         "region": "LMA"
       }
     ]

@@ -2,7 +2,7 @@
   "id": "4gOMDXDCkFAb1cUOvZOwj6",
   "name": "Bones",
   "followers": 3,
-  "monthlyListeners": 6,
+  "monthlyListeners": 7,
   "topCities": {
     "items": [
       {
@@ -18,22 +18,22 @@
         "region": "JB"
       },
       {
-        "city": "Kebumen Satu",
-        "country": "ID",
-        "numberOfListeners": 1,
-        "region": "JT"
-      },
-      {
-        "city": "Tasikmalaya",
-        "country": "ID",
-        "numberOfListeners": 1,
-        "region": "JB"
-      },
-      {
         "city": "Makassar",
         "country": "ID",
         "numberOfListeners": 1,
         "region": "SN"
+      },
+      {
+        "city": "Magetan",
+        "country": "ID",
+        "numberOfListeners": 1,
+        "region": "JI"
+      },
+      {
+        "city": "Kebumen Satu",
+        "country": "ID",
+        "numberOfListeners": 1,
+        "region": "JT"
       }
     ]
   },

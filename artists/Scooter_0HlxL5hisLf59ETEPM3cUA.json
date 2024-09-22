@@ -1,38 +1,38 @@
 {
   "id": "0HlxL5hisLf59ETEPM3cUA",
   "name": "Scooter",
-  "followers": 869709,
-  "monthlyListeners": 4071043,
+  "followers": 870031,
+  "monthlyListeners": 4066828,
   "topCities": {
     "items": [
       {
-        "city": "Berlin",
-        "country": "DE",
-        "numberOfListeners": 148261,
-        "region": "BE"
-      },
-      {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 145838,
+        "numberOfListeners": 149743,
         "region": "HH"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 147921,
+        "region": "BE"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 106022,
+        "numberOfListeners": 105502,
         "region": "HE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 87256,
+        "numberOfListeners": 87645,
         "region": "BY"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 86545,
+        "numberOfListeners": 86328,
         "region": "ENG"
       }
     ]

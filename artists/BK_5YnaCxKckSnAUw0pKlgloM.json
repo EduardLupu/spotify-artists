@@ -18,22 +18,22 @@
         "region": "O"
       },
       {
-        "city": "Malmo",
+        "city": "Borås",
         "country": "SE",
         "numberOfListeners": 2,
-        "region": "M"
+        "region": "O"
+      },
+      {
+        "city": "Sundbyberg",
+        "country": "SE",
+        "numberOfListeners": 2,
+        "region": "AB"
       },
       {
         "city": "Bromma",
         "country": "SE",
         "numberOfListeners": 2,
         "region": "AB"
-      },
-      {
-        "city": "Borås",
-        "country": "SE",
-        "numberOfListeners": 2,
-        "region": "O"
       }
     ]
   },

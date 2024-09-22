@@ -1,20 +1,20 @@
 {
   "id": "3juzOjpaVU73kK8WdtkGB4",
   "name": "Cream",
-  "followers": 697,
-  "monthlyListeners": 1550,
+  "followers": 698,
+  "monthlyListeners": 1554,
   "topCities": {
     "items": [
       {
         "city": "Cape Town",
         "country": "ZA",
-        "numberOfListeners": 523,
+        "numberOfListeners": 520,
         "region": "WC"
       },
       {
         "city": "Johannesburg",
         "country": "ZA",
-        "numberOfListeners": 136,
+        "numberOfListeners": 138,
         "region": "GP"
       },
       {
@@ -24,16 +24,16 @@
         "region": "GP"
       },
       {
-        "city": "Port Elizabeth",
-        "country": "ZA",
-        "numberOfListeners": 37,
-        "region": "EC"
-      },
-      {
         "city": "Durban",
         "country": "ZA",
-        "numberOfListeners": 35,
+        "numberOfListeners": 36,
         "region": "KZN"
+      },
+      {
+        "city": "Port Elizabeth",
+        "country": "ZA",
+        "numberOfListeners": 34,
+        "region": "EC"
       }
     ]
   },

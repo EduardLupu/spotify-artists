@@ -1,14 +1,14 @@
 {
   "id": "7EXJJpgDl7y4szvrpUYj0s",
   "name": "John Mayer",
-  "followers": 2996,
-  "monthlyListeners": 2529,
+  "followers": 2997,
+  "monthlyListeners": 2508,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 49,
+        "numberOfListeners": 51,
         "region": "NSW"
       },
       {
@@ -20,20 +20,20 @@
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 26,
+        "numberOfListeners": 23,
         "region": "VIC"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 24,
+        "numberOfListeners": 23,
         "region": "IDF"
       },
       {
-        "city": "Toronto",
-        "country": "CA",
+        "city": "Amsterdam",
+        "country": "NL",
         "numberOfListeners": 23,
-        "region": "ON"
+        "region": "NH"
       }
     ]
   },

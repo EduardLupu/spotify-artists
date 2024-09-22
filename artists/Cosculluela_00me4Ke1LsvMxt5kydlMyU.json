@@ -1,38 +1,38 @@
 {
   "id": "00me4Ke1LsvMxt5kydlMyU",
   "name": "Cosculluela",
-  "followers": 6250887,
-  "monthlyListeners": 12156919,
+  "followers": 6252629,
+  "monthlyListeners": 12075460,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 839995,
+        "numberOfListeners": 830420,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 655093,
+        "numberOfListeners": 652331,
         "region": "DC"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 497177,
+        "numberOfListeners": 496065,
         "region": "C"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 469201,
+        "numberOfListeners": 467779,
         "region": "LMA"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 388987,
+        "numberOfListeners": 387309,
         "region": "ANT"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "2plllpJj0sU7FsdZrn8EHq",
   "name": "Maccabeats",
-  "followers": 30616,
-  "monthlyListeners": 35280,
+  "followers": 30617,
+  "monthlyListeners": 35277,
   "topCities": {
     "items": [
       {
         "city": "Tel Aviv",
         "country": "IL",
-        "numberOfListeners": 2136,
+        "numberOfListeners": 2154,
         "region": "TA"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 2123,
+        "numberOfListeners": 2137,
         "region": "NY"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 1986,
+        "numberOfListeners": 2005,
         "region": "NY"
       },
       {
         "city": "Jerusalem",
         "country": "IL",
-        "numberOfListeners": 976,
+        "numberOfListeners": 973,
         "region": "JM"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 705,
+        "numberOfListeners": 712,
         "region": "CA"
       }
     ]

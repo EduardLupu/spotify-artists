@@ -1,38 +1,38 @@
 {
   "id": "0gnQN7JojqeQnPJllZWNoX",
   "name": "Elisa",
-  "followers": 1595,
-  "monthlyListeners": 14386,
+  "followers": 1594,
+  "monthlyListeners": 14222,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 8013,
+        "numberOfListeners": 7918,
         "region": "RM"
       },
       {
         "city": "Concepción",
         "country": "CL",
-        "numberOfListeners": 1112,
+        "numberOfListeners": 1105,
         "region": "BI"
       },
       {
         "city": "Temuco",
         "country": "CL",
-        "numberOfListeners": 542,
+        "numberOfListeners": 546,
         "region": "AR"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 303,
+        "numberOfListeners": 304,
         "region": "C"
       },
       {
         "city": "Port Montt",
         "country": "CL",
-        "numberOfListeners": 278,
+        "numberOfListeners": 274,
         "region": "LL"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "1G3VHcGtkOjVAMK3f3fPZP",
   "name": "Zoë",
-  "followers": 3194,
-  "monthlyListeners": 309756,
+  "followers": 3196,
+  "monthlyListeners": 308679,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 18991,
+        "numberOfListeners": 18862,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 8913,
+        "numberOfListeners": 8905,
         "region": "JAL"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 8565,
+        "numberOfListeners": 8479,
         "region": "DC"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 7407,
+        "numberOfListeners": 7473,
         "region": "CMX"
       },
       {
         "city": "Puebla City",
         "country": "MX",
-        "numberOfListeners": 6602,
+        "numberOfListeners": 6530,
         "region": "PUE"
       }
     ]

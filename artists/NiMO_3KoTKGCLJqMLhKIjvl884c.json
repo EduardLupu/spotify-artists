@@ -1,8 +1,8 @@
 {
   "id": "3KoTKGCLJqMLhKIjvl884c",
   "name": "NiMO",
-  "followers": 18,
-  "monthlyListeners": 294,
+  "followers": 19,
+  "monthlyListeners": 310,
   "topCities": {
     "items": [
       {
@@ -10,6 +10,12 @@
         "country": "FR",
         "numberOfListeners": 12,
         "region": "IDF"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 7,
+        "region": "NH"
       },
       {
         "city": "Warsaw",
@@ -24,16 +30,10 @@
         "region": "ZH"
       },
       {
-        "city": "Barcelona",
-        "country": "ES",
+        "city": "Goiânia",
+        "country": "BR",
         "numberOfListeners": 4,
-        "region": "CT"
-      },
-      {
-        "city": "Amsterdam",
-        "country": "NL",
-        "numberOfListeners": 4,
-        "region": "NH"
+        "region": "GO"
       }
     ]
   },

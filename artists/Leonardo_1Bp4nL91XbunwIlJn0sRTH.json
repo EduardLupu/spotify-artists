@@ -2,9 +2,16 @@
   "id": "1Bp4nL91XbunwIlJn0sRTH",
   "name": "Leonardo",
   "followers": 5,
-  "monthlyListeners": null,
+  "monthlyListeners": 1,
   "topCities": {
-    "items": []
+    "items": [
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 1,
+        "region": "BE"
+      }
+    ]
   },
-  "worldRank": null
+  "worldRank": 0
 }

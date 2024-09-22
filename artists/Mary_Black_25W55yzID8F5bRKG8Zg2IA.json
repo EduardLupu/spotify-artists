@@ -1,20 +1,20 @@
 {
   "id": "25W55yzID8F5bRKG8Zg2IA",
   "name": "Mary Black",
-  "followers": 54105,
-  "monthlyListeners": 216665,
+  "followers": 54113,
+  "monthlyListeners": 216934,
   "topCities": {
     "items": [
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 38364,
+        "numberOfListeners": 38432,
         "region": "L"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 4705,
+        "numberOfListeners": 4715,
         "region": "ENG"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 3397,
+        "numberOfListeners": 3428,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 3058,
+        "numberOfListeners": 3085,
         "region": "VIC"
       }
     ]

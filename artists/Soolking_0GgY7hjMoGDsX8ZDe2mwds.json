@@ -1,38 +1,38 @@
 {
   "id": "0GgY7hjMoGDsX8ZDe2mwds",
   "name": "Soolking",
-  "followers": 5581001,
-  "monthlyListeners": 7810421,
+  "followers": 5583833,
+  "monthlyListeners": 7745156,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 638614,
+        "numberOfListeners": 634267,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 222084,
+        "numberOfListeners": 221508,
         "region": "BRU"
       },
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 172296,
+        "numberOfListeners": 169676,
         "region": "MD"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 146967,
+        "numberOfListeners": 145621,
         "region": "ARA"
       },
       {
         "city": "Barcelona",
         "country": "ES",
-        "numberOfListeners": 124249,
+        "numberOfListeners": 122093,
         "region": "CT"
       }
     ]

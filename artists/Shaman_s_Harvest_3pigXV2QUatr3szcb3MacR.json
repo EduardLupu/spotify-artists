@@ -1,38 +1,38 @@
 {
   "id": "3pigXV2QUatr3szcb3MacR",
   "name": "Shaman's Harvest",
-  "followers": 188801,
-  "monthlyListeners": 555898,
+  "followers": 188838,
+  "monthlyListeners": 555478,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 9206,
+        "numberOfListeners": 9157,
         "region": "IL"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 7674,
+        "numberOfListeners": 7643,
         "region": "CO"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 7420,
+        "numberOfListeners": 7370,
         "region": "TX"
       },
       {
         "city": "Charlotte",
         "country": "US",
-        "numberOfListeners": 6971,
+        "numberOfListeners": 6991,
         "region": "NC"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 6804,
+        "numberOfListeners": 6798,
         "region": "WA"
       }
     ]

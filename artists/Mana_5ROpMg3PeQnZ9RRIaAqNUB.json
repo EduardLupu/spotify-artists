@@ -2,13 +2,13 @@
   "id": "5ROpMg3PeQnZ9RRIaAqNUB",
   "name": "Mana",
   "followers": 1247,
-  "monthlyListeners": 1997,
+  "monthlyListeners": 2021,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 47,
+        "numberOfListeners": 49,
         "region": "SP"
       },
       {
@@ -20,20 +20,20 @@
       {
         "city": "Barcelona",
         "country": "ES",
-        "numberOfListeners": 28,
+        "numberOfListeners": 29,
         "region": "CT"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 26,
+        "numberOfListeners": 27,
         "region": "ENG"
       },
       {
-        "city": "Chicago",
-        "country": "US",
+        "city": "Milan",
+        "country": "IT",
         "numberOfListeners": 21,
-        "region": "IL"
+        "region": "25"
       }
     ]
   },

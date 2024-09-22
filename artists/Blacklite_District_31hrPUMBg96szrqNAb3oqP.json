@@ -1,38 +1,38 @@
 {
   "id": "31hrPUMBg96szrqNAb3oqP",
   "name": "Blacklite District",
-  "followers": 121126,
-  "monthlyListeners": 244778,
+  "followers": 121197,
+  "monthlyListeners": 245236,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 3326,
+        "numberOfListeners": 3347,
         "region": "JK"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 2433,
+        "numberOfListeners": 2440,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 2228,
+        "numberOfListeners": 2262,
         "region": "NSW"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 2149,
+        "numberOfListeners": 2160,
         "region": "TX"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 2018,
+        "numberOfListeners": 2027,
         "region": "ENG"
       }
     ]

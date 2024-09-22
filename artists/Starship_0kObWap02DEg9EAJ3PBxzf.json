@@ -1,38 +1,38 @@
 {
   "id": "0kObWap02DEg9EAJ3PBxzf",
   "name": "Starship",
-  "followers": 1112437,
-  "monthlyListeners": 8971942,
+  "followers": 1113114,
+  "monthlyListeners": 8916688,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 191498,
+        "numberOfListeners": 189570,
         "region": "RM"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 137990,
+        "numberOfListeners": 137685,
         "region": "NSW"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 137216,
+        "numberOfListeners": 135667,
         "region": "CMX"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 118898,
+        "numberOfListeners": 118449,
         "region": "VIC"
       },
       {
         "city": "Quezon City",
         "country": "PH",
-        "numberOfListeners": 104647,
+        "numberOfListeners": 104207,
         "region": "00"
       }
     ]

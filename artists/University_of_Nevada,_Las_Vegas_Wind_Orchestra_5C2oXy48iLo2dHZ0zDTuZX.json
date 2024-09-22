@@ -2,7 +2,7 @@
   "id": "5C2oXy48iLo2dHZ0zDTuZX",
   "name": "University of Nevada, Las Vegas Wind Orchestra",
   "followers": 117,
-  "monthlyListeners": 1530,
+  "monthlyListeners": 1528,
   "topCities": {
     "items": [
       {
@@ -18,9 +18,9 @@
         "region": ""
       },
       {
-        "city": "Houston",
+        "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 19,
+        "numberOfListeners": 20,
         "region": "TX"
       },
       {
@@ -30,10 +30,10 @@
         "region": "TX"
       },
       {
-        "city": "Dallas",
-        "country": "US",
+        "city": "Brussels",
+        "country": "BE",
         "numberOfListeners": 19,
-        "region": "TX"
+        "region": "BRU"
       }
     ]
   },

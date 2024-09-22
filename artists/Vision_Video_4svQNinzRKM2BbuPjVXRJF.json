@@ -1,39 +1,39 @@
 {
   "id": "4svQNinzRKM2BbuPjVXRJF",
   "name": "Vision Video",
-  "followers": 62859,
-  "monthlyListeners": 52739,
+  "followers": 62883,
+  "monthlyListeners": 52689,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1055,
+        "numberOfListeners": 1050,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 884,
+        "numberOfListeners": 888,
         "region": "IL"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 711,
+        "region": "WA"
       },
       {
         "city": "Phoenix",
         "country": "US",
-        "numberOfListeners": 708,
+        "numberOfListeners": 707,
         "region": "AZ"
       },
       {
         "city": "Atlanta",
         "country": "US",
-        "numberOfListeners": 706,
+        "numberOfListeners": 707,
         "region": "GA"
-      },
-      {
-        "city": "Seattle",
-        "country": "US",
-        "numberOfListeners": 706,
-        "region": "WA"
       }
     ]
   },

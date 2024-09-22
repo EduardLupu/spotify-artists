@@ -1,39 +1,39 @@
 {
   "id": "1UVDKa1tWua0T3FCQJIL1v",
   "name": "Zoé",
-  "followers": 4007,
-  "monthlyListeners": 1769,
+  "followers": 4009,
+  "monthlyListeners": 1725,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 108,
+        "numberOfListeners": 107,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 66,
+        "numberOfListeners": 69,
         "region": "BRU"
+      },
+      {
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 29,
+        "region": "NH"
       },
       {
         "city": "Lausanne",
         "country": "CH",
-        "numberOfListeners": 30,
+        "numberOfListeners": 29,
         "region": "VD"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 29,
-        "region": "ARA"
-      },
-      {
-        "city": "Amsterdam",
-        "country": "NL",
         "numberOfListeners": 28,
-        "region": "NH"
+        "region": "ARA"
       }
     ]
   },

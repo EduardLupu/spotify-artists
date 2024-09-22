@@ -1,38 +1,38 @@
 {
   "id": "6SXTTUJxIVwMbc1POrviTr",
   "name": "CoComelon",
-  "followers": 747322,
-  "monthlyListeners": 3507771,
+  "followers": 748250,
+  "monthlyListeners": 3492451,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 95345,
+        "numberOfListeners": 95351,
         "region": "JK"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 59709,
+        "numberOfListeners": 59376,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 57425,
+        "numberOfListeners": 57049,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 49974,
+        "numberOfListeners": 49719,
         "region": "VIC"
       },
       {
         "city": "Singapore",
         "country": "SG",
-        "numberOfListeners": 49626,
+        "numberOfListeners": 49505,
         "region": ""
       }
     ]

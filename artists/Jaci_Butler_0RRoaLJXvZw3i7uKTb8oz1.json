@@ -1,14 +1,14 @@
 {
   "id": "0RRoaLJXvZw3i7uKTb8oz1",
   "name": "Jaci Butler",
-  "followers": 4194,
-  "monthlyListeners": 949,
+  "followers": 4199,
+  "monthlyListeners": 930,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 29,
+        "numberOfListeners": 27,
         "region": "NSW"
       },
       {
@@ -30,10 +30,10 @@
         "region": "ON"
       },
       {
-        "city": "Calgary",
-        "country": "CA",
+        "city": "Dallas",
+        "country": "US",
         "numberOfListeners": 9,
-        "region": "AB"
+        "region": "TX"
       }
     ]
   },

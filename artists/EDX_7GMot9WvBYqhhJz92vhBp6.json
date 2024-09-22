@@ -1,38 +1,38 @@
 {
   "id": "7GMot9WvBYqhhJz92vhBp6",
   "name": "EDX",
-  "followers": 202835,
-  "monthlyListeners": 1346225,
+  "followers": 202837,
+  "monthlyListeners": 1336217,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 27370,
+        "numberOfListeners": 27338,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 20820,
+        "numberOfListeners": 20596,
         "region": "ENG"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 19168,
+        "numberOfListeners": 19242,
         "region": "NH"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 18717,
+        "numberOfListeners": 18665,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 15391,
+        "numberOfListeners": 15374,
         "region": "QLD"
       }
     ]

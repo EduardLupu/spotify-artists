@@ -1,38 +1,38 @@
 {
   "id": "0fAapZXLHq2VNMIHp4DCla",
   "name": "Fisher",
-  "followers": 3725,
-  "monthlyListeners": 20461,
+  "followers": 3727,
+  "monthlyListeners": 20417,
   "topCities": {
     "items": [
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 4093,
+        "numberOfListeners": 4085,
         "region": "14"
       },
       {
         "city": "Poznan",
         "country": "PL",
-        "numberOfListeners": 1309,
+        "numberOfListeners": 1307,
         "region": "30"
       },
       {
         "city": "Katowice",
         "country": "PL",
-        "numberOfListeners": 1199,
+        "numberOfListeners": 1188,
         "region": "24"
       },
       {
         "city": "Krakow",
         "country": "PL",
-        "numberOfListeners": 1178,
+        "numberOfListeners": 1182,
         "region": "12"
       },
       {
         "city": "Wroclaw",
         "country": "PL",
-        "numberOfListeners": 1021,
+        "numberOfListeners": 1000,
         "region": "02"
       }
     ]

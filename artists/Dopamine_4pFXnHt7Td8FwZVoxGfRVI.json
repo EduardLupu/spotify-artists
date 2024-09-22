@@ -1,15 +1,15 @@
 {
   "id": "4pFXnHt7Td8FwZVoxGfRVI",
   "name": "Dopamine",
-  "followers": 306,
-  "monthlyListeners": 194,
+  "followers": 308,
+  "monthlyListeners": 193,
   "topCities": {
     "items": [
       {
-        "city": "Chicago",
-        "country": "US",
+        "city": "Bogotá",
+        "country": "CO",
         "numberOfListeners": 4,
-        "region": "IL"
+        "region": "DC"
       },
       {
         "city": "Houston",
@@ -18,10 +18,10 @@
         "region": "TX"
       },
       {
-        "city": "Bogotá",
-        "country": "CO",
+        "city": "Chicago",
+        "country": "US",
         "numberOfListeners": 4,
-        "region": "DC"
+        "region": "IL"
       },
       {
         "city": "Santiago",

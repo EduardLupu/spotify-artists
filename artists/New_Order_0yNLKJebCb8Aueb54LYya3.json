@@ -1,38 +1,38 @@
 {
   "id": "0yNLKJebCb8Aueb54LYya3",
   "name": "New Order",
-  "followers": 2236217,
-  "monthlyListeners": 6077136,
+  "followers": 2236965,
+  "monthlyListeners": 6081366,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 142254,
+        "numberOfListeners": 141648,
         "region": "ENG"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 114066,
+        "numberOfListeners": 113957,
         "region": "SP"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 98632,
+        "numberOfListeners": 98087,
         "region": "RM"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 85173,
+        "numberOfListeners": 85350,
         "region": "CA"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 84777,
+        "numberOfListeners": 84468,
         "region": "CMX"
       }
     ]

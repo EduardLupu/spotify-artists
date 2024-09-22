@@ -2,7 +2,7 @@
   "id": "3WrYZkoJFRNZ5BMk572Vmo",
   "name": "Majestic",
   "followers": 74,
-  "monthlyListeners": 28,
+  "monthlyListeners": 29,
   "topCities": {
     "items": [
       {
@@ -12,28 +12,28 @@
         "region": "C"
       },
       {
-        "city": "Santa Coloma de Gramenet",
-        "country": "ES",
+        "city": "Murr",
+        "country": "DE",
         "numberOfListeners": 1,
-        "region": "CT"
+        "region": "BW"
       },
       {
-        "city": "Antofagasta",
-        "country": "CL",
+        "city": "Mainz",
+        "country": "DE",
         "numberOfListeners": 1,
-        "region": "AN"
+        "region": "RP"
       },
       {
-        "city": "Talca",
-        "country": "CL",
+        "city": "Bad Zwischenahn",
+        "country": "DE",
         "numberOfListeners": 1,
-        "region": "ML"
+        "region": "NI"
       },
       {
-        "city": "Temuco",
-        "country": "CL",
+        "city": "Munich",
+        "country": "DE",
         "numberOfListeners": 1,
-        "region": "AR"
+        "region": "BY"
       }
     ]
   },

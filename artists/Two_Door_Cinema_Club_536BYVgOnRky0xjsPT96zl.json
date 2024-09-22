@@ -1,38 +1,38 @@
 {
   "id": "536BYVgOnRky0xjsPT96zl",
   "name": "Two Door Cinema Club",
-  "followers": 2444720,
-  "monthlyListeners": 8594184,
+  "followers": 2445208,
+  "monthlyListeners": 8542010,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 307146,
+        "numberOfListeners": 303142,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 140426,
+        "numberOfListeners": 140659,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 122363,
+        "numberOfListeners": 122049,
         "region": "VIC"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 120711,
+        "numberOfListeners": 120393,
         "region": "L"
       },
       {
         "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 116032,
+        "numberOfListeners": 115921,
         "region": "ENG"
       }
     ]

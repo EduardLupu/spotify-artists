@@ -1,14 +1,14 @@
 {
   "id": "3FryM9E1TryLAHtzVkH7lG",
   "name": "GHOST",
-  "followers": 777,
-  "monthlyListeners": 9482,
+  "followers": 781,
+  "monthlyListeners": 9471,
   "topCities": {
     "items": [
       {
         "city": "Istanbul",
         "country": "TR",
-        "numberOfListeners": 131,
+        "numberOfListeners": 129,
         "region": "34"
       },
       {
@@ -20,19 +20,19 @@
       {
         "city": "Kyiv",
         "country": "UA",
-        "numberOfListeners": 87,
+        "numberOfListeners": 86,
         "region": "30"
       },
       {
         "city": "Warsaw",
         "country": "PL",
-        "numberOfListeners": 79,
+        "numberOfListeners": 81,
         "region": "14"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 70,
+        "numberOfListeners": 68,
         "region": "BE"
       }
     ]

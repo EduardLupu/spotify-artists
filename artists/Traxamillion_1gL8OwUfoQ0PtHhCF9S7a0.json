@@ -1,38 +1,38 @@
 {
   "id": "1gL8OwUfoQ0PtHhCF9S7a0",
   "name": "Traxamillion",
-  "followers": 39779,
-  "monthlyListeners": 30249,
+  "followers": 39778,
+  "monthlyListeners": 30112,
   "topCities": {
     "items": [
       {
         "city": "Sacramento",
         "country": "US",
-        "numberOfListeners": 2799,
+        "numberOfListeners": 2750,
         "region": "CA"
       },
       {
         "city": "San Francisco",
         "country": "US",
-        "numberOfListeners": 2530,
+        "numberOfListeners": 2531,
         "region": "CA"
       },
       {
         "city": "Oakland",
         "country": "US",
-        "numberOfListeners": 1706,
+        "numberOfListeners": 1726,
         "region": "CA"
       },
       {
         "city": "San Jose",
         "country": "US",
-        "numberOfListeners": 1544,
+        "numberOfListeners": 1537,
         "region": "CA"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 1156,
+        "numberOfListeners": 1162,
         "region": "CA"
       }
     ]

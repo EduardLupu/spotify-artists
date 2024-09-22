@@ -1,33 +1,33 @@
 {
   "id": "2N5u8gzp4pZKH0aBDaJ33q",
   "name": "André",
-  "followers": 1175,
-  "monthlyListeners": 19675,
+  "followers": 1178,
+  "monthlyListeners": 19674,
   "topCities": {
     "items": [
       {
         "city": "Barcelona",
         "country": "ES",
-        "numberOfListeners": 2450,
+        "numberOfListeners": 2464,
         "region": "CT"
       },
       {
         "city": "Montreal",
         "country": "CA",
-        "numberOfListeners": 1191,
+        "numberOfListeners": 1192,
         "region": "QC"
-      },
-      {
-        "city": "Lisbon",
-        "country": "PT",
-        "numberOfListeners": 810,
-        "region": "11"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 801,
+        "numberOfListeners": 830,
         "region": "JK"
+      },
+      {
+        "city": "Lisbon",
+        "country": "PT",
+        "numberOfListeners": 801,
+        "region": "11"
       },
       {
         "city": "Los Angeles",

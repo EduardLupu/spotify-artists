@@ -1,38 +1,38 @@
 {
   "id": "1gBUSTR3TyDdTVFIaQnc02",
   "name": "NCT DREAM",
-  "followers": 7871762,
-  "monthlyListeners": 3525883,
+  "followers": 7873828,
+  "monthlyListeners": 3502987,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 415293,
+        "numberOfListeners": 416876,
         "region": "JK"
       },
       {
         "city": "Bangkok",
         "country": "TH",
-        "numberOfListeners": 151077,
+        "numberOfListeners": 149207,
         "region": "10"
-      },
-      {
-        "city": "Tokyo",
-        "country": "JP",
-        "numberOfListeners": 96485,
-        "region": "13"
       },
       {
         "city": "Bandung",
         "country": "ID",
-        "numberOfListeners": 96307,
+        "numberOfListeners": 96636,
         "region": "JB"
+      },
+      {
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 96100,
+        "region": "13"
       },
       {
         "city": "Kuala Lumpur",
         "country": "MY",
-        "numberOfListeners": 68282,
+        "numberOfListeners": 67944,
         "region": "14"
       }
     ]

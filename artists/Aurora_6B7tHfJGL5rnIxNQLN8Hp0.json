@@ -1,38 +1,38 @@
 {
   "id": "6B7tHfJGL5rnIxNQLN8Hp0",
   "name": "Aurora",
-  "followers": 8874,
-  "monthlyListeners": 87751,
+  "followers": 8880,
+  "monthlyListeners": 88249,
   "topCities": {
     "items": [
       {
         "city": "Helsinki",
         "country": "FI",
-        "numberOfListeners": 57115,
+        "numberOfListeners": 57448,
         "region": "18"
       },
       {
         "city": "Tampere",
         "country": "FI",
-        "numberOfListeners": 10972,
+        "numberOfListeners": 11093,
         "region": "11"
       },
       {
         "city": "Oulu",
         "country": "FI",
-        "numberOfListeners": 9990,
+        "numberOfListeners": 9964,
         "region": "14"
       },
       {
         "city": "Vantaa",
         "country": "FI",
-        "numberOfListeners": 4904,
+        "numberOfListeners": 4883,
         "region": "18"
       },
       {
         "city": "Espoo",
         "country": "FI",
-        "numberOfListeners": 3535,
+        "numberOfListeners": 3627,
         "region": "18"
       }
     ]

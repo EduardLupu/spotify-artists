@@ -1,38 +1,38 @@
 {
   "id": "6RQvRKNtkO1CeNyGkY8ok0",
   "name": "Groupthink",
-  "followers": 5086,
-  "monthlyListeners": 48348,
+  "followers": 5087,
+  "monthlyListeners": 48124,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 984,
+        "numberOfListeners": 987,
         "region": "CA"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 864,
+        "numberOfListeners": 868,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 853,
+        "numberOfListeners": 857,
         "region": "IL"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 761,
+        "numberOfListeners": 758,
         "region": "CO"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 743,
+        "numberOfListeners": 734,
         "region": "NY"
       }
     ]

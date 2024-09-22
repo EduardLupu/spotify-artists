@@ -18,19 +18,19 @@
         "region": "CA"
       },
       {
-        "city": "Phoenix",
-        "country": "US",
-        "numberOfListeners": 2,
-        "region": "AZ"
-      },
-      {
-        "city": "San Diego",
+        "city": "Upland",
         "country": "US",
         "numberOfListeners": 2,
         "region": "CA"
       },
       {
         "city": "Fontana",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "CA"
+      },
+      {
+        "city": "San Diego",
         "country": "US",
         "numberOfListeners": 2,
         "region": "CA"

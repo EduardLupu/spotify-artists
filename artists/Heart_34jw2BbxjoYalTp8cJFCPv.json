@@ -1,38 +1,38 @@
 {
   "id": "34jw2BbxjoYalTp8cJFCPv",
   "name": "Heart",
-  "followers": 2652654,
-  "monthlyListeners": 9453099,
+  "followers": 2653782,
+  "monthlyListeners": 9453119,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 147407,
+        "numberOfListeners": 146726,
         "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 138729,
+        "numberOfListeners": 138629,
         "region": "SP"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 110572,
+        "numberOfListeners": 110687,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 103261,
+        "numberOfListeners": 103222,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 92718,
+        "numberOfListeners": 92495,
         "region": "IL"
       }
     ]

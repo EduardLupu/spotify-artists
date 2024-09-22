@@ -1,38 +1,38 @@
 {
   "id": "3fll16LLw6kdDxWzSpJPEQ",
   "name": "Malu",
-  "followers": 91305,
-  "monthlyListeners": 588446,
+  "followers": 91311,
+  "monthlyListeners": 590932,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 65152,
+        "numberOfListeners": 65099,
         "region": "SP"
-      },
-      {
-        "city": "Rio de Janeiro",
-        "country": "BR",
-        "numberOfListeners": 22754,
-        "region": "RJ"
       },
       {
         "city": "Porto Alegre",
         "country": "BR",
-        "numberOfListeners": 22602,
+        "numberOfListeners": 22788,
         "region": "RS"
+      },
+      {
+        "city": "Rio de Janeiro",
+        "country": "BR",
+        "numberOfListeners": 22755,
+        "region": "RJ"
       },
       {
         "city": "Lisbon",
         "country": "PT",
-        "numberOfListeners": 22332,
+        "numberOfListeners": 22209,
         "region": "11"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 19993,
+        "numberOfListeners": 20095,
         "region": "MG"
       }
     ]

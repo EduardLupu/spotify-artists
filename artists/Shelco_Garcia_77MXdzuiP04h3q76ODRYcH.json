@@ -2,7 +2,7 @@
   "id": "77MXdzuiP04h3q76ODRYcH",
   "name": "Shelco Garcia",
   "followers": 1335,
-  "monthlyListeners": 1966,
+  "monthlyListeners": 1948,
   "topCities": {
     "items": [
       {
@@ -20,20 +20,20 @@
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 28,
+        "numberOfListeners": 27,
         "region": "ON"
-      },
-      {
-        "city": "Montreal",
-        "country": "CA",
-        "numberOfListeners": 26,
-        "region": "QC"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 25,
+        "numberOfListeners": 26,
         "region": "NSW"
+      },
+      {
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 25,
+        "region": "ZH"
       }
     ]
   },

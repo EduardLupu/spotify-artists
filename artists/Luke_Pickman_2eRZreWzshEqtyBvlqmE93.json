@@ -1,38 +1,38 @@
 {
   "id": "2eRZreWzshEqtyBvlqmE93",
   "name": "Luke Pickman",
-  "followers": 12413,
-  "monthlyListeners": 79259,
+  "followers": 12423,
+  "monthlyListeners": 80133,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 874,
+        "numberOfListeners": 881,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 795,
+        "numberOfListeners": 797,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 762,
+        "numberOfListeners": 758,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 732,
+        "numberOfListeners": 749,
         "region": "CA"
       },
       {
         "city": "Singapore",
         "country": "SG",
-        "numberOfListeners": 703,
+        "numberOfListeners": 699,
         "region": ""
       }
     ]

@@ -1,41 +1,41 @@
 {
   "id": "10exVja0key0uqUkk6LJRT",
   "name": "Vance Joy",
-  "followers": 3155510,
-  "monthlyListeners": 21967050,
+  "followers": 3156176,
+  "monthlyListeners": 21945132,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 632183,
+        "numberOfListeners": 634605,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 529925,
+        "numberOfListeners": 531093,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 449104,
+        "numberOfListeners": 451030,
         "region": "QLD"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 324172,
+        "numberOfListeners": 322187,
         "region": "ENG"
       },
       {
         "city": "Perth",
         "country": "AU",
-        "numberOfListeners": 247386,
+        "numberOfListeners": 248684,
         "region": "WA"
       }
     ]
   },
-  "worldRank": 307
+  "worldRank": 305
 }

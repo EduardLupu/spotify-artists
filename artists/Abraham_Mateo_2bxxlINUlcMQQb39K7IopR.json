@@ -1,38 +1,38 @@
 {
   "id": "2bxxlINUlcMQQb39K7IopR",
   "name": "Abraham Mateo",
-  "followers": 1542407,
-  "monthlyListeners": 5048035,
+  "followers": 1542636,
+  "monthlyListeners": 5030436,
   "topCities": {
     "items": [
       {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 418118,
+        "numberOfListeners": 416409,
         "region": "MD"
       },
       {
         "city": "Barcelona",
         "country": "ES",
-        "numberOfListeners": 231850,
+        "numberOfListeners": 229354,
         "region": "CT"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 146780,
+        "numberOfListeners": 145784,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 116605,
+        "numberOfListeners": 116644,
         "region": "CMX"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 112859,
+        "numberOfListeners": 112886,
         "region": "LMA"
       }
     ]

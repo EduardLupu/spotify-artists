@@ -1,38 +1,38 @@
 {
   "id": "4f4PbiGjxo06QrLWaUMp9c",
   "name": "Silvana Musso",
-  "followers": 4618,
-  "monthlyListeners": 17028,
+  "followers": 4624,
+  "monthlyListeners": 17018,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 814,
+        "numberOfListeners": 808,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 738,
+        "numberOfListeners": 739,
         "region": "RM"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 650,
+        "numberOfListeners": 634,
         "region": "SP"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 534,
+        "numberOfListeners": 529,
         "region": "DC"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 384,
+        "numberOfListeners": 391,
         "region": "ANT"
       }
     ]

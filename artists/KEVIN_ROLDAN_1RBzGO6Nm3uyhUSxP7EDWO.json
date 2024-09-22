@@ -1,39 +1,39 @@
 {
   "id": "1RBzGO6Nm3uyhUSxP7EDWO",
   "name": "KEVIN ROLDAN",
-  "followers": 5629804,
-  "monthlyListeners": 7079562,
+  "followers": 5629731,
+  "monthlyListeners": 7046984,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 907683,
+        "numberOfListeners": 901461,
         "region": "DC"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 503059,
+        "numberOfListeners": 502208,
         "region": "ANT"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 415198,
+        "numberOfListeners": 412776,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 308178,
+        "numberOfListeners": 305576,
         "region": "RM"
       },
       {
-        "city": "Santiago de Cali",
-        "country": "CO",
-        "numberOfListeners": 261796,
-        "region": "VAC"
+        "city": "Buenos Aires",
+        "country": "AR",
+        "numberOfListeners": 264363,
+        "region": "C"
       }
     ]
   },

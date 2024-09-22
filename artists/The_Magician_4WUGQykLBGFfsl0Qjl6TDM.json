@@ -1,39 +1,39 @@
 {
   "id": "4WUGQykLBGFfsl0Qjl6TDM",
   "name": "The Magician",
-  "followers": 94138,
-  "monthlyListeners": 6278661,
+  "followers": 94183,
+  "monthlyListeners": 6362901,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 136212,
+        "numberOfListeners": 135917,
         "region": "IDF"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 105515,
+        "numberOfListeners": 104951,
         "region": "ENG"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 101859,
+        "numberOfListeners": 99723,
         "region": "CMX"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 78501,
+        "numberOfListeners": 79219,
         "region": "NSW"
       },
       {
-        "city": "São Paulo",
-        "country": "BR",
-        "numberOfListeners": 76426,
-        "region": "SP"
+        "city": "Amsterdam",
+        "country": "NL",
+        "numberOfListeners": 75699,
+        "region": "NH"
       }
     ]
   },

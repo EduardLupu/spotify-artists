@@ -1,41 +1,41 @@
 {
   "id": "19k8AgwwTSxeaxkOuCQEJs",
   "name": "Jelly Roll",
-  "followers": 4249192,
-  "monthlyListeners": 19226704,
+  "followers": 4253952,
+  "monthlyListeners": 19063532,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 365958,
+        "numberOfListeners": 361549,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 343579,
+        "numberOfListeners": 341604,
         "region": "NSW"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 302935,
+        "numberOfListeners": 298590,
         "region": "ON"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 300511,
+        "numberOfListeners": 297497,
         "region": "TX"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 288652,
+        "numberOfListeners": 286875,
         "region": "QLD"
       }
     ]
   },
-  "worldRank": 387
+  "worldRank": 392
 }

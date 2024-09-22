@@ -1,38 +1,38 @@
 {
   "id": "4aXja3fAUHCtIr2H4geJzD",
   "name": "Oleg Kenzov",
-  "followers": 28446,
-  "monthlyListeners": 96038,
+  "followers": 28456,
+  "monthlyListeners": 95820,
   "topCities": {
     "items": [
       {
-        "city": "Frankfurt am Main",
-        "country": "DE",
-        "numberOfListeners": 3654,
-        "region": "HE"
-      },
-      {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 3617,
+        "numberOfListeners": 3761,
         "region": "HH"
       },
       {
-        "city": "Berlin",
+        "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 2898,
-        "region": "BE"
+        "numberOfListeners": 3641,
+        "region": "HE"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 2892,
+        "numberOfListeners": 2934,
         "region": "BW"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 2887,
+        "region": "BE"
       },
       {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 2401,
+        "numberOfListeners": 2420,
         "region": "BY"
       }
     ]

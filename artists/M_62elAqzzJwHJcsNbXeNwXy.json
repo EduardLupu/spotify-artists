@@ -2,19 +2,19 @@
   "id": "62elAqzzJwHJcsNbXeNwXy",
   "name": "M",
   "followers": 80,
-  "monthlyListeners": 1051,
+  "monthlyListeners": 1031,
   "topCities": {
     "items": [
       {
         "city": "Milan",
         "country": "IT",
-        "numberOfListeners": 93,
+        "numberOfListeners": 91,
         "region": "25"
       },
       {
         "city": "Rome",
         "country": "IT",
-        "numberOfListeners": 36,
+        "numberOfListeners": 39,
         "region": "62"
       },
       {
@@ -26,13 +26,13 @@
       {
         "city": "Vilnius",
         "country": "LT",
-        "numberOfListeners": 22,
+        "numberOfListeners": 24,
         "region": "VL"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 21,
+        "numberOfListeners": 20,
         "region": "IDF"
       }
     ]

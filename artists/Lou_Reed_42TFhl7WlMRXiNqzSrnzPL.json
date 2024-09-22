@@ -1,38 +1,38 @@
 {
   "id": "42TFhl7WlMRXiNqzSrnzPL",
   "name": "Lou Reed",
-  "followers": 1861851,
-  "monthlyListeners": 5595821,
+  "followers": 1862457,
+  "monthlyListeners": 5610752,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 102567,
+        "numberOfListeners": 102701,
         "region": "ENG"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 93021,
+        "numberOfListeners": 93621,
         "region": "IDF"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 88912,
+        "numberOfListeners": 89275,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 78533,
+        "numberOfListeners": 78749,
         "region": "VIC"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 65932,
+        "numberOfListeners": 66605,
         "region": "NH"
       }
     ]

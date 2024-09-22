@@ -1,38 +1,38 @@
 {
   "id": "3SCOuAxngTC1yGjKMcIPEd",
   "name": "Lasso",
-  "followers": 811042,
-  "monthlyListeners": 6052190,
+  "followers": 811790,
+  "monthlyListeners": 6040544,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 442372,
+        "numberOfListeners": 440129,
         "region": "CMX"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 277755,
+        "numberOfListeners": 276996,
         "region": "LMA"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 240064,
+        "numberOfListeners": 238322,
         "region": "RM"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 199126,
+        "numberOfListeners": 198703,
         "region": "JAL"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 196262,
+        "numberOfListeners": 196174,
         "region": "DC"
       }
     ]

@@ -1,38 +1,38 @@
 {
   "id": "6XpaIBNiVzIetEPCWDvAFP",
   "name": "Whitney Houston",
-  "followers": 10438421,
-  "monthlyListeners": 25134252,
+  "followers": 10441556,
+  "monthlyListeners": 25129302,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 425479,
+        "numberOfListeners": 423662,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 342684,
+        "numberOfListeners": 343131,
         "region": "NSW"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 325435,
+        "numberOfListeners": 326703,
         "region": "SP"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 289423,
+        "numberOfListeners": 291994,
         "region": "JK"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 284415,
+        "numberOfListeners": 284430,
         "region": "VIC"
       }
     ]

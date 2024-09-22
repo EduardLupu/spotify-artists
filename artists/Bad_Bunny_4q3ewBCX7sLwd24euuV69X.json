@@ -1,38 +1,38 @@
 {
   "id": "4q3ewBCX7sLwd24euuV69X",
   "name": "Bad Bunny",
-  "followers": 85642866,
-  "monthlyListeners": 64590935,
+  "followers": 85680160,
+  "monthlyListeners": 64854139,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 2728077,
+        "numberOfListeners": 2724442,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 2402780,
+        "numberOfListeners": 2398494,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 2119533,
+        "numberOfListeners": 2122319,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 1642965,
+        "numberOfListeners": 1643027,
         "region": "LMA"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 1462044,
+        "numberOfListeners": 1466753,
         "region": "C"
       }
     ]

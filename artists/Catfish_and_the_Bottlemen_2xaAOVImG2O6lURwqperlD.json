@@ -1,39 +1,39 @@
 {
   "id": "2xaAOVImG2O6lURwqperlD",
   "name": "Catfish and the Bottlemen",
-  "followers": 1105303,
-  "monthlyListeners": 2782557,
+  "followers": 1105546,
+  "monthlyListeners": 2778050,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 298752,
+        "numberOfListeners": 297208,
         "region": "ENG"
       },
       {
         "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 144540,
+        "numberOfListeners": 144863,
         "region": "ENG"
       },
       {
         "city": "Birmingham",
         "country": "GB",
-        "numberOfListeners": 107299,
+        "numberOfListeners": 105936,
         "region": "ENG"
       },
       {
         "city": "Southwark",
         "country": "GB",
-        "numberOfListeners": 98258,
+        "numberOfListeners": 99700,
         "region": "ENG"
       },
       {
-        "city": "Glasgow",
+        "city": "Leeds",
         "country": "GB",
-        "numberOfListeners": 72304,
-        "region": "SCT"
+        "numberOfListeners": 72484,
+        "region": "ENG"
       }
     ]
   },

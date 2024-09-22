@@ -1,38 +1,38 @@
 {
   "id": "3zAhmxuw1F3HmulPuy1RAb",
   "name": "The Connells",
-  "followers": 41424,
-  "monthlyListeners": 1009503,
+  "followers": 41437,
+  "monthlyListeners": 1009442,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 23224,
+        "numberOfListeners": 23246,
         "region": "IDF"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 19923,
+        "numberOfListeners": 20005,
         "region": "BE"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 16239,
+        "numberOfListeners": 16270,
         "region": "BRU"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 15462,
+        "numberOfListeners": 15588,
         "region": "NH"
       },
       {
         "city": "Prague",
         "country": "CZ",
-        "numberOfListeners": 14764,
+        "numberOfListeners": 14728,
         "region": "10"
       }
     ]

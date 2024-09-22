@@ -1,38 +1,38 @@
 {
   "id": "06xa1OLBsMQJFXcl2tQkH4",
   "name": "Machinedrum",
-  "followers": 126710,
-  "monthlyListeners": 449357,
+  "followers": 126723,
+  "monthlyListeners": 447864,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 12623,
+        "numberOfListeners": 12567,
         "region": "ENG"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 8866,
+        "numberOfListeners": 8794,
         "region": "CA"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 7551,
+        "numberOfListeners": 7494,
         "region": "VIC"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 6847,
+        "numberOfListeners": 6794,
         "region": "NY"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 6759,
+        "numberOfListeners": 6711,
         "region": "NY"
       }
     ]

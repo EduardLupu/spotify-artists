@@ -2,7 +2,7 @@
   "id": "2g8irYifWgngn4bPcWbqX3",
   "name": "DoPaMine",
   "followers": 93,
-  "monthlyListeners": 102,
+  "monthlyListeners": 100,
   "topCities": {
     "items": [
       {
@@ -14,20 +14,20 @@
       {
         "city": "Kuala Lumpur",
         "country": "MY",
-        "numberOfListeners": 5,
+        "numberOfListeners": 4,
         "region": "14"
-      },
-      {
-        "city": "Singapore",
-        "country": "SG",
-        "numberOfListeners": 3,
-        "region": ""
       },
       {
         "city": "Sydney",
         "country": "AU",
         "numberOfListeners": 3,
         "region": "NSW"
+      },
+      {
+        "city": "Singapore",
+        "country": "SG",
+        "numberOfListeners": 3,
+        "region": ""
       },
       {
         "city": "Melbourne",

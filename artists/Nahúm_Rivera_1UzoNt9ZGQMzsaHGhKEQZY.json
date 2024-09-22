@@ -2,15 +2,9 @@
   "id": "1UzoNt9ZGQMzsaHGhKEQZY",
   "name": "Nahúm Rivera",
   "followers": 156,
-  "monthlyListeners": 66,
+  "monthlyListeners": 69,
   "topCities": {
     "items": [
-      {
-        "city": "Guatemala City",
-        "country": "GT",
-        "numberOfListeners": 2,
-        "region": "GU"
-      },
       {
         "city": "Philadelphia",
         "country": "US",
@@ -24,16 +18,22 @@
         "region": "NC"
       },
       {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 2,
+        "region": "IL"
+      },
+      {
         "city": "Miami",
         "country": "US",
         "numberOfListeners": 2,
         "region": "FL"
       },
       {
-        "city": "León",
+        "city": "Mexico City",
         "country": "MX",
         "numberOfListeners": 2,
-        "region": "GUA"
+        "region": "CMX"
       }
     ]
   },

@@ -1,41 +1,41 @@
 {
   "id": "3y2cIKLjiOlp1Np37WiUdH",
   "name": "Shaboozey",
-  "followers": 664278,
-  "monthlyListeners": 31870688,
+  "followers": 672494,
+  "monthlyListeners": 31735832,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 615510,
+        "numberOfListeners": 613725,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 570034,
+        "numberOfListeners": 564092,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 483390,
+        "numberOfListeners": 481270,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 462492,
+        "numberOfListeners": 460728,
         "region": "QLD"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 420612,
+        "numberOfListeners": 416804,
         "region": "IL"
       }
     ]
   },
-  "worldRank": 138
+  "worldRank": 139
 }

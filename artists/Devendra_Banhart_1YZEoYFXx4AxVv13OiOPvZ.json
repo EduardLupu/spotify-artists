@@ -1,38 +1,38 @@
 {
   "id": "1YZEoYFXx4AxVv13OiOPvZ",
   "name": "Devendra Banhart",
-  "followers": 621837,
-  "monthlyListeners": 1150220,
+  "followers": 621893,
+  "monthlyListeners": 1143982,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 21484,
+        "numberOfListeners": 21425,
         "region": "SP"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 19262,
+        "numberOfListeners": 19135,
         "region": "CMX"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 17894,
+        "numberOfListeners": 17875,
         "region": "IDF"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 16373,
+        "numberOfListeners": 16243,
         "region": "BE"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 15705,
+        "numberOfListeners": 15698,
         "region": "CA"
       }
     ]

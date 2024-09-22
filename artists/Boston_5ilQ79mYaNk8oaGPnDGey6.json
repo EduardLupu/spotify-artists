@@ -1,38 +1,38 @@
 {
   "id": "5ilQ79mYaNk8oaGPnDGey6",
   "name": "Boston",
-  "followers": 6134,
-  "monthlyListeners": 15502,
+  "followers": 6136,
+  "monthlyListeners": 15439,
   "topCities": {
     "items": [
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 1455,
+        "numberOfListeners": 1453,
         "region": "ON"
       },
       {
         "city": "Singapore",
         "country": "SG",
-        "numberOfListeners": 1086,
+        "numberOfListeners": 1085,
         "region": ""
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1006,
+        "numberOfListeners": 1004,
         "region": "ENG"
       },
       {
         "city": "Chennai",
         "country": "IN",
-        "numberOfListeners": 875,
+        "numberOfListeners": 866,
         "region": "TN"
       },
       {
         "city": "Kuala Lumpur",
         "country": "MY",
-        "numberOfListeners": 856,
+        "numberOfListeners": 837,
         "region": "14"
       }
     ]

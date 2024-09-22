@@ -1,39 +1,39 @@
 {
   "id": "5zFtqMfPtmGuKZEjepbVDW",
   "name": "BK",
-  "followers": 11143,
-  "monthlyListeners": 94920,
+  "followers": 11150,
+  "monthlyListeners": 97946,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 3642,
+        "numberOfListeners": 3648,
         "region": "ENG"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 3418,
+        "numberOfListeners": 3501,
         "region": "NH"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 2575,
+        "numberOfListeners": 2633,
         "region": "VIC"
-      },
-      {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 2136,
-        "region": "NSW"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 2131,
+        "numberOfListeners": 2181,
         "region": "L"
+      },
+      {
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 2166,
+        "region": "NSW"
       }
     ]
   },

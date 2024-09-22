@@ -1,39 +1,39 @@
 {
   "id": "3qvcCP2J0fWi0m0uQDUf6r",
   "name": "Luan Santana",
-  "followers": 8028172,
-  "monthlyListeners": 12533961,
+  "followers": 8033061,
+  "monthlyListeners": 12498524,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 1977513,
+        "numberOfListeners": 1968645,
         "region": "SP"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 755908,
+        "numberOfListeners": 754952,
         "region": "MG"
       },
       {
         "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 628718,
+        "numberOfListeners": 628491,
         "region": "PR"
       },
       {
         "city": "Campinas",
         "country": "BR",
-        "numberOfListeners": 622714,
+        "numberOfListeners": 621980,
         "region": "SP"
       },
       {
-        "city": "Rio de Janeiro",
+        "city": "Brasília",
         "country": "BR",
-        "numberOfListeners": 561646,
-        "region": "RJ"
+        "numberOfListeners": 558257,
+        "region": "DF"
       }
     ]
   },

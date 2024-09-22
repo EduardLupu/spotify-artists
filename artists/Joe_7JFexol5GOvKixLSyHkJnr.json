@@ -1,14 +1,14 @@
 {
   "id": "7JFexol5GOvKixLSyHkJnr",
   "name": "Joe",
-  "followers": 81,
-  "monthlyListeners": 67,
+  "followers": 80,
+  "monthlyListeners": 68,
   "topCities": {
     "items": [
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 7,
+        "numberOfListeners": 6,
         "region": "13"
       },
       {
@@ -16,12 +16,6 @@
         "country": "MY",
         "numberOfListeners": 6,
         "region": "14"
-      },
-      {
-        "city": "Melbourne",
-        "country": "AU",
-        "numberOfListeners": 4,
-        "region": "VIC"
       },
       {
         "city": "Singapore",
@@ -32,8 +26,14 @@
       {
         "city": "Oslo",
         "country": "NO",
-        "numberOfListeners": 3,
+        "numberOfListeners": 4,
         "region": "03"
+      },
+      {
+        "city": "Melbourne",
+        "country": "AU",
+        "numberOfListeners": 4,
+        "region": "VIC"
       }
     ]
   },

@@ -1,38 +1,38 @@
 {
   "id": "6RZUqkomCmb8zCRqc9eznB",
   "name": "Placebo",
-  "followers": 1959078,
-  "monthlyListeners": 3280590,
+  "followers": 1959467,
+  "monthlyListeners": 3270383,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 101184,
+        "numberOfListeners": 100785,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 91619,
+        "numberOfListeners": 90902,
         "region": "RM"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 64921,
+        "numberOfListeners": 64561,
         "region": "ENG"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 51819,
+        "numberOfListeners": 51817,
         "region": "IDF"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 45595,
+        "numberOfListeners": 45471,
         "region": "BE"
       }
     ]

@@ -1,14 +1,14 @@
 {
   "id": "3pNDFOiM2xrFifqxShNJTL",
   "name": "Comfort Manyame",
-  "followers": 374,
-  "monthlyListeners": 955,
+  "followers": 375,
+  "monthlyListeners": 958,
   "topCities": {
     "items": [
       {
         "city": "Harare",
         "country": "ZW",
-        "numberOfListeners": 157,
+        "numberOfListeners": 156,
         "region": "HA"
       },
       {
@@ -20,19 +20,19 @@
       {
         "city": "Cape Town",
         "country": "ZA",
-        "numberOfListeners": 73,
+        "numberOfListeners": 74,
         "region": "WC"
       },
       {
         "city": "Pretoria",
         "country": "ZA",
-        "numberOfListeners": 39,
+        "numberOfListeners": 38,
         "region": "GP"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 39,
+        "numberOfListeners": 37,
         "region": "ENG"
       }
     ]

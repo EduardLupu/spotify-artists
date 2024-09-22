@@ -1,39 +1,39 @@
 {
   "id": "1mUJ5FdyqTx1UewE6z6imQ",
   "name": "Uziel Payan",
-  "followers": 29543,
-  "monthlyListeners": 186287,
+  "followers": 29551,
+  "monthlyListeners": 186060,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 10894,
+        "numberOfListeners": 10835,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 10421,
+        "numberOfListeners": 10344,
         "region": "JAL"
       },
       {
         "city": "Tijuana",
         "country": "MX",
-        "numberOfListeners": 7190,
+        "numberOfListeners": 7148,
         "region": "BCN"
-      },
-      {
-        "city": "Querétaro City",
-        "country": "MX",
-        "numberOfListeners": 5890,
-        "region": "QUE"
       },
       {
         "city": "Zapopan",
         "country": "MX",
-        "numberOfListeners": 5853,
+        "numberOfListeners": 5905,
         "region": "JAL"
+      },
+      {
+        "city": "Querétaro City",
+        "country": "MX",
+        "numberOfListeners": 5832,
+        "region": "QUE"
       }
     ]
   },

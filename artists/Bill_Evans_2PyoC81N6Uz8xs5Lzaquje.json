@@ -1,38 +1,38 @@
 {
   "id": "2PyoC81N6Uz8xs5Lzaquje",
   "name": "Bill Evans",
-  "followers": 5749,
-  "monthlyListeners": 57466,
+  "followers": 5751,
+  "monthlyListeners": 55365,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 1074,
+        "numberOfListeners": 1002,
         "region": "IDF"
       },
       {
         "city": "Johannesburg",
         "country": "ZA",
-        "numberOfListeners": 569,
+        "numberOfListeners": 570,
         "region": "GP"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 516,
+        "numberOfListeners": 485,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 428,
+        "numberOfListeners": 429,
         "region": "HH"
       },
       {
         "city": "Tokyo",
         "country": "JP",
-        "numberOfListeners": 428,
+        "numberOfListeners": 411,
         "region": "13"
       }
     ]

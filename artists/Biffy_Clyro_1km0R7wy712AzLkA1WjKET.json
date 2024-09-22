@@ -1,38 +1,38 @@
 {
   "id": "1km0R7wy712AzLkA1WjKET",
   "name": "Biffy Clyro",
-  "followers": 724386,
-  "monthlyListeners": 1133657,
+  "followers": 724451,
+  "monthlyListeners": 1136669,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 104046,
+        "numberOfListeners": 104016,
         "region": "ENG"
       },
       {
         "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 40715,
+        "numberOfListeners": 40961,
         "region": "ENG"
       },
       {
         "city": "Birmingham",
         "country": "GB",
-        "numberOfListeners": 34471,
+        "numberOfListeners": 34051,
         "region": "ENG"
       },
       {
         "city": "Glasgow",
         "country": "GB",
-        "numberOfListeners": 32605,
+        "numberOfListeners": 32559,
         "region": "SCT"
       },
       {
         "city": "Southwark",
         "country": "GB",
-        "numberOfListeners": 30045,
+        "numberOfListeners": 30427,
         "region": "ENG"
       }
     ]

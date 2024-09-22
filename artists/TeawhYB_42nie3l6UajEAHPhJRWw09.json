@@ -2,13 +2,13 @@
   "id": "42nie3l6UajEAHPhJRWw09",
   "name": "TeawhYB",
   "followers": 2563,
-  "monthlyListeners": 13521,
+  "monthlyListeners": 13494,
   "topCities": {
     "items": [
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 288,
+        "numberOfListeners": 292,
         "region": "CO"
       },
       {
@@ -18,22 +18,22 @@
         "region": "SN"
       },
       {
-        "city": "Seattle",
-        "country": "US",
-        "numberOfListeners": 197,
-        "region": "WA"
-      },
-      {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 196,
+        "numberOfListeners": 199,
         "region": "IL"
       },
       {
         "city": "Minneapolis",
         "country": "US",
-        "numberOfListeners": 193,
+        "numberOfListeners": 194,
         "region": "MN"
+      },
+      {
+        "city": "Seattle",
+        "country": "US",
+        "numberOfListeners": 192,
+        "region": "WA"
       }
     ]
   },

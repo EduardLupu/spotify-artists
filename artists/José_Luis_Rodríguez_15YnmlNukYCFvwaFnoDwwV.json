@@ -1,38 +1,38 @@
 {
   "id": "15YnmlNukYCFvwaFnoDwwV",
   "name": "José Luis Rodríguez",
-  "followers": 1173970,
-  "monthlyListeners": 3336029,
+  "followers": 1174181,
+  "monthlyListeners": 3325009,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 205467,
+        "numberOfListeners": 204858,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 137473,
+        "numberOfListeners": 136228,
         "region": "CMX"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 91965,
+        "numberOfListeners": 91842,
         "region": "DC"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 86893,
+        "numberOfListeners": 86732,
         "region": "LMA"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 79519,
+        "numberOfListeners": 78991,
         "region": "JAL"
       }
     ]

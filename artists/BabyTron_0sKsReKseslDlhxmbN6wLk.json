@@ -1,38 +1,38 @@
 {
   "id": "0sKsReKseslDlhxmbN6wLk",
   "name": "BabyTron",
-  "followers": 561654,
-  "monthlyListeners": 6182480,
+  "followers": 561925,
+  "monthlyListeners": 6141447,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 108518,
+        "numberOfListeners": 107587,
         "region": "IL"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 94113,
+        "numberOfListeners": 93413,
         "region": "CA"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 78386,
+        "numberOfListeners": 77939,
         "region": "ON"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 73394,
+        "numberOfListeners": 73366,
         "region": "NY"
       },
       {
         "city": "Dallas",
         "country": "US",
-        "numberOfListeners": 71700,
+        "numberOfListeners": 71256,
         "region": "TX"
       }
     ]

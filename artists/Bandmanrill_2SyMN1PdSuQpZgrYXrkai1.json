@@ -1,39 +1,39 @@
 {
   "id": "2SyMN1PdSuQpZgrYXrkai1",
   "name": "Bandmanrill",
-  "followers": 70874,
-  "monthlyListeners": 314868,
+  "followers": 70886,
+  "monthlyListeners": 313926,
   "topCities": {
     "items": [
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 8414,
+        "numberOfListeners": 8489,
         "region": "NY"
       },
       {
         "city": "Brooklyn",
         "country": "US",
-        "numberOfListeners": 8234,
+        "numberOfListeners": 8173,
         "region": "NY"
       },
       {
         "city": "Philadelphia",
         "country": "US",
-        "numberOfListeners": 6840,
+        "numberOfListeners": 6832,
         "region": "PA"
-      },
-      {
-        "city": "Chicago",
-        "country": "US",
-        "numberOfListeners": 4775,
-        "region": "IL"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 4731,
+        "numberOfListeners": 4766,
         "region": "ON"
+      },
+      {
+        "city": "Chicago",
+        "country": "US",
+        "numberOfListeners": 4756,
+        "region": "IL"
       }
     ]
   },

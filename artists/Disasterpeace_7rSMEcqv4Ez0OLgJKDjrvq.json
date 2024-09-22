@@ -1,38 +1,38 @@
 {
   "id": "7rSMEcqv4Ez0OLgJKDjrvq",
   "name": "Disasterpeace",
-  "followers": 87162,
-  "monthlyListeners": 509780,
+  "followers": 87175,
+  "monthlyListeners": 510462,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 5884,
+        "numberOfListeners": 5874,
         "region": "CA"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 5321,
+        "numberOfListeners": 5328,
         "region": "ENG"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 5294,
+        "numberOfListeners": 5291,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 4893,
+        "numberOfListeners": 4880,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 4834,
+        "numberOfListeners": 4841,
         "region": "VIC"
       }
     ]

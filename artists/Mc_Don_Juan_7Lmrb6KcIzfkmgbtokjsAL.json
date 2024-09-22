@@ -1,38 +1,38 @@
 {
   "id": "7Lmrb6KcIzfkmgbtokjsAL",
   "name": "Mc Don Juan",
-  "followers": 5132851,
-  "monthlyListeners": 12289959,
+  "followers": 5133498,
+  "monthlyListeners": 12280367,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 2353630,
+        "numberOfListeners": 2346734,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 662630,
+        "numberOfListeners": 659794,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 628719,
+        "numberOfListeners": 628526,
         "region": "MG"
       },
       {
         "city": "Campinas",
         "country": "BR",
-        "numberOfListeners": 597330,
+        "numberOfListeners": 597102,
         "region": "SP"
       },
       {
         "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 532927,
+        "numberOfListeners": 532984,
         "region": "PR"
       }
     ]

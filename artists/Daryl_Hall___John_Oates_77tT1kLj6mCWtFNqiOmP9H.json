@@ -1,41 +1,41 @@
 {
   "id": "77tT1kLj6mCWtFNqiOmP9H",
   "name": "Daryl Hall & John Oates",
-  "followers": 2504362,
-  "monthlyListeners": 24551072,
+  "followers": 2505438,
+  "monthlyListeners": 24483654,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 426640,
+        "numberOfListeners": 426950,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 390424,
+        "numberOfListeners": 388552,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 357034,
+        "numberOfListeners": 357140,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 304553,
+        "numberOfListeners": 302836,
         "region": "IL"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 293501,
+        "numberOfListeners": 293551,
         "region": "QLD"
       }
     ]
   },
-  "worldRank": 238
+  "worldRank": 239
 }

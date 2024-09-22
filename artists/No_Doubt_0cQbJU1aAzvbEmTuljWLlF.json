@@ -1,38 +1,38 @@
 {
   "id": "0cQbJU1aAzvbEmTuljWLlF",
   "name": "No Doubt",
-  "followers": 2889351,
-  "monthlyListeners": 11880046,
+  "followers": 2890057,
+  "monthlyListeners": 11876412,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 242345,
+        "numberOfListeners": 239889,
         "region": "RM"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 206301,
+        "numberOfListeners": 206005,
         "region": "CMX"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 149930,
+        "numberOfListeners": 149715,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 147016,
+        "numberOfListeners": 146989,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 136486,
+        "numberOfListeners": 136374,
         "region": "VIC"
       }
     ]

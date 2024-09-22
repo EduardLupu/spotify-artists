@@ -1,41 +1,41 @@
 {
   "id": "1HBjj22wzbscIZ9sEb5dyf",
   "name": "Jonas Blue",
-  "followers": 3764664,
-  "monthlyListeners": 16624797,
+  "followers": 3765046,
+  "monthlyListeners": 16576824,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 383335,
+        "numberOfListeners": 383649,
         "region": "JK"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 256177,
+        "numberOfListeners": 255009,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 235137,
+        "numberOfListeners": 235462,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 185081,
+        "numberOfListeners": 185075,
         "region": "VIC"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 183192,
+        "numberOfListeners": 183757,
         "region": "NH"
       }
     ]
   },
-  "worldRank": 487
+  "worldRank": 488
 }

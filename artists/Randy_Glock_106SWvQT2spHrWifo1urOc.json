@@ -1,38 +1,38 @@
 {
   "id": "106SWvQT2spHrWifo1urOc",
   "name": "Randy Glock",
-  "followers": 46779,
-  "monthlyListeners": 21521,
+  "followers": 46781,
+  "monthlyListeners": 21520,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 4137,
+        "numberOfListeners": 4061,
         "region": "RM"
       },
       {
         "city": "Medellín",
         "country": "CO",
-        "numberOfListeners": 2574,
+        "numberOfListeners": 2591,
         "region": "ANT"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 1593,
+        "numberOfListeners": 1572,
         "region": "DC"
       },
       {
         "city": "Santiago de Cali",
         "country": "CO",
-        "numberOfListeners": 1368,
+        "numberOfListeners": 1354,
         "region": "VAC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 515,
+        "numberOfListeners": 519,
         "region": "CMX"
       }
     ]

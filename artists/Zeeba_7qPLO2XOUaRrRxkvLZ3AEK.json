@@ -1,38 +1,38 @@
 {
   "id": "7qPLO2XOUaRrRxkvLZ3AEK",
   "name": "Zeeba",
-  "followers": 269757,
-  "monthlyListeners": 4583526,
+  "followers": 269776,
+  "monthlyListeners": 4575485,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 290876,
+        "numberOfListeners": 290957,
         "region": "SP"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 117468,
+        "numberOfListeners": 116904,
         "region": "CMX"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 108681,
+        "numberOfListeners": 108667,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 83585,
+        "numberOfListeners": 83831,
         "region": "MG"
       },
       {
         "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 78586,
+        "numberOfListeners": 78564,
         "region": "PR"
       }
     ]

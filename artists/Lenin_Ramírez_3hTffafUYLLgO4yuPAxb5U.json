@@ -1,39 +1,39 @@
 {
   "id": "3hTffafUYLLgO4yuPAxb5U",
   "name": "Lenin Ramírez",
-  "followers": 3145996,
-  "monthlyListeners": 6846461,
+  "followers": 3147067,
+  "monthlyListeners": 6836474,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 554322,
+        "numberOfListeners": 551970,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 333941,
+        "numberOfListeners": 333587,
         "region": "JAL"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 225873,
+        "numberOfListeners": 224409,
         "region": "QUE"
-      },
-      {
-        "city": "Puebla City",
-        "country": "MX",
-        "numberOfListeners": 209732,
-        "region": "PUE"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 208846,
+        "numberOfListeners": 213327,
         "region": "CMX"
+      },
+      {
+        "city": "Puebla City",
+        "country": "MX",
+        "numberOfListeners": 207066,
+        "region": "PUE"
       }
     ]
   },

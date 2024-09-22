@@ -1,8 +1,8 @@
 {
   "id": "7rccGOxP1DVOnolDb0UyAO",
   "name": "Orochi",
-  "followers": 5589,
-  "monthlyListeners": 230,
+  "followers": 5590,
+  "monthlyListeners": 235,
   "topCities": {
     "items": [
       {
@@ -14,14 +14,8 @@
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 4,
+        "numberOfListeners": 5,
         "region": "BE"
-      },
-      {
-        "city": "Tokyo",
-        "country": "JP",
-        "numberOfListeners": 4,
-        "region": "13"
       },
       {
         "city": "Seattle",
@@ -30,10 +24,16 @@
         "region": "WA"
       },
       {
-        "city": "Enschede",
-        "country": "NL",
-        "numberOfListeners": 2,
-        "region": "OV"
+        "city": "Tokyo",
+        "country": "JP",
+        "numberOfListeners": 3,
+        "region": "13"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 3,
+        "region": "18"
       }
     ]
   },

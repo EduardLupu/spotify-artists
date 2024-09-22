@@ -1,38 +1,38 @@
 {
   "id": "6fxk3UXHTFYET8qCT9WlBF",
   "name": "Kevin Morby",
-  "followers": 297994,
-  "monthlyListeners": 689885,
+  "followers": 298042,
+  "monthlyListeners": 688976,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 13050,
+        "numberOfListeners": 12994,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 10532,
+        "numberOfListeners": 10545,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 10247,
+        "numberOfListeners": 10252,
         "region": "VIC"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 10015,
+        "numberOfListeners": 10076,
         "region": "IDF"
       },
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 9593,
+        "numberOfListeners": 9566,
         "region": "BE"
       }
     ]

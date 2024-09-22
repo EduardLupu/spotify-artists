@@ -2,7 +2,7 @@
   "id": "03bcF3vFRGN6qJsv2REBvI",
   "name": "Rosalia",
   "followers": 2154,
-  "monthlyListeners": 1365,
+  "monthlyListeners": 1362,
   "topCities": {
     "items": [
       {
@@ -14,26 +14,26 @@
       {
         "city": "Barcelona",
         "country": "ES",
-        "numberOfListeners": 110,
+        "numberOfListeners": 107,
         "region": "CT"
       },
       {
         "city": "Valencia",
         "country": "ES",
-        "numberOfListeners": 44,
+        "numberOfListeners": 45,
         "region": "VC"
       },
       {
         "city": "Málaga",
         "country": "ES",
-        "numberOfListeners": 36,
+        "numberOfListeners": 37,
         "region": "AN"
       },
       {
-        "city": "Santiago",
-        "country": "CL",
-        "numberOfListeners": 23,
-        "region": "RM"
+        "city": "A Coruña",
+        "country": "ES",
+        "numberOfListeners": 22,
+        "region": "GA"
       }
     ]
   },

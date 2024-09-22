@@ -1,38 +1,38 @@
 {
   "id": "1ShZZUjkbXCjhwrb18BA8I",
   "name": "Bryce Vine",
-  "followers": 509489,
-  "monthlyListeners": 3512434,
+  "followers": 509521,
+  "monthlyListeners": 3499886,
   "topCities": {
     "items": [
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 68803,
+        "numberOfListeners": 68330,
         "region": "IL"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 60629,
+        "numberOfListeners": 60549,
         "region": "CO"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 55392,
+        "numberOfListeners": 55456,
         "region": "NY"
       },
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 49594,
+        "numberOfListeners": 49532,
         "region": "WA"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 47545,
+        "numberOfListeners": 47312,
         "region": "CA"
       }
     ]

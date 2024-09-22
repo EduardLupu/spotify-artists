@@ -1,38 +1,38 @@
 {
   "id": "3YwqjMyrRfuixi2pbgTGCE",
   "name": "Heuss L'enfoiré",
-  "followers": 1687268,
-  "monthlyListeners": 5070709,
+  "followers": 1687947,
+  "monthlyListeners": 5047050,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 654900,
+        "numberOfListeners": 653155,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 172939,
+        "numberOfListeners": 173018,
         "region": "BRU"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 153506,
+        "numberOfListeners": 152929,
         "region": "ARA"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 121814,
+        "numberOfListeners": 122355,
         "region": "HDF"
       },
       {
         "city": "Marseille",
         "country": "FR",
-        "numberOfListeners": 112901,
+        "numberOfListeners": 111276,
         "region": "PAC"
       }
     ]

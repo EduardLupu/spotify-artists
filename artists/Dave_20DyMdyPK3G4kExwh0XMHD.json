@@ -1,39 +1,39 @@
 {
   "id": "20DyMdyPK3G4kExwh0XMHD",
   "name": "Dave",
-  "followers": 801,
-  "monthlyListeners": 6079,
+  "followers": 802,
+  "monthlyListeners": 6064,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 170,
+        "numberOfListeners": 171,
         "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 167,
+        "numberOfListeners": 168,
         "region": "HH"
-      },
-      {
-        "city": "Rotterdam",
-        "country": "NL",
-        "numberOfListeners": 154,
-        "region": "ZH"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
-        "numberOfListeners": 152,
+        "numberOfListeners": 154,
         "region": "BW"
       },
       {
-        "city": "Munich",
+        "city": "Rotterdam",
+        "country": "NL",
+        "numberOfListeners": 150,
+        "region": "ZH"
+      },
+      {
+        "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 148,
-        "region": "BY"
+        "numberOfListeners": 149,
+        "region": "HE"
       }
     ]
   },

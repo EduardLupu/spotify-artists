@@ -1,38 +1,38 @@
 {
   "id": "4F4pp8NUW08JuXwnoxglpN",
   "name": "Bad Gyal",
-  "followers": 1781387,
-  "monthlyListeners": 9992331,
+  "followers": 1782872,
+  "monthlyListeners": 10007812,
   "topCities": {
     "items": [
       {
-        "city": "Santiago",
-        "country": "CL",
-        "numberOfListeners": 503470,
-        "region": "RM"
-      },
-      {
         "city": "Madrid",
         "country": "ES",
-        "numberOfListeners": 497220,
+        "numberOfListeners": 508834,
         "region": "MD"
+      },
+      {
+        "city": "Santiago",
+        "country": "CL",
+        "numberOfListeners": 499793,
+        "region": "RM"
       },
       {
         "city": "Barcelona",
         "country": "ES",
-        "numberOfListeners": 355565,
+        "numberOfListeners": 360848,
         "region": "CT"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 249667,
+        "numberOfListeners": 248446,
         "region": "DC"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 242319,
+        "numberOfListeners": 243503,
         "region": "C"
       }
     ]

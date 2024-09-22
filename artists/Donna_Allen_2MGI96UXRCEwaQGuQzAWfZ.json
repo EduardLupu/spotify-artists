@@ -1,26 +1,26 @@
 {
   "id": "2MGI96UXRCEwaQGuQzAWfZ",
   "name": "Donna Allen",
-  "followers": 4835,
-  "monthlyListeners": 68353,
+  "followers": 4839,
+  "monthlyListeners": 68023,
   "topCities": {
     "items": [
       {
         "city": "Johannesburg",
         "country": "ZA",
-        "numberOfListeners": 16909,
+        "numberOfListeners": 16761,
         "region": "GP"
       },
       {
         "city": "Pretoria",
         "country": "ZA",
-        "numberOfListeners": 9382,
+        "numberOfListeners": 9336,
         "region": "GP"
       },
       {
         "city": "Durban",
         "country": "ZA",
-        "numberOfListeners": 4192,
+        "numberOfListeners": 4206,
         "region": "KZN"
       },
       {
@@ -32,7 +32,7 @@
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 1912,
+        "numberOfListeners": 1914,
         "region": "ENG"
       }
     ]

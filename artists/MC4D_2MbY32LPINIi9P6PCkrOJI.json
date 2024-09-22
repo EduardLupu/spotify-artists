@@ -1,38 +1,38 @@
 {
   "id": "2MbY32LPINIi9P6PCkrOJI",
   "name": "MC4D",
-  "followers": 62618,
-  "monthlyListeners": 291728,
+  "followers": 62660,
+  "monthlyListeners": 312630,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 5450,
+        "numberOfListeners": 5658,
         "region": "NSW"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 5249,
+        "numberOfListeners": 5498,
         "region": "NY"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 5070,
+        "numberOfListeners": 5356,
         "region": "IL"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 4600,
+        "numberOfListeners": 4711,
         "region": "QLD"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 4478,
+        "numberOfListeners": 4681,
         "region": "ON"
       }
     ]

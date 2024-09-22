@@ -1,39 +1,39 @@
 {
   "id": "0mA4dkNGiN4fqTBi2SLlAv",
   "name": "Edgardo Nuñez",
-  "followers": 2107443,
-  "monthlyListeners": 10701599,
+  "followers": 2108763,
+  "monthlyListeners": 10713848,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 733083,
+        "numberOfListeners": 731034,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 508702,
+        "numberOfListeners": 508306,
         "region": "JAL"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 350133,
+        "numberOfListeners": 347693,
         "region": "QUE"
       },
       {
         "city": "Monterrey",
         "country": "MX",
-        "numberOfListeners": 336043,
+        "numberOfListeners": 338872,
         "region": "NLE"
       },
       {
-        "city": "Puebla City",
+        "city": "Zapopan",
         "country": "MX",
-        "numberOfListeners": 317479,
-        "region": "PUE"
+        "numberOfListeners": 318586,
+        "region": "JAL"
       }
     ]
   },

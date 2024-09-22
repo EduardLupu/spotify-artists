@@ -1,21 +1,21 @@
 {
   "id": "3mlsL2ILFqGCTcpLBiGTfr",
   "name": "Almighty",
-  "followers": 568,
-  "monthlyListeners": 1446,
+  "followers": 569,
+  "monthlyListeners": 1457,
   "topCities": {
     "items": [
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 29,
+        "numberOfListeners": 30,
         "region": "DC"
       },
       {
-        "city": "Toronto",
-        "country": "CA",
-        "numberOfListeners": 26,
-        "region": "ON"
+        "city": "São Paulo",
+        "country": "BR",
+        "numberOfListeners": 25,
+        "region": "SP"
       },
       {
         "city": "Santiago",
@@ -24,10 +24,10 @@
         "region": "RM"
       },
       {
-        "city": "São Paulo",
-        "country": "BR",
+        "city": "Toronto",
+        "country": "CA",
         "numberOfListeners": 24,
-        "region": "SP"
+        "region": "ON"
       },
       {
         "city": "Johannesburg",

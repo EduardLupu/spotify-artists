@@ -1,41 +1,41 @@
 {
   "id": "0c173mlxpT3dSFRgMO8XPh",
   "name": "Big Sean",
-  "followers": 11200123,
-  "monthlyListeners": 22351163,
+  "followers": 11200229,
+  "monthlyListeners": 22291833,
   "topCities": {
     "items": [
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 326232,
+        "numberOfListeners": 325912,
         "region": "CA"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 316042,
+        "numberOfListeners": 314637,
         "region": "IL"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 290595,
+        "numberOfListeners": 289933,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 272047,
+        "numberOfListeners": 270147,
         "region": "ENG"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 256494,
+        "numberOfListeners": 255947,
         "region": "ON"
       }
     ]
   },
-  "worldRank": 293
+  "worldRank": 294
 }

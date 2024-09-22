@@ -2,20 +2,20 @@
   "id": "2WLNRuciTKjX38QhZ3lCjK",
   "name": "Scott Helmer",
   "followers": 88,
-  "monthlyListeners": 1234,
+  "monthlyListeners": 1226,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 46,
+        "numberOfListeners": 44,
         "region": "ENG"
       },
       {
-        "city": "Birmingham",
-        "country": "GB",
-        "numberOfListeners": 23,
-        "region": "ENG"
+        "city": "Sydney",
+        "country": "AU",
+        "numberOfListeners": 24,
+        "region": "NSW"
       },
       {
         "city": "Melbourne",
@@ -24,15 +24,15 @@
         "region": "VIC"
       },
       {
-        "city": "Sydney",
-        "country": "AU",
-        "numberOfListeners": 22,
-        "region": "NSW"
+        "city": "Birmingham",
+        "country": "GB",
+        "numberOfListeners": 21,
+        "region": "ENG"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 21,
+        "numberOfListeners": 20,
         "region": "L"
       }
     ]

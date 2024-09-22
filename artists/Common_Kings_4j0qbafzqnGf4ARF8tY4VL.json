@@ -1,38 +1,38 @@
 {
   "id": "4j0qbafzqnGf4ARF8tY4VL",
   "name": "Common Kings",
-  "followers": 288151,
-  "monthlyListeners": 1098337,
+  "followers": 288222,
+  "monthlyListeners": 1091351,
   "topCities": {
     "items": [
       {
         "city": "Honolulu",
         "country": "US",
-        "numberOfListeners": 51050,
+        "numberOfListeners": 50956,
         "region": "HI"
       },
       {
         "city": "Auckland",
         "country": "NZ",
-        "numberOfListeners": 48625,
+        "numberOfListeners": 48610,
         "region": "AUK"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 35235,
+        "numberOfListeners": 35228,
         "region": "QLD"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 31664,
+        "numberOfListeners": 31445,
         "region": "CA"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 29685,
+        "numberOfListeners": 29636,
         "region": "NSW"
       }
     ]

@@ -1,39 +1,39 @@
 {
   "id": "2wC90WSKQd0BvdxJZ0mObr",
   "name": "El Komander",
-  "followers": 4149036,
-  "monthlyListeners": 7995192,
+  "followers": 4150442,
+  "monthlyListeners": 7972448,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 761540,
+        "numberOfListeners": 756903,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 443445,
+        "numberOfListeners": 442179,
         "region": "JAL"
       },
       {
         "city": "Gustavo Adolfo Madero",
         "country": "MX",
-        "numberOfListeners": 343518,
-        "region": "CMX"
-      },
-      {
-        "city": "Iztapalapa",
-        "country": "MX",
-        "numberOfListeners": 325320,
+        "numberOfListeners": 350398,
         "region": "CMX"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 319787,
+        "numberOfListeners": 316933,
         "region": "QUE"
+      },
+      {
+        "city": "Iztapalapa",
+        "country": "MX",
+        "numberOfListeners": 314148,
+        "region": "CMX"
       }
     ]
   },

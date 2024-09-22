@@ -1,38 +1,38 @@
 {
   "id": "3EOEK57CV77D4ovYVcmiyt",
   "name": "Dennis Lloyd",
-  "followers": 685315,
-  "monthlyListeners": 9538704,
+  "followers": 685450,
+  "monthlyListeners": 9691455,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 152725,
+        "numberOfListeners": 156252,
         "region": "NSW"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 128707,
+        "numberOfListeners": 131829,
         "region": "IDF"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 123591,
+        "numberOfListeners": 125552,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 121287,
+        "numberOfListeners": 123968,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 109221,
+        "numberOfListeners": 111487,
         "region": "QLD"
       }
     ]

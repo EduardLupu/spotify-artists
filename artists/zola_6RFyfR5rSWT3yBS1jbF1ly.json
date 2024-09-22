@@ -2,38 +2,38 @@
   "id": "6RFyfR5rSWT3yBS1jbF1ly",
   "name": "zola",
   "followers": 1325,
-  "monthlyListeners": 4722,
+  "monthlyListeners": 4695,
   "topCities": {
     "items": [
       {
-        "city": "Berlin",
-        "country": "DE",
-        "numberOfListeners": 450,
-        "region": "BE"
-      },
-      {
         "city": "Munich",
         "country": "DE",
-        "numberOfListeners": 449,
+        "numberOfListeners": 446,
         "region": "BY"
+      },
+      {
+        "city": "Berlin",
+        "country": "DE",
+        "numberOfListeners": 443,
+        "region": "BE"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 290,
+        "numberOfListeners": 297,
         "region": "HH"
-      },
-      {
-        "city": "Frankfurt am Main",
-        "country": "DE",
-        "numberOfListeners": 253,
-        "region": "HE"
       },
       {
         "city": "Stuttgart",
         "country": "DE",
         "numberOfListeners": 250,
         "region": "BW"
+      },
+      {
+        "city": "Frankfurt am Main",
+        "country": "DE",
+        "numberOfListeners": 246,
+        "region": "HE"
       }
     ]
   },

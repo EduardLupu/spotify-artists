@@ -1,38 +1,38 @@
 {
   "id": "7EWU4FhUJM1sZQgQKdENeT",
   "name": "Hopsin",
-  "followers": 2413489,
-  "monthlyListeners": 1252180,
+  "followers": 2413555,
+  "monthlyListeners": 1252959,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 22404,
+        "numberOfListeners": 22464,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 20566,
+        "numberOfListeners": 20479,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 19956,
+        "numberOfListeners": 19991,
         "region": "QLD"
       },
       {
         "city": "Denver",
         "country": "US",
-        "numberOfListeners": 19398,
+        "numberOfListeners": 19392,
         "region": "CO"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 18590,
+        "numberOfListeners": 18560,
         "region": "ON"
       }
     ]

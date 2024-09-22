@@ -1,38 +1,38 @@
 {
   "id": "4zJu5sFluXkd36RFmo8LN4",
   "name": "Banda Laser",
-  "followers": 11867,
-  "monthlyListeners": 43118,
+  "followers": 11868,
+  "monthlyListeners": 44202,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 2599,
+        "numberOfListeners": 2648,
         "region": "CMX"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 2553,
+        "numberOfListeners": 2601,
         "region": "JAL"
       },
       {
         "city": "Zapopan",
         "country": "MX",
-        "numberOfListeners": 1640,
+        "numberOfListeners": 1701,
         "region": "JAL"
       },
       {
         "city": "Querétaro City",
         "country": "MX",
-        "numberOfListeners": 1288,
+        "numberOfListeners": 1305,
         "region": "QUE"
       },
       {
         "city": "Puebla City",
         "country": "MX",
-        "numberOfListeners": 1009,
+        "numberOfListeners": 1016,
         "region": "PUE"
       }
     ]

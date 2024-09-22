@@ -1,38 +1,38 @@
 {
   "id": "2Mpz3shu5Ud330kOoJFYpF",
   "name": "LX",
-  "followers": 13928,
-  "monthlyListeners": 73378,
+  "followers": 13935,
+  "monthlyListeners": 72391,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 15064,
+        "numberOfListeners": 14870,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 4753,
+        "numberOfListeners": 4675,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 3046,
+        "numberOfListeners": 3003,
         "region": "MG"
       },
       {
         "city": "Brasília",
         "country": "BR",
-        "numberOfListeners": 2781,
+        "numberOfListeners": 2744,
         "region": "DF"
       },
       {
         "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 2428,
+        "numberOfListeners": 2368,
         "region": "PR"
       }
     ]

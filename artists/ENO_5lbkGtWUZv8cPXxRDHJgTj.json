@@ -12,28 +12,28 @@
         "region": "TPE"
       },
       {
-        "city": "Stuttgart",
-        "country": "DE",
-        "numberOfListeners": 2,
-        "region": "BW"
-      },
-      {
         "city": "Berlin",
         "country": "DE",
         "numberOfListeners": 2,
         "region": "BE"
       },
       {
+        "city": "Stuttgart",
+        "country": "DE",
+        "numberOfListeners": 2,
+        "region": "BW"
+      },
+      {
+        "city": "Taichung",
+        "country": "TW",
+        "numberOfListeners": 2,
+        "region": "TXG"
+      },
+      {
         "city": "New Taipei City",
         "country": "TW",
         "numberOfListeners": 2,
         "region": "NWT"
-      },
-      {
-        "city": "Kaohsiung",
-        "country": "TW",
-        "numberOfListeners": 2,
-        "region": "KHH"
       }
     ]
   },

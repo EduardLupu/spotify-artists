@@ -1,38 +1,38 @@
 {
   "id": "5exS0bytCYdixgv02DaCm3",
   "name": "William Singe",
-  "followers": 613497,
-  "monthlyListeners": 2835839,
+  "followers": 613541,
+  "monthlyListeners": 2807208,
   "topCities": {
     "items": [
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 140048,
+        "numberOfListeners": 139384,
         "region": "JK"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 46334,
+        "numberOfListeners": 45970,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 36293,
+        "numberOfListeners": 35994,
         "region": "VIC"
       },
       {
         "city": "Singapore",
         "country": "SG",
-        "numberOfListeners": 31863,
+        "numberOfListeners": 31531,
         "region": ""
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 31667,
+        "numberOfListeners": 31259,
         "region": "ENG"
       }
     ]

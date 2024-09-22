@@ -1,41 +1,41 @@
 {
   "id": "6LqNN22kT3074XbTVUrhzX",
   "name": "Kesha",
-  "followers": 8136949,
-  "monthlyListeners": 33539358,
+  "followers": 8140228,
+  "monthlyListeners": 33511097,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 401296,
+        "numberOfListeners": 402641,
         "region": "NSW"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 401232,
+        "numberOfListeners": 399593,
         "region": "ENG"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 351799,
+        "numberOfListeners": 352298,
         "region": "VIC"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 320770,
+        "numberOfListeners": 319534,
         "region": "IL"
       },
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 294248,
+        "numberOfListeners": 294057,
         "region": "SP"
       }
     ]
   },
-  "worldRank": 123
+  "worldRank": 122
 }

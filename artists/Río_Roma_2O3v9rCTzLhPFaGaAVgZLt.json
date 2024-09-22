@@ -1,38 +1,38 @@
 {
   "id": "2O3v9rCTzLhPFaGaAVgZLt",
   "name": "Río Roma",
-  "followers": 3057491,
-  "monthlyListeners": 6512998,
+  "followers": 3058502,
+  "monthlyListeners": 6493274,
   "topCities": {
     "items": [
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 427609,
+        "numberOfListeners": 425403,
         "region": "CMX"
       },
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 267785,
+        "numberOfListeners": 265268,
         "region": "RM"
       },
       {
         "city": "Guadalajara",
         "country": "MX",
-        "numberOfListeners": 223489,
+        "numberOfListeners": 222810,
         "region": "JAL"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 209829,
+        "numberOfListeners": 209598,
         "region": "LMA"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 176282,
+        "numberOfListeners": 175929,
         "region": "DC"
       }
     ]

@@ -6,16 +6,16 @@
   "topCities": {
     "items": [
       {
+        "city": "Dubai",
+        "country": "AE",
+        "numberOfListeners": 1,
+        "region": "DU"
+      },
+      {
         "city": "Erbil",
         "country": "IQ",
         "numberOfListeners": 1,
         "region": "AR"
-      },
-      {
-        "city": "Valparaíso",
-        "country": "CL",
-        "numberOfListeners": 1,
-        "region": "VS"
       },
       {
         "city": "Austin",

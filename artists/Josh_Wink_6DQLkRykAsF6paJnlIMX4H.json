@@ -1,38 +1,38 @@
 {
   "id": "6DQLkRykAsF6paJnlIMX4H",
   "name": "Josh Wink",
-  "followers": 42528,
-  "monthlyListeners": 123302,
+  "followers": 42542,
+  "monthlyListeners": 123208,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 6517,
+        "numberOfListeners": 6493,
         "region": "ENG"
       },
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 2788,
+        "numberOfListeners": 2802,
         "region": "L"
       },
       {
         "city": "Manchester",
         "country": "GB",
-        "numberOfListeners": 2402,
+        "numberOfListeners": 2416,
         "region": "ENG"
       },
       {
         "city": "Birmingham",
         "country": "GB",
-        "numberOfListeners": 2000,
+        "numberOfListeners": 1943,
         "region": "ENG"
       },
       {
         "city": "Amsterdam",
         "country": "NL",
-        "numberOfListeners": 1789,
+        "numberOfListeners": 1792,
         "region": "NH"
       }
     ]

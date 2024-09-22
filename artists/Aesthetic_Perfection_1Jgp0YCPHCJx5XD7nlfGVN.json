@@ -1,38 +1,38 @@
 {
   "id": "1Jgp0YCPHCJx5XD7nlfGVN",
   "name": "Aesthetic Perfection",
-  "followers": 82448,
-  "monthlyListeners": 98657,
+  "followers": 82471,
+  "monthlyListeners": 98617,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 2162,
+        "numberOfListeners": 2148,
         "region": "BE"
-      },
-      {
-        "city": "Helsinki",
-        "country": "FI",
-        "numberOfListeners": 1622,
-        "region": "18"
       },
       {
         "city": "Hamburg",
         "country": "DE",
-        "numberOfListeners": 1594,
+        "numberOfListeners": 1625,
         "region": "HH"
+      },
+      {
+        "city": "Helsinki",
+        "country": "FI",
+        "numberOfListeners": 1617,
+        "region": "18"
       },
       {
         "city": "Frankfurt am Main",
         "country": "DE",
-        "numberOfListeners": 1507,
+        "numberOfListeners": 1505,
         "region": "HE"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 1347,
+        "numberOfListeners": 1345,
         "region": "CMX"
       }
     ]

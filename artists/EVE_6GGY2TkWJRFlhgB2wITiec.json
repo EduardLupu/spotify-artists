@@ -2,25 +2,25 @@
   "id": "6GGY2TkWJRFlhgB2wITiec",
   "name": "EVE",
   "followers": 166,
-  "monthlyListeners": 528,
+  "monthlyListeners": 524,
   "topCities": {
     "items": [
       {
         "city": "Stockholm",
         "country": "SE",
-        "numberOfListeners": 41,
+        "numberOfListeners": 38,
         "region": "AB"
       },
       {
         "city": "Gothenburg",
         "country": "SE",
-        "numberOfListeners": 36,
+        "numberOfListeners": 35,
         "region": "O"
       },
       {
         "city": "Malmo",
         "country": "SE",
-        "numberOfListeners": 15,
+        "numberOfListeners": 13,
         "region": "M"
       },
       {
@@ -30,10 +30,10 @@
         "region": "JK"
       },
       {
-        "city": "Brisbane",
+        "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 5,
-        "region": "QLD"
+        "numberOfListeners": 6,
+        "region": "NSW"
       }
     ]
   },

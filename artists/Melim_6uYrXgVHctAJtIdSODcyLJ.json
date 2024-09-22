@@ -1,38 +1,38 @@
 {
   "id": "6uYrXgVHctAJtIdSODcyLJ",
   "name": "Melim",
-  "followers": 5371515,
-  "monthlyListeners": 3462902,
+  "followers": 5371602,
+  "monthlyListeners": 3455939,
   "topCities": {
     "items": [
       {
         "city": "São Paulo",
         "country": "BR",
-        "numberOfListeners": 542323,
+        "numberOfListeners": 540155,
         "region": "SP"
       },
       {
         "city": "Rio de Janeiro",
         "country": "BR",
-        "numberOfListeners": 238886,
+        "numberOfListeners": 237921,
         "region": "RJ"
       },
       {
         "city": "Belo Horizonte",
         "country": "BR",
-        "numberOfListeners": 154326,
+        "numberOfListeners": 154309,
         "region": "MG"
       },
       {
         "city": "Curitiba",
         "country": "BR",
-        "numberOfListeners": 123261,
+        "numberOfListeners": 123211,
         "region": "PR"
       },
       {
         "city": "Campinas",
         "country": "BR",
-        "numberOfListeners": 120770,
+        "numberOfListeners": 120728,
         "region": "SP"
       }
     ]

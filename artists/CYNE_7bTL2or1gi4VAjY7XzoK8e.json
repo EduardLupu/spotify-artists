@@ -1,38 +1,38 @@
 {
   "id": "7bTL2or1gi4VAjY7XzoK8e",
   "name": "CYNE",
-  "followers": 49043,
-  "monthlyListeners": 232207,
+  "followers": 49051,
+  "monthlyListeners": 233492,
   "topCities": {
     "items": [
       {
         "city": "Berlin",
         "country": "DE",
-        "numberOfListeners": 3447,
+        "numberOfListeners": 3475,
         "region": "BE"
       },
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 3247,
+        "numberOfListeners": 3288,
         "region": "IDF"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 3048,
+        "numberOfListeners": 3056,
         "region": "ENG"
       },
       {
         "city": "Zurich",
         "country": "CH",
-        "numberOfListeners": 2858,
+        "numberOfListeners": 2836,
         "region": "ZH"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 2813,
+        "numberOfListeners": 2809,
         "region": "CA"
       }
     ]

@@ -1,41 +1,41 @@
 {
   "id": "0cGUm45nv7Z6M6qdXYQGTX",
   "name": "Kehlani",
-  "followers": 7876341,
-  "monthlyListeners": 17689211,
+  "followers": 7877889,
+  "monthlyListeners": 17653825,
   "topCities": {
     "items": [
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 323902,
+        "numberOfListeners": 322725,
         "region": "ENG"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 264853,
+        "numberOfListeners": 264635,
         "region": "NSW"
       },
       {
         "city": "Los Angeles",
         "country": "US",
-        "numberOfListeners": 241314,
+        "numberOfListeners": 240765,
         "region": "CA"
       },
       {
         "city": "Jakarta",
         "country": "ID",
-        "numberOfListeners": 224583,
+        "numberOfListeners": 224976,
         "region": "JK"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 210162,
+        "numberOfListeners": 209858,
         "region": "VIC"
       }
     ]
   },
-  "worldRank": 446
+  "worldRank": 447
 }

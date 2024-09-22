@@ -1,38 +1,38 @@
 {
   "id": "5U05AU34EcZ8pfohg2dicI",
   "name": "UZI",
-  "followers": 621721,
-  "monthlyListeners": 2356142,
+  "followers": 622563,
+  "monthlyListeners": 2356937,
   "topCities": {
     "items": [
       {
         "city": "Paris",
         "country": "FR",
-        "numberOfListeners": 430732,
+        "numberOfListeners": 431198,
         "region": "IDF"
       },
       {
         "city": "Brussels",
         "country": "BE",
-        "numberOfListeners": 94718,
+        "numberOfListeners": 95088,
         "region": "BRU"
       },
       {
         "city": "Lyon",
         "country": "FR",
-        "numberOfListeners": 94262,
+        "numberOfListeners": 94288,
         "region": "ARA"
       },
       {
         "city": "Lille",
         "country": "FR",
-        "numberOfListeners": 82194,
+        "numberOfListeners": 82752,
         "region": "HDF"
       },
       {
         "city": "Marseille",
         "country": "FR",
-        "numberOfListeners": 74620,
+        "numberOfListeners": 73955,
         "region": "PAC"
       }
     ]

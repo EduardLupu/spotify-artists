@@ -2,37 +2,37 @@
   "id": "0Kc3agOOsLxxscl8dcOPTn",
   "name": "Eli Lev",
   "followers": 18256,
-  "monthlyListeners": 41886,
+  "monthlyListeners": 41799,
   "topCities": {
     "items": [
       {
         "city": "Dublin",
         "country": "IE",
-        "numberOfListeners": 725,
+        "numberOfListeners": 715,
         "region": "L"
       },
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 495,
+        "numberOfListeners": 494,
         "region": "NSW"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 433,
+        "numberOfListeners": 431,
         "region": "VIC"
       },
       {
         "city": "London",
         "country": "GB",
-        "numberOfListeners": 366,
+        "numberOfListeners": 369,
         "region": "ENG"
       },
       {
         "city": "Taipei",
         "country": "TW",
-        "numberOfListeners": 331,
+        "numberOfListeners": 326,
         "region": "TPE"
       }
     ]

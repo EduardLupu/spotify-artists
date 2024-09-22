@@ -1,38 +1,38 @@
 {
   "id": "485uL27bPomh29R4JmQehQ",
   "name": "Bob Seger",
-  "followers": 2504982,
-  "monthlyListeners": 7476287,
+  "followers": 2506037,
+  "monthlyListeners": 7477306,
   "topCities": {
     "items": [
       {
         "city": "Sydney",
         "country": "AU",
-        "numberOfListeners": 137974,
+        "numberOfListeners": 138441,
         "region": "NSW"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 118492,
+        "numberOfListeners": 118047,
         "region": "IL"
       },
       {
         "city": "Toronto",
         "country": "CA",
-        "numberOfListeners": 114817,
+        "numberOfListeners": 114358,
         "region": "ON"
       },
       {
         "city": "Melbourne",
         "country": "AU",
-        "numberOfListeners": 112533,
+        "numberOfListeners": 112864,
         "region": "VIC"
       },
       {
         "city": "Brisbane",
         "country": "AU",
-        "numberOfListeners": 112517,
+        "numberOfListeners": 112802,
         "region": "QLD"
       }
     ]

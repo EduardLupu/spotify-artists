@@ -1,38 +1,38 @@
 {
   "id": "3SIjUKYSRchIKIoFO9vBjm",
   "name": "Kaia Kater",
-  "followers": 21438,
-  "monthlyListeners": 36869,
+  "followers": 21447,
+  "monthlyListeners": 36795,
   "topCities": {
     "items": [
       {
         "city": "Seattle",
         "country": "US",
-        "numberOfListeners": 675,
+        "numberOfListeners": 664,
         "region": "WA"
+      },
+      {
+        "city": "Denver",
+        "country": "US",
+        "numberOfListeners": 542,
+        "region": "CO"
       },
       {
         "city": "Portland",
         "country": "US",
-        "numberOfListeners": 542,
+        "numberOfListeners": 533,
         "region": "OR"
       },
       {
         "city": "Chicago",
         "country": "US",
-        "numberOfListeners": 540,
+        "numberOfListeners": 532,
         "region": "IL"
-      },
-      {
-        "city": "Denver",
-        "country": "US",
-        "numberOfListeners": 537,
-        "region": "CO"
       },
       {
         "city": "New York City",
         "country": "US",
-        "numberOfListeners": 453,
+        "numberOfListeners": 449,
         "region": "NY"
       }
     ]

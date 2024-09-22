@@ -1,38 +1,38 @@
 {
   "id": "1fux65HMCBvfJHqlBc4Nno",
   "name": "Casper Magico",
-  "followers": 2431016,
-  "monthlyListeners": 7951351,
+  "followers": 2432025,
+  "monthlyListeners": 7918620,
   "topCities": {
     "items": [
       {
         "city": "Santiago",
         "country": "CL",
-        "numberOfListeners": 462715,
+        "numberOfListeners": 458056,
         "region": "RM"
       },
       {
         "city": "Bogotá",
         "country": "CO",
-        "numberOfListeners": 264085,
+        "numberOfListeners": 261849,
         "region": "DC"
       },
       {
         "city": "Mexico City",
         "country": "MX",
-        "numberOfListeners": 199966,
+        "numberOfListeners": 199261,
         "region": "CMX"
       },
       {
         "city": "Lima",
         "country": "PE",
-        "numberOfListeners": 189838,
+        "numberOfListeners": 189825,
         "region": "LMA"
       },
       {
         "city": "Buenos Aires",
         "country": "AR",
-        "numberOfListeners": 165252,
+        "numberOfListeners": 164931,
         "region": "C"
       }
     ]
