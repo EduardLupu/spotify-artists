@@ -99,7 +99,7 @@ export default function SpotifyArtistsDashboard() {
                                         {artist.name}
                                         </div>
                                     </TableCell>
-                                    <TableCell className="font-bold opacity-80 text-center"><Link href={`https://open.spotify.com/artist/${artist.id}`}>{artist.id}</Link></TableCell>
+                                    <TableCell className="font-bold opacity-80 text-center"><Link href={`https://open.spotify.com/artist/${artist.id}`} target="_blank">{artist.id}</Link></TableCell>
                                     <TableCell className="font-bold text-center">{artist.listeners ? artist.listeners.toLocaleString() : '-'}</TableCell>
                                     <TableCell className="font-bold text-center">{artist.followers ? artist.followers.toLocaleString() : '-'}</TableCell>
                                     <TableCell className="font-bold text-center">{artist.rank ? artist.rank : '-'}</TableCell>
