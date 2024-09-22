@@ -4,7 +4,6 @@ import json
 from urllib.parse import quote
 from datetime import datetime, timezone
 
-
 async def fetch_access_token(session):
     url = 'https://open.spotify.com/get_access_token'
     headers = {
@@ -40,25 +39,19 @@ async def fetch_artist_data_with_retry(session, artist_id, access_token, max_ret
                     raise ValueError(f"Unexpected or missing 'artistUnion' key in API response for artist {artist_id}")
 
                 if not data or 'data' not in data or not data['data']:
-                    print(f"Error fetching data for artist {artist_id}: {data}")
                     raise ValueError("Unexpected or missing 'data' key in API response")
-
-                artist_data = data['data'].get('artistUnion')
-                if not artist_data:
-                    print(f"No 'artistUnion' in response for artist {artist_id}: {data['data']}")
-                    raise ValueError("Missing 'artistUnion' in the response")
 
                 return {
                     'id': artist_id,
                     'name': artist_data.get('profile', {}).get('name', None),
-                    'monthlyListeners': artist_data.get('stats', {}).get('monthlyListeners', None),
+                    'img': artist_data.get('visuals', {}).get('avatarImage', {}).get('sources', [{}])[0].get('url', '').split('/')[-1] if artist_data.get('visuals', {}).get('avatarImage', {}).get('sources', [{}])[0].get('url') else None,
+                    'listeners': artist_data.get('stats', {}).get('monthlyListeners', None),
                     'followers': artist_data.get('stats', {}).get('followers', None),
-                    'worldRank': artist_data.get('stats', {}).get('worldRank', None),
-                    'topCities': artist_data.get('stats', {}).get('topCities', None).get('items', None)
+                    'rank': artist_data.get('stats', {}).get('worldRank', None),
+                    'top': artist_data.get('stats', {}).get('topCities', None).get('items', None)
                 }
 
         except (aiohttp.ClientError, aiohttp.ClientResponseError, ValueError, KeyError) as e:
-            print(f"Error fetching artist {artist_id}, attempt {attempt + 1}: {str(e)}")
             if attempt == max_retries - 1:
                 print(f"Failed to fetch data for artist {artist_id} after {max_retries} attempts")
                 return None
@@ -87,14 +80,17 @@ async def main():
 
     artist_data = [result for result in results if result]
 
-    artist_data_sorted = sorted(artist_data, key=lambda x: x['name'].lower() if x['name'] else '')
+    artist_data_sorted = sorted(
+        [artist for artist in artist_data if artist['rank'] != 0],
+        key=lambda x: (x['rank'] if x['rank'] is not None else float('inf'), x['name'].lower() if x['name'] else '')
+    )
 
     final_data = {
         "timestamp": datetime.now(timezone.utc).isoformat(),
         "artists": artist_data_sorted
     }
 
-    with open('spotify_artists_data.json', 'w', encoding='utf-8') as f:
+    with open('public/spotify_artists_data.json', 'w', encoding='utf-8') as f:
         json.dump(final_data, f, separators=(',', ':'), ensure_ascii=False)
 
 

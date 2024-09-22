@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    basePath: process.env.NODE_ENV === 'production' ? '/spotify-artists/spotify-artists' : '',
+    basePath: process.env.NODE_ENV === 'production' ? '/spotify-artists' : '',
     assetPrefix: process.env.NODE_ENV === 'production' ? 'https://eduardlupu.github.io/spotify-artists/' : '',
     images: process.env.NODE_ENV === 'production' ? {
         loader:'akamai',
