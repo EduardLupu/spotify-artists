@@ -8,35 +8,21 @@ import { SpotifyArtists } from "@/types/spotify-artists";
 import { Search, Music } from 'lucide-react';
 import Link from "next/link";
 
+import jsonData from "../../public/spotify_artists_data.json";
+
 export default function SpotifyArtistsDashboard() {
     const [searchTerm, setSearchTerm] = useState("");
     const [currentPage, setCurrentPage] = useState(1);
     const [spotifyArtists, setSpotifyArtists] = useState<SpotifyArtists | null>(null);
     const [loading, setLoading] = useState(true);
-    const [error, setError] = useState("");
     const itemsPerPage = 10;
 
     useEffect(() => {
-        const fetchArtists = async () => {
-            try {
-                const response = await fetch('/spotify_artists_data.json');
-                if (!response.ok) {
-                    throw new Error('Network response was not ok');
-                }
-                const data = await response.json();
-                setSpotifyArtists(data);
-            } catch (error) {
-                setError("Error fetching data");
-            } finally {
-                setLoading(false);
-            }
-        };
-
-        fetchArtists();
+        setSpotifyArtists(jsonData);
+        setLoading(false);
     }, []);
 
     if (loading) return <div className="flex justify-center items-center h-screen">Loading...</div>;
-    if (error) return <div className="text-red-500 text-center">{error}</div>;
 
     const filteredArtists = spotifyArtists?.artists ? spotifyArtists.artists.filter(artist =>
         artist.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
@@ -50,8 +36,6 @@ export default function SpotifyArtistsDashboard() {
 
     return (
         <div className="container mx-auto p-4">
-            <h1 className="text-3xl font-bold mb-6 text-center">Spotify Artists Dashboard</h1>
-
             <div className="grid md:grid-cols-2 gap-4 mb-6">
                 <Card>
                     <CardHeader>
@@ -64,7 +48,10 @@ export default function SpotifyArtistsDashboard() {
                                 type="text"
                                 placeholder="Search by artist name or ID"
                                 value={searchTerm}
-                                onChange={(e) => setSearchTerm(e.target.value)}
+                                onChange={(e) => {
+                                    setSearchTerm(e.target.value)
+                                    setCurrentPage(1)
+                                }}
                                 className="pl-8"
                             />
                         </div>
@@ -76,7 +63,7 @@ export default function SpotifyArtistsDashboard() {
                     </CardHeader>
                     <CardContent>
                         <p>Total Artists: {spotifyArtists?.artists.length}</p>
-                        <p>Last Refreshed: {spotifyArtists?.timestamp ? new Date(spotifyArtists.timestamp).toLocaleString() : "No timestamp available"}</p>
+                        <p>Last Refreshed: {spotifyArtists?.timestamp ? new Date(spotifyArtists.timestamp).toLocaleString() + " UTC" : "No timestamp available"}</p>
                     </CardContent>
                 </Card>
             </div>
@@ -85,38 +72,53 @@ export default function SpotifyArtistsDashboard() {
                 <Table>
                     <TableHeader>
                         <TableRow>
-                            <TableHead className="w-[100px]"></TableHead>
-                            <TableHead>Name</TableHead>
-                            <TableHead>ID</TableHead>
-                            <TableHead className="text-right">Listeners</TableHead>
-                            <TableHead className="text-right">Followers</TableHead>
-                            <TableHead className="text-right">Rank</TableHead>
+                            <TableHead className="text-white font-bold">Name</TableHead>
+                            <TableHead className="text-center text-white font-bold">ID</TableHead>
+                            <TableHead className="text-center text-white font-bold">Monthly Listeners</TableHead>
+                            <TableHead className="text-center text-white font-bold">Followers</TableHead>
+                            <TableHead className="text-center text-white font-bold">Rank</TableHead>
                         </TableRow>
                     </TableHeader>
                     <TableBody>
                         {currentArtists.map((artist) => (
-                            <TableRow key={artist.id}>
-                                <TableCell>
-                                    {artist.img ? (
-                                        <img
-                                            src={`https://i.scdn.co/image/${artist.img}`}
-                                            alt={artist.name}
-                                            className="w-10 h-10 object-cover"
-                                        />
-                                    ) : (
-                                        <div className="w-10 h-10 rounded-full bg-gray-300 flex items-center justify-center">
-                                            <Music className="h-6 w-6 text-gray-400" />
+                            <React.Fragment key={artist.id}>
+                                <TableRow>
+                                    <TableCell className="font-bold text-center">
+                                        <div className="flex items-center gap-6">
+                                            {artist.img ? (
+                                                <img
+                                                    src={`https://i.scdn.co/image/${artist.img}`}
+                                                    alt={artist.name}
+                                                    className="w-10 h-10 object-cover"
+                                                />
+                                            ) : (
+                                                <div className="w-10 h-10 rounded-full bg-gray-300 flex items-center justify-center">
+                                                    <Music className="h-6 w-6 text-gray-400" />
+                                                </div>
+                                            )}
+                                        {artist.name}
                                         </div>
-                                    )}
-                                </TableCell>
-                                <TableCell className="font-bold">{artist.name}</TableCell>
-                                <Link href={`https://open.spotify.com/artist/${artist.id}`}>
-                                    <TableCell className="font-medium">{artist.id}</TableCell>
-                                </Link>
-                                <TableCell className="text-right">{artist.listeners ? artist.listeners.toLocaleString() : '-'}</TableCell>
-                                <TableCell className="text-right">{artist.followers ? artist.followers.toLocaleString() : '-'}</TableCell>
-                                <TableCell className="text-right">{artist.rank ? artist.rank : '-'}</TableCell>
-                            </TableRow>
+                                    </TableCell>
+                                    <TableCell className="font-bold opacity-80 text-center"><Link href={`https://open.spotify.com/artist/${artist.id}`}>{artist.id}</Link></TableCell>
+                                    <TableCell className="font-bold text-center">{artist.listeners ? artist.listeners.toLocaleString() : '-'}</TableCell>
+                                    <TableCell className="font-bold text-center">{artist.followers ? artist.followers.toLocaleString() : '-'}</TableCell>
+                                    <TableCell className="font-bold text-center">{artist.rank ? artist.rank : '-'}</TableCell>
+                                </TableRow>
+                                {artist.top && artist.top.length > 0 && (
+                                    <TableRow>
+                                        <TableCell colSpan={6} className="bg-gray-700 p-2">
+                                            <div className="font-semibold">Top Cities:</div>
+                                            <ul className="list-disc pl-6">
+                                                {artist.top.map((city, index) => (
+                                                    <li key={index}>
+                                                        {city.city}, {city.country} ({city.numberOfListeners.toLocaleString()} listeners)
+                                                    </li>
+                                                ))}
+                                            </ul>
+                                        </TableCell>
+                                    </TableRow>
+                                )}
+                            </React.Fragment>
                         ))}
                     </TableBody>
                 </Table>
