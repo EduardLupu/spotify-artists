@@ -87,9 +87,11 @@ async def main():
 
     artist_data = [result for result in results if result]
 
+    artist_data_sorted = sorted(artist_data, key=lambda x: x['name'].lower() if x['name'] else '')
+
     final_data = {
         "timestamp": datetime.now(timezone.utc).isoformat(),
-        "artists": artist_data
+        "artists": artist_data_sorted
     }
 
     with open('spotify_artists_data.json', 'w', encoding='utf-8') as f:
