@@ -80,6 +80,7 @@ async def main():
 
     artist_data = [result for result in results if result]
 
+    artist_rank_0 = [artist for artist in artist_data if artist['rank'] == 0]
     artist_data_sorted = sorted(
         [artist for artist in artist_data if artist['rank'] != 0],
         key=lambda x: (x['rank'] if x['rank'] is not None else float('inf'), x['name'].lower() if x['name'] else '')
@@ -87,7 +88,7 @@ async def main():
 
     final_data = {
         "timestamp": datetime.now(timezone.utc).isoformat(),
-        "artists": artist_data_sorted
+        "artists": artist_data_sorted + artist_rank_0
     }
 
     with open('public/spotify_artists_data.json', 'w', encoding='utf-8') as f:
