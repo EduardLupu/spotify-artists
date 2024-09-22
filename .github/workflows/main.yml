@@ -22,7 +22,6 @@ jobs:
 
       - name: Install dependencies
         run: |
-          sudo apt-get install jq
           pip install aiohttp
 
       - name: Fetch Spotify Artist Data

@@ -35,10 +35,6 @@ async def fetch_artist_data_with_retry(session, artist_id, access_token, max_ret
                 response.raise_for_status()
                 data = await response.json()
 
-                if 'errors' in data:
-                    print(f"Server error for artist {artist_id}: {data['errors']}")
-                    raise ValueError(f"Server error: {data['errors']}")
-
                 artist_data = data.get('data', {}).get('artistUnion', {})
                 if not artist_data:
                     raise ValueError(f"Unexpected or missing 'artistUnion' key in API response for artist {artist_id}")
