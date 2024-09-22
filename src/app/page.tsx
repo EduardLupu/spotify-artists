@@ -1,10 +1,12 @@
 'use client';
-import React, {useEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { Input } from "@/components/ui/input";
-
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { Pagination, PaginationContent, PaginationItem, PaginationLink, PaginationNext, PaginationPrevious } from "@/components/ui/pagination";
-import {SpotifyArtists} from "@/types/spotify-artists";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { SpotifyArtists } from "@/types/spotify-artists";
+import { Search, Music } from 'lucide-react';
+import Link from "next/link";
 
 export default function SpotifyArtistsDashboard() {
     const [searchTerm, setSearchTerm] = useState("");
@@ -24,7 +26,7 @@ export default function SpotifyArtistsDashboard() {
                 const data = await response.json();
                 setSpotifyArtists(data);
             } catch (error) {
-                setError("Error");
+                setError("Error fetching data");
             } finally {
                 setLoading(false);
             }
@@ -33,12 +35,12 @@ export default function SpotifyArtistsDashboard() {
         fetchArtists();
     }, []);
 
-    if (loading) return <div className="text-center">Loading...</div>;
-    if (error) return <div className="text-red-500">Failed to load: {error}</div>;
+    if (loading) return <div className="flex justify-center items-center h-screen">Loading...</div>;
+    if (error) return <div className="text-red-500 text-center">{error}</div>;
 
     const filteredArtists = spotifyArtists?.artists ? spotifyArtists.artists.filter(artist =>
         artist.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        artist.id.includes(searchTerm)
+        artist.id === searchTerm
     ) : [];
 
     const totalPages = Math.ceil(filteredArtists.length / itemsPerPage);
@@ -48,76 +50,93 @@ export default function SpotifyArtistsDashboard() {
 
     return (
         <div className="container mx-auto p-4">
-            <h1 className="text-2xl font-bold mb-4">Spotify Artists Dashboard</h1>
+            <h1 className="text-3xl font-bold mb-6 text-center">Spotify Artists Dashboard</h1>
 
-            <div className="mb-4">
-                <Input
-                    type="text"
-                    placeholder="Search by artist name or ID"
-                    value={searchTerm}
-                    onChange={(e) => setSearchTerm(e.target.value)}
-                    className="max-w-sm"
-                />
+            <div className="grid md:grid-cols-2 gap-4 mb-6">
+                <Card>
+                    <CardHeader>
+                        <CardTitle>Search</CardTitle>
+                    </CardHeader>
+                    <CardContent>
+                        <div className="relative">
+                            <Search className="absolute left-2 top-2.5 h-4 w-4 text-muted-foreground" />
+                            <Input
+                                type="text"
+                                placeholder="Search by artist name or ID"
+                                value={searchTerm}
+                                onChange={(e) => setSearchTerm(e.target.value)}
+                                className="pl-8"
+                            />
+                        </div>
+                    </CardContent>
+                </Card>
+                <Card>
+                    <CardHeader>
+                        <CardTitle>Dashboard Info</CardTitle>
+                    </CardHeader>
+                    <CardContent>
+                        <p>Total Artists: {spotifyArtists?.artists.length}</p>
+                        <p>Last Refreshed: {spotifyArtists?.timestamp ? new Date(spotifyArtists.timestamp).toLocaleString() : "No timestamp available"}</p>
+                    </CardContent>
+                </Card>
             </div>
 
-            <div className="mb-4">
-                <p>Total Artists: {spotifyArtists.artists.length}</p>
-                <p>Last Refreshed: {new Date(spotifyArtists.timestamp).toLocaleString()}</p>
-            </div>
-
-            <Table>
-                <TableHeader>
-                    <TableRow>
-                        <TableHead>Image</TableHead>
-                        <TableHead>Name</TableHead>
-                        <TableHead>ID</TableHead>
-                        <TableHead>Listeners</TableHead>
-                        <TableHead>Followers</TableHead>
-                        <TableHead>Rank</TableHead>
-                    </TableRow>
-                </TableHeader>
-                <TableBody>
-                    {currentArtists.map((artist) => (
-                        <TableRow key={artist.id}>
-                            <TableCell>
-                                <img
-                                    src={`https://i.scdn.co/image/${artist.img}`}
-                                    alt={artist.name}
-                                    className="w-10 h-10 rounded-full"
-                                />
-                            </TableCell>
-                            <TableCell>{artist.name}</TableCell>
-                            <TableCell>{artist.id}</TableCell>
-                            <TableCell>{artist.listeners}</TableCell>
-                            <TableCell>{artist.followers}</TableCell>
-                            <TableCell>{artist.rank}</TableCell>
+            <div>
+                <Table>
+                    <TableHeader>
+                        <TableRow>
+                            <TableHead className="w-[100px]"></TableHead>
+                            <TableHead>Name</TableHead>
+                            <TableHead>ID</TableHead>
+                            <TableHead className="text-right">Listeners</TableHead>
+                            <TableHead className="text-right">Followers</TableHead>
+                            <TableHead className="text-right">Rank</TableHead>
                         </TableRow>
-                    ))}
-                </TableBody>
-            </Table>
+                    </TableHeader>
+                    <TableBody>
+                        {currentArtists.map((artist) => (
+                            <TableRow key={artist.id}>
+                                <TableCell>
+                                    {artist.img ? (
+                                        <img
+                                            src={`https://i.scdn.co/image/${artist.img}`}
+                                            alt={artist.name}
+                                            className="w-10 h-10 object-cover"
+                                        />
+                                    ) : (
+                                        <div className="w-10 h-10 rounded-full bg-gray-300 flex items-center justify-center">
+                                            <Music className="h-6 w-6 text-gray-400" />
+                                        </div>
+                                    )}
+                                </TableCell>
+                                <TableCell className="font-bold">{artist.name}</TableCell>
+                                <Link href={`https://open.spotify.com/artist/${artist.id}`}>
+                                    <TableCell className="font-medium">{artist.id}</TableCell>
+                                </Link>
+                                <TableCell className="text-right">{artist.listeners ? artist.listeners.toLocaleString() : '-'}</TableCell>
+                                <TableCell className="text-right">{artist.followers ? artist.followers.toLocaleString() : '-'}</TableCell>
+                                <TableCell className="text-right">{artist.rank ? artist.rank : '-'}</TableCell>
+                            </TableRow>
+                        ))}
+                    </TableBody>
+                </Table>
+            </div>
 
             <Pagination className="mt-4">
                 <PaginationContent>
                     <PaginationItem>
                         <PaginationPrevious
                             onClick={() => setCurrentPage(prev => Math.max(prev - 1, 1))}
-                            disabled={currentPage === 1}
+                            className={currentPage === 1 ? 'pointer-events-none opacity-50' : ''}
                         />
                     </PaginationItem>
-                    {[...Array(totalPages)].map((_, index) => (
-                        <PaginationItem key={index}>
-                            <PaginationLink
-                                onClick={() => setCurrentPage(index + 1)}
-                                isActive={currentPage === index + 1}
-                            >
-                                {index + 1}
-                            </PaginationLink>
-                        </PaginationItem>
-                    ))}
+                    <PaginationItem>
+                        <PaginationLink>{currentPage}</PaginationLink>
+                    </PaginationItem>
                     <PaginationItem>
                         <PaginationNext
                             onClick={() => setCurrentPage(prev => Math.min(prev + 1, totalPages))}
-                            disabled={currentPage === totalPages}
+                            className={currentPage === totalPages ? 'pointer-events-none opacity-50' : ''}
                         />
                     </PaginationItem>
                 </PaginationContent>
