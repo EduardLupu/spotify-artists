@@ -1,21 +1,21 @@
 export interface Top {
-    city: string;
-    country: string;
-    numberOfListeners: number;
-    region: string;
+    x: string; // City
+    c: string; // Country
+    l: number; // Listeners
 }
 
 export interface Artist {
-    id: string;
-    name: string;
-    img: string;
-    listeners: number | null;  // Allow null
-    followers: number;
-    rank: number | null;  // Allow null
-    top: Top[];  // This allows empty arrays
+    i: string; // ID
+    n: string; // Name
+    p: string; // Image
+    l: number | null;  // Monthly Listeners
+    f: number | null;  // Followers
+    r: number | null;  // Rank
+    t: Top[]  | null;  // This allows empty arrays
 }
 
 export interface SpotifyArtists {
-    timestamp: string;
-    artists: Artist[];
+    t: string;
+    a: Artist[];
+    x: Artist[];
 }
