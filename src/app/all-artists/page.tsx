@@ -1,8 +1,10 @@
 'use client';
 import React, {useMemo, useState} from 'react';
-import Link from 'next/link';
 import {Input} from "@/components/ui/input";
-import {Table, TableBody, TableCell, TableHead, TableHeader, TableRow} from "@/components/ui/table";
+import {Card, CardContent, CardHeader, CardTitle} from "@/components/ui/card";
+import {Search, Music} from 'lucide-react';
+import {useSpotifyArtists} from "@/app/SpotifyArtistsContext";
+import {ArtistTable} from "@/components/tables/ArtistTable";
 import {
     Pagination,
     PaginationContent,
@@ -11,16 +13,13 @@ import {
     PaginationNext,
     PaginationPrevious
 } from "@/components/ui/pagination";
-import {Card, CardContent, CardHeader, CardTitle} from "@/components/ui/card";
-import {Search, Music} from 'lucide-react';
-import {useSpotifyArtists} from "@/app/SpotifyArtistsContext";
 
 export default function AllArtistsPage() {
     const {spotifyArtists, loading} = useSpotifyArtists();
     const [searchTerm, setSearchTerm] = useState("");
     const [currentPage, setCurrentPage] = useState(1);
     const [itemsPerPage, setItemsPerPage] = useState(50);
-    const [sortField, setSortField] = useState<'n' | 'f' | 'l' | null>(null);
+    const [sortField, setSortField] = useState<'n' | 'f' | 'l'  | 'r' | null>(null);
     const [sortDirection, setSortDirection] = useState<'asc' | 'desc'>('asc');
     const [selectedLetter, setSelectedLetter] = useState<string | null>(null);
     const [expandedArtist, setExpandedArtist] = useState<string | null>(null);
@@ -62,7 +61,7 @@ export default function AllArtistsPage() {
 
     const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
 
-    const handleSort = (field: 'n' | 'f' | 'l' | null) => {
+    const handleSort = (field: 'n' | 'f' | 'l' | 'r' | null) => {
         if (!field) return;
         if (field === sortField) {
             setSortDirection(sortDirection === 'asc' ? 'desc' : 'asc');
@@ -135,7 +134,7 @@ export default function AllArtistsPage() {
 
                 </Card>
             </div>
-            <div className="mb-6 flex justify-center items-center w-full">
+            <div className="mb-6 text-xs text-center">
                 {alphabet.map((letter) => (
                     <button
                         key={letter}
@@ -155,75 +154,17 @@ export default function AllArtistsPage() {
                     All
                 </button>
             </div>
-            <Table className="text-black mx-auto w-5/6 border-collapse border-gray-700">
-                <TableHeader>
-                    <TableRow>
-                        <TableHead className="text-black font-bold cursor-pointer border-b border-black"
-                                   onClick={() => handleSort('n')}>
-                            Name {sortField === 'n' && (sortDirection === 'asc' ? '▲' : '▼')}
-                        </TableHead>
-                        <TableHead className="text-center text-black font-bold cursor-pointer border-b border-black"
-                                   onClick={() => handleSort('l')}>
-                            Monthly Listeners {sortField === 'l' && (sortDirection === 'asc' ? '▲' : '▼')}
-                        </TableHead>
-                        <TableHead className="text-center text-black font-bold cursor-pointer border-b border-black"
-                                   onClick={() => handleSort('f')}>
-                            Followers {sortField === 'f' && (sortDirection === 'asc' ? '▲' : '▼')}
-                        </TableHead>
-                    </TableRow>
-                </TableHeader>
-                <TableBody>
-                    {currentArtists.map((artist) => (
-                        <>
-                            <TableRow
-                                key={artist.i}
-                                className="hover:bg-gray-200 cursor-pointer"
-                                onClick={() => toggleArtistExpansion(artist.i)}
-                            >
-                                <TableCell className="font-bold border-b border-black">
-                                    <div className="flex items-center gap-4">
-                                        {artist.p ? (
-                                            <img
-                                                src={`https://i.scdn.co/image/${artist.p}`}
-                                                alt={artist.n}
-                                                className="w-12 h-12 rounded-lg object-cover"
-                                            />
-                                        ) : (
-                                            <div
-                                                className="w-12 h-12 rounded-lg bg-gray-300 flex items-center justify-center">
-                                                <Music className="h-6 w-6 text-black"/>
-                                            </div>
-                                        )}
-                                        <Link href={`https://open.spotify.com/artist/${artist.i}`}
-                                              title={'View Artist on Spotify'}>
-                                            {artist.n}
-                                        </Link>
-                                    </div>
-                                </TableCell>
-                                <TableCell
-                                    className="text-center border-b border-black">{artist.l ? artist.l.toLocaleString() : '-'}</TableCell>
-                                <TableCell
-                                    className="text-center border-b border-black">{artist.f ? artist.f.toLocaleString() : '-'}</TableCell>
-                            </TableRow>
-                            {expandedArtist === artist.i && artist.t && artist.t.length > 0 && (
-                                <TableRow key={`${artist.i}-top`} className="bg-gray-100">
-                                    <TableCell colSpan={3} className="text-black p-4">
-                                        <div className="font-bold mb-2">Top Cities:</div>
-                                        <ul>
-                                            {artist.t.map((topCity) => (
-                                                <li key={topCity.x} className="mb-2">
-                                                    City: {topCity.x}, Country: {topCity.c},
-                                                    Listeners: {topCity.l.toLocaleString()}
-                                                </li>
-                                            ))}
-                                        </ul>
-                                    </TableCell>
-                                </TableRow>
-                            )}
-                        </>
-                    ))}
-                </TableBody>
-            </Table>
+            <ArtistTable
+                artists={currentArtists}
+                onSort={handleSort}
+                sortField={sortField}
+                sortDirection={sortDirection}
+                expandedArtist={expandedArtist}
+                toggleArtistExpansion={toggleArtistExpansion}
+                showRank={false}
+                currentPage={currentPage}
+                itemsPerPage={itemsPerPage}
+            />
             <Pagination className="mt-4">
                 <PaginationContent>
                     <PaginationItem>

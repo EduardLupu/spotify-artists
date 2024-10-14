@@ -1,7 +1,7 @@
-// app/layout.tsx (or .js)
 import './globals.css';
 import {SpotifyArtistsProvider} from '@/app/SpotifyArtistsContext';
 import Navigation from "@/components/navigation";
+import { montserrat } from "@/lib/fonts";
 import React from "react";
 
 export const metadata = {
@@ -12,7 +12,7 @@ export const metadata = {
 export default function RootLayout({children}: { children: React.ReactNode }) {
     return (
         <html lang="en">
-            <body>
+            <body className={montserrat.className}>
                  <SpotifyArtistsProvider>
                      <Navigation />
                     {children}
