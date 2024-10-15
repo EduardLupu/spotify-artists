@@ -2,8 +2,8 @@
 import React, {useMemo, useState} from 'react';
 import {Input} from "@/components/ui/input";
 import {Card, CardContent, CardHeader, CardTitle} from "@/components/ui/card";
-import {Search} from 'lucide-react';
-import {useSpotifyArtists} from "@/app/SpotifyArtistsContext";
+import {Info, Search} from 'lucide-react';
+import {useSpotifyArtists} from "@/contexts/SpotifyArtistsContext";
 import {ArtistTable} from "@/components/tables/ArtistTable";
 import {
     Pagination,
@@ -12,6 +12,7 @@ import {
     PaginationNext,
     PaginationPrevious
 } from "@/components/ui/pagination";
+import {Tooltip, TooltipContent, TooltipTrigger} from "@/components/ui/tooltip";
 
 export default function AllArtistsPage() {
     const {spotifyArtists, loading} = useSpotifyArtists();
@@ -66,7 +67,7 @@ export default function AllArtistsPage() {
         setExpandedArtist(expandedArtist === artistId ? null : artistId);
     };
 
-    if (loading) return <div className="bg-white text-black flex justify-center items-center h-screen">Loading...</div>;
+    if (loading) return <div className="bg-white text-black flex justify-center items-center h-screen text-xs font-bold">loading a lot of data... please wait!</div>;
 
     return (
         <div className="bg-white flex-col justify-between p-4 px-6 lg:px-24">
@@ -93,7 +94,16 @@ export default function AllArtistsPage() {
                 </Card>
                 <Card className="bg-white border border-black">
                     <CardHeader>
-                        <CardTitle>Dashboard</CardTitle>
+                        <CardTitle className="flex justify-between">Dashboard
+                            <Tooltip>
+                                <TooltipTrigger>
+                                    <Info className="h-4 w-4" />
+                                </TooltipTrigger>
+                                <TooltipContent>
+                                    hover over the artist's numbers to see it in full
+                                </TooltipContent>
+                            </Tooltip>
+                        </CardTitle>
                     </CardHeader>
 
                     <CardContent>

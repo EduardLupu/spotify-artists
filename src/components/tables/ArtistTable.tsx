@@ -3,7 +3,8 @@ import Link from 'next/link';
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { Music } from 'lucide-react';
 import { abbreviateNumber } from "@/utils/helpers";
-import {Tooltip, TooltipTrigger, TooltipContent, TooltipProvider} from "@/components/ui/tooltip";
+import {Tooltip, TooltipTrigger, TooltipContent} from "@/components/ui/tooltip";
+import {getCountryByAlpha2} from "country-locale-map";
 
 interface ArtistTableProps {
     artists: any[];
@@ -56,7 +57,7 @@ export const ArtistTable: React.FC<ArtistTableProps> = ({
                 </TableRow>
             </TableHeader>
             <TableBody>
-                {artists.map((artist, index) => (
+                {artists.map((artist) => (
                     <Fragment key={artist.i}>
                         <TableRow
                             className="hover:bg-gray-200 cursor-pointer"
@@ -64,7 +65,7 @@ export const ArtistTable: React.FC<ArtistTableProps> = ({
                         >
                             {showRank && (
                                 <TableCell className="text-center border-b border-black">
-                                    {index + 1}
+                                    {artist?.r}
                                 </TableCell>
                             )}
                             <TableCell className="font-bold border-b border-black">
@@ -83,6 +84,9 @@ export const ArtistTable: React.FC<ArtistTableProps> = ({
                                     <Link
                                         href={`https://open.spotify.com/artist/${artist.i}`}
                                         title={'View Artist on Spotify'}
+                                        target={'_blank'}
+                                        rel={'noopener noreferrer nofollow'}
+                                        className="text-black hover:underline hover:underline-offset-4"
                                     >
                                         {artist.n}
                                     </Link>
@@ -90,23 +94,20 @@ export const ArtistTable: React.FC<ArtistTableProps> = ({
                             </TableCell>
                             <TableCell className="text-center border-b border-black">
                                 {artist.l ? (
-                                    <TooltipProvider>
-                                        <Tooltip>
-                                            <TooltipTrigger>
-                                                {abbreviateNumber(artist.l)}
-                                            </TooltipTrigger>
-                                            <TooltipContent>
-                                                {artist.l.toLocaleString()}
-                                            </TooltipContent>
-                                        </Tooltip>
-                                    </TooltipProvider>
+                                    <Tooltip>
+                                        <TooltipTrigger>
+                                            {abbreviateNumber(artist.l)}
+                                        </TooltipTrigger>
+                                        <TooltipContent>
+                                            {artist.l.toLocaleString()}
+                                        </TooltipContent>
+                                    </Tooltip>
                                 ) : (
                                     '-'
                                 )}
                             </TableCell>
                             <TableCell className="text-center border-b border-black">
                                 {artist.f ? (
-                                    <TooltipProvider>
                                     <Tooltip>
                                         <TooltipTrigger>
                                             {abbreviateNumber(artist.f)}
@@ -115,7 +116,6 @@ export const ArtistTable: React.FC<ArtistTableProps> = ({
                                             {artist.f.toLocaleString()}
                                         </TooltipContent>
                                     </Tooltip>
-                                    </TooltipProvider>
                                 ) : (
                                     '-'
                                 )}
@@ -124,12 +124,11 @@ export const ArtistTable: React.FC<ArtistTableProps> = ({
                         {expandedArtist === artist.i && artist.t && artist.t.length > 0 && (
                             <TableRow className="bg-gray-100">
                                 <TableCell colSpan={showRank ? 4 : 3} className="text-black p-4">
-                                    <div className="font-bold mb-2 text-center">Top Cities:</div>
+                                    <div className="font-bold mb-2 text-center">top locations:</div>
                                     <ul>
-                                        {artist.t.map((topCity: any) => (
-                                            <li key={topCity.x} className="mb-2 text-center">
-                                                City: {topCity.x}, Country: {topCity.c}, Listeners:{' '}
-                                                <TooltipProvider>
+                                        {artist.t.map((topCity: any, index: number) => (
+                                            <li key={topCity.x} className="mb-2 text-center font-bold text-xs">
+                                                {index+1}. {topCity.x}, {getCountryByAlpha2(topCity.c)?.name} {getCountryByAlpha2(topCity.c)?.emoji}  | {" "}
                                                 <Tooltip>
                                                     <TooltipTrigger>
                                                         {abbreviateNumber(topCity.l)}
@@ -138,7 +137,7 @@ export const ArtistTable: React.FC<ArtistTableProps> = ({
                                                         {topCity.l.toLocaleString()}
                                                     </TooltipContent>
                                                 </Tooltip>
-                                                </TooltipProvider>
+                                                {" "} listeners
                                             </li>
                                         ))}
                                     </ul>
