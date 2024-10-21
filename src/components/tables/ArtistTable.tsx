@@ -28,7 +28,7 @@ export const ArtistTable: React.FC<ArtistTableProps> = ({
                                                             showRank = false,
                                                         }) => {
     return (
-        <Table className="text-black mx-auto w-5/6 border-collapse border-gray-700">
+        <Table className="text-black mx-auto w-5/6 border-collapse border-gray-700 text-xs">
             <TableHeader>
                 <TableRow>
                     {showRank && (
@@ -127,7 +127,7 @@ export const ArtistTable: React.FC<ArtistTableProps> = ({
                                     <div className="font-bold mb-2 text-center">top locations:</div>
                                     <ul>
                                         {artist.t.map((topCity: any, index: number) => (
-                                            <li key={topCity.x} className="mb-2 text-center font-bold text-xs">
+                                            <li key={topCity.x} className="mb-2 text-center font-bold">
                                                 {index+1}. {topCity.x}, {getCountryByAlpha2(topCity.c)?.name} {getCountryByAlpha2(topCity.c)?.emoji}  | {" "}
                                                 <Tooltip>
                                                     <TooltipTrigger>
