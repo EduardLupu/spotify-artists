@@ -6,7 +6,7 @@ import { Star, Users, Disc } from 'lucide-react';
 
 export default function HomePage() {
     return (
-        <div className="flex flex-col justify-between px-6 lg:px-24 bg-white">
+        <div className="flex flex-col justify-between px-6 lg:px-24 bg-white min-h-[77vh]">
             <div className="grid md:grid-cols-3 gap-6 my-10">
                 <Link href="/top-artists">
                     <Card className="hover:shadow-lg transition-shadow cursor-pointer bg-white border border-black">
@@ -51,13 +51,6 @@ export default function HomePage() {
                     </Card>
                 </Link>
             </div>
-
-            <section className="my-6">
-                <p className="text-black text-center text-xs font-bold">this project is open-source. any help is appreciated. feel free to contribute on <Link href={'https://github.com/EduardLupu/spotify-artists'} title={'View on GitHub'} className="underline underline-offset-4" target={'_blank'}>github</Link>.
-                    support me on <Link href={'https://buymeacoffee.com/eduardlupu'} title={'Buy me a coffee'} className="underline underline-offset-4" target={'_blank'}>buymeacoffee</Link> or <Link href={'https://github.com/sponsors/EduardLupu'} target={'_blank'} title={'GitHub Sponsors'} className="underline underline-offset-4">github sponsors</Link>.
-                </p>
-                <p className={'text-black text-center text-xs font-bold my-6'}>&copy; {new Date().getFullYear()} created by <Link href={'https://eduardlupu.com/'} title={'check out my personal site'} className="underline underline-offset-4" target={'_blank'}>eduard lupu</Link></p>
-            </section>
         </div>
     );
 }

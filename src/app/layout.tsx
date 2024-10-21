@@ -6,6 +6,7 @@ import React from "react";
 import {TooltipProvider} from "@/components/ui/tooltip";
 import {baseUrl} from "@/lib/constants";
 import { GoogleAnalytics } from "@next/third-parties/google";
+import Footer from "@/components/footer";
 
 export const metadata = {
     title: 'top 500 spotify artists',
@@ -202,6 +203,7 @@ export default function RootLayout({children}: { children: React.ReactNode }) {
                      <TooltipProvider>
                          <Navigation />
                          {children}
+                         <Footer />
                      </TooltipProvider>
                 </SpotifyArtistsProvider>
             </body>
