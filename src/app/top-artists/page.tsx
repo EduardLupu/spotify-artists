@@ -2,7 +2,8 @@
 import React, {useMemo, useState} from 'react';
 import {Input} from "@/components/ui/input";
 import {Card, CardContent, CardHeader, CardTitle} from "@/components/ui/card";
-import {Info, Search} from 'lucide-react';
+import {Search} from 'lucide-react';
+import {Switch} from "@/components/ui/switch";
 import {useSpotifyArtists} from "@/contexts/SpotifyArtistsContext";
 import {ArtistTable} from "@/components/tables/ArtistTable";
 import {
@@ -22,6 +23,7 @@ export default function AllArtistsPage() {
     const [sortField, setSortField] = useState<'n' | 'f' | 'l' | 'r' | null>(null);
     const [sortDirection, setSortDirection] = useState<'asc' | 'desc'>('asc');
     const [expandedArtist, setExpandedArtist] = useState<string | null>(null);
+    const [showDetailedNumbers, setShowDetailedNumbers] = useState(false);
 
     const topArtists = useMemo(() => spotifyArtists?.x || [], [spotifyArtists]);
 
@@ -97,10 +99,12 @@ export default function AllArtistsPage() {
                         <CardTitle className="flex justify-between">Dashboard
                             <Tooltip>
                                 <TooltipTrigger>
-                                    <Info className="h-4 w-4" />
+                                    <div className="flex items-center space-x-2">
+                                    <Switch id="dashboard-toggle" checked={showDetailedNumbers} onCheckedChange={setShowDetailedNumbers}/>
+                                    </div>
                                 </TooltipTrigger>
                                 <TooltipContent>
-                                    hover over the artist's numbers to see it in full
+                                    Toggle the switch to see the exact number of listens
                                 </TooltipContent>
                             </Tooltip>
                         </CardTitle>
@@ -145,6 +149,7 @@ export default function AllArtistsPage() {
                 showRank={true}
                 currentPage={currentPage}
                 itemsPerPage={itemsPerPage}
+                showDetailedNumbers={showDetailedNumbers}
             />
             <Pagination className="mt-4">
                 <PaginationContent>
