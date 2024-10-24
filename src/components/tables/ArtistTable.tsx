@@ -16,6 +16,7 @@ interface ArtistTableProps {
     expandedArtist: string | null;
     toggleArtistExpansion: (artistId: string) => void;
     showRank?: boolean;
+    showDetailedNumbers: boolean
 }
 
 export const ArtistTable: React.FC<ArtistTableProps> = ({
@@ -26,6 +27,7 @@ export const ArtistTable: React.FC<ArtistTableProps> = ({
                                                             expandedArtist,
                                                             toggleArtistExpansion,
                                                             showRank = false,
+                                                            showDetailedNumbers = false,
                                                         }) => {
     return (
         <Table className="text-black mx-auto w-5/6 border-collapse border-gray-700 text-xs">
@@ -96,7 +98,7 @@ export const ArtistTable: React.FC<ArtistTableProps> = ({
                                 {artist.l ? (
                                     <Tooltip>
                                         <TooltipTrigger>
-                                            {abbreviateNumber(artist.l)}
+                                            {showDetailedNumbers ? artist.l.toLocaleString() : abbreviateNumber(artist.l)}
                                         </TooltipTrigger>
                                         <TooltipContent>
                                             {artist.l.toLocaleString()}
