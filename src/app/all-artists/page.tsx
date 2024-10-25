@@ -3,7 +3,7 @@ import React, {useMemo, useState} from 'react';
 import {Input} from "@/components/ui/input";
 import {Card, CardContent, CardHeader, CardTitle} from "@/components/ui/card";
 import {Switch} from "@/components/ui/switch";
-import {Search, ShowerHead} from 'lucide-react';
+import {Search} from 'lucide-react';
 import {useSpotifyArtists} from "@/contexts/SpotifyArtistsContext";
 import {ArtistTable} from "@/components/tables/ArtistTable";
 import {
@@ -108,14 +108,14 @@ export default function AllArtistsPage() {
                     <CardHeader>
                         <CardTitle className="flex justify-between">Dashboard
                             <Tooltip>
-                                <TooltipTrigger>
-                                    <div className="flex items-center space-x-2">
-                                    <Switch id="dashboard-toggle" checked={showDetailedNumbers} onCheckedChange={setShowDetailedNumbers}/>
-                                    </div>
-                                </TooltipTrigger>
-                                <TooltipContent>
-                                    Toggle the switch to see the exact number of listens
-                                </TooltipContent>
+                                <Tooltip>
+                                    <TooltipTrigger>
+                                        <Switch id="dashboard-toggle" checked={showDetailedNumbers} onCheckedChange={setShowDetailedNumbers}/>
+                                    </TooltipTrigger>
+                                    <TooltipContent>
+                                        toggle the switch to see the exact numbers
+                                    </TooltipContent>
+                                </Tooltip>
                             </Tooltip>
                         </CardTitle>
                     </CardHeader>

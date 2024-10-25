@@ -3,7 +3,6 @@ import Link from 'next/link';
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { Music } from 'lucide-react';
 import { abbreviateNumber } from "@/utils/helpers";
-import {Tooltip, TooltipTrigger, TooltipContent} from "@/components/ui/tooltip";
 import {getCountryByAlpha2} from "country-locale-map";
 
 interface ArtistTableProps {
@@ -95,32 +94,10 @@ export const ArtistTable: React.FC<ArtistTableProps> = ({
                                 </div>
                             </TableCell>
                             <TableCell className="text-center border-b border-black">
-                                {artist.l ? (
-                                    <Tooltip>
-                                        <TooltipTrigger>
-                                            {showDetailedNumbers ? artist.l.toLocaleString() : abbreviateNumber(artist.l)}
-                                        </TooltipTrigger>
-                                        <TooltipContent>
-                                            {artist.l.toLocaleString()}
-                                        </TooltipContent>
-                                    </Tooltip>
-                                ) : (
-                                    '-'
-                                )}
+                                {artist.l ? showDetailedNumbers ? artist.l.toLocaleString() : abbreviateNumber(artist.l) : '-'}
                             </TableCell>
                             <TableCell className="text-center border-b border-black">
-                                {artist.f ? (
-                                    <Tooltip>
-                                        <TooltipTrigger>
-                                            {abbreviateNumber(artist.f)}
-                                        </TooltipTrigger>
-                                        <TooltipContent>
-                                            {artist.f.toLocaleString()}
-                                        </TooltipContent>
-                                    </Tooltip>
-                                ) : (
-                                    '-'
-                                )}
+                                {artist.f ? showDetailedNumbers ? artist.f.toLocaleString() : abbreviateNumber(artist.f) : '-'}
                             </TableCell>
                         </TableRow>
                         {expandedArtist === artist.i && artist.t && artist.t.length > 0 && (
@@ -131,14 +108,7 @@ export const ArtistTable: React.FC<ArtistTableProps> = ({
                                         {artist.t.map((topCity: any, index: number) => (
                                             <li key={topCity.x} className="mb-2 text-center font-bold">
                                                 {index+1}. {topCity.x}, {getCountryByAlpha2(topCity.c)?.name} {getCountryByAlpha2(topCity.c)?.emoji}  | {" "}
-                                                <Tooltip>
-                                                    <TooltipTrigger>
-                                                        {abbreviateNumber(topCity.l)}
-                                                    </TooltipTrigger>
-                                                    <TooltipContent>
-                                                        {topCity.l.toLocaleString()}
-                                                    </TooltipContent>
-                                                </Tooltip>
+                                                {showDetailedNumbers ? topCity.l.toLocaleString() : abbreviateNumber(topCity.l)} {" "} listeners
                                                 {" "} listeners
                                             </li>
                                         ))}

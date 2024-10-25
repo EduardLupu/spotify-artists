@@ -94,22 +94,19 @@ export default function AllArtistsPage() {
                         </div>
                     </CardContent>
                 </Card>
-                <Card className="bg-white border border-black">
+                <Card className="bg-white border border-black shadow-lg">
                     <CardHeader>
                         <CardTitle className="flex justify-between">Dashboard
                             <Tooltip>
                                 <TooltipTrigger>
-                                    <div className="flex items-center space-x-2">
                                     <Switch id="dashboard-toggle" checked={showDetailedNumbers} onCheckedChange={setShowDetailedNumbers}/>
-                                    </div>
                                 </TooltipTrigger>
                                 <TooltipContent>
-                                    Toggle the switch to see the exact number of listens
+                                    toggle the switch to see the exact numbers
                                 </TooltipContent>
                             </Tooltip>
                         </CardTitle>
                     </CardHeader>
-
                     <CardContent>
                         <div className="flex flex-row justify-between items-end">
                             <div className="flex flex-col justify-between items-start">
