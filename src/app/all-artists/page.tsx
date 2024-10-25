@@ -2,7 +2,8 @@
 import React, {useMemo, useState} from 'react';
 import {Input} from "@/components/ui/input";
 import {Card, CardContent, CardHeader, CardTitle} from "@/components/ui/card";
-import {Search, Info} from 'lucide-react';
+import {Switch} from "@/components/ui/switch";
+import {Search} from 'lucide-react';
 import {useSpotifyArtists} from "@/contexts/SpotifyArtistsContext";
 import {ArtistTable} from "@/components/tables/ArtistTable";
 import {
@@ -15,6 +16,7 @@ import {
 } from "@/components/ui/pagination";
 import {Tooltip, TooltipContent, TooltipTrigger} from "@/components/ui/tooltip";
 
+
 export default function AllArtistsPage() {
     const {spotifyArtists, loading} = useSpotifyArtists();
     const [searchTerm, setSearchTerm] = useState("");
@@ -24,6 +26,7 @@ export default function AllArtistsPage() {
     const [sortDirection, setSortDirection] = useState<'asc' | 'desc'>('asc');
     const [selectedLetter, setSelectedLetter] = useState<string | null>(null);
     const [expandedArtist, setExpandedArtist] = useState<string | null>(null);
+    const [showDetailedNumbers, setShowDetailedNumbers] = useState(false);
 
     const allArtists = useMemo(() => spotifyArtists?.a || [], [spotifyArtists]);
 
@@ -105,12 +108,14 @@ export default function AllArtistsPage() {
                     <CardHeader>
                         <CardTitle className="flex justify-between">Dashboard
                             <Tooltip>
-                                <TooltipTrigger>
-                                    <Info className="h-4 w-4" />
-                                </TooltipTrigger>
-                                <TooltipContent>
-                                    hover over the artist's numbers to see it in full
-                                </TooltipContent>
+                                <Tooltip>
+                                    <TooltipTrigger>
+                                        <Switch id="dashboard-toggle" checked={showDetailedNumbers} onCheckedChange={setShowDetailedNumbers}/>
+                                    </TooltipTrigger>
+                                    <TooltipContent>
+                                        toggle the switch to see the exact numbers
+                                    </TooltipContent>
+                                </Tooltip>
                             </Tooltip>
                         </CardTitle>
                     </CardHeader>
@@ -173,6 +178,7 @@ export default function AllArtistsPage() {
                 showRank={false}
                 currentPage={currentPage}
                 itemsPerPage={itemsPerPage}
+                showDetailedNumbers={showDetailedNumbers}
             />
             <Pagination className="mt-4">
                 <PaginationContent>
