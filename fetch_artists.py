@@ -142,7 +142,7 @@ async def main():
             "a": sorted(artist_data, key=lambda x: x['n'].lower() if x['n'] else '')
         }
 
-        with open('public/spotify_artists_data.json.json', 'w', encoding='utf-8') as f:
+        with open('public/spotify_artists_data.json', 'w', encoding='utf-8') as f:
             json.dump(final_data, f, separators=(',', ':'), ensure_ascii=False)
 
         logging.info(f"Processed {len(artist_data)} artists successfully.")
