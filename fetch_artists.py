@@ -5,7 +5,6 @@ from urllib.parse import quote
 from datetime import datetime, timezone
 import random
 import logging
-
 # Setup logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -29,7 +28,7 @@ async def fetch_access_token(session):
         logging.error(f"Failed to fetch access token: {e}")
         return None
 
-async def fetch_artist_data_with_retry(session, artist_id, access_token, max_retries=MAX_RETRIES, delay=2):
+async def fetch_artist_data_with_retry(session, artist_id, access_token, artist_ids_set, max_retries=MAX_RETRIES, delay=2):
     operationName = "queryArtistOverview"
     variables = json.dumps({"uri": f"spotify:artist:{artist_id}", "locale": "", "includePrerelease": True})
     extensions = '{"persistedQuery":{"version":1,"sha256Hash":"7c5a08a226e4dc96387c0c0a5ef4bd1d2e2d95c88cbb33dcfa505928591de672"}}'
@@ -47,40 +46,40 @@ async def fetch_artist_data_with_retry(session, artist_id, access_token, max_ret
             async with session.get(url, headers=headers, timeout=REQUEST_TIMEOUT) as response:
                 response.raise_for_status()
                 data = await response.json()
-                artist_data = data.get('data', {}) if data.get('data', {}) is not None else None
-                if not artist_data:
-                    raise ValueError()
-                artist_union = data.get('data', {}).get('artistUnion', {}) if data.get('data', {}).get('artistUnion', {}) is not None else None
-                if not artist_union:
-                    raise ValueError()
+                artist_union = data.get('data', {}).get('artistUnion', {})
 
-                profile = artist_union.get('profile') if artist_union.get('profile') is not None else None
-                stats = artist_union.get('stats') if artist_union.get('stats') is not None else None
-                visuals = artist_union.get('visuals') if artist_union.get('visuals') is not None else None
-                image = visuals.get('avatarImage', {}).get('sources', [{}])[0].get('url', '').split('/')[-1] if visuals.get('avatarImage') and visuals.get('avatarImage').get('sources') is not None else None
+                # Extract relevant artist data
+                profile = artist_union.get('profile')
+                stats = artist_union.get('stats')
+                visuals = artist_union.get('visuals')
+                image = visuals.get('avatarImage', {}).get('sources', [{}])[0].get('url', '').split('/')[-1] if visuals.get('avatarImage') else None
 
                 result = {
                     'i': artist_id,
-                    'n': profile.get('name') if profile.get('name') is not None else None,
+                    'n': profile.get('name'),
                     'p': image,
-                    'l': stats.get('monthlyListeners') if stats.get('monthlyListeners') is not None else None,
-                    'f': stats.get('followers') if stats.get('followers') is not None else None,
-                    'r': stats.get('worldRank') if stats.get('worldRank') is not None else None,
+                    'l': stats.get('monthlyListeners'),
+                    'f': stats.get('followers'),
+                    'r': stats.get('worldRank'),
                 }
 
-                result = {key: value for key, value in result.items() if value is not None}
-
-                top_cities = stats.get('topCities', {}).get('items', []) if stats.get('topCities') and stats.get('topCities').get('items', []) is not None else []
+                top_cities = stats.get('topCities', {}).get('items', [])
                 if top_cities:
                     result['t'] = [
                         {
-                            'x': city.get('city') if city.get('city') is not None else None,
-                            'c': city.get('country') if city.get('country') is not None else None,
-                            'l': city.get('numberOfListeners') if city.get('numberOfListeners') is not None else None
+                            'x': city.get('city'),
+                            'c': city.get('country'),
+                            'l': city.get('numberOfListeners')
                         }
-                        for city in top_cities if
-                        city.get('city') and city.get('country') and city.get('numberOfListeners') is not None
+                        for city in top_cities if city.get('city') and city.get('country') and city.get('numberOfListeners')
                     ]
+
+                if result.get('r') and result['r'] != 0:
+                    related_artists = artist_union.get('relatedContent', {}).get('relatedArtists', {}).get('items', [])
+                    for related_artist in related_artists:
+                        related_artist_id = related_artist.get('id')
+                        if related_artist_id:
+                            artist_ids_set.add(related_artist_id)
 
                 return result
 
@@ -91,34 +90,33 @@ async def fetch_artist_data_with_retry(session, artist_id, access_token, max_ret
             backoff = delay * 2 ** attempt + random.uniform(0, 1)
             await asyncio.sleep(backoff)
 
-async def process_artist(session, artist_id, access_token, semaphore):
+async def process_artist(session, artist_id, access_token, semaphore, artist_ids_set):
     async with semaphore:
         try:
-            return await fetch_artist_data_with_retry(session, artist_id, access_token)
+            return await fetch_artist_data_with_retry(session, artist_id, access_token, artist_ids_set)
         except Exception as e:
             logging.error(f"{artist_id}: Error occurred - {type(e).__name__}: {str(e)}")
             return None
 
+
 async def main():
+    artist_ids_set = set()
     try:
         async with aiohttp.ClientSession() as session:
             access_token = await fetch_access_token(session)
-
             if not access_token:
                 logging.error("Access token fetch failed. Exiting.")
                 return
 
             with open('artist_ids.txt', 'r') as f:
                 artist_ids = [line.strip() for line in f]
+                artist_ids_set.update(artist_ids)
 
             logging.info(f"Read {len(artist_ids)} artists successfully.")
-
-            random.shuffle(artist_ids)  # Distribute load
-
-            logging.info(f"Shuffled artists successfully.")
+            random.shuffle(artist_ids)
 
             semaphore = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
-            tasks = [process_artist(session, artist_id, access_token, semaphore) for artist_id in artist_ids]
+            tasks = [process_artist(session, artist_id, access_token, semaphore, artist_ids_set) for artist_id in artist_ids]
 
             results = []
             for future in asyncio.as_completed(tasks):
@@ -126,29 +124,28 @@ async def main():
                 if result:
                     results.append(result)
 
+        with open('artist_ids.txt', 'w') as f:
+            for artist_id in artist_ids_set:
+                f.write(f"{artist_id}\n")
+
         artist_data = results
 
+        # Process and sort as before
         top_artist_data_sorted = sorted(
             [artist for artist in artist_data if artist.get('r') is not None and artist.get('r') != 0],
             key=lambda x: (x['r'] if x['r'] is not None else float('inf'), x['n'].lower() if x['n'] else '')
         )
 
-        artist_data_sorted = sorted(artist_data,
-                                    key=lambda x: x['n'].lower() if x['n'] else ''
-                                    )
-
-        logging.info(f"Sorted {len(top_artist_data_sorted)} artists by rank.")
-
         final_data = {
             "t": datetime.now(timezone.utc).isoformat(),
             'x': top_artist_data_sorted,
-            "a": artist_data_sorted
+            "a": sorted(artist_data, key=lambda x: x['n'].lower() if x['n'] else '')
         }
 
-        with open('public/spotify_artists_data.json', 'w', encoding='utf-8') as f:
+        with open('public/spotify_artists_data.json.json', 'w', encoding='utf-8') as f:
             json.dump(final_data, f, separators=(',', ':'), ensure_ascii=False)
 
-        logging.info(f"Processed {len(artist_data)} artists successfully. {len(artist_ids) - len(artist_data)} artists failed.")
+        logging.info(f"Processed {len(artist_data)} artists successfully.")
 
     except Exception as e:
         logging.error(f"Error in main execution: {e}")

@@ -2,7 +2,9 @@
 
 ## Overview
 
-The **Spotify Artist Data Fetcher** is a GitHub Actions workflow that retrieves and stores statistics about specified artists from Spotify. This tool automatically fetches artist data at scheduled intervals and on certain events, making it easy to track changes over time.
+**Spotify Artists** is a GitHub Actions workflow that retrieves and stores statistics about specified artists from Spotify. This tool automatically fetches artist data at scheduled intervals and on certain events, making it easy to track changes over time.
+
+The data is presented on https://eduardlupu.github.io/spotify-artists.
 
 ## Features
 
@@ -34,10 +36,9 @@ The **Spotify Artist Data Fetcher** is a GitHub Actions workflow that retrieves 
 The workflow consists of the following steps:
 
 1. **Checkout Repository**: Fetches the repository content to the runner.
-2. **Install Dependencies**: Installs `jq` for JSON processing.
-3. **Fetch Access Token**: Retrieves a anonymous Spotify access token for API requests.
-4. **Fetch Artist Data**: For each artist ID in `artist_ids.txt`, it retrieves statistics and saves them as a JSON file.
-5. **Commit and Push Changes**: Commits the new data to the repository with a timestamp.
+2. **Fetch Access Token**: Retrieves a anonymous Spotify access token for API requests.
+3. **Fetch Artist Data**: For each artist ID in `artist_ids.txt`, it retrieves statistics and saves them as a JSON file.
+4. **Commit and Push Changes**: Commits the new data to the repository with a timestamp.
 
 ## Example Output
 
