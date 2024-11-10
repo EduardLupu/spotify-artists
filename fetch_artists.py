@@ -155,6 +155,12 @@ async def main():
 
         logging.info(f"Processed {len(artist_data)} artists successfully. {len(artist_ids) - len(artist_data)} artists failed.")
 
+        with open('artist_ids.txt', 'w') as f:
+            for artist_id in artist_ids_set:
+                f.write(f"{artist_id}\n")
+
+        logging.info(f"Updated artist_ids.txt with {len(artist_ids_set)} artists.")
+
     except Exception as e:
         logging.error(f"Error in main execution: {e}")
 
