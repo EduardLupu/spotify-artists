@@ -13,7 +13,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 MAX_CONCURRENT_REQUESTS = 1000
 RATE_LIMIT = 1000  # requests per second
 REQUEST_TIMEOUT = 15  # seconds
-MAX_RETRIES = 5  # Maximum retries for network calls
+MAX_RETRIES = 8  # Maximum retries for network calls
 
 async def fetch_access_token(session):
     url = 'https://open.spotify.com/get_access_token'
@@ -155,8 +155,10 @@ async def main():
 
         logging.info(f"Processed {len(artist_data)} artists successfully. {len(artist_ids) - len(artist_data)} artists failed.")
 
+        final_artist_ids = set(artist_ids).union(artist_ids_set)
+
         with open('artist_ids.txt', 'w') as f:
-            for artist_id in artist_ids_set:
+            for artist_id in final_artist_ids:
                 f.write(f"{artist_id}\n")
 
         logging.info(f"Updated artist_ids.txt with {len(artist_ids_set)} artists.")
