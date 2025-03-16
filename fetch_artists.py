@@ -98,6 +98,8 @@ async def fetch_artist_data_with_retry(session, artist_id, access_token, artist_
             async with session.get(url, headers=headers, timeout=REQUEST_TIMEOUT) as response:
                 response.raise_for_status()
                 data = await response.json()
+                if not data or 'data' not in data:
+                    raise ValueError("Missing 'data' key")
                 artist_data = data.get('data', {})
                 if not artist_data:
                     raise ValueError()
@@ -143,7 +145,7 @@ async def fetch_artist_data_with_retry(session, artist_id, access_token, artist_
 
                 return result
 
-        except (aiohttp.ClientError, aiohttp.ClientResponseError, ValueError, KeyError) as e:
+        except Exception as e:
             logging.error(f"{artist_id}: Retry {attempt} - {type(e).__name__}: {str(e)}")
             if attempt == max_retries - 1:
                 return None
