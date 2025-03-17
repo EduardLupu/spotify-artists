@@ -15,6 +15,8 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 MAX_CONCURRENT_REQUESTS = 1000
 REQUEST_TIMEOUT = 15
 MAX_RETRIES = 5
+ARTIST_IDS_FILE = '../artist_ids.txt'
+SPOTIFY_ARTISTS_DATA_FILE = '../public/spotify_artists_data.json'
 
 
 class TokenManager:
@@ -174,7 +176,7 @@ async def main():
                 logging.error("Access token fetch failed. Exiting.")
                 return
 
-            with open('artist_ids.txt', 'r') as f:
+            with open(ARTIST_IDS_FILE, 'r') as f:
                 artist_ids = [line.strip() for line in f]
                 artist_ids_set.update(artist_ids)
 
@@ -206,12 +208,12 @@ async def main():
             "a": sorted(artist_data, key=lambda x: x['n'].lower() if x['n'] else '')
         }
 
-        with open('public/spotify_artists_data.json', 'w', encoding='utf-8') as f:
+        with open(SPOTIFY_ARTISTS_DATA_FILE, 'w', encoding='utf-8') as f:
             json.dump(final_data, f, separators=(',', ':'), ensure_ascii=False)
 
         logging.info(f"Saved data for {len(artist_data)} artists.")
 
-        with open('artist_ids.txt', 'w') as f:
+        with open(ARTIST_IDS_FILE, 'w') as f:
             for artist_id in artist_ids_set:
                 f.write(f"{artist_id}\n")
 

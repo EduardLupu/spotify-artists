@@ -27,7 +27,7 @@ jobs:
 
       - name: Fetch Spotify Artist Data
         run: |
-          python fetch_artists.py
+          python src/fetch_artists.py
 
       - name: Commit and push changes
         run: |
