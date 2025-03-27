@@ -6,6 +6,7 @@ from datetime import datetime, timezone
 import time
 import random
 import logging
+import os
 from playwright.async_api import async_playwright
 
 # Logging setup
@@ -15,9 +16,12 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 MAX_CONCURRENT_REQUESTS = 1000
 REQUEST_TIMEOUT = 15
 MAX_RETRIES = 5
-ARTIST_IDS_FILE = '../artist_ids.txt'
-SPOTIFY_ARTISTS_DATA_FILE = '../public/spotify_artists_data.json'
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+ARTIST_IDS_FILE = os.path.join(BASE_DIR, '..', 'artist_ids.txt')
+SPOTIFY_ARTISTS_DATA_FILE = os.path.join(BASE_DIR, '..', 'public', 'spotify_artists_data.json')
 
+ARTIST_IDS_FILE = os.path.abspath(ARTIST_IDS_FILE)
+SPOTIFY_ARTISTS_DATA_FILE = os.path.abspath(SPOTIFY_ARTISTS_DATA_FILE)
 
 class TokenManager:
     def __init__(self):
