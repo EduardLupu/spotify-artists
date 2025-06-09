@@ -41,7 +41,7 @@ class TokenManager:
 
             async def handle_response(response):
                 nonlocal token_data
-                if "token" in response.url and response.status == 200:
+                if "api/token" in response.url and response.status == 200:
                     try:
                         json_data = await response.json()
                         token_data = {
