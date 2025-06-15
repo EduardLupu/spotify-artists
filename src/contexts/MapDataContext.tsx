@@ -39,7 +39,7 @@ export function MapDataProvider({ children }: { children: React.ReactNode }) {
         const fetchMapData = async () => {
             console.log("Map data fetch started. Loading state:", loadingMapData);
             try {
-                const response = await fetch('/processed_map_data.json');
+                const response = await fetch('https://raw.githubusercontent.com/EduardLupu/spotify-artists/refs/heads/main/public/processed_map_data.json');
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
