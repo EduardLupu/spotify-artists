@@ -1,26 +1,43 @@
 'use client';
 
-import { TileLayer, Marker, Popup, GeoJSON } from 'react-leaflet';
-import 'leaflet/dist/leaflet.css';
-import L from 'leaflet';
 import { useState, useEffect, useRef } from 'react';
 import { useMapData } from '@/contexts/MapDataContext';
-import { useMap } from 'react-leaflet';
 import { getCountryByAlpha2 } from 'country-locale-map';
-import dynamic from 'next/dynamic'; // Import dynamic
+import dynamic from 'next/dynamic';
+import { useMap } from 'react-leaflet';
 
-const initializeLeaflet = () => {
-  if (typeof window !== 'undefined') {
-    L.Icon.Default.mergeOptions({
-      iconRetinaUrl: 'https://unpkg.com/leaflet@1.7.1/dist/images/marker-icon-2x.png',
-      iconUrl: 'https://unpkg.com/leaflet@1.7.1/dist/images/marker-icon.png',
-      shadowUrl: 'https://unpkg.com/leaflet@1.7.1/dist/images/marker-shadow.png',
-    });
-  }
-};
+// Dynamically import all Leaflet-related components
+const DynamicMapContainer = dynamic(
+  () => import('react-leaflet').then(mod => mod.MapContainer),
+  { ssr: false }
+);
+
+const DynamicTileLayer = dynamic(
+  () => import('react-leaflet').then(mod => mod.TileLayer),
+  { ssr: false }
+);
+
+const DynamicMarker = dynamic(
+  () => import('react-leaflet').then(mod => mod.Marker),
+  { ssr: false }
+);
+
+const DynamicPopup = dynamic(
+  () => import('react-leaflet').then(mod => mod.Popup),
+  { ssr: false }
+);
+
+const DynamicGeoJSON = dynamic(
+  () => import('react-leaflet').then(mod => mod.GeoJSON),
+  { ssr: false }
+);
+
+// Import Leaflet CSS only on client side
+if (typeof window !== 'undefined') {
+  require('leaflet/dist/leaflet.css');
+}
 
 type ArtistDetail = { artist: string; listeners: number; image?: string };
-
 type CityMarkerData = { city: string; country: string; lat: number; lng: number; artists: ArtistDetail[] };
 
 // Component to handle map interactions
@@ -29,11 +46,11 @@ function MapInteractions({ selectedCity, selectedCountry, countryCentroids }: { 
 
   useEffect(() => {
     if (selectedCity) {
-      map.setView([selectedCity.lat, selectedCity.lng], 4); // Zoom to city
+      map.setView([selectedCity.lat, selectedCity.lng], 4);
     } else if (selectedCountry) {
       const centroid = countryCentroids.get(selectedCountry.toLowerCase());
       if (centroid) {
-        map.setView([centroid[1], centroid[0]], 2); // Zoom to country, Leaflet expects [lat, lng]
+        map.setView([centroid[1], centroid[0]], 2);
       }
     }
   }, [map, selectedCity, selectedCountry, countryCentroids]);
@@ -61,18 +78,28 @@ function LeafletMapContent({
   handleMarkerClick: (marker: CityMarkerData) => void;
   selectedCity: CityMarkerData | null;
   countryCentroids: Map<string, [number, number]>;
-  markerRefs: React.RefObject<Map<string, L.Marker>>;
+  markerRefs: React.RefObject<Map<string, any>>;
 }) {
-  const map = useMap(); // Get map instance
-  const [scaledMarkerIcon, setScaledMarkerIcon] = useState(L.divIcon({
-    className: 'custom-div-icon',
-    html: '<div style="background-color:#F53; width: 4px; height: 4px; border-radius: 50%; border: 0.2px solid #000;"></div>',
-    iconSize: [8, 8],
-    iconAnchor: [2, 2],
-    popupAnchor: [0, -2],
-  }));
+  const map = useMap();
+  const [scaledMarkerIcon, setScaledMarkerIcon] = useState<any>(null);
 
   useEffect(() => {
+    if (typeof window !== 'undefined') {
+      const L = require('leaflet');
+      const newIcon = L.divIcon({
+        className: 'custom-div-icon',
+        html: '<div style="background-color:#F53; width: 4px; height: 4px; border-radius: 50%; border: 0.2px solid #000;"></div>',
+        iconSize: [8, 8],
+        iconAnchor: [2, 2],
+        popupAnchor: [0, -2],
+      });
+      setScaledMarkerIcon(newIcon);
+    }
+  }, []);
+
+  useEffect(() => {
+    if (!scaledMarkerIcon) return;
+
     const updateMarkerSize = () => {
       const currentZoom = map.getZoom();
       let newSize = 4;
@@ -83,26 +110,18 @@ function LeafletMapContent({
       if (currentZoom <= 2) {
         newSize = 8;
         newBorder = 0.25;
-        newBackgroundColor = '#F53';
-        newBorderColor = '#000';
       } else if (currentZoom > 2 && currentZoom <= 4) {
         newSize = 12;
         newBorder = 0.35;
-        newBackgroundColor = '#F53';
-        newBorderColor = '#000';
       } else if (currentZoom > 4 && currentZoom <= 6) {
         newSize = 16;
         newBorder = 0.55;
-        newBackgroundColor = '#F53';
-        newBorderColor = '#000';
-      }
-      else if (currentZoom > 6 && currentZoom <= 8) {
-          newSize = 20;
-          newBorder = 0.75;
-          newBackgroundColor = '#F53';
-          newBorderColor = '#000';
+      } else if (currentZoom > 6 && currentZoom <= 8) {
+        newSize = 20;
+        newBorder = 0.75;
       }
 
+      const L = require('leaflet');
       const newIcon = L.divIcon({
         className: 'custom-div-icon',
         html: `<div style="background-color:${newBackgroundColor}; width: ${newSize}px; height: ${newSize}px; border-radius: 50%; border: ${newBorder}px solid ${newBorderColor};"></div>`,
@@ -119,35 +138,36 @@ function LeafletMapContent({
     };
 
     map.on('zoomend', updateMarkerSize);
-    // Initial size setting
     updateMarkerSize();
 
     return () => {
       map.off('zoomend', updateMarkerSize);
     };
-  }, [map, markerRefs]);
+  }, [map, scaledMarkerIcon, markerRefs]);
+
+  if (!scaledMarkerIcon) return null;
 
   return (
     <>
-      <TileLayer
+      <DynamicTileLayer
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png"
       />
       {countriesGeoJSON && (
-        <GeoJSON
+        <DynamicGeoJSON
           data={countriesGeoJSON}
-          style={() => ({ // Default style for countries
+          style={() => ({
             weight: 0,
             opacity: 0,
             fillOpacity: 0,
             cursor: 'pointer',
           })}
-          onEachFeature={(feature, layer) => {
+          onEachFeature={(feature: any, layer: any) => {
             const countryName = feature.properties.name || feature.properties.NAME;
-            const pathLayer = layer as L.Path;
+            const pathLayer = layer;
             pathLayer.on({
               click: () => handleCountryClick(countryName),
-              mouseover: (e) => {
+              mouseover: () => {
                 pathLayer.setStyle({ 
                   fillColor: '#e6e6e6',
                   fillOpacity: 0.3,
@@ -173,11 +193,11 @@ function LeafletMapContent({
         />
       )}
       {!loadingMapData && cityMarkers.map((marker, idx) => (
-        <Marker
+        <DynamicMarker
           key={marker.city + marker.country + idx}
           position={[marker.lat, marker.lng]}
           icon={scaledMarkerIcon}
-          ref={(markerInstance: L.Marker | null) => {
+          ref={(markerInstance: any) => {
             if (markerInstance) {
               markerRefs.current?.set(`${marker.city}-${marker.country}`, markerInstance);
             } else {
@@ -188,24 +208,16 @@ function LeafletMapContent({
             click: () => handleMarkerClick(marker),
           }}
         >
-          <Popup>
+          <DynamicPopup>
             <b>{marker.city}, {marker.country}</b><br/>
             Artists: {marker.artists.length}
-          </Popup>
-        </Marker>
+          </DynamicPopup>
+        </DynamicMarker>
       ))}
       <MapInteractions selectedCity={selectedCity} selectedCountry={selectedCountry} countryCentroids={countryCentroids} />
     </>
   );
 }
-
-// Dynamically import MapContainer to ensure client-side rendering
-const DynamicMapContainer = dynamic(
-  () => import('react-leaflet').then(mod => mod.MapContainer),
-  {
-    ssr: false, // This is crucial for client-side only rendering
-  }
-);
 
 export default function WorldMap2() {
   const { mapData, loadingMapData } = useMapData();
@@ -219,13 +231,12 @@ export default function WorldMap2() {
   const [suggestions, setSuggestions] = useState<Array<{ type: 'city' | 'country'; name: string; lat?: number; lng?: number; }>>([]);
   const [countryCentroids, setCountryCentroids] = useState<Map<string, [number, number]>>(new Map());
   const [topojsonFeature, setTopojsonFeature] = useState<any>(null);
-  const markerRefs = useRef<Map<string, L.Marker>>(new Map<string, L.Marker>());
+  const markerRefs = useRef<Map<string, any>>(new Map<string, any>());
   const [isSearchOpen, setIsSearchOpen] = useState(false);
   const [isClient, setIsClient] = useState(false);
 
   useEffect(() => {
     setIsClient(true);
-    initializeLeaflet();
   }, []);
 
   useEffect(() => {
