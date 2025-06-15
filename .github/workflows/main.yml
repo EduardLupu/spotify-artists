@@ -22,12 +22,16 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install aiohttp playwright
+          pip install aiohttp playwright pycountry
           python -m playwright install
 
       - name: Fetch Spotify Artist Data
         run: |
           python src/fetch_artists.py
+
+      - name: Process Artist Data
+        run: |
+          python src/process_artists.py
 
       - name: Commit and push changes
         run: |

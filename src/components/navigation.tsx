@@ -20,6 +20,11 @@ const Navigation = () => {
                          spotify artists
                     </Link>
                 </li>
+                <li>
+                    <Link href="/world-map">
+                        world map
+                    </Link>
+                </li>
             </ul>
         </nav>
     );

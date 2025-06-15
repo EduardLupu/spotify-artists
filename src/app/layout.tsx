@@ -1,5 +1,6 @@
 import './globals.css';
 import {SpotifyArtistsProvider} from '@/contexts/SpotifyArtistsContext';
+import { MapDataProvider } from '@/contexts/MapDataContext';
 import Navigation from "@/components/navigation";
 import { montserrat } from "@/lib/fonts";
 import React from "react";
@@ -202,7 +203,9 @@ export default function RootLayout({children}: { children: React.ReactNode }) {
                  <SpotifyArtistsProvider>
                      <TooltipProvider>
                          <Navigation />
-                         {children}
+                         <MapDataProvider>
+                             {children}
+                         </MapDataProvider>
                          <Footer />
                      </TooltipProvider>
                 </SpotifyArtistsProvider>
