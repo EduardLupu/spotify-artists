@@ -31,7 +31,7 @@ jobs:
 
       - name: Process Artist Data
         run: |
-          python src/process_artists.py
+          python src/process_artists_data.py
 
       - name: Commit and push changes
         run: |
