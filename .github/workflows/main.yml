@@ -29,16 +29,12 @@ jobs:
         run: |
           python src/fetch_artists.py
 
-#      - name: Process Artist Data
-#        run: |
-#          python src/process_artists_data.py
 
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@users.noreply.github.com"
           git add public/spotify_artists_data.json
-#          git add public/processed_map_data.json
           git add artist_ids.txt
           timestamp=$(date -u)
           git commit -m "Latest data: ${timestamp}" || exit 0
