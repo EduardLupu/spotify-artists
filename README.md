@@ -1,61 +1,98 @@
-# Spotify Artist Data Fetcher
+# Spotify Artists Dashboard
 
-## Overview
-
-**Spotify Artists** is a GitHub Actions workflow that retrieves and stores statistics about specified artists from Spotify. This tool automatically fetches artist data at scheduled intervals and on certain events, making it easy to track changes over time.
-
-The data is presented on https://eduardlupu.github.io/spotify-artists.
+A modern, real-time dashboard displaying the top Spotify artists with detailed analytics, growth metrics, and interactive visualizations.
 
 ## Features
 
-- **Automated Data Fetching**: Runs daily at 10 PM UTC or when changes are pushed to the `main` branch.
-- **Data Storage**: Saves artist statistics in JSON format, organized by artist name.
-- **Manual Triggering**: Supports manual execution via the GitHub Actions interface.
+- 🎵 **Real-time Data**: Live Spotify artist rankings and metrics
+- 📊 **Analytics**: Growth tracking, listener counts, and trend analysis
+- 🔍 **Search & Filter**: Find artists by name with advanced filtering
+- 📱 **Responsive Design**: Optimized for all devices
+- ⚡ **Fast Performance**: Built with Next.js 15 and optimized for speed
+- 🎨 **Modern UI**: Clean, minimalistic design with smooth animations
 
-## Getting Started
+## Data Structure
+
+The application reads from JSON files in the `public/data/` directory:
+
+- `latest/top500.json` - Current top 500 artists
+- `latest/former500.json` - Former top 500 artists
+- `latest/meta.json` - Metadata about the dataset
+- `artists/[id].json` - Individual artist details
+
+## Development
 
 ### Prerequisites
 
-1. A GitHub repository.
-2. A text file named `artist_ids.txt` containing the Spotify artist IDs you wish to fetch data for, one ID per line.
-3. GitHub Actions enabled for your repository.
+- Node.js 18+ 
+- npm or yarn
 
-### Setup Instructions
+### Installation
 
-1. **Create a new file** in your repository under `.github/workflows/get_spotify_artists_data.yml` and copy the workflow code into it.
+```bash
+# Install dependencies
+npm install
 
-2. **Add your artist IDs**:
-    - Create a file named `artist_ids.txt` in the root of your repository.
-    - Add the Spotify artist IDs you want to track, one per line.
+# Run development server
+npm run dev
+```
 
-3. **Configure Secrets**:
-    - Ensure you have a GitHub secret named `GITHUB_TOKEN` available in your repository settings to allow the workflow to push changes back to the repository.
+Open [http://localhost:3000](http://localhost:3000) to view the application.
 
-### Workflow Details
+### Build for Production
 
-The workflow consists of the following steps:
+```bash
+# Build the application
+npm run build
 
-1. **Checkout Repository**: Fetches the repository content to the runner.
-2. **Fetch Access Token**: Retrieves a anonymous Spotify access token for API requests.
-3. **Fetch Artist Data**: For each artist ID in `artist_ids.txt`, it retrieves statistics and saves them as a JSON file.
-4. **Commit and Push Changes**: Commits the new data to the repository with a timestamp.
+# Export static files
+npm run export
+```
 
-## Example Output
+## Deployment
 
-The artist data is saved in a directory named `artist`, with each file named in the format:
-- Followers
-- Monthly listeners
-- Top cities
-- World rank
+### GitHub Pages
 
-## Contributions
+The application is configured for automatic deployment to GitHub Pages:
 
-Feel free to contribute by forking the repository, making changes, and submitting a pull request. Suggestions for improvements and feature requests are always welcome!
+1. Push changes to the `main` branch
+2. GitHub Actions will automatically build and deploy
+3. The site will be available at `https://[username].github.io/spotify-artists-scraping`
+
+### Manual Deployment
+
+```bash
+# Build and export
+npm run build
+
+# Deploy to GitHub Pages
+npm run deploy
+```
+
+## Data Updates
+
+The application expects daily data updates from the Python scraping script. The data structure includes:
+
+- Artist rankings and monthly listeners
+- Growth metrics (1-day, 7-day, 30-day)
+- Top tracks and cities
+- Historical data and trends
+
+## Technologies Used
+
+- **Next.js 15** - React framework with App Router
+- **TypeScript** - Type safety and better development experience
+- **Tailwind CSS** - Utility-first CSS framework
+- **Lucide React** - Beautiful icon library
+- **GitHub Pages** - Static site hosting
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Submit a pull request
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-Inspired by [Simon Willison](https://simonwillison.net/2020/Oct/9/git-scraping/).
+MIT License - see LICENSE file for details.
