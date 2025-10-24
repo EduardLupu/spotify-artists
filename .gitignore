@@ -34,3 +34,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# JetBrains tools
+.idea/
+
+# VSCode
+.vscode/
+
+# Python
+venv/
+__pycache__/
+.env
