@@ -23,7 +23,7 @@ interface CityDirectoryEntry {
 }
 
 const geoUrl =
-  'https://cdn.jsdelivr.net/gh/gavinr/world-countries-centroids@v1/dist/world-countries.json'
+    'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json'
 
 const numberFormatter = new Intl.NumberFormat('en', { notation: 'compact', maximumFractionDigits: 1 })
 
@@ -144,12 +144,18 @@ export function TopCities({ artistName, cityRows, directory }: TopCitiesProps) {
         <CardContent className="relative z-10">
           <TooltipProvider>
             <ComposableMap
-              projectionConfig={{ scale: 150 }}
+              projectionConfig={{ scale: 160 }}
               width={800}
               height={400}
               style={{ width: '100%', height: '100%' }}
             >
-              <ZoomableGroup center={[0, 20]} zoom={1}>
+              <ZoomableGroup center={[30, 0]}
+                             zoom={1}
+                             minZoom={1}
+                             maxZoom={1}
+                             filterZoomEvent={() => false}
+
+              >
                 <Geographies geography={geoUrl}>
                   {({ geographies }) =>
                     geographies.map((geo) => (

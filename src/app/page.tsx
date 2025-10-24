@@ -2,7 +2,6 @@
 
 import { useEffect, useMemo, useState } from 'react'
 import Link from 'next/link'
-import { useRouter } from 'next/navigation'
 import {
   Activity,
   ArrowUpRight,
@@ -49,7 +48,7 @@ interface Top500Data {
   rows: any[][]
 }
 
-type ViewKey = 'rank' | 'momentum' | 'growth' | 'fresh' | 'followers'
+type ViewKey = 'rank' | 'momentum' | 'growth' | 'fresh' | 'followers' | 'delta'
 
 const viewConfig: Record<ViewKey, { label: string; description: string }> = {
   rank: { label: 'Global 500', description: 'Ordered by current global rank.' },
@@ -57,6 +56,7 @@ const viewConfig: Record<ViewKey, { label: string; description: string }> = {
   growth: { label: 'Growth', description: 'Largest listener growth in the past 7 days.' },
   fresh: { label: 'New Heat', description: 'Freshness score highlights breakout acts.' },
   followers: { label: 'Followers', description: 'Artists sorted by total Spotify followers.' },
+  delta: { label: 'Rank Delta', description: 'Artists with the biggest rank changes today.' },
 }
 
 const formatter = new Intl.NumberFormat('en', { notation: 'compact', maximumFractionDigits: 1 })
@@ -79,7 +79,7 @@ function ArtistCard({ artist }: { artist: Artist }) {
   const showDelta = Number.isFinite(rankMovement)
 
   return (
-    <Link href={`/artist/${artist.i}`} className="group">
+    <Link href={`/artist?id=${artist.i}`} className="group">
       <Card className="relative h-full overflow-hidden border-transparent bg-white/5 backdrop-blur-md transition-all duration-300 hover:border-white/20 hover:bg-white/10">
         <div className="absolute -right-6 -top-6 h-24 w-24 rounded-full bg-emerald-500/10 blur-3xl transition-opacity group-hover:opacity-60" />
         <CardHeader className="flex flex-row items-start gap-4 pb-2">
@@ -115,7 +115,7 @@ function ArtistCard({ artist }: { artist: Artist }) {
             <Badge
               variant={rankMovement <= 0 ? 'secondary' : 'muted'}
               className={`self-start text-xs font-semibold ${
-                rankMovement < 0 ? 'text-emerald-300' : rankMovement > 0 ? 'text-rose-300' : 'text-white/70'
+                rankMovement > 0 ? 'text-emerald-300' : rankMovement < 0 ? 'text-rose-300' : 'text-white/70'
               }`}
             >
               {formatDelta(-rankMovement)} Δ
@@ -164,15 +164,12 @@ function ArtistCard({ artist }: { artist: Artist }) {
 }
 
 export default function Home() {
-  const router = useRouter()
   const [artists, setArtists] = useState<Artist[]>([])
   const [loading, setLoading] = useState(true)
   const [searchTerm, setSearchTerm] = useState('')
   const [view, setView] = useState<ViewKey>('rank')
   const [visibleCount, setVisibleCount] = useState(24)
   const [lastUpdated, setLastUpdated] = useState<string | null>(null)
-  const [commandOpen, setCommandOpen] = useState(false)
-  const [commandValue, setCommandValue] = useState('')
 
   useEffect(() => {
     const fetchArtists = async () => {
@@ -212,22 +209,6 @@ export default function Home() {
     fetchArtists()
   }, [])
 
-  useEffect(() => {
-    setVisibleCount(24)
-  }, [view, searchTerm])
-
-  useEffect(() => {
-    const handleKeyDown = (event: KeyboardEvent) => {
-      if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === 'k') {
-        event.preventDefault()
-        setCommandOpen((previous) => !previous)
-      }
-    }
-
-    window.addEventListener('keydown', handleKeyDown)
-    return () => window.removeEventListener('keydown', handleKeyDown)
-  }, [])
-
   const filteredArtists = useMemo(() => {
     if (!searchTerm) return artists
     return artists.filter((artist) => artist.n.toLowerCase().includes(searchTerm.toLowerCase()))
@@ -236,6 +217,8 @@ export default function Home() {
   const orderedArtists = useMemo(() => {
     const base = [...filteredArtists]
     switch (view) {
+      case 'delta':
+        return base.sort((a, b) => (b.dr ?? 0) - (a.dr ?? 0))
       case 'momentum':
         return base.sort((a, b) => b.ms - a.ms)
       case 'growth':
@@ -249,17 +232,6 @@ export default function Home() {
         return base.sort((a, b) => a.r - b.r)
     }
   }, [filteredArtists, view])
-
-  const trimmedCommandValue = commandValue.trim()
-
-  const commandMatches = useMemo(() => {
-    if (!artists.length) return []
-    const query = trimmedCommandValue.toLowerCase()
-    const base = query
-      ? artists.filter((artist) => artist.n.toLowerCase().includes(query))
-      : artists
-    return base.slice(0, 8)
-  }, [artists, trimmedCommandValue])
 
   const spotlight = useMemo(() => orderedArtists[0], [orderedArtists])
 
@@ -280,31 +252,6 @@ export default function Home() {
 
     return { totalMonthlyListeners, avgMomentum, topGrowth, freshCount }
   }, [artists])
-
-  const hasSearchFilter = useMemo(() => searchTerm.trim().length > 0, [searchTerm])
-
-  const handleOpenCommand = () => {
-    setCommandValue(searchTerm)
-    setCommandOpen(true)
-  }
-
-  const handleApplyFilterFromCommand = () => {
-    if (!trimmedCommandValue) return
-    setSearchTerm(trimmedCommandValue)
-    setVisibleCount(24)
-    setCommandOpen(false)
-  }
-
-  const handleClearFilter = () => {
-    setSearchTerm('')
-    setVisibleCount(24)
-  }
-
-  const handleNavigateToArtist = (artistId: string) => {
-    setCommandOpen(false)
-    setCommandValue('')
-    router.push(`/artist/${artistId}`)
-  }
 
   if (loading) {
     return (
@@ -330,14 +277,14 @@ export default function Home() {
           <div className="space-y-3">
             <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-1 text-xs uppercase tracking-widest text-white/60">
               <Disc3 className="h-3.5 w-3.5 text-emerald-300" />
-              Live Spotify Pulse
+              Top Artists Live Pulse
             </div>
             <h1 className="text-4xl font-semibold tracking-tight text-white sm:text-5xl">
-              Global Artist Observatory
+              World&apos;s Top Artists
             </h1>
             <p className="max-w-2xl text-sm text-white/60 sm:text-base">
-              A modern dashboard for Spotify’s top 500 artists. Search, filter, and track momentum with
-              second-by-second datasets from our scraping agents.
+              Real-time analytics and insights dashboard on the top 500 artists globally. Track
+              listener growth, momentum, and breakout stars as they emerge.
             </p>
           </div>
           <div className="flex w-full flex-col gap-4 md:w-[18rem]">
@@ -467,7 +414,7 @@ export default function Home() {
                   {spotlight.st} day streak in the global 500
                 </div>
                 <Button asChild variant="secondary" className="rounded-full border-white/10 bg-white/10 text-white hover:bg-white/20">
-                  <Link href={`/artist/${spotlight.i}`}>Open artist dashboard</Link>
+                  <Link href={`/artist?id=${spotlight.i}`}>Open artist dashboard</Link>
                 </Button>
               </div>
             </div>
