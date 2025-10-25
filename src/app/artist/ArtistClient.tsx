@@ -465,25 +465,26 @@ export default function ArtistPage() {
                         <div
                             className="relative z-10 flex flex-col gap-8 px-6 py-10 md:flex-row md:items-center md:justify-between md:px-10">
                             <div className="flex flex-1 flex-col gap-6 md:flex-row md:items-center">
-                                <div className="relative shrink-0">
+                                <div className="relative shrink-0 pb-12 md:pb-0">
                                     <div
                                         className="absolute -left-6 -top-6 h-24 w-24 rounded-full bg-emerald-500/30 blur-3xl"/>
                                     <img
                                         src={heroImage}
                                         alt={artist.n}
-                                        className="relative h-32 w-32 rounded-3xl border border-white/20 object-cover shadow-2xl shadow-black/60 md:h-40 md:w-40"
+                                        className="relative mx-auto h-60 w-60 rounded-3xl border border-white/20 object-cover shadow-2xl shadow-black/60 md:mx-0 md:h-40 md:w-40"
                                         onError={(event) => {
                                             event.currentTarget.src = '/placeholder-artist.svg'
                                         }}
                                     />
                                     {artist.today.r && (
                                         <Badge
-                                            className="absolute -bottom-3 left-1/2 -translate-x-1/2 rounded-full border-none bg-emerald-400/90 px-4 py-1 text-xs font-semibold uppercase tracking-widest text-emerald-950 shadow-lg shadow-emerald-500/30">
+                                            className="absolute bottom-9 left-1/2 -translate-x-1/2 rounded-full md:-bottom-3  border-none bg-emerald-400/90 px-4 py-1 text-xs font-semibold uppercase tracking-widest text-emerald-950 shadow-lg shadow-emerald-500/30"
+                                        >
                                             #{artist.today.r}
                                         </Badge>
                                     )}
                                 </div>
-                                <div className="space-y-4">
+                                <div className="space-y-4 md:mt-0">
                                     <div
                                         className="inline-flex items-center gap-3 rounded-full border border-white/10 bg-white/5 px-4 py-1 text-xs uppercase tracking-[0.4em] text-white/60">
                                         <Compass className="h-3.5 w-3.5 text-emerald-300"/>
@@ -654,8 +655,8 @@ export default function ArtistPage() {
                                     </CardDescription>
                                 </CardHeader>
                                 <CardContent>
-                                    <ScrollArea className="h-[520px] pr-3 md:px-2">
-                                        <div className="flex flex-col gap-3 pb-1 mr-2">
+                                    <ScrollArea className="h-[65vh] pr-3 md:h-[520px] md:px-2">
+                                        <div className="mr-0 flex flex-col gap-3 pb-1 sm:mr-2">
                                             {topTracks.map((track, index) => {
                                                 const isActive = currentTrackId === track.id && isPlaying
 
@@ -663,9 +664,10 @@ export default function ArtistPage() {
                                                     <div
                                                         key={track.id}
                                                         className={[
-                                                            "group relative grid grid-cols-[auto,1fr,auto] items-center",
+                                                            "group relative grid grid-cols-1 items-start",
+                                                            "sm:grid-cols-[auto,1fr] lg:grid-cols-[auto,1fr,auto]",
                                                             "gap-5 rounded-3xl border border-white/10 bg-white/[0.04]",
-                                                            "p-4 md:p-5 transition-all duration-200",
+                                                            "p-4 sm:p-5 transition-all duration-200",
                                                             "hover:border-emerald-400/40 hover:bg-emerald-400/[0.06] hover:shadow-lg hover:shadow-emerald-500/5",
                                                         ].join(" ")}
                                                     >
@@ -688,7 +690,7 @@ export default function ArtistPage() {
 
                                                         {/* cover + overlay play state */}
                                                         <div
-                                                            className="relative h-18 w-18 md:h-20 md:w-20 overflow-hidden rounded-2xl border border-white/10">
+                                                            className="relative h-18 w-18 justify-self-center overflow-hidden rounded-2xl border border-white/10 sm:h-20 sm:w-20 sm:justify-self-start">
                                                             <img
                                                                 src={track.image ? `https://i.scdn.co/image/${track.image}` : "/placeholder-artist.svg"}
                                                                 alt={track.name}
@@ -720,9 +722,9 @@ export default function ArtistPage() {
                                                         </div>
 
                                                         {/* middle column */}
-                                                        <div className="min-w-0">
+                                                        <div className="min-w-0 space-y-3 sm:space-y-2">
                                                             <div
-                                                                className="flex flex-wrap items-baseline justify-between gap-2">
+                                                                className="flex flex-col gap-2 sm:flex-row sm:flex-wrap sm:items-start sm:justify-between">
                                                                 <div className="min-w-0 flex-1">
                                                                     <div className="flex items-center gap-2">
                                                                         <h3 className="text-base font-semibold text-white hover:underline cursor-pointer hover:underline-offset-4 line-clamp-2">
@@ -742,7 +744,7 @@ export default function ArtistPage() {
                                                                 </div>
 
                                                                 <div
-                                                                    className="shrink-0 text-right text-xs text-white/60">
+                                                                    className="shrink-0 text-left text-xs text-white/60 sm:text-right">
                                                                     <p className="font-semibold text-white/80">
                                                                         {formatNumber(track.playcount)} plays
                                                                     </p>
@@ -750,31 +752,31 @@ export default function ArtistPage() {
                                                                 </div>
                                                             </div>
 
-                                                        <div
-                                                            className="mt-2 flex flex-wrap items-center gap-2 text-[11px] uppercase tracking-wide text-white/40">
-                                                            {track.isrc && (
-                                                                <span
-                                                                    className="rounded-full border border-white/10 bg-white/5 px-3 py-1">
+                                                            <div
+                                                                className="flex flex-wrap items-center gap-2 text-[11px] uppercase tracking-wide text-white/40">
+                                                                {track.isrc && (
+                                                                    <span
+                                                                        className="rounded-full border border-white/10 bg-white/5 px-3 py-1">
                 {track.isrc}
               </span>
-                                                            )}
-                                                            {track.licensor && (
-                                                                <span
-                                                                    className="rounded-full border border-white/10 bg-white/5 px-3 py-1">
+                                                                )}
+                                                                {track.licensor && (
+                                                                    <span
+                                                                        className="rounded-full border border-white/10 bg-white/5 px-3 py-1">
                 {track.licensor}
               </span>
-                                                            )}
+                                                                )}
+                                                            </div>
                                                         </div>
-                                                    </div>
 
                                                 {/* right actions */
                                                 }
                                                 <div
-                                                    className="flex shrink-0 flex-col gap-2 sm:flex-row sm:items-center">
+                                                    className="flex w-full shrink-0 flex-col gap-2 sm:col-span-2 sm:flex-row sm:items-center sm:justify-end lg:col-span-1 lg:w-auto">
                                                     <Button
                                                         variant="secondary"
                                                         size="icon"
-                                                        className="rounded-full border-white/10 bg-white/10 text-white hover:bg-white/20"
+                                                        className="self-start rounded-full border-white/10 bg-white/10 text-white hover:bg-white/20 sm:self-auto"
                                                         onClick={() => handleToggleTrack(track)}
                                                         disabled={!track.preview}
                                                         aria-label={isActive ? "Pause" : "Play"}
