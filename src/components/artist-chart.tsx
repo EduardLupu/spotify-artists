@@ -41,20 +41,20 @@ const thousandNumberFormatter = new Intl.NumberFormat("en-US", {
 
 const audienceChartConfig = {
     monthlyListeners: {
-        label: "Monthly Listeners",
+        label: "Listeners",
         color: "#1DB954",
     },
     followers: {
         label: "Followers",
-        color: "#a3a3a3",
+        color: "#b91d82",
     },
     newMonthlyListeners: {
-        label: "New Monthly Listeners",
+        label: "New Listeners",
         color: "#1DB954",
     },
     newFollowers: {
         label: "New Followers",
-        color: "#a3a3a3",
+        color: "#b91d82",
     },
 } satisfies ChartConfig
 
@@ -407,16 +407,16 @@ export function ArtistChart({seriesData, artistName}: ArtistChartProps) {
                                             <stop offset="95%" stopColor="#1DB954" stopOpacity={0}/>
                                         </linearGradient>
                                         <linearGradient id="fillFollowers" x1="0" y1="0" x2="0" y2="1">
-                                            <stop offset="5%" stopColor="#a3a3a3" stopOpacity={0.3}/>
-                                            <stop offset="95%" stopColor="#a3a3a3" stopOpacity={0}/>
+                                            <stop offset="5%" stopColor="#b91d82" stopOpacity={0.3}/>
+                                            <stop offset="95%" stopColor="#b91d82" stopOpacity={0}/>
                                         </linearGradient>
                                         <linearGradient id="fillNewMonthlyListeners" x1="0" y1="0" x2="0" y2="1">
                                             <stop offset="5%" stopColor="#1DB954" stopOpacity={0.3}/>
                                             <stop offset="95%" stopColor="#1DB954" stopOpacity={0}/>
                                         </linearGradient>
                                         <linearGradient id="fillNewFollowers" x1="0" y1="0" x2="0" y2="1">
-                                            <stop offset="5%" stopColor="#a3a3a3" stopOpacity={0.3}/>
-                                            <stop offset="95%" stopColor="#a3a3a3" stopOpacity={0}/>
+                                            <stop offset="5%" stopColor="#b91d82" stopOpacity={0.3}/>
+                                            <stop offset="95%" stopColor="#b91d82" stopOpacity={0}/>
                                         </linearGradient>
                                     </defs>
                                     <CartesianGrid vertical={false} strokeDasharray="3 3" stroke="hsl(var(--border))"
@@ -468,10 +468,10 @@ export function ArtistChart({seriesData, artistName}: ArtistChartProps) {
                                             name={showUnique ? audienceChartConfig.newFollowers.label : audienceChartConfig.followers.label}
                                             type="natural"
                                             fill="url(#fillFollowers)"
-                                            stroke="#a3a3a3"
+                                            stroke="#b91d82"
                                             strokeWidth={2}
                                             dot={false}
-                                            activeDot={{r: 4, fill: "#a3a3a3", strokeWidth: 0}}
+                                            activeDot={{r: 4, fill: "#b91d82", strokeWidth: 0}}
                                         />
                                     )}
                                 </AreaChart>
@@ -511,7 +511,6 @@ export function ArtistChart({seriesData, artistName}: ArtistChartProps) {
                                     tickMargin={8}
                                     allowDecimals={false}
                                     reversed={!showUnique}
-                                    domain={['dataMin - 50', 'dataMax + 50']}
                                     tickFormatter={(value) => `#${thousandNumberFormatter.format(Math.round(Number(value)))}`}
                                     tick={{fill: "hsl(var(--muted-foreground))", fontSize: 11}}
                                 />
@@ -524,7 +523,8 @@ export function ArtistChart({seriesData, artistName}: ArtistChartProps) {
                                     content={
                                         <ChartTooltipContent
                                             labelFormatter={(value) => formatShortDate(value as string)}
-                                            indicator="dot"/>
+                                            indicator="dot"
+                                        />
                                     }
                                 />
                                 {!showUnique && (

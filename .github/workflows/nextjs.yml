@@ -7,6 +7,10 @@ name: Deploy Next.js site to Pages
 on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+  workflow_run:
+    workflows: [ "Get Artists Data" ]
+    types:
+      - completed
   push:
     branches:
       - main
