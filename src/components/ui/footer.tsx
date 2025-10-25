@@ -50,7 +50,7 @@ export default function Footer({
           className="border-t border-[var(--surface-border)] bg-black/40 backdrop-blur-sm"
           role="contentinfo"
       >
-        <div className="mx-auto w-full max-w-6xl py-6">
+        <div className="mx-auto w-full max-w-6xl py-6 px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col items-start gap-4 sm:flex-row sm:items-center sm:justify-between">
             {/* Left: brand + since */}
             <div className="flex items-center gap-3 text-sm text-zinc-200">
