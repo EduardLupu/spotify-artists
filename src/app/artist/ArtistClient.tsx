@@ -77,6 +77,7 @@ interface ArtistDetail {
         fields: string[]
         rows: any[][]
     }
+    bio: string
 }
 
 interface CityDirectoryEntry {
@@ -489,9 +490,8 @@ export default function ArtistPage() {
                                         Artist profile
                                     </div>
                                     <h1 className="text-4xl font-semibold leading-tight sm:text-5xl">{artist.n}</h1>
-                                    <p className="max-w-xl text-sm text-white/70">
-                                        Real-time analytics aggregated from Spotify. Momentum combines streak health,
-                                        growth velocity, and catalogue freshness.
+                                    <p className="max-w-xl text-xs text-white/70">
+                                        {artist.bio}
                                     </p>
                                     <div
                                         className="flex flex-wrap gap-3 text-xs uppercase tracking-widest text-white/60">

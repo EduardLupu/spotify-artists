@@ -6,6 +6,7 @@ import random
 import re
 import statistics
 import unicodedata
+from html import unescape
 from collections import deque
 from dataclasses import dataclass, field
 from datetime import date, datetime, timedelta, timezone
@@ -57,6 +58,8 @@ KWORB_LISTENER_URLS = ["https://kworb.net/spotify/listeners.html"] + [
 KWORB_ARTIST_HREF_RE = re.compile(r"artist/([A-Za-z0-9]+)_songs\.html")
 CANVAS_ENDPOINT = "https://spclient.wg.spotify.com/canvaz-cache/v0/canvases"
 CANVAS_BATCH_SIZE = 25
+BIOGRAPHY_TAG_RE = re.compile(r"<[^>]+>")
+BIOGRAPHY_SENTENCE_SPLIT_RE = re.compile(r"(?<=[.!?])\s+")
 
 CITY_PREFIX_STRIPPERS = (
     "city of ",
@@ -224,6 +227,7 @@ class ArtistOverview:
     monthly_listeners: Optional[int]
     followers: Optional[int]
     world_rank: Optional[int]
+    biography: Optional[str] = None
     top_tracks: List[TrackInfo] = field(default_factory=list)
     top_cities: List[CityStat] = field(default_factory=list)
     gallery_images: List[str] = field(default_factory=list)
@@ -478,6 +482,34 @@ def _extract_image_id(url: Optional[str]) -> Optional[str]:
     identifier = PurePosixPath(path).name or path.rsplit("/", 1)[-1]
     identifier = identifier.strip()
     return identifier or None
+
+
+def _extract_biography_text(profile: Dict[str, Any]) -> Optional[str]:
+    if not isinstance(profile, dict):
+        return None
+    biography_section = profile.get("biography")
+    if not isinstance(biography_section, dict):
+        return None
+    raw_text = biography_section.get("text")
+    if not isinstance(raw_text, str):
+        return None
+    stripped = BIOGRAPHY_TAG_RE.sub(" ", raw_text)
+    unescaped = unescape(stripped)
+    normalized = " ".join(unescaped.split())
+    if not normalized:
+        return None
+    sentences = BIOGRAPHY_SENTENCE_SPLIT_RE.split(normalized)
+    collected: List[str] = []
+    for sentence in sentences:
+        trimmed = sentence.strip()
+        if not trimmed:
+            continue
+        collected.append(trimmed)
+        if len(collected) >= 2:
+            break
+    if not collected:
+        return None
+    return " ".join(collected)
 
 
 def parse_date(value: Optional[str]) -> Optional[date]:
@@ -1184,6 +1216,14 @@ class ArtistDataStore:
             },
         }
 
+        biography_value = overview.biography
+        if (not biography_value) and existing_detail:
+            existing_bio = existing_detail.get("bio")
+            if isinstance(existing_bio, str) and existing_bio.strip():
+                biography_value = existing_bio.strip()
+        if biography_value:
+            detail_payload["bio"] = biography_value
+
         if overview.gallery_images:
             detail_payload["gallery"] = overview.gallery_images
 
@@ -1586,6 +1626,7 @@ def parse_artist_payload(artist_id: str, payload: Dict[str, Any]) -> ArtistOverv
     if isinstance(world_rank, int) and world_rank <= 0:
         world_rank = None
 
+    biography = _extract_biography_text(profile)
     top_tracks = _parse_top_tracks(discography.get("topTracks", {}).get("items", []))
     gallery_images = _parse_gallery_images(visuals)
     top_cities = _parse_top_cities(stats.get("topCities", {}).get("items", []))
@@ -1605,6 +1646,7 @@ def parse_artist_payload(artist_id: str, payload: Dict[str, Any]) -> ArtistOverv
         monthly_listeners=monthly_listeners,
         followers=followers,
         world_rank=world_rank,
+        biography=biography,
         top_tracks=top_tracks,
         top_cities=top_cities,
         gallery_images=gallery_images,
