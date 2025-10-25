@@ -437,9 +437,9 @@ export function WorldAtlas() {
             No city data available. Run the world map aggregation to populate this view.
           </div>
         ) : (
-          <div className="flex flex-col gap-6 lg:grid lg:grid-cols-[minmax(0,440px)_minmax(0,1.35fr)_minmax(0,340px)] lg:gap-8 xl:grid-cols-[minmax(0,460px)_minmax(0,1.4fr)_minmax(0,380px)] 2xl:grid-cols-[minmax(0,480px)_minmax(0,1.5fr)_minmax(0,420px)]">
-            <div className="order-2 flex flex-col gap-6 lg:order-1">
-              <div className="rounded-3xl border border-white/10 bg-white/5 p-6 text-sm text-white/70 shadow-lg shadow-emerald-500/10 backdrop-blur">
+          <div className="flex flex-col gap-6 lg:grid lg:grid-cols-[minmax(0,440px)_minmax(0,1.35fr)_minmax(0,340px)] lg:items-stretch lg:gap-8 xl:grid-cols-[minmax(0,460px)_minmax(0,1.4fr)_minmax(0,380px)] 2xl:grid-cols-[minmax(0,480px)_minmax(0,1.5fr)_minmax(0,420px)]">
+            <div className="order-2 flex flex-col gap-6 lg:order-1 lg:h-full">
+              <div className="flex h-full flex-col rounded-3xl border border-white/10 bg-white/5 p-6 text-sm text-white/70 shadow-lg shadow-emerald-500/10 backdrop-blur">
                 <div className="flex items-center justify-between gap-4">
                   <span className="inline-flex items-center gap-2 text-[11px] uppercase tracking-[0.35em] text-white/55">
                     <Sparkles className="h-3.5 w-3.5 text-emerald-300" />
@@ -460,9 +460,9 @@ export function WorldAtlas() {
                         {currentCity.city.countryName ?? currentCity.city.cc}
                       </p>
                     </div>
-                    <div className="rounded-2xl border border-white/10 bg-black/50 p-4 shadow-inner shadow-black/40">
+                    <div className="flex flex-col rounded-2xl border border-white/10 bg-black/50 p-4 shadow-inner shadow-black/40">
                       <p className="text-[11px] uppercase tracking-[0.35em] text-white/50">Artist breakdown</p>
-                      <ScrollArea className="mt-4 h-[240px] pr-2 sm:h-[260px] lg:h-[300px]">
+                      <ScrollArea className="mt-4 h-[240px] pr-2 sm:h-[260px] lg:h-[320px] xl:h-[360px] 2xl:h-[600px]">
                         <div className="divide-y divide-white/5">
                           {currentCity.artists.map((artist, index) => (
                             <div
@@ -470,10 +470,7 @@ export function WorldAtlas() {
                               className="flex items-center justify-between gap-3 py-3 first:pt-0 last:pb-0"
                             >
                               <div className="flex flex-1 items-center gap-3">
-                                <span className="flex h-6 w-6 items-center justify-center rounded-full bg-white/10 text-[11px] font-medium text-white/70">
-                                  {index + 1}
-                                </span>
-                                <Avatar className="h-9 w-9 border border-white/10 bg-black/40">
+                                <Avatar className="h-12 w-12 border rounded-2xl border-white/10 bg-black/40">
                                   <AvatarImage
                                     src={artist.imageUrl ?? undefined}
                                     alt={artist.name}
@@ -511,10 +508,10 @@ export function WorldAtlas() {
               </div>
             </div>
 
-            <div className="order-1 lg:order-2">
+            <div className="order-1 lg:order-2 lg:h-full">
               <div
                 className={cn(
-                  'relative overflow-hidden rounded-3xl border border-white/10 bg-black/30 shadow-xl shadow-emerald-500/10',
+                  'relative h-full overflow-hidden rounded-3xl border border-white/10 bg-black/30 shadow-xl shadow-emerald-500/10',
                   mapHeightClass,
                 )}
               >
@@ -666,8 +663,8 @@ export function WorldAtlas() {
               </div>
             </div>
 
-            <div className="order-3 lg:order-3">
-              <div className="rounded-3xl border border-white/10 bg-black/40 p-4 text-sm text-white/70 shadow-lg shadow-black/30 backdrop-blur">
+            <div className="order-3 lg:order-3 lg:h-full">
+              <div className={cn('flex h-full flex-col rounded-3xl border border-white/10 bg-black/40 p-4 text-sm text-white/70 shadow-lg shadow-black/30 backdrop-blur', mapHeightClass)}>
                 <div className="mb-4 flex items-center justify-between text-[11px] uppercase tracking-[0.35em] text-white/45">
                   <span>All cities</span>
                   <span className="inline-flex items-center gap-2">
@@ -675,7 +672,7 @@ export function WorldAtlas() {
                     Ranked
                   </span>
                 </div>
-                <ScrollArea className="h-[320px] pr-3 sm:h-[420px] lg:h-[620px] xl:h-[660px] 2xl:h-[720px]">
+                <ScrollArea className="flex-1 pr-3">
                   <div className="space-y-2 pr-1">
                     {enrichedDataset.map((entry) => {
                       const isActive = currentCity?.city.cid === entry.city.cid
