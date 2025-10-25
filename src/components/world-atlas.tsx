@@ -352,10 +352,10 @@ export function WorldAtlas() {
   const isTablet = viewportWidth !== null && viewportWidth >= 768 && viewportWidth < 1280
 
   const mapDefaults = useMemo(() => {
-    const zoom = isMobile ? 1.45 : isTablet ? 1.18 : 1
+    const zoom = isMobile ? 1.6 : isTablet ? 1.28 : 1.12
     const center: [number, number] = isMobile ? [12, 20] : isTablet ? [10, 18] : [15, 15]
-    const minZoom = isMobile ? 1 : 0.75
-    const maxZoom = isMobile ? 8 : 6
+    const minZoom = isMobile ? 0.9 : 0.7
+    const maxZoom = isMobile ? 10 : 14
     const heightClass = viewportWidth === null ? 'h-[640px]' : isMobile ? 'h-[520px]' : isTablet ? 'h-[720px]' : 'h-[840px]'
     return {
       zoom,
@@ -379,9 +379,18 @@ export function WorldAtlas() {
   const mapMinZoom = mapDefaults.minZoom
   const mapMaxZoom = mapDefaults.maxZoom
 
-  const adjustZoom = (delta: number) => {
+  const zoomIn = () => {
     setMapView((current) => {
-      const nextZoom = Math.min(mapMaxZoom, Math.max(mapMinZoom, current.zoom + delta))
+      const step = current.zoom >= mapMaxZoom - 1.5 ? 1.4 : current.zoom >= 6 ? 1 : current.zoom >= 3 ? 0.7 : 0.5
+      const nextZoom = Math.min(mapMaxZoom, current.zoom + step)
+      return { ...current, zoom: Number(nextZoom.toFixed(2)) }
+    })
+  }
+
+  const zoomOut = () => {
+    setMapView((current) => {
+      const step = current.zoom >= 7 ? 1.2 : current.zoom >= 4 ? 0.9 : current.zoom >= 2 ? 0.6 : 0.45
+      const nextZoom = Math.max(mapMinZoom, current.zoom - step)
       return { ...current, zoom: Number(nextZoom.toFixed(2)) }
     })
   }
@@ -521,7 +530,7 @@ export function WorldAtlas() {
                     size="icon"
                     variant="secondary"
                     className="h-10 w-10 rounded-full border border-white/10 bg-black/60 text-white hover:bg-emerald-400/20"
-                    onClick={() => adjustZoom(mapView.zoom >= 4 ? 0.8 : 0.45)}
+                    onClick={zoomIn}
                     disabled={!canZoomIn}
                   >
                     <Plus className="h-4 w-4" />
@@ -531,7 +540,7 @@ export function WorldAtlas() {
                     size="icon"
                     variant="secondary"
                     className="h-10 w-10 rounded-full border border-white/10 bg-black/60 text-white hover:bg-emerald-400/20"
-                    onClick={() => adjustZoom(mapView.zoom >= 4 ? -0.8 : -0.45)}
+                    onClick={zoomOut}
                     disabled={!canZoomOut}
                   >
                     <Minus className="h-4 w-4" />
@@ -554,7 +563,7 @@ export function WorldAtlas() {
                 <div className="relative z-10 h-full w-full">
                   <TooltipProvider>
                     <ComposableMap
-                      projectionConfig={{ scale: isMobile ? 240 : isTablet ? 230 : 220 }}
+                      projectionConfig={{ scale: isMobile ? 250 : isTablet ? 240 : 230 }}
                       width={1440}
                       height={760}
                       style={{ width: '100%', height: '100%' }}

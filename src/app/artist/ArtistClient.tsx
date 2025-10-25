@@ -1,12 +1,13 @@
 'use client'
 
-import {useEffect, useMemo, useRef, useState} from 'react'
+import {useCallback, useEffect, useMemo, useRef, useState} from 'react'
 import Link from 'next/link'
 import {useSearchParams} from 'next/navigation'
 
 import {
     Activity,
     ArrowLeft,
+    ArrowRight,
     ArrowUpRight,
     Clock,
     Compass,
@@ -20,6 +21,7 @@ import {
     Sparkles,
     TrendingUp,
     Users,
+    X,
 } from 'lucide-react'
 
 import {ArtistChart} from '@/components/artist-chart'
@@ -28,7 +30,7 @@ import {Badge} from '@/components/ui/badge'
 import {Button} from '@/components/ui/button'
 import {Card, CardContent, CardDescription, CardHeader, CardTitle} from '@/components/ui/card'
 import {ScrollArea} from '@/components/ui/scroll-area'
-import {Separator} from '@/components/ui/separator'
+import {cn} from '@/lib/utils'
 
 type SeriesPayload = {
     fields: string[]
@@ -137,6 +139,7 @@ export default function ArtistPage() {
     const [appleMetadata, setAppleMetadata] = useState<{ genre?: string; url?: string } | null>(null)
     const [currentTrackId, setCurrentTrackId] = useState<string | null>(null)
     const [isPlaying, setIsPlaying] = useState(false)
+    const [activePhoto, setActivePhoto] = useState<{ url: string; index: number } | null>(null)
     const audioRef = useRef<HTMLAudioElement | null>(null)
 
     useEffect(() => {
@@ -272,6 +275,81 @@ export default function ArtistPage() {
             id.startsWith('http') ? id : `https://i.scdn.co/image/${id}`
         )
     }, [artist])
+
+    const galleryLayout = useMemo(
+        () =>
+            galleryImages.map((url, index) => ({
+                url,
+                span:
+                    index === 0
+                        ? 'sm:col-span-2 sm:row-span-2 lg:col-span-2 lg:row-span-2'
+                        : index === 3
+                        ? 'lg:row-span-2'
+                        : '',
+            })),
+        [galleryImages]
+    )
+
+    useEffect(() => {
+        if (!activePhoto) return
+        const handleKey = (event: KeyboardEvent) => {
+            if (event.key === 'Escape') {
+                setActivePhoto(null)
+            } else if (event.key === 'ArrowRight') {
+                setActivePhoto((current) => {
+                    if (!current) return current
+                    const nextIndex = Math.min(current.index + 1, galleryLayout.length - 1)
+                    return galleryLayout[nextIndex]
+                        ? { url: galleryLayout[nextIndex].url, index: nextIndex }
+                        : current
+                })
+            } else if (event.key === 'ArrowLeft') {
+                setActivePhoto((current) => {
+                    if (!current) return current
+                    const nextIndex = Math.max(current.index - 1, 0)
+                    return galleryLayout[nextIndex]
+                        ? { url: galleryLayout[nextIndex].url, index: nextIndex }
+                        : current
+                })
+            }
+        }
+
+        document.addEventListener('keydown', handleKey)
+        const { style } = document.body
+        const previousOverflow = style.overflow
+        style.overflow = 'hidden'
+
+        return () => {
+            document.removeEventListener('keydown', handleKey)
+            style.overflow = previousOverflow
+        }
+    }, [activePhoto, galleryLayout])
+
+    const openPhoto = useCallback(
+        (index: number) => {
+            const target = galleryLayout[index]
+            if (target) {
+                setActivePhoto({ url: target.url, index })
+            }
+        },
+        [galleryLayout]
+    )
+
+    const navigatePhoto = useCallback(
+        (direction: -1 | 1) => {
+            setActivePhoto((current) => {
+                if (!current) return current
+                const nextIndex = Math.min(
+                    galleryLayout.length - 1,
+                    Math.max(0, current.index + direction)
+                )
+                return galleryLayout[nextIndex]
+                    ? { url: galleryLayout[nextIndex].url, index: nextIndex }
+                    : current
+            })
+        },
+        [galleryLayout]
+    )
 
     const heroImage =
         galleryImages[0] ??
@@ -422,10 +500,8 @@ export default function ArtistPage() {
                             <div
                                 className="flex items-center gap-2 rounded-full border border-emerald-400/20 bg-emerald-400/10 px-3 py-1 text-emerald-200">
                                 <Disc3 className="h-3.5 w-3.5"/>
-                                Live dataset
+                                Live data as of {formatDate(artist.today.d)}
                             </div>
-                            <Separator orientation="vertical" className="h-5 border-white/10"/>
-                            <span>{formatDate(artist.today.d)}</span>
                         </div>
                     </div>
                 </header>
@@ -833,36 +909,129 @@ export default function ArtistPage() {
                         </section>
                     )}
 
-                    {galleryImages.length > 0 && (
-                        <section className="mt-10">
-                            <div className="flex items-center justify-between gap-2">
-                                <h2 className="text-lg font-semibold text-white">Photo preview</h2>
-                                <span className="text-xs uppercase tracking-widest text-white/50">
-                  {galleryImages.length} assets
-                </span>
+                    {galleryLayout.length > 0 && (
+                        <section className="mt-12">
+                            <div className="flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
+                                <div className="space-y-1">
+                                    <p className="text-[11px] uppercase tracking-[0.4em] text-white/45">
+                                        Visual archive
+                                    </p>
+                                    <h2 className="text-2xl font-semibold text-white sm:text-3xl">
+                                        Gallery
+                                    </h2>
+                                </div>
+                                <span className="text-xs uppercase tracking-[0.35em] text-white/50">
+                                    {galleryLayout.length} curated stills
+                                </span>
                             </div>
-                            <ScrollArea orientation="horizontal" className="mt-4 w-full">
-                                <div className="flex w-max gap-4 pb-3 pr-4">
-                                    {galleryImages.map((url, index) => (
-                                        <div
+
+                            <div className="relative mt-6 overflow-hidden rounded-[2.4rem] border border-white/10 bg-white/5 px-4 py-6 shadow-2xl shadow-emerald-500/10 sm:px-6 lg:px-10">
+                                <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top,_rgba(16,185,129,0.22),_transparent_60%)]" />
+                                <div className="pointer-events-none absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-black/60 via-black/40 to-transparent" />
+
+                                <div className="relative z-10 grid auto-rows-[160px] gap-4 sm:auto-rows-[210px] sm:grid-cols-2 lg:auto-rows-[240px] lg:grid-cols-4">
+                                    {galleryLayout.map(({url, span}, index) => (
+                                        <figure
                                             key={`${url}-${index}`}
-                                            className="group relative h-36 w-[10.5rem] overflow-hidden rounded-2xl border border-white/10 bg-black/40 shadow-lg transition-transform duration-300 hover:-translate-y-1 hover:border-emerald-400/40 sm:h-44 sm:w-[13rem]"
+                                            role="button"
+                                            tabIndex={0}
+                                            aria-label={`Open photo ${index + 1} of ${artist?.n ?? 'artist'}`}
+                                            onClick={() => openPhoto(index)}
+                                            onKeyDown={(event) => {
+                                                if (event.key === 'Enter' || event.key === ' ') {
+                                                    event.preventDefault()
+                                                    openPhoto(index)
+                                                }
+                                            }}
+                                            className={cn(
+                                                'group relative cursor-zoom-in overflow-hidden rounded-3xl border border-white/10 bg-black/40 shadow-lg transition-all duration-500 hover:-translate-y-1 hover:border-emerald-400/40 hover:shadow-emerald-500/20 focus:outline-none focus:ring-2 focus:ring-emerald-400/70 focus:ring-offset-2 focus:ring-offset-black',
+                                                span
+                                            )}
                                         >
                                             <img
                                                 src={url}
-                                                alt={`${artist.n} preview ${index + 1}`}
-                                                className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
+                                                alt={`${artist?.n ?? 'Artist'} gallery ${index + 1}`}
+                                                loading="lazy"
+                                                className="h-full w-full object-cover transition-transform duration-[1800ms] ease-out group-hover:scale-105"
                                                 onError={(event) => {
                                                     event.currentTarget.style.display = 'none'
                                                 }}
                                             />
-                                            <div
-                                                className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black via-transparent to-black/40 opacity-60"/>
-                                        </div>
+                                            <figcaption className="pointer-events-none absolute inset-x-3 bottom-3 flex items-center justify-between rounded-full bg-black/60 px-3 py-1 text-[10px] uppercase tracking-[0.4em] text-white/60 backdrop-blur">
+                                                <span>{artist?.n ?? 'Artist'}</span>
+                                                <span>{index + 1}</span>
+                                            </figcaption>
+                                        </figure>
                                     ))}
                                 </div>
-                            </ScrollArea>
+                            </div>
                         </section>
+                    )}
+
+                    {activePhoto && (
+                        <div className="fixed inset-0 z-[60] flex flex-col items-center justify-center gap-6 overflow-y-auto bg-black/80 px-4 py-8 backdrop-blur-lg sm:flex-row sm:gap-10 sm:px-8">
+                            <button
+                                type="button"
+                                aria-label="Close full-screen photo"
+                                className="absolute right-6 top-6 inline-flex h-11 w-11 items-center justify-center rounded-full border border-white/10 bg-black/60 text-white/90 transition-colors hover:bg-white/10"
+                                onClick={() => setActivePhoto(null)}
+                            >
+                                <X className="h-5 w-5" />
+                            </button>
+                            {activePhoto.index > 0 && (
+                                <button
+                                    type="button"
+                                    aria-label="Previous photo"
+                                    className="absolute left-4 top-1/2 hidden -translate-y-1/2 rounded-full border border-white/10 bg-black/60 p-3 text-white transition hover:bg-white/10 sm:inline-flex"
+                                    onClick={() => navigatePhoto(-1)}
+                                >
+                                    <ArrowLeft className="h-5 w-5" />
+                                </button>
+                            )}
+                            {activePhoto.index < galleryLayout.length - 1 && (
+                                <button
+                                    type="button"
+                                    aria-label="Next photo"
+                                    className="absolute right-4 top-1/2 hidden -translate-y-1/2 rounded-full border border-white/10 bg-black/60 p-3 text-white transition hover:bg-white/10 sm:inline-flex"
+                                    onClick={() => navigatePhoto(1)}
+                                >
+                                    <ArrowRight className="h-5 w-5" />
+                                </button>
+                            )}
+                            <div className="relative w-full max-w-5xl overflow-hidden rounded-[2rem] border border-white/10 bg-black/60 shadow-2xl shadow-emerald-500/20">
+                                <img
+                                    src={activePhoto.url}
+                                    alt={`Expanded view ${activePhoto.index + 1}`}
+                                    className="h-auto w-full max-h-[78vh] object-contain sm:max-h-[82vh]"
+                                />
+                                <div className="absolute bottom-4 left-1/2 flex -translate-x-1/2 items-center gap-2 rounded-full border border-white/10 bg-black/60 px-4 py-1 text-[11px] uppercase tracking-[0.35em] text-white/60">
+                                    <span>{artist?.n ?? 'Artist'}</span>
+                                    <span>
+                                        {activePhoto.index + 1} / {galleryLayout.length}
+                                    </span>
+                                </div>
+                            </div>
+                            <div className="flex w-full max-w-sm items-center gap-3 sm:hidden">
+                                <button
+                                    type="button"
+                                    aria-label="Previous photo"
+                                    className="inline-flex flex-1 items-center justify-center rounded-full border border-white/10 bg-black/60 px-4 py-2 text-xs uppercase tracking-[0.35em] text-white/70 transition hover:bg-white/10 disabled:cursor-not-allowed disabled:opacity-40"
+                                    onClick={() => navigatePhoto(-1)}
+                                    disabled={activePhoto.index === 0}
+                                >
+                                    Prev
+                                </button>
+                                <button
+                                    type="button"
+                                    aria-label="Next photo"
+                                    className="inline-flex flex-1 items-center justify-center rounded-full border border-white/10 bg-black/60 px-4 py-2 text-xs uppercase tracking-[0.35em] text-white/70 transition hover:bg-white/10 disabled:cursor-not-allowed disabled:opacity-40"
+                                    onClick={() => navigatePhoto(1)}
+                                    disabled={activePhoto.index === galleryLayout.length - 1}
+                                >
+                                    Next
+                                </button>
+                            </div>
+                        </div>
                     )}
                 </main>
             </div>

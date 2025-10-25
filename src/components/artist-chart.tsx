@@ -79,7 +79,7 @@ export function ArtistChart({seriesData, artistName}: ArtistChartProps) {
             {
                 value: "audience" as const,
                 label: "Audience",
-                subtitle: "Monthly listeners vs followers",
+                subtitle: "Listeners vs Followers",
             },
             {
                 value: "rank" as const,
