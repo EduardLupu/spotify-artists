@@ -168,7 +168,7 @@ export default function ArtistPage() {
         const fetchArtistDetail = async () => {
             setLoading(true)
             try {
-                const response = await fetch(`/data/artists/${artistId.slice(0, 2)}/${artistId}.json`)
+                const response = await fetch(`/data/artists/${artistId.slice(0, 2).toLowerCase()}/${artistId}.json`)
                 if (!response.ok) {
                     throw new Error('Artist not found')
                 }
