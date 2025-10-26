@@ -492,6 +492,7 @@ export function WorldAtlas() {
                                 <div className="min-w-0">
                                   <Link
                                     href={`/artist/${artist.id}`}
+                                    target="_blank" rel="noopener noreferrer"
                                     className="text-sm font-semibold text-white transition-colors hover:text-emerald-300"
                                   >
                                     {artist.name}

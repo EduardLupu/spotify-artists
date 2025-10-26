@@ -13,6 +13,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   const urls: MetadataRoute.Sitemap = [
     { url: `${baseUrl}/`, lastModified },
+    { url: `${baseUrl}/former`, lastModified },
     { url: `${baseUrl}/world-map`, lastModified },
   ]
 

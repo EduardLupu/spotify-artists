@@ -3,7 +3,7 @@ name: Get Artists Data
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '0 21 * * *'
 
 jobs:
   get-spotify-data:
@@ -31,6 +31,8 @@ jobs:
         run: |
           python scripts/fetch_artists.py
           python scripts/world_map.py
+          python scripts/ingest_charts.py
+
         env:
           SP_DC: ${{ secrets.SP_DC }}
 

@@ -79,6 +79,7 @@ interface ArtistDetail {
         rows: any[][]
     }
     bio: string
+    chartSnapshots?: Record<string, { chartType?: string; rows?: Array<Record<string, unknown>> }>
 }
 
 interface CityDirectoryEntry {
@@ -125,6 +126,65 @@ function formatRankDelta(delta: number | null | undefined) {
     if (delta === null || delta === undefined) return '–'
     if (delta === 0) return '±0'
     return `${delta > 0 ? '+' : ''}${delta}`
+}
+
+const numberFromUnknown = (value: unknown): number | null => {
+    if (typeof value === 'number' && Number.isFinite(value)) return value
+    if (typeof value === 'string') {
+        const parsed = Number(value)
+        return Number.isFinite(parsed) ? parsed : null
+    }
+    if (typeof value === 'boolean') return value ? 1 : 0
+    return null
+}
+
+const recurrenceCopy: Record<string, { label: string; caption: string }> = {
+    DAILY: {
+        label: 'Daily cadence',
+        caption: '24-hour global pulse',
+    },
+    WEEKLY: {
+        label: 'Weekly cadence',
+        caption: 'Seven-day global momentum',
+    },
+}
+
+const prettifyStatus = (value: string | null | undefined) => {
+    if (!value) return null
+    return value
+        .split(/[\s_\-]+/)
+        .map((segment) => segment.charAt(0).toUpperCase() + segment.slice(1).toLowerCase())
+        .join(' ')
+}
+
+const deltaColor = (delta: number | null) => {
+    if (delta === null) return 'text-white/60'
+    if (delta > 0) return 'text-emerald-300'
+    if (delta < 0) return 'text-rose-300'
+    return 'text-white/60'
+}
+
+type ChartSnapshot = {
+    date: string
+    currentRank: number | null
+    previousRank: number | null
+    peakRank: number | null
+    peakDate: string | null
+    appearances: number | null
+    consecutive: number | null
+    entryStatus: string | null
+    entryRank: number | null
+    entryDate: string | null
+    artistName: string | null
+}
+
+type ChartHistoryGroup = {
+    recurrence: string
+    chartType?: string
+    rows: ChartSnapshot[]
+    latest: ChartSnapshot
+    label: string
+    caption: string
 }
 
 interface ArtistPageProps {
@@ -289,7 +349,7 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
 
     const galleryImages = useMemo(() => {
         if (!artist?.gallery?.length) return []
-        return artist.gallery.slice(0, 6).map((id) =>
+        return artist.gallery.slice(0, 12).map((id) =>
             id.startsWith('http') ? id : `https://i.scdn.co/image/${id}`
         )
     }, [artist])
@@ -424,6 +484,74 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
         ]
     }, [artist])
 
+    const chartHistory = useMemo<ChartHistoryGroup[]>(() => {
+        const snapshots = artist?.chartSnapshots
+        if (!snapshots || typeof snapshots !== 'object') return []
+
+        const groups: ChartHistoryGroup[] = []
+
+        Object.entries(snapshots).forEach(([recurrence, bucket]) => {
+            if (!bucket || typeof bucket !== 'object') return
+            const rawRows = Array.isArray(bucket.rows) ? bucket.rows : []
+
+            const rows: ChartSnapshot[] = rawRows
+                .map((row) => {
+                    if (!row || typeof row !== 'object') return null
+                    const date = typeof row.date === 'string' ? row.date : null
+                    if (!date) return null
+                    return {
+                        date,
+                        currentRank: numberFromUnknown((row as Record<string, unknown>).currentRank),
+                        previousRank: numberFromUnknown((row as Record<string, unknown>).previousRank),
+                        peakRank: numberFromUnknown((row as Record<string, unknown>).peakRank),
+                        peakDate:
+                            typeof (row as Record<string, unknown>).peakDate === 'string'
+                                ? ((row as Record<string, unknown>).peakDate as string)
+                                : null,
+                        appearances: numberFromUnknown((row as Record<string, unknown>).appearancesOnChart),
+                        consecutive: numberFromUnknown(
+                            (row as Record<string, unknown>).consecutiveAppearancesOnChart
+                        ),
+                        entryStatus:
+                            typeof (row as Record<string, unknown>).entryStatus === 'string'
+                                ? ((row as Record<string, unknown>).entryStatus as string)
+                                : null,
+                        entryRank: numberFromUnknown((row as Record<string, unknown>).entryRank),
+                        entryDate:
+                            typeof (row as Record<string, unknown>).entryDate === 'string'
+                                ? ((row as Record<string, unknown>).entryDate as string)
+                                : null,
+                        artistName:
+                            typeof (row as Record<string, unknown>).artistName === 'string'
+                                ? ((row as Record<string, unknown>).artistName as string)
+                                : null,
+                    }
+                })
+                .filter(Boolean) as ChartSnapshot[]
+
+            if (!rows.length) return
+            rows.sort((a, b) => (a.date < b.date ? 1 : -1))
+
+            const copy = recurrenceCopy[recurrence] ?? {
+                label: recurrence,
+                caption: 'Global chart cadence',
+            }
+
+            groups.push({
+                recurrence,
+                chartType: typeof bucket.chartType === 'string' ? bucket.chartType : undefined,
+                rows,
+                latest: rows[0],
+                label: copy.label,
+                caption: copy.caption,
+            })
+        })
+
+        return groups.sort((a, b) => a.recurrence.localeCompare(b.recurrence))
+    }, [artist?.chartSnapshots])
+
+    const hasChartHistory = chartHistory.length > 0
+
     const handleToggleTrack = (track: TrackItem) => {
         if (!track.preview) return
 
@@ -507,18 +635,18 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                         <Button
                             asChild
                             variant="ghost"
-                            className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-2 text-sm text-white/80 hover:bg-white/10"
+                            className="group inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-2 text-sm text-white/80 hover:bg-white/10"
                         >
                             <Link href="/">
-                                <ArrowLeft className="h-4 w-4"/>
+                                <ArrowLeft className="h-4 w-4 transition-transform group-hover:-translate-x-1"/>
                                 Back to artists
                             </Link>
                         </Button>
-                        <div className="flex items-center gap-3 text-sm text-white/70">
+                        <div className="flex items-center gap-3 text-xs text-white/70">
                             <div
                                 className="flex items-center gap-2 rounded-full border border-emerald-400/20 bg-emerald-400/10 px-3 py-1 text-emerald-200">
                                 <Disc3 className="h-3.5 w-3.5"/>
-                                Live data as of {formatDate(artist.today.d)}
+                                Last sync: {formatDate(artist.today.d)}
                             </div>
                         </div>
                     </div>
@@ -733,6 +861,155 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                             </CardContent>
                         </Card>
                     </section>
+
+                    {hasChartHistory && (
+                        <section className="mt-10 space-y-6">
+                            <div className="space-y-2">
+                                <div
+                                    className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-xs uppercase tracking-widest text-white/60">
+                                    <Compass className="h-3.5 w-3.5 text-emerald-300"/>
+                                    Global chart footprint
+                                </div>
+                                <h2 className="text-2xl font-semibold text-white sm:text-3xl">Chart cadence insight</h2>
+                                <p className="max-w-2xl text-sm text-white/65 sm:text-base">
+                                    Live performance snapshots pulled directly from Spotify&apos;s global artist charts.
+                                    Track how rank, peak positions, and entry streaks evolve across daily and weekly recurrences.
+                                </p>
+                            </div>
+                            <div className="grid gap-5 lg:grid-cols-2">
+                                {chartHistory.map((group) => {
+                                    const latest = group.latest
+                                    const delta =
+                                        latest.previousRank !== null && latest.currentRank !== null
+                                            ? latest.previousRank - latest.currentRank
+                                            : null
+                                    const statusLabel = prettifyStatus(latest.entryStatus)
+                                    const timeline = group.rows.slice(0, 6)
+
+                                    return (
+                                        <Card
+                                            key={group.recurrence}
+                                            className="relative overflow-hidden border-white/10 bg-white/[0.04] backdrop-blur"
+                                        >
+                                            <div
+                                                className="pointer-events-none absolute -right-24 -top-24 h-48 w-48 rounded-full bg-emerald-400/10 blur-[120px]"/>
+                                            <CardHeader className="space-y-5">
+                                                <div
+                                                    className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+                                                    <div>
+                                                        <p className="text-xs uppercase tracking-[0.35em] text-white/45">
+                                                            {group.caption}
+                                                        </p>
+                                                        <div
+                                                            className="mt-1 inline-flex items-center gap-2 rounded-full border border-white/10 bg-black/30 px-3 py-1 text-[11px] uppercase tracking-[0.24em] text-white/60">
+                                                            {group.label}
+                                                            {group.chartType && (
+                                                                <span className="text-white/35">• {group.chartType.replace(/_/g, ' ')}</span>
+                                                            )}
+                                                        </div>
+                                                    </div>
+                                                    <span className="text-xs text-white/50">
+                                                        {formatDate(latest.date)}
+                                                    </span>
+                                                </div>
+                                                <div className="flex flex-wrap items-end justify-between gap-4">
+                                                    <CardTitle className="text-3xl font-semibold text-white sm:text-4xl">
+                                                        {latest.currentRank !== null ? `#${latest.currentRank}` : 'Off chart'}
+                                                    </CardTitle>
+                                                    <div className="text-right text-xs text-white/50">
+                                                        <p className={`text-sm font-semibold ${deltaColor(delta)}`}>
+                                                            {delta === null
+                                                                ? '—'
+                                                                : delta > 0
+                                                                    ? `▲${delta}`
+                                                                    : delta < 0
+                                                                        ? `▼${Math.abs(delta)}`
+                                                                        : '·'}
+                                                        </p>
+                                                        <span>vs previous</span>
+                                                    </div>
+                                                </div>
+                                                <div className="flex flex-wrap items-center gap-2 text-xs text-white/60">
+                                                    <span
+                                                        className="rounded-full border border-white/10 bg-white/5 px-3 py-1">
+                                                        Peak {latest.peakRank ? `#${latest.peakRank}` : '—'}
+                                                    </span>
+                                                    <span
+                                                        className="rounded-full border border-white/10 bg-white/5 px-3 py-1">
+                                                        {formatNumber(latest.appearances ?? null)} total appearances
+                                                    </span>
+                                                    <span
+                                                        className="rounded-full border border-white/10 bg-white/5 px-3 py-1">
+                                                        {formatNumber(latest.consecutive ?? null)} consecutive
+                                                    </span>
+                                                    {statusLabel && (
+                                                        <Badge
+                                                            variant="outline"
+                                                            className="rounded-full border-emerald-300/40 bg-emerald-400/10 text-[11px] font-medium uppercase tracking-[0.24em] text-emerald-200"
+                                                        >
+                                                            {statusLabel}
+                                                        </Badge>
+                                                    )}
+                                                </div>
+                                            </CardHeader>
+                                            <CardContent className="space-y-4">
+                                                <div className="rounded-3xl border border-white/10 bg-black/30">
+                                                    <ul className="divide-y divide-white/10">
+                                                        {timeline.map((row, index) => {
+                                                            const rowDelta =
+                                                                row.previousRank !== null && row.currentRank !== null
+                                                                    ? row.previousRank - row.currentRank
+                                                                    : null
+                                                            const entryStatus = prettifyStatus(row.entryStatus)
+                                                            return (
+                                                                <li
+                                                                    key={`${row.date}-${index}`}
+                                                                    className="flex flex-col gap-3 px-4 py-3 sm:flex-row sm:items-center sm:justify-between"
+                                                                >
+                                                                    <div>
+                                                                        <p className="text-base font-semibold text-white">
+                                                                            {row.currentRank !== null ? `#${row.currentRank}` : '—'}
+                                                                        </p>
+                                                                        <p className="text-xs uppercase tracking-[0.3em] text-white/40">
+                                                                            {formatDate(row.date)}
+                                                                        </p>
+                                                                    </div>
+                                                                    <div className="flex flex-wrap items-center gap-2 text-xs text-white/55 sm:justify-end">
+                                                                        <span className="text-white/45">
+                                                                            Prev {row.previousRank !== null ? `#${row.previousRank}` : '—'}
+                                                                        </span>
+                                                                        <span className={`inline-flex items-center font-semibold ${deltaColor(rowDelta)}`}>
+                                                                            {rowDelta === null
+                                                                                ? '—'
+                                                                                : rowDelta > 0
+                                                                                    ? `▲${rowDelta}`
+                                                                                    : rowDelta < 0
+                                                                                        ? `▼${Math.abs(rowDelta)}`
+                                                                                        : '·'}
+                                                                        </span>
+                                                                        {entryStatus && (
+                                                                            <span className="rounded-full border border-white/10 bg-white/5 px-3 py-1 uppercase tracking-[0.3em] text-white/50">
+                                                                                {entryStatus}
+                                                                            </span>
+                                                                        )}
+                                                                        {row.entryRank !== null && (
+                                                                            <span className="text-white/45">
+                                                                                Entry #{row.entryRank}
+                                                                            </span>
+                                                                        )}
+                                                                    </div>
+                                                                </li>
+                                                            )
+                                                        })}
+                                                    </ul>
+                                                </div>
+                                            </CardContent>
+                                        </Card>
+                                    )
+                                })}
+                            </div>
+                        </section>
+                    )}
 
                     {topTracks.length > 0 && (
                         <section className="mt-10 grid gap-6 lg:grid-cols-[2.1fr_1fr]">
