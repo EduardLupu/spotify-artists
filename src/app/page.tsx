@@ -3,18 +3,18 @@
 import { useEffect, useMemo, useState } from 'react'
 import Link from 'next/link'
 import {
-  Activity,
-  ArrowUpRight,
-  BadgeCheck,
-  CalendarCheck,
-  ChevronDown,
-  Disc3,
-  Globe2,
-  History,
-  Loader2,
-  Search,
-  TrendingUp,
-  Users,
+    Activity,
+    ArrowUpRight,
+    BadgeCheck,
+    CalendarCheck,
+    ChevronDown,
+    Disc3,
+    Globe2,
+    History,
+    Loader2, Orbit,
+    Search,
+    TrendingUp,
+    Users,
 } from 'lucide-react'
 
 import { Badge } from '@/components/ui/badge'
@@ -81,7 +81,7 @@ function ArtistCard({ artist }: { artist: Artist }) {
   const showDelta = Number.isFinite(rankMovement)
 
   return (
-    <Link href={`/artist/${artist.i}`} className="group">
+    <Link href={`/artist/${artist.i}`} className="group" target="_blank" rel="noopener noreferrer">
       <Card className="relative h-full overflow-hidden border-transparent bg-white/5 backdrop-blur-md transition-all duration-300 hover:border-white/20 hover:bg-white/10">
         <div className="absolute -right-6 -top-6 h-24 w-24 rounded-full bg-emerald-500/10 blur-3xl transition-opacity group-hover:opacity-60" />
         <CardHeader className="flex flex-row items-start gap-4 pb-2">
@@ -352,7 +352,7 @@ export default function Home() {
                 className="group inline-flex h-12 flex-1 items-center justify-center gap-2 rounded-full border-white/15 bg-white/5 text-sm font-semibold text-white hover:bg-white/10"
               >
                 <Link href="/graph">
-                  <Globe2 className="h-4 w-4 text-emerald-200 transition-transform group-hover:scale-110" />
+                  <Orbit className="h-4 w-4 text-emerald-200 transition-transform group-hover:scale-110" />
                   Artist constellation
                   <ArrowUpRight className="h-4 w-4 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
                 </Link>

@@ -490,6 +490,7 @@ export default function GraphClient() {
                             </button>
                             <Link
                               href={`/artist/${neighbor.id}`}
+                              target="_blank" rel="noopener noreferrer"
                               className="inline-flex h-8 w-8 items-center justify-center rounded-full border border-white/10 text-white/60 transition hover:border-emerald-400/50 hover:text-emerald-200"
                             >
                               <ExternalLink className="h-4 w-4" />
