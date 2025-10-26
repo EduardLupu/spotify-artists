@@ -2,6 +2,7 @@ import type {Metadata} from 'next'
 import {Inter} from 'next/font/google'
 import './globals.css'
 import Footer from '@/components/ui/footer'
+import { GoogleAnalytics } from "@next/third-parties/google";
 
 const inter = Inter({subsets: ['latin']})
 
@@ -42,6 +43,21 @@ export const metadata: Metadata = {
         url: siteUrl,
         siteName: 'World’s Top Artists',
         type: 'website',
+        locale: 'en_US',
+        images: [
+            {
+                url: `${siteUrl}/web-app-manifest-512x512.png`,
+                width: 512,
+                height: 512,
+                alt: 'World’s Top Artists',
+            },
+            {
+                url: `${siteUrl}/web-app-manifest-192x192.png`,
+                width: 192,
+                height: 192,
+                alt: 'World’s Top Artists',
+            }
+        ],
     },
     alternates: {
         canonical: '/',
@@ -61,6 +77,7 @@ export default function RootLayout({
         </div>
         <Footer/>
         </body>
+        <GoogleAnalytics gaId="G-2NVJ33DBX4" />
         </html>
     )
 }
