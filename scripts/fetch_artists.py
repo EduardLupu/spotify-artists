@@ -59,6 +59,7 @@ KWORB_ARTIST_HREF_RE = re.compile(r"artist/([A-Za-z0-9]+)_songs\.html")
 CANVAS_ENDPOINT = "https://spclient.wg.spotify.com/canvaz-cache/v0/canvases"
 CANVAS_BATCH_SIZE = 25
 BIOGRAPHY_TAG_RE = re.compile(r"<[^>]+>")
+BIOGRAPHY_URL_RE = re.compile(r"(https?://\S+|www\.\S+)", re.IGNORECASE)
 BIOGRAPHY_SENTENCE_SPLIT_RE = re.compile(r"(?<=[.!?])\s+")
 
 CITY_PREFIX_STRIPPERS = (
@@ -494,7 +495,8 @@ def _extract_biography_text(profile: Dict[str, Any]) -> Optional[str]:
     if not isinstance(raw_text, str):
         return None
     stripped = BIOGRAPHY_TAG_RE.sub(" ", raw_text)
-    unescaped = unescape(stripped)
+    without_links = BIOGRAPHY_URL_RE.sub(" ", stripped)
+    unescaped = unescape(without_links)
     normalized = " ".join(unescaped.split())
     if not normalized:
         return None
@@ -504,12 +506,31 @@ def _extract_biography_text(profile: Dict[str, Any]) -> Optional[str]:
         trimmed = sentence.strip()
         if not trimmed:
             continue
-        collected.append(trimmed)
+        if collected and _should_merge_sentence(collected[-1], trimmed):
+            collected[-1] = f"{collected[-1]} {trimmed}"
+        else:
+            collected.append(trimmed)
         if len(collected) >= 2:
             break
     if not collected:
         return None
     return " ".join(collected)
+
+
+def _should_merge_sentence(previous: str, current: str) -> bool:
+    if not previous or not current:
+        return False
+    if not previous.endswith("."):
+        return False
+    first_char = current[0]
+    if first_char.isdigit():
+        return True
+    abbreviated_match = re.search(r"\b(?:No|Nos|Vol|Vols|St|Mr|Mrs|Ms|Dr|Sr|Jr)\.$", previous)
+    if abbreviated_match:
+        return True
+    if re.search(r"\b[A-Z]\.$", previous):
+        return True
+    return False
 
 
 def parse_date(value: Optional[str]) -> Optional[date]:
