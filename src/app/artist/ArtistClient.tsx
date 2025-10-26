@@ -192,6 +192,21 @@ export default function ArtistPage() {
     }, [artistId])
 
     useEffect(() => {
+        const baseTitle = "World's Top Artists"
+
+        if (!artist?.n) {
+            document.title = baseTitle
+            return
+        }
+
+        document.title = `${artist.n} | ${baseTitle}`
+
+        return () => {
+            document.title = baseTitle
+        }
+    }, [artist?.n])
+
+    useEffect(() => {
         return () => {
             if (audioRef.current) {
                 audioRef.current.pause()
