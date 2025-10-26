@@ -8,7 +8,7 @@ from typing import Any, Dict, List, Optional, Tuple
 import aiohttp
 from aiohttp import ClientError, ClientResponseError, ClientTimeout
 
-from scripts.utils import Utils
+from utils import Utils
 from token_service import TokenManager
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
