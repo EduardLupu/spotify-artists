@@ -10,6 +10,7 @@ import {
   ChevronDown,
   Disc3,
   Globe2,
+  History,
   Loader2,
   Search,
   TrendingUp,
@@ -322,18 +323,30 @@ export default function Home() {
                 <span>{lastUpdated ? new Date(lastUpdated).toLocaleDateString() : '—'}</span>
               </div>
             </div>
-            <Button
-              asChild
-              variant="secondary"
-              className="group inline-flex h-12 items-center justify-center gap-2 rounded-full border-white/15 bg-emerald-400/15 text-sm font-semibold text-white hover:bg-emerald-400/25"
-            >
-              <Link href="/world-map">
-                <Globe2 className="h-4 w-4 text-emerald-200 transition-transform group-hover:scale-110" />
-                Explore world map
-                <ArrowUpRight className="h-4 w-4 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
-              </Link>
-            </Button>
-            <p className="text-xs text-white/45">See audience hotspots and city-by-city breakdowns.</p>
+            <div className="flex flex-col gap-3">
+              <Button
+                asChild
+                variant="secondary"
+                className="group inline-flex h-12 flex-1 items-center justify-center gap-2 rounded-full border-white/15 bg-emerald-400/15 text-sm font-semibold text-white hover:bg-emerald-400/25"
+              >
+                <Link href="/world-map">
+                  <Globe2 className="h-4 w-4 text-emerald-200 transition-transform group-hover:scale-110" />
+                  Explore world atlas
+                  <ArrowUpRight className="h-4 w-4 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
+                </Link>
+              </Button>
+              <Button
+                asChild
+                variant="secondary"
+                className="group inline-flex h-12 flex-1 items-center justify-center gap-2 rounded-full border-white/15 bg-white/10 text-sm font-semibold text-white hover:bg-white/20"
+              >
+                <Link href="/former">
+                  <History className="h-4 w-4 text-white/70 transition-transform group-hover:scale-110" />
+                  Former artists archive
+                  <ArrowUpRight className="h-4 w-4 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
+                </Link>
+              </Button>
+            </div>
           </div>
         </div>
       </header>
@@ -434,8 +447,13 @@ export default function Home() {
                   <Globe2 className="h-4 w-4 text-emerald-300" />
                   {spotlight.st} day streak in the global 500
                 </div>
-                <Button asChild variant="secondary" className="rounded-full border-white/10 bg-white/10 text-white hover:bg-white/20">
-                  <Link href={`/artist/${spotlight.i}`}>Open artist dashboard</Link>
+                <Button
+                  asChild
+                  variant="secondary"
+                  className="group inline-flex h-12 flex-1 items-center justify-center gap-2 rounded-full border-white/15 bg-emerald-400/15 text-sm font-semibold text-white hover:bg-emerald-400/25"
+                >
+                  <Link href={`/artist/${spotlight.i}`}>Open artist dashboard<ArrowUpRight className="h-4 w-4 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
+                  </Link>
                 </Button>
               </div>
             </div>

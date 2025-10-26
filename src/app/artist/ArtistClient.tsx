@@ -507,10 +507,10 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                         <Button
                             asChild
                             variant="ghost"
-                            className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-2 text-sm text-white/80 hover:bg-white/10"
+                            className="group inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-2 text-sm text-white/80 hover:bg-white/10"
                         >
                             <Link href="/">
-                                <ArrowLeft className="h-4 w-4"/>
+                                <ArrowLeft className="h-4 w-4 transition-transform group-hover:-translate-x-1"/>
                                 Back to artists
                             </Link>
                         </Button>
