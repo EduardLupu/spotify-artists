@@ -34,17 +34,23 @@ export default function NotFound() {
           pulse or explore other corners of the chart universe.
         </p>
 
-        <div className="mt-10 grid w-full max-w-3xl gap-4 text-left sm:grid-cols-2">
+       <div className="mt-10 grid w-full max-w-3xl gap-4 text-left sm:grid-cols-2">
+         <div className="rounded-3xl border border-white/10 bg-white/5 p-6">
+           <p className="text-sm font-semibold text-white/80">World&apos;s Top Artists</p>
+           <p className="mt-2 text-sm text-white/55">
+             Dive into the live global leaderboard with momentum, growth, and audience metrics updated daily.
+           </p>
+         </div>
+         <div className="rounded-3xl border border-white/10 bg-white/5 p-6">
+           <p className="text-sm font-semibold text-white/80">Former Artists Archive</p>
+           <p className="mt-2 text-sm text-white/55">
+             Track the stars who recently left the rankings and see when they last appeared in the Top 500.
+           </p>
+         </div>
           <div className="rounded-3xl border border-white/10 bg-white/5 p-6">
-            <p className="text-sm font-semibold text-white/80">World&apos;s Top Artists</p>
+            <p className="text-sm font-semibold text-white/80">Artist Constellation</p>
             <p className="mt-2 text-sm text-white/55">
-              Dive into the live global leaderboard with momentum, growth, and audience metrics updated daily.
-            </p>
-          </div>
-          <div className="rounded-3xl border border-white/10 bg-white/5 p-6">
-            <p className="text-sm font-semibold text-white/80">Former Artists Archive</p>
-            <p className="mt-2 text-sm text-white/55">
-              Track the stars who recently left the rankings and see when they last appeared in the Top 500.
+              Explore the interactive 3D network of Top 500 artists and discover their closest relations.
             </p>
           </div>
         </div>
@@ -67,6 +73,16 @@ export default function NotFound() {
           >
             <Link href="/former">
               Explore former artists
+              <ArrowUpRight className="ml-2 h-4 w-4 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
+            </Link>
+          </Button>
+          <Button
+            asChild
+            variant="ghost"
+            className="group h-12 rounded-full border border-white/10 bg-white/5 px-6 text-sm text-white/80 hover:bg-white/10"
+          >
+            <Link href="/graph">
+              Visit artist graph
               <ArrowUpRight className="ml-2 h-4 w-4 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
             </Link>
           </Button>

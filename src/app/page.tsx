@@ -346,6 +346,17 @@ export default function Home() {
                   <ArrowUpRight className="h-4 w-4 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
                 </Link>
               </Button>
+              <Button
+                asChild
+                variant="secondary"
+                className="group inline-flex h-12 flex-1 items-center justify-center gap-2 rounded-full border-white/15 bg-white/5 text-sm font-semibold text-white hover:bg-white/10"
+              >
+                <Link href="/graph">
+                  <Globe2 className="h-4 w-4 text-emerald-200 transition-transform group-hover:scale-110" />
+                  Artist constellation
+                  <ArrowUpRight className="h-4 w-4 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
+                </Link>
+              </Button>
             </div>
           </div>
         </div>

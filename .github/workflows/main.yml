@@ -32,7 +32,7 @@ jobs:
           python scripts/fetch_artists.py
           python scripts/world_map.py
           python scripts/ingest_charts.py
-
+          python scripts/build_artist_graph.py
         env:
           SP_DC: ${{ secrets.SP_DC }}
 
