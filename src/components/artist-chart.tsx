@@ -41,20 +41,20 @@ const thousandNumberFormatter = new Intl.NumberFormat("en-US", {
 
 const audienceChartConfig = {
     monthlyListeners: {
-        label: "Monthly Listeners",
+        label: "Listeners",
         color: "#1DB954",
     },
     followers: {
         label: "Followers",
-        color: "#a3a3a3",
+        color: "#b91d82",
     },
     newMonthlyListeners: {
-        label: "New Monthly Listeners",
+        label: "New Listeners",
         color: "#1DB954",
     },
     newFollowers: {
         label: "New Followers",
-        color: "#a3a3a3",
+        color: "#b91d82",
     },
 } satisfies ChartConfig
 
@@ -79,7 +79,7 @@ export function ArtistChart({seriesData, artistName}: ArtistChartProps) {
             {
                 value: "audience" as const,
                 label: "Audience",
-                subtitle: "Monthly listeners vs followers",
+                subtitle: "Listeners vs Followers",
             },
             {
                 value: "rank" as const,
@@ -398,25 +398,31 @@ export function ArtistChart({seriesData, artistName}: ArtistChartProps) {
             <CardContent className="pt-6">
                 {metricTab === "audience" ? (
                     hasAudienceData ? (
-                        <ChartContainer config={activeConfig} className="h-[300px] w-full">
+                        <ChartContainer
+                            config={activeConfig}
+                            className="h-[240px] w-full sm:h-[280px] lg:h-[320px]"
+                        >
                             <ResponsiveContainer width="100%" height="100%">
-                                <AreaChart data={filteredData}>
+                                <AreaChart
+                                    data={filteredData}
+                                    margin={{left: -12, right: 16, top: 12, bottom: 0}}
+                                >
                                     <defs>
                                         <linearGradient id="fillMonthlyListeners" x1="0" y1="0" x2="0" y2="1">
                                             <stop offset="5%" stopColor="#1DB954" stopOpacity={0.3}/>
                                             <stop offset="95%" stopColor="#1DB954" stopOpacity={0}/>
                                         </linearGradient>
                                         <linearGradient id="fillFollowers" x1="0" y1="0" x2="0" y2="1">
-                                            <stop offset="5%" stopColor="#a3a3a3" stopOpacity={0.3}/>
-                                            <stop offset="95%" stopColor="#a3a3a3" stopOpacity={0}/>
+                                            <stop offset="5%" stopColor="#b91d82" stopOpacity={0.3}/>
+                                            <stop offset="95%" stopColor="#b91d82" stopOpacity={0}/>
                                         </linearGradient>
                                         <linearGradient id="fillNewMonthlyListeners" x1="0" y1="0" x2="0" y2="1">
                                             <stop offset="5%" stopColor="#1DB954" stopOpacity={0.3}/>
                                             <stop offset="95%" stopColor="#1DB954" stopOpacity={0}/>
                                         </linearGradient>
                                         <linearGradient id="fillNewFollowers" x1="0" y1="0" x2="0" y2="1">
-                                            <stop offset="5%" stopColor="#a3a3a3" stopOpacity={0.3}/>
-                                            <stop offset="95%" stopColor="#a3a3a3" stopOpacity={0}/>
+                                            <stop offset="5%" stopColor="#b91d82" stopOpacity={0.3}/>
+                                            <stop offset="95%" stopColor="#b91d82" stopOpacity={0}/>
                                         </linearGradient>
                                     </defs>
                                     <CartesianGrid vertical={false} strokeDasharray="3 3" stroke="hsl(var(--border))"
@@ -426,13 +432,18 @@ export function ArtistChart({seriesData, artistName}: ArtistChartProps) {
                                         tickLine={false}
                                         axisLine={false}
                                         tickMargin={8}
-                                        minTickGap={32}
+                                        minTickGap={28}
                                         tickFormatter={formatShortDate}
-                                        tick={{fill: "hsl(var(--muted-foreground))", fontSize: 11}}
+                                        tick={{fill: "hsl(var(--muted-foreground))", fontSize: 10}}
                                     />
-                                    <YAxis tickLine={false} axisLine={false} tickMargin={8}
-                                           tickFormatter={(value) => formatMetricValue(Number(value))}
-                                           tick={{fill: "hsl(var(--muted-foreground))", fontSize: 11}}/>
+                                    <YAxis
+                                        tickLine={false}
+                                        axisLine={false}
+                                        tickMargin={6}
+                                        width={44}
+                                        tick={{fill: "hsl(var(--muted-foreground))", fontSize: 10}}
+                                        tickFormatter={(value) => formatMetricValue(Number(value))}
+                                    />
                                     <Tooltip
                                         cursor={{stroke: "hsl(var(--primary))", strokeWidth: 1, strokeDasharray: "4 4"}}
                                         content={
@@ -468,10 +479,10 @@ export function ArtistChart({seriesData, artistName}: ArtistChartProps) {
                                             name={showUnique ? audienceChartConfig.newFollowers.label : audienceChartConfig.followers.label}
                                             type="natural"
                                             fill="url(#fillFollowers)"
-                                            stroke="#a3a3a3"
+                                            stroke="#b91d82"
                                             strokeWidth={2}
                                             dot={false}
-                                            activeDot={{r: 4, fill: "#a3a3a3", strokeWidth: 0}}
+                                            activeDot={{r: 4, fill: "#b91d82", strokeWidth: 0}}
                                         />
                                     )}
                                 </AreaChart>
@@ -481,9 +492,15 @@ export function ArtistChart({seriesData, artistName}: ArtistChartProps) {
                         emptyState
                     )
                 ) : hasRankData ? (
-                    <ChartContainer config={activeConfig} className="h-[300px] w-full">
+                    <ChartContainer
+                        config={activeConfig}
+                        className="h-[240px] w-full sm:h-[280px] lg:h-[320px]"
+                    >
                         <ResponsiveContainer width="100%" height="100%">
-                            <AreaChart data={filteredData}>
+                            <AreaChart
+                                data={filteredData}
+                                margin={{left: -12, right: 16, top: 12, bottom: 0}}
+                            >
                                 <defs>
                                     <linearGradient id="fillRank" x1="0" y1="0" x2="0" y2="1">
                                         <stop offset="5%" stopColor="#1DB954" stopOpacity={0.3}/>
@@ -501,19 +518,19 @@ export function ArtistChart({seriesData, artistName}: ArtistChartProps) {
                                     tickLine={false}
                                     axisLine={false}
                                     tickMargin={8}
-                                    minTickGap={32}
+                                    minTickGap={28}
                                     tickFormatter={formatShortDate}
-                                    tick={{fill: "hsl(var(--muted-foreground))", fontSize: 11}}
+                                    tick={{fill: "hsl(var(--muted-foreground))", fontSize: 10}}
                                 />
                                 <YAxis
                                     tickLine={false}
                                     axisLine={false}
-                                    tickMargin={8}
+                                    tickMargin={6}
+                                    width={44}
                                     allowDecimals={false}
                                     reversed={!showUnique}
-                                    domain={['dataMin - 50', 'dataMax + 50']}
                                     tickFormatter={(value) => `#${thousandNumberFormatter.format(Math.round(Number(value)))}`}
-                                    tick={{fill: "hsl(var(--muted-foreground))", fontSize: 11}}
+                                    tick={{fill: "hsl(var(--muted-foreground))", fontSize: 10}}
                                 />
                                 <Tooltip
                                     cursor={{stroke: "hsl(var(--primary))", strokeWidth: 1, strokeDasharray: "4 4"}}
@@ -524,7 +541,8 @@ export function ArtistChart({seriesData, artistName}: ArtistChartProps) {
                                     content={
                                         <ChartTooltipContent
                                             labelFormatter={(value) => formatShortDate(value as string)}
-                                            indicator="dot"/>
+                                            indicator="dot"
+                                        />
                                     }
                                 />
                                 {!showUnique && (

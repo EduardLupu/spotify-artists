@@ -7,6 +7,7 @@ import {
   ArrowUpRight,
   BadgeCheck,
   CalendarCheck,
+  ChevronDown,
   Disc3,
   Globe2,
   Loader2,
@@ -22,7 +23,7 @@ import { ScrollArea } from '@/components/ui/scroll-area'
 import { Separator } from '@/components/ui/separator'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar'
-import {Input} from "@/components/ui/input";
+import { Input } from '@/components/ui/input'
 
 interface Artist {
   i: string
@@ -79,7 +80,7 @@ function ArtistCard({ artist }: { artist: Artist }) {
   const showDelta = Number.isFinite(rankMovement)
 
   return (
-    <Link href={`/artist?id=${artist.i}`} className="group">
+    <Link href={`/artist/${artist.i}`} className="group">
       <Card className="relative h-full overflow-hidden border-transparent bg-white/5 backdrop-blur-md transition-all duration-300 hover:border-white/20 hover:bg-white/10">
         <div className="absolute -right-6 -top-6 h-24 w-24 rounded-full bg-emerald-500/10 blur-3xl transition-opacity group-hover:opacity-60" />
         <CardHeader className="flex flex-row items-start gap-4 pb-2">
@@ -97,7 +98,7 @@ function ArtistCard({ artist }: { artist: Artist }) {
             </Avatar>
             <Badge
               variant="outline"
-              className="absolute -bottom-2 right-0 rounded-full border-white/20 bg-black/70 px-3 py-1 text-[11px] font-semibold uppercase tracking-wide text-white shadow-lg backdrop-blur"
+              className="absolute -bottom-3 -right-2 rounded-full border-white/20 bg-black/70 px-3 py-1 text-[11px] font-semibold uppercase tracking-wide text-white shadow-lg backdrop-blur"
             >
               #{artist.r}
             </Badge>
@@ -253,6 +254,14 @@ export default function Home() {
     return { totalMonthlyListeners, avgMomentum, topGrowth, freshCount }
   }, [artists])
 
+  const totalArtists = orderedArtists.length
+  const remaining = Math.max(totalArtists - visibleCount, 0)
+  const nextBatchSize = Math.min(18, remaining)
+  const progressRatio = totalArtists ? Math.min(visibleCount / totalArtists, 1) : 0
+  const remainingAfterNext = Math.max(remaining - nextBatchSize, 0)
+  const progressWidth = progressRatio > 0 ? Math.max(6, progressRatio * 100) : 0
+  const loadMoreHelper = remainingAfterNext > 0 ? `${remainingAfterNext} more after this batch.` : 'You\'re about to see the full list.'
+
   if (loading) {
     return (
       <div className="flex min-h-screen items-center justify-center bg-[#0a0a0a]">
@@ -313,6 +322,18 @@ export default function Home() {
                 <span>{lastUpdated ? new Date(lastUpdated).toLocaleDateString() : '—'}</span>
               </div>
             </div>
+            <Button
+              asChild
+              variant="secondary"
+              className="group inline-flex h-12 items-center justify-center gap-2 rounded-full border-white/15 bg-emerald-400/15 text-sm font-semibold text-white hover:bg-emerald-400/25"
+            >
+              <Link href="/world-map">
+                <Globe2 className="h-4 w-4 text-emerald-200 transition-transform group-hover:scale-110" />
+                Explore world map
+                <ArrowUpRight className="h-4 w-4 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
+              </Link>
+            </Button>
+            <p className="text-xs text-white/45">See audience hotspots and city-by-city breakdowns.</p>
           </div>
         </div>
       </header>
@@ -414,7 +435,7 @@ export default function Home() {
                   {spotlight.st} day streak in the global 500
                 </div>
                 <Button asChild variant="secondary" className="rounded-full border-white/10 bg-white/10 text-white hover:bg-white/20">
-                  <Link href={`/artist?id=${spotlight.i}`}>Open artist dashboard</Link>
+                  <Link href={`/artist/${spotlight.i}`}>Open artist dashboard</Link>
                 </Button>
               </div>
             </div>
@@ -431,7 +452,7 @@ export default function Home() {
                   </TabsTrigger>
                 ))}
               </TabsList>
-              <p className="text-sm text-white/50">{viewConfig[view].description}</p>
+              <p className="text-sm text-white/50 text-center">{viewConfig[view].description}</p>
             </div>
 
             <TabsContent value={view}>
@@ -448,14 +469,34 @@ export default function Home() {
                 </div>
               )}
               {orderedArtists.length > visibleCount && (
-                <div className="mt-8 flex justify-center">
+                <div className="mt-10 flex flex-col items-center gap-5 rounded-3xl border border-white/10 bg-black/40 p-6 text-sm text-white/70 shadow-lg shadow-black/30">
+                  <div className="w-full space-y-2">
+                    <div className="flex items-center justify-between text-[11px] uppercase tracking-[0.35em] text-white/40">
+                      <span>Viewing</span>
+                      <span>
+                        {Math.min(visibleCount, totalArtists)} / {totalArtists}
+                      </span>
+                    </div>
+                    <div className="h-1.5 w-full rounded-full bg-white/10">
+                      <div
+                        className="h-full rounded-full bg-emerald-400/70 transition-all"
+                        style={{ width: `${progressWidth}%` }}
+                      />
+                    </div>
+                  </div>
                   <Button
                     variant="secondary"
-                    className="rounded-full border-white/10 bg-white/10 text-white hover:bg-white/20"
-                    onClick={() => setVisibleCount((previous) => previous + 18)}
+                    className="group rounded-full border-white/10 bg-emerald-400/15 px-6 py-2 text-white transition-all hover:bg-emerald-400/25"
+                    onClick={() =>
+                      setVisibleCount((previous) => Math.min(previous + 18, totalArtists))
+                    }
                   >
-                    Load more
+                    <span className="inline-flex items-center gap-2 text-sm font-semibold">
+                      Reveal next {nextBatchSize || 18} artists
+                      <ChevronDown className="h-4 w-4 transition-transform group-hover:translate-y-0.5" />
+                    </span>
                   </Button>
+                  <p className="text-xs text-white/45">{loadMoreHelper}</p>
                 </div>
               )}
             </TabsContent>

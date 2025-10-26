@@ -73,6 +73,7 @@ export const ChartTooltipContent = React.forwardRef<
   ) => {
     // Ignore unsupported tooltip props coming from Recharts
     void props
+    void indicator
 
     const tooltipLabel = React.useMemo(() => {
       if (hideLabel || !payload?.length) {
@@ -88,6 +89,30 @@ export const ChartTooltipContent = React.forwardRef<
       hideLabel,
       labelKey,
     ])
+
+    const numberFormatter = React.useMemo(
+      () => new Intl.NumberFormat("en-US"),
+      []
+    )
+
+    const formatValue = React.useCallback(
+      (value: unknown) => {
+        if (typeof value === "number") {
+          return numberFormatter.format(value)
+        }
+
+        if (typeof value === "string") {
+          const numericValue = Number(value)
+
+          if (Number.isFinite(numericValue)) {
+            return numberFormatter.format(numericValue)
+          }
+        }
+
+        return value as React.ReactNode
+      },
+      [numberFormatter]
+    )
 
     if (!active || !payload?.length) {
       return null
@@ -106,26 +131,11 @@ export const ChartTooltipContent = React.forwardRef<
       >
         {!hideLabel && tooltipLabel && (
           <div className="grid gap-1.5">
-            <div className="flex items-center gap-2 font-medium">
-              {!hideIndicator && (
-                <div
-                  className={cn(
-                    "h-2.5 w-2.5 shrink-0 rounded-full border-2 border-background",
-                    indicator === "dot" && "bg-foreground",
-                    indicator === "line" && "bg-foreground",
-                    indicator === "dashed" && "bg-foreground"
-                  )}
-                  style={{
-                    backgroundColor: item.color,
-                  }}
-                />
-              )}
-              {tooltipLabel}
-            </div>
+            <div className="flex items-center gap-2 font-medium">{tooltipLabel}</div>
           </div>
         )}
         <div className="grid gap-1.5">
-          {payload.map((item, index) => (
+          {payload.map((item) => (
             <div
               key={item.dataKey}
               className="flex w-full flex-wrap items-stretch gap-2 [&>svg]:h-2.5 [&>svg]:w-2.5 [&>svg]:text-muted-foreground"
@@ -146,9 +156,9 @@ export const ChartTooltipContent = React.forwardRef<
                     </span>
                   </div>
                 </div>
-                {item.value && (
+                {item.value !== undefined && item.value !== null && (
                   <div className="font-mono font-medium tabular-nums text-foreground">
-                    {item.value}
+                    {formatValue(item.value)}
                   </div>
                 )}
               </div>
