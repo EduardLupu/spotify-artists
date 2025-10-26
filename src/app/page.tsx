@@ -80,7 +80,7 @@ function ArtistCard({ artist }: { artist: Artist }) {
   const showDelta = Number.isFinite(rankMovement)
 
   return (
-    <Link href={`/artist?id=${artist.i}`} className="group">
+    <Link href={`/artist/${artist.i}`} className="group">
       <Card className="relative h-full overflow-hidden border-transparent bg-white/5 backdrop-blur-md transition-all duration-300 hover:border-white/20 hover:bg-white/10">
         <div className="absolute -right-6 -top-6 h-24 w-24 rounded-full bg-emerald-500/10 blur-3xl transition-opacity group-hover:opacity-60" />
         <CardHeader className="flex flex-row items-start gap-4 pb-2">
@@ -435,7 +435,7 @@ export default function Home() {
                   {spotlight.st} day streak in the global 500
                 </div>
                 <Button asChild variant="secondary" className="rounded-full border-white/10 bg-white/10 text-white hover:bg-white/20">
-                  <Link href={`/artist?id=${spotlight.i}`}>Open artist dashboard</Link>
+                  <Link href={`/artist/${spotlight.i}`}>Open artist dashboard</Link>
                 </Button>
               </div>
             </div>

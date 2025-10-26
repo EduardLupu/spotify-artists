@@ -2,7 +2,6 @@
 
 import {useCallback, useEffect, useMemo, useRef, useState} from 'react'
 import Link from 'next/link'
-import {useSearchParams} from 'next/navigation'
 
 import {
     Activity,
@@ -128,9 +127,11 @@ function formatRankDelta(delta: number | null | undefined) {
     return `${delta > 0 ? '+' : ''}${delta}`
 }
 
-export default function ArtistPage() {
-    const search = useSearchParams()
-    const artistId = search.get('id') ?? undefined
+interface ArtistPageProps {
+    artistId: string
+}
+
+export default function ArtistPage({artistId}: ArtistPageProps) {
 
     const [artist, setArtist] = useState<ArtistDetail | null>(null)
     const [loading, setLoading] = useState(true)
@@ -171,6 +172,8 @@ export default function ArtistPage() {
 
         const fetchArtistDetail = async () => {
             setLoading(true)
+            setArtist(null)
+            setError(null)
             try {
                 const response = await fetch(`/data/artists/${artistId.slice(0, 2).toLowerCase()}/${artistId}.json`)
                 if (!response.ok) {
@@ -192,7 +195,7 @@ export default function ArtistPage() {
     }, [artistId])
 
     useEffect(() => {
-        const baseTitle = "World's Top Artists"
+        const baseTitle = 'World’s Top Artists'
 
         if (!artist?.n) {
             document.title = baseTitle
@@ -967,7 +970,7 @@ export default function ArtistPage() {
                                                 src={url}
                                                 alt={`${artist?.n ?? 'Artist'} gallery ${index + 1}`}
                                                 loading="lazy"
-                                                className="h-full w-full object-cover transition-transform duration-[1800ms] ease-out group-hover:scale-105"
+                                                className="h-full w-full object-cover transition-transform [transition-duration:1800ms] ease-out group-hover:scale-105"
                                                 onError={(event) => {
                                                     event.currentTarget.style.display = 'none'
                                                 }}

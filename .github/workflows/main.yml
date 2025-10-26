@@ -30,6 +30,7 @@ jobs:
       - name: Fetch Artists Data
         run: |
           python scripts/fetch_artists.py
+          python scripts/world_map.py
         env:
           SP_DC: ${{ secrets.SP_DC }}
 

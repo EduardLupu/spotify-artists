@@ -491,7 +491,7 @@ export function WorldAtlas() {
                                 </Avatar>
                                 <div className="min-w-0">
                                   <Link
-                                    href={`/artist?id=${artist.id}`}
+                                    href={`/artist/${artist.id}`}
                                     className="text-sm font-semibold text-white transition-colors hover:text-emerald-300"
                                   >
                                     {artist.name}
