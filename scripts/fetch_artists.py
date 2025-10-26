@@ -1255,6 +1255,10 @@ class ArtistDataStore:
         detail_payload["topTracks"] = {"fields": TRACK_METADATA_FIELDS, "rows": top_tracks_rows}
         detail_payload["topCities"] = {"fields": ["cid", "l"], "rows": top_city_rows}
         detail_payload["relatedArtists"] = list(overview.discovered_artist_ids)
+        if existing_detail:
+            chart_snapshots = existing_detail.get("chartSnapshots")
+            if isinstance(chart_snapshots, dict):
+                detail_payload["chartSnapshots"] = chart_snapshots
 
         dump_json(self._artist_path(overview.artist_id), detail_payload)
     def load_existing_detail(self, artist_id: str) -> Optional[Dict[str, Any]]:

@@ -452,7 +452,7 @@ export default function Home() {
                   variant="secondary"
                   className="group inline-flex h-12 flex-1 items-center justify-center gap-2 rounded-full border-white/15 bg-emerald-400/15 text-sm font-semibold text-white hover:bg-emerald-400/25"
                 >
-                  <Link href={`/artist/${spotlight.i}`}>Open artist dashboard<ArrowUpRight className="h-4 w-4 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
+                  <Link href={`/artist/${spotlight.i}` } target="_blank" rel="noopener noreferrer">Open artist dashboard<ArrowUpRight className="h-4 w-4 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
                   </Link>
                 </Button>
               </div>

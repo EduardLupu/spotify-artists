@@ -11,7 +11,6 @@ import {
     Clock4,
     Filter, Globe2,
     Search,
-    Users,
 } from 'lucide-react'
 
 import type { FormerArtist } from '@/lib/data'
@@ -343,7 +342,7 @@ function FormerArtistCard({ artist }: { artist: FormerArtist }) {
   const absenceLabel = formatDaysLabel(artist.daysSince)
 
   return (
-  <Link href={`/artist/${artist.id}`} className="group">
+  <Link href={`/artist/${artist.id}`} className="group" target="_blank" rel="noopener noreferrer" >
     <Card className="relative h-full overflow-hidden border-white/10 bg-white/5 backdrop-blur transition-all duration-300 hover:border-white/20 hover:bg-white/10">
       <div className="absolute -right-10 top-10 h-32 w-32 rounded-full bg-emerald-400/10 blur-3xl transition-opacity" />
       <CardHeader className="flex flex-row items-start gap-4 pb-4">
