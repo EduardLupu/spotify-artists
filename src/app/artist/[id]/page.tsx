@@ -82,19 +82,19 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   const pageTitle = `${artist.n} | ${baseTitle}`
   const description =
     artist.bio?.slice(0, 252)?.concat('…') ??
-    `Explore real-time Spotify performance metrics, listeners, and momentum insights for ${artist.n}.`
-  const imageUrl = artist.p ? `https://i.scdn.co/image/${artist.p}` : `${siteUrl}/icon.svg`
+    `Explore real-time performance metrics, listeners, and momentum insights for ${artist.n}.`
+  const imageUrl = artist.p ? `https://i.scdn.co/image/${artist.p}` : `${siteUrl}/app-icon.svg`
   const pageUrl = `${siteUrl}/artist/${artist.i}`
 
   return {
     title: pageTitle,
-    description,
+    description: description,
     alternates: {
       canonical: `/artist/${artist.i}`,
     },
     openGraph: {
       title: pageTitle,
-      description,
+      description: description,
       type: 'profile',
       url: pageUrl,
       siteName: baseTitle,
@@ -110,7 +110,7 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
     twitter: {
       card: 'summary_large_image',
       title: pageTitle,
-      description,
+      description: description,
       images: [imageUrl],
     },
   }

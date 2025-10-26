@@ -2,7 +2,7 @@ import type {Metadata} from 'next'
 import {Inter} from 'next/font/google'
 import './globals.css'
 import Footer from '@/components/ui/footer'
-import { GoogleAnalytics } from "@next/third-parties/google";
+import {GoogleAnalytics} from "@next/third-parties/google";
 
 const inter = Inter({subsets: ['latin']})
 
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
         'streaming momentum',
         'best artists',
         'music data',
-        'monthy listeners',
+        'monthly listeners',
         'artist insights',
         'music trends',
         ''
@@ -38,8 +38,7 @@ export const metadata: Metadata = {
     publisher: 'Eduard Lupu',
     openGraph: {
         title: 'World’s Top Artists',
-        description:
-            'Discover the world’s top 500 artists — real-time listeners, daily ranks, and momentum insights updated every 24 hours.',
+        description: 'Discover the world’s top 500 artists — real-time listeners, daily ranks, and momentum insights updated every 24 hours.',
         url: siteUrl,
         siteName: 'World’s Top Artists',
         type: 'website',
@@ -76,8 +75,8 @@ export default function RootLayout({
             {children}
         </div>
         <Footer/>
+        <GoogleAnalytics gaId="G-2NVJ33DBX4"/>
         </body>
-        <GoogleAnalytics gaId="G-2NVJ33DBX4" />
         </html>
     )
 }
