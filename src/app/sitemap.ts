@@ -15,6 +15,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${baseUrl}/`, lastModified },
     { url: `${baseUrl}/former`, lastModified },
     { url: `${baseUrl}/world-map`, lastModified },
+    { url: `${baseUrl}/graph`, lastModified },
   ]
 
   artists.forEach((artist) => {
