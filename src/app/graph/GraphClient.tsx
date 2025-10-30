@@ -26,6 +26,7 @@ import {
 import { ScrollArea } from '@/components/ui/scroll-area'
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar'
 import { Separator } from '@/components/ui/separator'
+import { useElementSize } from '@/lib/hooks/use-element-size'
 
 const ForceGraph3D = dynamic(() => import('react-force-graph-3d'), { ssr: false })
 
@@ -129,9 +130,11 @@ type GraphCanvasProps = {
   adjacency: AdjacencyMap
   selectedId: string | null
   onSelect: (id: string, event: MouseEvent | undefined) => void
+  width: number
+  height: number
 }
 
-function GraphCanvas({ graph, adjacency, selectedId, onSelect }: GraphCanvasProps) {
+function GraphCanvas({ graph, adjacency, selectedId, onSelect, width, height }: GraphCanvasProps) {
   const fgRef = useRef<ForceGraphMethods | null>(null)
   const labels = useMemo(() => {
     const map = new Map<string, string>()
@@ -215,9 +218,16 @@ function GraphCanvas({ graph, adjacency, selectedId, onSelect }: GraphCanvasProp
     fg.zoomToFit(duration, 80)
   }, [adjacency, graph.nodes, selectedId])
 
+  // Only render when we have valid dimensions
+  if (width === 0 || height === 0) {
+    return <LoadingState />
+  }
+
   return (
     <ForceGraph3D
       ref={fgRef as unknown as MutableRefObject<ForceGraphMethods>}
+      width={width}
+      height={height}
       graphData={graph}
       backgroundColor="#020202"
       nodeThreeObject={(node) => {
@@ -246,14 +256,14 @@ function GraphCanvas({ graph, adjacency, selectedId, onSelect }: GraphCanvasProp
       linkColor={() => 'rgba(255,255,255,0.12)'}
       linkOpacity={0.35}
       linkWidth={0.25}
-      linkDirectionalParticles={0.25}
+      linkDirectionalParticles={1}
       linkDirectionalParticleSpeed={0.002}
       linkDirectionalParticleColor={() => 'rgba(29,185,84,0.4)'}
       nodeVal={1}
       enableNodeDrag={false}
       warmupTicks={200}
       cooldownTicks={420}
-      showNavInfo={false}
+      showNavInfo={true}
       onNodeClick={(node, event) => {
         const artist = node as ArtistNode
         onSelect(artist.id, event as MouseEvent | undefined)
@@ -272,6 +282,8 @@ function initials(name: string) {
 export default function GraphClient() {
   const { graph, adjacency, loading } = useArtistGraph()
   const [selectedId, setSelectedId] = useState<string | null>(null)
+  const graphContainerRef = useRef<HTMLDivElement>(null)
+  const { width, height } = useElementSize(graphContainerRef)
 
   const nodeIndex = useMemo(() => {
     if (!graph) return new Map<string, ArtistNode>()
@@ -346,7 +358,7 @@ export default function GraphClient() {
         <div className="absolute inset-x-0 bottom-0 h-80 bg-gradient-to-t from-black via-black/60 to-transparent" />
       </div>
 
-      <main className="mx-auto flex min-h-screen w-full max-w-[1880px] flex-col gap-8 px-6 pb-16 pt-12 md:pt-16">
+      <main className="mx-auto flex min-h-screen w-full max-w-[1600px] flex-col gap-8 px-4 pb-24 pt-16 sm:px-6 lg:px-10">
         <header className="flex flex-col gap-6 xl:flex-row xl:items-center xl:justify-between">
           <div className="space-y-4">
             <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/10 px-4 py-1 text-xs uppercase tracking-[0.32em] text-white/60">
@@ -376,7 +388,7 @@ export default function GraphClient() {
         </header>
 
         <section className="grid gap-6 xl:grid-cols-[minmax(0,4.4fr)_minmax(460px,1fr)] 2xl:grid-cols-[minmax(0,4.6fr)_minmax(520px,1fr)]">
-          <div className="relative min-h-[64vh] overflow-hidden rounded-3xl border border-white/10 bg-black/40 p-3 backdrop-blur">
+          <div className="relative min-h-[64vh] overflow-hidden rounded-3xl border border-white/10 bg-black/40 backdrop-blur">
             {selectedId && (
               <>
                 <div className="absolute left-5 top-5 z-10 flex flex-wrap items-center gap-3 rounded-full border border-white/10 bg-black/55 px-4 py-2 text-xs uppercase tracking-[0.3em] text-white/50">
@@ -398,7 +410,7 @@ export default function GraphClient() {
                 </div>
               </>
             )}
-            <div className="h-full w-full">
+            <div ref={graphContainerRef} className="relative h-full w-full">
               {loading && <LoadingState />}
               {!loading && displayGraph && (
                 <Suspense fallback={<LoadingState />}>
@@ -407,6 +419,8 @@ export default function GraphClient() {
                     adjacency={adjacency}
                     selectedId={selectedId}
                     onSelect={handleSelect}
+                    width={width}
+                    height={height}
                   />
                 </Suspense>
               )}
@@ -418,8 +432,8 @@ export default function GraphClient() {
             </div>
           </div>
 
-          <aside className="flex flex-col gap-4">
-            <Card className="border-white/10 bg-white/5 backdrop-blur">
+          <aside className="flex flex-col gap-4 max-h-[calc(100vh-8rem)]">
+            <Card className="border-white/10 bg-white/5 backdrop-blur shrink-0">
               <CardHeader className="pb-3">
                 <CardTitle className="text-lg font-semibold text-white">Network overview</CardTitle>
                 <CardDescription className="text-xs text-white/55">
@@ -445,8 +459,8 @@ export default function GraphClient() {
               </CardContent>
             </Card>
 
-            <Card className="flex-1 border-white/10 bg-black/35 backdrop-blur">
-              <CardHeader className="pb-3">
+            <Card className="border-white/10 bg-black/35 backdrop-blur h-[680px] overflow-hidden">
+              <CardHeader className="pb-3 shrink-0">
                 <CardTitle className="text-lg font-semibold text-white">
                   {selectedArtist ? selectedArtist.name : 'Choose an artist'}
                 </CardTitle>
@@ -456,10 +470,10 @@ export default function GraphClient() {
                     : 'Select a node to surface its immediate constellation.'}
                 </CardDescription>
               </CardHeader>
-              <CardContent className="space-y-4">
+              <CardContent className="h-[calc(100%-5rem)] overflow-hidden">
                 {selectedArtist ? (
                   neighborNodes.length > 0 ? (
-                    <ScrollArea className="h-[520px] pr-2">
+                    <ScrollArea className="h-full pr-2">
                       <ul className="space-y-3">
                         {neighborNodes.map((neighbor) => (
                           <li
@@ -500,12 +514,12 @@ export default function GraphClient() {
                       </ul>
                     </ScrollArea>
                   ) : (
-                    <div className="flex min-h-[140px] items-center justify-center rounded-2xl border border-dashed border-white/10 bg-black/30 px-6 text-center text-sm text-white/50">
+                    <div className="flex h-[140px] items-center justify-center rounded-2xl border border-dashed border-white/10 bg-black/30 px-6 text-center text-sm text-white/50">
                       No related artists found inside the Top 500.
                     </div>
                   )
                 ) : (
-                  <div className="flex min-h-[140px] items-center justify-center rounded-2xl border border-dashed border-white/10 bg-black/30 px-6 text-center text-sm text-white/55">
+                  <div className="flex h-[140px] items-center justify-center rounded-2xl border border-dashed border-white/10 bg-black/30 px-6 text-center text-sm text-white/55">
                     Click a node in the constellation to reveal every directly connected artist with quick links.
                   </div>
                 )}

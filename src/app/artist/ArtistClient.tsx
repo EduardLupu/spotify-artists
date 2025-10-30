@@ -362,8 +362,8 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                     index === 0
                         ? 'sm:col-span-2 sm:row-span-2 lg:col-span-2 lg:row-span-2'
                         : index === 3
-                        ? 'lg:row-span-2'
-                        : '',
+                            ? 'lg:row-span-2'
+                            : '',
             })),
         [galleryImages]
     )
@@ -378,7 +378,7 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                     if (!current) return current
                     const nextIndex = Math.min(current.index + 1, galleryLayout.length - 1)
                     return galleryLayout[nextIndex]
-                        ? { url: galleryLayout[nextIndex].url, index: nextIndex }
+                        ? {url: galleryLayout[nextIndex].url, index: nextIndex}
                         : current
                 })
             } else if (event.key === 'ArrowLeft') {
@@ -386,14 +386,14 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                     if (!current) return current
                     const nextIndex = Math.max(current.index - 1, 0)
                     return galleryLayout[nextIndex]
-                        ? { url: galleryLayout[nextIndex].url, index: nextIndex }
+                        ? {url: galleryLayout[nextIndex].url, index: nextIndex}
                         : current
                 })
             }
         }
 
         document.addEventListener('keydown', handleKey)
-        const { style } = document.body
+        const {style} = document.body
         const previousOverflow = style.overflow
         style.overflow = 'hidden'
 
@@ -407,7 +407,7 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
         (index: number) => {
             const target = galleryLayout[index]
             if (target) {
-                setActivePhoto({ url: target.url, index })
+                setActivePhoto({url: target.url, index})
             }
         },
         [galleryLayout]
@@ -422,7 +422,7 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                     Math.max(0, current.index + direction)
                 )
                 return galleryLayout[nextIndex]
-                    ? { url: galleryLayout[nextIndex].url, index: nextIndex }
+                    ? {url: galleryLayout[nextIndex].url, index: nextIndex}
                     : current
             })
         },
@@ -873,7 +873,8 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                                 <h2 className="text-2xl font-semibold text-white sm:text-3xl">Chart cadence insight</h2>
                                 <p className="max-w-2xl text-sm text-white/65 sm:text-base">
                                     Live performance snapshots pulled directly from Spotify&apos;s global artist charts.
-                                    Track how rank, peak positions, and entry streaks evolve across daily and weekly recurrences.
+                                    Track how rank, peak positions, and entry streaks evolve across daily and weekly
+                                    recurrences.
                                 </p>
                             </div>
                             <div className="grid gap-5 lg:grid-cols-2">
@@ -884,7 +885,6 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                                             ? latest.previousRank - latest.currentRank
                                             : null
                                     const statusLabel = prettifyStatus(latest.entryStatus)
-                                    const timeline = group.rows.slice(0, 6)
 
                                     return (
                                         <Card
@@ -904,7 +904,8 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                                                             className="mt-1 inline-flex items-center gap-2 rounded-full border border-white/10 bg-black/30 px-3 py-1 text-[11px] uppercase tracking-[0.24em] text-white/60">
                                                             {group.label}
                                                             {group.chartType && (
-                                                                <span className="text-white/35">• {group.chartType.replace(/_/g, ' ')}</span>
+                                                                <span
+                                                                    className="text-white/35">• {group.chartType.replace(/_/g, ' ')}</span>
                                                             )}
                                                         </div>
                                                     </div>
@@ -913,13 +914,14 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                                                     </span>
                                                 </div>
                                                 <div className="flex flex-wrap items-end justify-between gap-4">
-                                                    <CardTitle className="text-3xl font-semibold text-white sm:text-4xl">
+                                                    <CardTitle
+                                                        className="text-3xl font-semibold text-white sm:text-4xl">
                                                         {latest.currentRank !== null ? `#${latest.currentRank}` : 'Off chart'}
                                                     </CardTitle>
                                                     <div className="text-right text-xs text-white/50">
                                                         <p className={`text-sm font-semibold ${deltaColor(delta)}`}>
-                                                            {delta === null
-                                                                ? '—'
+                                                            {delta === null || delta === 0
+                                                                ? '±0'
                                                                 : delta > 0
                                                                     ? `▲${delta}`
                                                                     : delta < 0
@@ -929,7 +931,8 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                                                         <span>vs previous</span>
                                                     </div>
                                                 </div>
-                                                <div className="flex flex-wrap items-center gap-2 text-xs text-white/60">
+                                                <div
+                                                    className="flex flex-wrap items-center gap-2 text-xs text-white/60">
                                                     <span
                                                         className="rounded-full border border-white/10 bg-white/5 px-3 py-1">
                                                         Peak {latest.peakRank ? `#${latest.peakRank}` : '—'}
@@ -953,9 +956,10 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                                                 </div>
                                             </CardHeader>
                                             <CardContent className="space-y-4">
-                                                <div className="rounded-3xl border border-white/10 bg-black/30">
+                                                <ScrollArea
+                                                    className="h-[270px] rounded-3xl border border-white/10 bg-black/30 pr-3">
                                                     <ul className="divide-y divide-white/10">
-                                                        {timeline.map((row, index) => {
+                                                        {group.rows.map((row, index) => {
                                                             const rowDelta =
                                                                 row.previousRank !== null && row.currentRank !== null
                                                                     ? row.previousRank - row.currentRank
@@ -966,43 +970,53 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                                                                     key={`${row.date}-${index}`}
                                                                     className="flex flex-col gap-3 px-4 py-3 sm:flex-row sm:items-center sm:justify-between"
                                                                 >
-                                                                    <div>
+                                                                    <div className="mr-6">
                                                                         <p className="text-base font-semibold text-white">
                                                                             {row.currentRank !== null ? `#${row.currentRank}` : '—'}
                                                                         </p>
-                                                                        <p className="text-xs uppercase tracking-[0.3em] text-white/40">
+                                                                        <p className="text-[10px] uppercase tracking-[0.3em] text-white/40">
                                                                             {formatDate(row.date)}
                                                                         </p>
                                                                     </div>
-                                                                    <div className="flex flex-wrap items-center gap-2 text-xs text-white/55 sm:justify-end">
-                                                                        <span className="text-white/45">
-                                                                            Prev {row.previousRank !== null ? `#${row.previousRank}` : '—'}
-                                                                        </span>
-                                                                        <span className={`inline-flex items-center font-semibold ${deltaColor(rowDelta)}`}>
-                                                                            {rowDelta === null
-                                                                                ? '—'
-                                                                                : rowDelta > 0
-                                                                                    ? `▲${rowDelta}`
-                                                                                    : rowDelta < 0
-                                                                                        ? `▼${Math.abs(rowDelta)}`
-                                                                                        : '·'}
-                                                                        </span>
-                                                                        {entryStatus && (
-                                                                            <span className="rounded-full border border-white/10 bg-white/5 px-3 py-1 uppercase tracking-[0.3em] text-white/50">
-                                                                                {entryStatus}
-                                                                            </span>
-                                                                        )}
-                                                                        {row.entryRank !== null && (
+                                                                    <div
+                                                                        className="flex flex-1 items-center text-xs text-white/55 gap-4 flex-wrap justify-end">
+                                                                        <div
+                                                                            className="flex items-center gap-4 flex-wrap justify-end">
+                                                                            {row.entryRank !== null && (
+                                                                                <span className="text-white/45">
+                                                                                    Entry #{row.entryRank}
+                                                                                </span>
+                                                                            )}
                                                                             <span className="text-white/45">
-                                                                                Entry #{row.entryRank}
+                                                                              Prev {row.previousRank !== null ? `#${row.previousRank}` : '—'}
                                                                             </span>
+                                                                            <span
+                                                                                className={`inline-flex items-center font-semibold ${deltaColor(rowDelta)}`}
+                                                                            >
+                                                                                {rowDelta === null || rowDelta === 0
+                                                                                    ? '±0'
+                                                                                    : rowDelta > 0
+                                                                                        ? `▲${rowDelta}`
+                                                                                        : rowDelta < 0
+                                                                                            ? `▼${Math.abs(rowDelta)}`
+                                                                                            : '·'}
+                                                                              </span>
+                                                                        </div>
+                                                                        {entryStatus && (
+                                                                            <div className="w-full flex justify-end">
+                                                                              <span
+                                                                                  className="rounded-full border border-white/10 text-[10px] bg-white/5 px-3 py-1 uppercase tracking-[0.3em] text-white/50">
+                                                                                {entryStatus}
+                                                                              </span>
+                                                                            </div>
                                                                         )}
                                                                     </div>
+
                                                                 </li>
                                                             )
                                                         })}
                                                     </ul>
-                                                </div>
+                                                </ScrollArea>
                                             </CardContent>
                                         </Card>
                                     )
@@ -1140,19 +1154,19 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                                                             </div>
                                                         </div>
 
-                                                {/* right actions */
-                                                }
-                                                <div
-                                                    className="flex w-full shrink-0 flex-col gap-2 sm:col-span-2 sm:flex-row sm:items-center sm:justify-end lg:col-span-1 lg:w-auto">
-                                                    <Button
-                                                        variant="secondary"
-                                                        size="icon"
-                                                        className="self-start rounded-full border-white/10 bg-white/10 text-white hover:bg-white/20 sm:self-auto"
-                                                        onClick={() => handleToggleTrack(track)}
-                                                        disabled={!track.preview}
-                                                        aria-label={isActive ? "Pause" : "Play"}
-                                                    >
-                                                    {isActive ? <Pause className="h-5 w-5"/> :
+                                                        {/* right actions */
+                                                        }
+                                                        <div
+                                                            className="flex w-full shrink-0 flex-col gap-2 sm:col-span-2 sm:flex-row sm:items-center sm:justify-end lg:col-span-1 lg:w-auto">
+                                                            <Button
+                                                                variant="secondary"
+                                                                size="icon"
+                                                                className="self-start rounded-full border-white/10 bg-white/10 text-white hover:bg-white/20 sm:self-auto"
+                                                                onClick={() => handleToggleTrack(track)}
+                                                                disabled={!track.preview}
+                                                                aria-label={isActive ? "Pause" : "Play"}
+                                                            >
+                                                                {isActive ? <Pause className="h-5 w-5"/> :
                                                                     <Play className="h-5 w-5"/>}
                                                             </Button>
                                                         </div>
@@ -1220,11 +1234,15 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                                 </span>
                             </div>
 
-                            <div className="relative mt-6 overflow-hidden rounded-[2.4rem] border border-white/10 bg-white/5 px-4 py-6 shadow-2xl shadow-emerald-500/10 sm:px-6 lg:px-10">
-                                <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top,_rgba(16,185,129,0.22),_transparent_60%)]" />
-                                <div className="pointer-events-none absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-black/60 via-black/40 to-transparent" />
+                            <div
+                                className="relative mt-6 overflow-hidden rounded-[2.4rem] border border-white/10 bg-white/5 px-4 py-6 shadow-2xl shadow-emerald-500/10 sm:px-6 lg:px-10">
+                                <div
+                                    className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top,_rgba(16,185,129,0.22),_transparent_60%)]"/>
+                                <div
+                                    className="pointer-events-none absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-black/60 via-black/40 to-transparent"/>
 
-                                <div className="relative z-10 grid auto-rows-[160px] gap-4 sm:auto-rows-[210px] sm:grid-cols-2 lg:auto-rows-[240px] lg:grid-cols-4">
+                                <div
+                                    className="relative z-10 grid auto-rows-[160px] gap-4 sm:auto-rows-[210px] sm:grid-cols-2 lg:auto-rows-[240px] lg:grid-cols-4">
                                     {galleryLayout.map(({url, span}, index) => (
                                         <figure
                                             key={`${url}-${index}`}
@@ -1252,7 +1270,8 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                                                     event.currentTarget.style.display = 'none'
                                                 }}
                                             />
-                                            <figcaption className="pointer-events-none absolute inset-x-3 bottom-3 flex items-center justify-between rounded-full bg-black/60 px-3 py-1 text-[10px] uppercase tracking-[0.4em] text-white/60 backdrop-blur">
+                                            <figcaption
+                                                className="pointer-events-none absolute inset-x-3 bottom-3 flex items-center justify-between rounded-full bg-black/60 px-3 py-1 text-[10px] uppercase tracking-[0.4em] text-white/60 backdrop-blur">
                                                 <span>{artist?.n ?? 'Artist'}</span>
                                                 <span>{index + 1}</span>
                                             </figcaption>
@@ -1264,14 +1283,15 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                     )}
 
                     {activePhoto && (
-                        <div className="fixed inset-0 z-[60] flex flex-col items-center justify-center gap-6 overflow-y-auto bg-black/80 px-4 py-8 backdrop-blur-lg sm:flex-row sm:gap-10 sm:px-8">
+                        <div
+                            className="fixed inset-0 z-[60] flex flex-col items-center justify-center gap-6 overflow-y-auto bg-black/80 px-4 py-8 backdrop-blur-lg sm:flex-row sm:gap-10 sm:px-8">
                             <button
                                 type="button"
                                 aria-label="Close full-screen photo"
                                 className="absolute right-6 top-6 inline-flex h-11 w-11 items-center justify-center rounded-full border border-white/10 bg-black/60 text-white/90 transition-colors hover:bg-white/10"
                                 onClick={() => setActivePhoto(null)}
                             >
-                                <X className="h-5 w-5" />
+                                <X className="h-5 w-5"/>
                             </button>
                             {activePhoto.index > 0 && (
                                 <button
@@ -1280,7 +1300,7 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                                     className="absolute left-4 top-1/2 hidden -translate-y-1/2 rounded-full border border-white/10 bg-black/60 p-3 text-white transition hover:bg-white/10 sm:inline-flex"
                                     onClick={() => navigatePhoto(-1)}
                                 >
-                                    <ArrowLeft className="h-5 w-5" />
+                                    <ArrowLeft className="h-5 w-5"/>
                                 </button>
                             )}
                             {activePhoto.index < galleryLayout.length - 1 && (
@@ -1290,16 +1310,18 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                                     className="absolute right-4 top-1/2 hidden -translate-y-1/2 rounded-full border border-white/10 bg-black/60 p-3 text-white transition hover:bg-white/10 sm:inline-flex"
                                     onClick={() => navigatePhoto(1)}
                                 >
-                                    <ArrowRight className="h-5 w-5" />
+                                    <ArrowRight className="h-5 w-5"/>
                                 </button>
                             )}
-                            <div className="relative w-full max-w-5xl overflow-hidden rounded-[2rem] border border-white/10 bg-black/60 shadow-2xl shadow-emerald-500/20">
+                            <div
+                                className="relative w-full max-w-5xl overflow-hidden rounded-[2rem] border border-white/10 bg-black/60 shadow-2xl shadow-emerald-500/20">
                                 <img
                                     src={activePhoto.url}
                                     alt={`Expanded view ${activePhoto.index + 1}`}
                                     className="h-auto w-full max-h-[78vh] object-contain sm:max-h-[82vh]"
                                 />
-                                <div className="absolute bottom-4 left-1/2 flex -translate-x-1/2 items-center gap-2 rounded-full border border-white/10 bg-black/60 px-4 py-1 text-[11px] uppercase tracking-[0.35em] text-white/60">
+                                <div
+                                    className="absolute bottom-4 left-1/2 flex -translate-x-1/2 items-center gap-2 rounded-full border border-white/10 bg-black/60 px-4 py-1 text-[11px] uppercase tracking-[0.35em] text-white/60">
                                     <span>{artist?.n ?? 'Artist'}</span>
                                     <span>
                                         {activePhoto.index + 1} / {galleryLayout.length}
