@@ -376,7 +376,7 @@ export default function GraphClient() {
         </header>
 
         <section className="grid gap-6 xl:grid-cols-[minmax(0,4.4fr)_minmax(460px,1fr)] 2xl:grid-cols-[minmax(0,4.6fr)_minmax(520px,1fr)]">
-          <div className="relative min-h-[64vh] overflow-hidden rounded-3xl border border-white/10 bg-black/40 p-3 backdrop-blur">
+          <div className="relative min-h-[64vh] overflow-hidden rounded-3xl border border-white/10 bg-black/40 backdrop-blur">
             {selectedId && (
               <>
                 <div className="absolute left-5 top-5 z-10 flex flex-wrap items-center gap-3 rounded-full border border-white/10 bg-black/55 px-4 py-2 text-xs uppercase tracking-[0.3em] text-white/50">
