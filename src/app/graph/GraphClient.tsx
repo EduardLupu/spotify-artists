@@ -346,7 +346,7 @@ export default function GraphClient() {
         <div className="absolute inset-x-0 bottom-0 h-80 bg-gradient-to-t from-black via-black/60 to-transparent" />
       </div>
 
-      <main className="mx-auto flex min-h-screen w-full max-w-[1880px] flex-col gap-8 px-6 pb-16 pt-12 md:pt-16">
+      <main className="mx-auto flex min-h-screen w-full max-w-[1600px] flex-col gap-8 px-4 pb-24 pt-16 sm:px-6 lg:px-10">
         <header className="flex flex-col gap-6 xl:flex-row xl:items-center xl:justify-between">
           <div className="space-y-4">
             <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/10 px-4 py-1 text-xs uppercase tracking-[0.32em] text-white/60">
