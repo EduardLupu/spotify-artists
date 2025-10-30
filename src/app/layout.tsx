@@ -2,6 +2,7 @@ import type {Metadata} from 'next'
 import {Inter} from 'next/font/google'
 import './globals.css'
 import Footer from '@/components/ui/footer'
+import PwaUpdater from '@/components/pwa-updater'
 import {GoogleAnalytics} from "@next/third-parties/google";
 
 const inter = Inter({subsets: ['latin']})
@@ -36,6 +37,7 @@ export const metadata: Metadata = {
     authors: [{name: 'Eduard Lupu', url: 'https://eduardlupu.com'}],
     creator: 'Eduard Lupu',
     publisher: 'Eduard Lupu',
+    manifest: '/manifest.json',
     openGraph: {
         title: 'World’s Top Artists',
         description: 'Discover the world’s top 500 artists — real-time listeners, daily ranks, and momentum insights updated every 24 hours.',
@@ -60,6 +62,11 @@ export const metadata: Metadata = {
     },
     alternates: {
         canonical: '/',
+    },
+    appleWebApp: {
+        capable: true,
+        title: 'World’s Top Artists',
+        statusBarStyle: 'black-translucent',
     }
 }
 
@@ -74,6 +81,7 @@ export default function RootLayout({
         <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-black">
             {children}
         </div>
+        <PwaUpdater />
         <Footer/>
         <GoogleAnalytics gaId="G-2NVJ33DBX4"/>
         </body>

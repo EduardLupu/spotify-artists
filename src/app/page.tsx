@@ -3,18 +3,19 @@
 import { useEffect, useMemo, useState } from 'react'
 import Link from 'next/link'
 import {
-    Activity,
-    ArrowUpRight,
-    BadgeCheck,
-    CalendarCheck,
-    ChevronDown,
-    Disc3,
-    Globe2,
-    History,
-    Loader2, Orbit,
-    Search,
-    TrendingUp,
-    Users,
+  Activity,
+  ArrowUpRight,
+  BadgeCheck,
+  CalendarCheck,
+  ChevronDown,
+  Disc3,
+  Globe2,
+  Loader2,
+  Menu,
+  Search,
+  TrendingUp,
+  Users,
+  X,
 } from 'lucide-react'
 
 import { Badge } from '@/components/ui/badge'
@@ -166,12 +167,24 @@ function ArtistCard({ artist }: { artist: Artist }) {
 }
 
 export default function Home() {
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
   const [artists, setArtists] = useState<Artist[]>([])
   const [loading, setLoading] = useState(true)
   const [searchTerm, setSearchTerm] = useState('')
   const [view, setView] = useState<ViewKey>('rank')
   const [visibleCount, setVisibleCount] = useState(24)
   const [lastUpdated, setLastUpdated] = useState<string | null>(null)
+
+  useEffect(() => {
+    const media = window.matchMedia('(min-width: 768px)')
+    const onChange = (event: MediaQueryListEvent) => {
+      if (event.matches) {
+        setMobileMenuOpen(false)
+      }
+    }
+    media.addEventListener('change', onChange)
+    return () => media.removeEventListener('change', onChange)
+  }, [])
 
   useEffect(() => {
     const fetchArtists = async () => {
@@ -283,80 +296,113 @@ export default function Home() {
       </div>
 
       <header className="border-b border-white/10 bg-black/40 backdrop-blur-xl">
-        <div className="mx-auto flex max-w-6xl flex-col gap-6 px-4 py-10 md:flex-row md:items-center md:justify-between">
-          <div className="space-y-3">
-            <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-1 text-xs uppercase tracking-widest text-white/60">
-              <Disc3 className="h-3.5 w-3.5 text-emerald-300" />
-              Top Artists Live Pulse
-            </div>
-            <h1 className="text-4xl font-semibold tracking-tight text-white sm:text-5xl">
-              World&apos;s Top Artists
-            </h1>
-            <p className="max-w-2xl text-sm text-white/60 sm:text-base">
-              Real-time analytics and insights dashboard on the top 500 artists globally. Track
-              listener growth, momentum, and breakout stars as they emerge.
-            </p>
-          </div>
-          <div className="flex w-full flex-col gap-4 md:w-[18rem]">
-            <div className="relative">
-              <Search className="pointer-events-none absolute left-4 top-1/2 h-4 w-4 -translate-y-1/2 text-white/40" />
-              <Input
-                placeholder="Search by artist name…"
-                value={searchTerm}
-                onChange={(event) => setSearchTerm(event.target.value)}
-                className="h-12 rounded-full border-white/10 bg-white/10 pl-11 text-white placeholder:text-white/40 focus-visible:ring-emerald-400"
-              />
-            </div>
-            <div className="rounded-xl border border-white/10 bg-white/5 p-4 text-xs text-white/60">
-              <div className="flex items-center justify-between">
-                <span className="uppercase tracking-widest">Dataset</span>
-                <Badge variant="muted" className="rounded-full border-white/10 bg-white/10 text-[11px] text-white/70">
-                  {artists.length} artists
-                </Badge>
+        <div className="mx-auto max-w-6xl px-4 py-10">
+          <div className="flex flex-col gap-8">
+            <div className="flex items-center justify-between">
+              <div className="flex items-center gap-3">
+                <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-1 text-xs uppercase tracking-[0.35em] text-white/60">
+                  <Disc3 className="h-3.5 w-3.5 text-emerald-300" />
+                  Live Pulse
+                </div>
               </div>
-              <Separator className="my-3 border-white/10" />
-              <div className="flex items-center justify-between text-white/70">
-                <span className="inline-flex items-center gap-2">
-                  <CalendarCheck className="h-3.5 w-3.5 text-emerald-300" />
-                  Last ingest
-                </span>
-                <span>{lastUpdated ? new Date(lastUpdated).toLocaleDateString() : '—'}</span>
+              <div className="flex items-center gap-3">
+                <nav className="hidden items-center gap-1 rounded-full border border-white/10 bg-white/5 px-2 py-1 text-sm text-white/70 md:flex">
+                  <Link href="/" className="rounded-full px-3 py-1 transition hover:bg-white/15 hover:text-white">
+                    Dashboard
+                  </Link>
+                  <Link href="/former" className="rounded-full px-3 py-1 transition hover:bg-white/15 hover:text-white">
+                    Former Artists
+                  </Link>
+                  <Link href="/world-map" className="rounded-full px-3 py-1 transition hover:bg-white/15 hover:text-white">
+                    World Atlas
+                  </Link>
+                  <Link href="/graph" className="rounded-full px-3 py-1 transition hover:bg-white/15 hover:text-white">
+                    Artist Graph
+                  </Link>
+                </nav>
+                <button
+                  type="button"
+                  className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-white/10 bg-white/5 text-white/70 transition hover:bg-white/15 md:hidden"
+                  onClick={() => setMobileMenuOpen((previous) => !previous)}
+                  aria-label="Toggle navigation"
+                >
+                  {mobileMenuOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
+                </button>
               </div>
             </div>
-            <div className="flex flex-col gap-3">
-              <Button
-                asChild
-                variant="secondary"
-                className="group inline-flex h-12 flex-1 items-center justify-center gap-2 rounded-full border-white/15 bg-emerald-400/15 text-sm font-semibold text-white hover:bg-emerald-400/25"
-              >
-                <Link href="/world-map">
-                  <Globe2 className="h-4 w-4 text-emerald-200 transition-transform group-hover:scale-110" />
-                  Explore world atlas
-                  <ArrowUpRight className="h-4 w-4 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
+
+            {mobileMenuOpen && (
+              <nav className="flex flex-col gap-2 rounded-3xl border border-white/10 bg-black/50 p-5 text-sm text-white/75 shadow-lg shadow-black/40 md:hidden">
+                <Link
+                  href="/"
+                  className="flex items-center justify-between rounded-2xl border border-white/5 bg-white/5 px-4 py-3 transition hover:border-emerald-300/40 hover:bg-emerald-400/10 hover:text-white"
+                  onClick={() => setMobileMenuOpen(false)}
+                >
+                  <span>Dashboard</span>
+                  <ArrowUpRight className="h-4 w-4" />
                 </Link>
-              </Button>
-              <Button
-                asChild
-                variant="secondary"
-                className="group inline-flex h-12 flex-1 items-center justify-center gap-2 rounded-full border-white/15 bg-white/10 text-sm font-semibold text-white hover:bg-white/20"
-              >
-                <Link href="/former">
-                  <History className="h-4 w-4 text-white/70 transition-transform group-hover:scale-110" />
-                  Former artists archive
-                  <ArrowUpRight className="h-4 w-4 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
+                <Link
+                  href="/former"
+                  className="flex items-center justify-between rounded-2xl border border-white/5 bg-white/5 px-4 py-3 transition hover:border-emerald-300/40 hover:bg-emerald-400/10 hover:text-white"
+                  onClick={() => setMobileMenuOpen(false)}
+                >
+                  <span>Former Artists</span>
+                  <ArrowUpRight className="h-4 w-4" />
                 </Link>
-              </Button>
-              <Button
-                asChild
-                variant="secondary"
-                className="group inline-flex h-12 flex-1 items-center justify-center gap-2 rounded-full border-white/15 bg-white/5 text-sm font-semibold text-white hover:bg-white/10"
-              >
-                <Link href="/graph">
-                  <Orbit className="h-4 w-4 text-emerald-200 transition-transform group-hover:scale-110" />
-                  Artist constellation
-                  <ArrowUpRight className="h-4 w-4 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
+                <Link
+                  href="/world-map"
+                  className="flex items-center justify-between rounded-2xl border border-white/5 bg-white/5 px-4 py-3 transition hover:border-emerald-300/40 hover:bg-emerald-400/10 hover:text-white"
+                  onClick={() => setMobileMenuOpen(false)}
+                >
+                  <span>World Atlas</span>
+                  <ArrowUpRight className="h-4 w-4" />
                 </Link>
-              </Button>
+                <Link
+                  href="/graph"
+                  className="flex items-center justify-between rounded-2xl border border-white/5 bg-white/5 px-4 py-3 transition hover:border-emerald-300/40 hover:bg-emerald-400/10 hover:text-white"
+                  onClick={() => setMobileMenuOpen(false)}
+                >
+                  <span>Artist Graph</span>
+                  <ArrowUpRight className="h-4 w-4" />
+                </Link>
+              </nav>
+            )}
+
+            <div className="flex flex-col gap-6 md:flex-row md:items-center md:justify-between">
+              <div className="space-y-3">
+                <h1 className="text-4xl font-semibold tracking-tight text-white sm:text-5xl">World&apos;s Top Artists</h1>
+                <p className="max-w-2xl text-sm text-white/60 sm:text-base">
+                  Real-time analytics and insights dashboard on the top 500 artists globally. Track listener growth,
+                  momentum, and breakout stars as they emerge.
+                </p>
+              </div>
+              <div className="flex w-full flex-col gap-4 md:w-[18rem]">
+                <div className="relative">
+                  <Search className="pointer-events-none absolute left-4 top-1/2 h-4 w-4 -translate-y-1/2 text-white/40" />
+                  <Input
+                    placeholder="Search by artist name…"
+                    value={searchTerm}
+                    onChange={(event) => setSearchTerm(event.target.value)}
+                    className="h-12 rounded-full border-white/10 bg-white/10 pl-11 text-white placeholder:text-white/40 focus-visible:ring-emerald-400"
+                  />
+                </div>
+                <div className="rounded-xl border border-white/10 bg-white/5 p-4 text-xs text-white/60">
+                  <div className="flex items-center justify-between">
+                    <span className="uppercase tracking-widest">Dataset</span>
+                    <Badge variant="muted" className="rounded-full border-white/10 bg-white/10 text-[11px] text-white/70">
+                      {artists.length} artists
+                    </Badge>
+                  </div>
+                  <Separator className="my-3 border-white/10" />
+                  <div className="flex items-center justify-between text-white/70">
+                    <span className="inline-flex items-center gap-2">
+                      <CalendarCheck className="h-3.5 w-3.5 text-emerald-300" />
+                      Last ingest
+                    </span>
+                    <span>{lastUpdated ? new Date(lastUpdated).toLocaleDateString() : '—'}</span>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
