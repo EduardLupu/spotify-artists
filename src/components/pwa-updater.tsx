@@ -27,10 +27,22 @@ export default function PwaUpdater() {
 
     const registerServiceWorker = async () => {
       try {
+        // Get Next.js runtime config
         const nextData = (window as any).__NEXT_DATA__
+
+        // Handle both basePath and assetPrefix scenarios
+        const basePath = typeof nextData?.basePath === 'string' ? nextData.basePath : ''
         const assetPrefix = typeof nextData?.assetPrefix === 'string' ? nextData.assetPrefix : ''
-        const prefix = assetPrefix && assetPrefix.endsWith('/') ? assetPrefix.slice(0, -1) : assetPrefix
-        const swUrl = `${prefix}/sw.js`
+
+        // Use basePath for sub-path deployments, fallback to assetPrefix
+        const prefix = basePath || assetPrefix
+
+        // Clean up trailing slash and construct service worker URL
+        const basePrefix = prefix && prefix.endsWith('/') ? prefix.slice(0, -1) : prefix
+
+        // Ensure service worker is loaded from the correct path:
+        const swUrl = basePrefix ? `${basePrefix}/sw.js` : '/sw.js'
+
         const registration = await navigator.serviceWorker.register(swUrl)
 
         if (!mounted) return
@@ -115,4 +127,5 @@ export default function PwaUpdater() {
         </div>
       )}
     </>
-  )}
+  )
+}
