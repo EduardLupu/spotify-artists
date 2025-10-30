@@ -253,7 +253,7 @@ function GraphCanvas({ graph, adjacency, selectedId, onSelect }: GraphCanvasProp
       enableNodeDrag={false}
       warmupTicks={200}
       cooldownTicks={420}
-      showNavInfo={false}
+      showNavInfo={true}
       onNodeClick={(node, event) => {
         const artist = node as ArtistNode
         onSelect(artist.id, event as MouseEvent | undefined)
