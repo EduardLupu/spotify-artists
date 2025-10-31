@@ -471,7 +471,7 @@ export function WorldAtlas() {
                     </div>
                     <div className="flex flex-col rounded-2xl border border-white/10 bg-black/50 p-4 shadow-inner shadow-black/40">
                       <p className="text-[11px] uppercase tracking-[0.35em] text-white/50">Artist breakdown</p>
-                      <ScrollArea className="mt-4 h-[240px] pr-2 sm:h-[260px] lg:h-[320px] xl:h-[360px] 2xl:h-[600px]">
+                      <ScrollArea className="mt-4 h-[240px] pr-6 sm:h-[260px] lg:h-[320px] xl:h-[360px] 2xl:h-[600px]">
                         <div className="divide-y divide-white/5">
                           {currentCity.artists.map((artist, index) => (
                             <div
@@ -601,7 +601,8 @@ export function WorldAtlas() {
                             <text
                               textAnchor="middle"
                               style={{
-                                fontSize: '11px',
+                                fontSize: `2px`,
+                                opacity: mapView.zoom > 2 ? Math.min(1, (mapView.zoom - 2) / 2) : 0,
                                 fill: 'rgba(255,255,255,0.55)',
                                 letterSpacing: '0.22em',
                                 textTransform: 'uppercase',
@@ -614,20 +615,22 @@ export function WorldAtlas() {
 
                         {enrichedDataset.map((entry) => {
                           const isActive = currentCity?.city.cid === entry.city.cid
-                          const radius = Math.min(7, Math.max(2.2, Math.log(entry.totalListeners) * 0.32))
+                          const baseRadius = Math.min(7, Math.max(2.2, Math.log(entry.totalListeners) * 0.32))
+                          // Scale radius based on zoom level - smaller when zoomed in
+                          const radius = baseRadius / (mapView.zoom * 0.5)
+
                           return (
                             <Tooltip key={entry.city.cid}>
                               <TooltipTrigger asChild>
                                 <Marker coordinates={[entry.city.lon as number, entry.city.lat as number]}>
                                   <g
                                     className="cursor-pointer"
-                                    onMouseEnter={() => setActiveCityId(entry.city.cid)}
                                     onClick={() => setActiveCityId(entry.city.cid)}
                                   >
                                     <circle
                                       r={radius}
-                                      fill={isActive ? 'rgba(16,185,129,0.55)' : 'rgba(16,185,129,0.32)'}
-                                      stroke={isActive ? 'rgba(52,211,153,0.85)' : 'rgba(52,211,153,0.45)'}
+                                      fill={isActive ? '#6e124d' : 'rgba(16,185,129,0.32)'}
+                                      stroke={isActive ? '#3e0a2b' : 'rgba(52,211,153,0.45)'}
                                       strokeWidth={isActive ? 1.8 : 1.1}
                                     />
                                     {isActive && (
@@ -641,27 +644,9 @@ export function WorldAtlas() {
                                 </Marker>
                               </TooltipTrigger>
                               <TooltipContent className="border border-white/10 bg-black/80 text-white/80 backdrop-blur">
-                                <div className="space-y-2">
-                                  <p className="text-xs font-semibold text-white">
-                                    {entry.city.name}, {entry.city.countryName ?? entry.city.cc}
-                                  </p>
-                                  <p className="text-[11px] text-white/60">
-                                    {formatNumber(entry.totalListeners)} total listeners
-                                  </p>
-                                  <div className="space-y-1 pt-1">
-                                    {entry.artists.slice(0, 5).map((artist, index) => (
-                                      <div key={artist.id} className="flex items-center justify-between text-[11px] text-white/70">
-                                        <span className="inline-flex items-center gap-1">
-                                          <span className="text-white/40">{index + 1}.</span> {artist.name}
-                                        </span>
-                                        <span>
-                                          {formatNumber(artist.listeners)} ·{' '}
-                                          {artist.share !== null ? percentFormatter.format(artist.share) : '—'}
-                                        </span>
-                                      </div>
-                                    ))}
-                                  </div>
-                                </div>
+                                <p className="text-xs font-semibold text-white">
+                                  {entry.city.name}, {entry.city.countryName ?? entry.city.cc}
+                                </p>
                               </TooltipContent>
                             </Tooltip>
                           )
@@ -691,7 +676,6 @@ export function WorldAtlas() {
                           key={entry.city.cid}
                           type="button"
                           onClick={() => setActiveCityId(entry.city.cid)}
-                          onMouseEnter={() => setActiveCityId(entry.city.cid)}
                           className={cn(
                             'w-full rounded-2xl border px-4 py-3 text-left transition-all duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-emerald-400/70',
                             isActive

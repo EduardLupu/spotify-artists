@@ -5,21 +5,21 @@ import { useMemo, useState } from 'react'
 import {
     Activity,
     ArchiveRestore,
-    ArrowLeft,
-    ArrowUpRight,
+    ArrowUpRight, CalendarCheck,
     CalendarClock,
     Clock4,
-    Filter, Globe2,
+    Filter,
     Search,
 } from 'lucide-react'
 
 import type { FormerArtist } from '@/lib/data'
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar'
 import { Badge } from '@/components/ui/badge'
-import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card'
 import { Input } from '@/components/ui/input'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
+import Navbar from "@/components/navbar";
+import {Separator} from "@/components/ui/separator";
 
 type SortKey = 'recent' | 'listeners' | 'followers' | 'absence' | 'name' | 'rank'
 
@@ -179,53 +179,42 @@ export default function FormerArtistsClient({ artists, generatedAt }: FormerArti
       </div>
 
       <header className="border-b border-white/10 bg-black/40 backdrop-blur-xl">
-        <div className="mx-auto flex max-w-6xl flex-col gap-8 px-4 py-12 lg:flex-row lg:items-center lg:justify-between">
-          <div className="space-y-4">
-            <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/10 px-4 py-1 text-[11px] uppercase tracking-[0.32em] text-white/60">
-              <ArchiveRestore className="h-3.5 w-3.5 text-emerald-300" />
-              Former Top 500
+          <div className="mx-auto max-w-6xl px-4 py-10">
+            <div className="flex flex-col gap-8">
+            <div className="flex items-center justify-between">
+              <div className="inline-flex h-6 items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-1 text-xs uppercase tracking-[0.35em] text-white/60">
+                  <ArchiveRestore className="h-3.5 w-3.5 text-emerald-300" />
+                  Former 500
+              </div>
+                <Navbar />
             </div>
-            <div>
-              <h1 className="text-4xl font-semibold tracking-tight text-white sm:text-5xl">
-                Former Top Artists
-              </h1>
-              <p className="mt-3 max-w-2xl text-sm text-white/65 sm:text-base">
-                These artists once ranked inside the global Top 500. Track how long they&apos;ve been absent,
-                when they last appeared, and where their audience stands today.
-              </p>
-            </div>
-            <div className="flex flex-wrap items-center gap-3 text-sm text-white/60">
-              <Badge variant="muted" className="rounded-full border-white/10 bg-white/10 px-3 py-1 text-[11px] uppercase tracking-[0.28em] text-white/70">
-                {stats.total} tracked artists
-              </Badge>
-              <span className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-xs text-white/60">
-                <CalendarClock className="h-3.5 w-3.5 text-emerald-300" />
-                Updated {lastUpdated}
-              </span>
-            </div>
-          </div>
-          <div className="flex flex-col gap-3">
-            <Button
-              asChild
-              variant="secondary"
-              className="group inline-flex h-12 flex-1 items-center justify-center gap-2 rounded-full border-white/15 bg-white/10 text-sm font-semibold text-white hover:bg-white/20"
-            >
-              <Link href="/">
-                <ArrowLeft className="h-4 w-4 text-white/70 transition-transform group-hover:-translate-x-1" />
-                Back to Top 500
-              </Link>
-            </Button>
-            <Button
-              asChild
-              variant="secondary"
-              className="group inline-flex h-12 flex-1 items-center justify-center gap-2 rounded-full border-white/15 bg-emerald-400/15 text-sm font-semibold text-white hover:bg-emerald-400/25"
-            >
-              <Link href="/world-map">
-                <Globe2 className="h-4 w-4 text-emerald-200 transition-transform group-hover:scale-110" />
-                Explore world atlas
-                <ArrowUpRight className="h-4 w-4 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
-              </Link>
-            </Button>
+                <div className="flex flex-col gap-6 md:flex-row md:items-center md:justify-between py-7">
+                    <div className="space-y-2">
+                        <h1 className="text-4xl font-semibold tracking-tight text-white sm:text-5xl">Former Top Artists</h1>
+                        <p className="max-w-2xl text-sm text-white/60 sm:text-base">
+                            These artists once ranked inside the global Top 500. Track how long they&apos;ve been absent,
+                            when they last appeared, and where their audience stands today.
+                        </p>
+                    </div>
+                    <div className="flex w-full flex-col gap-4 md:w-[18rem]">
+                        <div className="rounded-xl border border-white/10 bg-white/5 p-4 text-xs text-white/60">
+                            <div className="flex items-center justify-between">
+                                <span className="uppercase tracking-widest">Dataset</span>
+                                <Badge variant="muted" className="rounded-full border-white/10 bg-white/10 text-[11px] text-white/70">
+                                    {stats.total} former artists
+                                </Badge>
+                            </div>
+                            <Separator className="my-3 border-white/10" />
+                            <div className="flex items-center justify-between text-white/70">
+                    <span className="inline-flex items-center gap-2">
+                      <CalendarCheck className="h-3.5 w-3.5 text-emerald-300" />
+                      Last update
+                    </span>
+                                <span>{lastUpdated ? new Date(lastUpdated).toLocaleDateString() : '—'}</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
           </div>
         </div>
       </header>

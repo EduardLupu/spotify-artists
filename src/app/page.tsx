@@ -11,11 +11,9 @@ import {
   Disc3,
   Globe2,
   Loader2,
-  Menu,
   Search,
   TrendingUp,
   Users,
-  X,
 } from 'lucide-react'
 
 import { Badge } from '@/components/ui/badge'
@@ -26,6 +24,7 @@ import { Separator } from '@/components/ui/separator'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar'
 import { Input } from '@/components/ui/input'
+import Navbar from "@/components/navbar";
 
 interface Artist {
   i: string
@@ -167,24 +166,12 @@ function ArtistCard({ artist }: { artist: Artist }) {
 }
 
 export default function Home() {
-  const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
   const [artists, setArtists] = useState<Artist[]>([])
   const [loading, setLoading] = useState(true)
   const [searchTerm, setSearchTerm] = useState('')
   const [view, setView] = useState<ViewKey>('rank')
   const [visibleCount, setVisibleCount] = useState(24)
   const [lastUpdated, setLastUpdated] = useState<string | null>(null)
-
-  useEffect(() => {
-    const media = window.matchMedia('(min-width: 768px)')
-    const onChange = (event: MediaQueryListEvent) => {
-      if (event.matches) {
-        setMobileMenuOpen(false)
-      }
-    }
-    media.addEventListener('change', onChange)
-    return () => media.removeEventListener('change', onChange)
-  }, [])
 
   useEffect(() => {
     const fetchArtists = async () => {
@@ -299,74 +286,12 @@ export default function Home() {
         <div className="mx-auto max-w-6xl px-4 py-10">
           <div className="flex flex-col gap-8">
             <div className="flex items-center justify-between">
-              <div className="flex items-center gap-3">
                 <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-1 text-xs uppercase tracking-[0.35em] text-white/60">
-                  <Disc3 className="h-3.5 w-3.5 text-emerald-300" />
-                  Live Pulse
+                    <Disc3 className="h-3.5 w-3.5 text-emerald-300" />
+                    Live Pulse
                 </div>
-              </div>
-              <div className="flex items-center gap-3">
-                <nav className="hidden items-center gap-1 rounded-full border border-white/10 bg-white/5 px-2 py-1 text-sm text-white/70 md:flex">
-                  <Link href="/" className="rounded-full px-3 py-1 transition hover:bg-white/15 hover:text-white">
-                    Dashboard
-                  </Link>
-                  <Link href="/former" className="rounded-full px-3 py-1 transition hover:bg-white/15 hover:text-white">
-                    Former Artists
-                  </Link>
-                  <Link href="/world-map" className="rounded-full px-3 py-1 transition hover:bg-white/15 hover:text-white">
-                    World Atlas
-                  </Link>
-                  <Link href="/graph" className="rounded-full px-3 py-1 transition hover:bg-white/15 hover:text-white">
-                    Artist Graph
-                  </Link>
-                </nav>
-                <button
-                  type="button"
-                  className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-white/10 bg-white/5 text-white/70 transition hover:bg-white/15 md:hidden"
-                  onClick={() => setMobileMenuOpen((previous) => !previous)}
-                  aria-label="Toggle navigation"
-                >
-                  {mobileMenuOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
-                </button>
-              </div>
+                <Navbar />
             </div>
-
-            {mobileMenuOpen && (
-              <nav className="flex flex-col gap-2 rounded-3xl border border-white/10 bg-black/50 p-5 text-sm text-white/75 shadow-lg shadow-black/40 md:hidden">
-                <Link
-                  href="/"
-                  className="flex items-center justify-between rounded-2xl border border-white/5 bg-white/5 px-4 py-3 transition hover:border-emerald-300/40 hover:bg-emerald-400/10 hover:text-white"
-                  onClick={() => setMobileMenuOpen(false)}
-                >
-                  <span>Dashboard</span>
-                  <ArrowUpRight className="h-4 w-4" />
-                </Link>
-                <Link
-                  href="/former"
-                  className="flex items-center justify-between rounded-2xl border border-white/5 bg-white/5 px-4 py-3 transition hover:border-emerald-300/40 hover:bg-emerald-400/10 hover:text-white"
-                  onClick={() => setMobileMenuOpen(false)}
-                >
-                  <span>Former Artists</span>
-                  <ArrowUpRight className="h-4 w-4" />
-                </Link>
-                <Link
-                  href="/world-map"
-                  className="flex items-center justify-between rounded-2xl border border-white/5 bg-white/5 px-4 py-3 transition hover:border-emerald-300/40 hover:bg-emerald-400/10 hover:text-white"
-                  onClick={() => setMobileMenuOpen(false)}
-                >
-                  <span>World Atlas</span>
-                  <ArrowUpRight className="h-4 w-4" />
-                </Link>
-                <Link
-                  href="/graph"
-                  className="flex items-center justify-between rounded-2xl border border-white/5 bg-white/5 px-4 py-3 transition hover:border-emerald-300/40 hover:bg-emerald-400/10 hover:text-white"
-                  onClick={() => setMobileMenuOpen(false)}
-                >
-                  <span>Artist Graph</span>
-                  <ArrowUpRight className="h-4 w-4" />
-                </Link>
-              </nav>
-            )}
 
             <div className="flex flex-col gap-6 md:flex-row md:items-center md:justify-between">
               <div className="space-y-3">
@@ -390,7 +315,7 @@ export default function Home() {
                   <div className="flex items-center justify-between">
                     <span className="uppercase tracking-widest">Dataset</span>
                     <Badge variant="muted" className="rounded-full border-white/10 bg-white/10 text-[11px] text-white/70">
-                      {artists.length} artists
+                      {artists.length} top artists
                     </Badge>
                   </div>
                   <Separator className="my-3 border-white/10" />
