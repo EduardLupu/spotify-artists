@@ -19,7 +19,7 @@ export default function WorldMapClient() {
                     <div className="flex items-center justify-between">
                         <div className="inline-flex h-6 items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-1 text-xs uppercase tracking-[0.35em] text-white/60">
                             <Globe2 className="h-3.5 w-3.5 text-emerald-300" />
-                            Global coveage
+                            Global coverage
                         </div>
                         <Navbar />
                     </div>

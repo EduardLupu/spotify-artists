@@ -32,7 +32,11 @@ export const metadata: Metadata = {
         'monthly listeners',
         'artist insights',
         'music trends',
-        ''
+        'top 500 artists',
+        'top 500 Spotify artists',
+        'top global artists',
+        'music popularity',
+        'artist performance',
     ],
     authors: [{name: 'Eduard Lupu', url: 'https://eduardlupu.com'}],
     creator: 'Eduard Lupu',
