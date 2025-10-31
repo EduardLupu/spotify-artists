@@ -30,6 +30,7 @@ import {Button} from '@/components/ui/button'
 import {Card, CardContent, CardDescription, CardHeader, CardTitle} from '@/components/ui/card'
 import {ScrollArea} from '@/components/ui/scroll-area'
 import {cn} from '@/lib/utils'
+import Navbar from "@/components/navbar";
 
 type SeriesPayload = {
     fields: string[]
@@ -632,16 +633,6 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
             <div className="relative z-10 min-h-screen">
                 <header className="border-b border-white/10 bg-black/40 backdrop-blur-xl">
                     <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-6">
-                        <Button
-                            asChild
-                            variant="ghost"
-                            className="group inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-2 text-sm text-white/80 hover:bg-white/10"
-                        >
-                            <Link href="/">
-                                <ArrowLeft className="h-4 w-4 transition-transform group-hover:-translate-x-1"/>
-                                Back to artists
-                            </Link>
-                        </Button>
                         <div className="flex items-center gap-3 text-xs text-white/70">
                             <div
                                 className="flex items-center gap-2 rounded-full border border-emerald-400/20 bg-emerald-400/10 px-3 py-1 text-emerald-200">
@@ -649,6 +640,7 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                                 Last sync: {formatDate(artist.today.d)}
                             </div>
                         </div>
+                        <Navbar />
                     </div>
                 </header>
 
