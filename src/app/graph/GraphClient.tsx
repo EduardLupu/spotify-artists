@@ -13,7 +13,7 @@ import dynamic from 'next/dynamic'
 import Link from 'next/link'
 import * as THREE from 'three'
 import type { ForceGraphMethods } from 'react-force-graph-3d'
-import { ArrowLeft, Atom, ExternalLink, Loader2, RotateCcw } from 'lucide-react'
+import {Atom, ExternalLink, Loader2, RotateCcw} from 'lucide-react'
 
 import { Button } from '@/components/ui/button'
 import {
@@ -27,6 +27,7 @@ import { ScrollArea } from '@/components/ui/scroll-area'
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar'
 import { Separator } from '@/components/ui/separator'
 import { useElementSize } from '@/lib/hooks/use-element-size'
+import Navbar from "@/components/navbar";
 
 const ForceGraph3D = dynamic(() => import('react-force-graph-3d'), { ssr: false })
 
@@ -358,36 +359,30 @@ export default function GraphClient() {
         <div className="absolute inset-x-0 bottom-0 h-80 bg-gradient-to-t from-black via-black/60 to-transparent" />
       </div>
 
-      <main className="mx-auto flex min-h-screen w-full max-w-[1600px] flex-col gap-8 px-4 pb-24 pt-16 sm:px-6 lg:px-10">
-        <header className="flex flex-col gap-6 xl:flex-row xl:items-center xl:justify-between">
-          <div className="space-y-4">
-            <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/10 px-4 py-1 text-xs uppercase tracking-[0.32em] text-white/60">
-              <Atom className="h-3.5 w-3.5 text-emerald-300" />
-              Artist constellation
+        <header className="border-b border-white/10 bg-black/40 backdrop-blur-xl">
+            <div className="max-w-[1600px] px-4 sm:px-6 lg:px-10 mx-auto py-10">
+                <div className="flex flex-col gap-8">
+                    <div className="flex items-center justify-between">
+                        <div className="inline-flex h-6 items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-1 text-xs uppercase tracking-[0.35em] text-white/60">
+                            <Atom className="h-3.5 w-3.5 text-emerald-300" />
+                            Artist constellation
+                        </div>
+                        <Navbar />
+                    </div>
+                    <div className="flex flex-col gap-6 md:flex-row md:items-center md:justify-between py-7">
+                        <div className="space-y-2">
+                            <h1 className="text-4xl font-semibold tracking-tight text-white sm:text-5xl">Artist Relationship Graph</h1>
+                            <p className="max-w-2xl text-sm text-white/60 sm:text-base">
+                                Click a sprite to isolate its orbit. The right column lists every directly related artist so you can
+                                traverse the network with intent.
+                            </p>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div className="space-y-2">
-              <h1 className="text-4xl font-semibold tracking-tight text-white sm:text-5xl">
-                Top 500 Relationship Graph
-              </h1>
-              <p className="max-w-2xl text-sm text-white/65 sm:text-base">
-                Click a sprite to isolate its orbit. The right column lists every directly related artist so you can
-                traverse the network with intent.
-              </p>
-            </div>
-          </div>
-          <Button
-            asChild
-            variant="secondary"
-            className="group inline-flex h-11 w-fit items-center justify-center gap-2 rounded-full border-white/10 bg-white/10 px-6 text-white hover:bg-white/20"
-          >
-            <Link href="/">
-              <ArrowLeft className="h-4 w-4 transition-transform group-hover:-translate-x-1" />
-              Back to dashboard
-            </Link>
-          </Button>
         </header>
-
-        <section className="grid gap-6 xl:grid-cols-[minmax(0,4.4fr)_minmax(460px,1fr)] 2xl:grid-cols-[minmax(0,4.6fr)_minmax(520px,1fr)]">
+      <main className="mx-auto flex min-h-screen w-full max-w-[1600px] flex-col gap-8 px-4 pb-24 pt-16 sm:px-6 lg:px-10">
+          <section className="grid gap-6 xl:grid-cols-[minmax(0,4.4fr)_minmax(460px,1fr)] 2xl:grid-cols-[minmax(0,4.6fr)_minmax(520px,1fr)]">
           <div className="relative min-h-[64vh] overflow-hidden rounded-3xl border border-white/10 bg-black/40 backdrop-blur">
             {selectedId && (
               <>
