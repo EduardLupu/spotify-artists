@@ -36,12 +36,12 @@ interface TopCitiesProps {
   artistName: string
   cityRows: CityRow[]
   directory: Record<number, CityDirectoryEntry>
+  artistListeners: number
 }
 
-export function TopCities({ artistName, cityRows, directory }: TopCitiesProps) {
+export function TopCities({ artistName, cityRows, directory, artistListeners }: TopCitiesProps) {
   const dataset = useMemo(() => {
     if (!cityRows?.length) return []
-    const total = cityRows.reduce((acc, row) => acc + (row.listeners || 0), 0) || 1
     return cityRows
       .map((row) => {
         const city = directory[row.cid]
@@ -49,7 +49,7 @@ export function TopCities({ artistName, cityRows, directory }: TopCitiesProps) {
         return {
           ...city,
           listeners: row.listeners,
-          share: row.listeners / total,
+          share: row.listeners / artistListeners,
         }
       })
       .filter((value): value is NonNullable<typeof value> => Boolean(value))

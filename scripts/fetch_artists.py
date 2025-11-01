@@ -1052,11 +1052,11 @@ class ArtistDataStore:
         g7 = ArtistDataStore._growth(history, 7)
         ml_ratio = g7 / max(ml_today, ML_FLOOR) if ml_today else 0.0
 
-        rank_today = latest.rank if latest.rank is not None else TOP_ARTIST_LIMIT + 100
+        rank_today = latest.rank if latest.rank is not None else 500 + 100
         rank_week = history[-8].rank if len(history) > 7 else None
         rank_delta = 0.0
         if rank_week is not None:
-            rank_delta = (rank_week - rank_today) / TOP_ARTIST_LIMIT
+            rank_delta = (rank_week - rank_today) / 500
 
         w1, w2 = FRESHNESS_WEIGHTS
         score = w1 * tanh_norm(ml_ratio) + w2 * tanh_norm(rank_delta)
@@ -1075,10 +1075,10 @@ class ArtistDataStore:
         if len(recent_history) < 5:
             return clamp(tanh_norm(ml_ratio))
 
-        ranks = [entry.rank if entry.rank is not None else TOP_ARTIST_LIMIT + 100 for entry in recent_history]
+        ranks = [entry.rank if entry.rank is not None else 500 + 100 for entry in recent_history]
         first_avg = sum(ranks[: min(7, len(ranks))]) / min(7, len(ranks))
         last_avg = sum(ranks[-min(7, len(ranks)) :]) / min(7, len(ranks))
-        rank_slope = (first_avg - last_avg) / TOP_ARTIST_LIMIT
+        rank_slope = (first_avg - last_avg) / 500
 
         ml_values = [entry.monthly_listeners for entry in recent_history if entry.monthly_listeners is not None]
         variance_ratio = 0.0

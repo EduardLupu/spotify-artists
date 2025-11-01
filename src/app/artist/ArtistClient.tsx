@@ -47,7 +47,7 @@ interface ArtistDetail {
     today: {
         d: string
         r: number | null
-        ml: number | null
+        ml: number
         f: number | null
         dr: number | null
         g1: number
@@ -1206,7 +1206,7 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
 
                     {cityRows.length > 0 && (
                         <section className="mt-12">
-                            <TopCities artistName={artist.n} cityRows={cityRows} directory={cityDirectory}/>
+                            <TopCities artistName={artist.n} cityRows={cityRows} directory={cityDirectory} artistListeners={artist.today.ml}/>
                         </section>
                     )}
 
