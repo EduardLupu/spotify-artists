@@ -81,7 +81,7 @@ function ArtistCard({ artist }: { artist: Artist }) {
   const showDelta = Number.isFinite(rankMovement)
 
   return (
-    <Link href={`/artist/${artist.i}`} className="group" target="_blank" rel="noopener noreferrer">
+    <Link href={`/artist/${artist.i}`} className="group">
       <Card className="relative h-full overflow-hidden border-transparent bg-white/5 backdrop-blur-md transition-all duration-300 hover:border-white/20 hover:bg-white/10">
         <div className="absolute -right-6 -top-6 h-24 w-24 rounded-full bg-emerald-500/10 blur-3xl transition-opacity group-hover:opacity-60" />
         <CardHeader className="flex flex-row items-start gap-4 pb-2">
