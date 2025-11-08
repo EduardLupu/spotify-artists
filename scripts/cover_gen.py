@@ -1,14 +1,27 @@
 """
 Cover generator for playlist images.
-Provides an async function `generate_playlist_cover_bytes(session, image_id_or_url, artist_name, logo_path=None)`
-that returns bytes of a JPEG (<=256KB) ready to be uploaded to Spotify (base64 encoding done by caller).
 
-Uses Pillow and aiohttp. Keeps dependencies minimal and falls back to DejaVuSans if available.
+Provides:
+    async generate_playlist_cover_bytes(session, image_id_or_url, artist_name, logo_path=None)
+Returns:
+    JPEG bytes (<=256KB) ready to upload to Spotify (caller handles base64 if needed).
+
+Style:
+    - Cream paper background
+    - Bold uppercase title + small subtitle (top-left)
+    - Monochrome variable-dot halftone portrait
+    - Big circular reveal biased to the right/bottom
+    - Optional small logo near bottom-left
+
+Dependencies: Pillow (PIL) and aiohttp
 """
+
 from __future__ import annotations
 
 import io
-from typing import Any, Optional
+import os
+import random
+from typing import Optional, Tuple, Any
 
 import aiohttp
 
@@ -17,17 +30,62 @@ try:
 except Exception:  # Pillow might be missing in some environments
     Image = ImageDraw = ImageFilter = ImageFont = ImageOps = None  # type: ignore
 
+# ---------------------------------------------------------------------------
+# Constants & configuration
+# ---------------------------------------------------------------------------
+
 MAX_SIZE_BYTES = 256 * 1024
 TARGET_DIM = 640
 
+CREAM_BG = (245, 242, 236)  # off-white paper
+INK = (18, 18, 18)          # near-black text
+
+FONT_CANDIDATES = (
+    "Inter-Black.ttf",
+    "Inter-Bold.ttf",
+    "DejaVuSans-Bold.ttf",
+)
+
+# ---------------------------------------------------------------------------
+# Utilities
+# ---------------------------------------------------------------------------
+
+def _load_font(size: int) -> "ImageFont.ImageFont":
+    """Load a bold font from preferred candidates or fall back to default."""
+    for name in FONT_CANDIDATES:
+        try:
+            return ImageFont.truetype(name, size)
+        except Exception:
+            continue
+    try:
+        return ImageFont.truetype("DejaVuSans-Bold.ttf", size)
+    except Exception:
+        return ImageFont.load_default()
+
 
 async def _fetch_image_bytes(session: aiohttp.ClientSession, image_id_or_url: str, timeout: int = 20) -> Optional[bytes]:
+    """
+    Fetch raw bytes for an image.
+
+    Supports:
+      - Local file paths
+      - HTTP(S) URLs
+      - Spotify image IDs (resolved via https://i.scdn.co/image/{id})
+    """
     if not image_id_or_url:
         return None
-    if image_id_or_url.startswith("http://") or image_id_or_url.startswith("https://"):
+
+    # Local path support (useful in tests and scripts)
+    if os.path.exists(image_id_or_url):
+        try:
+            with open(image_id_or_url, "rb") as f:
+                return f.read()
+        except Exception:
+            return None
+
+    if image_id_or_url.startswith(("http://", "https://")):
         url = image_id_or_url
     else:
-        # treat as spotify image id
         url = f"https://i.scdn.co/image/{image_id_or_url}"
 
     try:
@@ -38,221 +96,226 @@ async def _fetch_image_bytes(session: aiohttp.ClientSession, image_id_or_url: st
         return None
 
 
-def _compute_palette(img: Any, colors: int = 4) -> tuple[tuple[int, int, int], tuple[int, int, int]]:
-    # use PIL quantize to get a small palette
-    thumb = img.copy().convert("RGB")
-    thumb.thumbnail((200, 200))
-    pal = thumb.convert("P", palette=Image.ADAPTIVE, colors=colors).convert("RGB")
-    # collect colors
-    colors_list = pal.getcolors(maxcolors=10000) or []
-    colors_list = sorted(colors_list, key=lambda x: -x[0])
-    if not colors_list:
-        return (34, 197, 94), (139, 92, 246)  # emerald/purple fallback
-    primary = colors_list[0][1]
-    secondary = colors_list[1][1] if len(colors_list) > 1 else primary
-    return primary, secondary
-
-
-def _make_gradient(size: tuple[int, int], c1: tuple[int, int, int], c2: tuple[int, int, int]) -> Any:
-    w, h = size
-    base = Image.new("RGB", size, c1)
-    top = Image.new("RGB", size, c2)
-    # Create a diagonal linear mask
-    lin = Image.linear_gradient("L").resize((w, h))
-    lin = lin.rotate(25, resample=Image.BICUBIC, expand=False)
-    lin = lin.filter(ImageFilter.GaussianBlur(radius=min(w, h) * 0.04))
-    return Image.composite(top, base, lin)
-
-
-
-def _add_vignette(img: Any, radius: float = 1.9) -> Any:
+def _center_crop_square(img: "Image.Image", size: int = TARGET_DIM) -> "Image.Image":
+    """Center-crop to a square and resize to `size`."""
     w, h = img.size
-    mask = Image.new("L", (w, h), 255)
-    d = ImageDraw.Draw(mask)
-    # Larger, softer ellipse for subtle falloff
-    pad = int(min(w, h) * 0.12)
-    d.ellipse((-pad, -pad, w + pad, h + pad), fill=0)
-    mask = mask.filter(ImageFilter.GaussianBlur(radius=w * 0.18))
-    # Darken only a touch
-    dark = Image.new("RGB", (w, h), (0, 0, 0))
-    return Image.composite(img, Image.blend(img, dark, 0.12), mask)
+    s = min(w, h)
+    left = (w - s) // 2
+    top = (h - s) // 2
+    square = img.crop((left, top, left + s, top + s))
+    try:
+        return square.resize((size, size), Image.LANCZOS)
+    except Exception:  # Pillow<10
+        return square.resize((size, size))
 
-def _add_grain(img: Any, amount: float = 0.015) -> Any:
-    # Very light monochrome grain for a premium finish
+
+def _circle_reveal(img: "Image.Image", bias_x: float = 0.76, bias_y: float = 0.62) -> "Image.Image":
+    """
+    Reveal the image inside a large circle whose center is biased toward (bias_x, bias_y)
+    to approximate the reference layout.
+    """
     w, h = img.size
-    noise = Image.effect_noise((w, h), 60).convert("L")
-    noise = noise.point(lambda p: p * 0.5)
-    noise = Image.merge("RGB", (noise, noise, noise))
-    return Image.blend(img, noise, amount)
+    r = min(w, h) // 2
+    cx, cy = int(w * bias_x), int(h * bias_y)
+    mask = Image.new("L", (w, h), 0)
+    draw = ImageDraw.Draw(mask)
+    draw.ellipse((cx - r, cy - r, cx + r, cy + r), fill=255)
 
-def _rel_luminance(rgb: tuple[int, int, int]) -> float:
-    def ch(c: int) -> float:
-        x = c / 255.0
-        return x / 12.92 if x <= 0.04045 else ((x + 0.055) / 1.055) ** 2.4
-    r, g, b = (ch(rgb[0]), ch(rgb[1]), ch(rgb[2]))
-    return 0.2126 * r + 0.7152 * g + 0.0722 * b
+    out = Image.new("RGBA", (w, h), (0, 0, 0, 0))
+    out.paste(img.convert("RGBA"), (0, 0), mask)
+    return out
 
-def _best_text_color(bg: tuple[int, int, int]) -> tuple[int, int, int]:
-    # Choose near-white or near-black for max contrast
-    white = (245, 246, 248)
-    black = (18, 18, 18)
-    lw = _rel_luminance(white) + 0.05
-    lb = _rel_luminance(black) + 0.05
-    lbg = _rel_luminance(bg) + 0.05
-    # Contrast ratios
-    cw = max(lw, lbg) / min(lw, lbg)
-    cb = max(lb, lbg) / min(lb, lbg)
-    return white if cw >= cb else black
 
-def _pick_ui_colors(primary: tuple[int, int, int], secondary: tuple[int, int, int]) -> tuple[tuple[int,int,int], tuple[int,int,int], tuple[int,int,int]]:
-    # Blend palette toward a muted midpoint for modern minimal look
-    mid = tuple(int(primary[i] * 0.5 + secondary[i] * 0.5) for i in range(3))
-    bg1 = tuple(int(primary[i] * 0.75 + mid[i] * 0.25) for i in range(3))
-    bg2 = tuple(int(secondary[i] * 0.75 + mid[i] * 0.25) for i in range(3))
-    # Use center color to choose text color
-    center = tuple(int(bg1[i] * 0.5 + bg2[i] * 0.5) for i in range(3))
-    txt = _best_text_color(center)
-    return bg1, bg2, txt
+def _halftone_bw(img: "Image.Image", cell: int = 8, angle: float = 15.0) -> "Image.Image":
+    """
+    Create a monochrome variable-dot halftone:
+      - Convert to grayscale
+      - Rotate to a screen angle
+      - Sample into cells and draw dots sized by inverse luminance
+    """
+    g = ImageOps.grayscale(img)
+    g = ImageOps.autocontrast(g)
+    g = ImageOps.equalize(g)
 
-from typing import Optional, Tuple
-from PIL import Image, ImageDraw, ImageFilter, ImageFont
-
-TEXT_COLOR = (26, 26, 26, 255)
-TAG_COLOR_ALPHA = 0.78
-BG_COLOR = (255, 255, 255, 255)
-SHADOW_FILL = (0, 0, 0, 80)
-
-FONT_CANDIDATES = (
-    "Inter-Bold.ttf",
-)
-
-FRAME_MARGIN_RATIO = 0.095
-
-TITLE_FONT_RATIO = 0.22
-TITLE_FONT_MIN = 5
-
-SHADOW_RADIUS_RATIO = 0.9
-SHADOW_RADIUS_MIN = 5
-
-TAG_FONT_RATIO = 0.15
-
-LOGO_MAX_SIZE = 40
-RIGHT_MARGIN_MIN = 8
-TOP_BIAS_RATIO = 0.2
-
-def _load_font(size: int) -> ImageFont.ImageFont:
-    for fname in FONT_CANDIDATES:
-        try:
-            return ImageFont.truetype(fname, size)
-        except Exception:
-            continue
+    # Rotate for the screen angle and sample
     try:
-        return ImageFont.truetype("DejaVuSans-Bold.ttf", size)
+        rot = g.rotate(angle, resample=Image.BICUBIC, expand=True)
     except Exception:
-        return ImageFont.load_default()
+        rot = g.rotate(angle, expand=True)
 
-def _text_length(draw: ImageDraw.ImageDraw, ft: ImageFont.ImageFont, text: str) -> int:
-    if hasattr(draw, "textlength"):
-        try:
-            return int(draw.textlength(text, font=ft))
-        except Exception:
-            pass
+    w, h = rot.size
+    cols = max(1, w // cell)
+    rows = max(1, h // cell)
     try:
-        return int(ft.getlength(text))
+        small = rot.resize((cols, rows), Image.BILINEAR)
     except Exception:
-        try:
-            bbox = ft.getbbox(text)
-            return int(bbox[2] - bbox[0])
-        except Exception:
-            return len(text) * getattr(ft, "size", 16) * 0.6
+        small = rot.resize((cols, rows))
 
-def _text_height(ft: ImageFont.ImageFont, text: str) -> int:
-    try:
-        bbox = ft.getbbox(text)
-        return bbox[3] - bbox[1]
-    except Exception:
-        try:
-            return ft.getsize(text)[1]
-        except Exception:
-            return getattr(ft, "size", 16)
+    overlay = Image.new("L", (w, h), 0)
+    d = ImageDraw.Draw(overlay)
+    max_r = cell * 0.15
 
-def draw_text_card(img: Image.Image, text: str, logo_img: Optional[Image.Image] = None) -> Image.Image:
-    w, h = img.size
-    frame_margin = max(int(w * FRAME_MARGIN_RATIO), 40)
-
-    inner_size = max(1, min(w - 2 * frame_margin, h - 2 * frame_margin))
-    photo_x = frame_margin + (w - 2 * frame_margin - inner_size) // 2
-    photo_y = frame_margin + (h - 2 * frame_margin - inner_size) // 2
-
-    base = Image.new("RGBA", (w, h), BG_COLOR)
-
-    shadow_layer = Image.new("RGBA", (w, h), (0, 0, 0, 0))
-    ImageDraw.Draw(shadow_layer).rectangle(
-        [photo_x, photo_y, photo_x + inner_size, photo_y + inner_size], fill=SHADOW_FILL
-    )
-    shadow_radius = max(int(inner_size * SHADOW_RADIUS_RATIO), SHADOW_RADIUS_MIN)
-    shadow_layer = shadow_layer.filter(ImageFilter.GaussianBlur(radius=shadow_radius))
-    base = Image.alpha_composite(base, shadow_layer)
+    for y in range(rows):
+        cy = int(y * cell + cell / 2)
+        for x in range(cols):
+            cx = int(x * cell + cell / 2)
+            v = small.getpixel((x, y))      # 0..255 (0 = dark)
+            r = (255 - v) / 255.0 * max_r   # dark -> bigger dots
+            if r > 0.6:                     # drop tiny dots for cleanliness
+                d.ellipse((cx - r, cy - r, cx + r, cy + r), fill=255)
 
     try:
-        photo = img.resize((inner_size, inner_size), Image.LANCZOS)
+        dots = overlay.rotate(-angle, resample=Image.BICUBIC, expand=False)
     except Exception:
-        photo = img.resize((inner_size, inner_size))
-    if photo.mode != "RGBA":
-        photo = photo.convert("RGBA")
-    base.paste(photo, (photo_x, photo_y), photo)
+        dots = overlay.rotate(-angle, expand=False)
 
-    draw = ImageDraw.Draw(base)
+    # Center-crop back to original size
+    left = (dots.width - img.width) // 2
+    top = (dots.height - img.height) // 2
+    dots = dots.crop((left, top, left + img.width, top + img.height))
 
-    # Title font
-    title_text = (text or "").strip() or "Playlist"
-    font = _load_font(int(frame_margin * TAG_FONT_RATIO) + 4)
+    out = Image.new("RGB", img.size, (255, 255, 255))
+    out.paste((0, 0, 0), mask=dots)
+    return out
 
-    title_height = _text_height(font, title_text)
-    bottom_band_top = h - frame_margin
-    ty = 605
 
-    # Calculate positions like justify-between
-    left_x = frame_margin
-    right_x = w - frame_margin
+def _draw_text_editorial(canvas: "Image.Image", title: str, subtitle: str, logo_img: Optional["Image.Image"]) -> "Image.Image":
+    """
+    Place text in the top-left: big bold title + smaller subtitle.
+    Optional tiny circular-plated logo anchored near bottom-left.
+    """
+    w, h = canvas.size
+    draw = ImageDraw.Draw(canvas)
 
-    # Draw logo (left)
-    logo_w = logo_h = 0
+    title = (title or "Playlist")
+    subtitle = subtitle or "World's Top Artists"
+
+    title_font = _load_font(int(w * 0.035))
+    sub_font = _load_font(int(w * 0.03))
+
+    margin = int(w * 0.056)
+    tx, ty = margin, margin
+
+    draw.text((tx, ty), title, font=title_font, fill=INK)
+
+    try:
+        title_h = title_font.getbbox(title)[3]
+    except Exception:
+        title_h = title_font.getsize(title)[1]
+
+    sy = ty + title_h + int(w * 0.012)
+    draw.text((tx, sy), subtitle, font=sub_font, fill=(0, 0, 0, 200))
+
     if logo_img is not None:
         try:
-            logo = logo_img.copy().convert("RGBA")
-            logo.thumbnail((LOGO_MAX_SIZE, LOGO_MAX_SIZE), Image.LANCZOS)
-            logo_w, logo_h = logo.size
-            ly = ty + (title_height - logo_h) // 2
-            base.paste(logo, (left_x, ly), logo)
+            lg = logo_img.convert("RGBA")
+            try:
+                lg.thumbnail((50, 50), Image.LANCZOS)
+            except Exception:
+                lg.thumbnail((50, 50))
+            lx, ly = margin - 4, h - margin - lg.height
+            plate = Image.new("RGBA", (lg.width + 12, lg.height + 12), (0, 0, 0, 0))
+            ImageDraw.Draw(plate).ellipse((0, 0, plate.width, plate.height), fill=(0, 0, 0, 0))
+            can_rgba = canvas.convert("RGBA")
+            can_rgba.alpha_composite(plate, (lx - 6, ly - 6))
+            can_rgba.alpha_composite(lg, (lx, ly))
+            return can_rgba.convert("RGB")
         except Exception:
             pass
 
-    # Draw playlist title (center-left after logo)
-    tx = left_x + logo_w + int(frame_margin * 0.4)
-    draw.text((tx, ty), title_text, font=font, fill=TEXT_COLOR)
+    return canvas
 
-    # Draw tagline (right aligned)
-    tagline = "World's Top Artists"
-    tag_font = _load_font(int(frame_margin * TAG_FONT_RATIO + 4))
-    tag_width = _text_length(draw, tag_font, tagline)
-    tag_height = _text_height(tag_font, tagline)
-    tag_y = ty + (title_height - tag_height) // 2
-    tag_x = right_x - tag_width
+def _random_dark_color() -> tuple[Any, int]:
+    """
+    Returnează un ton aleatoriu dintr-o paletă estetică,
+    cu nuanțe mai închise și ușor colorate (minimal dark aesthetic).
+    """
+    palettes = [
+        # midnight / charcoal / navy range
+        [(18, 22, 28), (26, 31, 39), (34, 39, 46), (46, 52, 64), (58, 64, 74)],
 
-    tag_color = (TEXT_COLOR[0], TEXT_COLOR[1], TEXT_COLOR[2], int(TEXT_COLOR[3] * TAG_COLOR_ALPHA))
-    draw.text((tag_x, tag_y), tagline, font=tag_font, fill=tag_color)
+        # muted deep blues / teals
+        [(20, 32, 38), (22, 33, 39), (25, 45, 54), (28, 56, 62), (32, 66, 70), (38, 78, 82)],
 
-    return base.convert("RGB")
+        # plum / desaturated purples
+        [(36, 24, 44), (40, 28, 46), (48, 32, 56), (54, 36, 64), (64, 42, 74), (72, 48, 82)],
 
-_draw_text = draw_text_card
+        # forest green tones
+        [(24, 32, 26), (28, 36, 30), (32, 45, 38), (42, 60, 48), (48, 72, 54), (56, 86, 64)],
+
+        # graphite / dark neutral greys
+        [(20, 20, 20), (25, 25, 25), (30, 30, 30), (38, 38, 38), (46, 46, 46), (54, 54, 54)],
+
+        # coffee / brownish / copper darks
+        [(38, 28, 24), (44, 32, 28), (50, 36, 30), (58, 44, 34), (64, 48, 40), (72, 56, 46)],
+
+        # dark cyan / slate
+        [(18, 32, 34), (22, 38, 40), (26, 46, 48), (32, 54, 56), (38, 64, 64), (44, 72, 70)],
+
+        # dark magenta / wine / maroon
+        [(42, 20, 28), (48, 22, 34), (56, 26, 40), (64, 32, 46), (72, 38, 54), (80, 44, 60)],
+
+        # desaturated dark blues / midnight indigo
+        [(18, 22, 38), (22, 28, 46), (28, 34, 54), (32, 38, 60), (38, 46, 68), (44, 52, 74)],
+
+        # smoky olive / moss tones
+        [(28, 30, 24), (32, 36, 28), (38, 42, 32), (44, 50, 36), (52, 58, 42), (60, 66, 48)],
+
+        # dark turquoise / petrol
+        [(14, 28, 32), (18, 36, 40), (22, 46, 48), (28, 56, 56), (34, 66, 64), (40, 78, 72)],
+
+        # dark mauve / soft violet greys
+        [(34, 28, 38), (42, 34, 46), (50, 40, 56), (58, 46, 66), (66, 54, 74), (72, 60, 80)],
+
+        # steel blue / concrete
+        [(26, 32, 38), (32, 38, 44), (38, 44, 50), (44, 52, 56), (52, 60, 64), (60, 68, 72)],
+    ]
+
+    base = random.choice(palettes)
+    color = random.choice(base)
+    # alpha channel 0 for blending layer (vignette)
+    return *color, 0
+
+def draw_text_card(img: "Image.Image", text: str, logo_img: Optional["Image.Image"] = None) -> "Image.Image":
+    """
+    Compose the cream canvas + circular halftone portrait + editorial text.
+    Kept as a separate function for easier swapping/testing.
+    """
+    # Base cream canvas
+    canvas = Image.new("RGB", img.size, CREAM_BG)
+
+    # Reveal portrait inside a large biased circle to the right/bottom
+    circ = _circle_reveal(img)
+    can_rgba = canvas.convert("RGBA")
+    can_rgba.alpha_composite(circ, (0, 0))
+
+    # Subtle vignette softening for the circular edge
+    vign = Image.new("L", img.size, 0)
+    d = ImageDraw.Draw(vign)
+    d.ellipse((-60, -30, img.size[0] + 60, img.size[1] + 80), fill=255)
+    vign = vign.filter(ImageFilter.GaussianBlur(radius=85))
+    randomColor = _random_dark_color()
+    can_rgba = Image.composite(can_rgba, Image.new("RGBA", img.size, randomColor), vign)
+
+    # Text & optional logo
+    final = _draw_text_editorial(can_rgba.convert("RGB"), text, "World's Top Artists", logo_img)
+    return final
 
 
+_draw_text = draw_text_card  # alias for backwards-compat if you were importing this name elsewhere
 
-async def generate_playlist_cover_bytes(session: aiohttp.ClientSession, image_id_or_url: Optional[str], artist_name: str, logo_path: Optional[str] = None) -> Optional[bytes]:
-    """Return JPEG bytes ready to upload (not base64 encoded)."""
+# ---------------------------------------------------------------------------
+# Public API
+# ---------------------------------------------------------------------------
+
+async def generate_playlist_cover_bytes(
+        session: aiohttp.ClientSession,
+        image_id_or_url: Optional[str],
+        artist_name: str,
+        logo_path: Optional[str] = None,
+) -> Optional[bytes]:
+    """Return JPEG bytes ready to upload (<=256KB). Returns None if Pillow unavailable."""
     if Image is None:
-        # Pillow not available; return None so caller can continue without cover
         return None
 
     raw = await _fetch_image_bytes(session, image_id_or_url) if image_id_or_url else None
@@ -260,31 +323,19 @@ async def generate_playlist_cover_bytes(session: aiohttp.ClientSession, image_id
     if raw:
         try:
             src = Image.open(io.BytesIO(raw)).convert("RGB")
-            # center-crop
-            w, h = src.size
-            short = min(w, h)
-            left = (w - short) // 2
-            top = (h - short) // 2
-            src = src.crop((left, top, left + short, top + short))
-            src = src.resize((TARGET_DIM, TARGET_DIM), Image.LANCZOS)
         except Exception:
             src = None
+
     if src is None:
-        src = Image.new("RGB", (TARGET_DIM, TARGET_DIM), (30, 64, 60))
+        # Plain placeholder if input fails
+        src = Image.new("RGB", (TARGET_DIM, TARGET_DIM), (200, 200, 200))
 
-    # compute palette
-    try:
-        primary, secondary = _compute_palette(src)
-    except Exception:
-        primary, secondary = (34, 197, 94), (139, 92, 246)
+    src = _center_crop_square(src, TARGET_DIM)
 
-    bg1, bg2, _ = _pick_ui_colors(primary, secondary)
-    grad = _make_gradient((TARGET_DIM, TARGET_DIM), bg1, bg2)
-    blended = Image.blend(src, grad, 0.25)
-    blended = _add_vignette(blended, radius=1.9)
-    blended = _add_grain(blended, amount=0.015)
+    # Halftone conversion for the portrait
+    portrait = _halftone_bw(src, cell=6, angle=15)
 
-    # load logo if provided
+    # Optional logo
     logo_img = None
     if logo_path:
         try:
@@ -292,29 +343,39 @@ async def generate_playlist_cover_bytes(session: aiohttp.ClientSession, image_id
         except Exception:
             logo_img = None
 
-    # draw text and logo
-    final = _draw_text(blended, artist_name, logo_img)
+    # Compose final cover
+    final = _draw_text(portrait, artist_name, logo_img)
 
-    # binary search quality to be under MAX_SIZE_BYTES
+    # Size-constrained JPEG export (binary search on quality)
     lo, hi = 25, 95
     best = None
     while lo <= hi:
         mid = (lo + hi) // 2
         buf = io.BytesIO()
-        final.save(buf, format="JPEG", quality=mid, optimize=True)
+        try:
+            final.save(buf, format="JPEG", quality=mid, optimize=True)
+        except OSError:
+            # Some Pillow builds raise on optimize=True for certain images
+            buf = io.BytesIO()
+            final.save(buf, format="JPEG", quality=mid)
         size = buf.tell()
         if size <= MAX_SIZE_BYTES:
             best = buf.getvalue()
             lo = mid + 1
         else:
             hi = mid - 1
+
     if best is None:
-        # fallback: reduce size with resize
-        small = final.resize((int(TARGET_DIM * 0.9), int(TARGET_DIM * 0.9)), Image.LANCZOS)
+        # Fallback: slight downscale + modest quality
+        try:
+            small = final.resize((int(TARGET_DIM * 0.92), int(TARGET_DIM * 0.92)), Image.LANCZOS)
+        except Exception:
+            small = final.resize((int(TARGET_DIM * 0.92), int(TARGET_DIM * 0.92)))
         buf = io.BytesIO()
-        small.save(buf, format="JPEG", quality=30, optimize=True)
+        small.save(buf, format="JPEG", quality=35, optimize=True)
         best = buf.getvalue()
+
     return best
 
 
-__all__ = ["generate_playlist_cover_bytes"]
+__all__ = ["generate_playlist_cover_bytes", "draw_text_card"]
