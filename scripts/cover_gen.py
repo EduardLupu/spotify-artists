@@ -40,6 +40,8 @@ TARGET_DIM = 640
 CREAM_BG = (245, 242, 236)  # off-white paper
 INK = (18, 18, 18)          # near-black text
 
+OBJECT_FIT_FOCUS = (0.35, 0.32)  # mimic CSS object-position for the portrait
+
 FONT_CANDIDATES = (
     "Inter-Black.ttf",
     "Inter-Bold.ttf",
@@ -96,23 +98,60 @@ async def _fetch_image_bytes(session: aiohttp.ClientSession, image_id_or_url: st
         return None
 
 
-def _center_crop_square(img: "Image.Image", size: int = TARGET_DIM) -> "Image.Image":
-    """Center-crop to a square and resize to `size`."""
+def _center_crop_square(
+    img: "Image.Image",
+    size: int = TARGET_DIM,
+    focus: Tuple[float, float] = (0.5, 0.5),
+) -> "Image.Image":
+    """
+    Crop + resize while emulating CSS object-fit/object-position semantics.
+    `focus` behaves like object-position percentages expressed as 0..1 floats.
+    """
+    focus_x = min(max(focus[0], 0.0), 1.0)
+    focus_y = min(max(focus[1], 0.0), 1.0)
+
+    if ImageOps is not None:
+        method = getattr(Image, "LANCZOS", Image.BICUBIC)
+        try:
+            return ImageOps.fit(
+                img,
+                (size, size),
+                method=method,
+                centering=(focus_x, focus_y),
+            )
+        except Exception:
+            pass
+
+    # Manual fallback: crop the long side using the requested focus position.
     w, h = img.size
-    s = min(w, h)
-    left = (w - s) // 2
-    top = (h - s) // 2
-    square = img.crop((left, top, left + s, top + s))
+    if w == h:
+        square = img
+    elif w > h:
+        crop_w = h
+        left = int(round((w - crop_w) * focus_x))
+        left = max(0, min(left, w - crop_w))
+        square = img.crop((left, 0, left + crop_w, h))
+    else:
+        crop_h = w
+        top = int(round((h - crop_h) * focus_y))
+        top = max(0, min(top, h - crop_h))
+        square = img.crop((0, top, w, top + crop_h))
+
     try:
         return square.resize((size, size), Image.LANCZOS)
     except Exception:  # Pillow<10
         return square.resize((size, size))
 
 
-def _circle_reveal(img: "Image.Image", bias_x: float = 0.65, bias_y: float = 0.62) -> "Image.Image":
+def _circle_reveal(
+    img: "Image.Image",
+    bias_x: float = 0.65,
+    bias_y: float = 0.62,
+    inset_ratio: float = 0.04,
+) -> "Image.Image":
     """
-    Reveal the image inside a large circle whose center is biased toward (bias_x, bias_y)
-    to approximate the reference layout.
+    Reveal the image inside a large circle whose visual focus mimics object-fit:
+    the circle stays fully inside the canvas while the subject can be biased by (bias_x, bias_y).
     """
     w, h = img.size
     r = min(w, h) // 2
@@ -279,7 +318,7 @@ async def generate_playlist_cover_bytes(
         # Plain placeholder if input fails
         src = Image.new("RGB", (TARGET_DIM, TARGET_DIM), (200, 200, 200))
 
-    portrait = _center_crop_square(src)
+    portrait = _center_crop_square(src, focus=OBJECT_FIT_FOCUS)
 
     # Optional logo
     logo_img = None
