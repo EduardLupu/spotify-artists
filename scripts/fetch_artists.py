@@ -186,20 +186,6 @@ class TrackInfo:
 
 
 @dataclass
-class ReleaseInfo:
-    release_id: str
-    name: str
-    cover_image: Optional[str]
-    release_date: Optional[str]
-    label: Optional[str] = None
-    track_count: Optional[int] = None
-    uri: Optional[str] = None
-    share_url: Optional[str] = None
-    playable: Optional[bool] = None
-    release_type: Optional[str] = None
-
-
-@dataclass
 class TrackMetadata:
     track_id: str
     preview_file_id: Optional[str] = None
@@ -408,6 +394,11 @@ def _parse_int(value: Optional[Any]) -> Optional[int]:
     return None
 
 
+def _preserve_existing(existing_value: Any, new_value: Any) -> Any:
+    """Keep the existing topTracks value unless it is currently None."""
+    return existing_value if existing_value is not None else new_value
+
+
 def _encode_varint(value: int) -> bytes:
     if value < 0:
         raise ValueError("Cannot encode negative integers as varint.")
@@ -522,14 +513,29 @@ def _should_merge_sentence(previous: str, current: str) -> bool:
         return False
     if not previous.endswith("."):
         return False
+
     first_char = current[0]
     if first_char.isdigit():
         return True
-    abbreviated_match = re.search(r"\b(?:No|Nos|Vol|Vols|St|Mr|Mrs|Ms|Dr|Sr|Jr)\.$", previous)
-    if abbreviated_match:
+
+    # Extended abbreviation list — common across English texts
+    abbreviations = (
+        r"\b(?:"
+        r"No|Nos|Vol|Vols|Ch|Chap|Sec|Art|Fig|Eq|Ref|Refs|pp|pg|p|"
+        r"Mr|Mrs|Ms|Dr|Prof|Sr|Jr|Fr|Rev|Hon|Capt|Cmdr|Col|Gen|Lt|Maj|Sgt|Cpl|Ofc|"
+        r"Ph\.D|M\.D|B\.Sc|M\.Sc|D\.Sc|D\.Phil|Ed\.D|Eng|Esq|"
+        r"St|Ave|Blvd|Rd|Ln|Hwy|Mt|Ft|Sq|Pl|Ctr|Dept|Univ|Inst|Co|Corp|Inc|Ltd|LLC|"
+        r"vs|v|al|etc|cf|e\.g|i\.e|approx|ca|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec"
+        r")\.$"
+    )
+
+    if re.search(abbreviations, previous):
         return True
+
+    # Merge if previous ends with a single capital + period (e.g. “A.”)
     if re.search(r"\b[A-Z]\.$", previous):
         return True
+
     return False
 
 
@@ -1153,51 +1159,70 @@ class ArtistDataStore:
             track_id = track.track_id
             seen_track_ids.add(track_id)
             metadata = track_metadata.get(track_id)
-            fallback = existing_track_info.get(track_id, {})
-            language = metadata.language if metadata and metadata.language else fallback.get("language")
-            if isinstance(language, list):
-                language = next((lang for lang in language if isinstance(lang, str) and lang), None)
-            elif language is not None and not isinstance(language, str):
-                language = None
-            canvas_url = metadata.canvas_url if metadata and metadata.canvas_url else fallback.get("canvas")
+            existing = existing_track_info.get(track_id, {})
+
+            playcount_value = existing.get("pl")
+            if track.playcount is not None:
+                playcount_value = track.playcount
+
+            preview_candidate = metadata.preview_file_id if metadata else None
+            preview_value = _preserve_existing(existing.get("preview"), preview_candidate)
+
+            licensor_candidate = metadata.licensor_uuid if metadata else None
+            licensor_value = _preserve_existing(existing.get("licensor"), licensor_candidate)
+
+            isrc_value = _preserve_existing(existing.get("isrc"), metadata.isrc if metadata else None)
+            label_value = _preserve_existing(existing.get("label"), metadata.label if metadata else None)
+            release_value = _preserve_existing(existing.get("rd"), metadata.release_date if metadata else None)
+
+            language_value = existing.get("language")
+            if language_value is None:
+                language_value = metadata.language if metadata and metadata.language else None
+                if isinstance(language_value, list):
+                    language_value = next((lang for lang in language_value if isinstance(lang, str) and lang), None)
+                elif language_value is not None and not isinstance(language_value, str):
+                    language_value = None
+
+            canvas_candidate = metadata.canvas_url if metadata and metadata.canvas_url else None
+            canvas_value = _preserve_existing(existing.get("canvas"), canvas_candidate)
+
             top_tracks_rows.append(
                 [
                     track_id,
-                    track.name or fallback.get("n") or track_id,
-                    track.playcount if track.playcount is not None else fallback.get("pl"),
-                    track.image_url or fallback.get("img"),
-                    metadata.preview_file_id if metadata else fallback.get("preview"),
-                    metadata.licensor_uuid if metadata else fallback.get("licensor"),
-                    language,
-                    metadata.isrc if metadata else fallback.get("isrc"),
-                    metadata.label if metadata else fallback.get("label"),
-                    metadata.release_date if metadata else fallback.get("rd"),
-                    canvas_url,
+                    _preserve_existing(existing.get("n"), track.name or track_id),
+                    playcount_value,
+                    _preserve_existing(existing.get("img"), track.image_url),
+                    preview_value,
+                    licensor_value,
+                    language_value,
+                    isrc_value,
+                    label_value,
+                    release_value,
+                    canvas_value,
                 ]
             )
 
         for track_id, info in existing_track_info.items():
             if track_id in seen_track_ids:
                 continue
-            metadata = track_metadata.get(track_id)
-            language = metadata.language if metadata and metadata.language else info.get("language")
+            language = info.get("language")
             if isinstance(language, list):
                 language = next((lang for lang in language if isinstance(lang, str) and lang), None)
             elif language is not None and not isinstance(language, str):
                 language = None
-            canvas_url = metadata.canvas_url if metadata and metadata.canvas_url else info.get("canvas")
+            canvas_url = info.get("canvas")
             top_tracks_rows.append(
                 [
                     track_id,
                     info.get("n") or track_id,
                     info.get("pl"),
                     info.get("img"),
-                    metadata.preview_file_id if metadata else info.get("preview"),
-                    metadata.licensor_uuid if metadata else info.get("licensor"),
+                    info.get("preview"),
+                    info.get("licensor"),
                     language,
-                    metadata.isrc if metadata else info.get("isrc"),
-                    metadata.label if metadata else info.get("label"),
-                    metadata.release_date if metadata else info.get("rd"),
+                    info.get("isrc"),
+                    info.get("label"),
+                    info.get("rd"),
                     canvas_url,
                 ]
             )
