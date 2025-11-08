@@ -9,7 +9,7 @@ Returns:
 Style:
     - Cream paper background
     - Bold uppercase title + small subtitle (top-left)
-    - Monochrome variable-dot halftone portrait
+    - Portrait with circular reveal
     - Big circular reveal biased to the right/bottom
     - Optional small logo near bottom-left
 
@@ -109,7 +109,7 @@ def _center_crop_square(img: "Image.Image", size: int = TARGET_DIM) -> "Image.Im
         return square.resize((size, size))
 
 
-def _circle_reveal(img: "Image.Image", bias_x: float = 0.76, bias_y: float = 0.62) -> "Image.Image":
+def _circle_reveal(img: "Image.Image", bias_x: float = 0.65, bias_y: float = 0.62) -> "Image.Image":
     """
     Reveal the image inside a large circle whose center is biased toward (bias_x, bias_y)
     to approximate the reference layout.
@@ -126,57 +126,6 @@ def _circle_reveal(img: "Image.Image", bias_x: float = 0.76, bias_y: float = 0.6
     return out
 
 
-def _halftone_bw(img: "Image.Image", cell: int = 8, angle: float = 15.0) -> "Image.Image":
-    """
-    Create a monochrome variable-dot halftone:
-      - Convert to grayscale
-      - Rotate to a screen angle
-      - Sample into cells and draw dots sized by inverse luminance
-    """
-    g = ImageOps.grayscale(img)
-    g = ImageOps.autocontrast(g)
-    g = ImageOps.equalize(g)
-
-    # Rotate for the screen angle and sample
-    try:
-        rot = g.rotate(angle, resample=Image.BICUBIC, expand=True)
-    except Exception:
-        rot = g.rotate(angle, expand=True)
-
-    w, h = rot.size
-    cols = max(1, w // cell)
-    rows = max(1, h // cell)
-    try:
-        small = rot.resize((cols, rows), Image.BILINEAR)
-    except Exception:
-        small = rot.resize((cols, rows))
-
-    overlay = Image.new("L", (w, h), 0)
-    d = ImageDraw.Draw(overlay)
-    max_r = cell * 0.15
-
-    for y in range(rows):
-        cy = int(y * cell + cell / 2)
-        for x in range(cols):
-            cx = int(x * cell + cell / 2)
-            v = small.getpixel((x, y))      # 0..255 (0 = dark)
-            r = (255 - v) / 255.0 * max_r   # dark -> bigger dots
-            if r > 0.6:                     # drop tiny dots for cleanliness
-                d.ellipse((cx - r, cy - r, cx + r, cy + r), fill=255)
-
-    try:
-        dots = overlay.rotate(-angle, resample=Image.BICUBIC, expand=False)
-    except Exception:
-        dots = overlay.rotate(-angle, expand=False)
-
-    # Center-crop back to original size
-    left = (dots.width - img.width) // 2
-    top = (dots.height - img.height) // 2
-    dots = dots.crop((left, top, left + img.width, top + img.height))
-
-    out = Image.new("RGB", img.size, (255, 255, 255))
-    out.paste((0, 0, 0), mask=dots)
-    return out
 
 
 def _draw_text_editorial(canvas: "Image.Image", title: str, subtitle: str, logo_img: Optional["Image.Image"]) -> "Image.Image":
@@ -278,7 +227,7 @@ def _random_dark_color() -> tuple[Any, int]:
 
 def draw_text_card(img: "Image.Image", text: str, logo_img: Optional["Image.Image"] = None) -> "Image.Image":
     """
-    Compose the cream canvas + circular halftone portrait + editorial text.
+    Compose the cream canvas + circular portrait + editorial text.
     Kept as a separate function for easier swapping/testing.
     """
     # Base cream canvas
@@ -330,10 +279,7 @@ async def generate_playlist_cover_bytes(
         # Plain placeholder if input fails
         src = Image.new("RGB", (TARGET_DIM, TARGET_DIM), (200, 200, 200))
 
-    src = _center_crop_square(src, TARGET_DIM)
-
-    # Halftone conversion for the portrait
-    portrait = _halftone_bw(src, cell=6, angle=15)
+    portrait = _center_crop_square(src)
 
     # Optional logo
     logo_img = None
