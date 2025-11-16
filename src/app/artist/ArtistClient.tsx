@@ -17,6 +17,7 @@ import {
     Music4,
     Pause,
     Play,
+    Shuffle,
     Sparkles,
     TrendingUp,
     Users,
@@ -81,6 +82,10 @@ interface ArtistDetail {
     }
     bio: string
     chartSnapshots?: Record<string, { chartType?: string; rows?: Array<Record<string, unknown>> }>
+    playlists?: {
+        fields: string[]
+        rows: any[][]
+    }
 }
 
 interface CityDirectoryEntry {
@@ -91,13 +96,16 @@ interface CityDirectoryEntry {
     lon: number
 }
 
-interface TrackItem {
+type PlayableTrack = {
     id: string
+    preview: string | null
+    canvas?: string | null
+}
+
+interface TrackItem extends PlayableTrack {
     name: string
     playcount: number
     image: string | null
-    preview: string | null
-    canvas: string | null
     licensor: string | null
     language: string | null
     isrc: string | null
@@ -105,7 +113,24 @@ interface TrackItem {
     releaseDate: string | null
 }
 
+interface PlaylistTrack extends PlayableTrack {
+    name: string
+    artists: string[]
+    image: string | null
+    licensor: string | null
+    language: string | null
+    isrc: string | null
+    label: string | null
+    releaseDate: string | null
+}
+
+interface ArtistPlaylistReference {
+    id: string
+    type: string
+}
+
 const numberFormatter = new Intl.NumberFormat('en-US', {maximumFractionDigits: 0})
+const PLAYLIST_PAGE_SIZE = 8
 
 function formatNumber(value: number | null | undefined) {
     if (value === null || value === undefined) return '—'
@@ -137,6 +162,15 @@ const numberFromUnknown = (value: unknown): number | null => {
     }
     if (typeof value === 'boolean') return value ? 1 : 0
     return null
+}
+
+function prettifyPlaylistType(value: string | null | undefined) {
+    if (!value) return 'Artist Mix'
+    return value
+        .split(/[-_]/)
+        .filter(Boolean)
+        .map((segment) => segment.charAt(0).toUpperCase() + segment.slice(1))
+        .join(' ')
 }
 
 const recurrenceCopy: Record<string, { label: string; caption: string }> = {
@@ -203,6 +237,13 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
     const [isPlaying, setIsPlaying] = useState(false)
     const [activePhoto, setActivePhoto] = useState<{ url: string; index: number } | null>(null)
     const audioRef = useRef<HTMLAudioElement | null>(null)
+    const [activePlaylist, setActivePlaylist] = useState<ArtistPlaylistReference | null>(null)
+    const [playlistTracks, setPlaylistTracks] = useState<PlaylistTrack[]>([])
+    const [playlistOrder, setPlaylistOrder] = useState<number[]>([])
+    const [playlistLoading, setPlaylistLoading] = useState(false)
+    const [playlistError, setPlaylistError] = useState<string | null>(null)
+    const [playlistPage, setPlaylistPage] = useState(0)
+    const [playlistReloadKey, setPlaylistReloadKey] = useState(0)
 
     useEffect(() => {
         const fetchDirectory = async () => {
@@ -321,6 +362,105 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
         }
     }, [artist?.n])
 
+    useEffect(() => {
+        if (!activePlaylist) {
+            setPlaylistTracks([])
+            setPlaylistOrder([])
+            setPlaylistLoading(false)
+            setPlaylistError(null)
+            setPlaylistPage(0)
+            return
+        }
+
+        let cancelled = false
+
+        const hydratePlaylist = async () => {
+            setPlaylistLoading(true)
+            setPlaylistError(null)
+            setPlaylistPage(0)
+            setPlaylistTracks([])
+            setPlaylistOrder([])
+
+            try {
+                const response = await fetch(`/data/playlists/${activePlaylist.id}.json`)
+                if (!response.ok) {
+                    throw new Error('Playlist not found')
+                }
+
+                const payload = await response.json()
+                const trackIds: string[] = Array.isArray(payload?.tracks)
+                    ? payload.tracks.filter((trackId: unknown): trackId is string => typeof trackId === 'string' && trackId.length > 0)
+                    : []
+
+                const trackPromises = trackIds.map(async (trackId) => {
+                    try {
+                        const prefix = trackId.slice(0, 2) || trackId
+                        const trackResponse = await fetch(`/data/tracks/${prefix}/${trackId}.json`)
+                        if (!trackResponse.ok) return null
+                        const trackPayload = await trackResponse.json()
+
+                        const artistNames = Array.isArray(trackPayload?.ar)
+                            ? trackPayload.ar.filter((name: unknown): name is string => typeof name === 'string')
+                            : []
+
+                        const playlistTrack: PlaylistTrack = {
+                            id: typeof trackPayload?.i === 'string' ? trackPayload.i : trackId,
+                            name: typeof trackPayload?.n === 'string' ? trackPayload.n : 'Unknown track',
+                            artists: artistNames.length ? artistNames : ['Unknown Artist'],
+                            image: typeof trackPayload?.img === 'string' ? trackPayload.img : null,
+                            preview: typeof trackPayload?.preview === 'string' ? trackPayload.preview : null,
+                            canvas: typeof trackPayload?.canvas === 'string' ? trackPayload.canvas : null,
+                            licensor: typeof trackPayload?.licensor === 'string' ? trackPayload.licensor : null,
+                            language: typeof trackPayload?.language === 'string' ? trackPayload.language : null,
+                            isrc: typeof trackPayload?.isrc === 'string' ? trackPayload.isrc : null,
+                            label: typeof trackPayload?.label === 'string' ? trackPayload.label : null,
+                            releaseDate: typeof trackPayload?.rd === 'string' ? trackPayload.rd : null,
+                        }
+
+                        return playlistTrack
+                    } catch (playlistTrackError) {
+                        console.warn('Failed to load playlist track', trackId, playlistTrackError)
+                        return null
+                    }
+                })
+
+                const hydratedTracks = await Promise.all(trackPromises)
+
+                if (cancelled) return
+
+                const normalizedTracks = hydratedTracks.filter(Boolean) as PlaylistTrack[]
+                setPlaylistTracks(normalizedTracks)
+                setPlaylistOrder(normalizedTracks.map((_, index) => index))
+            } catch (playlistError) {
+                if (cancelled) return
+                console.error('Failed to hydrate playlist', playlistError)
+                setPlaylistTracks([])
+                setPlaylistOrder([])
+                setPlaylistError('Unable to load featured playlist right now.')
+            } finally {
+                if (!cancelled) {
+                    setPlaylistLoading(false)
+                }
+            }
+        }
+
+        hydratePlaylist()
+
+        return () => {
+            cancelled = true
+        }
+    }, [activePlaylist, playlistReloadKey])
+
+    useEffect(() => {
+        setPlaylistPage((current) => {
+            if (!playlistOrder.length || !playlistTracks.length) {
+                return current === 0 ? current : 0
+            }
+            const maxPage = Math.max(0, Math.ceil(playlistOrder.length / PLAYLIST_PAGE_SIZE) - 1)
+            return Math.min(current, maxPage)
+        })
+    }, [playlistOrder.length, playlistTracks.length])
+
     const topTracks: TrackItem[] = useMemo(() => {
         if (!artist?.topTracks?.rows?.length) return []
         return artist.topTracks.rows.map((row) => ({
@@ -337,6 +477,50 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
             canvas: row[10] as string | null,
         }))
     }, [artist])
+
+    const playlistOptions = useMemo(() => {
+        if (!artist?.playlists?.rows?.length) return []
+        const fields = Array.isArray(artist.playlists.fields) ? artist.playlists.fields : []
+        const typeIndex = fields.indexOf('type')
+        const idIndex = fields.indexOf('pid')
+        if (idIndex === -1) return []
+        return artist.playlists.rows
+            .map((row) => {
+                const playlistId = typeof row[idIndex] === 'string' ? row[idIndex] : null
+                if (!playlistId) return null
+                const playlistType =
+                    typeIndex >= 0 && typeof row[typeIndex] === 'string' ? row[typeIndex] : 'artist-mix'
+                return {
+                    id: playlistId,
+                    type: playlistType,
+                }
+            })
+            .filter(Boolean) as ArtistPlaylistReference[]
+    }, [artist?.playlists])
+
+    useEffect(() => {
+        if (!playlistOptions.length) {
+            setActivePlaylist(null)
+            setPlaylistTracks([])
+            setPlaylistOrder([])
+            setPlaylistError(null)
+            setPlaylistPage(0)
+            return
+        }
+
+        setActivePlaylist((current) => {
+            if (current) {
+                const stillPresent = playlistOptions.find((option) => option.id === current.id)
+                if (stillPresent) {
+                    if (stillPresent.type !== current.type) {
+                        return stillPresent
+                    }
+                    return current
+                }
+            }
+            return playlistOptions[0]
+        })
+    }, [playlistOptions])
 
     const cityRows = useMemo(() => {
         if (!artist?.topCities?.rows?.length) return []
@@ -552,8 +736,88 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
     }, [artist?.chartSnapshots])
 
     const hasChartHistory = chartHistory.length > 0
+    const orderedPlaylistTracks =
+        playlistOrder.length === playlistTracks.length && playlistOrder.length
+            ? playlistOrder.map((index) => playlistTracks[index]).filter(Boolean)
+            : playlistTracks
+    const playlistPageCount = orderedPlaylistTracks.length
+        ? Math.ceil(orderedPlaylistTracks.length / PLAYLIST_PAGE_SIZE)
+        : 0
+    const safePlaylistPage = playlistPageCount ? Math.min(playlistPage, playlistPageCount - 1) : 0
+    const playlistSliceStart = playlistPageCount ? safePlaylistPage * PLAYLIST_PAGE_SIZE : 0
+    const visiblePlaylistTracks =
+        playlistPageCount === 0
+            ? orderedPlaylistTracks.slice(0, PLAYLIST_PAGE_SIZE)
+            : orderedPlaylistTracks.slice(playlistSliceStart, playlistSliceStart + PLAYLIST_PAGE_SIZE)
+    const playlistRangeStart = playlistPageCount ? playlistSliceStart + 1 : 0
+    const playlistRangeEnd =
+        playlistPageCount === 0
+            ? orderedPlaylistTracks.length
+            : Math.min(orderedPlaylistTracks.length, playlistSliceStart + PLAYLIST_PAGE_SIZE)
+    const playlistTotalCount = orderedPlaylistTracks.length
+    const playlistTitle = activePlaylist ? prettifyPlaylistType(activePlaylist.type) : 'Featured Playlist'
+    const playlistHref = activePlaylist ? `https://open.spotify.com/playlist/${activePlaylist.id}` : null
+    const playlistHasPagination = playlistPageCount > 1
+    const disablePlaylistPrev = safePlaylistPage === 0
+    const disablePlaylistNext = playlistPageCount === 0 ? true : safePlaylistPage >= playlistPageCount - 1
+    const playlistPageLabel =
+        playlistPageCount > 0
+            ? `${safePlaylistPage + 1} / ${playlistPageCount}`
+            : orderedPlaylistTracks.length
+                ? '1 / 1'
+                : '—'
+    const showPlaylistSection = playlistOptions.length > 0
+    const playlistIsEmpty =
+        !!activePlaylist && !playlistLoading && !playlistError && orderedPlaylistTracks.length === 0
 
-    const handleToggleTrack = (track: TrackItem) => {
+    const handlePlaylistSelect = useCallback((next: ArtistPlaylistReference) => {
+        setActivePlaylist((current) => {
+            if (!current) return next
+            if (current.id === next.id && current.type === next.type) {
+                return {...next}
+            }
+            return next
+        })
+    }, [])
+
+    const handlePlaylistPageChange = useCallback(
+        (direction: 'prev' | 'next') => {
+            if (!playlistPageCount) {
+                setPlaylistPage(0)
+                return
+            }
+            setPlaylistPage((current) => {
+                if (direction === 'prev') {
+                    return Math.max(0, current - 1)
+                }
+                return Math.min(playlistPageCount - 1, current + 1)
+            })
+        },
+        [playlistPageCount]
+    )
+
+    const handlePlaylistShuffle = useCallback(() => {
+        if (!playlistTracks.length) {
+            setPlaylistOrder([])
+            setPlaylistPage(0)
+            return
+        }
+
+        const indices = Array.from({length: playlistTracks.length}, (_, index) => index)
+        for (let i = indices.length - 1; i > 0; i -= 1) {
+            const j = Math.floor(Math.random() * (i + 1))
+            ;[indices[i], indices[j]] = [indices[j], indices[i]]
+        }
+
+        setPlaylistOrder(indices)
+        setPlaylistPage(0)
+    }, [playlistTracks.length])
+
+    const handlePlaylistRetry = useCallback(() => {
+        setPlaylistReloadKey((key) => key + 1)
+    }, [])
+
+    const handleToggleTrack = (track: PlayableTrack) => {
         if (!track.preview) return
 
         if (audioRef.current) {
@@ -1032,9 +1296,9 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                                     </CardDescription>
                                 </CardHeader>
                                 <CardContent>
-                                    <ScrollArea className="h-[65vh] pr-3 md:h-[520px] md:px-2">
+                                    <ScrollArea className="h-[65vh] pr-3 md:h-[520px]">
                                         <div className="mr-0 flex flex-col gap-3 pb-1 sm:mr-2">
-                                            {topTracks.map((track, index) => {
+                                            {topTracks.map((track) => {
                                                 const isActive = currentTrackId === track.id && isPlaying
 
                                                 return (
@@ -1079,7 +1343,8 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                                                             {/* active state veil */}
                                                             {isActive && (
                                                                 <div
-                                                                    className="absolute inset-0 grid place-items-center bg-black/50 text-emerald-300">
+                                                                    onClick={() => handleToggleTrack(track)}
+                                                                    className="absolute inset-0 grid place-items-center bg-black/50 text-emerald-300 cursor-pointer">
                                                                     <Disc3 className="h-5 w-5 animate-spin"/>
                                                                 </div>
                                                             )}
@@ -1146,23 +1411,6 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                                                             </div>
                                                         </div>
 
-                                                        {/* right actions */
-                                                        }
-                                                        <div
-                                                            className="flex w-full shrink-0 flex-col gap-2 sm:col-span-2 sm:flex-row sm:items-center sm:justify-end lg:col-span-1 lg:w-auto">
-                                                            <Button
-                                                                variant="secondary"
-                                                                size="icon"
-                                                                className="self-start rounded-full border-white/10 bg-white/10 text-white hover:bg-white/20 sm:self-auto"
-                                                                onClick={() => handleToggleTrack(track)}
-                                                                disabled={!track.preview}
-                                                                aria-label={isActive ? "Pause" : "Play"}
-                                                            >
-                                                                {isActive ? <Pause className="h-5 w-5"/> :
-                                                                    <Play className="h-5 w-5"/>}
-                                                            </Button>
-                                                        </div>
-
                                                         {/* subtle focus/hover ring */}
                                                         <span
                                                             className="pointer-events-none absolute inset-0 rounded-3xl ring-0 ring-emerald-400/30 transition-all duration-200 group-hover:ring-2"/>
@@ -1204,9 +1452,284 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                         </section>
                     )}
 
+                    {showPlaylistSection && (
+                        <section className="mt-12">
+                            <Card className="border-white/10 bg-black/40">
+                                <CardHeader className="flex flex-col gap-4">
+                                    <div
+                                        className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-xs uppercase tracking-[0.4em] text-white/60">
+                                        <Disc3 className="h-3.5 w-3.5 text-emerald-300"/>
+                                        Recommended playlist
+                                    </div>
+                                    <div className="flex flex-col gap-4 lg:flex-row lg:items-center lg:justify-between">
+                                        <div className="space-y-3">
+                                            <div>
+                                                <CardTitle className="text-2xl text-white">{playlistTitle}</CardTitle>
+                                            </div>
+                                            {playlistHref && (
+                                                <Button
+                                                    asChild
+                                                    variant="secondary"
+                                                    className="w-full rounded-full border border-white/15 bg-white/10 text-white hover:bg-white/20 sm:w-auto"
+                                                >
+                                                    <a
+                                                        href={playlistHref}
+                                                        target="_blank"
+                                                        rel="noopener noreferrer"
+                                                        className="inline-flex items-center gap-2"
+                                                    >
+                                                        Listen on Spotify
+                                                        <ArrowUpRight className="h-4 w-4"/>
+                                                    </a>
+                                                </Button>
+                                            )}
+                                        </div>
+                                        <div className="flex flex-col gap-2 text-[11px] uppercase tracking-[0.35em] text-white/60 sm:flex-row sm:flex-wrap sm:items-center">
+                                            <span className="rounded-full border border-white/10 bg-white/5 px-3 py-1 text-white/80">
+                                                {playlistTotalCount || '—'} curated songs
+                                            </span>
+                                            {activePlaylist && playlistTotalCount > 1 && (
+                                                <button
+                                                    type="button"
+                                                    onClick={handlePlaylistShuffle}
+                                                    className="inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 px-4 py-1 text-white/80 transition hover:border-emerald-400/50 hover:text-white disabled:opacity-40"
+                                                    disabled={playlistLoading}
+                                                >
+                                                    <Shuffle className="h-3.5 w-3.5"/>
+                                                    SHUFFLE
+                                                </button>
+                                            )}
+                                        </div>
+                                    </div>
+                                    <div className="flex flex-wrap gap-2">
+                                        {playlistOptions.map((option) => {
+                                            const isActive = activePlaylist?.id === option.id
+                                            return (
+                                                <button
+                                                    key={option.id}
+                                                    type="button"
+                                                    onClick={() => handlePlaylistSelect(option)}
+                                                    disabled={playlistLoading && isActive}
+                                                    className={cn(
+                                                        'rounded-full border px-4 py-1 text-[11px] uppercase tracking-[0.35em] transition-all',
+                                                        isActive
+                                                            ? 'border-emerald-400/60 bg-emerald-400/15 text-white shadow-[0_0_25px_rgba(16,185,129,0.15)]'
+                                                            : 'border-white/15 bg-white/5 text-white/60 hover:border-white/40 hover:text-white/90'
+                                                    )}
+                                                >
+                                                    {prettifyPlaylistType(option.type)}
+                                                </button>
+                                            )
+                                        })}
+                                    </div>
+                                </CardHeader>
+                                <CardContent className="space-y-4">
+                                    {playlistLoading && (
+                                        <div
+                                            className="flex items-center justify-center gap-3 rounded-3xl border border-white/10 bg-white/5 px-5 py-4 text-sm text-white/70">
+                                            <Loader2 className="h-4 w-4 animate-spin text-emerald-300"/>
+                                            Hydrating {playlistTitle}...
+                                        </div>
+                                    )}
+
+                                    {!playlistLoading && playlistError && (
+                                        <div
+                                            className="flex flex-col gap-4 rounded-3xl border border-white/10 bg-rose-500/10 px-5 py-4 text-sm text-white/80">
+                                            <p>{playlistError}</p>
+                                            <Button
+                                                type="button"
+                                                variant="secondary"
+                                                size="sm"
+                                                className="self-start rounded-full border-white/10 bg-white/10 text-white hover:bg-white/20"
+                                                onClick={handlePlaylistRetry}
+                                                disabled={!activePlaylist}
+                                            >
+                                                Retry playlist
+                                            </Button>
+                                        </div>
+                                    )}
+
+                                    {!playlistLoading && !playlistError && playlistIsEmpty && (
+                                        <div
+                                            className="rounded-3xl border border-dashed border-white/15 bg-white/5 px-5 py-6 text-center text-sm text-white/60">
+                                            This artist mix exists, but its tracks haven't been archived yet.
+                                        </div>
+                                    )}
+
+                                    {!playlistLoading && !playlistError && !playlistIsEmpty && (
+                                        <>
+                                            <div className="mr-0 flex flex-col gap-4 pb-1 sm:mr-2">
+                                                {visiblePlaylistTracks.map((track) => {
+                                                    const isActive = currentTrackId === track.id && isPlaying
+                                                    const artistLabel = track.artists.join(', ')
+
+                                                    return (
+                                                        <div
+                                                            key={track.id}
+                                                            className={[
+                                                                'group relative flex flex-col gap-6',
+                                                                'rounded-3xl border border-white/10 bg-white/[0.04]',
+                                                                'p-5 sm:p-6 transition-all duration-200',
+                                                                'hover:border-emerald-400/40 hover:bg-emerald-400/[0.06] hover:shadow-lg hover:shadow-emerald-500/5',
+                                                                'md:grid md:grid-cols-[auto,1fr] lg:grid-cols-[auto,1fr,auto]',
+                                                            ].join(' ')}
+                                                        >
+                                                            {isActive && track.canvas && (
+                                                                <div
+                                                                    className="pointer-events-none absolute inset-0 -z-10 opacity-40">
+                                                                    <video
+                                                                        src={track.canvas}
+                                                                        autoPlay
+                                                                        loop
+                                                                        muted
+                                                                        playsInline
+                                                                        className="h-full w-full rounded-3xl object-cover"
+                                                                    />
+                                                                </div>
+                                                            )}
+
+                                                            <button
+                                                                type="button"
+                                                                onClick={() => handleToggleTrack(track)}
+                                                                disabled={!track.preview}
+                                                                aria-label={isActive ? 'Pause preview' : 'Play preview'}
+                                                                aria-pressed={isActive}
+                                                                className={cn(
+                                                                    'relative mx-auto aspect-square w-32 max-w-[180px] overflow-hidden rounded-2xl border border-white/10 transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-400/60 sm:w-36 md:mx-0 md:w-28',
+                                                                    !track.preview && 'cursor-not-allowed opacity-50'
+                                                                )}
+                                                            >
+                                                                {track.image ? (
+                                                                    <img
+                                                                        src={track.image}
+                                                                        alt={track.name}
+                                                                        className="h-full w-full object-cover"
+                                                                        loading="lazy"
+                                                                    />
+                                                                ) : (
+                                                                    <div
+                                                                        className="grid h-full w-full place-items-center text-[10px] uppercase tracking-[0.4em] text-white/50">
+                                                                        No art
+                                                                    </div>
+                                                                )}
+                                                                <div
+                                                                    className={cn(
+                                                                        'absolute inset-0 flex items-center justify-center bg-black/35 opacity-0 transition-opacity duration-200',
+                                                                        isActive ? 'opacity-100' : 'group-hover:opacity-100'
+                                                                    )}
+                                                                >
+                                                                    <span className="rounded-full bg-black/60 p-2 ring-1 ring-white/10">
+                                                                        {isActive ? (
+                                                                            <Pause className="h-5 w-5 text-white"/>
+                                                                        ) : (
+                                                                            <Play className="h-5 w-5 text-white"/>
+                                                                        )}
+                                                                    </span>
+                                                                </div>
+                                                            </button>
+
+                                                            <div className="space-y-3 text-center text-sm text-white md:pr-4 md:text-left">
+                                                                <div>
+                                                                    <h3 className="text-lg font-semibold text-white">
+                                                                        {track.name}
+                                                                    </h3>
+                                                                    <p className="text-sm text-white/60">
+                                                                        {artistLabel}
+                                                                    </p>
+                                                                </div>
+                                                                <div
+                                                                    className="flex flex-wrap items-center justify-center gap-2 text-[11px] uppercase tracking-[0.25em] text-white/50 md:justify-start">
+                                                                    {track.label && (
+                                                                        <span
+                                                                            className="rounded-full border border-white/10 bg-white/5 px-3 py-1">
+                                                                            {track.label}
+                                                                        </span>
+                                                                    )}
+                                                                    {track.language && (
+                                                                        <span
+                                                                            className="rounded-full border border-white/10 bg-white/5 px-3 py-1">
+                                                                            {track.language.toUpperCase()}
+                                                                        </span>
+                                                                    )}
+                                                                    {track.isrc && (
+                                                                        <span
+                                                                            className="rounded-full border border-white/10 bg-white/5 px-3 py-1">
+                                                                            {track.isrc}
+                                                                        </span>
+                                                                    )}
+                                                                </div>
+                                                            </div>
+
+                                                            <div
+                                                                className="flex w-full flex-col gap-3 text-xs text-white/60 md:col-span-2 md:flex-row md:items-center md:justify-end lg:col-span-1 lg:w-auto">
+                                                                <div className="text-center md:text-right">
+                                                                    <p className="text-sm font-semibold text-white/80">
+                                                                        {formatDate(track.releaseDate)}
+                                                                    </p>
+                                                                    <p className="text-[11px] uppercase tracking-[0.35em] text-white/40">
+                                                                        {track.licensor ?? track.label ?? 'Independent'}
+                                                                    </p>
+                                                                </div>
+                                                                <Button
+                                                                    variant="secondary"
+                                                                    size="icon"
+                                                                    className="self-center rounded-full border-white/10 bg-white/10 text-white hover:bg-white/20 md:self-auto"
+                                                                    onClick={() => handleToggleTrack(track)}
+                                                                    disabled={!track.preview}
+                                                                    aria-label={isActive ? 'Pause' : 'Play preview'}
+                                                                >
+                                                                    {isActive ? <Pause className="h-5 w-5"/> :
+                                                                        <Play className="h-5 w-5"/>}
+                                                                </Button>
+                                                            </div>
+
+                                                            <span
+                                                                className="pointer-events-none absolute inset-0 rounded-3xl ring-0 ring-emerald-400/30 transition-all duration-200 group-hover:ring-2"/>
+                                                        </div>
+                                                    )
+                                                })}
+                                            </div>
+
+                                            <div
+                                                className="flex flex-wrap items-center justify-between gap-4 rounded-3xl border border-white/10 bg-white/[0.03] px-4 py-3 text-xs text-white/60">
+                                                <span>
+                                                    Showing {playlistRangeStart}-{playlistRangeEnd} of {playlistTotalCount || '—'} recommended songs
+                                                </span>
+                                                <div className="flex items-center gap-2">
+                                                    <Button
+                                                        type="button"
+                                                        variant="secondary"
+                                                        size="icon"
+                                                        className="rounded-full border-white/10 bg-white/10 text-white hover:bg-white/20"
+                                                        onClick={() => handlePlaylistPageChange('prev')}
+                                                        disabled={disablePlaylistPrev || !playlistHasPagination}
+                                                    >
+                                                        <ArrowLeft className="h-4 w-4"/>
+                                                    </Button>
+                                                    <span className="text-white/80">{playlistPageLabel}</span>
+                                                    <Button
+                                                        type="button"
+                                                        variant="secondary"
+                                                        size="icon"
+                                                        className="rounded-full border-white/10 bg-white/10 text-white hover:bg-white/20"
+                                                        onClick={() => handlePlaylistPageChange('next')}
+                                                        disabled={disablePlaylistNext || !playlistHasPagination}
+                                                    >
+                                                        <ArrowRight className="h-4 w-4"/>
+                                                    </Button>
+                                                </div>
+                                            </div>
+                                        </>
+                                    )}
+                                </CardContent>
+                            </Card>
+                        </section>
+                    )}
+
                     {cityRows.length > 0 && (
                         <section className="mt-12">
-                            <TopCities artistName={artist.n} cityRows={cityRows} directory={cityDirectory} artistListeners={artist.today.ml}/>
+                            <TopCities artistName={artist.n} cityRows={cityRows} directory={cityDirectory}
+                                       artistListeners={artist.today.ml}/>
                         </section>
                     )}
 
