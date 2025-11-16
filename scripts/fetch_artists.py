@@ -5,6 +5,8 @@ import math
 import random
 import re
 import statistics
+from collections.abc import Iterable
+
 import unicodedata
 from html import unescape
 from collections import deque
@@ -195,6 +197,10 @@ class TrackMetadata:
     label: Optional[str] = None
     release_date: Optional[str] = None
     canvas_url: Optional[str] = None
+    artists: Optional[List[str]] = None
+    name: Optional[str] = None
+    cover_image_file_id: Optional[str] = None
+    explicit: Optional[bool] = None
 
 @dataclass
 class CityStat:
@@ -1284,6 +1290,9 @@ class ArtistDataStore:
             chart_snapshots = existing_detail.get("chartSnapshots")
             if isinstance(chart_snapshots, dict):
                 detail_payload["chartSnapshots"] = chart_snapshots
+            playlists = existing_detail.get("playlists")
+            if isinstance(playlists, dict):
+                detail_payload["playlists"] = playlists
 
         dump_json(self._artist_path(overview.artist_id), detail_payload)
     def load_existing_detail(self, artist_id: str) -> Optional[Dict[str, Any]]:
@@ -1321,7 +1330,6 @@ def encode_canvas_request(track_ids: Sequence[str]) -> bytes:
 
 def parse_track_metadata(track_id: str, payload: Dict[str, Any]) -> TrackMetadata:
     album = payload.get("album") or {}
-
     preview_entries = payload.get("preview") or []
     preview_file_id = None
     if isinstance(preview_entries, list):
@@ -1488,6 +1496,490 @@ async def fetch_track_metadata(
     logging.error("Exceeded track metadata retries for %s", track_id)
     return None
 
+EXTENDED_METADATA_ENDPOINT = "https://spclient.wg.spotify.com/extended-metadata/v0/extended-metadata"
+EXTENSION_KIND_TRACK_V4 = 10
+
+def _find_entity_extension_arrays(raw_payload: bytes) -> Iterable[bytes]:
+    # BatchedExtensionResponse { header=1, extended_metadata=2 (EntityExtensionDataArray repeated) }
+    for fno, wtyp, val, _ in _parse_message(raw_payload):
+        if fno == 2 and wtyp == 2:
+            yield val  # EntityExtensionDataArray bytes
+
+def _read_varint_from_message(m: bytes, want_field: int) -> Optional[int]:
+    for fno, wtyp, val, _ in _parse_message(m):
+        if fno == want_field and wtyp == 0:
+            return int(val)
+    return None
+
+def _find_extension_data_blobs(entity_array_msg: bytes) -> Iterable[bytes]:
+    """
+    EntityExtensionDataArray {
+      header=1
+      extension_kind=2
+      extension_data=3 (repeated EntityExtensionData)
+    }
+    Return each EntityExtensionData (field-3) submessage bytes.
+    """
+    for fno, wtyp, val, _ in _parse_message(entity_array_msg):
+        if fno == 3 and wtyp == 2:
+            yield val
+
+def _parse_any(any_buf: bytes) -> Tuple[Optional[str], Optional[bytes]]:
+    """
+    google.protobuf.Any { string type_url = 1; bytes value = 2; }
+    """
+    type_url, value = None, None
+    for fno, wtyp, val, _ in _parse_message(any_buf):
+        if wtyp != 2:
+            continue
+        if fno == 1:
+            try:
+                type_url = val.decode("utf-8", errors="ignore")
+            except Exception:
+                type_url = None
+        elif fno == 2:
+            value = val
+    return type_url, value
+
+def _extract_type_and_payload_from_entity_extension_data(ed_msg: bytes) -> Tuple[Optional[str], Optional[bytes]]:
+    """
+    EntityExtensionData {
+      header = 1 (msg)
+      entity_uri = 2 (string)
+      extension_data = 3 (Any)
+    }
+    Return (type_url, value) from the inner Any.
+    """
+    for fno, wtyp, val, _ in _parse_message(ed_msg):
+        if fno == 3 and wtyp == 2:  # the Any
+            return _parse_any(val)
+    return None, None
+
+def _extract_extension_payload_bytes(
+        raw_payload: bytes,
+        entity_uri: str,
+        wanted_kind: int = EXTENSION_KIND_TRACK_V4
+) -> Tuple[Optional[str], Optional[bytes]]:
+    """
+    Return first (type_url, payload_bytes) for the extension array with kind == wanted_kind.
+    """
+    for arr in _find_entity_extension_arrays(raw_payload):
+        kind = _read_varint_from_message(arr, 2)
+        if kind != wanted_kind:
+            continue
+        best_type, best_value = None, None
+        for ed in _find_extension_data_blobs(arr):
+            t, v = _extract_type_and_payload_from_entity_extension_data(ed)
+            if v:
+                if t and ("Track" in t or "track" in t):
+                    return t, v
+                if best_value is None:
+                    best_type, best_value = t, v
+        if best_value:
+            return best_type, best_value
+    return None, None
+
+def _zz_decode(n: int) -> int:
+    return (n >> 1) ^ -(n & 1)
+
+def _first(lst):
+    return lst[0] if lst else None
+
+def _get_string_field(msg_bytes: bytes, field_no: int) -> Optional[str]:
+    for fno, wtyp, val, _ in _parse_message(msg_bytes):
+        if fno == field_no and wtyp == 2:
+            try:
+                return val.decode("utf-8", errors="ignore")
+            except Exception:
+                return None
+    return None
+
+def _get_varint_field(msg_bytes: bytes, field_no: int, *, zigzag: bool = False) -> Optional[int]:
+    for fno, wtyp, val, _ in _parse_message(msg_bytes):
+        if fno == field_no and wtyp == 0:
+            n = int(val)
+            return _zz_decode(n) if zigzag else n
+    return None
+
+def _decode_audiofile_file_id(audiofile_msg: bytes) -> Optional[str]:
+    for fno, wtyp, val, _ in _parse_message(audiofile_msg):
+        if fno == 1 and wtyp == 2:
+            return val.hex()
+    return None
+
+def _decode_preview_file_id(track_msg: bytes) -> Optional[str]:
+    for fno, wtyp, val, _ in _parse_message(track_msg):
+        if fno == 15 and wtyp == 2:
+            return _decode_audiofile_file_id(val)
+    return None
+
+def _decode_licensor_uuid(track_msg: bytes) -> Optional[str]:
+    for fno, wtyp, val, _ in _parse_message(track_msg):
+        if fno == 21 and wtyp == 2:
+            for lfno, lwtyp, lval, _ in _parse_message(val):
+                if lfno == 1 and lwtyp == 2:
+                    return lval.hex()
+    return None
+
+def _decode_isrc(track_msg: bytes) -> Optional[str]:
+    for fno, wtyp, val, _ in _parse_message(track_msg):
+        if fno == 10 and wtyp == 2:
+            id_type = _get_string_field(val, 1)
+            if id_type and id_type.lower() == "isrc":
+                return _get_string_field(val, 2)
+    return None
+
+def _decode_languages(track_msg: bytes) -> Optional[str]:
+    for fno, wtyp, val, _ in _parse_message(track_msg):
+        if fno == 22 and wtyp == 2:
+            try:
+                lang = val.decode("utf-8", errors="ignore")
+            except Exception:
+                lang = None
+            if lang:
+                return lang
+    return None
+
+def _decode_album_cover_file_id(album_msg: bytes) -> Optional[str]:
+    cover = None
+    for fno, wtyp, val, _ in _parse_message(album_msg):
+        if fno == 17 and wtyp == 2:
+            # ImageGroup
+            for ig_fno, ig_wtyp, ig_val, _ in _parse_message(val):
+                if ig_fno == 1 and ig_wtyp == 2:
+                    # Image
+                    for im_fno, im_wtyp, im_val, _ in _parse_message(ig_val):
+                        if im_fno == 1 and im_wtyp == 2:
+                            return im_val.hex()
+        elif fno == 9 and wtyp == 2:
+            # fallback: Album.cover (repeated Image)
+            for im_fno, im_wtyp, im_val, _ in _parse_message(val):
+                if im_fno == 1 and im_wtyp == 2:
+                    cover = im_val.hex()
+                    break
+    return cover
+
+def _decode_album_label_and_date(album_msg: bytes) -> Tuple[Optional[str], Optional[str]]:
+    label = None
+    date_iso = None
+    for fno, wtyp, val, _ in _parse_message(album_msg):
+        if fno == 5 and wtyp == 2:
+            try:
+                label = val.decode("utf-8", errors="ignore")
+            except Exception:
+                label = None
+        elif fno == 6 and wtyp == 2:
+            year = _get_varint_field(val, 1)
+            month = _get_varint_field(val, 2)
+            day = _get_varint_field(val, 3)
+            if year:
+                if month and day:
+                    date_iso = f"{year // 2:04d}-{month // 2:02d}-{day // 2:02d}"
+                elif month:
+                    date_iso = f"{year // 2:04d}-{month // 2:02d}"
+                else:
+                    date_iso = f"{year // 2:04d}"
+    return label, date_iso
+
+def _decode_album_block(track_msg: bytes) -> Tuple[Optional[str], Optional[str], Optional[str]]:
+    # Track.album = field 3 -> Album
+    for fno, wtyp, val, _ in _parse_message(track_msg):
+        if fno == 3 and wtyp == 2:
+            cover_hex = _decode_album_cover_file_id(val)
+            label, date_iso = _decode_album_label_and_date(val)
+            return cover_hex, label, date_iso
+    return None, None, None
+
+def _decode_artists(track_msg: bytes) -> list:
+    # Track.artist = field 4 -> repeated Artist { name=2 }
+    artists = []
+    for fno, wtyp, val, _ in _parse_message(track_msg):
+        if fno == 4 and wtyp == 2:
+            name = _get_string_field(val, 2)
+            if name:
+                artists.append(name)
+    return artists
+
+def _decode_track_payload(payload: bytes) -> Dict[str, Any]:
+    name = _get_string_field(payload, 2)
+    explicit = bool(_get_varint_field(payload, 9) or 0)
+
+    preview_file_id = _decode_preview_file_id(payload)
+    licensor_uuid = _decode_licensor_uuid(payload)
+    isrc = _decode_isrc(payload)
+    language = _decode_languages(payload)
+    cover_hex, album_label, release_date = _decode_album_block(payload)
+    artists = _decode_artists(payload)
+    return {
+        "name": name,
+        "explicit": explicit,
+        "preview_file_id": preview_file_id,
+        "licensor_uuid": DISTRIBUTORS.get(licensor_uuid, licensor_uuid) if licensor_uuid else None,
+        "isrc": isrc,
+        "language": language,
+        "label": album_label,
+        "release_date": release_date,
+        "cover_image_file_id": cover_hex,
+        "artists": artists,
+    }
+
+def build_payload(entity_uri: str, cntry: str, cat: str) -> bytes:
+    return _encode_batched_entity_request(
+        entity_uri,
+        EXTENSION_KIND_TRACK_V4,
+        country=cntry,
+        catalogue=cat,
+    )
+
+# ====== Public decode (REPLACE your _decode_extension_payload) ======
+
+def _decode_extension_payload(type_url: Optional[str], payload: bytes) -> Optional[Dict[str, Any]]:
+    if not payload:
+        return None
+
+    hint = (type_url or "").lower()
+    if "spotify.metadata.track" in hint or "metadata.track" in hint or "track" in hint:
+        data = _decode_track_payload(payload)
+        return data
+
+    name = None
+    popularity = None
+    duration_ms = None
+    try:
+        for fno, wtyp, val, _ in _parse_message(payload):
+            if wtyp == 2 and fno == 4 and name is None:
+                try:
+                    name = val.decode("utf-8", errors="ignore")
+                except Exception:
+                    pass
+            if wtyp == 0 and fno == 17 and popularity is None:
+                popularity = int(val)
+            if wtyp == 0 and fno == 5 and duration_ms is None:
+                duration_ms = int(val) * 1000
+    except Exception:
+        pass
+
+    return {
+        "name": name,
+        "popularity": popularity,
+        "duration_ms": duration_ms,
+        "type_url": type_url,
+        "raw_len": len(payload),
+    }
+
+
+def _varint(n: int) -> bytes:
+    out = bytearray()
+    while True:
+        b = n & 0x7F
+        n >>= 7
+        if n:
+            out.append(b | 0x80)
+        else:
+            out.append(b)
+            break
+    return bytes(out)
+
+def _key(field_no: int, wire_type: int) -> bytes:
+    return _varint((field_no << 3) | wire_type)
+
+def _len_delimited(field_no: int, data: bytes) -> bytes:
+    return _key(field_no, 2) + _varint(len(data)) + data
+
+def _varint_field(field_no: int, value: int) -> bytes:
+    return _key(field_no, 0) + _varint(value)
+
+def _string_field(field_no: int, s: str) -> bytes:
+    b = s.encode("utf-8")
+    return _len_delimited(field_no, b)
+
+def _encode_extension_query(extension_kind: int, etag: str = "") -> bytes:
+    parts = []
+    parts.append(_varint_field(1, extension_kind))
+    if etag:
+        parts.append(_string_field(2, etag))
+    return b"".join(parts)
+
+def _encode_entity_request(entity_uri: str, extension_kind: int) -> bytes:
+    parts = []
+    parts.append(_string_field(1, entity_uri))
+    query_msg = _encode_extension_query(extension_kind)
+    parts.append(_len_delimited(2, query_msg))
+    return b"".join(parts)
+
+DEFAULT_COUNTRY = "US"
+DEFAULT_CATALOGUE = "premium"
+
+def _encode_request_header(country: str = DEFAULT_COUNTRY, catalogue: str = DEFAULT_CATALOGUE) -> bytes:
+    parts = []
+    if country:
+        parts.append(_string_field(1, country))
+    if catalogue:
+        parts.append(_string_field(2, catalogue))
+    return b"".join(parts)
+
+def _encode_batched_entity_request(entity_uri: str, extension_kind: int, country: str = DEFAULT_COUNTRY, catalogue: str = DEFAULT_CATALOGUE) -> bytes:
+    header = _encode_request_header(country, catalogue)  # empty ok
+    entity = _encode_entity_request(entity_uri, extension_kind)
+    parts = []
+    parts.append(_len_delimited(1, header))
+    parts.append(_len_delimited(2, entity))  # repeated, but we send one
+    return b"".join(parts)
+
+# ====== Generic protobuf parser for len-delimited trees (enough to dig out payload) ======
+
+def _parse_message(buf: bytes, start: int = 0, end: Optional[int] = None) -> Iterable[Tuple[int, int, Any, int]]:
+    """
+    Yields tuples: (field_no, wire_type, value, next_pos)
+    For wire_type 0 -> value is int; for 2 -> value is bytes; others returned as raw.
+    """
+    if end is None:
+        end = len(buf)
+    i = start
+    while i < end:
+        # read key
+        key, shift = 0, 0
+        while True:
+            b = buf[i]
+            i += 1
+            key |= (b & 0x7F) << shift
+            if not (b & 0x80):
+                break
+            shift += 7
+        field_no = key >> 3
+        wire_type = key & 0x07
+
+        if wire_type == 0:
+            # varint
+            val, shift = 0, 0
+            while True:
+                b = buf[i]
+                i += 1
+                val |= (b & 0x7F) << shift
+                if not (b & 0x80):
+                    break
+                shift += 7
+            yield field_no, wire_type, val, i
+
+        elif wire_type == 2:
+            # length-delimited
+            length, shift = 0, 0
+            while True:
+                b = buf[i]
+                i += 1
+                length |= (b & 0x7F) << shift
+                if not (b & 0x80):
+                    break
+                shift += 7
+            val = buf[i : i + length]
+            i += length
+            yield field_no, wire_type, val, i
+
+        else:
+            raise ValueError(f"Unsupported wire type {wire_type} at field {field_no}")
+
+# ====== Public coroutine ======
+
+RETRYABLE_STATUSES = {429, 500, 502, 503, 504}
+
+async def fetch_track_new_metadata(
+        session: aiohttp.ClientSession,
+        token_manager: TokenManager,
+        track_id: str,
+        semaphore: asyncio.Semaphore,
+) -> TrackMetadata | None:
+    """
+    Fetch extended metadata for one track from the extended-metadata service.
+    Returns a compact dict or None.
+    """
+    entity_uri = SPOTIFY_TRACK_URI.format(track_id=track_id)
+    # Build once for preferred market; we’ll rebuild on country fallback.
+    def build_payload(cntry: str, cat: str) -> bytes:
+            return _encode_batched_entity_request(
+                entity_uri,
+                EXTENSION_KIND_TRACK_V4,
+                country=cntry,
+            catalogue=cat,
+        )
+    current_country = DEFAULT_COUNTRY
+    current_catalogue = DEFAULT_CATALOGUE
+    payload = build_payload(current_country, current_catalogue)
+    tried_country_fallback = False
+    timeout = ClientTimeout(total=REQUEST_TIMEOUT_SECONDS)
+
+    for attempt in range(MAX_RETRIES):
+        async with semaphore:
+            raw_payload = None
+            try:
+                token = await token_manager.get_token(session)
+                headers = {
+                    "Authorization": f"Bearer {token}",
+                    "Accept": "application/x-protobuf",
+                    "Content-Type": "application/x-protobuf",
+                    "App-Platform": "WebPlayer",
+                    "Accept-Encoding": "gzip",
+                }
+
+                async with session.post(
+                        EXTENDED_METADATA_ENDPOINT,
+                        data=payload,
+                        headers=headers,
+                        timeout=timeout,
+                ) as response:
+                    if response.status == 404:
+                        logging.info("Extended metadata not found for %s (404)", track_id)
+                        return None
+                    if response.status in RETRYABLE_STATUSES:
+                        txt = await response.text(errors="ignore")
+                        logging.warning("Retryable %s for %s: %s", response.status, track_id, txt[:500])
+                    else:
+                        response.raise_for_status()
+                    raw_payload = await response.read()
+
+            except ClientResponseError as exc:
+                if exc.status in (401, 403):
+                    logging.warning("Token rejected (%s) for %s, refreshing", exc.status, track_id)
+                    token_manager.token = None
+                    token_manager.expiration_timestamp = 0
+                    continue
+                if exc.status == 404:
+                    logging.info("Extended metadata not found for %s (404)", track_id)
+                    return None
+                if exc.status in RETRYABLE_STATUSES:
+                    logging.warning("Retryable client error %s for %s: %s", exc.status, track_id, exc)
+                else:
+                    logging.error("Non-retryable client error %s for %s: %s", exc.status, track_id, exc)
+                    return None
+
+            except (asyncio.TimeoutError, ClientError) as exc:
+                logging.warning("Transport error for %s: %s", track_id, exc)
+
+            except (KeyError, ValueError, json.JSONDecodeError) as exc:
+                logging.error("Parsing error for %s: %s", track_id, exc)
+                return None
+
+            # Try to extract and decode
+            if raw_payload:
+                try:
+                    type_url, ext_bytes = _extract_extension_payload_bytes(raw_payload, entity_uri, EXTENSION_KIND_TRACK_V4)
+                    if not ext_bytes:
+                        logging.debug("No extension payload for %s", track_id)
+                        return None
+                    decoded = _decode_extension_payload(type_url, ext_bytes) or {}
+                    return TrackMetadata(track_id=track_id, **decoded)
+                except Exception as exc:
+                    logging.error("Failed to interpret response for %s: %s", track_id, exc)
+                    return None
+
+        if attempt == MAX_RETRIES - 1:
+            break
+        backoff = (2 ** attempt) + random.uniform(0, 1)
+        await asyncio.sleep(backoff)
+
+    logging.error("Exceeded retries for %s", track_id)
+    return None
+
+
 
 async def fetch_canvas_batch(
     session: aiohttp.ClientSession,
@@ -1582,7 +2074,7 @@ async def fetch_many_track_metadata(
     unique_ids = [track_id for track_id in dict.fromkeys(track_ids) if isinstance(track_id, str) and track_id]
     if not unique_ids:
         return {}
-    tasks = [asyncio.create_task(fetch_track_metadata(session, token_manager, track_id, semaphore)) for track_id in unique_ids]
+    tasks = [asyncio.create_task(fetch_track_new_metadata(session, token_manager, track_id, semaphore)) for track_id in unique_ids]
     results: Dict[str, TrackMetadata] = {}
     for track_id, task in zip(unique_ids, tasks):
         try:
