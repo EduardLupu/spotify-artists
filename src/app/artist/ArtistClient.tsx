@@ -395,8 +395,7 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
 
                 const trackPromises = trackIds.map(async (trackId) => {
                     try {
-                        const prefix = (trackId.slice(0, 2) || trackId).toLowerCase()
-                        const trackResponse = await fetch(`/data/tracks/${prefix}/${trackId}.json`)
+                        const trackResponse = await fetch(`/data/tracks/${trackId.slice(0, 2).toLowerCase()}/${trackId}.json`)
                         if (!trackResponse.ok) return null
                         const trackPayload = await trackResponse.json()
 
