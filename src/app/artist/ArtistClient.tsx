@@ -32,6 +32,7 @@ import {Card, CardContent, CardDescription, CardHeader, CardTitle} from '@/compo
 import {ScrollArea} from '@/components/ui/scroll-area'
 import {cn} from '@/lib/utils'
 import Navbar from "@/components/navbar";
+import {spotifyImageAtSize} from "@/lib/helpers";
 
 type SeriesPayload = {
     fields: string[]
@@ -394,7 +395,7 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
 
                 const trackPromises = trackIds.map(async (trackId) => {
                     try {
-                        const prefix = trackId.slice(0, 2) || trackId
+                        const prefix = (trackId.slice(0, 2) || trackId).toLowerCase()
                         const trackResponse = await fetch(`/data/tracks/${prefix}/${trackId}.json`)
                         if (!trackResponse.ok) return null
                         const trackPayload = await trackResponse.json()
@@ -1333,7 +1334,7 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                                                         <div
                                                             className="relative h-18 w-18 justify-self-center overflow-hidden rounded-2xl border border-white/10 sm:h-20 sm:w-20 sm:justify-self-start">
                                                             <img
-                                                                src={track.image ? `https://i.scdn.co/image/${track.image}` : "/placeholder-artist.svg"}
+                                                                src={track.image ? spotifyImageAtSize(track.image, 300) : "/placeholder-artist.svg"}
                                                                 alt={track.name}
                                                                 className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
                                                                 onError={(e) => {
@@ -1348,7 +1349,6 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                                                                     <Disc3 className="h-5 w-5 animate-spin"/>
                                                                 </div>
                                                             )}
-
                                                             {!isActive && (
                                                                 <button
                                                                     onClick={() => handleToggleTrack(track)}
@@ -1402,7 +1402,7 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                 {track.isrc}
               </span>
                                                                 )}
-                                                                {track.licensor && (
+                                                                {track.licensor && track.licensor.length !== 32 && (
                                                                     <span
                                                                         className="rounded-full border border-white/10 bg-white/5 px-3 py-1">
                 {track.licensor}
@@ -1561,22 +1561,24 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                                             <div className="mr-0 flex flex-col gap-4 pb-1 sm:mr-2">
                                                 {visiblePlaylistTracks.map((track) => {
                                                     const isActive = currentTrackId === track.id && isPlaying
-                                                    const artistLabel = track.artists.join(', ')
+                                                    const artistLabel = track.artists && track.artists.length > 0
+                                                        ? track.artists.join(', ')
+                                                        : 'Unknown artist'
 
                                                     return (
                                                         <div
                                                             key={track.id}
                                                             className={[
-                                                                'group relative flex flex-col gap-6',
-                                                                'rounded-3xl border border-white/10 bg-white/[0.04]',
-                                                                'p-5 sm:p-6 transition-all duration-200',
-                                                                'hover:border-emerald-400/40 hover:bg-emerald-400/[0.06] hover:shadow-lg hover:shadow-emerald-500/5',
-                                                                'md:grid md:grid-cols-[auto,1fr] lg:grid-cols-[auto,1fr,auto]',
-                                                            ].join(' ')}
+                                                                "group relative grid grid-cols-1 items-start",
+                                                                "sm:grid-cols-[auto,1fr] lg:grid-cols-[auto,1fr,auto]",
+                                                                "gap-5 rounded-3xl border border-white/10 bg-white/[0.04]",
+                                                                "p-4 sm:p-5 transition-all duration-200",
+                                                                "hover:border-emerald-400/40 hover:bg-emerald-400/[0.06] hover:shadow-lg hover:shadow-emerald-500/5",
+                                                            ].join(" ")}
                                                         >
                                                             {isActive && track.canvas && (
                                                                 <div
-                                                                    className="pointer-events-none absolute inset-0 -z-10 opacity-40">
+                                                                    className="pointer-events-none absolute inset-0 -z-10 opacity-35">
                                                                     <video
                                                                         src={track.canvas}
                                                                         autoPlay
@@ -1585,60 +1587,67 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                                                                         playsInline
                                                                         className="h-full w-full rounded-3xl object-cover"
                                                                     />
+                                                                    <div
+                                                                        className="absolute inset-0 bg-gradient-to-r from-black/40 via-black/30 to-black/40 backdrop-blur-[1px]"/>
                                                                 </div>
                                                             )}
 
-                                                            <button
-                                                                type="button"
-                                                                onClick={() => handleToggleTrack(track)}
-                                                                disabled={!track.preview}
-                                                                aria-label={isActive ? 'Pause preview' : 'Play preview'}
-                                                                aria-pressed={isActive}
-                                                                className={cn(
-                                                                    'relative mx-auto aspect-square w-32 max-w-[180px] overflow-hidden rounded-2xl border border-white/10 transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-400/60 sm:w-36 md:mx-0 md:w-28',
-                                                                    !track.preview && 'cursor-not-allowed opacity-50'
-                                                                )}
-                                                            >
-                                                                {track.image ? (
-                                                                    <img
-                                                                        src={track.image}
-                                                                        alt={track.name}
-                                                                        className="h-full w-full object-cover"
-                                                                        loading="lazy"
-                                                                    />
-                                                                ) : (
+                                                            <div
+                                                                className="relative h-18 w-18 justify-self-center overflow-hidden rounded-2xl border border-white/10 sm:h-20 sm:w-20 sm:justify-self-start">
+                                                                <img
+                                                                    src={track.image ? spotifyImageAtSize(track.image, 300) : "/placeholder-artist.svg"}
+                                                                    alt={track.name}
+                                                                    className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
+                                                                    onError={(e) => {
+                                                                        e.currentTarget.src = "/placeholder-artist.svg"
+                                                                    }}
+                                                                />
+                                                                {/* active state veil */}
+                                                                {isActive && (
                                                                     <div
-                                                                        className="grid h-full w-full place-items-center text-[10px] uppercase tracking-[0.4em] text-white/50">
-                                                                        No art
+                                                                        onClick={() => handleToggleTrack(track)}
+                                                                        className="absolute inset-0 grid place-items-center bg-black/50 text-emerald-300 cursor-pointer">
+                                                                        <Disc3 className="h-5 w-5 animate-spin"/>
                                                                     </div>
                                                                 )}
-                                                                <div
-                                                                    className={cn(
-                                                                        'absolute inset-0 flex items-center justify-center bg-black/35 opacity-0 transition-opacity duration-200',
-                                                                        isActive ? 'opacity-100' : 'group-hover:opacity-100'
-                                                                    )}
-                                                                >
-                                                                    <span className="rounded-full bg-black/60 p-2 ring-1 ring-white/10">
-                                                                        {isActive ? (
-                                                                            <Pause className="h-5 w-5 text-white"/>
-                                                                        ) : (
-                                                                            <Play className="h-5 w-5 text-white"/>
-                                                                        )}
-                                                                    </span>
-                                                                </div>
-                                                            </button>
 
-                                                            <div className="space-y-3 text-center text-sm text-white md:pr-4 md:text-left">
-                                                                <div>
-                                                                    <h3 className="text-lg font-semibold text-white">
-                                                                        {track.name}
-                                                                    </h3>
-                                                                    <p className="text-sm text-white/60">
-                                                                        {artistLabel}
-                                                                    </p>
+                                                                {!isActive && (
+                                                                    <button
+                                                                        onClick={() => handleToggleTrack(track)}
+                                                                        disabled={!track.preview}
+                                                                        className="absolute inset-0 grid place-items-center opacity-0 transition-opacity duration-200 group-hover:opacity-100"
+                                                                        aria-label="Play preview"
+                                                                    >
+              <span className="rounded-full bg-black/60 p-2 ring-1 ring-white/10">
+                <Play className="h-5 w-5 text-white"/>
+              </span>
+                                                                    </button>
+                                                                )}
+                                                            </div>
+
+                                                            <div className="min-w-0 space-y-3 sm:space-y-2">
+                                                                <div
+                                                                    className="flex flex-col gap-2 sm:flex-row sm:flex-wrap sm:items-start sm:justify-between">
+                                                                    <div className="min-w-0 flex-1">
+                                                                        <div className="flex items-center gap-2">
+                                                                            <h3 className="text-base font-semibold text-white hover:underline cursor-pointer hover:underline-offset-4 line-clamp-2">
+                                                                                <a
+                                                                                    href={`https://open.spotify.com/track/${track.id}`}
+                                                                                    target="_blank"
+                                                                                    rel="noopener noreferrer"
+                                                                                    className="block line-clamp-2"
+                                                                                >
+                                                                                    {track.name}
+                                                                                </a>
+                                                                            </h3>
+                                                                        </div>
+                                                                        <p className="text-sm text-white/60 mt-1 line-clamp-1 text-[11px] tracking-wide">
+                                                                            {artistLabel}
+                                                                        </p>
+                                                                    </div>
                                                                 </div>
                                                                 <div
-                                                                    className="flex flex-wrap items-center justify-center gap-2 text-[11px] uppercase tracking-[0.25em] text-white/50 md:justify-start">
+                                                                    className="flex flex-wrap items-center justify-center gap-2 text-[11px] uppercase tracking-wide text-white/40 md:justify-start">
                                                                     {track.label && (
                                                                         <span
                                                                             className="rounded-full border border-white/10 bg-white/5 px-3 py-1">
@@ -1666,21 +1675,10 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                                                                     <p className="text-sm font-semibold text-white/80">
                                                                         {formatDate(track.releaseDate)}
                                                                     </p>
-                                                                    <p className="text-[11px] uppercase tracking-[0.35em] text-white/40">
-                                                                        {track.licensor ?? track.label ?? 'Independent'}
-                                                                    </p>
+                                                                    {track.licensor && track.licensor.length !== 32 && (<p className="text-[11px] uppercase tracking-[0.35em] text-white/40">
+                                                                        {track.licensor}
+                                                                    </p>)}
                                                                 </div>
-                                                                <Button
-                                                                    variant="secondary"
-                                                                    size="icon"
-                                                                    className="self-center rounded-full border-white/10 bg-white/10 text-white hover:bg-white/20 md:self-auto"
-                                                                    onClick={() => handleToggleTrack(track)}
-                                                                    disabled={!track.preview}
-                                                                    aria-label={isActive ? 'Pause' : 'Play preview'}
-                                                                >
-                                                                    {isActive ? <Pause className="h-5 w-5"/> :
-                                                                        <Play className="h-5 w-5"/>}
-                                                                </Button>
                                                             </div>
 
                                                             <span
