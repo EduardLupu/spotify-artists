@@ -15,7 +15,6 @@ import {
     Gauge,
     Loader2,
     Music4,
-    Pause,
     Play,
     Shuffle,
     Sparkles,
@@ -668,7 +667,7 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
         return [
             {label: 'First seen', value: formatDate(artist.meta.firstSeen)},
             {label: 'First top 500 entry', value: formatDate(artist.meta.first500)},
-            {label: 'Most recent top 500 exit', value: formatDate(artist.meta.last500)},
+            {label: 'Most recent top 500 exit', value: artist.today.r && artist.meta.timesEntered500 == 1 ? '-' : formatDate(artist.meta.last500)},
             {label: 'Times entered', value: `${artist.meta.timesEntered500}`},
             {label: 'Days in chart', value: `${artist.meta.days500} days`},
             {label: 'Best rank', value: artist.meta.br ? `#${artist.meta.br}` : '—'},
