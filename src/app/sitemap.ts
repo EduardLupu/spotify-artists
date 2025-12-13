@@ -9,7 +9,7 @@ const baseUrl = 'https://music.eduardlupu.com'
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const [payload, meta] = await Promise.all([getTop500Payload(), getMetaPayload()])
   const artists = mapTop500Rows(payload)
-  const lastModified = meta?.generatedAt ?? payload.date
+  const lastModified = new Date(meta?.generatedAt ?? payload.date)
 
   const urls: MetadataRoute.Sitemap = [
     { url: `${baseUrl}/`, lastModified },

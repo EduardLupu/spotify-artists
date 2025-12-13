@@ -4,34 +4,62 @@ import FormerArtistsClient from '@/app/former/FormerArtistsClient'
 import { getFormerPayload, mapFormerRows } from '@/lib/data'
 
 const siteName = "World's Top Artists"
+const siteUrl = 'https://music.eduardlupu.com'
+const pageTitle = `Former Top Artists | ${siteName}`
+const pageDescription =
+  'Archive of artists who dropped out of Top 500. See their last appearance, days away from the chart, and current monthly listeners.'
 
 export const metadata: Metadata = {
-  title: `Former Top Artists | ${siteName}`,
-  description:
-    "Explore artists who once ranked in the global Top 500 on Spotify. See when they last appeared, how long they have been absent, and their current audience footprint.",
+  title: pageTitle,
+  description: pageDescription,
   alternates: {
     canonical: '/former',
   },
+  keywords: [
+    'former top 500 artists',
+    'Spotify monthly listeners',
+    'artist chart history',
+    'dropped from Spotify charts',
+  ],
   openGraph: {
-    title: `Former Top Artists | ${siteName}`,
-    description:
-      'Archive of former Top 500 Spotify artists. Track the recency of their last chart appearance and current audience metrics.',
-    url: 'https://music.eduardlupu.com/former',
+    title: pageTitle,
+    description: pageDescription,
+    url: `${siteUrl}/former`,
+    siteName,
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: `Former Top Artists | ${siteName}`,
-    description:
-      'See which artists slipped out of the Top 500, how long they have been away, and their current listener base.',
+    title: pageTitle,
+    description: pageDescription,
   },
 }
 
 export const dynamic = 'force-static'
 
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: 'Former Top 500 Spotify artists',
+  description: pageDescription,
+  url: `${siteUrl}/former`,
+  breadcrumb: {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: siteUrl },
+      { '@type': 'ListItem', position: 2, name: 'Former Top Artists', item: `${siteUrl}/former` },
+    ],
+  },
+}
+
 export default async function FormerArtistsPage() {
   const payload = await getFormerPayload()
   const artists = mapFormerRows(payload)
 
-  return <FormerArtistsClient artists={artists} generatedAt={payload.date} />
+  return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <FormerArtistsClient artists={artists} generatedAt={payload.date} />
+    </>
+  )
 }
