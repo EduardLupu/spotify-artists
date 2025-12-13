@@ -635,14 +635,20 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
             },
             {
                 label: 'Freshness score',
-                value: `${Math.round(artist.today.fs ?? 0)}`,
-                hint: 'Higher = stronger momentum for new releases',
+                value:
+                    artist.today.fs === null || artist.today.fs === undefined
+                        ? '—'
+                        : artist.today.fs.toFixed(2),
+                hint: 'Measures short-term hype based on recent listener spikes and rank jumps.',
                 icon: Sparkles,
             },
             {
                 label: 'Momentum index',
-                value: artist.today.ms ? artist.today.ms.toFixed(1) : '—',
-                hint: 'Composite score across growth signals',
+                value:
+                    artist.today.ms === null || artist.today.ms === undefined
+                        ? '—'
+                        : artist.today.ms.toFixed(2),
+                hint: 'Shows how strongly this artist has been rising over the past month.',
                 icon: Activity,
             },
         ]
@@ -977,7 +983,7 @@ export default function ArtistPage({artistId}: ArtistPageProps) {
                     <span
                         className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1">
                       <Gauge className="h-3.5 w-3.5 text-emerald-300"/>
-                      Momentum {artist.today.ms ? artist.today.ms.toFixed(1) : '—'}
+                        Momentum {artist.today.ms === null || artist.today.ms === undefined ? '—' : artist.today.ms.toFixed(1)}
                     </span>
                                         <span
                                             className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1">

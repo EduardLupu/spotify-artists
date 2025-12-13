@@ -360,6 +360,15 @@ def clamp(value: float, lower: float = 0.0, upper: float = 1.0) -> float:
     return max(lower, min(value, upper))
 
 
+def scale_to_0_100(raw: float) -> float:
+    """
+    Map a raw score in roughly [-1, 1] to [0, 100] with 50 as neutral.
+    """
+    # raw in [-1,1] -> normalized in [0,1]
+    normalized = (raw + 1.0) / 2.0
+    score = 100.0 * normalized
+    return max(0.0, min(score, 100.0))
+
 def tanh_norm(value: float) -> float:
     return math.tanh(value)
 
@@ -1057,51 +1066,89 @@ class ArtistDataStore:
 
     @staticmethod
     def _freshness_score(history: Sequence[ArtistHistoryEntry]) -> float:
-        if not history:
+        # Not enough history → neutral
+        if len(history) < 2:
             return 0.0
+
         latest = history[-1]
         ml_today = latest.monthly_listeners or 0
+
+        # Use relative 7-day growth, compressing extremes a bit
         g7 = ArtistDataStore._growth(history, 7)
-        ml_ratio = g7 / max(ml_today, ML_FLOOR) if ml_today else 0.0
+        ml_ratio = 0.0
+        if ml_today:
+            # baseline between 1x and 5x ML_FLOOR to avoid huge acts dominating
+            baseline = max(ML_FLOOR, min(ml_today, 5 * ML_FLOOR))
+            ml_ratio = g7 / baseline
 
-        rank_today = latest.rank if latest.rank is not None else 500 + 100
+        # Rank component: how much rank has improved vs 7 days ago
+        rank_today = latest.rank if latest.rank is not None else TOP_ARTIST_LIMIT + 100
         rank_week = history[-8].rank if len(history) > 7 else None
-        rank_delta = 0.0
+        rank_delta_norm = 0.0
         if rank_week is not None:
-            rank_delta = (rank_week - rank_today) / 500
+            rank_delta_norm = (rank_week - rank_today) / TOP_ARTIST_LIMIT
 
-        w1, w2 = FRESHNESS_WEIGHTS
-        score = w1 * tanh_norm(ml_ratio) + w2 * tanh_norm(rank_delta)
-        return clamp(score)
+        w1, w2 = FRESHNESS_WEIGHTS  # still (0.6, 0.4)
+        raw = w1 * tanh_norm(ml_ratio) + w2 * tanh_norm(rank_delta_norm)
+
+        return scale_to_0_100(raw)
+
 
     @staticmethod
     def _momentum_score(history: Sequence[ArtistHistoryEntry]) -> float:
-        if not history:
+        # Very little history → neutral
+        if len(history) < 5:
             return 0.0
+
         latest = history[-1]
         ml_today = latest.monthly_listeners or 0
+
+        # 30-day relative growth
         g30 = ArtistDataStore._growth(history, 30)
-        ml_ratio = g30 / max(ml_today, ML_FLOOR) if ml_today else 0.0
+        ml_ratio = 0.0
+        if ml_today:
+            # baseline between 1x and 10x ML_FLOOR
+            baseline = max(ML_FLOOR, min(ml_today, 10 * ML_FLOOR))
+            ml_ratio = g30 / baseline
 
         recent_history = [entry for entry in history[-30:] if entry is not None]
         if len(recent_history) < 5:
-            return clamp(tanh_norm(ml_ratio))
+            # fallback: just growth
+            raw = tanh_norm(ml_ratio)
+            return scale_to_0_100(raw)
 
-        ranks = [entry.rank if entry.rank is not None else 500 + 100 for entry in recent_history]
-        first_avg = sum(ranks[: min(7, len(ranks))]) / min(7, len(ranks))
-        last_avg = sum(ranks[-min(7, len(ranks)) :]) / min(7, len(ranks))
-        rank_slope = (first_avg - last_avg) / 500
+        # Rank slope over the recent window (improvement over time)
+        ranks = [
+            entry.rank if entry.rank is not None else TOP_ARTIST_LIMIT + 100
+            for entry in recent_history
+        ]
+        window = min(7, len(ranks))
+        first_avg = sum(ranks[:window]) / window
+        last_avg = sum(ranks[-window:]) / window
+        rank_slope = (first_avg - last_avg) / TOP_ARTIST_LIMIT
 
-        ml_values = [entry.monthly_listeners for entry in recent_history if entry.monthly_listeners is not None]
+        # Volatility penalty (large swings → lower momentum)
+        ml_values = [
+            entry.monthly_listeners
+            for entry in recent_history
+            if entry.monthly_listeners is not None
+        ]
         variance_ratio = 0.0
         if len(ml_values) > 1 and ml_today:
             variance = statistics.pvariance(ml_values)
             std_dev = math.sqrt(variance)
-            variance_ratio = std_dev / max(ml_today, ML_FLOOR)
+            baseline = max(ML_FLOOR, ml_today)
+            variance_ratio = std_dev / baseline
 
         w3, w4, w5 = MOMENTUM_WEIGHTS
-        score = (w3 * tanh_norm(ml_ratio)) + (w4 * tanh_norm(rank_slope)) - (w5 * tanh_norm(variance_ratio))
-        return clamp(score)
+        raw = (
+                w3 * tanh_norm(ml_ratio)
+                + w4 * tanh_norm(rank_slope)
+                - w5 * tanh_norm(variance_ratio)
+        )
+
+        return scale_to_0_100(raw)
+
 
     def save_detail(
         self,
