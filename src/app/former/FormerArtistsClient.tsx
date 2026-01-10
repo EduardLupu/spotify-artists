@@ -20,6 +20,7 @@ import { Input } from '@/components/ui/input'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
 import Navbar from "@/components/navbar";
 import {Separator} from "@/components/ui/separator";
+import VirtualizedArtistList, { useResponsiveColumns } from '@/components/VirtualizedArtistList'
 
 type SortKey = 'recent' | 'listeners' | 'followers' | 'absence' | 'name' | 'rank'
 
@@ -75,6 +76,7 @@ type FormerArtistsClientProps = {
 export default function FormerArtistsClient({ artists, generatedAt }: FormerArtistsClientProps) {
   const [searchTerm, setSearchTerm] = useState('')
   const [sortKey, setSortKey] = useState<SortKey>('recent')
+  const columnCount = useResponsiveColumns({ base: 1, sm: 2, xl: 3 })
 
   const lastUpdated = useMemo(() => {
     if (!generatedAt) return '—'
@@ -310,12 +312,23 @@ export default function FormerArtistsClient({ artists, generatedAt }: FormerArti
           </div>
         </section>
 
-        <section className="grid gap-5 sm:grid-cols-2 xl:grid-cols-3">
-          {filtered.map((artist) => (
-            <FormerArtistCard key={artist.id} artist={artist} />
-          ))}
+        <section>
+          {filtered.length > 0 && (
+            <VirtualizedArtistList
+              items={filtered}
+              getItemKey={(artist) => artist.id}
+              renderItem={(artist, _index, { shouldRenderHeavy }) => (
+                <FormerArtistCard artist={artist} deferImages={!shouldRenderHeavy} />
+              )}
+              columnCount={columnCount}
+              overscan={10}
+              estimateSize={300}
+              measureDynamic
+              rowClassName="grid gap-5 pb-5 sm:grid-cols-2 xl:grid-cols-3"
+            />
+          )}
           {filtered.length === 0 && (
-            <div className="col-span-full flex h-48 items-center justify-center rounded-3xl border border-dashed border-white/10 bg-black/40 text-sm text-white/60">
+            <div className="flex h-48 items-center justify-center rounded-3xl border border-dashed border-white/10 bg-black/40 text-sm text-white/60">
               No former artists match your search. Try a different query.
             </div>
           )}
@@ -325,8 +338,9 @@ export default function FormerArtistsClient({ artists, generatedAt }: FormerArti
   )
 }
 
-function FormerArtistCard({ artist }: { artist: FormerArtist }) {
-  const imageSrc = artist.imageHash ? `https://i.scdn.co/image/${artist.imageHash}` : undefined
+function FormerArtistCard({ artist, deferImages = false }: { artist: FormerArtist; deferImages?: boolean }) {
+  const imageSrc =
+    deferImages || !artist.imageHash ? '/placeholder-artist.svg' : `https://i.scdn.co/image/${artist.imageHash}`
   const lastSeen = formatDate(artist.lastTop500)
   const absenceLabel = formatDaysLabel(artist.daysSince)
 
@@ -337,18 +351,14 @@ function FormerArtistCard({ artist }: { artist: FormerArtist }) {
       <CardHeader className="flex flex-row items-start gap-4 pb-4">
         <div className="relative">
           <Avatar className="h-16 w-16 ring-1 ring-white/10 ring-offset-2 ring-offset-black/40">
-            {imageSrc ? (
-              <AvatarImage
-                src={imageSrc}
-                alt={artist.name}
-                className="object-cover"
-                onError={(event) => {
-                  event.currentTarget.src = '/placeholder-artist.svg'
-                }}
-              />
-            ) : (
-              <AvatarImage src="/placeholder-artist.svg" alt={artist.name} />
-            )}
+            <AvatarImage
+              src={imageSrc}
+              alt={artist.name}
+              className="object-cover"
+              onError={(event) => {
+                event.currentTarget.src = '/placeholder-artist.svg'
+              }}
+            />
             <AvatarFallback>{artist.name.slice(0, 2).toUpperCase()}</AvatarFallback>
           </Avatar>
         </div>

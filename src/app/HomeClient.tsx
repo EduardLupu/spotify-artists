@@ -7,7 +7,6 @@ import {
   ArrowUpRight,
   BadgeCheck,
   CalendarCheck,
-  ChevronDown,
   Disc3,
   Globe2,
   Loader2,
@@ -19,11 +18,11 @@ import {
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
-import { ScrollArea } from '@/components/ui/scroll-area'
 import { Separator } from '@/components/ui/separator'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar'
 import { Input } from '@/components/ui/input'
+import VirtualizedArtistList, { useResponsiveColumns } from '@/components/VirtualizedArtistList'
 import Navbar from "@/components/navbar";
 
 interface Artist {
@@ -76,9 +75,10 @@ function formatDelta(value: number | null) {
   return `${value > 0 ? '+' : ''}${value}`
 }
 
-function ArtistCard({ artist }: { artist: Artist }) {
+function ArtistCard({ artist, deferImages = false }: { artist: Artist; deferImages?: boolean }) {
   const rankMovement = artist.dr ?? 0
   const showDelta = Number.isFinite(rankMovement)
+  const imageSrc = deferImages ? '/placeholder-artist.svg' : `https://i.scdn.co/image/${artist.p}`
 
   return (
     <Link href={`/artist/${artist.i}`} className="group">
@@ -88,7 +88,7 @@ function ArtistCard({ artist }: { artist: Artist }) {
           <div className="relative">
             <Avatar className="h-14 w-14 ring-1 ring-white/10 ring-offset-2 ring-offset-black/40">
               <AvatarImage
-                src={`https://i.scdn.co/image/${artist.p}`}
+                src={imageSrc}
                 alt={artist.n}
                 className="object-cover"
                 onError={(event) => {
@@ -170,8 +170,8 @@ export default function HomeClient() {
   const [loading, setLoading] = useState(true)
   const [searchTerm, setSearchTerm] = useState('')
   const [view, setView] = useState<ViewKey>('rank')
-  const [visibleCount, setVisibleCount] = useState(24)
   const [lastUpdated, setLastUpdated] = useState<string | null>(null)
+  const columnCount = useResponsiveColumns({ base: 1, sm: 2, lg: 3 })
 
   useEffect(() => {
     const fetchArtists = async () => {
@@ -254,14 +254,6 @@ export default function HomeClient() {
 
     return { totalMonthlyListeners, avgMomentum, topGrowth, freshCount }
   }, [artists])
-
-  const totalArtists = orderedArtists.length
-  const remaining = Math.max(totalArtists - visibleCount, 0)
-  const nextBatchSize = Math.min(18, remaining)
-  const progressRatio = totalArtists ? Math.min(visibleCount / totalArtists, 1) : 0
-  const remainingAfterNext = Math.max(remaining - nextBatchSize, 0)
-  const progressWidth = progressRatio > 0 ? Math.max(6, progressRatio * 100) : 0
-  const loadMoreHelper = remainingAfterNext > 0 ? `${remainingAfterNext} more after this batch.` : 'You\'re about to see the full list.'
 
   if (loading) {
     return (
@@ -456,47 +448,23 @@ export default function HomeClient() {
             </div>
 
             <TabsContent value={view}>
-              <ScrollArea className="max-h-[none]">
-                <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-                  {orderedArtists.slice(0, visibleCount).map((artist) => (
-                    <ArtistCard key={artist.i} artist={artist} />
-                  ))}
-                </div>
-              </ScrollArea>
+              {orderedArtists.length > 0 && (
+                <VirtualizedArtistList<Artist>
+                  items={orderedArtists}
+                  getItemKey={(artist) => artist.i}
+                  renderItem={(artist, _index, { shouldRenderHeavy }) => (
+                    <ArtistCard artist={artist} deferImages={!shouldRenderHeavy} />
+                  )}
+                  columnCount={columnCount}
+                  overscan={10}
+                  estimateSize={320}
+                  measureDynamic
+                  rowClassName="grid gap-5 pb-5 sm:grid-cols-2 lg:grid-cols-3"
+                />
+              )}
               {orderedArtists.length === 0 && (
                 <div className="flex h-48 items-center justify-center rounded-2xl border border-dashed border-white/10 bg-white/5 text-sm text-white/60">
                   No artists match your filters. Try a different search.
-                </div>
-              )}
-              {orderedArtists.length > visibleCount && (
-                <div className="mt-10 flex flex-col items-center gap-5 rounded-3xl border border-white/10 bg-black/40 p-6 text-sm text-white/70 shadow-lg shadow-black/30">
-                  <div className="w-full space-y-2">
-                    <div className="flex items-center justify-between text-[11px] uppercase tracking-[0.35em] text-white/40">
-                      <span>Viewing</span>
-                      <span>
-                        {Math.min(visibleCount, totalArtists)} / {totalArtists}
-                      </span>
-                    </div>
-                    <div className="h-1.5 w-full rounded-full bg-white/10">
-                      <div
-                        className="h-full rounded-full bg-emerald-400/70 transition-all"
-                        style={{ width: `${progressWidth}%` }}
-                      />
-                    </div>
-                  </div>
-                  <Button
-                    variant="secondary"
-                    className="group rounded-full border-white/10 bg-emerald-400/15 px-6 py-2 text-white transition-all hover:bg-emerald-400/25"
-                    onClick={() =>
-                      setVisibleCount((previous) => Math.min(previous + 18, totalArtists))
-                    }
-                  >
-                    <span className="inline-flex items-center gap-2 text-sm font-semibold">
-                      Reveal next {nextBatchSize || 18} artists
-                      <ChevronDown className="h-4 w-4 transition-transform group-hover:translate-y-0.5" />
-                    </span>
-                  </Button>
-                  <p className="text-xs text-white/45">{loadMoreHelper}</p>
                 </div>
               )}
             </TabsContent>
